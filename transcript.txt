@@ -1,0 +1,46 @@
+[10.21s - 11.72s] Unknown: Hey Lawrence, happy Monday.
+[11.74s - 12.20s] Unknown: Happy Monday.
+[12.88s - 13.94s] Unknown: Did you have a good weekend?
+[14.08s - 15.18s] Unknown: Yeah, really good weekend.
+[15.20s - 17.07s] Unknown: It was a bit busy, but had a lot of fun.
+[17.13s - 17.53s] Unknown: How about you?
+[18.05s - 19.25s] Unknown: Yeah, mine was good.
+[19.37s - 20.94s] Unknown: I just had a relaxing one.
+[21.34s - 22.52s] Unknown: Yeah, had a big week.
+[22.86s - 27.50s] Unknown: Yeah well first week on the new job so yeah I just wanted to chill out with my family at home.
+[27.93s - 29.07s] Unknown: How are you settling in with everything?
+[29.45s - 30.37s] Unknown: Yeah not too bad.
+[30.41s - 32.45s] Unknown: It's been a steep learning curve though.
+[32.91s - 33.77s] Unknown: Yeah I can imagine.
+[33.89s - 36.58s] Unknown: I've been in for four years and I only recently switched departments.
+[36.78s - 37.24s] Unknown: Oh really?
+[37.28s - 38.28s] Unknown: When did that happen?
+[38.74s - 39.68s] Unknown: About two months ago.
+[39.70s - 42.77s] Unknown: I mean not much has changed but there's just new stuff to learn.
+[43.06s - 44.13s] Unknown: Yeah I know what you mean.
+[44.15s - 46.53s] Unknown: So what made you change departments?
+[46.51s - 49.26s] Unknown: Well, this new role came up and I was pretty interested in it.
+[49.66s - 53.00s] Unknown: And it came with a bit of a pay rise as well, so I thought I'd give it a go.
+[53.04s - 54.73s] Unknown: So you're making heaps more money, that's good.
+[55.41s - 61.52s] Unknown: I wouldn't say heaps more money, but the role does come with more responsibility, so the increase in pay is kind of justified.
+[61.56s - 62.88s] Unknown: Yeah, no, that's fair enough.
+[63.94s - 67.59s] Unknown: Yeah, another thing I'm adjusting to is living with my parents again.
+[68.40s - 71.83s] Unknown: So you moved here for the new job, and now you're living with your parents?
+[71.85s - 72.53s] Unknown: Yeah, that's right.
+[72.59s - 77.61s] Unknown: So I moved out of home when I finished uni, and then I've just moved back in with mum and dad.
+[77.69s - 81.86s] Unknown: So I'm still adjusting, but they're over the moon that I'm back.
+[81.88s - 82.68s] Unknown: You're kidding.
+[82.86s - 85.22s] Unknown: My parents were so happy the moment I left.
+[85.66s - 86.24s] Unknown: No way.
+[86.28s - 90.08s] Unknown: OK, maybe more relieved than happy.
+[90.94s - 91.92s] Unknown: I like to think anyway.
+[91.97s - 94.75s] Unknown: So how do you keep in touch with them now?
+[95.17s - 98.15s] Unknown: Well, we catch up once a month, and we go to get lunch.
+[98.47s - 101.82s] Unknown: As much as I do miss them, I still appreciate having time to myself.
+[102.38s - 103.61s] Unknown: Yeah, no, I know what you mean.
+[103.67s - 104.43s] Unknown: I'm a bit the same.
+[104.99s - 107.38s] Unknown: Well, it was good talking to you, but I'd better get back to work.
+[107.40s - 107.62s] Unknown: All good.
+[107.68s - 108.12s] Unknown: Have a good day.
+[108.28s - 108.86s] Unknown: You too.
+[109.06s - 109.14s] Unknown: Bye.
