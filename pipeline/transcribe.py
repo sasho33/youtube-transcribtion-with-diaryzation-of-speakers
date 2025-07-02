@@ -8,9 +8,12 @@ import glob
 import os
 import torch
 
-os.add_dll_directory(
-    r"C:\Users\Rayman\Desktop\University\Master Dissertation\Programming\python 309_v2\venv\Lib\site-packages\torch\lib"
-)
+torch.backends.cuda.matmul.allow_tf32 = True
+torch.backends.cudnn.allow_tf32 = True
+
+# os.add_dll_directory(
+#     r"C:\Users\Rayman\Desktop\University\Master Dissertation\Programming\python 309_v2\venv\Lib\site-packages\torch\lib"
+# )
 
 def slugify_filename(filename):
     name = unicodedata.normalize("NFKD", filename)
@@ -85,7 +88,7 @@ def transcribe_with_diarization(audio_file, hf_token=None):
         print("Performing speaker diarization...")
         try:
             diarize_model = whisperx.diarize.DiarizationPipeline(use_auth_token=hf_token, device=device)
-            diarize_segments = diarize_model(audio, min_speakers=2, max_speakers=2)
+            diarize_segments = diarize_model(audio, min_speakers=2, max_speakers=5)
             print(f"diarize_segments: {len(diarize_segments)} segments found, content: {diarize_segments[:5]}")
             result = whisperx.assign_word_speakers(diarize_segments, result)
             del diarize_model
