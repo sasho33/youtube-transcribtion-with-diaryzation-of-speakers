@@ -56,9 +56,11 @@ def download_youtube_audio(url, output_path="./audio"):
 
 
 def transcribe_with_diarization(audio_file, hf_token=None):
+    
     device = "cuda"
-    batch_size = 8
+    batch_size = 4
     compute_type = "float16"
+    language = "en"
 
     print("Loading Whisper model...")
     model = whisperx.load_model("large-v2", device, compute_type=compute_type, local_files_only=False)
@@ -67,24 +69,24 @@ def transcribe_with_diarization(audio_file, hf_token=None):
     audio = whisperx.load_audio(audio_file)
 
     print("Transcribing...")
-    result = model.transcribe(audio, batch_size=batch_size)
-    print(f"Detected language: {result['language']}")
-
+    result = model.transcribe(audio, batch_size=batch_size, language="en")
+    
     del model
     gc.collect()
 
-    print("Aligning transcription...")
-    model_a, metadata = whisperx.load_align_model(language_code=result["language"], device=device)
-    result = whisperx.align(result["segments"], model_a, metadata, audio, device, return_char_alignments=False)
+    # print("Aligning transcription...")
+    # model_a, metadata = whisperx.load_align_model(language_code=result["language"], device=device)
+    # result = whisperx.align(result["segments"], model_a, metadata, audio, device, return_char_alignments=False)
 
-    del model_a
+    # del model_a
     gc.collect()
 
     if hf_token:
         print("Performing speaker diarization...")
         try:
-            diarize_model = whisperx.DiarizationPipeline(use_auth_token=hf_token, device=device)
-            diarize_segments = diarize_model(audio)
+            diarize_model = whisperx.diarize.DiarizationPipeline(use_auth_token=hf_token, device=device)
+            diarize_segments = diarize_model(audio, min_speakers=2, max_speakers=2)
+            print(f"diarize_segments: {len(diarize_segments)} segments found, content: {diarize_segments[:5]}")
             result = whisperx.assign_word_speakers(diarize_segments, result)
             del diarize_model
             gc.collect()
@@ -120,7 +122,7 @@ def print_transcript_preview(result):
         print(f"... and {len(result['segments']) - 5} more segments")
 
 if __name__ == "__main__":
-    youtube_url = "https://www.youtube.com/watch?v=KysPzRkN9uw"
+    youtube_url = "https://www.youtube.com/watch?v=jFsV6FydeJc"
     hf_token = "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"  # Or None to skip diarization
 
     try:
@@ -140,6 +142,7 @@ if __name__ == "__main__":
         print_transcript_preview(result)
         print(f"\nTotal segments: {len(result['segments'])}")
         print("Transcription completed successfully!")
+        os.remove(audio_file)
 
     except Exception as e:
         print(f"\n❌ Error occurred: {e}")

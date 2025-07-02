@@ -36,3 +36,6 @@ dist/
 # MyPy and Pylint caches
 .mypy_cache/
 .pylint.d/
+
+audio/*.wav
+audio/
