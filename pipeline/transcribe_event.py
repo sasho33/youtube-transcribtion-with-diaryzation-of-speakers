@@ -105,11 +105,14 @@ def process_single_event(target_title, channels=None):
                     title = video.title
                     
                     # Optional: Modify title based on specific conditions
-                    if ch_cfg.get("label") == "East vs West 17 Main":
+                    if ch_cfg.get("label") == "East vs West Main":
                         title = f'{video.title} with Engin Terzi (interviewer)'
+                        print("Terzi detected")
 
                     print(f"Processing video: {title}, date: {naive_date}")
-                    transcribe_youtube_video(url, title, target_title)
+                    # transcribe_youtube_video(url, title, target_title)
+                    if transcribe_youtube_video(url, title, target_title) is None:
+                        continue
 
                 except Exception as video_error:
                     print(f"❌ Error processing individual video: {video_error}")
@@ -130,4 +133,4 @@ if __name__ == "__main__":
             "source_type": "live"
         },
     ]
-    process_single_event("East vs West 8", channels=channels)
+    process_single_event("East vs West 17", channels=channels)
