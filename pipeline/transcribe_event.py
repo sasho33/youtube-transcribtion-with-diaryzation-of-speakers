@@ -105,7 +105,7 @@ def process_single_event(target_title, channels=None):
                     title = video.title
                     
                     # Optional: Modify title based on specific conditions
-                    if ch_cfg.get("label") == "East vs West Main":
+                    
                     if ch_cfg.get("label") == "East vs West Main":
                         title = f'{video.title} with Engin Terzi (interviewer)'
                         print("Terzi detected")
