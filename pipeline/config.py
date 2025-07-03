@@ -9,3 +9,5 @@ EVW_EVENTS_FILE = DATA_DIR / "events" / "east_vs_west_events.json"
 KOTT_EVENTS_FILE = DATA_DIR / "events" / "kott_events.json"
 HF_TOKEN = "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"
 SHALLOWSEEK_APIK="sk-0cc54fb71e7c4b4381d5fafad5e7d1f5"
+
+
