@@ -44,6 +44,9 @@ def process_single_event(target_title, channels=None):
     print(f"\n📦 Processing event: {event_title}")
     print(f"   🔍 Date range: {start_date.date()} to {end_date.date()}")
 
+    # List to store videos to be processed
+    videos_to_process = []
+
     for ch_cfg in channels:
         label = ch_cfg["label"]
         source_type = ch_cfg["source_type"]
@@ -52,9 +55,8 @@ def process_single_event(target_title, channels=None):
         try:
             if source_type == "live":
                 ch = Channel(ch_cfg["channel_url"])
-                # Add error checking for videos
                 try:
-                    videos = list(ch.live)  # Convert to list to check length
+                    videos = list(ch.live)
                 except Exception as e:
                     print(f"❌ Error fetching live videos: {e}")
                     videos = []
@@ -62,7 +64,7 @@ def process_single_event(target_title, channels=None):
             elif source_type == "videos":
                 ch = Channel(ch_cfg["channel_url"])
                 try:
-                    videos = list(ch.videos)  # Convert to list to check length
+                    videos = list(ch.videos)
                 except Exception as e:
                     print(f"❌ Error fetching channel videos: {e}")
                     videos = []
@@ -70,7 +72,7 @@ def process_single_event(target_title, channels=None):
             elif source_type == "playlist":
                 pl = Playlist(ch_cfg["playlist_url"])
                 try:
-                    videos = list(pl.videos)  # Convert to list to check length
+                    videos = list(pl.videos)
                 except Exception as e:
                     print(f"❌ Error fetching playlist videos: {e}")
                     videos = []
@@ -79,10 +81,8 @@ def process_single_event(target_title, channels=None):
                 print(f"⚠️  Unsupported source_type: {source_type}")
                 continue
 
-            # Debugging: Print total number of videos
-            print(f"Total videos found: {len(videos)}")
-
-            count = 0
+            # Filter and collect videos
+            filtered_videos = []
             for video in videos:
                 try:
                     if not video.publish_date:
@@ -96,31 +96,51 @@ def process_single_event(target_title, channels=None):
                     if ch_cfg["label"] == "East vs West Main" and "podcast" not in video.title.lower():
                         continue
 
-                    count += 1
-                    print(f"\n🎞️  [{count}] {video.title}")
-                    print(f"    🗓 Published: {naive_date}")
-                    print(f"    🔗 {video.watch_url}")
-
-                    url = video.watch_url
-                    title = video.title
-                    
-                    # Optional: Modify title based on specific conditions
-                    if ch_cfg.get("label") == "East vs West Main":
-                    if ch_cfg.get("label") == "East vs West Main":
-                        title = f'{video.title} with Engin Terzi (interviewer)'
-                        print("Terzi detected")
-
-                    print(f"Processing video: {title}, date: {naive_date}")
-                    # transcribe_youtube_video(url, title, target_title)
-                    if transcribe_youtube_video(url, title, target_title) is None:
-                        continue
+                    filtered_videos.append({
+                        'title': video.title,
+                        'url': video.watch_url,
+                        'date': naive_date,
+                        'channel': label
+                    })
 
                 except Exception as video_error:
-                    print(f"❌ Error processing individual video: {video_error}")
-                    traceback.print_exc()
+                    print(f"❌ Error checking video: {video_error}")
+
+            videos_to_process.extend(filtered_videos)
 
         except Exception as e:
             print(f"❌ Error processing {label}: {e}")
+            traceback.print_exc()
+
+    # Preview videos to be processed
+    print("\n📋 Videos to be Processed:")
+    if not videos_to_process:
+        print("   No videos found matching the criteria.")
+        return
+
+    for i, video in enumerate(videos_to_process, 1):
+        print(f"{i}. {video['title']}")
+        print(f"   Channel: {video['channel']}")
+        print(f"   Date: {video['date']}")
+        print(f"   URL: {video['url']}\n")
+
+   
+    # Process videos
+    for video in videos_to_process:
+        try:
+            title = video['title']
+            url = video['url']
+            
+            # Optional: Modify title based on specific conditions
+            if video['channel'] == "East vs West Main":
+                title = f'{title} with Engin Terzi (interviewer)'
+
+            print(f"\nProcessing video: {title}, date: {video['date']}")
+            if transcribe_youtube_video(url, title, target_title) is None:
+                continue
+
+        except Exception as video_error:
+            print(f"❌ Error processing individual video: {video_error}")
             traceback.print_exc()
 
     print(f"\n📁 Saved all transcripts for '{event_title}' to {TRANSCRIPT_DIR}")
@@ -134,4 +154,4 @@ if __name__ == "__main__":
             "source_type": "live"
         },
     ]
-    process_single_event("East vs West 17", channels=channels)
+    process_single_event("East vs West 13", channels=channels)
