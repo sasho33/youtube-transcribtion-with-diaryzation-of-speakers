@@ -44,7 +44,7 @@ def transcribe_youtube_video(youtube_url, video_title = "Unknown podkast", event
     print("→ Using Hugging Face token:", hf_token)
 
     device = "cuda"
-    batch_size = 4
+    batch_size = 10
     compute_type = "float16"
     language = "en"
     
@@ -54,7 +54,7 @@ def transcribe_youtube_video(youtube_url, video_title = "Unknown podkast", event
     result = model.transcribe(str(audio_path), batch_size=batch_size)
 
     print("→ Starting diarization...")
-    diarize_model = whisperx.diarize.DiarizationPipeline(use_auth_token=hf_token, device=device)
+    diarize_model = whisperx.diarize.DiarizationPipeline(model_name="pyannote/speaker-diarization-3.1", use_auth_token=hf_token, device=device)
     diarize_segments = diarize_model(str(audio_path))
     result = whisperx.assign_word_speakers(diarize_segments, result)
 
