@@ -130,4 +130,4 @@ if __name__ == "__main__":
             "source_type": "live"
         },
     ]
-    process_single_event("East vs West 17", channels=channels)
+    process_single_event("East vs West 8", channels=channels)
