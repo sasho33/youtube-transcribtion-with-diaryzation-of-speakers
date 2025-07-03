@@ -3,17 +3,12 @@ import yt_dlp
 import os
 import gc
 import unicodedata
-import re
-import glob
 import os
 import torch
 
 torch.backends.cuda.matmul.allow_tf32 = True
 torch.backends.cudnn.allow_tf32 = True
 
-# os.add_dll_directory(
-#     r"C:\Users\Rayman\Desktop\University\Master Dissertation\Programming\python 309_v2\venv\Lib\site-packages\torch\lib"
-# )
 
 def slugify_filename(filename):
     name = unicodedata.normalize("NFKD", filename)
@@ -61,12 +56,12 @@ def download_youtube_audio(url, output_path="./audio"):
 def transcribe_with_diarization(audio_file, hf_token=None):
     
     device = "cuda"
-    batch_size = 4
+    batch_size = 12
     compute_type = "float16"
     language = "en"
 
     print("Loading Whisper model...")
-    model = whisperx.load_model("large-v2", device, compute_type=compute_type, local_files_only=False)
+    model = whisperx.load_model("large-v3", device, compute_type=compute_type, local_files_only=False)
 
     print("Loading audio...")
     audio = whisperx.load_audio(audio_file)
@@ -88,7 +83,7 @@ def transcribe_with_diarization(audio_file, hf_token=None):
         print("Performing speaker diarization...")
         try:
             diarize_model = whisperx.diarize.DiarizationPipeline(use_auth_token=hf_token, device=device)
-            diarize_segments = diarize_model(audio, min_speakers=2, max_speakers=5)
+            diarize_segments = diarize_model(audio, min_speakers=3, max_speakers=4)
             print(f"diarize_segments: {len(diarize_segments)} segments found, content: {diarize_segments[:5]}")
             result = whisperx.assign_word_speakers(diarize_segments, result)
             del diarize_model
