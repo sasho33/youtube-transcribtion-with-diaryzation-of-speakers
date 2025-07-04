@@ -27,7 +27,9 @@ def transcribe_youtube_video(
     youtube_url, 
     video_title="Unknown podkast", 
     event_title="Unknown Event", 
- 
+    language="en", 
+    batch_size=6, 
+    beam_size=5
 ):
     safe_title = re.sub(r'[^\w\-_\. ]', '_', video_title).strip()
 
@@ -66,9 +68,9 @@ def transcribe_youtube_video(
             # Transcribe
             segments, info = whisper_model.transcribe(
                 str(audio_path), 
-                beam_size=5,
-                language='en',
-                batch_size=6
+                beam_size=beam_size,
+                language=language,
+                batch_size=batch_size
             )
 
             # Speaker Diarization with Pyannote
