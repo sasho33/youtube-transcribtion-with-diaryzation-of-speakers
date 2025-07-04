@@ -23,14 +23,7 @@ def cleanup_audio_file(audio_path):
     except Exception as e:
         print(f"❌ Error deleting audio file {audio_path}: {e}")
 
-def transcribe_youtube_video(
-    youtube_url, 
-    video_title="Unknown podkast", 
-    event_title="Unknown Event", 
-    language="en", 
-    batch_size=6, 
-    beam_size=5
-):
+def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_title="Unknown Event"):
     safe_title = re.sub(r'[^\w\-_\. ]', '_', video_title).strip()
 
     # Prepare audio and transcript paths
@@ -57,7 +50,7 @@ def transcribe_youtube_video(
         compute_type = "float16"
         
         try:
-            print(f"→ Starting transcription with Faster Whisper (Lang: {language}, Batch: {batch_size}, Beam: {beam_size})...")
+            print("→ Starting transcription with Faster Whisper...")
             # Initialize Faster Whisper model
             whisper_model = WhisperModel(
                 "large-v2", 
@@ -68,9 +61,8 @@ def transcribe_youtube_video(
             # Transcribe
             segments, info = whisper_model.transcribe(
                 str(audio_path), 
-                beam_size=beam_size,
-                language=language,
-                batch_size=batch_size
+                beam_size=5,
+                language="en"
             )
 
             # Speaker Diarization with Pyannote
@@ -147,6 +139,5 @@ if __name__ == "__main__":
     transcribe_youtube_video(
         "https://www.youtube.com/watch?v=jFsV6FydeJc", 
         "Cvetkov and Terzi", 
-        "East vs West 17",
-          
+        "East vs West 17"
     )
