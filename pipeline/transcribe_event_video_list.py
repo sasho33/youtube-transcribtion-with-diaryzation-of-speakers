@@ -93,7 +93,7 @@ def process_single_event(target_title, channels=None):
                         continue
 
                     # Additional filtering
-                    if ch_cfg["label"] == "East vs West Main" and "podcast" not in video.title.lower():
+                    if ch_cfg["label"] == "East vs West Main" or ch_cfg["label"] == "Engin Terzi Enigma of rage" and "podcast" not in video.title.lower():
                         continue
 
                     filtered_videos.append({
