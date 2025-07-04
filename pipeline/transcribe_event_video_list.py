@@ -7,7 +7,7 @@ import traceback
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 from pipeline.config import EVW_EVENTS_FILE, TRANSCRIPT_DIR
-from pipeline.transcribe_event_video_list import transcribe_youtube_video
+
 
 def parse_date_flexible(date_str):
     for fmt in ("%Y-%m-%d", "%B %d, %Y"):
@@ -93,8 +93,10 @@ def process_single_event(target_title, channels=None):
                         continue
 
                     # Additional filtering
-                    if ch_cfg["label"] == "East vs West Main" or ch_cfg["label"] == "Engin Terzi Enigma of rage" and "podcast" not in video.title.lower():
-                        continue
+                    if ch_cfg["label"] == "East vs West Main" or ch_cfg["label"] == "Engin Terzi Enigma of rage":
+                        if "podcast" not in video.title.lower() or "interview" not in video.title.lower():
+                            continue
+                        
 
                     filtered_videos.append({
                         'title': video.title,
