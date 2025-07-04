@@ -23,7 +23,13 @@ def cleanup_audio_file(audio_path):
     except Exception as e:
         print(f"❌ Error deleting audio file {audio_path}: {e}")
 
-def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_title="Unknown Event"):
+def transcribe_youtube_video(
+    youtube_url, 
+    video_title="Unknown podkast", 
+    event_title="Unknown Event", 
+    language="en",  # Configurable language
+    batch_size=16   # Configurable batch size
+):
     safe_title = re.sub(r'[^\w\-_\. ]', '_', video_title).strip()
 
     # Prepare audio and transcript paths
@@ -50,7 +56,7 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
         device = "cuda" if torch.cuda.is_available() else "cpu"
         
         try:
-            print("→ Starting transcription with Whisper...")
+            print(f"→ Starting transcription with Whisper (Language: {language}, Batch Size: {batch_size})...")
             # Load Whisper model
             model = whisper.load_model("large-v2", device=device)
             
@@ -58,7 +64,7 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
             print("→ Transcribing audio...")
             result = model.transcribe(
                 str(audio_path), 
-                language="en", 
+                language=language,  # Use provided language 
                 fp16=device == "cuda"
             )
 
@@ -122,6 +128,13 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
 
 
 if __name__ == "__main__":
+    transcribe_youtube_video(
+        "https://www.youtube.com/watch?v=jFsV6FydeJc", 
+        "Cvetkov and Terzi", 
+        "East vs West 17",
+        language="en",     # Specify language
+        batch_size=4      # Specify batch size
+    )
     transcribe_youtube_video(
         "https://www.youtube.com/watch?v=jFsV6FydeJc", 
         "Cvetkov and Terzi", 
