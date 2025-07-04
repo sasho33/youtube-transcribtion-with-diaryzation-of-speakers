@@ -93,10 +93,15 @@ def process_single_event(target_title, channels=None):
                         continue
 
                     # Additional filtering
-                    if ch_cfg["label"] == "East vs West Main" or ch_cfg["label"] == "Engin Terzi Enigma of rage":
-                        if "podcast" not in video.title.lower() or "interview" not in video.title.lower():
-                            continue
+                    if ch_cfg["label"] in ["East vs West Main", "Engin Terzi Enigma of rage"]:
+                    # Strict podcast or interview detection
+                        is_podcast = any(keyword in video.title.lower() for keyword in [
+                            'podcast', 
+                            'interview'
+                        ])
                         
+                        if not is_podcast:
+                            continue
 
                     filtered_videos.append({
                         'title': video.title,
@@ -104,6 +109,8 @@ def process_single_event(target_title, channels=None):
                         'date': naive_date,
                         'channel': label
                     })
+
+                    print(f"✅ Found video: {video.title} ({naive_date}) - {video.watch_url}")
 
                 except Exception as video_error:
                     print(f"❌ Error checking video: {video_error}")
