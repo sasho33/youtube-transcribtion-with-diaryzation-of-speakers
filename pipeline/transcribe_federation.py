@@ -6,7 +6,7 @@ from pathlib import Path
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 
 from pipeline.config import EVW_EVENTS_FILE
-from pipeline.event import process_single_event
+from pipeline.transcribe_event_video_list import process_single_event
 
 def transcribe_federation(events_file, channels=None):
     """
