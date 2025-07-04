@@ -49,7 +49,7 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
         print("→ Using Hugging Face token:", hf_token)
 
         device = "cuda"
-        batch_size = 4
+        batch_size = 6
         compute_type = "float16"
         language = "en"
         
