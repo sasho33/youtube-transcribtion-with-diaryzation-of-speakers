@@ -109,7 +109,7 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
                 lang_codes=['en'],
                 tasks=['transcribe'],
                 initial_prompts=[None],
-                batch_size=8
+                batch_size=12
             )
             
             # Extract transcription results
