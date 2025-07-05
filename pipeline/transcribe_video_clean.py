@@ -89,7 +89,8 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
                 diarize_model = whisperx.diarize.DiarizationPipeline(
                     model_name="pyannote/speaker-diarization-3.1", 
                     use_auth_token=hf_token, 
-                    device=device
+                    device=device, 
+                    
                 )
                 diarize_segments = diarize_model(str(audio_path), min_speakers=2, max_speakers=5)
                 result = whisperx.assign_word_speakers(diarize_segments, result)
