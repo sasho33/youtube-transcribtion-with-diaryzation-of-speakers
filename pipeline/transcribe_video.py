@@ -55,7 +55,7 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
         
         try:
             print("→ Starting transcription with WhisperX...")
-            model = whisperx.load_model("large-v3", device, compute_type=compute_type, language=language)
+            model = whisperx.load_model("large-v2", device, compute_type=compute_type, language=language)
             result = model.transcribe(str(audio_path), batch_size=batch_size)
 
             print("→ Starting diarization...")

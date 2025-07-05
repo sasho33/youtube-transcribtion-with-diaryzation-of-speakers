@@ -7,6 +7,7 @@ import traceback
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 from pipeline.config import EVW_EVENTS_FILE, TRANSCRIPT_DIR
+from pipeline.transcribe_video import transcribe_youtube_video
 
 
 
@@ -88,6 +89,8 @@ def process_single_event(target_title, channels=None):
                 try:
                     if not video.publish_date:
                         continue
+                    
+                    print(f"🔍 Checking video: {video.title} ({video.publish_date})")
 
                     naive_date = video.publish_date.replace(tzinfo=None)
                     if not (start_date <= naive_date <= end_date):
