@@ -25,7 +25,7 @@ def parse_date_flexible(date_str):
 
 def fetch_channel_videos(youtube, channel_id, start_date, end_date):
     """
-    Fetch videos from a YouTube channel using YouTube Data API
+    Fetch live videos from a YouTube channel using YouTube Data API
     
     Args:
         youtube (Resource): YouTube API resource
@@ -52,11 +52,12 @@ def fetch_channel_videos(youtube, channel_id, start_date, end_date):
     ]
     
     try:
-        # Request search results
+        # Request live videos
         request = youtube.search().list(
             part="snippet",
             channelId=channel_id,
             type="video",
+            eventType="completed",  # Completed live streams
             order="date",
             maxResults=250,  # Increased to capture more videos
             publishedAfter=start_date_str,
@@ -64,7 +65,7 @@ def fetch_channel_videos(youtube, channel_id, start_date, end_date):
         )
         response = request.execute()
         
-        print(f"Total search results: {len(response.get('items', []))}")
+        print(f"Total live video results: {len(response.get('items', []))}")
         
         # Filter and process videos
         for item in response.get('items', []):
@@ -76,7 +77,7 @@ def fetch_channel_videos(youtube, channel_id, start_date, end_date):
             )
             
             # Detailed logging for each video
-            print(f"Checking video: {title}")
+            print(f"Checking live video: {title}")
             print(f"Published at: {published_at}")
             
             # More flexible keyword matching
@@ -86,23 +87,24 @@ def fetch_channel_videos(youtube, channel_id, start_date, end_date):
             )
             
             if is_podcast:
-                print(f"✅ Matched Podcast/Interview: {title}")
+                print(f"✅ Matched Live Podcast/Interview: {title}")
                 videos.append({
                     'title': title,
                     'url': f"https://www.youtube.com/watch?v={video_id}",
                     'date': published_at
                 })
             else:
-                print(f"❌ Skipped: {title}")
+                print(f"❌ Skipped live video: {title}")
         
-        print(f"Filtered podcast/interview videos: {len(videos)}")
+        print(f"Filtered live podcast/interview videos: {len(videos)}")
         return videos
     
     except Exception as e:
-        print(f"❌ Error fetching channel videos: {e}")
+        print(f"❌ Error fetching live videos: {e}")
         traceback.print_exc()
         return []
 
+# The rest of the script remains the same as in the previous implementation
 def process_single_event(target_title, channels=None, api_key=YOUTUBE_API_KEY):
     # Create YouTube API client
     youtube = build('youtube', 'v3', developerKey=api_key)
