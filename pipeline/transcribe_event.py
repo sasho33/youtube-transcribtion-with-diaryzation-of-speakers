@@ -10,70 +10,88 @@ sys.path.append(str(Path(__file__).resolve().parents[1]))
 from pipeline.config import EVW_EVENTS_FILE, TRANSCRIPT_DIR
 from pipeline.transcribe_video import transcribe_youtube_video
 
-def fetch_channel_videos(channel_url, start_date, end_date):
+def fetch_channel_videos(youtube, channel_id, start_date, end_date):
     """
-    Fetch videos from a YouTube channel using yt-dlp
+    Fetch live videos from a YouTube channel using YouTube Data API
     
     Args:
-        channel_url (str): YouTube channel URL
+        youtube (Resource): YouTube API resource
+        channel_id (str): YouTube channel ID
         start_date (datetime): Start date for filtering videos
         end_date (datetime): End date for filtering videos
     
     Returns:
         list: List of dictionaries containing video information
     """
+    videos = []
+    
+    # Convert dates to RFC 3339 format
+    start_date_str = start_date.isoformat() + 'Z'
+    end_date_str = end_date.isoformat() + 'Z'
+    
+    # Expanded podcast and interview keywords
+    podcast_keywords = [
+        'podcast', 
+        'interview', 
+        'evw podcast', 
+        'east vs west podcast', 
+        'post fight discussion'
+    ]
+    
     try:
-        # Construct yt-dlp command with more flexible filtering
-        command = [
-            'yt-dlp',
-            '--dateafter', (start_date - timedelta(days=60)).strftime('%Y%m%d'),  # Wider date range
-            '--datebefore', (end_date + timedelta(days=30)).strftime('%Y%m%d'),   # Extended range
-            '--print', 'filename:%(title)s\nurl:%(webpage_url)s\ndate:%(upload_date)s',
-            channel_url
-        ]
-
-        # Run the command and capture output
-        result = subprocess.run(command, capture_output=True, text=True, check=True)
+        # Request live videos
+        request = youtube.search().list(
+            part="snippet",
+            channelId=channel_id,
+            type="video",
+            eventType="completed",  # Completed live streams
+            order="date",
+            maxResults=250,  # Increased to capture more videos
+            publishedAfter=start_date_str,
+            publishedBefore=end_date_str
+        )
+        response = request.execute()
         
-        # Parse the output
-        videos = []
-        lines = result.stdout.strip().split('\n')
-
-        print(f"🔍 Found {len(lines) // 3} videos in channel '{channel_url}' within date range {start_date.date()} to {end_date.date()}")
+        print(f"Total live video results: {len(response.get('items', []))}")
         
-        for i in range(0, len(lines), 3):
-            if i + 2 < len(lines):
-                title = lines[i].replace('filename:', '').strip()
-                url = lines[i+1].replace('url:', '').strip()
-                date_str = lines[i+2].replace('date:', '').strip()
-                
-                try:
-                    # Convert date string to datetime
-                    video_date = datetime.strptime(date_str, '%Y%m%d')
-                    
-                    # Additional title and date filtering
-                    if (start_date <= video_date <= end_date and 
-                        any(keyword in title.lower() for keyword in ['podcast', 'interview'])):
-                        videos.append({
-                            'title': title,
-                            'url': url,
-                            'date': video_date
-                        })
-                
-                except ValueError:
-                    print(f"Could not parse date for video: {title}")
+        # Filter and process videos
+        for item in response.get('items', []):
+            title = item['snippet']['title']
+            video_id = item['id']['videoId']
+            published_at = datetime.strptime(
+                item['snippet']['publishedAt'], 
+                "%Y-%m-%dT%H:%M:%SZ"
+            )
+            
+            # Detailed logging for each video
+            print(f"Checking live video: {title}")
+            print(f"Published at: {published_at}")
+            
+            # More flexible keyword matching
+            is_podcast = any(
+                keyword.lower() in title.lower() 
+                for keyword in podcast_keywords
+            )
+            
+            if is_podcast:
+                print(f"✅ Matched Live Podcast/Interview: {title}")
+                videos.append({
+                    'title': title,
+                    'url': f"https://www.youtube.com/watch?v={video_id}",
+                    'date': published_at
+                })
+            else:
+                print(f"❌ Skipped live video: {title}")
         
+        print(f"Filtered live podcast/interview videos: {len(videos)}")
         return videos
-
-    except subprocess.CalledProcessError as e:
-        print(f"Error fetching channel videos: {e}")
-        print(f"Command output: {e.stdout}")
-        print(f"Command error: {e.stderr}")
-        return []
+    
     except Exception as e:
-        print(f"Unexpected error fetching channel videos: {e}")
+        print(f"❌ Error fetching live videos: {e}")
+        traceback.print_exc()
         return []
 
+# The rest of the script remains the same as in the previous implementation
 
 def parse_date_flexible(date_str):
     for fmt in ("%Y-%m-%d", "%B %d, %Y"):
