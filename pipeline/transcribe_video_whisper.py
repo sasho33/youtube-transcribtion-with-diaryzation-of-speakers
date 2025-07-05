@@ -133,7 +133,7 @@ if __name__ == "__main__":
         "Cvetkov and Terzi", 
         "East vs West 17",
         language="en",     # Specify language
-        batch_size=4      # Specify batch size
+        batch_size=6      # Specify batch size
     )
     transcribe_youtube_video(
         "https://www.youtube.com/watch?v=jFsV6FydeJc", 

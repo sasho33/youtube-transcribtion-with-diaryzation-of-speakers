@@ -6,9 +6,7 @@ from pathlib import Path
 import traceback
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
-from pipeline.transcribe_video import transcribe_youtube_video
 from pipeline.config import EVW_EVENTS_FILE, TRANSCRIPT_DIR
-from pipeline.transcribe_video import transcribe_youtube_video
 
 
 def parse_date_flexible(date_str):
