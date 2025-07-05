@@ -24,11 +24,11 @@ def transcribe_federation(events_file, channels=None):
             "channel_url": "https://www.youtube.com/channel/UC3Dw8OYsWmZqrM1qBBZUMhQ",
             "source_type": "live"
         },
-        {
-            "label": "Engin Terzi Enigma of rage",
-            "channel_url": "https://www.youtube.com/channel/UCMzpyrvO3yUeGDclgjixSoA",
-            "source_type": "live"
-        },
+        # {
+        #     "label": "Engin Terzi Enigma of rage",
+        #     "channel_url": "https://www.youtube.com/channel/UCMzpyrvO3yUeGDclgjixSoA",
+        #     "source_type": "live"
+        # },
     ]
     # Default channels if not provided
     if channels is None:

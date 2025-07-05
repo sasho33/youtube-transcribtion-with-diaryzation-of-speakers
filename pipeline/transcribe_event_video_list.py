@@ -9,6 +9,7 @@ sys.path.append(str(Path(__file__).resolve().parents[1]))
 from pipeline.config import EVW_EVENTS_FILE, TRANSCRIPT_DIR
 
 
+
 def parse_date_flexible(date_str):
     for fmt in ("%Y-%m-%d", "%B %d, %Y"):
         try:
@@ -162,5 +163,10 @@ if __name__ == "__main__":
             "channel_url": "https://www.youtube.com/channel/UC3Dw8OYsWmZqrM1qBBZUMhQ",
             "source_type": "live"
         },
+        # {
+        #     "label": "Engin Terzi Enigma of rage",
+        #     "channel_url": "https://www.youtube.com/channel/UCMzpyrvO3yUeGDclgjixSoA",
+        #     "source_type": "live"
+        # },
     ]
     process_single_event("East vs West 17", channels=channels)
