@@ -200,5 +200,9 @@ if __name__ == "__main__":
             "label": "East vs West Main",
             "channel_url": "https://www.youtube.com/channel/UC3Dw8OYsWmZqrM1qBBZUMhQ",
         },
+         {
+            "label": "Engin Terzi Enigma of rage",
+            "channel_url": "https://www.youtube.com/channel/UCMzpyrvO3yUeGDclgjixSoA",
+        },
     ]
     process_single_event("East vs West 17", channels=channels)

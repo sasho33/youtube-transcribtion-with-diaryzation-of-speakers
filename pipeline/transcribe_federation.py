@@ -22,12 +22,17 @@ def transcribe_federation(events_file, channels=None):
         {
             "label": "East vs West Main",
             "channel_url": "https://www.youtube.com/channel/UC3Dw8OYsWmZqrM1qBBZUMhQ",
-            "source_type": "live"
         },
+<<<<<<< HEAD
         {
             "label": "Engin Terzi Enigma of rage",
             "channel_url": "https://www.youtube.com/channel/UCMzpyrvO3yUeGDclgjixSoA",
             "source_type": "live"
+=======
+         {
+            "label": "Engin Terzi Enigma of rage",
+            "channel_url": "https://www.youtube.com/channel/UCMzpyrvO3yUeGDclgjixSoA",
+>>>>>>> 2a3c5b58de8c176528fc3523c1d1f96d226e7834
         },
     ]
     # Default channels if not provided

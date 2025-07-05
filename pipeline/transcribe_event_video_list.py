@@ -90,6 +90,8 @@ def process_single_event(target_title, channels=None):
                 try:
                     if not video.publish_date:
                         continue
+                    
+                    print(f"🔍 Checking video: {video.title} ({video.publish_date})")
 
                     naive_date = video.publish_date.replace(tzinfo=None)
                     if not (start_date <= naive_date <= end_date):
