@@ -1,6 +1,7 @@
-from pytubefix import Channel, Playlist
-from datetime import datetime, timedelta
+import subprocess
 import json
+import re
+from datetime import datetime, timedelta
 import sys
 from pathlib import Path
 import traceback
@@ -9,6 +10,69 @@ sys.path.append(str(Path(__file__).resolve().parents[1]))
 from pipeline.config import EVW_EVENTS_FILE, TRANSCRIPT_DIR
 from pipeline.transcribe_video import transcribe_youtube_video
 
+def fetch_channel_videos(channel_url, start_date, end_date):
+    """
+    Fetch videos from a YouTube channel using yt-dlp
+    
+    Args:
+        channel_url (str): YouTube channel URL
+        start_date (datetime): Start date for filtering videos
+        end_date (datetime): End date for filtering videos
+    
+    Returns:
+        list: List of dictionaries containing video information
+    """
+    try:
+        # Construct yt-dlp command with more flexible filtering
+        command = [
+            'yt-dlp',
+            '--dateafter', (start_date - timedelta(days=60)).strftime('%Y%m%d'),  # Wider date range
+            '--datebefore', (end_date + timedelta(days=30)).strftime('%Y%m%d'),   # Extended range
+            '--print', 'filename:%(title)s\nurl:%(webpage_url)s\ndate:%(upload_date)s',
+            channel_url
+        ]
+
+        # Run the command and capture output
+        result = subprocess.run(command, capture_output=True, text=True, check=True)
+        
+        # Parse the output
+        videos = []
+        lines = result.stdout.strip().split('\n')
+
+        print(f"🔍 Found {len(lines) // 3} videos in channel '{channel_url}' within date range {start_date.date()} to {end_date.date()}")
+        
+        for i in range(0, len(lines), 3):
+            if i + 2 < len(lines):
+                title = lines[i].replace('filename:', '').strip()
+                url = lines[i+1].replace('url:', '').strip()
+                date_str = lines[i+2].replace('date:', '').strip()
+                
+                try:
+                    # Convert date string to datetime
+                    video_date = datetime.strptime(date_str, '%Y%m%d')
+                    
+                    # Additional title and date filtering
+                    if (start_date <= video_date <= end_date and 
+                        any(keyword in title.lower() for keyword in ['podcast', 'interview'])):
+                        videos.append({
+                            'title': title,
+                            'url': url,
+                            'date': video_date
+                        })
+                
+                except ValueError:
+                    print(f"Could not parse date for video: {title}")
+        
+        return videos
+
+    except subprocess.CalledProcessError as e:
+        print(f"Error fetching channel videos: {e}")
+        print(f"Command output: {e.stdout}")
+        print(f"Command error: {e.stderr}")
+        return []
+    except Exception as e:
+        print(f"Unexpected error fetching channel videos: {e}")
+        return []
 
 
 def parse_date_flexible(date_str):
@@ -55,68 +119,23 @@ def process_single_event(target_title, channels=None):
         print(f"\n🔍 Scanning source: {label} ({source_type})")
 
         try:
-            if source_type == "live":
-                ch = Channel(ch_cfg["channel_url"])
-                try:
-                    videos = list(ch.live)
-                except Exception as e:
-                    print(f"❌ Error fetching live videos: {e}")
-                    videos = []
+            # Fetch videos using yt-dlp
+            videos = fetch_channel_videos(
+                ch_cfg["channel_url"], 
+                start_date, 
+                end_date
+            )
 
-            elif source_type == "videos":
-                ch = Channel(ch_cfg["channel_url"])
-                try:
-                    videos = list(ch.videos)
-                except Exception as e:
-                    print(f"❌ Error fetching channel videos: {e}")
-                    videos = []
-
-            elif source_type == "playlist":
-                pl = Playlist(ch_cfg["playlist_url"])
-                try:
-                    videos = list(pl.videos)
-                except Exception as e:
-                    print(f"❌ Error fetching playlist videos: {e}")
-                    videos = []
-
-            else:
-                print(f"⚠️  Unsupported source_type: {source_type}")
-                continue
-
-            # Filter and collect videos
+            # Filter videos with podcast or interview in title
             filtered_videos = []
             for video in videos:
-                print(f"🔍 Checking video: {video.title} ({video.publish_date})")
-                try:
-                    if not video.publish_date:
-                        continue
-
-                    naive_date = video.publish_date.replace(tzinfo=None)
-                    if not (start_date <= naive_date <= end_date):
-                        continue
-
-                    # Additional filtering
-                    if ch_cfg["label"] in ["East vs West Main", "Engin Terzi Enigma of rage"]:
-                    # Strict podcast or interview detection
-                        is_podcast = any(keyword in video.title.lower() for keyword in [
-                            'podcast', 
-                            'interview'
-                        ])
-                        
-                        if not is_podcast:
-                            continue
-
-                    filtered_videos.append({
-                        'title': video.title,
-                        'url': video.watch_url,
-                        'date': naive_date,
-                        'channel': label
-                    })
-
-                    print(f"✅ Found video: {video.title} ({naive_date}) - {video.watch_url}")
-
-                except Exception as video_error:
-                    print(f"❌ Error checking video: {video_error}")
+                print(f"✅ Found video: {video['title']} ({video['date']}) - {video['url']}")
+                filtered_videos.append({
+                    'title': video['title'],
+                    'url': video['url'],
+                    'date': video['date'],
+                    'channel': label
+                })
 
             videos_to_process.extend(filtered_videos)
 
@@ -136,7 +155,6 @@ def process_single_event(target_title, channels=None):
         print(f"   Date: {video['date']}")
         print(f"   URL: {video['url']}\n")
 
-   
     # Process videos
     for video in videos_to_process:
         try:
@@ -165,10 +183,5 @@ if __name__ == "__main__":
             "channel_url": "https://www.youtube.com/channel/UC3Dw8OYsWmZqrM1qBBZUMhQ",
             "source_type": "live"
         },
-        # {
-        #     "label": "Engin Terzi Enigma of rage",
-        #     "channel_url": "https://www.youtube.com/channel/UCMzpyrvO3yUeGDclgjixSoA",
-        #     "source_type": "live"
-        # },
     ]
     process_single_event("East vs West 17", channels=channels)
