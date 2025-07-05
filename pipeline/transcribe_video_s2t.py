@@ -61,7 +61,9 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
     try:
         print("→ Downloading audio with yt-dlp...")
         subprocess.run([
-            "yt-dlp", "-x", "--audio-format", "wav",
+            "yt-dlp", "-x", "--audio-format", "wav", 
+            "--audio-quality", "0",
+            "--postprocessor-args", "-ar 16000 -ac 1",
             "--output", str(audio_path),
             youtube_url
         ], check=True)
