@@ -69,7 +69,7 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
         print("→ Using Hugging Face token:", hf_token)
 
         device = "cuda"
-        batch_size = 4
+        batch_size = 12
         compute_type = "float16"
         language = "en"
         
@@ -80,7 +80,7 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
             
             try:
                 # Load Whisper model
-                model = whisperx.load_model("large-v2", device, compute_type=compute_type, language=language)
+                model = whisperx.load_model("large-v3", device, compute_type=compute_type, language=language)
                 
                 # Transcribe
                 result = model.transcribe(str(audio_path), batch_size=batch_size)
@@ -91,7 +91,7 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
                     use_auth_token=hf_token, 
                     device=device
                 )
-                diarize_segments = diarize_model(str(audio_path))
+                diarize_segments = diarize_model(str(audio_path), min_speakers=2, max_speakers=5)
                 result = whisperx.assign_word_speakers(diarize_segments, result)
 
                 print("→ Saving transcript...")
