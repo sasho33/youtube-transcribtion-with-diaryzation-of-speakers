@@ -6,7 +6,7 @@ import torch
 import gc
 import re
 import whisper_s2t
-from pyannote.audio import Pipeline
+import whisperx
 
 # Dynamically add project root to sys.path
 sys.path.append(str(Path(__file__).resolve().parents[1]))
@@ -73,9 +73,10 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
         # WhisperS2T model configuration
         device = "cuda"
         compute_type = "float16"
+        batch_size = 12
         
         model = None
-        diarization_pipeline = None
+        diarize_model = None
         
         try:
             # Initialize WhisperS2T model
@@ -95,13 +96,6 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
                 }
             )
             
-            # Initialize speaker diarization pipeline
-            print("→ Loading speaker diarization model...")
-            diarization_pipeline = Pipeline.from_pretrained(
-                "pyannote/speaker-diarization-3.1",
-                use_auth_token=HF_TOKEN
-            )
-            
             # Transcribe audio file
             print("→ Processing audio file...")
             out = model.transcribe_with_vad(
@@ -109,45 +103,29 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
                 lang_codes=['en'],
                 tasks=['transcribe'],
                 initial_prompts=[None],
-                batch_size=8
+                batch_size=batch_size
             )
             
             # Extract transcription results
-            transcription_result = out[0]
+            result = {"segments": out[0]}
             
-            # Perform speaker diarization
-            print("→ Performing speaker diarization...")
-            diarization = diarization_pipeline(str(audio_path))
+            # Initialize WhisperX diarization pipeline (same as original)
+            print("→ Starting diarization...")
+            diarize_model = whisperx.diarize.DiarizationPipeline(
+                model_name="pyannote/speaker-diarization-3.1", 
+                use_auth_token=HF_TOKEN, 
+                device=device
+            )
+            diarize_segments = diarize_model(str(audio_path), min_speakers=2, max_speakers=5)
+            result = whisperx.assign_word_speakers(diarize_segments, result)
             
-            # Combine transcription with diarization
-            print("→ Combining transcription with speaker labels...")
-            segments_with_speakers = []
-            
-            for segment in transcription_result:
-                start_time = segment.get("start", 0)
-                end_time = segment.get("end", 0)
-                text = segment.get("text", "").strip()
-                
-                if text:
-                    # Find the speaker for this time segment
-                    speaker = "Speaker"
-                    for turn, _, speaker_id in diarization.itertracks(yield_label=True):
-                        if turn.start <= start_time < turn.end:
-                            speaker = f"Speaker_{speaker_id}"
-                            break
-                    
-                    segments_with_speakers.append({
-                        "speaker": speaker,
-                        "text": text
-                    })
-            
-            # Save transcript with speaker labels
+            # Save transcript with speaker labels (same format as original)
             print("→ Saving transcript...")
             with open(output_file, "w", encoding="utf-8") as f:
-                for segment in segments_with_speakers:
-                    speaker = segment["speaker"]
-                    text = segment["text"]
-                    f.write(f"{speaker}: {text}\n")
+                for segment in result["segments"]:
+                    speaker = segment.get("speaker", "Speaker")
+                    text = segment.get("text", "")
+                    f.write(f"{speaker}: {text.strip()}\n")
             
             print(f"✓ Transcript saved to {output_file}")
             return output_file
@@ -160,8 +138,8 @@ def transcribe_youtube_video(youtube_url, video_title="Unknown podkast", event_t
             # Explicitly delete models and clear references
             if model:
                 del model
-            if diarization_pipeline:
-                del diarization_pipeline
+            if diarize_model:
+                del diarize_model
 
     except subprocess.CalledProcessError as download_error:
         print(f"❌ Audio download failed: {download_error}")
