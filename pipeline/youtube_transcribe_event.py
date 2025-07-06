@@ -48,7 +48,15 @@ def fetch_channel_videos(youtube, channel_id, start_date, end_date):
         'interview', 
         'evw podcast', 
         'east vs west podcast', 
-        'post fight discussion'
+        'post fight discussion',
+        'Morozov',
+        'Nisa Camadan',
+        'chat',
+        'Ermes',
+        'Mindaugas',
+        'Ivan',
+        
+        
     ]
     
     try:
