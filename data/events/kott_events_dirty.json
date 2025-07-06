@@ -225,11 +225,11 @@
         "is_title": true
       },
       {
-        "winner": "Davit Dadikyan",
+        "winner": "against Davit Dadikyan",
         "loser": "Vitaly Laletin",
         "score": "4-3",
         "participants": [
-          "Davit Dadikyan",
+          "against Davit Dadikyan",
           "Vitaly Laletin"
         ],
         "arm": "Right",
@@ -421,11 +421,11 @@
         "is_title": true
       },
       {
-        "winner": "Leonidas Arkona",
+        "winner": "Arif withdraws after fifth match) Leonidas Arkona",
         "loser": "Larry Wheels",
         "score": "6-0",
         "participants": [
-          "Leonidas Arkona",
+          "Arif withdraws after fifth match) Leonidas Arkona",
           "Larry Wheels"
         ],
         "arm": "Right",
@@ -433,12 +433,12 @@
         "is_title": true
       },
       {
-        "winner": "Ermes Gasparini",
-        "loser": "Georgi Tsvetkov",
+        "winner": "Larry withdraws after fourth match)Ermes Gasparini",
+        "loser": "Vitaly LaletinDevon Larratt 6-0 over Georgi Tsvetkov",
         "score": "4-2",
         "participants": [
-          "Ermes Gasparini",
-          "Georgi Tsvetkov"
+          "Larry withdraws after fourth match)Ermes Gasparini",
+          "Vitaly LaletinDevon Larratt 6-0 over Georgi Tsvetkov"
         ],
         "arm": "Right",
         "weight_category": "Unknown",
@@ -864,11 +864,11 @@
         "is_title": false
       },
       {
-        "winner": "Ivan Matyushenko",
+        "winner": "Georgi withdrew after first round due to injury)Ivan Matyushenko",
         "loser": "Serhii Kalinichenko",
         "score": "3-1",
         "participants": [
-          "Ivan Matyushenko",
+          "Georgi withdrew after first round due to injury)Ivan Matyushenko",
           "Serhii Kalinichenko"
         ],
         "arm": "Right",
@@ -936,11 +936,11 @@
         "is_title": true
       },
       {
-        "winner": "Vitaly Laletin",
+        "winner": "Rustam withdrew after second round due to injury)Vitaly Laletin",
         "loser": "Michael Todd",
         "score": "3-0",
         "participants": [
-          "Vitaly Laletin",
+          "Rustam withdrew after second round due to injury)Vitaly Laletin",
           "Michael Todd"
         ],
         "arm": "Right",

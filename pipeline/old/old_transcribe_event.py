@@ -8,7 +8,7 @@ from pathlib import Path
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 from pipeline.config import EVW_EVENTS_FILE, TRANSCRIPT_DIR
-from pipeline.transcribe_video import transcribe_youtube_video
+from pipeline.old.transcribe_video import transcribe_youtube_video
 
 # --- CONFIG ---
 

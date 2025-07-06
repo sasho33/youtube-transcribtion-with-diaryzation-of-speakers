@@ -1,97 +1,15 @@
-import subprocess
-import json
-import re
+from pytubefix import Channel, Playlist
 from datetime import datetime, timedelta
+import json
 import sys
 from pathlib import Path
 import traceback
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 from pipeline.config import EVW_EVENTS_FILE, TRANSCRIPT_DIR
-from pipeline.transcribe_video import transcribe_youtube_video
+from pipeline.old.transcribe_video import transcribe_youtube_video
 
-def fetch_channel_videos(youtube, channel_id, start_date, end_date):
-    """
-    Fetch live videos from a YouTube channel using YouTube Data API
-    
-    Args:
-        youtube (Resource): YouTube API resource
-        channel_id (str): YouTube channel ID
-        start_date (datetime): Start date for filtering videos
-        end_date (datetime): End date for filtering videos
-    
-    Returns:
-        list: List of dictionaries containing video information
-    """
-    videos = []
-    
-    # Convert dates to RFC 3339 format
-    start_date_str = start_date.isoformat() + 'Z'
-    end_date_str = end_date.isoformat() + 'Z'
-    
-    # Expanded podcast and interview keywords
-    podcast_keywords = [
-        'podcast', 
-        'interview', 
-        'evw podcast', 
-        'east vs west podcast', 
-        'post fight discussion'
-    ]
-    
-    try:
-        # Request live videos
-        request = youtube.search().list(
-            part="snippet",
-            channelId=channel_id,
-            type="video",
-            eventType="completed",  # Completed live streams
-            order="date",
-            maxResults=250,  # Increased to capture more videos
-            publishedAfter=start_date_str,
-            publishedBefore=end_date_str
-        )
-        response = request.execute()
-        
-        print(f"Total live video results: {len(response.get('items', []))}")
-        
-        # Filter and process videos
-        for item in response.get('items', []):
-            title = item['snippet']['title']
-            video_id = item['id']['videoId']
-            published_at = datetime.strptime(
-                item['snippet']['publishedAt'], 
-                "%Y-%m-%dT%H:%M:%SZ"
-            )
-            
-            # Detailed logging for each video
-            print(f"Checking live video: {title}")
-            print(f"Published at: {published_at}")
-            
-            # More flexible keyword matching
-            is_podcast = any(
-                keyword.lower() in title.lower() 
-                for keyword in podcast_keywords
-            )
-            
-            if is_podcast:
-                print(f"✅ Matched Live Podcast/Interview: {title}")
-                videos.append({
-                    'title': title,
-                    'url': f"https://www.youtube.com/watch?v={video_id}",
-                    'date': published_at
-                })
-            else:
-                print(f"❌ Skipped live video: {title}")
-        
-        print(f"Filtered live podcast/interview videos: {len(videos)}")
-        return videos
-    
-    except Exception as e:
-        print(f"❌ Error fetching live videos: {e}")
-        traceback.print_exc()
-        return []
 
-# The rest of the script remains the same as in the previous implementation
 
 def parse_date_flexible(date_str):
     for fmt in ("%Y-%m-%d", "%B %d, %Y"):
@@ -137,23 +55,70 @@ def process_single_event(target_title, channels=None):
         print(f"\n🔍 Scanning source: {label} ({source_type})")
 
         try:
-            # Fetch videos using yt-dlp
-            videos = fetch_channel_videos(
-                ch_cfg["channel_url"], 
-                start_date, 
-                end_date
-            )
+            if source_type == "live":
+                ch = Channel(ch_cfg["channel_url"])
+                try:
+                    videos = list(ch.live)
+                except Exception as e:
+                    print(f"❌ Error fetching live videos: {e}")
+                    videos = []
 
-            # Filter videos with podcast or interview in title
+            elif source_type == "videos":
+                ch = Channel(ch_cfg["channel_url"])
+                try:
+                    videos = list(ch.videos)
+                except Exception as e:
+                    print(f"❌ Error fetching channel videos: {e}")
+                    videos = []
+
+            elif source_type == "playlist":
+                pl = Playlist(ch_cfg["playlist_url"])
+                try:
+                    videos = list(pl.videos)
+                except Exception as e:
+                    print(f"❌ Error fetching playlist videos: {e}")
+                    videos = []
+
+            else:
+                print(f"⚠️  Unsupported source_type: {source_type}")
+                continue
+
+            # Filter and collect videos
             filtered_videos = []
             for video in videos:
-                print(f"✅ Found video: {video['title']} ({video['date']}) - {video['url']}")
-                filtered_videos.append({
-                    'title': video['title'],
-                    'url': video['url'],
-                    'date': video['date'],
-                    'channel': label
-                })
+                print(f"🔍 Checking video: {video.title} ({video.publish_date})")
+                try:
+                    if not video.publish_date:
+                        continue
+                    
+                    print(f"🔍 Checking video: {video.title} ({video.publish_date})")
+
+                    naive_date = video.publish_date.replace(tzinfo=None)
+                    if not (start_date <= naive_date <= end_date):
+                        continue
+
+                    # Additional filtering
+                    if ch_cfg["label"] in ["East vs West Main", "Engin Terzi Enigma of rage"]:
+                    # Strict podcast or interview detection
+                        is_podcast = any(keyword in video.title.lower() for keyword in [
+                            'podcast', 
+                            'interview'
+                        ])
+                        
+                        if not is_podcast:
+                            continue
+
+                    filtered_videos.append({
+                        'title': video.title,
+                        'url': video.watch_url,
+                        'date': naive_date,
+                        'channel': label
+                    })
+
+                    print(f"✅ Found video: {video.title} ({naive_date}) - {video.watch_url}")
+
+                except Exception as video_error:
+                    print(f"❌ Error checking video: {video_error}")
 
             videos_to_process.extend(filtered_videos)
 
@@ -173,6 +138,7 @@ def process_single_event(target_title, channels=None):
         print(f"   Date: {video['date']}")
         print(f"   URL: {video['url']}\n")
 
+   
     # Process videos
     for video in videos_to_process:
         try:
@@ -201,5 +167,10 @@ if __name__ == "__main__":
             "channel_url": "https://www.youtube.com/channel/UC3Dw8OYsWmZqrM1qBBZUMhQ",
             "source_type": "live"
         },
+        # {
+        #     "label": "Engin Terzi Enigma of rage",
+        #     "channel_url": "https://www.youtube.com/channel/UCMzpyrvO3yUeGDclgjixSoA",
+        #     "source_type": "live"
+        # },
     ]
     process_single_event("East vs West 17", channels=channels)
