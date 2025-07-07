@@ -47,14 +47,21 @@ def fetch_channel_videos(youtube, channel_id, start_date, end_date):
         'podcast', 
         'interview', 
         'evw podcast', 
-        'east vs west podcast', 
-        'post fight discussion',
+        'east vs west podcast',
         'Morozov',
         'Nisa Camadan',
-        'chat',
         'Ermes',
         'Mindaugas',
         'Ivan',
+        'Alex',
+        'Chance',
+        'John',
+        'Ron',
+        'Cobra',
+        'School',
+        'Arsen',
+        'Sarah','Reisek', 'Zoloev', 'Todd', 'Mask', 'Davit', 'Zurab', 'Revaz'
+        
         
         
     ]
