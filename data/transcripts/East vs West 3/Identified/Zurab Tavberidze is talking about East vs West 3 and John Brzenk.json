@@ -1,0 +1,331 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Host",
+    "SPEAKER_02": "Zurab Tavberidze",
+    "SPEAKER_04": "Gurgen (Translator)"
+  },
+  "date": null,
+  "predictions": {
+    "Zurab Tavberidze": {
+      "self_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": "60% chance for Zurab, 40% for John",
+          "prediction_summary": "Zurab believes he has a 60% chance to win, citing his increased strength and power. He acknowledges John's experience but is confident in his own abilities.",
+          "predicted_duration": null,
+          "style_conflict": "Zurab plans to start aggressively and use his shoulder strength.",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Respected for his experience and technique",
+              "health": null,
+              "previous_match_summary": "Legendary armwrestler with vast experience"
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Efe Kömek"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": "100% chance for Zurab",
+          "prediction_summary": "Zurab is confident he will win 100% against Efe Kömek.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Efe Kömek": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "Davit Samushia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": "90% chance for Samushia",
+          "prediction_summary": "Zurab believes Samushia will win easily, citing his knowledge of Samushia's strengths.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Gave trouble to John Brzenk in the past"
+            },
+            "Davit Samushia": {
+              "strength": "Knows his strengths and powers",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "50-50",
+          "predicted_score": "50% chance for each",
+          "prediction_summary": "Zurab thinks it's a 50-50 match due to Lutidze's preparation time and Todd's recent losses.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Very good player",
+              "health": null,
+              "previous_match_summary": "Had little time to prepare"
+            },
+            "Michael Todd": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Lost last time"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "İrakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "İrakli Zirakashvili",
+          "predicted_score": "İrakli has more chance if the match starts quickly",
+          "prediction_summary": "Zurab thinks İrakli will win if the match starts quickly, but Todd has more chance if the match stops and goes to a hook.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. quick start",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "İrakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Arif Ertem",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": "Arif will win",
+          "prediction_summary": "Zurab respects Kostadinov but believes Arif will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arif Ertem": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Krasimir Kostadinov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Marcio Barboza",
+            "Tobias Sporrong"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Marcio Barboza",
+          "predicted_score": "100% Barboza",
+          "prediction_summary": "Zurab is confident Barboza will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Marcio Barboza": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Tobias Sporrong": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Derek Smith"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "Morozov will win",
+          "prediction_summary": "Zurab thinks Morozov will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Derek Smith": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "Prudnik will win",
+          "prediction_summary": "Zurab thinks Mask will fight aggressively but Prudnik will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Matt Mask": {
+              "strength": "Aggressive in the wrist",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Matt Mask"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "Morozov will win",
+          "prediction_summary": "Zurab thinks Morozov will win because Mask's left hand is not strong enough.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Matt Mask": {
+              "strength": "Left hand not strong enough",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Tobias Sporrong",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "Prudnik is favorite",
+          "prediction_summary": "Zurab thinks Prudnik is the favorite. If the match stops, Prudnik will win.",
+          "predicted_duration": null,
+          "style_conflict": "Top row vs. hook",
+          "opinion_about_athletes": {
+            "Tobias Sporrong": {
+              "strength": "Better on top row",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": "Better in hook",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": "70-30 for Genadi",
+          "prediction_summary": "Zurab thinks Genadi is in better form and stronger than in their previous match, giving him a 70% chance to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "In better form and stronger",
+              "health": null,
+              "previous_match_summary": "Had problems in hook and toproll last time but trained hard"
+            },
+            "Dave Chaffee": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Won last match 4-2 but may not be in better form"
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": null,
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "No chance for Devon",
+          "prediction_summary": "Zurab respects Devon as a legend but thinks Levan is too strong and Devon has no chance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Very super heavyweight and strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": "Legendary but no chance against Levan",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

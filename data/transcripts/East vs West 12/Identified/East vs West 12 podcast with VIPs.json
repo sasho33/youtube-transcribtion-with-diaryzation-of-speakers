@@ -1,0 +1,332 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Skyler",
+    "SPEAKER_01": "Henry",
+    "SPEAKER_02": "Benny Hapke",
+    "SPEAKER_03": "Ismail",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Benny Hapke",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Stoyan Golemanov",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Stoyan Golemanov",
+          "predicted_score": null,
+          "prediction_summary": "Stoyan is a multiple European champion and very strong, likely to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Stoyan Golemanov": {
+              "strength": "Very strong, can drive opponents over easily.",
+              "health": null,
+              "previous_match_summary": "Met him last year and felt his power firsthand."
+            },
+            "Brandon Ellsessor": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Skyler",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Stoyan Golemanov",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Stoyan Golemanov",
+          "predicted_score": null,
+          "prediction_summary": "Brandon will have to play defense the entire time; Stoyan is too strong.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Brandon Ellsessor": {
+              "strength": "Good press if he gets inside his shoulder.",
+              "health": null,
+              "previous_match_summary": "Dominant in his region but untested internationally."
+            }
+          }
+        },
+        {
+          "match": [
+            "Leonidas Arkona",
+            "Alexsandr Beziazykov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Alexsandr Beziazykov",
+          "predicted_score": "4-2",
+          "prediction_summary": "Schoolboy is the favorite due to leverage and experience, but Leonidas has a sticky spot and could make it a war.",
+          "predicted_duration": "Long, drawn-out rounds",
+          "style_conflict": "Schoolboy's top roll vs. Leonidas's sticky brachial",
+          "opinion_about_athletes": {
+            "Leonidas Arkona": {
+              "strength": "Very strong, improving technically.",
+              "health": null,
+              "previous_match_summary": "Seen in multiple East vs West events, improving each time."
+            },
+            "Alexsandr Beziazykov": {
+              "strength": "Strong top roll, experienced.",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "4-2",
+          "prediction_summary": "Devon has progressed significantly and will get a stop by round 3. East vs West rules benefit him.",
+          "predicted_duration": "Long, strategic rounds",
+          "style_conflict": "Devon's endurance vs. Levan's power",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Improved significantly, better endurance.",
+              "health": "Healthier than last two years, stem cells working.",
+              "previous_match_summary": "Tore bicep in last match but continued fighting."
+            },
+            "Levan Saginashvili": {
+              "strength": "Pinnacle of power in the sport.",
+              "health": null,
+              "previous_match_summary": "Dominant in previous matches but may not have improved as much as Devon."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Henry",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Stoyan Golemanov",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Brandon Ellsessor",
+          "predicted_score": null,
+          "prediction_summary": "Brandon is dominant in his region and could surprise internationally.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Brandon Ellsessor": {
+              "strength": "Dominant in his region.",
+              "health": null,
+              "previous_match_summary": "Destroying everyone in America right now."
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "6-0",
+          "prediction_summary": "Levan's wrist is stronger than Georgi's, and Devon won't be able to take it. Levan's side pressure and endurance will dominate.",
+          "predicted_duration": "Quick rounds",
+          "style_conflict": "Levan's side pressure vs. Devon's endurance",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Only 10% stronger than last time.",
+              "health": null,
+              "previous_match_summary": "Tore bicep in last match."
+            },
+            "Levan Saginashvili": {
+              "strength": "Stronger wrist and side pressure than Georgi.",
+              "health": null,
+              "previous_match_summary": "Dominant in previous matches, health issues affected endurance in Ermes match."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Mike",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": "3-1",
+          "prediction_summary": "Georgi's iron wrist will be too much for Kurdecha, though it will be a tough match.",
+          "predicted_duration": "Long, drawn-out rounds",
+          "style_conflict": "Georgi's wrist control vs. Kurdecha's press",
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Strong press, especially on left.",
+              "health": null,
+              "previous_match_summary": "Impressive against Morozov with flop press."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Iron wrist, never been broken.",
+              "health": null,
+              "previous_match_summary": "Lost weight, looks leaner and in better shape."
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "4-2",
+          "prediction_summary": "Devon has evolved significantly and will get a stop. Levan won't be able to pin him four times.",
+          "predicted_duration": "Strategic, long rounds",
+          "style_conflict": "Devon's endurance vs. Levan's power",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Significantly ahead of where he was two years ago.",
+              "health": null,
+              "previous_match_summary": "Tore bicep in last match but continued fighting."
+            },
+            "Levan Saginashvili": {
+              "strength": "Pinnacle of power in the sport.",
+              "health": null,
+              "previous_match_summary": "Health issues affected endurance in Ermes match."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Ismail",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Alex will win but it will be a close match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgi Tsvetkov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "4-2 or 4-3",
+          "prediction_summary": "Devon has evolved much, is stronger and healthier. Levan may take some rounds but Devon will stop him.",
+          "predicted_duration": "Close, long rounds",
+          "style_conflict": "Devon's endurance vs. Levan's power",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Evolved much, stronger.",
+              "health": "Healthier, stem cells working.",
+              "previous_match_summary": null
+            },
+            "Levan Saginashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Mindaugus Tarasaitis",
+            "Artur Makarov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Mindaugus Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugus is a technician and makes fewer mistakes than heavier guys. He is near perfect in his execution.",
+          "predicted_duration": null,
+          "style_conflict": "Mindaugus's technique vs. Makarov's power",
+          "opinion_about_athletes": {
+            "Mindaugus Tarasaitis": {
+              "strength": "Technician, makes fewer mistakes.",
+              "health": null,
+              "previous_match_summary": "Near perfect execution in matches."
+            },
+            "Artur Makarov": {
+              "strength": "Machine-like, powerful.",
+              "health": null,
+              "previous_match_summary": "Has a unique hand that is hard to grip."
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "The gap between them is closer than last time. Devon has improved significantly.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's endurance vs. Levan's power",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Improved significantly.",
+              "health": null,
+              "previous_match_summary": "Different athlete compared to last match."
+            },
+            "Levan Saginashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

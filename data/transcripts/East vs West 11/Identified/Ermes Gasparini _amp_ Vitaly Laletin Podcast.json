@@ -1,0 +1,139 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Alexander",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Vitaly Laletin",
+    "SPEAKER_04": "Ermes Gasparini"
+  },
+  "date": null,
+  "predictions": {
+    "Ermes Gasparini": {
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Vitaly Laletin"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes is confident in his ability to win, especially if he can maintain his wrist position and utilize his shoulder press.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs top roll",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Very strong, especially in endurance and top roll",
+              "health": "Recovered from previous injuries",
+              "previous_match_summary": "Vitaly has shown great endurance in past matches, especially against Rewaz."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Denis Cyplenkov",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes Denis needs to change his training to include more power and technique to compete with Devon.",
+          "predicted_duration": null,
+          "style_conflict": "Defense vs attack",
+          "opinion_about_athletes": {
+            "Denis Cyplenkov": {
+              "strength": "Strong but needs more power in hand and pronation",
+              "health": "Needs time to recover and gain strength",
+              "previous_match_summary": "Denis was defending throughout the match against Devon but lacked the power to win."
+            },
+            "Devon Larratt": {
+              "strength": "Very strong in riser and pronator",
+              "health": null,
+              "previous_match_summary": "Devon won against Denis by attacking consistently."
+            }
+          }
+        }
+      ]
+    },
+    "Vitaly Laletin": {
+      "self_predictions": [
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly is confident in his endurance and top roll technique, but acknowledges it will be a tough match.",
+          "predicted_duration": "Potential for a long, endurance-based match",
+          "style_conflict": "Top roll vs top roll",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Very strong, especially in wrist and pronation",
+              "health": null,
+              "previous_match_summary": "Ermes has improved since his match with Devon, focusing on static exercises."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Georgiy Tsvetkov",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly thinks Devon will get inside Georgiy's head and win, similar to how he did with Ermes and Denis.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs defense",
+          "opinion_about_athletes": {
+            "Georgiy Tsvetkov": {
+              "strength": "Strong back pressure and wrist, but weaker side pressure",
+              "health": null,
+              "previous_match_summary": "Georgiy has a strong back pressure but may struggle against Devon's tactics."
+            },
+            "Devon Larratt": {
+              "strength": "Very tricky and strong in mental games",
+              "health": null,
+              "previous_match_summary": "Devon has been winning matches easily, including against Denis."
+            }
+          }
+        },
+        {
+          "match": [
+            "Denis Cyplenkov",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly believes Denis was defending too much and lacked the power to win against Devon.",
+          "predicted_duration": null,
+          "style_conflict": "Defense vs attack",
+          "opinion_about_athletes": {
+            "Denis Cyplenkov": {
+              "strength": "Strong but needs more power",
+              "health": "Needs time to recover",
+              "previous_match_summary": "Denis defended well but couldn't counter Devon's attacks."
+            },
+            "Devon Larratt": {
+              "strength": "Consistent attacker",
+              "health": null,
+              "previous_match_summary": "Devon won by attacking consistently."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

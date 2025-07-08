@@ -1,0 +1,276 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Translator (Lasha)",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Host",
+    "SPEAKER_04": "Oleg Zhokh",
+    "SPEAKER_01": "Betkili Oniani"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Oleg Zhokh",
+      "self_predictions": [
+        {
+          "match": [
+            "Betkili Oniani",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": "60-40",
+          "prediction_summary": "Oleg believes Betkili is the favorite due to weight difference (Betkili at 95kg vs Oleg at 85kg). He feels he is the underdog.",
+          "predicted_duration": null,
+          "style_conflict": null
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Danil Ustinov",
+            "Azat Srapyan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Danil Ustinov",
+          "predicted_score": "50-50 or 55-45",
+          "prediction_summary": "Oleg thinks it will be a close match, slightly favoring Danil Ustinov.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Ömer Kozakoğlu"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Ömer Kozakoğlu",
+          "predicted_score": null,
+          "prediction_summary": "Oleg believes Kozakoğlu will win, though he acknowledges it will be an interesting match.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Oleg thinks Petrenko will win but acknowledges Devon's unpredictability.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Rino Mašić",
+            "Ibragim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "Oleg feels Sagov will dominate, and the match won't be long.",
+          "predicted_duration": "Short",
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Oleg believes Laletin will win with a top roll, though it won't be easy.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Oleg thinks it will be a hard, long match but doesn't predict a winner.",
+          "predicted_duration": "Long",
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ivan Matyushenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Oleg feels Alizhan is a slight favorite due to his strength.",
+          "predicted_duration": null,
+          "style_conflict": null
+        }
+      ],
+      "opinion_about_athletes": {
+        "Betkili Oniani": {
+          "strength": "Very strong, especially with added weight (now ~95kg).",
+          "health": "In good shape, has gained significant muscle mass.",
+          "previous_match_summary": "Previously defeated Oleg but it was a tough match."
+        },
+        "Devon Larratt": {
+          "strength": "Unpredictable and strong, but may lose some power due to weight cut.",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Betkili Oniani",
+      "self_predictions": [
+        {
+          "match": [
+            "Betkili Oniani",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Betkili is humble, saying it's always 50-50 regardless of opponent.",
+          "predicted_duration": null,
+          "style_conflict": null
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Danil Ustinov",
+            "Azat Srapyan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Danil Ustinov",
+          "predicted_score": null,
+          "prediction_summary": "Betkili thinks Ustinov is the favorite due to his style and experience.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Ömer Kozakoğlu"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Betkili believes it will be an even match, with Kozakoğlu being talented but less experienced.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Dimitrina Petrova",
+            "Carolina Pettersson"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Betkili thinks it will be an even match, depending on style execution.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. Top Roll"
+        },
+        {
+          "match": [
+            "Oguzhan Koçak",
+            "Nugzari Chikadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Betkili feels if Oguzhan is in top form, it will be even; otherwise, Nugzari is favorite.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Betkili thinks Todd is the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Betkili believes Devon is the favorite if weight cut doesn't affect him too much.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "60-40",
+          "prediction_summary": "Betkili thinks Laletin's experience gives him the edge, though it will be close.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ivan Matyushenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Betkili finds this match very interesting due to Muratov's move to 115kg and Matyushenko's legendary status.",
+          "predicted_duration": null,
+          "style_conflict": null
+        }
+      ],
+      "opinion_about_athletes": {
+        "Oleg Zhokh": {
+          "strength": "Strong but at a weight disadvantage (85kg vs Betkili's 95kg).",
+          "health": "Recovering from a car accident, around 60-70% of previous form.",
+          "previous_match_summary": "Previously defeated Betkili but it was a tough match."
+        },
+        "Devon Larratt": {
+          "strength": "Unpredictable and strong, but weight cut could be a factor.",
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Irakli Zirakashvili": {
+          "strength": "Dominant at 95kg, especially on right hand.",
+          "health": null,
+          "previous_match_summary": "Claims no one can touch his right hand at 95kg."
+        }
+      }
+    }
+  ]
+}

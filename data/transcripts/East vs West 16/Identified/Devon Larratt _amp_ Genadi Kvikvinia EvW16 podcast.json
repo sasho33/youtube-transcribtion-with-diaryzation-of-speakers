@@ -1,0 +1,337 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Devon Larratt",
+    "SPEAKER_01": "Devon Larratt",
+    "SPEAKER_02": "Genadi Kvikvinia",
+    "SPEAKER_03": "Unknown",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Devon Larratt",
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "2-0",
+          "prediction_summary": "Devon predicts complete domination, making Genadi quit in front of his people.",
+          "predicted_duration": null,
+          "style_conflict": "Devon plans to make Genadi submit and bow to him.",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Devon acknowledges Genadi's strength but believes he is superior.",
+              "health": "Devon warns Genadi not to train too hard to avoid injuries.",
+              "previous_match_summary": "Devon references their previous match in Turkey where he believes Genadi got lucky."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Devon thinks Todd will stop the match and bleed Irakli out.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Devon does not provide specific comments on Irakli's strength.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "3-2",
+          "prediction_summary": "Devon predicts a close, hard-fought match with Michael winning.",
+          "predicted_duration": "Full five rounds",
+          "style_conflict": "Devon believes Ermes might have central control initially but will struggle to finish.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Devon acknowledges Ermes' strength but thinks Michael is stronger.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Brad Grundy"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Brad Grundy",
+          "predicted_score": null,
+          "prediction_summary": "Devon thinks Brad can pull it off due to his hand control and talent.",
+          "predicted_duration": null,
+          "style_conflict": "Devon advises Brad to avoid hooking and focus on hand control.",
+          "opinion_about_athletes": {
+            "Bacho Saginashvili": {
+              "strength": "Devon acknowledges Bacho's strength but favors Brad's technique.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Betkili Onianii"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Betkili Onianii",
+          "predicted_score": null,
+          "prediction_summary": "Devon favors Betkili due to his recent performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": "Devon thinks Oleg is better suited for 95 kg.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Devon thinks Alex's size and frame will be too much for David.",
+          "predicted_duration": null,
+          "style_conflict": "Devon believes Alex will top roll David.",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Devon thinks David should compete at 95 kg for a world title.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Serhii Kalinichenko",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Serhii Kalinichenko",
+          "predicted_score": null,
+          "prediction_summary": "Devon leans towards Serhii due to his professionalism and craziness.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Frank Lamparelli": {
+              "strength": "Devon acknowledges Frank's good hand but thinks Serhii is more serious.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Genadi Kvikvinia",
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": "2-0",
+          "prediction_summary": "Genadi is confident in his victory, referencing their previous match in Turkey.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi believes Devon will not be able to handle his strength.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Genadi thinks Devon is overconfident and not as strong as he claims.",
+              "health": null,
+              "previous_match_summary": "Genadi references their previous match where he believes Devon was tired."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Genadi thinks Irakli is on a new level and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Brad Grundy"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Bacho Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Genadi roots for Bacho and thinks he will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Brad Grundy": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": null,
+          "prediction_summary": "Genadi favors Oleg due to his hand and wrist control.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Genadi acknowledges Daniel's strength but thinks Oleg is better.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Stoyan Golemanov",
+            "Vasily Dautashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Vasily Dautashvili",
+          "predicted_score": null,
+          "prediction_summary": "Genadi thinks Vasily has more chances if he comes in best shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Stoyan Golemanov": {
+              "strength": "Genadi acknowledges Stoyan's accomplishments but favors Vasily.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "Genadi thinks David will win if he is healthy.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Genadi acknowledges Alex's strength but thinks David is better.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin warns Devon not to underestimate Genadi, referencing Genadi's recent physical improvements.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Engin notes Genadi's increased size and confidence.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisek",
+            "Malin Bergström"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks it will be a close match, noting Malin's speed and Fia's recent activity.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Fia Reisek": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Malin Bergström": {
+              "strength": "Engin notes Malin's speed as an advantage.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

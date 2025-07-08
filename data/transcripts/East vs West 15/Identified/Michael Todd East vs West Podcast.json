@@ -1,0 +1,138 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Michael Todd",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Unknown"
+  },
+  "date": null,
+  "self_predictions": {
+    "Michael Todd": [
+      {
+        "match": [
+          "Michael Todd",
+          "Genadi Kvikvinia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Michael Todd",
+        "predicted_score": null,
+        "prediction_summary": "Michael believes he is stronger and more prepared than in his previous match with Genadi. He acknowledges Genadi's strength but is confident in his improved form and strategy.",
+        "predicted_duration": null,
+        "style_conflict": "Michael plans to use strong riser, pronation, back pressure, and cup to defeat Genadi, avoiding a hook unless he chooses to go into it.",
+        "opinion_about_athletes": {
+          "Genadi Kvikvinia": {
+            "strength": "Very strong, especially when confident",
+            "health": "Recovered from bicep surgery, expected to be in top form",
+            "previous_match_summary": "Genadi defeated Michael in their last encounter by exploiting technical errors and fatigue."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Michael Todd": [
+      {
+        "match": [
+          "Todd Hutchings",
+          "Yoshinobu Kanai"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Todd Hutchings",
+        "predicted_score": null,
+        "prediction_summary": "Michael did not explicitly predict but implied Todd's experience and strength would be key.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Todd Hutchings": {
+            "strength": "Strong and experienced",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Yoshinobu Kanai": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Oleg Petrenko"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Devon Larratt",
+        "predicted_score": null,
+        "prediction_summary": "Michael did not explicitly predict but discussed Devon's strength and form.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Very strong, especially with added weight",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Oleg Petrenko": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ],
+    "Engin Terzi": [
+      {
+        "match": [
+          "Michael Todd",
+          "Genadi Kvikvinia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Michael Todd",
+        "predicted_score": null,
+        "prediction_summary": "Engin believes Michael is in the best mental and physical shape of his career and sees this as the biggest match on the card.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Michael Todd": {
+            "strength": "Stronger than ever, with improved form",
+            "health": "Recovered from surgery, in top shape",
+            "previous_match_summary": "Michael has been focusing on a comeback and is highly motivated."
+          },
+          "Genadi Kvikvinia": {
+            "strength": "Very strong, especially in explosive hits",
+            "health": "Recovered from bicep surgery, expected to be strong",
+            "previous_match_summary": "Genadi has a history of strong performances and a warrior spirit."
+          }
+        }
+      },
+      {
+        "match": [
+          "Corey West",
+          "Kamil Jablonski"
+        ],
+        "arm": "Left",
+        "event": "King of the Table",
+        "predicted_winner": "Corey West",
+        "predicted_score": null,
+        "prediction_summary": "Engin thinks Corey has a good chance if he can match Kamil's strength and use his side pressure effectively.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Corey West": {
+            "strength": "Strong, especially with left arm pronation",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Kamil Jablonski": {
+            "strength": "Very strong press, committed style",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ]
+  }
+}

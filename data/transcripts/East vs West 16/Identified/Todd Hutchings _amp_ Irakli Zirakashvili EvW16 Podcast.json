@@ -1,0 +1,438 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Todd Hutchings",
+    "SPEAKER_01": "Irakli Zirakashvili",
+    "SPEAKER_02": "Roman (Translator)",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "Todd Hutchings": {
+      "self_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": "4-0",
+          "prediction_summary": "Todd believes he will win all four rounds, emphasizing his side pressure over Irakli's bicep strength.",
+          "predicted_duration": "4-5 minutes total pulling time",
+          "style_conflict": "Side pressure vs top roll",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Impressive bicep curling ability but less effective in arm wrestling",
+              "health": "Not mentioned",
+              "previous_match_summary": "Todd beat Irakli previously, controlling wrist and shoulder."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Brad Grundy"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Brad Grundy",
+          "predicted_score": null,
+          "prediction_summary": "Todd is confident in Brad's hand control and technique, despite Bacho's reputation.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Brad Grundy": {
+              "strength": "Excellent hand control",
+              "health": "Recently returned to arm wrestling",
+              "previous_match_summary": "Performed well against Matt Mask in practice."
+            },
+            "Bacho Saginashvili": {
+              "strength": "Strong but overrated in Todd's opinion",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisek",
+            "Malin Bergström"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Malin Bergström",
+          "predicted_score": null,
+          "prediction_summary": "Todd picks Malin due to her experience and friendship with Fia.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Malin Bergström": {
+              "strength": "Experienced world champion",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            },
+            "Fia Reisek": {
+              "strength": "Close to Malin in skill",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "Todd believes Dadikyan will win decisively, citing his defensive pulling strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Strong defensively, even when losing wrist control",
+              "health": "Recently had left arm injuries",
+              "previous_match_summary": "Not discussed"
+            },
+            "Alex Kurdecha": {
+              "strength": "Struggles to finish matches",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": null,
+          "prediction_summary": "Todd considers Oleg a legend and overwhelming favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Legendary status",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            },
+            "Daniel Procopciuc": {
+              "strength": "One of Todd's favorites but less favored here",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Oleg Petrenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Todd favors Betkili at 95 kg, noting Oleg might have an edge at higher weights.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Favored at this weight",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            },
+            "Oleg Petrenko": {
+              "strength": "Might be better at higher weights",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            }
+          }
+        },
+        {
+          "match": [
+            "Serhii Kalinichenko",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Frank Lamparelli",
+          "predicted_score": null,
+          "prediction_summary": "Todd picks Lamparelli for his attitude and zero stress, despite technical parity.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Frank Lamparelli": {
+              "strength": "Happy attitude, zero stress",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            },
+            "Serhii Kalinichenko": {
+              "strength": "Horsepower",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "Could go 4-0 either way",
+          "prediction_summary": "Todd thinks Michael Todd's King's move and homework give him the edge, despite Ermes being the community favorite.",
+          "predicted_duration": null,
+          "style_conflict": "King's move vs top roll/press",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "King's move expertise, studies opponents more now",
+              "health": "Not mentioned",
+              "previous_match_summary": "Beat Genadi recently"
+            },
+            "Ermes Gasparini": {
+              "strength": "Strong hand, but may struggle with King's move",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Todd picks Morozov as the underdog, contrary to Irakli's opinion.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Big favorite but Todd disagrees",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            },
+            "Artyom Morozov": {
+              "strength": "Underdog but Todd believes in him",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "4-0 or close",
+          "prediction_summary": "Todd thinks Devon is the heavy favorite, citing his King's move and psychological edge, but acknowledges Genadi's improved chances from their last match.",
+          "predicted_duration": null,
+          "style_conflict": "King's move vs Genadi's style",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "King's move expertise, psychological warfare",
+              "health": "Not mentioned",
+              "previous_match_summary": "Beat Genadi previously"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Improved since injury, but recovery status unknown",
+              "health": "Recovering from injury",
+              "previous_match_summary": "Lost to Michael Todd recently"
+            }
+          }
+        }
+      ]
+    },
+    "Irakli Zirakashvili": {
+      "self_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli believes he has progressed significantly since their last match and will not repeat past mistakes.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs side pressure",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Respected but overconfident",
+              "health": "Not mentioned",
+              "previous_match_summary": "Todd controlled wrist and shoulder last time."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vasily Dautashvili",
+            "Stoyan Golemanov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Vasily Dautashvili",
+          "predicted_score": "60-40",
+          "prediction_summary": "Irakli favors Vasily based on sparring sessions, noting his good shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vasily Dautashvili": {
+              "strength": "Good shape from sparring",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            },
+            "Stoyan Golemanov": {
+              "strength": "Strong but less favored",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Dadikyan's defensive pulling and ability to hold even when losing wrist control will secure the win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Strong defensively",
+              "health": "Recent left arm injuries",
+              "previous_match_summary": "Not discussed"
+            },
+            "Alex Kurdecha": {
+              "strength": "Struggles to finish",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": "70-30",
+          "prediction_summary": "Irakli considers Oleg a heavy favorite due to his legendary status.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Legendary status",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            },
+            "Daniel Procopciuc": {
+              "strength": "Less favored",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Irakli considers Ermes a huge favorite, possibly due to stylistic advantages.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Huge favorite",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            },
+            "Michael Todd": {
+              "strength": "Underdog in this match",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Irakli sees Laletin as a very big favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Very big favorite",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            },
+            "Artyom Morozov": {
+              "strength": "Underdog",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Irakli considers it a balanced match, depending on Genadi's recovery from injury.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong but may be challenged in Georgia",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not discussed"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Depends on recovery",
+              "health": "Recovering from injury",
+              "previous_match_summary": "Not discussed"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

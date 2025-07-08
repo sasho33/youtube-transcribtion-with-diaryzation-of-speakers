@@ -1,0 +1,111 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Levan Saginashvili",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Host"
+  },
+  "date": null,
+  "self_predictions": {
+    "Levan Saginashvili": {
+      "self_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "King of the Table",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan is training hard and focusing on side pressure for Jerry. He acknowledges Jerry's dangerous technique but believes he can win if he prepares correctly.",
+          "predicted_duration": "Quick match preferred",
+          "style_conflict": "Jerry's unorthodox technique is dangerous",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Very strong side pressure",
+              "health": null,
+              "previous_match_summary": "Jerry has good endurance and has had long matches in the past."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Georgii Tautiev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli is young and can recover quickly. His opponent is very good, but Levan is not nervous about it.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Very young and strong",
+              "health": "Was recently sick but has time to recover",
+              "previous_match_summary": null
+            },
+            "Georgii Tautiev": {
+              "strength": "Very good opponent",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "60-40",
+          "prediction_summary": "Devon is not in his best shape but can still win. Petrenko is a very low weight for Devon.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Not as strong as when he pulled against Levan",
+              "health": null,
+              "previous_match_summary": "Lost on fouls in recent matches."
+            },
+            "Oleg Petrenko": {
+              "strength": "Very low weight for his height",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Dzeranov is very dangerous and has shown great progress. He can stop Vitalii.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgii Dzeranov": {
+              "strength": "Very strong and solid",
+              "health": null,
+              "previous_match_summary": "Beat Ferit and showed great progress."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

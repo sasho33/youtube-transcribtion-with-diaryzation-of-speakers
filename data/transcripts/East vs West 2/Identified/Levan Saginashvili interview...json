@@ -1,0 +1,112 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Raymonds",
+    "SPEAKER_01": "Levan Saginashvili",
+    "SPEAKER_02": "Tornike (Translator)",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "self_predictions": [],
+  "third_party_predictions": [
+    {
+      "match": [
+        "John Brzenk",
+        "Khadzimurat Zoloev"
+      ],
+      "arm": "Right",
+      "event": "East vs West 2",
+      "predicted_winner": "Khadzimurat Zoloev",
+      "predicted_score": null,
+      "prediction_summary": "Levan gives a slight edge to Zoloev, recalling their previous fight but acknowledges it's hard to tell given the time passed.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "John Brzenk": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": "Great performance in past matches, but time has passed."
+        },
+        "Khadzimurat Zoloev": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": "Strong competitor, known for his skills."
+        }
+      }
+    },
+    {
+      "match": [
+        "Genadi Kvikvinia",
+        "Michael Todd"
+      ],
+      "arm": "Right",
+      "event": "East vs West 2",
+      "predicted_winner": "Michael Todd",
+      "predicted_score": null,
+      "prediction_summary": "Levan thinks Todd is slightly favored and Genadi needs to adapt and bring his best form.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Genadi Kvikvinia": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": "Needs to adapt his strategy for this match."
+        },
+        "Michael Todd": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": "Slightly favored due to recent performances."
+        }
+      }
+    },
+    {
+      "match": [
+        "Ermes Gasparini",
+        "Arif Ertem"
+      ],
+      "arm": "Right",
+      "event": "East vs West 2",
+      "predicted_winner": "Ermes Gasparini",
+      "predicted_score": null,
+      "prediction_summary": "Levan gives a slight edge to Gasparini but is not entirely sure, noting it depends on their preparation.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Ermes Gasparini": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": "Had tough matches recently, needs to be in top shape."
+        },
+        "Arif Ertem": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": "Strong competitor, won recent tournaments."
+        }
+      }
+    },
+    {
+      "match": [
+        "Todd Hutchings",
+        "Yordan Tsonev"
+      ],
+      "arm": "Right",
+      "event": "East vs West 2",
+      "predicted_winner": "Todd Hutchings",
+      "predicted_score": null,
+      "prediction_summary": "Levan doesn't see Tsonev winning with a hook and doubts his ability to toproll Hutchings.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Todd Hutchings": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": "Easily beats good hookers, strong inside game."
+        },
+        "Yordan Tsonev": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": "Unlikely to win with his current style against Hutchings."
+        }
+      }
+    }
+  ]
+}

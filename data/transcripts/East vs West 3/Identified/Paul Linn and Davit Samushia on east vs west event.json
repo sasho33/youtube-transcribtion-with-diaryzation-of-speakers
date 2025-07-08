@@ -1,0 +1,415 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Paul Linn",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Davit Samushia",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Paul Linn",
+      "self_predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "Davit Samushia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Paul sees himself as the underdog due to Davit's technical superiority and polish. He acknowledges Davit's structural soundness and patience, expecting the match to go inside.",
+          "predicted_duration": null,
+          "style_conflict": "Inside hook",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Incredibly structurally sound",
+              "health": null,
+              "previous_match_summary": "Super patient, can initiate a hook against just about anybody"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Paul favors John due to his pronation and hand control, especially after watching his recent matches. He thinks John will stay outside initially.",
+          "predicted_duration": null,
+          "style_conflict": "Outside pronation",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Pronation and hand control",
+              "health": null,
+              "previous_match_summary": "Recent matches show strong pronation and wrist flexion"
+            },
+            "Zurab Tavberidze": {
+              "strength": "Best shape of his life",
+              "health": null,
+              "previous_match_summary": "Strong bicep and side pressure, held his own against Ron Bath"
+            }
+          }
+        },
+        {
+          "match": [
+            "Marcio Barboza",
+            "Ongarbayev"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Ongarbayev",
+          "predicted_score": null,
+          "prediction_summary": "Paul initially favored Ongarbayev but reconsidered after hearing about Marcio's current form. Thinks it will be close.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Marcio Barboza": {
+              "strength": "Confident in training",
+              "health": null,
+              "previous_match_summary": "Working hard, in top form"
+            },
+            "Ongarbayev": {
+              "strength": null,
+              "health": "Had shoulder surgery",
+              "previous_match_summary": "Recently lost at Kazakhstan nationals but won in Asian championships"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Paul favors Dave due to his current form and flat-wristed side pressure. Thinks Dave's mind state is really good right now.",
+          "predicted_duration": null,
+          "style_conflict": "Flat-wristed side pressure",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Well-rounded",
+              "health": null,
+              "previous_match_summary": "Impressive performance against Michael Todd"
+            },
+            "Dave Chaffee": {
+              "strength": "Flat-wristed side pressure",
+              "health": null,
+              "previous_match_summary": "Looked dangerous in Dubai, current form is strong"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "İrakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Paul slightly favors Todd but isn't super confident. Thinks the match will go to strap and could be close.",
+          "predicted_duration": null,
+          "style_conflict": "Strap",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Open wrist side pressure",
+              "health": "No pain, anomaly",
+              "previous_match_summary": "Active, competing every three weeks"
+            },
+            "İrakli Zirakashvili": {
+              "strength": "Back pressure and top roll",
+              "health": null,
+              "previous_match_summary": "Heavier now, comfortable weight"
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Paul favors Prudnik due to his ability to pull outside and post his top knuckle against Matt's low hand.",
+          "predicted_duration": null,
+          "style_conflict": "High crushing cup",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Hand strength, versatility",
+              "health": null,
+              "previous_match_summary": "Total package, technical"
+            },
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Left arm is good but Prudnik's dominant arm is better"
+            }
+          }
+        },
+        {
+          "match": [
+            "Arif Ertem",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Paul favors Arif after watching Krasimir's recent match with Corey. Questions Krasimir's form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arif Ertem": {
+              "strength": null,
+              "health": "Good form but not super form due to Ramadan",
+              "previous_match_summary": "Current WAF champion"
+            },
+            "Krasimir Kostadinov": {
+              "strength": null,
+              "health": "Claims to be in good form",
+              "previous_match_summary": "Lost to Corey recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Efe Kömek"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Paul favors Zurab as his left is dominant.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Dominant left arm",
+              "health": null,
+              "previous_match_summary": "Beat Jonathan Breda with left arm"
+            },
+            "Efe Kömek": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Davit Samushia",
+      "self_predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "Davit Samushia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Davit thinks the match is 50-50 due to the weight difference. He respects Paul but believes in himself.",
+          "predicted_duration": null,
+          "style_conflict": "Inside hook",
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Strong opponent",
+              "health": null,
+              "previous_match_summary": "Better than Ron Bath"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Revaz Lutidze",
+          "predicted_score": null,
+          "prediction_summary": "Davit thinks Revaz is in the best shape and will definitely win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Best shape",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Davit gives 50-50 due to John being a legend but thinks Zurab is in the best shape of his life.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legend",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Zurab Tavberidze": {
+              "strength": "Best shape ever",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Davit thinks it's 50-50.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "İrakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "İrakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Davit gives İrakli more chance, possibly 70%, due to weight and back pressure.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "İrakli Zirakashvili": {
+              "strength": "Back pressure and top roll",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Marcio Barboza",
+            "Ongarbayev"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Ongarbayev",
+          "predicted_score": null,
+          "prediction_summary": "Davit thinks Ongarbayev will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Marcio Barboza": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ongarbayev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Davit thinks Prudnik has more chance to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Efe Kömek"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Davit thinks Zurab is much stronger and will definitely win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Much stronger",
+              "health": null,
+              "previous_match_summary": "Trained very hard"
+            },
+            "Efe Kömek": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

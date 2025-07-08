@@ -1,0 +1,183 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Devon Larratt",
+    "SPEAKER_01": "Matt Mask",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "John Brzenk",
+    "SPEAKER_04": "Evgeny Prudnik"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Evgeny Prudnik",
+      "self_predictions": [
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "3-0",
+          "prediction_summary": "Prudnik believes he will dominate Matt Mask in all ways, including hook, side pressure, and top roll.",
+          "predicted_duration": "Quick pins",
+          "style_conflict": "Prudnik confident in all styles",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Not at Prudnik's level",
+              "health": "No concerns mentioned",
+              "previous_match_summary": "Prudnik dismisses Mask's past performances"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Tobias Sporrong",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "3-0",
+          "prediction_summary": "Prudnik initially claimed 1000% confidence but later adjusted to 85%, still predicting victory.",
+          "predicted_duration": "Multiple pins",
+          "style_conflict": "Prudnik believes he can win in any style",
+          "opinion_about_athletes": {
+            "Tobias Sporrong": {
+              "strength": "Potential but not enough",
+              "health": "No concerns mentioned",
+              "previous_match_summary": "Lost to Morozov, Prudnik doubts his ability"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "John Brzenk",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "Davit Samushia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": "3-0",
+          "prediction_summary": "John does not see Paul losing to Samushia, citing Paul's power and explosiveness.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Paul can dictate the match's direction",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Respects his hook",
+              "health": "No concerns mentioned",
+              "previous_match_summary": "World champion but unknown to many in the West"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "3-0",
+          "prediction_summary": "John is confident in his improved shape and plans to test Zurab in various styles.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "John plans to explore all options including hook",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Big biceps but doubts wrist strength",
+              "health": "No concerns mentioned",
+              "previous_match_summary": "Zurab claims to be 50% stronger post-COVID"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Matt Mask",
+      "self_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": "3-0",
+          "prediction_summary": "Mask is highly confident, planning to unleash his energy and dominate Prudnik.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Mask believes he can handle Prudnik's styles",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Respects but believes he can overcome",
+              "health": "No concerns mentioned",
+              "previous_match_summary": "Prudnik's past performances dismissed"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": []
+    },
+    {
+      "speaker": "Michael Todd",
+      "self_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "3-2",
+          "prediction_summary": "Todd believes if he can stop Revaz initially, he can win in the strap.",
+          "predicted_duration": "Long match if stopped early",
+          "style_conflict": "Todd's king move could be decisive",
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Strong top roller",
+              "health": "No concerns mentioned",
+              "previous_match_summary": "Gave Levan a hard match in 2017"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": []
+    },
+    {
+      "speaker": "Dave Chaffee",
+      "self_predictions": [
+        {
+          "match": [
+            "Dave Chaffee",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "3-0",
+          "prediction_summary": "Chaffee is confident in his strength and believes Genadi's excuses won't matter.",
+          "predicted_duration": "Quick pins",
+          "style_conflict": "Chaffee's offensive pressure",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Smart but not strong enough",
+              "health": "No concerns mentioned",
+              "previous_match_summary": "Lost to Chaffee four years ago"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": []
+    }
+  ]
+}

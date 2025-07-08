@@ -1,0 +1,172 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Travis Bagent",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Artem Taranenko",
+    "SPEAKER_03": "Mindaugas Tarasaitis"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Artem Taranenko",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Artem Taranenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas is favored due to his strength and experience, but Artem believes it's not a mismatch and could be a good match.",
+          "predicted_duration": null,
+          "style_conflict": "Artem's style could trouble Mindaugas if his hand holds up.",
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Very strong, especially in pronation and back pressure.",
+              "health": null,
+              "previous_match_summary": "Consistent performer, known for his top-rolling ability."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Mindaugas Tarasaitis",
+      "self_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Artem Taranenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Confident in winning due to being in the best shape of his life and superior technique.",
+          "predicted_duration": null,
+          "style_conflict": "Believes his style and power will overwhelm Artem.",
+          "opinion_about_athletes": {
+            "Artem Taranenko": {
+              "strength": "Strong but not at the same level.",
+              "health": null,
+              "previous_match_summary": "Has shown improvement but inconsistent."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ryan Belanger",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": null,
+          "prediction_summary": "Raimonds is the favorite due to experience, but Ryan could be competitive.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ryan Belanger": {
+              "strength": "Active and improving, long arms.",
+              "health": null,
+              "previous_match_summary": "Stepped up recently, taking challenges."
+            },
+            "Raimonds Liepiņš": {
+              "strength": "Experienced, strong.",
+              "health": null,
+              "previous_match_summary": "Consistent performer."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Travis Bagent",
+      "self_predictions": [
+        {
+          "match": [
+            "Corey West",
+            "Travis Bagent"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Travis Bagent",
+          "predicted_score": null,
+          "prediction_summary": "Believes he can run Corey over left-handed and become the best in the US.",
+          "predicted_duration": null,
+          "style_conflict": "Corey's stubbornness in losing positions could be a challenge.",
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Strong, especially if not a lot stronger than him.",
+              "health": null,
+              "previous_match_summary": "Has shown vulnerability against stronger opponents."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Hunter Noffz",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Expects a highly emotional and competitive match due to personal animosity.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Hunter Noffz": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Rising in fame, which irritates Doug."
+            },
+            "Doug Erlich": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Prickly and competitive, with strong regional pride."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Alex is the favorite due to size and technical ability, but Jerry can't be counted out.",
+          "predicted_duration": null,
+          "style_conflict": "Alex needs to be smart and not just overpower Jerry.",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Strong, unpredictable.",
+              "health": null,
+              "previous_match_summary": "Not seen training recently."
+            },
+            "Alex Kurdecha": {
+              "strength": "Has all the tools, size, and power.",
+              "health": null,
+              "previous_match_summary": "Technically sound and powerful."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

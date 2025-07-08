@@ -1,0 +1,421 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Pradeep Singh",
+    "SPEAKER_01": "Chance Shaw",
+    "SPEAKER_02": "Sandris Šedis",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Sandris Šedis",
+      "self_predictions": [
+        {
+          "match": [
+            "Sandris Šedis",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Sandris Šedis",
+          "predicted_score": "3-0",
+          "prediction_summary": "Sandris believes he is more versatile and can win in any lane (hook, top roll, press). He feels confident in his ability to beat Chance Shaw.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Chance Shaw": {
+              "strength": "Underdog, less experienced",
+              "health": null,
+              "previous_match_summary": "Chance has never placed at WAF, EAF, or Zloty Tur events."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yordan Tsonev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Sandris thinks Todd Hutchings is a favorite due to his strength and experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong, experienced",
+              "health": null,
+              "previous_match_summary": "Todd has been motivated after his last loss and has been performing well."
+            },
+            "Yordan Tsonev": {
+              "strength": "Strong but less experienced",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "3-0",
+          "prediction_summary": "Sandris believes John Brzenk will win, especially if the match goes to the strap.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experienced, strong",
+              "health": null,
+              "previous_match_summary": "John has been progressing and getting stronger with each match."
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong but less consistent",
+              "health": null,
+              "previous_match_summary": "Zoloev has looked sloppy in recent years."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Sandris thinks Gasparini will win via top roll and hand control.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong top roller",
+              "health": null,
+              "previous_match_summary": "Gasparini has been consistent in his performances."
+            },
+            "Arif Ertem": {
+              "strength": "Versatile but less dominant",
+              "health": null,
+              "previous_match_summary": "Arif has had mixed results in recent matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Sandris gives a slight edge to Genadi, questioning Michael Todd's wrist strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong but inconsistent",
+              "health": null,
+              "previous_match_summary": "Genadi has been less convincing recently."
+            },
+            "Michael Todd": {
+              "strength": "Strong but reliant on specific techniques",
+              "health": null,
+              "previous_match_summary": "Michael has been training hard but may struggle if not in top shape."
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisek",
+            "Rebeka Martinkovicova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Fia Reisek",
+          "predicted_score": null,
+          "prediction_summary": "Sandris thinks Fia is a slight favorite due to weight class advantages.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Fia Reisek": {
+              "strength": "Strong in her weight class",
+              "health": null,
+              "previous_match_summary": "Fia has been consistent in her performances."
+            },
+            "Rebeka Martinkovicova": {
+              "strength": "Underrated but less experienced",
+              "health": null,
+              "previous_match_summary": "Rebeka has competed in higher weight classes before."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Betkili Oniani"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": null,
+          "prediction_summary": "Sandris favors Oleg Zhokh but acknowledges Betkili's strength in the hook.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Strong, experienced",
+              "health": null,
+              "previous_match_summary": "Oleg has been dominant in his matches."
+            },
+            "Betkili Oniani": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": "Betkili has performed well in practice matches."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Chance Shaw",
+      "self_predictions": [
+        {
+          "match": [
+            "Sandris Šedis",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Chance Shaw",
+          "predicted_score": "3-0",
+          "prediction_summary": "Chance believes he has a 60-70% chance of winning, citing Sandris's upcoming match two weeks prior as a potential disadvantage.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Šedis": {
+              "strength": "Versatile but may have wrist issues",
+              "health": null,
+              "previous_match_summary": "Sandris has been performing well but may be fatigued from prior matches."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "3-0",
+          "prediction_summary": "Chance favors John Brzenk, believing Haji Zoloev isn't strong enough to pin John inside the straps.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experienced, strong",
+              "health": null,
+              "previous_match_summary": "John has been progressing and getting stronger with each match."
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong but less consistent",
+              "health": null,
+              "previous_match_summary": "Zoloev has looked sloppy in recent years."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yordan Tsonev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Chance thinks Todd Hutchings will win if he gets through his prior match cleanly.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong, motivated",
+              "health": null,
+              "previous_match_summary": "Todd has been performing well after his last loss."
+            },
+            "Yordan Tsonev": {
+              "strength": "Strong but less experienced",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Efe Kömek",
+            "Ron Bath"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Efe Kömek",
+          "predicted_score": null,
+          "prediction_summary": "Chance favors Efe Kömek, citing Ron Bath's recent injuries and less dominant performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Efe Kömek": {
+              "strength": "Strong, versatile",
+              "health": null,
+              "previous_match_summary": "Efe has been performing well in recent matches."
+            },
+            "Ron Bath": {
+              "strength": "Experienced but injured",
+              "health": "Injured (pec, left arm)",
+              "previous_match_summary": "Ron has been dealing with injuries and less dominant performances."
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Jonathan Breda"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Chance thinks Jonathan Breda has a 30-40% chance but still favors Zurab Tavberidze.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong, technical",
+              "health": null,
+              "previous_match_summary": "Zurab has been performing well in recent matches."
+            },
+            "Jonathan Breda": {
+              "strength": "Strong but less experienced",
+              "health": null,
+              "previous_match_summary": "Jonathan is taking the match seriously but is an underdog."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Chance slightly favors Michael Todd, citing his recent training and motivation.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong but inconsistent",
+              "health": null,
+              "previous_match_summary": "Genadi has been less convincing recently."
+            },
+            "Michael Todd": {
+              "strength": "Strong, motivated",
+              "health": null,
+              "previous_match_summary": "Michael has been training hard and looking strong."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Pradeep Singh",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Sandris Šedis",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Sandris Šedis",
+          "predicted_score": null,
+          "prediction_summary": "Pradeep thinks Sandris should be the heavy favorite due to his versatility and experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Šedis": {
+              "strength": "Versatile, experienced",
+              "health": null,
+              "previous_match_summary": "Sandris has been performing well in recent matches."
+            },
+            "Chance Shaw": {
+              "strength": "Underdog, less experienced",
+              "health": null,
+              "previous_match_summary": "Chance has never placed at WAF, EAF, or Zloty Tur events."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Khadzimurat Zoloev",
+          "predicted_score": null,
+          "prediction_summary": "Pradeep believes Zoloev can beat John in a hook under strict rules.",
+          "predicted_duration": null,
+          "style_conflict": "Hook",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experienced but older",
+              "health": null,
+              "previous_match_summary": "John has been progressing but is older."
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": "Zoloev has been strong in hook matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Betkili Oniani"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Pradeep thinks Betkili can beat Oleg in a hook based on practice matches.",
+          "predicted_duration": null,
+          "style_conflict": "Hook",
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Strong but may struggle in hook",
+              "health": null,
+              "previous_match_summary": "Oleg has been dominant but may struggle in hook."
+            },
+            "Betkili Oniani": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": "Betkili has performed well in practice matches."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

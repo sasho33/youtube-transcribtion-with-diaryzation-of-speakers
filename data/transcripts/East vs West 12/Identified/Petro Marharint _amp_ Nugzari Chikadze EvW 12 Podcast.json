@@ -1,0 +1,273 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Roman",
+    "SPEAKER_02": "Ray",
+    "SPEAKER_03": "Petro Marharint",
+    "SPEAKER_04": "Nugzari Chikadze"
+  },
+  "date": null,
+  "predictions": {
+    "Petro Marharint": {
+      "self_predictions": [
+        {
+          "match": [
+            "Petro Marharint",
+            "Nugzari Chikadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Petro Marharint",
+          "prediction_summary": "Petro is confident but keeps his thoughts to himself, believing in his ability to win."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Betkili Oniani",
+            "Talgat Aktaev"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Talgat Aktaev",
+          "prediction_summary": "Petro finds it hard to predict but leans towards Talgat."
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Sandris Šedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Sandris Šedis",
+          "prediction_summary": "Petro believes Sandris will be faster and win."
+        },
+        {
+          "match": [
+            "Kamil Jablonski",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Tobias Sporrong",
+          "prediction_summary": "Petro thinks Tobias is very strong on the left hand."
+        },
+        {
+          "match": [
+            "Leonidas Arkona",
+            "Alexsandr Beziazykov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Alexsandr Beziazykov",
+          "prediction_summary": "Petro follows Skullboy's training and believes he will win."
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Alex Kurdecha",
+          "prediction_summary": "Petro thinks the match will be in the straps and Alex will win."
+        },
+        {
+          "match": [
+            "Fia Reisik",
+            "Ekaterina Nikisheva"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Ekaterina Nikisheva",
+          "prediction_summary": "Petro believes Nikisheva's experience will lead her to victory."
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Mindaugus Tarasaitis",
+          "prediction_summary": "Petro thinks Tarasaitis showed great technique and endurance in his last match."
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Irakli Zirakashvili",
+          "prediction_summary": "Petro believes Irakli will use his low hand top roll to win."
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Michael Todd",
+          "prediction_summary": "Petro thinks Michael Todd is in good shape and will win."
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Nurdaulet Aidarkhan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Davit Samushia",
+          "prediction_summary": "Petro believes Samushia will win, likely due to endurance."
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Alizhan Muratov",
+          "prediction_summary": "Petro thinks Alizhan is a machine and will win, despite Ermes being heavier."
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "prediction_summary": "Petro believes Levan will be better prepared and win."
+        }
+      ]
+    },
+    "Nugzari Chikadze": {
+      "self_predictions": [
+        {
+          "match": [
+            "Petro Marharint",
+            "Nugzari Chikadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Nugzari Chikadze",
+          "prediction_summary": "Nugo is extremely confident, stating he will destroy Petro at the table."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Betkili Oniani",
+            "Talgat Aktaev"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Betkili Oniani",
+          "prediction_summary": "Nugo believes Talgat will hurt himself against Betkili, who will take the win."
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Sandris Šedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Ibragim Sagov",
+          "prediction_summary": "Nugo slightly favors Sagov, believing he will engage his shoulder and win."
+        },
+        {
+          "match": [
+            "Kamil Jablonski",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Tobias Sporrong",
+          "prediction_summary": "Nugo thinks Tobias is very strong on the left hand."
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Mindaugus Tarasaitis",
+          "prediction_summary": "Nugo believes Mindaugus will repeat his victory against Makarov."
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Irakli Zirakashvili",
+          "prediction_summary": "Nugo thinks Irakli is more experienced and stronger now, and will win."
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Georgi Tsvetkov",
+          "prediction_summary": "Nugo believes Tsvetkov will win due to better shoulder engagement."
+        },
+        {
+          "match": [
+            "Fia Reisik",
+            "Ekaterina Nikisheva"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Ekaterina Nikisheva",
+          "prediction_summary": "Nugo thinks Ekaterina is a bit of a favorite."
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Michael Todd",
+          "prediction_summary": "Nugo believes Michael will wear Frank out and win."
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Nurdaulet Aidarkhan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Davit Samushia",
+          "prediction_summary": "Nugo thinks Samushia will prepare well and win, maintaining his legendary status."
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Ermes Gasparini",
+          "prediction_summary": "Nugo believes Ermes will surprise everyone and win."
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "prediction_summary": "Nugo advises Devon not to injure himself, implying Levan will win."
+        }
+      ]
+    }
+  }
+}

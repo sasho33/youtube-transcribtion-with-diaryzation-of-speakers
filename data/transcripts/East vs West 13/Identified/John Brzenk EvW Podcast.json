@@ -1,0 +1,144 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "John Brzenk",
+    "SPEAKER_01": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "John Brzenk": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Petro Marharint",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Petro Marharint",
+          "predicted_score": null,
+          "prediction_summary": "Petro Marharint is strong and could be a nightmare for top rollers. He improved and is on a mission to prove himself.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Strong hand and wrist",
+              "health": null,
+              "previous_match_summary": "Beat Krasimir in strap and showed improvement."
+            },
+            "Zurab Tavberidze": {
+              "strength": "Super strong out of the gate",
+              "health": null,
+              "previous_match_summary": "Beat top Ukrainian pullers but lost to Petro in hook."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Petro Marharint would be a nightmare for Irakli, suggesting Irakli might struggle against strong top rollers.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Morozov is a candidate to beat Levan due to his size and ability to hook without the strap.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs top roll",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Tall and strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artyom Morozov": {
+              "strength": "Big and strong hand control",
+              "health": "Getting bigger after stomach issues",
+              "previous_match_summary": "Surprised by hooking Kurdecha without the strap."
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Petro Marharint",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Petro Marharint",
+          "predicted_score": null,
+          "prediction_summary": "Petro improved and is strong, but the match could go either way depending on hand and wrist control.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Strong hand and wrist",
+              "health": null,
+              "previous_match_summary": "Beat Krasimir in strap and showed improvement."
+            },
+            "Zurab Tavberidze": {
+              "strength": "Super strong out of the gate",
+              "health": null,
+              "previous_match_summary": "Beat top Ukrainian pullers but lost to Petro in hook."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Morozov is a candidate to beat Levan due to his size and ability to hook without the strap.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs top roll",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Tall and strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artyom Morozov": {
+              "strength": "Big and strong hand control",
+              "health": "Getting bigger after stomach issues",
+              "previous_match_summary": "Surprised by hooking Kurdecha without the strap."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

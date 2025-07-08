@@ -1,0 +1,221 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Host",
+    "SPEAKER_01": "Ivan Matyushenko",
+    "SPEAKER_03": "Host"
+  },
+  "date": null,
+  "predictions": {
+    "Ivan Matyushenko": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ivan Matyushenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Ivan thinks it's a 50-50 match, depending on whose wrist is stronger and who can control the pronator better.",
+          "predicted_duration": null,
+          "style_conflict": "Wrist control vs. pronator strength",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Strong and explosive",
+              "health": "Good",
+              "previous_match_summary": "Alizhan has been active and likes to fight often, showing good stamina."
+            },
+            "Ivan Matyushenko": {
+              "strength": "Strong wrist and pronator",
+              "health": "Healthy after a break",
+              "previous_match_summary": "Ivan had a break and is now training carefully to avoid injury."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Ivan thinks Vitalii is the favorite but Dzeranov has a 35-40% chance, especially if he can use his endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Outside pull vs. flop top roll",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Explosive and fast",
+              "health": "Good",
+              "previous_match_summary": "Vitalii is known for his explosive starts and strong outside pulls."
+            },
+            "Georgii Dzeranov": {
+              "strength": "Strong and improving",
+              "health": "Good",
+              "previous_match_summary": "Dzeranov has shown significant improvement and good endurance in recent matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Ivan thinks Devon will dominate, making it a long fight for endurance, but Oleg has no real chance.",
+          "predicted_duration": "Long fight",
+          "style_conflict": "Endurance vs. power",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong left arm, good endurance",
+              "health": "Good",
+              "previous_match_summary": "Devon has been making shows in his matches, even when lighter."
+            },
+            "Oleg Petrenko": {
+              "strength": "Good left arm",
+              "health": "Good",
+              "previous_match_summary": "Oleg is strong but lacks the shoulder press to finish against top opponents."
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Ivan thinks Michael has improved and is heavier, making him the favorite unless Genadi is fully recovered.",
+          "predicted_duration": null,
+          "style_conflict": "Shoulder press vs. endurance",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Strong shoulder press, improved endurance",
+              "health": "Good",
+              "previous_match_summary": "Michael has been gaining weight and showing better form recently."
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Versatile and strong",
+              "health": "Recovering from injury",
+              "previous_match_summary": "Genadi's form depends on his recovery from injury."
+            }
+          }
+        }
+      ]
+    },
+    "Artem Morozov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Artem Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Artem Morozov",
+          "predicted_score": "95% confidence",
+          "prediction_summary": "Artem is tired of losing with his right hand and is confident he can win, depending on Alex's form.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. top roll",
+          "opinion_about_athletes": {
+            "Artem Morozov": {
+              "strength": "Strong right hook",
+              "health": "Healthy",
+              "previous_match_summary": "Artem has been training hard and added strength in some exercises."
+            },
+            "Alex Kurdecha": {
+              "strength": "Strong but has weak points in shoulder press",
+              "health": "Good",
+              "previous_match_summary": "Alex had recent life changes (new child) that might affect his preparation."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Artem thinks Michael has improved and is heavier, making him the favorite unless Genadi is fully recovered.",
+          "predicted_duration": null,
+          "style_conflict": "Shoulder press vs. endurance",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Strong shoulder press, improved endurance",
+              "health": "Good",
+              "previous_match_summary": "Michael has been gaining weight and showing better form recently."
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Versatile and strong",
+              "health": "Recovering from injury",
+              "previous_match_summary": "Genadi's form depends on his recovery from injury."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Artem thinks Devon will dominate, making it a show, and Oleg has no real chance.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs. power",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong left arm, good endurance",
+              "health": "Good",
+              "previous_match_summary": "Devon has been making shows in his matches, even when lighter."
+            },
+            "Oleg Petrenko": {
+              "strength": "Good left arm",
+              "health": "Good",
+              "previous_match_summary": "Oleg is strong but lacks the shoulder press to finish against top opponents."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Artem thinks Vitalii is the favorite but Dzeranov has a chance if he can use his flop top roll technique.",
+          "predicted_duration": null,
+          "style_conflict": "Outside pull vs. flop top roll",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Explosive and fast",
+              "health": "Good",
+              "previous_match_summary": "Vitalii is known for his explosive starts and strong outside pulls."
+            },
+            "Georgii Dzeranov": {
+              "strength": "Strong and improving",
+              "health": "Good",
+              "previous_match_summary": "Dzeranov has shown significant improvement and good endurance in recent matches."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

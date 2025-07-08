@@ -1,0 +1,317 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Travis Bagent",
+    "SPEAKER_01": "Travis Bagent",
+    "SPEAKER_03": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Travis Bagent",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Stoyan Golemanov",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Brandon Ellsessor",
+          "predicted_score": null,
+          "prediction_summary": "Travis believes Brandon Ellsessor will win due to his hard work and potential to become a staple in the sport.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Brandon Ellsessor": {
+              "strength": "Working hard and improving",
+              "health": null,
+              "previous_match_summary": "Has been climbing the ranks and showing promise"
+            }
+          }
+        },
+        {
+          "match": [
+            "Petro Marharint",
+            "Nugzari Chikadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Petro Marharint",
+          "predicted_score": null,
+          "prediction_summary": "Travis is impressed by Petro's professionalism and calm demeanor, predicting a strong performance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Professional and balanced",
+              "health": null,
+              "previous_match_summary": "Impressive performance in previous events"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Sandris Šedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Sandris Šedis",
+          "predicted_score": null,
+          "prediction_summary": "Travis thinks Sandris is skilled but may struggle if he doesn't focus on his most effective move.",
+          "predicted_duration": "Long match",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Šedis": {
+              "strength": "Skilled and technical",
+              "health": null,
+              "previous_match_summary": "Known for his technical prowess"
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisik",
+            "Ekaterina Nikisheva"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Travis is a fan of both athletes and thinks the match will be close, rooting for both.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Fia Reisik": {
+              "strength": "Skilled and dedicated",
+              "health": null,
+              "previous_match_summary": "Strong performances in past matches"
+            },
+            "Ekaterina Nikisheva": {
+              "strength": "Skilled and dedicated",
+              "health": null,
+              "previous_match_summary": "Strong performances in past matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Mindaugus Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Travis believes Mindaugus is vulnerable but enjoys his aggressive style and thinks he might win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugus Tarasaitis": {
+              "strength": "Aggressive and enjoyable to watch",
+              "health": null,
+              "previous_match_summary": "Has shown vulnerability but also strong performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Kamil Jablonski",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Tobias Sporrong",
+          "predicted_score": null,
+          "prediction_summary": "Travis thinks Tobias is a skilled underdog who could surprise Kamil.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Tobias Sporrong": {
+              "strength": "Skilled and underrated",
+              "health": null,
+              "previous_match_summary": "Has shown potential in past matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Leonidas Arkona",
+            "Alexsandr Beziazykov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Alexsandr Beziazykov",
+          "predicted_score": null,
+          "prediction_summary": "Travis predicts Schoolboy (Alexsandr) will win due to Leonidas' perceived weaknesses.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alexsandr Beziazykov": {
+              "strength": "Strong and skilled",
+              "health": null,
+              "previous_match_summary": "Has shown dominance in past matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Travis hopes Michael Todd wins to regain confidence and continue competing at a high level.",
+          "predicted_duration": "Long match",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Skilled and resilient",
+              "health": null,
+              "previous_match_summary": "Known for his endurance and dramatic wins"
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Nurdaulet Aidarkhan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Nurdaulet Aidarkhan",
+          "predicted_score": null,
+          "prediction_summary": "Travis thinks the belt might change hands as Davit has been vulnerable in past matches.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Humble and respectful",
+              "health": null,
+              "previous_match_summary": "Has shown vulnerability in title defenses"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Travis favors Irakli due to his hand and wrist control, predicting an efficient win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Strong hand and wrist",
+              "health": null,
+              "previous_match_summary": "Has shown dominance in past matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Travis thinks Alex's size and strength will overcome Georgi's hand and wrist control.",
+          "predicted_duration": "Fun match",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Big and strong",
+              "health": null,
+              "previous_match_summary": "Has shown remarkable performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Travis believes Ermes' size and skill will be too much for Alizhan, though it will be a tough match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Big and skilled",
+              "health": null,
+              "previous_match_summary": "Strong performances in past matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Travis believes Devon will win due to his improved form and Levan's potential vulnerabilities.",
+          "predicted_duration": "Long match",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Improved and confident",
+              "health": null,
+              "previous_match_summary": "Strong performances post-pandemic"
+            },
+            "Levan Saginashvili": {
+              "strength": "Dominant but potentially vulnerable",
+              "health": "Possible wrist issues",
+              "previous_match_summary": "Showed vulnerability in recent matches"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin is focused on organizing the event and doesn't make a clear prediction, but discusses the match's importance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Improved post-pandemic",
+              "health": null,
+              "previous_match_summary": "Strong performances in recent matches"
+            },
+            "Levan Saginashvili": {
+              "strength": "Dominant but potentially vulnerable",
+              "health": "Possible wrist issues",
+              "previous_match_summary": "Showed vulnerability in recent matches"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

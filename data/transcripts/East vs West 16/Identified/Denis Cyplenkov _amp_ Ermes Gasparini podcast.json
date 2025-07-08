@@ -1,0 +1,91 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Denis Cyplenkov",
+    "SPEAKER_01": "Ermes Gasparini",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_04": "Paolo (Translator)"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Denis Cyplenkov",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii will win quickly if he uses his speed and power, but if the match goes longer, Morozov's endurance could turn the match around.",
+          "predicted_duration": null,
+          "style_conflict": "Speed vs Endurance",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Very strong, seen live and impressive",
+              "health": "Appears to be in good health",
+              "previous_match_summary": "Performing well, winning fast"
+            },
+            "Artyom Morozov": {
+              "strength": "Champion, not showing much but training hard",
+              "health": "Appears to be in good health",
+              "previous_match_summary": "Active champion, hasn't lost for a long time"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Unpredictable match due to Michael's wrestling technique. Ermes needs to have a strategy to finish quickly, but Michael will take a lot of energy.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs Bone Lock",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Training endurance, prepared",
+              "health": "Good, focusing on cardio",
+              "previous_match_summary": "Beautiful and interesting armwrestling"
+            },
+            "Michael Todd": {
+              "strength": "Strengthening angles, unpredictable",
+              "health": null,
+              "previous_match_summary": "Fought well with Genadi, Kvikvinia"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Ermes Gasparini",
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Doesn't think Michael has a lot of chance to win. Focused on finishing the match quickly due to Michael's bone lock style.",
+          "predicted_duration": null,
+          "style_conflict": "Wrist Control vs Bone Lock",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Can stay under the table for long",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

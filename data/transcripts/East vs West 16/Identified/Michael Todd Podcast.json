@@ -1,0 +1,212 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Michael Todd",
+    "SPEAKER_01": "Adnan",
+    "SPEAKER_02": "Host (possibly Malin)"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Michael Todd",
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Michael believes he will be the strongest he's ever been and that Ermes is unlucky to face him now. He thinks his preparation and strength will be too much for Ermes.",
+          "predicted_duration": null,
+          "style_conflict": "Michael thinks Ermes' strong hand and wrist will be a challenge, but he believes his riser and pronation will hold.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Very strong hand and wrist, good at controlling center.",
+              "health": "Young and hungry, no mentioned health issues.",
+              "previous_match_summary": "Held the Super Heavyweight East vs West belt, gave Levan a tough match."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "King of the Table",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "4-0",
+          "prediction_summary": "Michael thinks Levan is too powerful and will win 4-0, but if Jerry stops him once, the crowd energy could shift the match.",
+          "predicted_duration": null,
+          "style_conflict": "Levan's strength vs Jerry's back pressure.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Peak strength in arm wrestling history.",
+              "health": null,
+              "previous_match_summary": "Dominant performances, including against Ermes and Devon."
+            },
+            "Jerry Cadorette": {
+              "strength": "Best back pressure in the sport.",
+              "health": null,
+              "previous_match_summary": "Strong performances, but Michael doubts he can stop Levan."
+            }
+          }
+        },
+        {
+          "match": [
+            "Brian Shaw",
+            "Eddie Hall"
+          ],
+          "arm": "Right",
+          "event": "King of the Table",
+          "predicted_winner": "Brian Shaw (60-40)",
+          "predicted_score": null,
+          "prediction_summary": "Initially thought Brian was a heavy favorite, but now sees it as 60-40 due to Eddie's recent training with Neil Pickup.",
+          "predicted_duration": null,
+          "style_conflict": "Brian's size and strength vs Eddie's improved technique.",
+          "opinion_about_athletes": {
+            "Brian Shaw": {
+              "strength": "Massive and strong, trained for a year.",
+              "health": null,
+              "previous_match_summary": "Has been practicing arm wrestling for a while."
+            },
+            "Eddie Hall": {
+              "strength": "Improved technique recently.",
+              "health": null,
+              "previous_match_summary": "Showed smooth movements in recent training."
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "King of the Table",
+          "predicted_winner": "Paul Linn (70-30)",
+          "predicted_score": null,
+          "prediction_summary": "Michael thinks Paul is stronger and hungrier, though Krasimir is a multi-time world champion.",
+          "predicted_duration": null,
+          "style_conflict": "Paul's strength vs Krasimir's endurance.",
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Very strong, hungry fighter.",
+              "health": null,
+              "previous_match_summary": "Close matches against top competitors."
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Disciplined, multi-time world champion.",
+              "health": null,
+              "previous_match_summary": "Recently beat John Brzenk."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Rustam Babayev"
+          ],
+          "arm": "Right",
+          "event": "King of the Table",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Michael thinks it's a toss-up due to Rustam's explosiveness and Sandris' endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Rustam's short lever vs Sandris' long lever.",
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": "Good endurance, long lever.",
+              "health": null,
+              "previous_match_summary": "Known for long matches."
+            },
+            "Rustam Babayev": {
+              "strength": "Explosive, strong hook.",
+              "health": null,
+              "previous_match_summary": "Has pulled long matches in the past."
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey West",
+            "Tobias Sporrong"
+          ],
+          "arm": "Right",
+          "event": "King of the Table",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Michael thinks Corey is stronger, though Tobias is faster.",
+          "predicted_duration": null,
+          "style_conflict": "Corey's strength vs Tobias' speed.",
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Strong, especially in hook.",
+              "health": null,
+              "previous_match_summary": "Hasn't lost in North America in years."
+            },
+            "Tobias Sporrong": {
+              "strength": "Fast, can switch angles quickly.",
+              "health": null,
+              "previous_match_summary": "Known for quick hits."
+            }
+          }
+        },
+        {
+          "match": [
+            "Marcio Barboza",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "King of the Table",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Historically Matt wins, but Marcio looks in good form recently.",
+          "predicted_duration": null,
+          "style_conflict": "Matt's hand control vs Marcio's current form.",
+          "opinion_about_athletes": {
+            "Marcio Barboza": {
+              "strength": "In good form recently.",
+              "health": null,
+              "previous_match_summary": "Close matches against top competitors."
+            },
+            "Matt Mask": {
+              "strength": "Strong hand control.",
+              "health": null,
+              "previous_match_summary": "Historically beats Marcio."
+            }
+          }
+        },
+        {
+          "match": [
+            "Lars Rorbakken",
+            "Lachlan Adair"
+          ],
+          "arm": "Right",
+          "event": "King of the Table",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Michael thinks it's even, with Lars' press vs Lachlan's control.",
+          "predicted_duration": null,
+          "style_conflict": "Lars' press vs Lachlan's pronator control.",
+          "opinion_about_athletes": {
+            "Lars Rorbakken": {
+              "strength": "Strong press.",
+              "health": null,
+              "previous_match_summary": "Known for formidable press."
+            },
+            "Lachlan Adair": {
+              "strength": "Good control of pronator.",
+              "health": null,
+              "previous_match_summary": "Needs to control center to win."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Corey West",
+    "SPEAKER_04": "Travis Bagent"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Travis Bagent",
+      "self_predictions": [
+        {
+          "match": [
+            "Travis Bagent",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Travis Bagent",
+          "predicted_score": "3-0",
+          "prediction_summary": "Travis believes he will dominate Corey West left-handed, citing his strength and experience.",
+          "predicted_duration": "Quick match",
+          "style_conflict": "Travis expects to control the match with his hand and power."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Hunter Noffz",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Hunter Noffz",
+          "predicted_score": "3-0",
+          "prediction_summary": "Travis thinks Hunter is tough to beat and expects him to dominate Doug Erlich.",
+          "predicted_duration": "Quick match",
+          "style_conflict": "Hunter's aggression and strength will be key."
+        },
+        {
+          "match": [
+            "Artem Taranenko",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Artem Taranenko",
+          "predicted_score": "3-1",
+          "prediction_summary": "Travis believes Artem's strength and size will give him the edge over Mindaugas.",
+          "predicted_duration": "Competitive match",
+          "style_conflict": "Artem's power will be the deciding factor."
+        },
+        {
+          "match": [
+            "Elizabeth Mocek",
+            "Aleksandra Ozerova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Elizabeth Mocek",
+          "predicted_score": "3-0",
+          "prediction_summary": "Travis thinks Elizabeth's hard work and strength will lead her to victory.",
+          "predicted_duration": "Quick match",
+          "style_conflict": "Elizabeth's training intensity will overpower Aleksandra."
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "3-2",
+          "prediction_summary": "Travis believes Michael's experience and endurance will win out in a long match.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Michael's ability to adapt and endure will be key."
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Leonidas Arkona",
+          "predicted_score": "3-1",
+          "prediction_summary": "Travis thinks Leonidas' size and unorthodox style will be too much for John.",
+          "predicted_duration": "Competitive match",
+          "style_conflict": "Leonidas' power and size will overwhelm John."
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": "3-1",
+          "prediction_summary": "Travis believes Jerry's strength and experience will give him the edge over Alex.",
+          "predicted_duration": "Competitive match",
+          "style_conflict": "Jerry's power and wedge will be key."
+        }
+      ],
+      "opinion_about_athletes": {
+        "Corey West": {
+          "strength": "Strong but not at Travis' level left-handed.",
+          "health": "No major issues mentioned.",
+          "previous_match_summary": "Corey has been training but lacks the experience Travis has."
+        },
+        "Hunter Noffz": {
+          "strength": "Very strong and aggressive.",
+          "health": "No issues mentioned.",
+          "previous_match_summary": "Hunter has been dominant in recent matches."
+        },
+        "Michael Todd": {
+          "strength": "Strong and experienced.",
+          "health": "Recovered from surgery and training differently.",
+          "previous_match_summary": "Michael has been adapting his style post-surgery."
+        },
+        "John Brzenk": {
+          "strength": "Legendary but aging.",
+          "health": "No major issues mentioned.",
+          "previous_match_summary": "John is still competitive but may struggle against younger, stronger opponents."
+        }
+      }
+    },
+    {
+      "speaker": "Corey West",
+      "self_predictions": [
+        {
+          "match": [
+            "Corey West",
+            "Travis Bagent"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Travis Bagent",
+          "predicted_score": "3-0",
+          "prediction_summary": "Corey acknowledges Travis' strength and experience, expecting a tough match.",
+          "predicted_duration": "Quick match",
+          "style_conflict": "Travis' control and power will dominate."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Hunter Noffz",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Hunter Noffz",
+          "predicted_score": "3-0",
+          "prediction_summary": "Corey thinks Hunter's current form makes him the favorite.",
+          "predicted_duration": "Quick match",
+          "style_conflict": "Hunter's aggression will be key."
+        },
+        {
+          "match": [
+            "Artem Taranenko",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Artem Taranenko",
+          "predicted_score": "3-1",
+          "prediction_summary": "Corey believes Artem's strength will give him the edge.",
+          "predicted_duration": "Competitive match",
+          "style_conflict": "Artem's power will be decisive."
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Lars Rørbakken"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": "3-1",
+          "prediction_summary": "Corey thinks Matt's explosiveness will overcome Lars.",
+          "predicted_duration": "Competitive match",
+          "style_conflict": "Matt's speed and technique will be key."
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Frank Lampirelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "3-0",
+          "prediction_summary": "Corey hopes to see a strong performance from Dave.",
+          "predicted_duration": "Quick match",
+          "style_conflict": "Dave's power will dominate."
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Leonidas Arkona",
+          "predicted_score": "3-1",
+          "prediction_summary": "Corey thinks Leonidas' size and strength will be too much for John.",
+          "predicted_duration": "Competitive match",
+          "style_conflict": "Leonidas' power will overwhelm John."
+        }
+      ],
+      "opinion_about_athletes": {
+        "Travis Bagent": {
+          "strength": "Very strong left-handed.",
+          "health": "No major issues mentioned.",
+          "previous_match_summary": "Travis has been training hard and is confident."
+        },
+        "Hunter Noffz": {
+          "strength": "Strong and aggressive.",
+          "health": "No issues mentioned.",
+          "previous_match_summary": "Hunter has been dominant recently."
+        },
+        "Dave Chaffee": {
+          "strength": "Powerful but inconsistent.",
+          "health": "No major issues mentioned.",
+          "previous_match_summary": "Dave has had ups and downs but is capable of strong performances."
+        },
+        "John Brzenk": {
+          "strength": "Legendary but aging.",
+          "health": "No major issues mentioned.",
+          "previous_match_summary": "John is still competitive but may struggle against younger, stronger opponents."
+        }
+      }
+    }
+  ]
+}

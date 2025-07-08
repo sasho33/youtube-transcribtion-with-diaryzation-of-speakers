@@ -1,0 +1,260 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Chance Shaw",
+    "SPEAKER_01": "Derek",
+    "SPEAKER_02": "Paul Talbot",
+    "SPEAKER_03": "Shane Owens"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Chance Shaw",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Tom Rozits",
+            "Artem Taranenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Tom Rozits",
+          "predicted_score": "70% favorite",
+          "prediction_summary": "Tom's has some lanes that are vulnerable to Artem, but Tom's is still the favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Artem's rising attack might not be beneficial against Tom's style.",
+          "opinion_about_athletes": {
+            "Tom Rozits": {
+              "strength": "Strong, especially after beating Oleg Oak.",
+              "health": null,
+              "previous_match_summary": "Beat Oleg Oak recently."
+            },
+            "Artem Taranenko": {
+              "strength": "Strong, but might struggle against Tom's style.",
+              "health": null,
+              "previous_match_summary": "Lost to Paul Talbot but avenged the loss."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vladimir Maiorov",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Adam Wawrzynski",
+          "predicted_score": "50-50",
+          "prediction_summary": "Adam is legit and has looked good in recent matches, but Vladimir is also strong.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": "Strong, especially inside.",
+              "health": null,
+              "previous_match_summary": "Beat Arthur Muratov recently."
+            },
+            "Vladimir Maiorov": {
+              "strength": "Nearly beat Samushia in a previous match.",
+              "health": null,
+              "previous_match_summary": "Had a close match with Samushia."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "55-45",
+          "prediction_summary": "Prudnik is more well-rounded and polished, but Irakli is young and getting stronger.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik's polish vs Irakli's youth and strength.",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Young and getting stronger.",
+              "health": null,
+              "previous_match_summary": "Beat Sasho Andreev recently."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Polished and well-rounded.",
+              "health": null,
+              "previous_match_summary": "Has been active and strong in recent matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "60-40",
+          "prediction_summary": "Morozov can catch Vitalii's low hand and drag it back.",
+          "predicted_duration": null,
+          "style_conflict": "Morozov's hook vs Vitalii's low hand.",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Strong with low hand.",
+              "health": null,
+              "previous_match_summary": "On a warpath recently."
+            },
+            "Artyom Morozov": {
+              "strength": "Strongest hook puller in the world.",
+              "health": "Was sick in his last match.",
+              "previous_match_summary": "Lost to Georgi Tsvetkov while sick."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Derek",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": "70-30",
+          "prediction_summary": "Todd's been leveling up, especially with his top roll.",
+          "predicted_duration": null,
+          "style_conflict": "Todd's hook vs Krasimir's down pressure.",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Leveling up, especially with top roll.",
+              "health": null,
+              "previous_match_summary": "Beat John Brzenk recently."
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Great puller, but might not be at Todd's level.",
+              "health": null,
+              "previous_match_summary": "Beat Lachlan at King of the Table."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "55-45",
+          "prediction_summary": "Vitalii has something to prove and is on the warpath.",
+          "predicted_duration": null,
+          "style_conflict": "Vitalii's endurance vs Morozov's hook.",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "On the warpath, something to prove.",
+              "health": null,
+              "previous_match_summary": "Has been dominant recently."
+            },
+            "Artyom Morozov": {
+              "strength": "Strong hook puller.",
+              "health": "Was sick in his last match.",
+              "previous_match_summary": "Lost to Georgi Tsvetkov while sick."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Paul Talbot",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Favors Prudnik due to his polish and experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Young and getting stronger.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": "Polished and experienced.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Morozov will snatch Vitalii up in a hook.",
+          "predicted_duration": null,
+          "style_conflict": "Morozov's hook vs Vitalii's low hand.",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artyom Morozov": {
+              "strength": "Strong hook puller.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Shane Owens",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "70-30",
+          "prediction_summary": "Vitalii rolls Morozov out.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artyom Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

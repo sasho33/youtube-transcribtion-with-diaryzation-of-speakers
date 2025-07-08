@@ -1,0 +1,365 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Dave Chaffee",
+    "SPEAKER_02": "Frank Lamparell",
+    "SPEAKER_03": "Martino (Translator)",
+    "SPEAKER_04": "Host"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Dave Chaffee",
+      "self_predictions": [
+        {
+          "match": [
+            "Dave Chaffee",
+            "Frank Lamparell"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave believes it will be a war but is confident in his preparation and training. He acknowledges Frank's strong top roll but thinks his own power and endurance will prevail.",
+          "predicted_duration": "War",
+          "style_conflict": "Power vs Top Roll",
+          "opinion_about_athletes": {
+            "Frank Lamparell": {
+              "strength": "Ridiculous hand strength, excellent top roll",
+              "health": null,
+              "previous_match_summary": "Almost beat Michael Todd with his top roll, showing incredible endurance and hand strength."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Dave thinks Michael's experience and potential to press over Kamil will give him the edge, though it could go either way.",
+          "predicted_duration": null,
+          "style_conflict": "Press vs Open Top Roll",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Fast, experienced, great endurance",
+              "health": null,
+              "previous_match_summary": "Showed great counter press against Lars and Matyushenko."
+            },
+            "Kamil Jablonski": {
+              "strength": "Strong press, funny and great guy",
+              "health": null,
+              "previous_match_summary": "Successful on left arm, less so on right."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Dave believes if Alex can execute his game plan, he will win, but acknowledges Jerry's strength and endurance could wear Alex down.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Strong, improved over the years",
+              "health": null,
+              "previous_match_summary": "Pulled Dave a couple of years ago."
+            },
+            "Jerry Cadorette": {
+              "strength": "Strong, can wear opponents down",
+              "health": null,
+              "previous_match_summary": "Haven't pulled in 6-8 years."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Dave thinks John's experience will prevail, though it depends on which version of John shows up.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary, experience",
+              "health": "Sometimes not in greatest shape",
+              "previous_match_summary": "Can be world-beater or not at his best."
+            },
+            "Leonidas Arkona": {
+              "strength": "Up-and-comer, good",
+              "health": null,
+              "previous_match_summary": "Impressive win against Schoolboy."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Dave believes Todd is coming in strong and will win the rematch, especially if Prudnik isn't at his best.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong, prepared",
+              "health": null,
+              "previous_match_summary": "Wants to beat Prudnik badly after last loss."
+            },
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": "May not be 100%",
+              "previous_match_summary": "Didn't look himself last time."
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babaiev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Dave thinks if Rustam returns to his former strength, he could win, but currently favors Paul due to his recent form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rustam Babaiev": {
+              "strength": "Machine, one of the best ever",
+              "health": "Pec injury previously",
+              "previous_match_summary": "Tore pec in last match against Paul, recently pulled Iraqli."
+            },
+            "Paul Linn": {
+              "strength": "Strong, fast, good",
+              "health": null,
+              "previous_match_summary": "Doesn't surprise Dave anymore, knows how good he is."
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey West",
+            "Travis Bagent"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Dave thinks if Corey is healthy, he will win, but Travis's trickiness and experience could make it interesting.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Wants the match badly",
+              "health": "Previously injured pec",
+              "previous_match_summary": null
+            },
+            "Travis Bagent": {
+              "strength": "Tricky, knows grips and straps",
+              "health": null,
+              "previous_match_summary": "Beat Derek Smith left-handed, lost to Sergey right-handed."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Frank Lamparell",
+      "self_predictions": [
+        {
+          "match": [
+            "Dave Chaffee",
+            "Frank Lamparell"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Frank Lamparell",
+          "predicted_score": null,
+          "prediction_summary": "Frank is confident in his top roll and hopes for a war, acknowledging Dave's power and endurance.",
+          "predicted_duration": "War",
+          "style_conflict": "Top Roll vs Power",
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Legendary power, good press now",
+              "health": "Neck issues, numb fingers",
+              "previous_match_summary": "Lost to Vitaly Laletin due to hand strength."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Frank thinks Michael's speed and endurance will overcome Kamil's press, especially if Michael blocks Kamil's press early.",
+          "predicted_duration": null,
+          "style_conflict": "Press vs Open Top Roll",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Fast, good endurance",
+              "health": null,
+              "previous_match_summary": "Showed great counter press against Lars."
+            },
+            "Kamil Jablonski": {
+              "strength": "Strong press",
+              "health": null,
+              "previous_match_summary": "Pulled Frank two years ago after a break."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Frank believes Alex has improved and will win in a gruesome war.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Improved, much stronger",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Jerry Cadorette": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Frank is 100% for John, citing his legendary status.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Leonidas Arkona": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Frank thinks Prudnik doesn't look 100% and Todd will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": "May not be 100%",
+              "previous_match_summary": "Doesn't look himself."
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babaiev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Rustam Babaiev",
+          "predicted_score": null,
+          "prediction_summary": "Frank believes if Rustam is in good shape, he will win, though he likes Paul's charisma and strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rustam Babaiev": {
+              "strength": "Legendary, very strong",
+              "health": "Chest healed up",
+              "previous_match_summary": "Tore pec in last match against Paul."
+            },
+            "Paul Linn": {
+              "strength": "Strong, charismatic",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey West",
+            "Travis Bagent"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Travis Bagent",
+          "predicted_score": null,
+          "prediction_summary": "Frank thinks Travis is motivated and understands the rules now, giving him the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Travis Bagent": {
+              "strength": "Motivated, understands rules",
+              "health": null,
+              "previous_match_summary": "Beat Derek Smith left-handed."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

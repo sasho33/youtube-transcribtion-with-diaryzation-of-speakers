@@ -1,0 +1,489 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Roman",
+    "SPEAKER_01": "Davit Samushia",
+    "SPEAKER_02": "Ivan",
+    "SPEAKER_03": "Vladimir Maiorov",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "Davit Samushia": {
+      "self_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "David is confident in his form and preparation, focusing on his strengths and not changing his style for the match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vladimir Maiorov": {
+              "strength": "Strong in hook and endurance",
+              "health": "Good, but not peak form",
+              "previous_match_summary": "Vladimir has performed well in past tournaments, showing strong endurance and technique."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Marcio Barboza",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "David thinks it's a close match, considering Marcio's current shape and Oleg's rising strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Marcio Barboza": {
+              "strength": "Strong but not at his best",
+              "health": "Good",
+              "previous_match_summary": "Marcio has been a strong competitor but is not in his peak form currently."
+            },
+            "Oleg Petrenko": {
+              "strength": "Young and strong",
+              "health": "Good",
+              "previous_match_summary": "Oleg is a rising star with strong performances."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artem Taynov",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "David picks Zurab due to his focus on left arm strength and motivation.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artem Taynov": {
+              "strength": "Versatile",
+              "health": "Good",
+              "previous_match_summary": "Artem is a strong and versatile puller."
+            },
+            "Zurab Tavberidze": {
+              "strength": "Strong hook and movement",
+              "health": "Good",
+              "previous_match_summary": "Zurab has been focusing intensely on his left arm post-injury."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "60-40",
+          "prediction_summary": "David favors Irakli due to his current form and past performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Strong and in best shape",
+              "health": "Good",
+              "previous_match_summary": "Irakli has been performing exceptionally well recently."
+            },
+            "Paul Linn": {
+              "strength": "Tough and experienced",
+              "health": "Good",
+              "previous_match_summary": "Paul is a legendary puller but may not be at his peak."
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Wagner Bortolato"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "David thinks it's a balanced match, considering both athletes' current forms.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Not at his best",
+              "health": "Good",
+              "previous_match_summary": "Matt has been strong but not in his peak form lately."
+            },
+            "Wagner Bortolato": {
+              "strength": "Strong but unknown on right arm",
+              "health": "Good",
+              "previous_match_summary": "Wagner is a strong puller but less known on the right arm."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Avtandil Tutberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": "60-40",
+          "prediction_summary": "David picks Oleg as the favorite due to his dominance at this weight class.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Dominant at this weight",
+              "health": "Good",
+              "previous_match_summary": "Oleg is a top puller in his weight class."
+            },
+            "Avtandil Tutberidze": {
+              "strength": "Strong and promising",
+              "health": "Good",
+              "previous_match_summary": "Avtandil is a young and rising star."
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "70-30",
+          "prediction_summary": "David favors Daniel due to his current form and strength at this weight.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Strong",
+              "health": "Good",
+              "previous_match_summary": "Mindaugas has been performing well."
+            },
+            "Daniel Procopciuc": {
+              "strength": "Very strong at this weight",
+              "health": "Good",
+              "previous_match_summary": "Daniel is in his best shape currently."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Rino Mašić"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": null,
+          "prediction_summary": "David thinks Ivan will win convincingly despite Rino's potential.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": "Strong and experienced",
+              "health": "Good",
+              "previous_match_summary": "Ivan is a seasoned puller with strong performances."
+            },
+            "Rino Mašić": {
+              "strength": "Young and powerful",
+              "health": "Good",
+              "previous_match_summary": "Rino is a promising young puller."
+            }
+          }
+        },
+        {
+          "match": [
+            "Krasimir Kostadinov",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Krasimir Kostadinov",
+          "predicted_score": "50-50",
+          "prediction_summary": "David thinks it's a close match but leans towards Krasimir.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Krasimir Kostadinov": {
+              "strength": "Strong but not at his peak",
+              "health": "Good",
+              "previous_match_summary": "Krasimir has been performing well but not at his best."
+            },
+            "John Brzenk": {
+              "strength": "Legendary but not in prime",
+              "health": "Good",
+              "previous_match_summary": "John is a legend but not in his prime form."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artem Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Artem Morozov",
+          "predicted_score": "80-20",
+          "prediction_summary": "David heavily favors Morozov due to his activity and Kurdecha's inactivity.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artem Morozov": {
+              "strength": "Very strong and active",
+              "health": "Good",
+              "previous_match_summary": "Artem has been performing strongly and consistently."
+            },
+            "Alex Kurdecha": {
+              "strength": "Strong but inactive",
+              "health": "Good",
+              "previous_match_summary": "Alex is a strong puller but has been less active recently."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "55-45",
+          "prediction_summary": "David thinks it's a close match but slightly favors Prudnik.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Very strong",
+              "health": "Good",
+              "previous_match_summary": "Alizhan is a strong and consistent puller."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Very strong",
+              "health": "Good",
+              "previous_match_summary": "Evgeny is a top puller with strong performances."
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": "60-40",
+          "prediction_summary": "David favors Todd due to his recent outstanding performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Strong and quick",
+              "health": "Good",
+              "previous_match_summary": "David has been performing well with quick top rolls."
+            },
+            "Todd Hutchings": {
+              "strength": "Very strong and experienced",
+              "health": "Good",
+              "previous_match_summary": "Todd has been in outstanding form recently."
+            }
+          }
+        }
+      ]
+    },
+    "Vladimir Maiorov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Vladimir is not confident in his strength and endurance but plans to rely on technique and speed.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Strong in hook and endurance",
+              "health": "Good",
+              "previous_match_summary": "David has been performing well and is in good shape."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Marcio Barboza",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": "60-40",
+          "prediction_summary": "Vladimir supports Petrenko due to his rising strength and potential.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Marcio Barboza": {
+              "strength": "Strong but not at his best",
+              "health": "Good",
+              "previous_match_summary": "Marcio has been a strong competitor but is not in his peak form currently."
+            },
+            "Oleg Petrenko": {
+              "strength": "Young and strong",
+              "health": "Good",
+              "previous_match_summary": "Oleg is a rising star with strong performances."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artem Taynov",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Artem Taynov",
+          "predicted_score": null,
+          "prediction_summary": "Vladimir thinks Taynov's versatility gives him an edge in multiple rounds.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artem Taynov": {
+              "strength": "Versatile",
+              "health": "Good",
+              "previous_match_summary": "Artem is a strong and versatile puller."
+            },
+            "Zurab Tavberidze": {
+              "strength": "Strong hook and movement",
+              "health": "Good",
+              "previous_match_summary": "Zurab has been focusing intensely on his left arm post-injury."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Vladimir thinks Irakli has more chances due to his endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Strong and enduring",
+              "health": "Good",
+              "previous_match_summary": "Irakli has been performing well with good endurance."
+            },
+            "Paul Linn": {
+              "strength": "Tough and experienced",
+              "health": "Good",
+              "previous_match_summary": "Paul is a legendary puller but may not be at his peak."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Avtandil Tutberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": "55-45",
+          "prediction_summary": "Vladimir slightly favors Oleg but acknowledges Avtandil's potential.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Dominant at this weight",
+              "health": "Good",
+              "previous_match_summary": "Oleg is a top puller in his weight class."
+            },
+            "Avtandil Tutberidze": {
+              "strength": "Strong and promising",
+              "health": "Good",
+              "previous_match_summary": "Avtandil is a young and rising star."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": "55-45",
+          "prediction_summary": "Vladimir slightly favors Alizhan due to his strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Very strong",
+              "health": "Good",
+              "previous_match_summary": "Alizhan is a strong and consistent puller."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Very strong",
+              "health": "Good",
+              "previous_match_summary": "Evgeny is a top puller with strong performances."
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "Vladimir thinks David will win due to his quick top roll and versatility.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Strong and quick",
+              "health": "Good",
+              "previous_match_summary": "David has been performing well with quick top rolls."
+            },
+            "Todd Hutchings": {
+              "strength": "Very strong and experienced",
+              "health": "Good",
+              "previous_match_summary": "Todd has been in outstanding form recently."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

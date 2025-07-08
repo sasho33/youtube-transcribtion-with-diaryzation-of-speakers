@@ -1,0 +1,310 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Ivan Matyushenko",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Andrew 'Cobra' Rhodes",
+    "SPEAKER_04": "Derek Smith"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Ivan Matyushenko",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John is very good against hookers and Zoloev's top roll is not that good. John is the clear favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Very strong forearm and pronation",
+              "health": "Concerns about weight cut affecting performance",
+              "previous_match_summary": "Recently lost to Devon Larratt but showed strong side pressure"
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong hook and endurance",
+              "health": "Possible elbow issues",
+              "previous_match_summary": "Beat Todd Hutchings convincingly"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Genadi can win only with triceps and dead wrist shoulder press. Michael is better in open hand pulling.",
+          "predicted_duration": null,
+          "style_conflict": "Triceps pressure vs Open hand",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Explosive and versatile",
+              "health": "Coming off a loss to Ermes Gasparini",
+              "previous_match_summary": "Lost to Ermes Gasparini, trying to come back stronger"
+            },
+            "Michael Todd": {
+              "strength": "Strong back pressure and endurance",
+              "health": "In best shape ever",
+              "previous_match_summary": "Lost to Devon Larratt but has been training hard"
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Betkili Oniani"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Betkili has improved significantly since his junior years and is now much heavier. Oleg is the favorite at lower weights but this could be an upset.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Chop Roll",
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Strong hook",
+              "health": "Recovering from past injuries",
+              "previous_match_summary": "Returning to top level after accident"
+            },
+            "Betkili Oniani": {
+              "strength": "Strong and improved at higher weight",
+              "health": null,
+              "previous_match_summary": "Has grown significantly since junior years"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John's forearm control is superior. Zoloev's only chance is to hook John in the strap.",
+          "predicted_duration": null,
+          "style_conflict": "Forearm control vs Hook",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Superior forearm and pronation",
+              "health": "Weight cut concerns",
+              "previous_match_summary": "Lost to Devon but showed strong side pressure"
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong hook",
+              "health": "Elbow issues",
+              "previous_match_summary": "Beat Todd Hutchings convincingly"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Michael's back pressure and endurance will be key. Genadi needs to avoid being pulled into Michael's game.",
+          "predicted_duration": null,
+          "style_conflict": "Back pressure vs Shoulder press",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Explosive and versatile",
+              "health": "Coming off a loss",
+              "previous_match_summary": "Lost to Ermes Gasparini"
+            },
+            "Michael Todd": {
+              "strength": "Strong back pressure",
+              "health": "In best shape ever",
+              "previous_match_summary": "Lost to Devon but training hard"
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Betkili Oniani"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Betkili has grown significantly and is now much heavier. Oleg is the favorite at lower weights but this could be an upset.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Chop Roll",
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Strong hook",
+              "health": "Recovering from past injuries",
+              "previous_match_summary": "Returning to top level"
+            },
+            "Betkili Oniani": {
+              "strength": "Strong and improved at higher weight",
+              "health": null,
+              "previous_match_summary": "Has grown significantly since junior years"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Andrew 'Cobra' Rhodes",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John is the GOAT and has the experience to handle Zoloev's hook.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs Hook",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experience and technique",
+              "health": "Weight cut concerns",
+              "previous_match_summary": "Lost to Devon but showed strong side pressure"
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong hook",
+              "health": null,
+              "previous_match_summary": "Beat Todd Hutchings convincingly"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Michael's one trick (back pressure) is deadly and can exhaust Genadi.",
+          "predicted_duration": null,
+          "style_conflict": "Back pressure vs Versatility",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Explosive and versatile",
+              "health": "Coming off a loss",
+              "previous_match_summary": "Lost to Ermes Gasparini"
+            },
+            "Michael Todd": {
+              "strength": "Strong back pressure",
+              "health": "In best shape ever",
+              "previous_match_summary": "Lost to Devon but training hard"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Derek Smith",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John's hand and pronation are still strong. Zoloev's outside ability is good but may not be enough.",
+          "predicted_duration": null,
+          "style_conflict": "Hand control vs Outside move",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Strong hand and pronation",
+              "health": "Weight cut concerns",
+              "previous_match_summary": "Lost to Devon but showed strong side pressure"
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong outside ability",
+              "health": null,
+              "previous_match_summary": "Beat Todd Hutchings convincingly"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Michael's momentum and strength give him the edge. Genadi needs to be versatile to win.",
+          "predicted_duration": null,
+          "style_conflict": "Momentum vs Versatility",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Explosive and versatile",
+              "health": "Coming off a loss",
+              "previous_match_summary": "Lost to Ermes Gasparini"
+            },
+            "Michael Todd": {
+              "strength": "Strong back pressure",
+              "health": "In best shape ever",
+              "previous_match_summary": "Lost to Devon but training hard"
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Betkili Oniani"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Betkili's size and strength at higher weight could be the difference.",
+          "predicted_duration": null,
+          "style_conflict": "Size vs Technique",
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Strong hook",
+              "health": "Recovering from past injuries",
+              "previous_match_summary": "Returning to top level"
+            },
+            "Betkili Oniani": {
+              "strength": "Strong and improved at higher weight",
+              "health": null,
+              "previous_match_summary": "Has grown significantly since junior years"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

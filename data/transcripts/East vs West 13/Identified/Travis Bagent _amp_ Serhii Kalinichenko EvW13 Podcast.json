@@ -1,0 +1,475 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Serhii Kalinichenko",
+    "SPEAKER_02": "Travis Bagent",
+    "SPEAKER_03": "Pablo",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Serhii Kalinichenko",
+      "self_predictions": [
+        {
+          "match": [
+            "Serhii Kalinichenko",
+            "Travis Bagent"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Serhii Kalinichenko",
+          "predicted_score": "3-0",
+          "prediction_summary": "Serhii believes he will dominate Travis, citing Travis's lack of recent top-level competition and his own rigorous training regimen.",
+          "predicted_duration": "Quick matches",
+          "style_conflict": "Serhii plans to use multiple techniques including flop press, top roll, hook, and triceps.",
+          "opinion_about_athletes": {
+            "Travis Bagent": {
+              "strength": "Uncertain due to lack of recent top-level matches",
+              "health": "Travis claims to be at 50-70% of his prime",
+              "previous_match_summary": "Travis has not competed against top super heavyweights recently"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "65-35",
+          "prediction_summary": "Serhii gives Vitalii a significant edge due to his size and top roll technique.",
+          "predicted_duration": "Competitive but Vitalii likely to dominate",
+          "style_conflict": "Vitalii's top roll vs Morozov's hook",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Superior top roll and size",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Strong performances in recent matches"
+            },
+            "Artyom Morozov": {
+              "strength": "Strong hook",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent strong performances but may struggle against top rollers"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "50-50",
+          "prediction_summary": "Serhii is unsure due to lack of recent training info on Prudnik but leans slightly towards Irakli.",
+          "predicted_duration": "Close match",
+          "style_conflict": "Prudnik's versatility vs Irakli's strength",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Versatile but recent form unknown",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Strong past performances but recent matches unclear"
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Strong and steady improvement",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Consistent performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Krasimir Kostadinov",
+          "predicted_score": "Krasimir to win",
+          "prediction_summary": "Serhii believes Todd's form has been declining and Krasimir will capitalize.",
+          "predicted_duration": "Competitive",
+          "style_conflict": "Todd's experience vs Krasimir's current form",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Experienced but declining",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent matches show some decline"
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Strong current form",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent strong performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artem Taynov",
+            "Betkili Oniani"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": "55-45",
+          "prediction_summary": "Serhii thinks Oniani has an edge due to Taynov's long arm disadvantage.",
+          "predicted_duration": "Close match",
+          "style_conflict": "Oniani's strength vs Taynov's technique",
+          "opinion_about_athletes": {
+            "Artem Taynov": {
+              "strength": "Technically strong but long arm may be a disadvantage",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Past prime performances"
+            },
+            "Betkili Oniani": {
+              "strength": "Strong and consistent",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent dominant performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Adam Wawrzynski",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vladimir Maiorov",
+          "predicted_score": "Maiorov to win",
+          "prediction_summary": "Serhii believes Maiorov's strength and recent training will overpower Adam.",
+          "predicted_duration": "Maiorov to dominate",
+          "style_conflict": "Maiorov's hook vs Adam's style",
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": "Strong but may struggle overseas",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Strong in local matches"
+            },
+            "Vladimir Maiorov": {
+              "strength": "Very strong, especially in hook",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent strong performances even without training"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Travis Bagent",
+      "self_predictions": [
+        {
+          "match": [
+            "Travis Bagent",
+            "Serhii Kalinichenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Travis Bagent",
+          "predicted_score": "3-0",
+          "prediction_summary": "Travis is confident in his abilities despite being at 50-70% of his prime, citing his experience and recent training improvements.",
+          "predicted_duration": "Quick matches",
+          "style_conflict": "Travis plans to use his hand control and pronation to dominate.",
+          "opinion_about_athletes": {
+            "Serhii Kalinichenko": {
+              "strength": "Strong but Travis believes he can handle him",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Serhii has been training rigorously"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "70-30",
+          "prediction_summary": "Travis agrees with Serhii that Vitalii will dominate due to his size and top roll.",
+          "predicted_duration": "Vitalii to dominate",
+          "style_conflict": "Vitalii's top roll vs Morozov's hook",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Superior top roll and size",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Strong performances in recent matches"
+            },
+            "Artyom Morozov": {
+              "strength": "Strong hook",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent strong performances but may struggle against top rollers"
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "Davit Samushia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": "3-0",
+          "prediction_summary": "Travis believes Sasho will win due to Samushia's need for rest and Sasho's consistent performance.",
+          "predicted_duration": "Uneventful evening",
+          "style_conflict": "Sasho's strength vs Samushia's endurance",
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Consistent and strong",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent strong performances"
+            },
+            "Davit Samushia": {
+              "strength": "Strong but needs rest",
+              "health": "Body is asking for rest",
+              "previous_match_summary": "Long streak of performances but may be fatigued"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "Prudnik to win",
+          "prediction_summary": "Travis thinks Prudnik's experience and versatility will give him the edge.",
+          "predicted_duration": "Prudnik to dominate",
+          "style_conflict": "Prudnik's versatility vs Irakli's strength",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Versatile and experienced",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Strong past performances"
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Strong but may lack experience",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Consistent performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": "3-0",
+          "prediction_summary": "Travis believes Todd's experience will prevail despite Serhii's opinion.",
+          "predicted_duration": "Todd to dominate",
+          "style_conflict": "Todd's experience vs Krasimir's current form",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Experienced and strong",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent matches show some decline but still strong"
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Strong current form",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent strong performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Barbora Bajčiová",
+            "Egle Vaitkute"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Barbora Bajčiová",
+          "predicted_score": "60-40",
+          "prediction_summary": "Travis is a fan of Barbora and believes she will win despite Egle's recent performances.",
+          "predicted_duration": "Close match",
+          "style_conflict": "Barbora's size and style vs Egle's technique",
+          "opinion_about_athletes": {
+            "Barbora Bajčiová": {
+              "strength": "Strong and consistent",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent strong performances"
+            },
+            "Egle Vaitkute": {
+              "strength": "Technically strong",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent performances show potential"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Pablo",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "55-45",
+          "prediction_summary": "Pablo thinks Vitalii has an edge but not as significant as others predict.",
+          "predicted_duration": "Close match",
+          "style_conflict": "Vitalii's top roll vs Morozov's hook",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Superior top roll",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Strong performances in recent matches"
+            },
+            "Artyom Morozov": {
+              "strength": "Strong hook",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent strong performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "Procopciuc to win",
+          "prediction_summary": "Pablo believes Daniel's current form will give him the edge.",
+          "predicted_duration": "Competitive",
+          "style_conflict": "Daniel's current form vs Bozhidar's experience",
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Strong current form",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent strong performances"
+            },
+            "Bozhidar Simeonov": {
+              "strength": "Experienced",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Consistent performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Adam Wawrzynski",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vladimir Maiorov",
+          "predicted_score": "Maiorov to win",
+          "prediction_summary": "Pablo agrees with Serhii that Maiorov's strength will be too much for Adam.",
+          "predicted_duration": "Maiorov to dominate",
+          "style_conflict": "Maiorov's hook vs Adam's style",
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": "Strong but may struggle overseas",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Strong in local matches"
+            },
+            "Vladimir Maiorov": {
+              "strength": "Very strong, especially in hook",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent strong performances even without training"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "Vitalii to win",
+          "prediction_summary": "Engin believes Vitalii's size and technique will be too much for Morozov.",
+          "predicted_duration": "Vitalii to dominate",
+          "style_conflict": "Vitalii's top roll vs Morozov's hook",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Superior top roll and size",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Strong performances in recent matches"
+            },
+            "Artyom Morozov": {
+              "strength": "Strong hook",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent strong performances but may struggle against top rollers"
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "Davit Samushia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": "Sasho to win",
+          "prediction_summary": "Engin thinks Sasho will win due to Samushia's need for rest.",
+          "predicted_duration": "Sasho to dominate",
+          "style_conflict": "Sasho's strength vs Samushia's endurance",
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Consistent and strong",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent strong performances"
+            },
+            "Davit Samushia": {
+              "strength": "Strong but needs rest",
+              "health": "Body is asking for rest",
+              "previous_match_summary": "Long streak of performances but may be fatigued"
+            }
+          }
+        },
+        {
+          "match": [
+            "Barbora Bajčiová",
+            "Egle Vaitkute"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Barbora Bajčiová",
+          "predicted_score": "Barbora to win",
+          "prediction_summary": "Engin believes Barbora's size and style will give her the edge.",
+          "predicted_duration": "Close match",
+          "style_conflict": "Barbora's size and style vs Egle's technique",
+          "opinion_about_athletes": {
+            "Barbora Bajčiová": {
+              "strength": "Strong and consistent",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent strong performances"
+            },
+            "Egle Vaitkute": {
+              "strength": "Technically strong",
+              "health": "No issues mentioned",
+              "previous_match_summary": "Recent performances show potential"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

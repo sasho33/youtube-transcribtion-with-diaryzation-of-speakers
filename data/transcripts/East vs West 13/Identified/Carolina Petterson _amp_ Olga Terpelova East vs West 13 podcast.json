@@ -1,0 +1,531 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Carolina Pettersson",
+    "SPEAKER_01": "Ivan Matushenko",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Unknown",
+    "SPEAKER_04": "Olga Terpelova"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Carolina Pettersson",
+      "self_predictions": [
+        {
+          "match": [
+            "Carolina Pettersson",
+            "Olga Terpelova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Carolina Pettersson",
+          "predicted_score": "3-0 or 3-1",
+          "prediction_summary": "Carolina is very confident, citing her good progress and strong pronation as key factors for her victory.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs top roll, endurance match expected",
+          "opinion_about_athletes": {
+            "Olga Terpelova": {
+              "strength": "Good endurance, similar style",
+              "health": "In good shape, peaking for the event",
+              "previous_match_summary": "Long matches, known for stopping matches and winning"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Tom Rozits",
+            "Artem Taranenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Tom Rozits",
+          "predicted_score": null,
+          "prediction_summary": "Tom's top roll is too much for Artem's special style.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs wide-open style",
+          "opinion_about_athletes": {
+            "Artem Taranenko": {
+              "strength": "Special style, opens up widely",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vladimir Maiorov",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vladimir Maiorov",
+          "predicted_score": null,
+          "prediction_summary": "60-40 in favor of Maiorov, though Adam should not be underestimated.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Beat Artur Makarov last year at East vs West"
+            }
+          }
+        },
+        {
+          "match": [
+            "Petro Marharint",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Petro Marharint",
+          "predicted_score": null,
+          "prediction_summary": "Based on recent performances, Petro is favored.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong, but recovering from injury",
+              "health": "Hand healed after fracture",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "Chance hasn't had luck lately in supermatches, Sagov is strong.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Chance Shaw": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Recent losses in supermatches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Artem Taynov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Artem Taynov",
+          "predicted_score": null,
+          "prediction_summary": "Artem is in great form, similar to his match against Zurab.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Dangerous in hook position",
+              "health": null,
+              "previous_match_summary": "Surprising win against Talget Akhtar"
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Daniel is in great form, especially after beating Alan Zoloev.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bozhidar Simeonov": {
+              "strength": null,
+              "health": "Dropping weight for the match",
+              "previous_match_summary": "Beat Daniel left-handed last year"
+            }
+          }
+        },
+        {
+          "match": [
+            "Serhii Kalinichenko",
+            "Travis Bagent"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Serhii Kalinichenko",
+          "predicted_score": null,
+          "prediction_summary": "Travis may not be ready yet, Sergey has the advantage.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Travis Bagent": {
+              "strength": null,
+              "health": "Not focusing on arm wrestling recently",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Barbora Bajčiová",
+            "Egle Vaitkute"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Egle Vaitkute",
+          "predicted_score": "3-0",
+          "prediction_summary": "Egle is in her best shape ever, too much for Barbora.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Barbora Bajčiová": {
+              "strength": "Young and improving fast",
+              "health": null,
+              "previous_match_summary": "Beat Gabriela last year"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Krasimir Kostadinov",
+          "predicted_score": null,
+          "prediction_summary": "50-50, depends on who gets to their position.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik is a bit ahead as of now.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Young and progressing",
+              "health": null,
+              "previous_match_summary": "Gained weight over the years"
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "David Dadikyan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Oleg did really well last time, could continue his streak.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": null,
+          "prediction_summary": "Sasho is really good, but weight cut may affect him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Morozov has good endurance and can stop Laletin.",
+          "predicted_duration": null,
+          "style_conflict": "Pronation vs general power",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Strong wrist, difficult to hook",
+              "health": null,
+              "previous_match_summary": "Problems with side pressure"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Olga Terpelova",
+      "self_predictions": [
+        {
+          "match": [
+            "Carolina Pettersson",
+            "Olga Terpelova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Olga Terpelova",
+          "predicted_score": "3-2",
+          "prediction_summary": "Olga is confident if the match stops, she wins 99% of the time.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Endurance match",
+          "opinion_about_athletes": {
+            "Carolina Pettersson": {
+              "strength": "Good endurance, strong pronation",
+              "health": "In good shape",
+              "previous_match_summary": "Known for long matches"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Tom Rozits",
+            "Artem Taranenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Artem Taranenko",
+          "predicted_score": null,
+          "prediction_summary": "Lithuanian will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Tom Rozits": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vladimir Maiorov",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vladimir Maiorov",
+          "predicted_score": null,
+          "prediction_summary": "Votes for Vladimir as she doesn't know Adam well.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Petro Marharint",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "If Zurab is in good form after injury, he can win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "Ibragim is very strong, can win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Chance Shaw": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Artem Taynov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Artem Taynov",
+          "predicted_score": null,
+          "prediction_summary": "Artem is in great form, similar to his match against Zurab.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Dangerous in hook position",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Barbora Bajčiová",
+            "Egle Vaitkute"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Egle Vaitkute",
+          "predicted_score": "3-0",
+          "prediction_summary": "If Egle is in best shape, she will win 3-0.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Barbora Bajčiová": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Dimitrina Petrova",
+            "Ayane Takenaka"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Dimitrina Petrova",
+          "predicted_score": null,
+          "prediction_summary": "Dimitrina is in great shape, best puller under 60kg.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ayane Takenaka": {
+              "strength": "Does one-arm pull-ups at 59kg",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii is from Russia, votes for him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Ivan Matushenko",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Betkili Oniani",
+            "Artem Taynov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Artem Taynov",
+          "predicted_score": null,
+          "prediction_summary": "Artem can top roll Betkili, but if it goes to hook, Betkili has better endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Extremely strong in hook position",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Very difficult for Morozov to hook Vitalii, but Morozov has chances.",
+          "predicted_duration": null,
+          "style_conflict": "Pronation vs general power",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Good endurance, can stop Vitalii",
+              "health": null,
+              "previous_match_summary": "Loses wrist sometimes"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

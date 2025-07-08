@@ -1,0 +1,112 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Levan Saginashvili",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Jerry Cadorette",
+    "SPEAKER_03": "Tornike (Translator)",
+    "SPEAKER_04": "Jerry Cadorette"
+  },
+  "date": null,
+  "self_predictions": {
+    "Levan Saginashvili": [
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Jerry Cadorette"
+        ],
+        "arm": "Right",
+        "event": "East vs West 16",
+        "predicted_winner": "Levan Saginashvili",
+        "predicted_score": "6-0",
+        "prediction_summary": "Levan is confident he will win 6-0 and is not considering any scenario where he loses.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Jerry Cadorette": {
+            "strength": "Great sportsman, strong",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ],
+    "Jerry Cadorette": [
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Jerry Cadorette"
+        ],
+        "arm": "Right",
+        "event": "East vs West 16",
+        "predicted_winner": "Jerry Cadorette",
+        "predicted_score": "4-2",
+        "prediction_summary": "Jerry is confident he can win and expects a tough fight, aiming for a 4-2 victory.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Levan Saginashvili": {
+            "strength": "Ridiculously strong, skilled",
+            "health": null,
+            "previous_match_summary": "Levan has not lost any super match."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Levan Saginashvili": [
+      {
+        "match": [
+          "Ermes Gasparini",
+          "Michael Todd"
+        ],
+        "arm": "Right",
+        "event": "East vs West 16",
+        "predicted_winner": "Ermes Gasparini",
+        "predicted_score": null,
+        "prediction_summary": "Levan believes Ermes will handle the match against Michael Todd due to his improved press and overall strength.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Ermes Gasparini": {
+            "strength": "Good press, good flop press",
+            "health": null,
+            "previous_match_summary": "Ermes was already a tough opponent for Michael in the past, now he is even stronger."
+          },
+          "Michael Todd": {
+            "strength": "Respect for his winning streak",
+            "health": null,
+            "previous_match_summary": "Michael can surprise, but Ermes is favored."
+          }
+        }
+      }
+    ],
+    "Jerry Cadorette": [
+      {
+        "match": [
+          "Ermes Gasparini",
+          "Michael Todd"
+        ],
+        "arm": "Right",
+        "event": "East vs West 16",
+        "predicted_winner": "Michael Todd",
+        "predicted_score": null,
+        "prediction_summary": "Jerry roots for Michael Todd as he always supports North American athletes but would enjoy a rematch with Ermes.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Ermes Gasparini": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": "Jerry would enjoy a rematch with Ermes."
+          },
+          "Michael Todd": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": "Jerry roots for Michael as a fellow North American."
+          }
+        }
+      }
+    ]
+  }
+}

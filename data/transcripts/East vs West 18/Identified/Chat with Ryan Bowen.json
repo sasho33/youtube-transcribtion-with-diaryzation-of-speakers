@@ -1,0 +1,93 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Ryan Bowen",
+    "SPEAKER_01": "Arsen Liliev"
+  },
+  "date": null,
+  "self_predictions": {},
+  "third_party_predictions": {
+    "Ryan Bowen": {
+      "predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ryan believes Ermes might defeat Levan in their next match, citing Ermes as the most dangerous opponent among the contenders.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Dominant",
+              "health": null,
+              "previous_match_summary": "Levan has been the supreme champion but is facing increasing pressure from multiple top contenders."
+            },
+            "Ermes Gasparini": {
+              "strength": "Very dangerous",
+              "health": null,
+              "previous_match_summary": "Ermes has shown significant improvement and is a strong contender against Levan."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Ryan considers Devon as one of the top contenders who could challenge Levan in the future.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Highly skilled and experienced",
+              "health": null,
+              "previous_match_summary": "Devon has been a dominant force and continues to perform at a high level."
+            },
+            "Alex Kurdecha": {
+              "strength": "Strong but less experienced",
+              "health": null,
+              "previous_match_summary": "Kurdecha is a rising star but may lack the experience to overcome Devon."
+            }
+          }
+        }
+      ]
+    },
+    "Arsen Liliev": {
+      "predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "Arsen Khachatryan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Arsen mentions Paul's improvement and ability to handle tough matches, suggesting he could win against Arsen Khachatryan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Improved significantly",
+              "health": null,
+              "previous_match_summary": "Paul has shown great progress and has become a formidable opponent."
+            },
+            "Arsen Khachatryan": {
+              "strength": "Strong but less consistent",
+              "health": null,
+              "previous_match_summary": "Arsen Khachatryan is a tough competitor but may struggle against Paul's current form."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

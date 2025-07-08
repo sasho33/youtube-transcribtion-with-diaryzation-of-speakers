@@ -1,0 +1,157 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Alex",
+    "SPEAKER_01": "Vitalii Laletin",
+    "SPEAKER_03": "Vitalii Laletin"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Vitalii Laletin",
+      "self_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "3-0",
+          "prediction_summary": "Vitalii believes he can beat Michael Todd in one motion with a flash pin, but acknowledges it might be difficult if Michael stops him.",
+          "predicted_duration": null,
+          "style_conflict": "Michael Todd is seen as a more problematic opponent due to his stopping ability.",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "High",
+              "health": null,
+              "previous_match_summary": "Michael always stops opponents but has lost some supermatches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii thinks Devon is less difficult than Michael and believes he can beat Devon even if he's not at full strength after fighting Michael.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's outsmarting tactics are a concern, but Vitalii is confident in his ability to win.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "High",
+              "health": null,
+              "previous_match_summary": "Devon is respected but seen as different at the table, in conferences, and in real life."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Dave Chaffee",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii thinks Dave can hold Tsvetkov if he's in the same form as when they fought.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "High",
+              "health": null,
+              "previous_match_summary": "Dave is a strong opponent who deserved his round win against Vitalii."
+            },
+            "Georgi Tsvetkov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii believes Devon will outsmart Corey with referees favoring him.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's tactics and referee leniency are seen as advantages.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "High",
+              "health": null,
+              "previous_match_summary": "Devon is known for outsmarting opponents."
+            },
+            "Corey West": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii thinks John will win by taking Yoshinobu's pass and not letting him arm wrestle.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "High",
+              "health": null,
+              "previous_match_summary": "John is experienced and dominant."
+            },
+            "Yoshinobu Kanai": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Yoshinobu was close to winning against Todd Hutchings."
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii thinks Ermes was in better shape when they fought and now it will be harder for him against Levan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Extremely High",
+              "health": null,
+              "previous_match_summary": "Levan is the dominant super heavyweight champion."
+            },
+            "Ermes Gasparini": {
+              "strength": "High",
+              "health": null,
+              "previous_match_summary": "Ermes was stronger against Michael than against Vitalii."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

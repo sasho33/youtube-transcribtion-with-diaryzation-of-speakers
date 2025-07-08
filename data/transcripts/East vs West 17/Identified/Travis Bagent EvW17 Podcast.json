@@ -1,0 +1,273 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Unknown",
+    "SPEAKER_03": "Travis Bagent",
+    "SPEAKER_04": "Travis Bagent"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Travis Bagent",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Joseph Meranto",
+            "Cody Wood"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Cody Wood",
+          "predicted_score": null,
+          "prediction_summary": "Travis is rooting for Cody Wood, noting that many respected guys are behind him, but acknowledges Joseph's strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Cody Wood": {
+              "strength": "Strong, especially with pull-ups, but relatively new to the sport.",
+              "health": null,
+              "previous_match_summary": "Progressed well due to potential."
+            },
+            "Joseph Meranto": {
+              "strength": "Strong, impressed with his win over Kevin Palco.",
+              "health": null,
+              "previous_match_summary": "Surprised many with his performance."
+            }
+          }
+        },
+        {
+          "match": [
+            "Hunter Noffz",
+            "Valen Low"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Hunter Noffz",
+          "predicted_score": null,
+          "prediction_summary": "Travis is rooting for Hunter Noffz, believing he has the potential to become a superstar.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Hunter Noffz": {
+              "strength": "Has the fire and electric potential to become a superstar.",
+              "health": null,
+              "previous_match_summary": "Close match with Justin Bishop."
+            },
+            "Valen Low": {
+              "strength": "Not well known to Travis.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Janis Amolins"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Travis believes Mindaugas will beat Janis, comparing their rivalry to Todd Hutchings and John Brzenk.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Superstar, has leveled up since his last match with Justin.",
+              "health": null,
+              "previous_match_summary": "Beat Justin in a close match."
+            },
+            "Janis Amolins": {
+              "strength": "Strong, but Travis thinks Mindaugas has surpassed him.",
+              "health": null,
+              "previous_match_summary": "Almost lost to Justin but came back."
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": "55-45",
+          "prediction_summary": "Travis thinks Dave is the underdog but has a chance if he can keep his hand strong early.",
+          "predicted_duration": null,
+          "style_conflict": "Dave needs to avoid letting Georgi control the hand and wrist early.",
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Great hand and wrist positioning, good endurance.",
+              "health": null,
+              "previous_match_summary": "Had great hand control against Devon."
+            },
+            "Dave Chaffee": {
+              "strength": "Strong side pressure, but hand may open up over time.",
+              "health": null,
+              "previous_match_summary": "Needs to avoid early hand fatigue."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "80-20",
+          "prediction_summary": "Travis thinks Devon is too strong and Corey won't be able to beat him three times.",
+          "predicted_duration": null,
+          "style_conflict": "Corey needs to keep the lane closed and avoid Devon's manipulations.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Unbelievable strength, especially in controlling matches.",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches."
+            },
+            "Corey West": {
+              "strength": "Good but not at the highest level.",
+              "health": null,
+              "previous_match_summary": "Has openings Devon can exploit."
+            }
+          }
+        },
+        {
+          "match": [
+            "Yoshinobu Kanai",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Yoshinobu Kanai",
+          "predicted_score": "3-1",
+          "prediction_summary": "Travis thinks Yoshi will win, especially if John can't pin him early.",
+          "predicted_duration": null,
+          "style_conflict": "John needs to avoid a prolonged war with Yoshi.",
+          "opinion_about_athletes": {
+            "Yoshinobu Kanai": {
+              "strength": "Strong, especially in the strap.",
+              "health": null,
+              "previous_match_summary": "Pulled Todd better than Irakli did."
+            },
+            "John Brzenk": {
+              "strength": "Still strong but may not be as dominant as before.",
+              "health": null,
+              "previous_match_summary": "Last showing was less impressive."
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Travis thinks Ongarbaev could dominate but acknowledges Matt's recent improvements.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Improved after stem cell treatment, strong recent performances.",
+              "health": "Had elbow surgery, now recovering well.",
+              "previous_match_summary": "Dominant against Marcio Barbosa."
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Former pound-for-pound contender, still very strong.",
+              "health": null,
+              "previous_match_summary": "Lost to Tata Shinks and Petrenko post-surgery."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "60-40",
+          "prediction_summary": "Travis thinks Prudnik is better than recent showings and could win if he's in form.",
+          "predicted_duration": null,
+          "style_conflict": "Cody needs to fire off early to have a chance.",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Can be dangerous if in form.",
+              "health": "Recently more active in training.",
+              "previous_match_summary": "Had wins over strong opponents in the past."
+            },
+            "Kody Merritt": {
+              "strength": "Strong, but needs to exploit Prudnik's weaknesses.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Craig Tullier",
+            "John Therrien"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "John Therrien",
+          "predicted_score": "50-50",
+          "prediction_summary": "Travis thinks John Therrien is strong and could give Craig a tough match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Craig Tullier": {
+              "strength": "Strong, but may be overconfident.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "John Therrien": {
+              "strength": "Strong, especially left-handed.",
+              "health": null,
+              "previous_match_summary": "Beat a strong left-handed opponent recently."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Arsen Khachatryan",
+            "Andrei Sharkevich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Arsen Khachatryan",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks it will be tough for Sharkevich but acknowledges his strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arsen Khachatryan": {
+              "strength": "Strong, tough opponent.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Andrei Sharkevich": {
+              "strength": "Really strong, but uphill battle.",
+              "health": null,
+              "previous_match_summary": "Has put in a lot of work."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

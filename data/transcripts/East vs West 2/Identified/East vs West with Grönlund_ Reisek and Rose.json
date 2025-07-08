@@ -1,0 +1,227 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Fia Reisek",
+    "SPEAKER_02": "Anna Grönlund",
+    "SPEAKER_03": "Host",
+    "SPEAKER_04": "Angie Rose"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Anna Grönlund",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Fia Reisek",
+            "Rebeka Martinkovicova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Fia Reisek",
+          "predicted_score": null,
+          "prediction_summary": "Fia is going to be very dominant and finish Rebeka very quickly.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Fia Reisek": {
+              "strength": "Very strong",
+              "health": "Good",
+              "previous_match_summary": "Multiple world titles, experienced arm wrestler."
+            },
+            "Rebeka Martinkovicova": {
+              "strength": "Strong",
+              "health": "Currently ill (cold)",
+              "previous_match_summary": "Known for long fights, previously beat Gabby."
+            }
+          }
+        },
+        {
+          "match": [
+            "Chance Shaw",
+            "Sandris Šedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Curious about the match, thinks Sandris is very dominant but doesn't know much about Chance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Šedis": {
+              "strength": "Dominant",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Chance Shaw": {
+              "strength": null,
+              "health": "Feels really good and strong",
+              "previous_match_summary": "Training in Sweden, best version ever."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Khadzimurat Zoloev",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Zoloev will be dominant against John.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary",
+              "health": null,
+              "previous_match_summary": "Hero of the sport, long career."
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "14-time WAF champion."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Fia Reisek",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Anna Grönlund",
+            "Angie Rose"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Thinks the first match will be the most interesting and a struggle. Believes Angie is the best female arm wrestler in North America in her weight category.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Anna Grönlund": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Nervous, can be stressed up."
+            },
+            "Angie Rose": {
+              "strength": "Strongest in North America in her weight category",
+              "health": null,
+              "previous_match_summary": "Confident, knows what to do."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Cheering for John but unsure about his current strength compared to his peak.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary",
+              "health": null,
+              "previous_match_summary": "Hero of the sport."
+            },
+            "Khadzimurat Zoloev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Very interesting match, both are warriors with big hearts. Genadi thinks he made a mistake in his last match and won't repeat it.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Lost super match in Dubai, aggressive after loss."
+            },
+            "Michael Todd": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Coming back from injury, big dreams like beating Levan."
+            }
+          }
+        },
+        {
+          "match": [
+            "Efe Kömek",
+            "Ron Bath"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Ron is confident, thinks his left is strong now. Efe is recovering from injury.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Efe Kömek": {
+              "strength": null,
+              "health": "Recovering from injury",
+              "previous_match_summary": "Pulled Herman Stevens in first East vs West."
+            },
+            "Ron Bath": {
+              "strength": "Strong right, left feeling strong now",
+              "health": "Recovered from cold",
+              "previous_match_summary": "Legend of the sport, long career."
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Ron Bath"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Zurab will try to force Ron in hook. Ron may try to top roll or go hook with shoulder pressure.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs top roll",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Normally 85kg, now around 103kg",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ron Bath": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Lean, around 112kg."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Travis Bagent",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Cody Merritt",
+    "SPEAKER_03": "Marcio Barboza",
+    "SPEAKER_04": "Raimonds Liepins"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Artyom Morozov",
+      "self_predictions": [
+        {
+          "match": [
+            "Artyom Morozov",
+            "Cody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "100% confidence",
+          "prediction_summary": "Confident in winning regardless of match position (hook, top roll, press). Believes he can win fast or slow.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Cody Merritt": {
+              "strength": "Respects his versatility but believes he can dominate.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Marcio Barboza"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "100% confidence",
+          "prediction_summary": "Believes his right arm is stronger now and can beat Marcio.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Marcio Barboza": {
+              "strength": "Respects his experience but believes he can overpower him.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Khadzimurat Zoloev",
+          "predicted_score": "60-40",
+          "prediction_summary": "Leans towards Zoloev due to his versatility and strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Respects his legacy but questions his current hand strength.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Versatile and strong, capable of top rolling and hooking.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Supports Genadi but feels it's a close match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong but questions his recent form.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Michael Todd": {
+              "strength": "Strong king's move, hard to beat.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yordan Tsonev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Yordan Tsonev",
+          "predicted_score": "50-50, leans Tsonev",
+          "prediction_summary": "Believes Tsonev has better endurance and can win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong but may lack endurance.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Yordan Tsonev": {
+              "strength": "Composed and durable.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Wants Arif to win to prove he's close to top guys.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong hand, but Arif can challenge him.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Arif Ertem": {
+              "strength": "Very strong, capable of winning.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Marcio Barboza",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Khadzimurat Zoloev",
+          "predicted_score": "70-30",
+          "prediction_summary": "Concerned about John's hand strength but thinks it's close.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Strong side pressure but hand is a concern.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Versatile and strong.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "60-40",
+          "prediction_summary": "Thinks Michael's king's move will be too much for Genadi.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Not as versatile as before.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Michael Todd": {
+              "strength": "Strong king's move.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yordan Tsonev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": "55-45",
+          "prediction_summary": "Slightly favors Todd due to strength but Tsonev has endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong wrist to wrist.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Yordan Tsonev": {
+              "strength": "Durable and composed.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "55-45",
+          "prediction_summary": "Slightly favors Ermes due to hand strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong hand.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Arif Ertem": {
+              "strength": "Very strong, capable of winning.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Cody Merritt",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Biased towards John but acknowledges it's close.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Respects his legacy.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong and versatile.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Michael's king's move will be too much for Genadi.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Not as strong as before.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Michael Todd": {
+              "strength": "Strong king's move.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Hopes Arif wins due to his strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong hand.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Arif Ertem": {
+              "strength": "Incredibly strong.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Travis Bagent",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "95-5",
+          "prediction_summary": "Extremely confident in John's ability to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Great and capable of winning.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Not as strong as Todd Hutchings.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Believes Michael will be the strongest in Turkey.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Not as strong as Michael.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Michael Todd": {
+              "strength": "Strong king's move.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yordan Tsonev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Confident in Todd's ability to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong and capable.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Yordan Tsonev": {
+              "strength": "Not as strong as Todd.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Confident in Ermes' ability to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong and capable.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Arif Ertem": {
+              "strength": "Strong but Ermes is stronger.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Stoyan Golemanov",
+    "SPEAKER_01": "Translator (Alex or Dimitar)",
+    "SPEAKER_02": "Vasily Dautashvili",
+    "SPEAKER_03": "Translator (Alex or Dimitar)",
+    "SPEAKER_04": "Host"
+  },
+  "date": null,
+  "predictions": {
+    "Stoyan Golemanov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Stoyan Golemanov",
+            "Vasily Dautashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Stoyan believes the match will depend on who is in better shape and better prepared, as they have similar styles. He expects a tough challenge.",
+          "predicted_duration": null,
+          "style_conflict": "Similar top roller styles",
+          "opinion_about_athletes": {
+            "Vasily Dautashvili": {
+              "strength": "Very strong, explosive",
+              "health": null,
+              "previous_match_summary": "Vaso is in his best shape ever, lifting heavier weights and training intensely."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Frank Lamparelli",
+            "Serhii Kalinichenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Frank Lamparelli",
+          "predicted_score": null,
+          "prediction_summary": "Frank is more experienced and has better hand control, making him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Both are outside top rollers",
+          "opinion_about_athletes": {
+            "Frank Lamparelli": {
+              "strength": "More experienced, better hand control",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Serhii Kalinichenko": {
+              "strength": "Strong, but less experienced",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Brad Grundy"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Bacho Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Bacho is very explosive and strong for his weight, making him the clear favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bacho Saginashvili": {
+              "strength": "Very explosive, strong for his weight",
+              "health": null,
+              "previous_match_summary": "Prepared very seriously for this match."
+            },
+            "Brad Grundy": {
+              "strength": "Strong, but less explosive",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Alex has a size and strength advantage, which will be decisive.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Bigger, taller, stronger",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "David Dadikyan": {
+              "strength": "Faster, more technical",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisek",
+            "Malin Bergström"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Malin Bergström",
+          "predicted_score": null,
+          "prediction_summary": "Malin has more experience and has won their previous supermatch.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Malin Bergström": {
+              "strength": "More experienced",
+              "health": null,
+              "previous_match_summary": "Won their previous supermatch."
+            },
+            "Fia Reisek": {
+              "strength": "Strong, but less experienced",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": null,
+          "prediction_summary": "Oleg's size and style make him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Bigger, more powerful",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Daniel Procopciuc": {
+              "strength": "Strong, resilient",
+              "health": null,
+              "previous_match_summary": "Prepared well for this match."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Betkili Onianii"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Betkili Onianii",
+          "predicted_score": null,
+          "prediction_summary": "Betkili is in a strong run and has better endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Betkili Onianii": {
+              "strength": "Ambitious, resilient",
+              "health": null,
+              "previous_match_summary": "Rising match after match, getting stronger."
+            },
+            "Oleg Petrenko": {
+              "strength": "Very powerful",
+              "health": null,
+              "previous_match_summary": "Suffered a big loss at East vs West."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Too close to call. Depends on how the first rounds go.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Very strong, technical",
+              "health": null,
+              "previous_match_summary": "Chasing his best shape, wants to defend his belt."
+            },
+            "Todd Hutchings": {
+              "strength": "Confident, resilient",
+              "health": null,
+              "previous_match_summary": "Very confident in his preparation."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "50-50. Depends on how the first rounds go.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong, fast",
+              "health": null,
+              "previous_match_summary": "In good shape, very fast."
+            },
+            "Michael Todd": {
+              "strength": "Experienced, durable",
+              "health": null,
+              "previous_match_summary": "Very motivated, chasing PRs."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "No clear prediction. Expecting a crazy match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Very strong, technical",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Genadi Kvikvinia": {
+              "strength": "In incredible form",
+              "health": null,
+              "previous_match_summary": "Was in bad form during the match with Michael Todd, but now in much better shape."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii is bigger, faster, and has better hand control, making him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Bigger, faster, better hand control",
+              "health": null,
+              "previous_match_summary": "Put on more weight and strength."
+            },
+            "Artyom Morozov": {
+              "strength": "Very strong in raw power",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Vasily Dautashvili": {
+      "self_predictions": [
+        {
+          "match": [
+            "Stoyan Golemanov",
+            "Vasily Dautashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Vasily Dautashvili",
+          "predicted_score": null,
+          "prediction_summary": "Vaso is in his best shape ever and believes he is well-prepared to beat Stoyan's style.",
+          "predicted_duration": null,
+          "style_conflict": "Similar top roller styles",
+          "opinion_about_athletes": {
+            "Stoyan Golemanov": {
+              "strength": "Classical top roller",
+              "health": null,
+              "previous_match_summary": "Stoyan is experienced but Vaso believes he can handle his style."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Frank Lamparelli",
+            "Serhii Kalinichenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Frank Lamparelli",
+          "predicted_score": null,
+          "prediction_summary": "Frank will win if they are similar in power. If Sergei is stronger, it will be a fight.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Frank Lamparelli": {
+              "strength": "More experienced, better hand control",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Serhii Kalinichenko": {
+              "strength": "Strong, but less experienced",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Brad Grundy"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Bacho Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Bacho is very strong and explosive, making him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bacho Saginashvili": {
+              "strength": "Very strong, explosive",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Brad Grundy": {
+              "strength": "Strong, but less explosive",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Alex has a physical advantage due to size and strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Bigger, taller, stronger",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "David Dadikyan": {
+              "strength": "Faster, more technical",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisek",
+            "Malin Bergström"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "50-50. No one has a big advantage.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Malin Bergström": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Fia Reisek": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": null,
+          "prediction_summary": "Oleg is stylistically favored.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Bigger, more powerful",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Daniel Procopciuc": {
+              "strength": "Strong, resilient",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Betkili Onianii"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Betkili Onianii",
+          "predicted_score": null,
+          "prediction_summary": "Betkili will win by endurance in a long, grueling match.",
+          "predicted_duration": "Long",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Betkili Onianii": {
+              "strength": "Ambitious, resilient",
+              "health": null,
+              "previous_match_summary": "Rising match after match."
+            },
+            "Oleg Petrenko": {
+              "strength": "Very powerful",
+              "health": null,
+              "previous_match_summary": "Suffered a big loss at East vs West."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli needs to shut Todd down early to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Very strong, technical",
+              "health": null,
+              "previous_match_summary": "Wants to defend his belt."
+            },
+            "Todd Hutchings": {
+              "strength": "Confident, resilient",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Very interesting match, hard to predict.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong, fast",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": "Experienced, durable",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Genadi is in incredible form and may win easier than the first time.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "In incredible form",
+              "health": null,
+              "previous_match_summary": "Was in bad form during the match with Michael Todd, but now in much better shape."
+            },
+            "Devon Larratt": {
+              "strength": "Very strong, technical",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii is bigger, faster, and has better endurance, making him the heavy favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Bigger, faster, better endurance",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artyom Morozov": {
+              "strength": "Very strong in raw power",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

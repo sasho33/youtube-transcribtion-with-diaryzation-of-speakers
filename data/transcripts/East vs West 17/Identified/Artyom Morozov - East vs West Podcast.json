@@ -1,0 +1,147 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Artyom Morozov",
+    "SPEAKER_02": "Alex",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Artyom Morozov",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "Georgi Tsvetkov's pronation and setup make him very uncomfortable to pull against, and Dave Chaffee will struggle to pin him.",
+          "predicted_duration": null,
+          "style_conflict": "Georgi's pronation and wrist control vs Dave's side pressure.",
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Strong pronation and wrist control.",
+              "health": null,
+              "previous_match_summary": "Has been effective against similar opponents."
+            },
+            "Dave Chaffee": {
+              "strength": "Strong side pressure.",
+              "health": null,
+              "previous_match_summary": "Struggles against strong pronation."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "Corey might win the first rounds if he goes sideways, but Devon's endurance and arthritis will break him in later rounds.",
+          "predicted_duration": null,
+          "style_conflict": "Corey's side pressure vs Devon's endurance and technique.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Endurance and technique.",
+              "health": "Arthritis might be a factor.",
+              "previous_match_summary": "Known for coming back strong in later rounds."
+            },
+            "Corey West": {
+              "strength": "Side pressure.",
+              "health": null,
+              "previous_match_summary": "Strong start but fades in later rounds."
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Kydyrgali's surgery has helped, and his experience will allow him to recover and win.",
+          "predicted_duration": null,
+          "style_conflict": "Matt's strength vs Kydyrgali's technique and recovery.",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Strong but may lack technique.",
+              "health": null,
+              "previous_match_summary": "Has struggled against top-tier opponents."
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Technique and experience.",
+              "health": "Recovered from surgery.",
+              "previous_match_summary": "Motivated after previous loss."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John Brzenk, even at 63, is still the greatest and will win against Yoshinobu.",
+          "predicted_duration": null,
+          "style_conflict": "John's experience vs Yoshinobu's aging strength.",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experience and technique.",
+              "health": "Aging but still strong.",
+              "previous_match_summary": "Legendary career with consistent wins."
+            },
+            "Yoshinobu Kanai": {
+              "strength": "Aging strength.",
+              "health": null,
+              "previous_match_summary": "Not as strong as in his prime."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly's long arm and technique will allow him to pin Michael, despite Michael's pronation.",
+          "predicted_duration": null,
+          "style_conflict": "Vitaly's side pressure vs Michael's pronation.",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Long arm and side pressure.",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches."
+            },
+            "Michael Todd": {
+              "strength": "Pronation and endurance.",
+              "health": null,
+              "previous_match_summary": "Known for tough matches but may struggle against Vitaly."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

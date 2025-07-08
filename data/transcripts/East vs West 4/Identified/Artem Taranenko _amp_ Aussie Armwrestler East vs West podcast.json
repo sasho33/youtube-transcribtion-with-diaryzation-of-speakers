@@ -1,0 +1,160 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Artem Taranenko",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Aussie Armwrestler",
+    "SPEAKER_03": "Bob Brown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Artem Taranenko",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Raimonds Liepiņš",
+            "Ryan Bowen"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Ryan Bowen",
+          "predicted_score": "3-0 or 4-0",
+          "prediction_summary": "Ryan Bowen is seen as a clear winner, but if he loses, it would be a significant upset.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Raimonds Liepiņš": {
+              "strength": "Strong but not enough to beat Ryan",
+              "health": null,
+              "previous_match_summary": "Lost to Ryan Bowen in practice pulls"
+            },
+            "Ryan Bowen": {
+              "strength": "Very strong, rigid",
+              "health": null,
+              "previous_match_summary": "Beat Artem Taranenko comfortably in practice pulls"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Aussie Armwrestler",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Sandris Sedis",
+            "Lachlan Adair"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Eager to see Lachlan's level against Sandris.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Lachlan Adair": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave's experience and horsepower will likely win, but Morozov's power and high hook could surprise.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Phenomenal power and high hook",
+              "health": "In phenomenal shape",
+              "previous_match_summary": "Impressive performance at last East vs West"
+            },
+            "Dave Chaffee": {
+              "strength": "Strong, experienced",
+              "health": null,
+              "previous_match_summary": "Known entity, strong performer"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Bob Brown",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Corey Miller"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "3-0",
+          "prediction_summary": "Daniel is the overwhelming favorite, expected to win comfortably.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Strong, defensive top roll",
+              "health": null,
+              "previous_match_summary": "World champion, strong performer"
+            },
+            "Corey Miller": {
+              "strength": "Quick, strong hit",
+              "health": null,
+              "previous_match_summary": "Did well against Giannis but may struggle against Daniel"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Close match, if it goes to straps, Todd may have the advantage.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs side pressure",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Technical, incredible hand control",
+              "health": null,
+              "previous_match_summary": "Second in table intelligence after John Brzenk"
+            },
+            "Todd Hutchings": {
+              "strength": "Strongest in side pressure",
+              "health": null,
+              "previous_match_summary": "Known for his horsepower and side pressure"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_02": "John Brzenk"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "John Brzenk",
+      "self_predictions": [
+        {
+          "match": [
+            "Yoshinobu Kanai",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John plans to rest and taper off training to ensure he is well-rested and healed for the match. He acknowledges the challenge but is confident in his preparation.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Yoshinobu Kanai": {
+              "strength": "Strong and in great shape",
+              "health": "Good condition",
+              "previous_match_summary": "Recently came back strong and gave a tough match to Tatashins."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "John thinks Matt will likely win the hand battle but may struggle with finishing power due to his long limbs. He questions Kydyrgali's post-surgery condition.",
+          "predicted_duration": null,
+          "style_conflict": "Matt's height vs Kydyrgali's endurance",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Dominant hand, lacks side pressure",
+              "health": null,
+              "previous_match_summary": "Looked strong in recent matches."
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Good sticking point, endurance",
+              "health": "Recovering from elbow surgery",
+              "previous_match_summary": "Lost to Petrenko before surgery."
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Janis Amolins"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Janis Amolins",
+          "predicted_score": null,
+          "prediction_summary": "John leans towards Janis due to his technical perfection and polished style, though he acknowledges Mindaugas' strength.",
+          "predicted_duration": null,
+          "style_conflict": "Technique vs strength",
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Beat Daniel Prokopchuk recently."
+            },
+            "Janis Amolins": {
+              "strength": "Technically perfect",
+              "health": null,
+              "previous_match_summary": "Polished and effective in matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "John believes Dave is back to his old self with solid hand and wrist control, making it a tough match for Georgi.",
+          "predicted_duration": null,
+          "style_conflict": "Hand control vs size",
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Super solid hand and wrist",
+              "health": "Back to old form",
+              "previous_match_summary": "Recent matches show high level performance."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Big and hard to handle",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "John thinks Corey's strong cup and hand control could give him the edge, especially if he can turn Devon inside.",
+          "predicted_duration": null,
+          "style_conflict": "Hand control vs Devon's open arm style",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Training left arm recently",
+              "health": null,
+              "previous_match_summary": "Stopped Corey in later training sessions."
+            },
+            "Corey West": {
+              "strength": "Strong cup and hand",
+              "health": null,
+              "previous_match_summary": "Best in North America on left arm."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Cody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "John sees it as a close match, with Cody's strength slightly below Corey West but still formidable. Prudnik's experience could be a factor.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs experience",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Experienced and strong",
+              "health": "Getting ready",
+              "previous_match_summary": "Recent struggles but preparing hard."
+            },
+            "Cody Merritt": {
+              "strength": "Very strong, just below Corey West",
+              "health": null,
+              "previous_match_summary": "Great back pressure."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Devon can win if he protects the center and avoids being stretched out by Corey's strong cup.",
+          "predicted_duration": null,
+          "style_conflict": "Center control vs cup strength",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Open arm style",
+              "health": null,
+              "previous_match_summary": "Stopped Corey in later training sessions."
+            },
+            "Corey West": {
+              "strength": "Strong cup and hand",
+              "health": null,
+              "previous_match_summary": "Best in North America on left arm."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Cody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Prudnik's experience and preparation will give him the edge, especially if Cody can't pin him early.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs early pin attempt",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Experienced and strong",
+              "health": "Getting ready",
+              "previous_match_summary": "Recent struggles but preparing hard."
+            },
+            "Cody Merritt": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Great back pressure."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

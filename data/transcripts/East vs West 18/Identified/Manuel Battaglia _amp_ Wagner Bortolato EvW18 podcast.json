@@ -1,0 +1,323 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Devon Larratt",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Wagner Bortolato",
+    "SPEAKER_04": "Wagner Bortolato (translator)",
+    "SPEAKER_06": "Unknown",
+    "SPEAKER_07": "Unknown",
+    "SPEAKER_08": "Unknown",
+    "SPEAKER_09": "Ermes Gasparini",
+    "SPEAKER_10": "Unknown",
+    "SPEAKER_11": "Unknown"
+  },
+  "date": null,
+  "predictions": {
+    "Ermes Gasparini": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes is confident and believes it's his moment, though acknowledges Levan is very well prepared.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Very well prepared",
+              "health": null,
+              "previous_match_summary": "Gave Ermes a hard time in previous matches"
+            }
+          }
+        }
+      ]
+    },
+    "Wagner Bortolato": {
+      "self_predictions": [
+        {
+          "match": [
+            "Pavlo Derbedyenyev",
+            "Wagner Bortolato"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Wagner Bortolato",
+          "predicted_score": null,
+          "prediction_summary": "Wagner feels ready and confident, planning to destroy his opponent.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Pavlo Derbedyenyev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Wagner thinks Levan is over-prepared and will massacre Ermes, but he is cheering for Ermes.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Gave Levan a hard time",
+              "health": null,
+              "previous_match_summary": "Performed well against Levan previously"
+            },
+            "Levan Saginashvili": {
+              "strength": "Over-prepared",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Wagner predicts Morozov will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artyom Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisek",
+            "Elin Janeheim"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Fia Reisek",
+          "predicted_score": null,
+          "prediction_summary": "Wagner predicts Fia will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Fia Reisek": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Elin Janeheim": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Arsen Khachatryan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Arsen Khachatryan",
+          "predicted_score": null,
+          "prediction_summary": "Wagner predicts Arsen will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Arsen Khachatryan": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ivan Portela",
+            "Joseph Meranto"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Ivan Portela",
+          "predicted_score": null,
+          "prediction_summary": "Wagner predicts Portela will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ivan Portela": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Joseph Meranto": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Wagner predicts Irakli will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Wagner predicts Dzeranov will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Riekerd Bornman",
+            "Wallace Dilley"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Wallace Dilley",
+          "predicted_score": null,
+          "prediction_summary": "Wagner predicts Wallace will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Riekerd Bornman": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Wallace Dilley": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Allen Ford",
+            "Ryan Belanger"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Ryan Belanger",
+          "predicted_score": null,
+          "prediction_summary": "Wagner predicts Ryan will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Allen Ford": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ryan Belanger": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Manuel Battaglia": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Manuel believes Kurdecha is too strong based on seeing him in Poland.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Too strong",
+              "health": null,
+              "previous_match_summary": "Performed well in Poland"
+            },
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

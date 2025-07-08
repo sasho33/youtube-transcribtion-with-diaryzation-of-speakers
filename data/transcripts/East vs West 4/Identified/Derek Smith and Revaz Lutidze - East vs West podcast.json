@@ -1,0 +1,336 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Roman",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Derek Smith",
+    "SPEAKER_03": "Revaz Lutidze"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Revaz Lutidze",
+      "self_predictions": [
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Derek Smith"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Revaz Lutidze",
+          "predicted_score": null,
+          "prediction_summary": "Revaz believes he will win but keeps it as a surprise. He is focusing on reaching his peak by November.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Derek Smith": {
+              "strength": "Derek is in his best shape ever",
+              "health": null,
+              "previous_match_summary": "Derek was unprepared in his last match against Morozov"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": "3-0",
+          "prediction_summary": "Genadi will dominate due to his current form and Jerry's long pause from competition.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Genadi is in great shape and getting stronger",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Jerry Cadorette": {
+              "strength": "Unknown due to long pause",
+              "health": null,
+              "previous_match_summary": "Jerry has not competed recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": "3-0",
+          "prediction_summary": "Ongarbaev will win against John Brzenk.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "3-0",
+          "prediction_summary": "Irakli is in great shape and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Krasimir Kostadinov": {
+              "strength": "Not in good shape lately",
+              "health": null,
+              "previous_match_summary": "Facing opponents much bigger than him"
+            }
+          }
+        },
+        {
+          "match": [
+            "Gabriela Vasconcelos",
+            "Egle Vaitkute"
+          ],
+          "arm": "Left",
+          "event": "East vs West 4",
+          "predicted_winner": "Gabriela Vasconcelos",
+          "predicted_score": null,
+          "prediction_summary": "Gabriela has a slight edge, especially on the left arm.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Egle Vaitkute": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": "3-0",
+          "prediction_summary": "Davit will win as he is more prepared now.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bozhidar Simeonov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Derek Smith",
+      "self_predictions": [
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Derek Smith"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Derek Smith",
+          "predicted_score": null,
+          "prediction_summary": "Derek is confident in his preparation and believes he can win if he shows up at his best.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Revaz is a top roller and strong",
+              "health": null,
+              "previous_match_summary": "Revaz beat Michael Todd"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": "3-0",
+          "prediction_summary": "Genadi is too versatile and Jerry has been out of competition for a while.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Unknown due to long pause",
+              "health": null,
+              "previous_match_summary": "Jerry has not competed recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "3-1",
+          "prediction_summary": "Prudnik's speed and versatility will be too much for Todd.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Unique bicep strength",
+              "health": null,
+              "previous_match_summary": "Todd has been doing amazing recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "3-0 or 3-1",
+          "prediction_summary": "Dave's strength in his favorite spot will be too much for Morozov.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Strong but may go into Dave's spot",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Kody Merritt",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 4",
+          "predicted_winner": "Kody Merritt",
+          "predicted_score": "3-0",
+          "prediction_summary": "Kody is untouchable left-handed in the US, but it's hard to predict against Morozov.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Amazing lefty",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "3-1",
+          "prediction_summary": "Irakli is in top form, and Krasimir's current strength is a question mark.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Krasimir Kostadinov": {
+              "strength": "Question mark due to facing bigger opponents",
+              "health": null,
+              "previous_match_summary": "Not in good shape lately"
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Lachlan Adair"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Lachlan Adair",
+          "predicted_score": "3-2",
+          "prediction_summary": "Lachlan looks amazing and has been performing well in the US.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Corey Miller"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "3-0",
+          "prediction_summary": "Daniel's international experience gives him the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey Miller": {
+              "strength": "In the ballpark",
+              "health": null,
+              "previous_match_summary": "Got a first-round pin on Giannis"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Engin always supports John Brzenk, even if he is the underdog.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Irakli Zirakashvili",
+    "SPEAKER_02": "Irakli Zirakashvili",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Matt Mask",
+    "SPEAKER_01": "Michael Todd"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Matt Mask",
+      "self_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Matt considers himself the underdog due to lack of confidence in his left arm and uncertainty about Irakli's left arm strength.",
+          "predicted_duration": null,
+          "style_conflict": "Matt's left arm has sticky spots and lacks coordination compared to his right."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ryan Belanger",
+            "Allen Ford"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Allen Ford or Ryan Belanger",
+          "predicted_score": "3-0 or grinder",
+          "prediction_summary": "Matt thinks it could be a clean sweep for Allen Ford or a grinder where Belanger might turn things around in later rounds.",
+          "predicted_duration": null,
+          "style_conflict": "Allen's explosive hit vs. Belanger's torque and hook.",
+          "opinion_about_athletes": {
+            "Allen Ford": {
+              "strength": "Long arm, explosive hit, good hand control",
+              "health": null,
+              "previous_match_summary": "Historically competitive, e.g., against Hutchins"
+            },
+            "Ryan Belanger": {
+              "strength": "More torque, especially in hook",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Matt is split due to Georgii's power vs. Todd's King's Move and recent tough match against Vitaly.",
+          "predicted_duration": null,
+          "style_conflict": "Georgii's power vs. Todd's pronation and defense.",
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Massive hand, powerhouse",
+              "health": null,
+              "previous_match_summary": "Recent size and strength gains"
+            },
+            "Michael Todd": {
+              "strength": "Strong pronation in King's Move",
+              "health": null,
+              "previous_match_summary": "Tough recent match against Vitaly"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "55-45",
+          "prediction_summary": "Matt favors Morozov due to versatility and brute strength, especially in longer matches.",
+          "predicted_duration": null,
+          "style_conflict": "Morozov's versatility vs. Kurdecha's top roll.",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Versatile, strong in all angles",
+              "health": null,
+              "previous_match_summary": "Young but dominant in super heavyweight"
+            },
+            "Alex Kurdecha": {
+              "strength": "Strong top roll",
+              "health": null,
+              "previous_match_summary": "Left arm more versatile than right"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "51-49",
+          "prediction_summary": "Matt thinks Kurdecha is Devon's toughest left-arm challenge but still predicts Devon will win narrowly.",
+          "predicted_duration": null,
+          "style_conflict": "Kurdecha's height and side pressure vs. Devon's adaptability.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Adaptable, strong left arm",
+              "health": null,
+              "previous_match_summary": "Recent improvements in left arm"
+            },
+            "Alex Kurdecha": {
+              "strength": "Height, side pressure",
+              "health": null,
+              "previous_match_summary": "Lost to Morozov and Danikyan left arm"
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "55-45",
+          "prediction_summary": "Matt roots for Ermes but objectively thinks Levan is slightly favored due to power and potential stamina improvements.",
+          "predicted_duration": null,
+          "style_conflict": "Levan's power vs. Ermes' stamina and technique.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Unmatched power",
+              "health": null,
+              "previous_match_summary": "Learned from last bout with Ermes"
+            },
+            "Ermes Gasparini": {
+              "strength": "Technique, stamina",
+              "health": null,
+              "previous_match_summary": "Gave Levan a tough match last time"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Irakli Zirakashvili",
+      "self_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli is confident due to his left arm being 90% of his right arm strength and more versatile technically.",
+          "predicted_duration": null,
+          "style_conflict": "Irakli's versatility vs. Matt's left arm inconsistencies."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "Arsen Khachatryan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": "60-40",
+          "prediction_summary": "Irakli slightly favors Paul due to his inside pulling style and North American soil advantage.",
+          "predicted_duration": null,
+          "style_conflict": "Paul's inside game vs. Arsen's versatility.",
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Strong inside puller",
+              "health": null,
+              "previous_match_summary": "Impressive recent performances"
+            },
+            "Arsen Khachatryan": {
+              "strength": "Versatile, thick build",
+              "health": null,
+              "previous_match_summary": "Beat Andrei Sharkovich"
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Georgii's power gives him a slight edge over Todd's King's Move.",
+          "predicted_duration": null,
+          "style_conflict": "Georgii's power vs. Todd's defense.",
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Powerhouse",
+              "health": null,
+              "previous_match_summary": "Less technical but very strong"
+            },
+            "Michael Todd": {
+              "strength": "King's Move pronation",
+              "health": null,
+              "previous_match_summary": "Recent tough match against Vitaly"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "50-50 or slight Morozov",
+          "prediction_summary": "Irakli thinks it's close but slightly favors Morozov due to preparation and strength.",
+          "predicted_duration": null,
+          "style_conflict": "Morozov's versatility vs. Kurdecha's top roll.",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Versatile, strong",
+              "health": null,
+              "previous_match_summary": "Young but dominant"
+            },
+            "Alex Kurdecha": {
+              "strength": "Top roll",
+              "health": null,
+              "previous_match_summary": "Left arm more versatile than right"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Devon will win but not easily.",
+          "predicted_duration": null,
+          "style_conflict": "Kurdecha's height and side pressure vs. Devon's adaptability.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Adaptable",
+              "health": null,
+              "previous_match_summary": "Strong left arm recently"
+            },
+            "Alex Kurdecha": {
+              "strength": "Height, side pressure",
+              "health": null,
+              "previous_match_summary": "Lost to Morozov and Danikyan left arm"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

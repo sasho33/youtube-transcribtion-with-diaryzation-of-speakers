@@ -1,0 +1,342 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": null,
+    "SPEAKER_01": "Mindaugus Tarasaitis",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": null
+  },
+  "date": null,
+  "predictions": {
+    "Mindaugus Tarasaitis": {
+      "self_predictions": [
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Mindaugus Tarasaitis",
+          "predicted_score": "4-2",
+          "prediction_summary": "Mindaugus is confident in his ability to handle Makarov's power and style, predicting a win with a possible 4-2 score.",
+          "predicted_duration": null,
+          "style_conflict": "Makarov's explosive power vs Tarasaitis' technical approach",
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": "Explosive, very strong",
+              "health": null,
+              "previous_match_summary": "Makarov has been active and improving, but Tarasaitis believes he can handle his power."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Petro Marharint",
+            "Nugzari Chikadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Petro Marharint",
+          "predicted_score": null,
+          "prediction_summary": "Petro Marharint is favored due to his strong wrist and preparation.",
+          "predicted_duration": null,
+          "style_conflict": "Marharint's wrist strength vs Chikadze's style",
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Strong wrist, good preparation",
+              "health": null,
+              "previous_match_summary": "Marharint has been active and performed well in recent matches."
+            },
+            "Nugzari Chikadze": {
+              "strength": "Good top roller",
+              "health": null,
+              "previous_match_summary": "Chikadze is strong but may struggle against Marharint's wrist."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Sandris Šedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "Sagov is seen as stylistically dangerous for Šedis.",
+          "predicted_duration": null,
+          "style_conflict": "Sagov's aggressive style vs Šedis' endurance",
+          "opinion_about_athletes": {
+            "Ibragim Sagov": {
+              "strength": "Aggressive, strong",
+              "health": null,
+              "previous_match_summary": "Sagov has been performing well and is seen as a tough opponent."
+            },
+            "Sandris Šedis": {
+              "strength": "Good endurance",
+              "health": null,
+              "previous_match_summary": "Šedis is strong but may struggle against Sagov's style."
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Talgat Aktaev"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Oniani is expected to catch Aktaev's hit and win due to his static endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Oniani's static endurance vs Aktaev's speed",
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Static endurance, strong",
+              "health": null,
+              "previous_match_summary": "Oniani has been less active but is still seen as a strong opponent."
+            },
+            "Talgat Aktaev": {
+              "strength": "Explosive, fast",
+              "health": null,
+              "previous_match_summary": "Aktaev has been active and improving, but may struggle against Oniani's endurance."
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisik",
+            "Ekaterina Nikisheva"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Fia Reisik",
+          "predicted_score": null,
+          "prediction_summary": "Reisik is favored due to her recent activity and competition experience.",
+          "predicted_duration": null,
+          "style_conflict": "Reisik's activity vs Nikisheva's potential rust",
+          "opinion_about_athletes": {
+            "Fia Reisik": {
+              "strength": "Active, experienced",
+              "health": null,
+              "previous_match_summary": "Reisik has been competing regularly and is in good shape."
+            },
+            "Ekaterina Nikisheva": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Nikisheva has been less active and may be rusty."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Oleg Petrov",
+          "predicted_score": null,
+          "prediction_summary": "Oleg Petrov is favored to open Zirakashvili's wrist and win.",
+          "predicted_duration": null,
+          "style_conflict": "Petrov's top roll vs Zirakashvili's hook",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Good against hook pullers",
+              "health": null,
+              "previous_match_summary": "Zirakashvili has been performing well but may struggle against top rollers."
+            },
+            "Sasho Andreev": {
+              "strength": "Strong top roller",
+              "health": null,
+              "previous_match_summary": "Andreev has been in good shape and is seen as a tough opponent."
+            }
+          }
+        },
+        {
+          "match": [
+            "Leonidas Arkona",
+            "Alexsandr Beziazykov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Leonidas Arkona",
+          "predicted_score": null,
+          "prediction_summary": "Leonidas is favored due to his endurance and style.",
+          "predicted_duration": null,
+          "style_conflict": "Leonidas' endurance vs Beziazykov's power",
+          "opinion_about_athletes": {
+            "Leonidas Arkona": {
+              "strength": "Good endurance",
+              "health": null,
+              "previous_match_summary": "Leonidas has been performing well and is seen as a tough opponent."
+            },
+            "Alexsandr Beziazykov": {
+              "strength": "Powerful",
+              "health": null,
+              "previous_match_summary": "Beziazykov is strong but may struggle against Leonidas' endurance."
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Todd is favored due to his recent performance and ability to handle Lamparelli's style.",
+          "predicted_duration": null,
+          "style_conflict": "Todd's press vs Lamparelli's hand control",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Strong press, good recent form",
+              "health": null,
+              "previous_match_summary": "Todd has been performing well and is seen as a tough opponent."
+            },
+            "Frank Lamparelli": {
+              "strength": "Good hand control",
+              "health": null,
+              "previous_match_summary": "Lamparelli is strong but may struggle against Todd's press."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Nurdaulet Aidarkhan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Nurdaulet Aidarkhan",
+          "predicted_score": null,
+          "prediction_summary": "Aidarkhan is favored due to his explosive power and ability to ignore Samushia's endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Aidarkhan's explosiveness vs Samushia's endurance",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Good endurance",
+              "health": null,
+              "previous_match_summary": "Samushia is strong but may struggle against Aidarkhan's explosiveness."
+            },
+            "Nurdaulet Aidarkhan": {
+              "strength": "Explosive, powerful",
+              "health": null,
+              "previous_match_summary": "Aidarkhan has been performing well and is seen as a tough opponent."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "Tsvetkov is favored due to his top roll and style.",
+          "predicted_duration": null,
+          "style_conflict": "Tsvetkov's top roll vs Kurdecha's power",
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Powerful",
+              "health": null,
+              "previous_match_summary": "Kurdecha is strong but may struggle against Tsvetkov's top roll."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Good top roller",
+              "health": null,
+              "previous_match_summary": "Tsvetkov has been performing well and is seen as a tough opponent."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Gasparini is favored due to his power and top roll specialization.",
+          "predicted_duration": null,
+          "style_conflict": "Gasparini's top roll vs Muratov's hook",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Strong hook",
+              "health": null,
+              "previous_match_summary": "Muratov is strong but may struggle against Gasparini's top roll."
+            },
+            "Ermes Gasparini": {
+              "strength": "Powerful top roller",
+              "health": null,
+              "previous_match_summary": "Gasparini has been performing well and is seen as a tough opponent."
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan is favored due to his hand strength and ability to control the match.",
+          "predicted_duration": null,
+          "style_conflict": "Levan's hand control vs Larratt's pronation",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Incredible hand strength",
+              "health": null,
+              "previous_match_summary": "Levan has been dominant and is seen as the strongest armwrestler."
+            },
+            "Devon Larratt": {
+              "strength": "Good pronation, improved health",
+              "health": "Improved after stem cell treatment",
+              "previous_match_summary": "Larratt has been performing well but may struggle against Levan's hand."
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan is favored due to his hand strength and ability to control the match.",
+          "predicted_duration": null,
+          "style_conflict": "Levan's hand control vs Larratt's pronation",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Incredible hand strength",
+              "health": null,
+              "previous_match_summary": "Levan has been dominant and is seen as the strongest armwrestler."
+            },
+            "Devon Larratt": {
+              "strength": "Good pronation, improved health",
+              "health": "Improved after stem cell treatment",
+              "previous_match_summary": "Larratt has been performing well but may struggle against Levan's hand."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

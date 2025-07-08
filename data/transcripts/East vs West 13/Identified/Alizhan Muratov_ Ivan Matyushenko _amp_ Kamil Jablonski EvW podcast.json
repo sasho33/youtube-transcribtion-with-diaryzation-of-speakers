@@ -1,0 +1,170 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Ivan Matyushenko",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Kamil Jablonski",
+    "SPEAKER_03": "Alizhan Muratov",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Kamil Jablonski",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "60-40",
+          "prediction_summary": "Kamil believes Vitalii has a slight edge due to his strength and hand length, but he thinks he has a chance if he can control the setup and press effectively.",
+          "predicted_duration": null,
+          "style_conflict": "Kamil's press vs Vitalii's top roll and side pressure",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Very strong, especially in top roll and side pressure",
+              "health": "Appears to be in good shape",
+              "previous_match_summary": "Dominant performances in recent matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Kamil thinks Irakli has a good chance, especially if Prudnik is not in 100% shape.",
+          "predicted_duration": null,
+          "style_conflict": "Irakli's strength vs Prudnik's versatility",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Very strong, especially in hook",
+              "health": null,
+              "previous_match_summary": "Performed well against top competitors"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Versatile, can top roll or hook",
+              "health": "May not be at 100%",
+              "previous_match_summary": "Strong performances but recent shape uncertain"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Ivan Matyushenko",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Ivan thinks Vitalii is favored due to his top roll and strength, but Morozov could have chances with press or flo-press.",
+          "predicted_duration": null,
+          "style_conflict": "Vitalii's top roll vs Morozov's press",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Very strong, especially in top roll",
+              "health": "Appears to be in good shape",
+              "previous_match_summary": "Dominant performances"
+            },
+            "Artyom Morozov": {
+              "strength": "Strong, especially in press",
+              "health": null,
+              "previous_match_summary": "Growing and improving"
+            }
+          }
+        },
+        {
+          "match": [
+            "Petro Marharint",
+            "David Dadikyan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "Ivan thinks David has a slight edge, especially if the match goes to hook, but Petro is very strong.",
+          "predicted_duration": null,
+          "style_conflict": "David's hook vs Petro's strength",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": "Good performances recently"
+            },
+            "Petro Marharint": {
+              "strength": "Very strong, especially in hook",
+              "health": null,
+              "previous_match_summary": "Beat many top competitors"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Alizhan Muratov",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Betkili Oniani",
+            "Artem Taynov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Alizhan thinks it's a very close match, with Betkili having a chance if he can get to his defensive position.",
+          "predicted_duration": null,
+          "style_conflict": "Betkili's defensive hook vs Artem's versatility",
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Very strong in defensive hook",
+              "health": null,
+              "previous_match_summary": "Strong performances recently"
+            },
+            "Artem Taynov": {
+              "strength": "Very technical, can top roll or press",
+              "health": null,
+              "previous_match_summary": "Good performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Alizhan Muratov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan agrees that Vitalii is the most dangerous opponent for him, but he believes he has a chance.",
+          "predicted_duration": null,
+          "style_conflict": "Vitalii's top roll vs Alizhan's hook",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Very strong, especially in top roll",
+              "health": "Appears to be in good shape",
+              "previous_match_summary": "Dominant performances"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

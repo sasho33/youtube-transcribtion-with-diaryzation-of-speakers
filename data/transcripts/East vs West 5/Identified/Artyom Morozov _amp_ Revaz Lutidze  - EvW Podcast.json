@@ -1,0 +1,248 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Zaur Paizulaev",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_03": "Artyom Morozov",
+    "SPEAKER_04": "Revaz Lutidze"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Artyom Morozov",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "John finds the key after initial rounds",
+          "prediction_summary": "Oleg might take one or two rounds, but John will find the key and win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experienced with many tricks",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Sergey Kalinichenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Dzeranov will win due to experience and speed.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Experienced and fast",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Sergey Kalinichenko": {
+              "strength": "Technical",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Samushia is heavier and stronger.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Heavier and stronger",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Daniel Procopciuc": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "lrakli Gamtenadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "lrakli Gamtenadze",
+          "predicted_score": null,
+          "prediction_summary": "lrakli has endurance and can wait for opponent to tire.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "lrakli Gamtenadze": {
+              "strength": "Endurance",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Paul Linn": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Wagner Bortolato"
+          ],
+          "arm": "Left",
+          "event": "East vs West 5",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Dzeranov will win, but Kalinichenko would be a tougher opponent.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Wagner Bortolato": {
+              "strength": "Showman",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "If Dave Chaffee doesn't fix his endurance issues, Ermes will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": "Fresh power and strong fingers",
+              "health": "Endurance issues",
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Revaz Lutidze",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John will figure out a way to win despite his age.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experienced with many tricks",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes will win due to Dave's recent match and lack of preparation time.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": null,
+              "health": "Recently competed",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Revaz is at 80% and Morozov is a strong opponent.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Stronger than Derek Smith",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Revaz Lutidze": {
+              "strength": "Good anthropometry",
+              "health": "At 80%",
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

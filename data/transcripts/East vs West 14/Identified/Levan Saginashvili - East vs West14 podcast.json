@@ -1,0 +1,160 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_03": "Levan Saginashvili"
+  },
+  "date": null,
+  "self_predictions": {},
+  "third_party_predictions": [
+    {
+      "match": [
+        "Rustam Babaiev",
+        "Paul Linn"
+      ],
+      "arm": "Right",
+      "event": "East vs West 14",
+      "predicted_winner": "Paul Linn",
+      "predicted_score": null,
+      "prediction_summary": "Paul Linn is the favorite due to his recent progress and performance against Lachlan. Rustam Babaiev is professional but coming back from injury.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Rustam Babaiev": {
+          "strength": "Professional and strong, but coming back from injury.",
+          "health": "Recovering from injury, claims to be in good shape.",
+          "previous_match_summary": "Lost to Paul Linn previously and then to Irakli."
+        },
+        "Paul Linn": {
+          "strength": "Very strong with good progress in the last year.",
+          "health": null,
+          "previous_match_summary": "Performed well against Lachlan and has improved since his last match with Rustam."
+        }
+      }
+    },
+    {
+      "match": [
+        "Todd Hutchings",
+        "Evgeny Prudnik"
+      ],
+      "arm": "Right",
+      "event": "East vs West 14",
+      "predicted_winner": "Evgeny Prudnik",
+      "predicted_score": null,
+      "prediction_summary": "Prudnik is smart and knows how to pull against Todd. He won easily last time they pulled.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Todd Hutchings": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": "Lost easily to Prudnik last time."
+        },
+        "Evgeny Prudnik": {
+          "strength": "Smart and strong, knows how to handle Todd.",
+          "health": "Coming back from injury, first right arm match in 20 months.",
+          "previous_match_summary": "Won easily against Todd last time."
+        }
+      }
+    },
+    {
+      "match": [
+        "Dave Chaffee",
+        "Frank Lampirelli"
+      ],
+      "arm": "Right",
+      "event": "East vs West 14",
+      "predicted_winner": "Dave Chaffee",
+      "predicted_score": null,
+      "prediction_summary": "Dave Chaffee is too much for Frank due to his pressure and side pressure. Frank is a good guy but may not be able to take Dave's wrist.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Dave Chaffee": {
+          "strength": "Very strong with good pressure and side pressure.",
+          "health": "Coming back from a break, expected to be in good shape.",
+          "previous_match_summary": "Last match was six months ago against Laletin."
+        },
+        "Frank Lampirelli": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "match": [
+        "Jerry Cadorette",
+        "Alex Kurdecha"
+      ],
+      "arm": "Right",
+      "event": "East vs West 14",
+      "predicted_winner": "Jerry Cadorette",
+      "predicted_score": null,
+      "prediction_summary": "Jerry is favored to win due to psychological advantage and support in the USA. He can stop Alex's moves.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Jerry Cadorette": {
+          "strength": "Strong with good psychological advantage.",
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Alex Kurdecha": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "match": [
+        "John Brzenk",
+        "Leonidas Arkona"
+      ],
+      "arm": "Right",
+      "event": "East vs West 14",
+      "predicted_winner": "John Brzenk",
+      "predicted_score": null,
+      "prediction_summary": "John is expected to win but it won't be easy. Leonidas is strong but John can find a way to win.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "John Brzenk": {
+          "strength": "Experienced and can adapt his style.",
+          "health": null,
+          "previous_match_summary": "Beat Alex Voivoda in a surprising match."
+        },
+        "Leonidas Arkona": {
+          "strength": "Strong and becoming more of an armwrestler.",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "match": [
+        "Michael Todd",
+        "Kamil Jablonski"
+      ],
+      "arm": "Right",
+      "event": "East vs West 14",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Dangerous match, could go either way.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Michael Todd": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Kamil Jablonski": {
+          "strength": "Crazy and dangerous.",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    }
+  ]
+}

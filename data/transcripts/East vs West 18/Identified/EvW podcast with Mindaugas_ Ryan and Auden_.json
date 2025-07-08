@@ -1,0 +1,153 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Ryan Bowen",
+    "SPEAKER_02": "Auden",
+    "SPEAKER_03": "Mindaugas"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Auden",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "Decisive victory",
+          "prediction_summary": "Devon will control from the beginning to the end, with round one being very interesting but ultimately decisive.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's joint strength and tendon strength will be key.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Incredible joint and tendon strength",
+              "health": "Good shape, left arm looks healthier",
+              "previous_match_summary": "Lost to Logan Benninger due to underestimation but is generally strong."
+            },
+            "Alex Kurdecha": {
+              "strength": "Strong bicep and muscular strength",
+              "health": "Recent defeats but still competitive",
+              "previous_match_summary": "Close match against Morozov left arm."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Ryan Bowen",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "Hard-fought victory",
+          "prediction_summary": "Devon's positional play and pronation will be key. Alex may commit shoulder early but will struggle if he loses his wrist.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's pronation vs Alex's bicep strength.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong pronation and static rigidity",
+              "health": "Good shape, left arm is healthy",
+              "previous_match_summary": "Changes drastically when it matters, different from practice."
+            },
+            "Alex Kurdecha": {
+              "strength": "Strong bicep and rise at center",
+              "health": "Recent defeats but still strong",
+              "previous_match_summary": "Close match against Morozov left arm."
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "Decisive victory",
+          "prediction_summary": "Ermes' wrist rise strength and endurance will be key. Levan's first surge will be big but Ermes will stop him and take control.",
+          "predicted_duration": null,
+          "style_conflict": "Ermes' wrist rise vs Levan's overall strength.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Incredible overall strength",
+              "health": "Lean and in good shape",
+              "previous_match_summary": "Dominant in all matches."
+            },
+            "Ermes Gasparini": {
+              "strength": "Extraordinary wrist rise",
+              "health": "Good shape, improved since last match",
+              "previous_match_summary": "Learned from Devon match, improved wrist rise."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Mindaugas",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "Decisive victory",
+          "prediction_summary": "Devon's joint strength and tendon strength will be key. Alex may have options but Devon will control.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's pronation vs Alex's bicep strength.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong joint and tendon strength",
+              "health": "Good shape, left arm is healthy",
+              "previous_match_summary": "Lost to Logan Benninger due to underestimation but is generally strong."
+            },
+            "Alex Kurdecha": {
+              "strength": "Strong bicep and muscular strength",
+              "health": "Recent defeats but still competitive",
+              "previous_match_summary": "Close match against Morozov left arm."
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "6-0",
+          "prediction_summary": "Levan is too dominant and will win decisively.",
+          "predicted_duration": null,
+          "style_conflict": "Levan's overall strength vs Ermes' wrist rise.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Incredible overall strength",
+              "health": "Lean and in good shape",
+              "previous_match_summary": "Dominant in all matches."
+            },
+            "Ermes Gasparini": {
+              "strength": "Strong wrist rise",
+              "health": "Good shape, improved since last match",
+              "previous_match_summary": "Learned from Devon match, improved wrist rise."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

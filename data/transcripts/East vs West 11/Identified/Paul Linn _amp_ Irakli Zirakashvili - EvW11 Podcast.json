@@ -1,0 +1,444 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Roman",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Irakli Zirakashvili",
+    "SPEAKER_03": "Paul Linn",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Irakli Zirakashvili",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Nurdalet Aidarkhan",
+            "Vala Ichqiti"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Vala Ichqiti",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Vala is the favorite with an 80% chance due to strength, but acknowledges Nurdalet's explosiveness as a potential advantage.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. explosiveness",
+          "opinion_about_athletes": {
+            "Vala Ichqiti": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Gave a good match to David Samushia, won the first round but got exhausted later."
+            },
+            "Nurdalet Aidarkhan": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": "Beat Minda Agha in 75kg world title match."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Marcio Barboza"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Irakli gives a slight edge to Petrenko (55-45).",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Marcio Barboza": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Coming back from injuries, taking this match seriously."
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Wagner Bortolato"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Wagner Bortolato",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Wagner will win, referencing Matt Mask's previous losses at East vs West.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Has lost previous matches at East vs West."
+            },
+            "Wagner Bortolato": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Known for breaking tables."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artem Taynov",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Irakli supports Zurab but thinks it's a 50-50 match due to Taynov's skills.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": "Recovering from right arm injury",
+              "previous_match_summary": "Focused on left arm after injury."
+            },
+            "Artem Taynov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Good armwrestler, strong opponent."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Samushia will win but acknowledges it will be a tough match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Six-time champion."
+            },
+            "Vladimir Maiorov": {
+              "strength": "Very tough",
+              "health": null,
+              "previous_match_summary": "Beat Irakli in left arm match in Moldova."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Rino Mašić"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": null,
+          "prediction_summary": "Irakli gives Ivan a 60-40 edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": "Powerhouse",
+              "health": null,
+              "previous_match_summary": "Strong recent performances."
+            },
+            "Rino Mašić": {
+              "strength": "Fast",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Krasimir Kostadinov",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks John is good against stylistic opponents like Krasimir and predicts John will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": null,
+              "health": "Concerns about health",
+              "previous_match_summary": "Versatile, can adapt to opponents."
+            },
+            "Krasimir Kostadinov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Wrist can be taken relatively easily by John."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Irakli finds this the most interesting match, thinks it's 50-50, and expects an endurance battle in hook.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. versatility",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Very fast",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": "Smart, versatile",
+              "health": null,
+              "previous_match_summary": "Entertaining, strong performances."
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Todd has enough horsepower to stop Dadikyan, especially if Dadikyan goes into hook.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong back pressure and pronation",
+              "health": null,
+              "previous_match_summary": "Improving, mastering top roll defense."
+            },
+            "David Dadikyan": {
+              "strength": "Strong hand",
+              "health": null,
+              "previous_match_summary": "Potential to defeat Todd's pronation."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Morozov may be slightly stronger but Kurdecha's awkward style and long leverage give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. awkward style",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Slightly stronger",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Alex Kurdecha": {
+              "strength": "Awkward style",
+              "health": null,
+              "previous_match_summary": "Long leverage makes him tough to top roll."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Paul Linn",
+      "self_predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Paul sees himself as the underdog, acknowledges Irakli's back pressure and hand strength as major challenges.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. top roll",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Insane back pressure and hand/wrist",
+              "health": null,
+              "previous_match_summary": "Hard to hook, effective against hook pullers."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Aymeric Pradines",
+            "Robbie Topie"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Aymeric Pradines",
+          "predicted_score": null,
+          "prediction_summary": "Paul makes Aymeric the favorite but notes Robbie could surprise if in top form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Aymeric Pradines": {
+              "strength": "Explosive outside puller",
+              "health": null,
+              "previous_match_summary": "Longevity in the sport."
+            },
+            "Robbie Topie": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Huge wins in the past, taking this match seriously."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Marcio Barboza"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Marcio Barboza",
+          "predicted_score": null,
+          "prediction_summary": "Paul believes Marcio has versatility and is taking this match seriously, predicting a win for him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Marcio Barboza": {
+              "strength": null,
+              "health": "Coming back from injuries",
+              "previous_match_summary": "Statement match for him."
+            },
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artem Taynov",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Paul thinks Zurab is coming to make a statement and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": "Focused on left arm after right arm injury",
+              "previous_match_summary": "Champion mindset, responded positively to injury."
+            },
+            "Artem Taynov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Paul thinks Alizhan is the slight favorite on paper but picks Prudnik to win due to his heart and recent performances.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. versatility",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Very fast",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": "Smart, versatile",
+              "health": null,
+              "previous_match_summary": "Unbelievable last left-handed match."
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Paul thinks this is Todd's toughest match but believes Todd's improvements will secure the win.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong back pressure and pronation",
+              "health": null,
+              "previous_match_summary": "Improving, mastering top roll defense."
+            },
+            "David Dadikyan": {
+              "strength": "Strong hand",
+              "health": null,
+              "previous_match_summary": "Potential to defeat Todd's pronation."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Paul thinks Morozov might be stronger but Kurdecha's anatomy and awkward style give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. awkward style",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Possibly stronger",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Alex Kurdecha": {
+              "strength": "Large, awkward style",
+              "health": null,
+              "previous_match_summary": "Difficult to top roll due to leverage."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

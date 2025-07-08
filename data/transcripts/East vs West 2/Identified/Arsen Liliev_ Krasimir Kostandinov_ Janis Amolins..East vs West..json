@@ -1,0 +1,136 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Arsen Liliev",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Janis Amolins",
+    "SPEAKER_03": "Krasimir Kostandinov",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Krasimir Kostandinov",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yordan Tsonev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Believes Todd Hutchings will win if the match goes long, but Yordan Tsonev has a chance if he finishes early.",
+          "predicted_duration": null,
+          "style_conflict": "Side pressure vs. inside game",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Incredible side pressure",
+              "health": null,
+              "previous_match_summary": "Known for controlling opponents' rotators in inside games."
+            },
+            "Yordan Tsonev": {
+              "strength": "Long arm and effective side pressure",
+              "health": null,
+              "previous_match_summary": "Impressive performance against Bogoslov, showing endurance and strength."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Janis Amolins",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Oleg Cherkasov",
+            "Yusuf Yıldızoğlu"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Oleg Cherkasov",
+          "predicted_score": null,
+          "prediction_summary": "Believes Oleg Cherkasov has the edge due to endurance and versatility.",
+          "predicted_duration": null,
+          "style_conflict": "Hook war",
+          "opinion_about_athletes": {
+            "Oleg Cherkasov": {
+              "strength": "Versatile, can go inside or top roll",
+              "health": null,
+              "previous_match_summary": "Known for his endurance and ability to adapt."
+            },
+            "Yusuf Yıldızoğlu": {
+              "strength": "Powerful inside game",
+              "health": null,
+              "previous_match_summary": "Strong inside puller with impressive pronator numbers."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Arsen Liliev",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Believes Genadi can win even without wrist control, using triceps press.",
+          "predicted_duration": null,
+          "style_conflict": "Triceps press vs. defensive style",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Knows how to fight in triceps",
+              "health": "Psychologically ready",
+              "previous_match_summary": "Fought well in triceps in past matches."
+            },
+            "Michael Todd": {
+              "strength": "Defensive style",
+              "health": null,
+              "previous_match_summary": "Struggles against technical pullers."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Believes John's experience and versatility will prevail, especially in strap.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Versatile, strong pronator",
+              "health": null,
+              "previous_match_summary": "Known for adapting and controlling matches."
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong hook puller",
+              "health": "Recovering from elbow injury",
+              "previous_match_summary": "Motivated but may struggle with top rollers."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

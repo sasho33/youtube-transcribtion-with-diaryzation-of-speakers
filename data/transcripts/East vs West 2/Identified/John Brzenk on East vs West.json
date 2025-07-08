@@ -1,0 +1,108 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "John Brzenk",
+    "SPEAKER_01": "Raymond",
+    "SPEAKER_02": "Engin Terzi"
+  },
+  "date": null,
+  "self_predictions": {
+    "John Brzenk": [
+      {
+        "match": [
+          "John Brzenk",
+          "Khadzimurat Zoloev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 2",
+        "predicted_winner": "Khadzimurat Zoloev",
+        "predicted_score": "3-2",
+        "prediction_summary": "John hopes to win the first two matches but is concerned about endurance and fatigue in later rounds.",
+        "predicted_duration": null,
+        "style_conflict": "Endurance and fatigue in later rounds",
+        "opinion_about_athletes": {
+          "Khadzimurat Zoloev": {
+            "strength": "High endurance and strength",
+            "health": "Recently had an elbow injury but may be healed",
+            "previous_match_summary": "Strong performance against Todd Hutchings in Las Vegas"
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "John Brzenk": [
+      {
+        "match": [
+          "Genadi Kvikvinia",
+          "Michael Todd"
+        ],
+        "arm": "Right",
+        "event": "East vs West 2",
+        "predicted_winner": "Michael Todd",
+        "predicted_score": null,
+        "prediction_summary": "Michael Todd is in confident form and is expected to prevail, possibly in a long and exciting match.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Genadi Kvikvinia": {
+            "strength": "Strong but struggled against Ermes",
+            "health": null,
+            "previous_match_summary": "Struggles against Ermes Gasparini"
+          },
+          "Michael Todd": {
+            "strength": "Very confident and strong",
+            "health": null,
+            "previous_match_summary": "Confident form and strong performances"
+          }
+        }
+      },
+      {
+        "match": [
+          "Todd Hutchings",
+          "Yordan Tsonev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 2",
+        "predicted_winner": "Todd Hutchings",
+        "predicted_score": null,
+        "prediction_summary": "Todd Hutchings is expected to win, especially if Yordan Tsonev is not explosive enough.",
+        "predicted_duration": null,
+        "style_conflict": "Yordan Tsonev's lack of explosiveness",
+        "opinion_about_athletes": {
+          "Todd Hutchings": {
+            "strength": "Very strong, especially in side pressure",
+            "health": null,
+            "previous_match_summary": "Dominant performances, including against Lachlan Adair"
+          },
+          "Yordan Tsonev": {
+            "strength": "Good but not explosive enough",
+            "health": null,
+            "previous_match_summary": "Not as explosive as Rustam Bavaev"
+          }
+        }
+      }
+    ],
+    "Engin Terzi": [
+      {
+        "match": [
+          "John Brzenk",
+          "Khadzimurat Zoloev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 2",
+        "predicted_winner": "John Brzenk",
+        "predicted_score": null,
+        "prediction_summary": "Engin believes John has the experience and control to win, especially if Zoloev cannot force a hook.",
+        "predicted_duration": null,
+        "style_conflict": "Zoloev's potential inability to force a hook",
+        "opinion_about_athletes": {
+          "Khadzimurat Zoloev": {
+            "strength": "Strong but may not be able to force a hook",
+            "health": "Recently had an elbow injury",
+            "previous_match_summary": "Lost in WAF World Championships"
+          }
+        }
+      }
+    ]
+  }
+}

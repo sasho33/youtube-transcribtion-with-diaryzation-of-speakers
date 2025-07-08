@@ -1,0 +1,147 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Devon Larratt",
+    "SPEAKER_01": "Corey West",
+    "SPEAKER_02": "Michael Todd",
+    "SPEAKER_03": "Robert"
+  },
+  "date": "March 17, 2025",
+  "predictions": {
+    "Devon Larratt": {
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "3-0",
+          "prediction_summary": "Devon is confident he will dominate Corey, predicting a shutout and stating he can do whatever he wants with Corey on the table.",
+          "predicted_duration": "Quick pins",
+          "style_conflict": "Devon plans to control the match from the start and avoid Corey's strong positions.",
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Strong but not at Devon's level",
+              "health": "Corey is healthy now, which improves his performance",
+              "previous_match_summary": "Corey has had strong performances but Devon believes he can handle him easily."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Devon mentions this might be John's last match due to upcoming back surgery.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": null,
+              "health": "Undergoing back surgery after the match",
+              "previous_match_summary": "Potential last match of his career."
+            },
+            "Yoshinobu Kanai": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Corey West": {
+      "self_predictions": [
+        {
+          "match": [
+            "Corey West",
+            "Devon Larratt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Corey believes he is strong enough to win and is confident in his preparation.",
+          "predicted_duration": null,
+          "style_conflict": "Corey plans to use his strength and endurance to outlast Devon.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong but unproven left-handed",
+              "health": null,
+              "previous_match_summary": "Devon is confident but Corey believes he can handle him."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": []
+    },
+    "Michael Todd": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "55-45 in favor of Corey",
+          "prediction_summary": "Michael thinks it's a close match but leans slightly towards Corey due to his strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong but unproven left-handed",
+              "health": null,
+              "previous_match_summary": "Devon is confident but Michael thinks Corey can challenge him."
+            },
+            "Corey West": {
+              "strength": "Very strong, possibly stronger than Devon",
+              "health": "Healthy and in good shape",
+              "previous_match_summary": "Corey has been performing well and is at his strongest."
+            }
+          }
+        }
+      ]
+    },
+    "Robert": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Robert believes Devon will win but thinks Corey will win at least some matches.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Devon is very confident."
+            },
+            "Corey West": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Corey is strong but Robert thinks Devon will win."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Mindaugas Tarasaitis",
+    "SPEAKER_02": "Janis Amolins"
+  },
+  "date": null,
+  "self_predictions": {
+    "Janis Amolins": [
+      {
+        "match": [
+          "Janis Amolins",
+          "Mindaugas Tarasaitis"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Janis Amolins",
+        "predicted_score": null,
+        "prediction_summary": "Janis believes he has a good chance to beat Mindaugas, citing his ability to perform better in official competitions compared to practice sessions.",
+        "predicted_duration": null,
+        "style_conflict": "Janis expects a power game and believes he can find a position where he is stronger.",
+        "opinion_about_athletes": {
+          "Mindaugas Tarasaitis": {
+            "strength": "Strong in hand control, back pressure, and pronation control.",
+            "health": "Assumed to be healthy.",
+            "previous_match_summary": "Mindaugas has shown strength in both top-roll and hook positions, as seen in his match with Tom Holland."
+          }
+        }
+      }
+    ],
+    "Mindaugas Tarasaitis": [
+      {
+        "match": [
+          "Mindaugas Tarasaitis",
+          "Janis Amolins"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Mindaugas Tarasaitis",
+        "predicted_score": null,
+        "prediction_summary": "Mindaugas is confident in his victory, stating a 97-98% chance of winning based on his 'armwrestling math'.",
+        "predicted_duration": null,
+        "style_conflict": "Mindaugas believes the match will be a power game and expects to dominate Janis.",
+        "opinion_about_athletes": {
+          "Janis Amolins": {
+            "strength": "Janis is strong but Mindaugas believes he is stronger.",
+            "health": "Janis has healed from injuries but may still have some limitations.",
+            "previous_match_summary": "Janis has performed well in official matches, often better than in practice."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": [
+    {
+      "match": [
+        "John Brzenk",
+        "Yoshinobu Kanai"
+      ],
+      "arm": "Right",
+      "event": "East vs West 17",
+      "predicted_winner": "John Brzenk",
+      "predicted_score": null,
+      "prediction_summary": "Janis hopes to see a healthy and motivated John Brzenk, who he believes can control the center but may struggle to pin Kanai multiple times.",
+      "predicted_duration": null,
+      "style_conflict": "Kanai might use a king's move, while John could use a wrist press.",
+      "opinion_about_athletes": {
+        "John Brzenk": {
+          "strength": "Strong center control.",
+          "health": "Concerns about shoulder health.",
+          "previous_match_summary": "John has shown dominance in center control but may struggle with injuries."
+        },
+        "Yoshinobu Kanai": {
+          "strength": "Dangerous with his hand and wrist.",
+          "health": "Assumed to be healthy.",
+          "previous_match_summary": "Kanai has shown effectiveness against top rollers."
+        }
+      }
+    },
+    {
+      "match": [
+        "Dave Chaffee",
+        "Georgi Tsvetkov"
+      ],
+      "arm": "Right",
+      "event": "East vs West 17",
+      "predicted_winner": "Georgi Tsvetkov",
+      "predicted_score": null,
+      "prediction_summary": "Janis and Mindaugas favor Georgi if both are healthy, citing his ability to dominate the center position.",
+      "predicted_duration": null,
+      "style_conflict": "Georgi's center control vs. Dave's ability to press without a wrist.",
+      "opinion_about_athletes": {
+        "Dave Chaffee": {
+          "strength": "Strong press and side pressure.",
+          "health": "Recent struggles with hand and wrist health.",
+          "previous_match_summary": "Dave has struggled recently but claims to be healthier now."
+        },
+        "Georgi Tsvetkov": {
+          "strength": "Dominant in center position.",
+          "health": "Recovering from leg injury.",
+          "previous_match_summary": "Georgi has shown strong center control in past matches."
+        }
+      }
+    },
+    {
+      "match": [
+        "Devon Larratt",
+        "Corey West"
+      ],
+      "arm": "Left",
+      "event": "East vs West 17",
+      "predicted_winner": "Devon Larratt",
+      "predicted_score": null,
+      "prediction_summary": "Both Janis and Mindaugas see Devon as the favorite, with Corey's only chance being a press.",
+      "predicted_duration": null,
+      "style_conflict": "Corey's press vs. Devon's versatility.",
+      "opinion_about_athletes": {
+        "Devon Larratt": {
+          "strength": "Versatile and strong with left arm.",
+          "health": "Assumed to be healthy.",
+          "previous_match_summary": "Devon has been improving his left arm recently."
+        },
+        "Corey West": {
+          "strength": "Good press and side pressure.",
+          "health": "Assumed to be healthy.",
+          "previous_match_summary": "Corey has shown effectiveness with his left arm."
+        }
+      }
+    },
+    {
+      "match": [
+        "Matt Mask",
+        "Kydyrgali Ongarbaev"
+      ],
+      "arm": "Right",
+      "event": "East vs West 17",
+      "predicted_winner": "Kydyrgali Ongarbaev",
+      "predicted_score": null,
+      "prediction_summary": "Both Janis and Mindaugas favor Ongarbaev, assuming he is healthy post-elbow surgery.",
+      "predicted_duration": null,
+      "style_conflict": "Ongarbaev's effectiveness against top rollers vs. Matt Mask's style.",
+      "opinion_about_athletes": {
+        "Matt Mask": {
+          "strength": "Strong but considered an underdog.",
+          "health": "Assumed to be healthy.",
+          "previous_match_summary": "Matt has shown resilience but may struggle against top-tier opponents."
+        },
+        "Kydyrgali Ongarbaev": {
+          "strength": "Effective against top rollers.",
+          "health": "Recovering from elbow surgery.",
+          "previous_match_summary": "Ongarbaev has dominated top rollers in the past."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Brigitta Ivánfi",
+    "SPEAKER_02": "Translator",
+    "SPEAKER_04": "Irina Gladkaya"
+  },
+  "date": null,
+  "self_predictions": {
+    "Brigitta Ivánfi": [],
+    "Irina Gladkaya": []
+  },
+  "third_party_predictions": {
+    "Brigitta Ivánfi": [
+      {
+        "match": [
+          "Brigitta Ivánfi",
+          "Irina Gladkaya"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Brigitta is excited to compete against Irina, whom she sees as a role model and an unbeatable athlete. She has analyzed Irina's matches and is preparing technically for the match.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Irina Gladkaya": {
+            "strength": "Strong, especially in top rolling",
+            "health": null,
+            "previous_match_summary": "Irina has 13 world titles and won her last supermatch 3-0 against Bela Pliva."
+          }
+        }
+      }
+    ],
+    "Irina Gladkaya": [
+      {
+        "match": [
+          "Brigitta Ivánfi",
+          "Irina Gladkaya"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Irina is taking the match seriously and has been preparing by strengthening her strengths and analyzing Brigitta's matches. She believes Brigitta is strong in side pressure but plans to use her top rolling to counter.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Brigitta Ivánfi": {
+            "strength": "Strong in side pressure",
+            "health": null,
+            "previous_match_summary": "Brigitta has 9 world titles and 19 European titles across both arms."
+          }
+        }
+      }
+    ]
+  }
+}

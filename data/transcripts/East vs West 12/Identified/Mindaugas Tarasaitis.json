@@ -1,0 +1,137 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Mindaugas Tarasaitis",
+    "SPEAKER_01": "Engin Terzi"
+  },
+  "date": null,
+  "self_predictions": {
+    "Mindaugas Tarasaitis": [
+      {
+        "match": [
+          "Artur Makarov",
+          "Mindaugas Tarasaitis"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Mindaugas Tarasaitis",
+        "predicted_score": null,
+        "prediction_summary": "Confident about stopping Artur's explosiveness and finishing the match if he catches him.",
+        "predicted_duration": null,
+        "style_conflict": "Hook vs Top Roll",
+        "opinion_about_athletes": {
+          "Artur Makarov": {
+            "strength": "Explosive",
+            "health": null,
+            "previous_match_summary": "Artur has a winning record against Mindaugas in past matches."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Engin Terzi": [
+      {
+        "match": [
+          "Daniel Procopciuc",
+          "Mindaugas Tarasaitis"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Mindaugas Tarasaitis",
+        "predicted_score": null,
+        "prediction_summary": "Praised Mindaugas for his strategic execution and patience against Daniel, highlighting his ability to unlock key positions.",
+        "predicted_duration": null,
+        "style_conflict": "Hook vs Top Roll",
+        "opinion_about_athletes": {
+          "Daniel Procopciuc": {
+            "strength": "Strong wrist and endurance",
+            "health": null,
+            "previous_match_summary": "Daniel is considered one of the strongest arm wrestlers pound for pound."
+          },
+          "Mindaugas Tarasaitis": {
+            "strength": "Strategic and patient",
+            "health": null,
+            "previous_match_summary": "Mindaugas showed mastery in controlling the match against Daniel."
+          }
+        }
+      },
+      {
+        "match": [
+          "Alan Zoloev",
+          "Mindaugas Tarasaitis"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Mindaugas Tarasaitis",
+        "predicted_score": null,
+        "prediction_summary": "Believes Mindaugas can top roll Alan if he controls his wrist, but acknowledges it won't be an easy match.",
+        "predicted_duration": null,
+        "style_conflict": "Top Roll vs Hook",
+        "opinion_about_athletes": {
+          "Alan Zoloev": {
+            "strength": "Strong pronation and bicep power",
+            "health": null,
+            "previous_match_summary": "Alan is known for his dragging style and endurance."
+          },
+          "Mindaugas Tarasaitis": {
+            "strength": "Static ability and wrist control",
+            "health": null,
+            "previous_match_summary": "Mindaugas has improved his wrist control significantly."
+          }
+        }
+      }
+    ],
+    "Mindaugas Tarasaitis": [
+      {
+        "match": [
+          "Daniel Procopciuc",
+          "Artur Makarov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Daniel Procopciuc",
+        "predicted_score": null,
+        "prediction_summary": "Expects a tough match with Daniel giving Artur a good fight, but unsure of the outcome due to Daniel's recent progress.",
+        "predicted_duration": null,
+        "style_conflict": "Hook vs Hook",
+        "opinion_about_athletes": {
+          "Daniel Procopciuc": {
+            "strength": "Endurance and wrist control",
+            "health": null,
+            "previous_match_summary": "Daniel has progressed significantly in recent years."
+          },
+          "Artur Makarov": {
+            "strength": "Explosiveness",
+            "health": null,
+            "previous_match_summary": "Artur has a history of beating Daniel in the past."
+          }
+        }
+      },
+      {
+        "match": [
+          "Vitaly Laletin",
+          "Dave Chaffee"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Vitaly Laletin",
+        "predicted_score": null,
+        "prediction_summary": "Believes Vitaly will get serious and win the rematch against Dave.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Vitaly Laletin": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": "Vitaly lost to Dave last time but is expected to come back stronger."
+          },
+          "Dave Chaffee": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": "Dave's recent results have not been great."
+          }
+        }
+      }
+    ]
+  }
+}

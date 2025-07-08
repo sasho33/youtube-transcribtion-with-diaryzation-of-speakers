@@ -1,0 +1,91 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Engin Terzi"
+  },
+  "date": null,
+  "Engin Terzi": {
+    "self_predictions": [],
+    "third_party_predictions": [
+      {
+        "match": [
+          "John Brzenk",
+          "Kydyrgali Ongarbaev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "John Brzenk",
+        "predicted_score": null,
+        "prediction_summary": "Gives the edge to John 51-49 against Ongarbaev, noting Ongarbaev is a better armwrestler but Corey has more horsepower.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "John Brzenk": {
+            "strength": "Incredible, especially for his age",
+            "health": "Had a cold or flu before the match but still performed",
+            "previous_match_summary": "Beat Corey West in a close match, showing great experience and ability to adapt"
+          },
+          "Kydyrgali Ongarbaev": {
+            "strength": "Better armwrestler than Corey West",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Corey West": {
+            "strength": "Very strong wrist, explosive",
+            "health": null,
+            "previous_match_summary": "Gave trouble to Alex Kurdesha but gassed out"
+          }
+        }
+      },
+      {
+        "match": [
+          "Evgeny Prudnik",
+          "Todd Hutchings"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Mentions Prudnik could beat Corey West the same way John did, implying Prudnik is strong.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Evgeny Prudnik": {
+            "strength": "Strong, could beat Corey West",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Todd Hutchings": {
+            "strength": "Smart, improved a lot",
+            "health": null,
+            "previous_match_summary": "Lost to Michael Todd but looked better in some rounds"
+          }
+        }
+      },
+      {
+        "match": [
+          "Michael Todd",
+          "Todd Hutchings"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Michael Todd",
+        "predicted_score": null,
+        "prediction_summary": "Thought Hutchings looked better when Michael went outside, but Michael adapted and won.",
+        "predicted_duration": null,
+        "style_conflict": "Michael's king's move countered Todd's pressure but didn't have total risk control.",
+        "opinion_about_athletes": {
+          "Michael Todd": {
+            "strength": "Well-rounded, can adapt",
+            "health": null,
+            "previous_match_summary": "Beat Todd Hutchings by adapting his style"
+          },
+          "Todd Hutchings": {
+            "strength": "Strong, smart",
+            "health": null,
+            "previous_match_summary": "Looked better in some rounds against Michael Todd"
+          }
+        }
+      }
+    ]
+  }
+}

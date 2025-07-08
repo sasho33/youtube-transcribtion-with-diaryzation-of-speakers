@@ -1,0 +1,118 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Unknown",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Georgi Tsvetkov",
+    "SPEAKER_03": "Unknown",
+    "SPEAKER_04": "Devon Larratt"
+  },
+  "date": null,
+  "predictions": {
+    "Georgi Tsvetkov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "Georgi believes he will destroy Devon's wrist and win the match, citing his improved strength and hand control.",
+          "predicted_duration": "Long and difficult match",
+          "style_conflict": "Georgi plans to control Devon's wrist and dominate the match.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Very strong, especially in wrist control",
+              "health": "In prime condition",
+              "previous_match_summary": "Devon has been performing well in recent matches, but Georgi believes he can overcome him."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Hermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Georgi thinks Laletin's size and hand control will give him the edge over Hermes in a long and difficult match.",
+          "predicted_duration": "Long and difficult match",
+          "style_conflict": "Hermes may struggle with Laletin's size and hand control.",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Strong, especially in hand control",
+              "health": "Good condition",
+              "previous_match_summary": "Laletin has been performing well in recent matches."
+            },
+            "Hermes Gasparini": {
+              "strength": "Strong pronators",
+              "health": "Good condition",
+              "previous_match_summary": "Hermes has been performing well but may struggle against larger opponents."
+            }
+          }
+        }
+      ]
+    },
+    "Devon Larratt": {
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon is confident he will win, describing the match as a vacation and downplaying Georgi's chances.",
+          "predicted_duration": null,
+          "style_conflict": "Devon plans to use his versatility and experience to overcome Georgi.",
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Strong top roller",
+              "health": "Good condition",
+              "previous_match_summary": "Georgi has been improving but Devon believes he is not a serious threat."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": []
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin believes the match will be very tough and not as easy as Devon claims.",
+          "predicted_duration": "Long and difficult match",
+          "style_conflict": "Engin thinks Georgi's hand control and strength will make it a challenging match for Devon.",
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Very strong, especially in hand control",
+              "health": "Good condition",
+              "previous_match_summary": "Georgi has been improving and is in great shape."
+            },
+            "Devon Larratt": {
+              "strength": "Very strong, versatile",
+              "health": "In prime condition",
+              "previous_match_summary": "Devon has been performing well but may face a tough challenge from Georgi."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

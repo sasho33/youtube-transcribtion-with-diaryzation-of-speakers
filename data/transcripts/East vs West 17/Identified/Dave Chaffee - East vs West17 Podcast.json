@@ -1,0 +1,133 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_02": "Dave Chaffee"
+  },
+  "date": null,
+  "Dave Chaffee": {
+    "self_predictions": [
+      {
+        "match": [
+          "Georgi Tsvetkov",
+          "Dave Chaffee"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Georgi Tsvetkov",
+        "predicted_score": null,
+        "prediction_summary": "Dave acknowledges Georgi as the favorite due to his recent performances but feels confident in his own preparation and health.",
+        "predicted_duration": "Big war",
+        "style_conflict": "Georgi's strong hand control vs Dave's side pressure and shoulder press",
+        "opinion_about_athletes": {
+          "Georgi Tsvetkov": {
+            "strength": "Very strong hand and back pressure",
+            "health": null,
+            "previous_match_summary": "Pulled great except for the match with a broken foot"
+          }
+        }
+      }
+    ],
+    "third_party_predictions": [
+      {
+        "match": [
+          "Matt Mask",
+          "Kydyrgali Ongarbaev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Matt Mask",
+        "predicted_score": "60-40",
+        "prediction_summary": "Dave roots for Matt Mask and believes it will be a close match, especially since Ongarbaev is coming back from elbow surgery.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Matt Mask": {
+            "strength": "Explosive and fun to watch",
+            "health": "Recovered from elbow surgery",
+            "previous_match_summary": "Dominant performance against Marcio Barboza"
+          },
+          "Kydyrgali Ongarbaev": {
+            "strength": null,
+            "health": "First match back after elbow surgery",
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "John Brzenk",
+          "Yoshinobu Kanai"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "John Brzenk",
+        "predicted_score": "70-30",
+        "prediction_summary": "Dave believes John's experience and smart pulling will overcome Kanai's king's move.",
+        "predicted_duration": null,
+        "style_conflict": "John's shoulder pressure vs Kanai's king's move",
+        "opinion_about_athletes": {
+          "John Brzenk": {
+            "strength": "Smart and versatile",
+            "health": "Healthy for his age",
+            "previous_match_summary": "Legendary career spanning 40 years"
+          },
+          "Yoshinobu Kanai": {
+            "strength": "Strong king's move",
+            "health": null,
+            "previous_match_summary": "Gave Todd Hutchings a tough match"
+          }
+        }
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Corey West"
+        ],
+        "arm": "Left",
+        "event": "East vs West 17",
+        "predicted_winner": "Devon Larratt",
+        "predicted_score": "70-30",
+        "prediction_summary": "Dave thinks Devon's smart pulling will overcome Corey's strength, though it won't be an easy match.",
+        "predicted_duration": null,
+        "style_conflict": "Devon's strategy vs Corey's press",
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Smart and strategic",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Corey West": {
+            "strength": "Strong left-handed press",
+            "health": null,
+            "previous_match_summary": "Dominant in straps against Tobias"
+          }
+        }
+      },
+      {
+        "match": [
+          "Craig Tullier",
+          "John Therrien"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Craig Tullier",
+        "predicted_score": "55-45",
+        "prediction_summary": "Dave roots for Craig but acknowledges John's recent successes, expecting a close match.",
+        "predicted_duration": "War",
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Craig Tullier": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          },
+          "John Therrien": {
+            "strength": "Up-and-comer",
+            "health": null,
+            "previous_match_summary": "Beat some really good guys recently"
+          }
+        }
+      }
+    ]
+  }
+}

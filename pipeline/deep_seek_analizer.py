@@ -12,7 +12,7 @@ from pipeline.config import SHALLOWSEEK_APIK, TRANSCRIPT_DIR, EVW_EVENTS_FILE
 # Configuration
 DEEPSEEK_API_KEY = SHALLOWSEEK_APIK
 API_URL = "https://api.deepseek.com/v1/chat/completions"
-MODEL = "deepseek-reasoner"
+MODEL = "deepseek-chat"
 
 def extract_predictions_as_json(event_title: str, filename: str):
     """
@@ -23,6 +23,11 @@ def extract_predictions_as_json(event_title: str, filename: str):
     output_path = TRANSCRIPT_DIR / event_title / "Identified"
     output_path.mkdir(parents=True, exist_ok=True)
     output_json_path = output_path / filename.replace(".txt", ".json")
+
+    if output_json_path.exists():
+        print(f"⏭️ Skipping {filename} — JSON already exists.")
+        return output_json_path
+
 
     if not normalized_path.exists():
         raise FileNotFoundError(f"Transcript file not found: {normalized_path}")
@@ -44,45 +49,36 @@ def extract_predictions_as_json(event_title: str, filename: str):
             for m in matches
         ]
     )
-
-    # Escape nested braces for f-string compatibility
-    example_json = """{
-  \"SPEAKER_00\": \"Devon Larratt\",
-  \"SPEAKER_01\": \"Engin Terzi\",
-  \"Devon Larratt\": [
-    {
-      \"event\": \"%s\",
-      \"participants\": [\"Devon Larratt\", \"Corey West\"],
-      \"predicted_winner\": \"Devon Larratt\",
-      \"prediction_summary\": \"I believe I can stop him and control center table.\",
-      \"confidence_level\": \"high\",
-      \"opinion_about_opponent\": \"Corey is strong but has a weak pronation.\"
-    }
-  ]
-}""" % event_title
-
+    
     # Prompt for structured JSON response
     system_prompt = f"""
 You are an expert assistant in analyzing armwrestling podcasts.
 
 You will receive a transcript and metadata. Your task is to:
-1. Identify each speaker using filename and content.
-2. Return structured JSON with:
+1. Identify each speaker using filename and content. Speaker diarization might be noisy (e.g., multiple speakers under one label or label changes mid-sentence). The speaker names might also be misspelled — normalize if needed.
+2. Focus only on predictions and discussion related to the matches listed below from the event '{event_title}'. Ignore off-topic matches.
+3. Return structured JSON with:
    - A speaker mapping like \"SPEAKER_00\": \"Devon Larratt\"
-   - For each speaker who is a known athlete, extract their match predictions about {event_title}
-   - Use the list of matches below for valid match-ups
-   - For each prediction include:
-     * event name (always '{event_title}')
-     * participants (exact two names from the match)
-     * predicted_winner (exact name from participants)
-     * prediction_summary (1-2 sentences max summarizing reasoning)
-     * confidence_level (optional, if speaker expresses it clearly)
-     * opinion_about_opponent (optional: speaker's brief opinion of opponent)
+   - Include a key \"date\" with null (to be filled in later by YouTube API)
+   - For each speaker who is a known athlete, extract:
+     - self_predictions: list of predictions about their own match
+     - third_party_predictions: list of predictions about other matches, using:
+         * match: [participant1, participant2]
+         * arm: "Left" or "Right"
+         * event: name of the event (e.g., {event_title})
+         * predicted_winner
+         * predicted_score
+         * prediction_summary
+         * predicted_duration
+         * style_conflict
+         * opinion_about_athletes: dictionary where keys are athlete names and values contain:
+             - strength
+             - health
+             - previous_match_summary
 
-Return only a JSON object like this:
-{example_json}
+Return only a JSON object.
 
-List of matches:
+List of matches for this event ({event_title}):
 {match_summaries}
 
 Filename: {filename}

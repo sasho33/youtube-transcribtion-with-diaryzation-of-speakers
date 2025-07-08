@@ -1,0 +1,295 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Adam Wawrzynski",
+    "SPEAKER_01": "Bozhidar Simeonov",
+    "SPEAKER_02": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Bozhidar Simeonov",
+      "self_predictions": [
+        {
+          "match": [
+            "Bozhidar Simeonov",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Bozhidar Simeonov",
+          "predicted_score": "3-2",
+          "prediction_summary": "Bozhidar believes he will win in a long hook match, expecting to take the first two rounds and then possibly lose some but ultimately win.",
+          "predicted_duration": "Long hook match",
+          "style_conflict": "Hook vs Hook",
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": "Strong hook, good endurance",
+              "health": "In good shape, recovering well",
+              "previous_match_summary": "Dominant in his category, improving every event"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Davit Samushia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "3-2",
+          "prediction_summary": "Bozhidar believes Daniel will win if he plays his cards right and pulls at 100%.",
+          "predicted_duration": "Competitive match",
+          "style_conflict": "Technical vs Endurance",
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Technical, good endurance",
+              "health": "In good shape",
+              "previous_match_summary": "Lost to Haydar Khan but had a long match with Mindaugas"
+            },
+            "Davit Samushia": {
+              "strength": "Strong, good endurance",
+              "health": "In good shape",
+              "previous_match_summary": "Impressive endurance in previous matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Irakli Gamtenadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": "3-2",
+          "prediction_summary": "Bozhidar thinks Paul will take the first two rounds but Irakli might come back.",
+          "predicted_duration": "Competitive match",
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Strong, good endurance",
+              "health": "In good shape",
+              "previous_match_summary": "Beat Rambat and caused trouble to John"
+            },
+            "Irakli Gamtenadze": {
+              "strength": "Experienced, good technique",
+              "health": "In good shape",
+              "previous_match_summary": "Has wins against many top pullers"
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Revaz Lutidze",
+          "predicted_score": "3-0",
+          "prediction_summary": "Bozhidar believes Revaz will be dominant, possibly top rolling Morozov.",
+          "predicted_duration": "Dominant match",
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Top three in the world, well-prepared",
+              "health": "In top shape",
+              "previous_match_summary": "Quit armwrestling for years but now dedicated"
+            },
+            "Artyom Morozov": {
+              "strength": "Strong, improving",
+              "health": "Hurt inner elbow",
+              "previous_match_summary": "Pushing limits every day"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Adam Wawrzynski",
+      "self_predictions": [
+        {
+          "match": [
+            "Adam Wawrzynski",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Adam Wawrzynski",
+          "predicted_score": "3-1",
+          "prediction_summary": "Adam believes he will win, expecting a tough match but confident in his abilities.",
+          "predicted_duration": "Long hook match",
+          "style_conflict": "Hook vs Hook",
+          "opinion_about_athletes": {
+            "Bozhidar Simeonov": {
+              "strength": "Strong, good endurance",
+              "health": "In good shape",
+              "previous_match_summary": "Four times world champion"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "3-2",
+          "prediction_summary": "Adam thinks Devon will find a way to win, possibly exposing some weakness.",
+          "predicted_duration": "War",
+          "style_conflict": "Technical vs Technical",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Technical, good endurance",
+              "health": "In good shape",
+              "previous_match_summary": "Untouchable at his weight"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Incredible shape, powerful",
+              "health": "In top shape",
+              "previous_match_summary": "Dominant in previous matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "3-1",
+          "prediction_summary": "Adam believes Dave's natural size and strength will give him the edge.",
+          "predicted_duration": "Competitive match",
+          "style_conflict": "Outside vs Outside",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong, good control",
+              "health": "In good shape",
+              "previous_match_summary": "Pushing to be super heavyweight"
+            },
+            "Dave Chaffee": {
+              "strength": "Naturally super heavyweight, powerful",
+              "health": "In good shape",
+              "previous_match_summary": "Dominant in his category"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "3-1",
+          "prediction_summary": "Adam thinks John's skill and experience will overcome Petrenko's strength.",
+          "predicted_duration": "Competitive match",
+          "style_conflict": "Hook vs Hook",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Technical, experienced",
+              "health": "In good shape",
+              "previous_match_summary": "Greatest arm wrestler of all time"
+            },
+            "Oleg Petrenko": {
+              "strength": "Very strong",
+              "health": "In good shape",
+              "previous_match_summary": "Strong but not as technical"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "3-2",
+          "prediction_summary": "Engin sees the match as 50-50 but leans towards Prudnik due to his current shape.",
+          "predicted_duration": "War",
+          "style_conflict": "Technical vs Technical",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Technical, good endurance",
+              "health": "In good shape",
+              "previous_match_summary": "Untouchable at his weight"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Incredible shape, powerful",
+              "health": "In top shape",
+              "previous_match_summary": "Dominant in previous matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": "3-2",
+          "prediction_summary": "Engin thinks Matt's current shape and determination will give him the edge.",
+          "predicted_duration": "Competitive match",
+          "style_conflict": "Hook vs Hook",
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": "Strong, good endurance",
+              "health": "In good shape",
+              "previous_match_summary": "Beat Alexander Gattalo in hook"
+            },
+            "Matt Mask": {
+              "strength": "Determined, in top shape",
+              "health": "In good shape",
+              "previous_match_summary": "Training hard after previous loss"
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Wagner Bortolato"
+          ],
+          "arm": "Left",
+          "event": "East vs West 5",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": "3-1",
+          "prediction_summary": "Engin believes Dzeranov's top roll will be too much for Wagner.",
+          "predicted_duration": "Competitive match",
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Strong top roll",
+              "health": "In good shape",
+              "previous_match_summary": "Improving every event"
+            },
+            "Wagner Bortolato": {
+              "strength": "Strong, experienced",
+              "health": "In good shape",
+              "previous_match_summary": "Four times world champion with left arm"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

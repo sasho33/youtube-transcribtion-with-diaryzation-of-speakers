@@ -1,0 +1,218 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Fia Reisik",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Fia Reisik",
+      "self_predictions": [
+        {
+          "match": [
+            "Fia Reisik",
+            "Ekaterina Nikisheva"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Fia Reisik",
+          "predicted_score": null,
+          "prediction_summary": "Fia believes she will win despite acknowledging Ekaterina's strong technique and confidence. She mentions her own competitive spirit and readiness to fight.",
+          "predicted_duration": null,
+          "style_conflict": "Fia is an outside puller, while Ekaterina is strong in pronation and side pressure, which could pose a problem.",
+          "opinion_about_athletes": {
+            "Ekaterina Nikisheva": {
+              "strength": "Very strong in pronation and side pressure.",
+              "health": null,
+              "previous_match_summary": "Ekaterina has won Europeans and Worlds in her prime years (2017-2019) and claims to be lifting the same weights now."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Fia believes Devon has progressed since their last match and thinks he can win, though she acknowledges it will be tough.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Devon has progressed significantly since their last match.",
+              "health": "Devon has healed and improved his movements post-stem cell treatment.",
+              "previous_match_summary": "Devon felt something in their previous match that gave him hope he could find a way to win."
+            },
+            "Levan Saginashvili": {
+              "strength": "Levan is the strongest super heavyweight Fia has ever seen.",
+              "health": "Levan has been injured and focused on other things since their last match.",
+              "previous_match_summary": "Levan won their last match decisively."
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugus Tarasaitis",
+            "Artur Makarov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Mindaugus Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Fia predicts Mindaugus will win, noting their past matches and Mindaugus's confidence.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugus Tarasaitis": {
+              "strength": "Confident and has beaten Artur before.",
+              "health": null,
+              "previous_match_summary": "Mindaugus has won most of their past matches, except one where Artur won."
+            },
+            "Artur Makarov": {
+              "strength": "Can go inside or use back pressure and side pressure.",
+              "health": null,
+              "previous_match_summary": "Artur won one match against Mindaugus but lost others."
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Frank Lamparelli",
+          "predicted_score": null,
+          "prediction_summary": "Fia thinks Frank will win, noting his current strength and past performance against Michael.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Strong, especially in the King's Move.",
+              "health": null,
+              "previous_match_summary": "Michael won their last match 15 years ago."
+            },
+            "Frank Lamparelli": {
+              "strength": "Very strong now, possibly the strongest he has been.",
+              "health": null,
+              "previous_match_summary": "Frank gave a good match to Reno Masic recently."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Fia finds this match hard to predict, noting both are strong and have different styles.",
+          "predicted_duration": null,
+          "style_conflict": "Georgi is a pure top roller, while Kurdecha can also go outside.",
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Strong, especially with left arm.",
+              "health": null,
+              "previous_match_summary": "Kurdecha has improved since their last match."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Super strong, especially in pronation.",
+              "health": null,
+              "previous_match_summary": "Georgi is a pure top roller."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Fia predicts Irakli will win, noting his recent strong performances and confidence.",
+          "predicted_duration": null,
+          "style_conflict": "Irakli is a top roller, while Sasho goes inside.",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Very strong and confident.",
+              "health": null,
+              "previous_match_summary": "Irakli has looked strong in recent competitions."
+            },
+            "Sasho Andreev": {
+              "strength": "Strong inside puller.",
+              "health": null,
+              "previous_match_summary": "Sasho won their last match 3 years ago."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Fia Reisik",
+            "Ekaterina Nikisheva"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Fia Reisik",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Fia will win, noting her competitive spirit and past performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Fia Reisik": {
+              "strength": "Strong and competitive, especially in matches.",
+              "health": "Currently overtrained but recovering.",
+              "previous_match_summary": "Fia has beaten heavier opponents before."
+            },
+            "Ekaterina Nikisheva": {
+              "strength": "Very confident and strong in pronation and side pressure.",
+              "health": null,
+              "previous_match_summary": "Ekaterina has won Europeans and Worlds in her prime."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin acknowledges Devon's progress but is unsure if it will be enough to beat Levan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Devon has progressed significantly since their last match.",
+              "health": "Devon has healed and improved his movements post-stem cell treatment.",
+              "previous_match_summary": "Devon felt something in their previous match that gave him hope."
+            },
+            "Levan Saginashvili": {
+              "strength": "Levan is the strongest super heavyweight Engin has ever seen.",
+              "health": "Levan has been injured and focused on other things since their last match.",
+              "previous_match_summary": "Levan won their last match decisively."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

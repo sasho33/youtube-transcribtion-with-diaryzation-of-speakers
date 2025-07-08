@@ -1,0 +1,430 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_02": "Neil Pickup"
+  },
+  "date": null,
+  "predictions": {
+    "Neil Pickup": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ryan Belanger",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": null,
+          "prediction_summary": "Neil believes Raimonds' ability to stick opponents into horrible positions and outlast them gives him the edge, despite Ryan being a bigger and powerful opponent.",
+          "predicted_duration": "Long war",
+          "style_conflict": "Endurance vs Power",
+          "opinion_about_athletes": {
+            "Raimonds Liepiņš": {
+              "strength": "Awkward to beat, excellent at outlasting opponents",
+              "health": null,
+              "previous_match_summary": "Known for long, grueling matches"
+            },
+            "Ryan Belanger": {
+              "strength": "Very powerful, strong wrist moves",
+              "health": null,
+              "previous_match_summary": "Has shown endurance in tough matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Aymeric Pradines",
+            "Jonathan Breda"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Aymeric Pradines",
+          "predicted_score": "60-40",
+          "prediction_summary": "Neil favors Aymeric due to his strength and believes he is a problem when he shows up on fire, though Breda is also a formidable opponent.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs Technique",
+          "opinion_about_athletes": {
+            "Aymeric Pradines": {
+              "strength": "Very strong, aggressive",
+              "health": null,
+              "previous_match_summary": "Dominant when in form"
+            },
+            "Jonathan Breda": {
+              "strength": "Strong, powerlifting background",
+              "health": null,
+              "previous_match_summary": "Improving and dangerous"
+            }
+          }
+        },
+        {
+          "match": [
+            "Elizabeth Mocek",
+            "Aleksandra Ozerova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Aleksandra Ozerova",
+          "predicted_score": null,
+          "prediction_summary": "Neil initially leaned towards Elizabeth but changed his prediction to Aleksandra, citing her technical superiority and ability to hang in losing positions.",
+          "predicted_duration": "Long grass (late match dominance)",
+          "style_conflict": "Power vs Technique",
+          "opinion_about_athletes": {
+            "Elizabeth Mocek": {
+              "strength": "Powerful, stronger girl",
+              "health": null,
+              "previous_match_summary": "Rabbit in headlights in first East vs West appearance"
+            },
+            "Aleksandra Ozerova": {
+              "strength": "Solid pronator, technical",
+              "health": null,
+              "previous_match_summary": "Underrated, can hang in tough positions"
+            }
+          }
+        },
+        {
+          "match": [
+            "Hunter Noffz",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Doug Erlich",
+          "predicted_score": null,
+          "prediction_summary": "Neil predicts Doug will win if fully fit, though he acknowledges Hunter is on the climb and could pose a challenge.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs Rising Talent",
+          "opinion_about_athletes": {
+            "Hunter Noffz": {
+              "strength": "Improving, strong",
+              "health": null,
+              "previous_match_summary": "On the rise"
+            },
+            "Doug Erlich": {
+              "strength": "Experienced, strong when fit",
+              "health": "Fully fit",
+              "previous_match_summary": "Known for strong performances when healthy"
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey West",
+            "Travis Bagent"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Travis Bagent",
+          "predicted_score": null,
+          "prediction_summary": "Neil believes Travis is the favorite but acknowledges Corey's strength and the potential for a long, drawn-out match.",
+          "predicted_duration": "Potentially long",
+          "style_conflict": "Aggression vs Endurance",
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Very strong, can tie opponents up",
+              "health": null,
+              "previous_match_summary": "No bum, tough opponent"
+            },
+            "Travis Bagent": {
+              "strength": "Lethally effective on left arm",
+              "health": null,
+              "previous_match_summary": "Needs to perform well to maintain reputation"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vrezh Sedrakyan",
+            "Paul Talbott"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Vrezh Sedrakyan",
+          "predicted_score": null,
+          "prediction_summary": "Neil favors Vrezh due to his endurance but notes that if the best version of Paul shows up, it could be a very competitive match.",
+          "predicted_duration": "Long",
+          "style_conflict": "Endurance vs Power",
+          "opinion_about_athletes": {
+            "Vrezh Sedrakyan": {
+              "strength": "Endurance, can go forever",
+              "health": null,
+              "previous_match_summary": "Known for long, grueling matches"
+            },
+            "Paul Talbott": {
+              "strength": "Strong, awkward style",
+              "health": null,
+              "previous_match_summary": "Can be phenomenal when at his best"
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Lars Rørbakken"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": "60-40",
+          "prediction_summary": "Neil predicts Matt will win due to his pace and ability to neutralize Lars' strengths, though he acknowledges Lars could make it competitive.",
+          "predicted_duration": null,
+          "style_conflict": "Pace vs Technique",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Fast, venomous",
+              "health": null,
+              "previous_match_summary": "Can decimate opponents quickly"
+            },
+            "Lars Rørbakken": {
+              "strength": "Technically sound",
+              "health": null,
+              "previous_match_summary": "Needs to avoid climbing for height against Matt"
+            }
+          }
+        },
+        {
+          "match": [
+            "Janis Amolins",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Neil sees this as a 50-50 match, with Justin potentially having the physical edge but Janis being more technically versatile.",
+          "predicted_duration": "Barnstormer (exciting match)",
+          "style_conflict": "Physicality vs Technique",
+          "opinion_about_athletes": {
+            "Janis Amolins": {
+              "strength": "Technically masterful, versatile",
+              "health": null,
+              "previous_match_summary": "Not at his peak but still dangerous"
+            },
+            "Justin Bishop": {
+              "strength": "Physically stronger in key areas",
+              "health": null,
+              "previous_match_summary": "Can shock opponents with his power"
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Frank Lampirelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "60-40",
+          "prediction_summary": "Neil favors Dave due to his side pressure and recent performances, though he acknowledges Frank could make it competitive.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs Technique",
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Tremendous side pressure",
+              "health": null,
+              "previous_match_summary": "Strong recent performances"
+            },
+            "Frank Lampirelli": {
+              "strength": "Technically sound",
+              "health": null,
+              "previous_match_summary": "Needs to be at his best to compete"
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Artem Taranenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": "Sweep or losing one pin then sweep",
+          "prediction_summary": "Neil predicts Mindaugas will win, possibly in a sweep, due to his difficulty to bully and his ability to adjust during matches.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs Power",
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Difficult to bully, adjusts well",
+              "health": null,
+              "previous_match_summary": "Hard to beat multiple times"
+            },
+            "Artem Taranenko": {
+              "strength": "Strong, bigger guy",
+              "health": null,
+              "previous_match_summary": "Right arm doing better lately"
+            }
+          }
+        },
+        {
+          "match": [
+            "Craig Tullier",
+            "Tom Holland"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Craig Tullier",
+          "predicted_score": "55-45",
+          "prediction_summary": "Neil slightly favors Craig due to the home advantage in Florida and his aggressive style, though he acknowledges Tom is a formidable opponent.",
+          "predicted_duration": "Long war",
+          "style_conflict": "Aggression vs Technique",
+          "opinion_about_athletes": {
+            "Craig Tullier": {
+              "strength": "Aggressive, hits twice",
+              "health": null,
+              "previous_match_summary": "Can flash opponents early"
+            },
+            "Tom Holland": {
+              "strength": "Technically sound, doesn't shy away",
+              "health": null,
+              "previous_match_summary": "Can dominate if in form"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Neil believes Devon will win if focused and mentally prepared, citing his unusual ability to perform under pressure.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs Rising Talent",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Unusually strong mentally and physically",
+              "health": null,
+              "previous_match_summary": "Can perform under pressure"
+            },
+            "Chance Shaw": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Neil sees this as a highly unpredictable match with many possibilities, emphasizing the mental game and the need for Michael to have absolute clarity.",
+          "predicted_duration": "Explosive",
+          "style_conflict": "Mental Game vs Fearlessness",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Needs clarity, can be explosive",
+              "health": null,
+              "previous_match_summary": "Can get caught in two minds"
+            },
+            "Kamil Jablonski": {
+              "strength": "Fearless, aggressive",
+              "health": null,
+              "previous_match_summary": "Will throw everything at opponents"
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babaiev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": null,
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rustam Babaiev": null,
+            "Paul Linn": null
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": "55-45",
+          "prediction_summary": "Neil believes Todd has a better chance now than ever, citing Evgeny's current shape not being at his best, though he acknowledges Evgeny's ability to find routes to victory.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs Technique",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong, in better shape currently",
+              "health": null,
+              "previous_match_summary": "Best chance to beat Prudnik now"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Technically sound, can find routes to win",
+              "health": "Not at his best",
+              "previous_match_summary": "Not in peak form currently"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Neil predicts John will win due to his ability to capitalize on gaps and his unparalleled experience, despite Leonidas being in his physical prime.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs Physical Prime",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Unparalleled experience, can capitalize on gaps",
+              "health": null,
+              "previous_match_summary": "Still capable of upsets"
+            },
+            "Leonidas Arkona": {
+              "strength": "In physical prime, improving",
+              "health": null,
+              "previous_match_summary": "Ultra-professional, committed"
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Neil believes Alex is the rising star and will win if he can bully Jerry and avoid letting Jerry access his shoulder, though he acknowledges Jerry's awkward style.",
+          "predicted_duration": null,
+          "style_conflict": "Rising Star vs Awkward Style",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Awkward style, hard to replicate",
+              "health": null,
+              "previous_match_summary": "Can box opponents in"
+            },
+            "Alex Kurdecha": {
+              "strength": "Rising star, strong and improving",
+              "health": null,
+              "previous_match_summary": "Needs to bully Jerry to win"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

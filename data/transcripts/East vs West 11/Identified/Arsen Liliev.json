@@ -1,0 +1,285 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_03": "Arsen Liliev"
+  },
+  "date": null,
+  "self_predictions": {
+    "Arsen Liliev": [
+      {
+        "match": [
+          "Arsen Liliev",
+          "Brad Grundy"
+        ],
+        "arm": "Right",
+        "event": "East vs West 11",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Arsen is training seriously but is cautious about his comeback, focusing on his first match before making strong predictions.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Brad Grundy": {
+            "strength": "Young and powerful",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Arsen Liliev": [
+      {
+        "match": [
+          "Oleg Petrenko",
+          "Marcio Barboza"
+        ],
+        "arm": "Right",
+        "event": "East vs West 11",
+        "predicted_winner": "Oleg Petrenko",
+        "predicted_score": null,
+        "prediction_summary": "Arsen thinks Petrenko will win because he is younger and very strong in the hook.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Oleg Petrenko": {
+            "strength": "Very strong hook",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Marcio Barboza": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Irakli Zirakashvili",
+          "Paul Linn"
+        ],
+        "arm": "Right",
+        "event": "East vs West 11",
+        "predicted_winner": "Irakli Zirakashvili",
+        "predicted_score": null,
+        "prediction_summary": "Arsen believes Irakli is a very good top roller and will beat Paul Linn, not a close match.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Irakli Zirakashvili": {
+            "strength": "Very good top roller",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Paul Linn": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Matt Mask",
+          "Wagner Bortolato"
+        ],
+        "arm": "Right",
+        "event": "East vs West 11",
+        "predicted_winner": "Matt Mask",
+        "predicted_score": null,
+        "prediction_summary": "Arsen likes Matt Mask's style and thinks he can beat Wagner, despite Wagner's power.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Matt Mask": {
+            "strength": "Good style on the table",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Wagner Bortolato": {
+            "strength": "Powerful like a horse",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Artem Taynov",
+          "Zurab Tavberidze"
+        ],
+        "arm": "Left",
+        "event": "East vs West 11",
+        "predicted_winner": null,
+        "predicted_score": "50-50 if all rounds are hook",
+        "prediction_summary": "Arsen thinks it will be a close match. Artem can adapt with different styles, but Zurab is great in the hook.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Artem Taynov": {
+            "strength": "Well-rounded, can adapt styles",
+            "health": null,
+            "previous_match_summary": "Beat Samushia three times with different styles"
+          },
+          "Zurab Tavberidze": {
+            "strength": "Great in the hook",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Daniel Procopciuc",
+          "Mindaugas Tarasaitis"
+        ],
+        "arm": "Right",
+        "event": "East vs West 11",
+        "predicted_winner": "Daniel Procopciuc",
+        "predicted_score": null,
+        "prediction_summary": "Arsen believes Procopciuc will win, praising his all-around abilities and great hook.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Daniel Procopciuc": {
+            "strength": "Great champion, can do all things, great hook",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Mindaugas Tarasaitis": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Ivan Matyushenko",
+          "Rino Mašić"
+        ],
+        "arm": "Left",
+        "event": "East vs West 11",
+        "predicted_winner": "Ivan Matyushenko",
+        "predicted_score": null,
+        "prediction_summary": "Arsen thinks Ivan will win due to his current good form and power.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Ivan Matyushenko": {
+            "strength": "Great with good body and more power",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Rino Mašić": {
+            "strength": "Very strong",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "John Brzenk",
+          "Krasimir Kostadinov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 11",
+        "predicted_winner": "Krasimir Kostadinov",
+        "predicted_score": null,
+        "prediction_summary": "Arsen thinks Krasimir will win because John's side pressure is not good currently.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "John Brzenk": {
+            "strength": null,
+            "health": "Lost weight, side pressure not good",
+            "previous_match_summary": null
+          },
+          "Krasimir Kostadinov": {
+            "strength": "In very good shape",
+            "health": null,
+            "previous_match_summary": "Said to be stronger than Sasho currently"
+          }
+        }
+      },
+      {
+        "match": [
+          "Alizhan Muratov",
+          "Evgeny Prudnik"
+        ],
+        "arm": "Left",
+        "event": "East vs West 11",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Arsen is unsure about this match, calling it an incredible match between two very strong guys.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Alizhan Muratov": {
+            "strength": "Does everything at the table, great hooker",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Evgeny Prudnik": {
+            "strength": "Super strong right hand, left hand uncertain",
+            "health": null,
+            "previous_match_summary": "Beat Dadikyan"
+          }
+        }
+      },
+      {
+        "match": [
+          "Todd Hutchings",
+          "David Dadikyan"
+        ],
+        "arm": "Right",
+        "event": "East vs West 11",
+        "predicted_winner": "Todd Hutchings",
+        "predicted_score": null,
+        "prediction_summary": "Arsen thinks Todd will win if he can stop Dadikyan, describing Todd as a tractor with strong pronator.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Todd Hutchings": {
+            "strength": "Tractor-like, strong pronator",
+            "health": null,
+            "previous_match_summary": "Beat Ongarbaev"
+          },
+          "David Dadikyan": {
+            "strength": "Super strong",
+            "health": null,
+            "previous_match_summary": "Beat Irakli Zirakashvili dominantly"
+          }
+        }
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Levan Saginashvili"
+        ],
+        "arm": "Right",
+        "event": "East vs West 11",
+        "predicted_winner": "Levan Saginashvili",
+        "predicted_score": null,
+        "prediction_summary": "Arsen is confident Levan will win, citing his natural size, training, and current dominance in the sport.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Levan Saginashvili": {
+            "strength": "Natural size, trained, dominant",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Devon Larratt": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": "Beat Georgi Svetko, Hermes, Denis Tiplenko"
+          }
+        }
+      }
+    ]
+  }
+}

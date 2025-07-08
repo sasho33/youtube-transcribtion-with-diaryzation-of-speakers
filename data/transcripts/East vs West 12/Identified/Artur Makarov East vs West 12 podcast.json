@@ -1,0 +1,191 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Ivan Matyshenko",
+    "SPEAKER_01": "Unknown",
+    "SPEAKER_02": "Artur Makarov",
+    "SPEAKER_03": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "Artur Makarov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Artur Makarov",
+          "predicted_score": "55-45",
+          "prediction_summary": "Artur believes he has a slight advantage over Mindaugus, estimating his current form at 75-80% and aiming to reach 90% by the match date. He acknowledges Mindaugus's endurance but thinks his own strength and technique will prevail.",
+          "predicted_duration": null,
+          "style_conflict": "Hook or toproll depending on grip",
+          "opinion_about_athletes": {
+            "Mindaugus Tarasaitis": {
+              "strength": "Good endurance, less raw power",
+              "health": null,
+              "previous_match_summary": "Mindaugus has beaten Daniel but was underestimated; Artur has a 2-1 record against him."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Artur thinks it will be an insane match. If Sasho is at 100%, he might have a slight edge, but overall it's very even.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Very strong if in top form",
+              "health": null,
+              "previous_match_summary": "They have split previous matches."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Very strong opponent",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Nurdaulet Aidarkhan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Artur thinks Samushia has issues with endurance, but it's a very close match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": "Endurance issues",
+              "previous_match_summary": null
+            },
+            "Nurdaulet Aidarkhan": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": "55-45",
+          "prediction_summary": "Artur gives a slight edge to Tsvetkov, depending on form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgi Tsvetkov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Artur initially thought Ermes was the favorite but changed his mind after considering Alizhan's left-hand strength and world championship wins.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Very strong on left",
+              "health": null,
+              "previous_match_summary": "Two-time world champion on left."
+            },
+            "Ermes Gasparini": {
+              "strength": "Not as strong on left as right",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Artur thinks Levan is the favorite if he's in top form but acknowledges Devon's ability to surprise, as seen in his match against Ermes.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Extremely strong if in top form",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": "Can surprise even when underestimated",
+              "health": null,
+              "previous_match_summary": "Defeated Ermes when Artur thought Ermes would win."
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Engin agrees that Levan is the favorite on paper but emphasizes that Devon should not be underestimated due to his recent victories.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Huge size and strength",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": "Proven ability to win against top opponents",
+              "health": null,
+              "previous_match_summary": "Recent wins over Ermes, Georgi Tsvetkov, etc."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

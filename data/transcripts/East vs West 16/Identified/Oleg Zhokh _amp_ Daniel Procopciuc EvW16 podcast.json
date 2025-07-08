@@ -1,0 +1,265 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Daniel Procopciuc",
+    "SPEAKER_01": "Host",
+    "SPEAKER_02": "Oleg Zhokh",
+    "SPEAKER_03": "Tiberiu"
+  },
+  "date": null,
+  "predictions": {
+    "Oleg Zhokh": {
+      "self_predictions": [
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": null,
+          "prediction_summary": "Oleg believes he is the favorite in his weight class and doubts Daniel's ability to challenge him effectively due to the weight difference.",
+          "predicted_duration": null,
+          "style_conflict": "Oleg's unique hand anatomy and strength are seen as advantages.",
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Acknowledges Daniel's strength but questions its effectiveness against him.",
+              "health": null,
+              "previous_match_summary": "Daniel's wins are noted, but Oleg questions the caliber of opponents."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Stoyan Golemanov",
+            "Vasily Dautashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Stoyan Golemanov",
+          "predicted_score": null,
+          "prediction_summary": "Oleg thinks it will be an interesting match but leans towards Stoyan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Brad Grundy"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Bacho Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Oleg predicts Bacho will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Oleg believes Kurdecha's long arm will be a significant advantage.",
+          "predicted_duration": null,
+          "style_conflict": "Kurdecha's length may prevent Dadikyan from effectively hooking.",
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Strong with a long arm.",
+              "health": null,
+              "previous_match_summary": "Noted for his performance against Babaev."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Oleg thinks Gasparini will win if both are in peak form.",
+          "predicted_duration": "Prolonged",
+          "style_conflict": "Endurance and tactics will play key roles.",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Good endurance and tactics.",
+              "health": "Recovered from surgery.",
+              "previous_match_summary": "Known for his resilience."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Oleg believes Laletin is the favorite due to his superior left arm strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Considered one of the best left-arm pullers.",
+              "health": null,
+              "previous_match_summary": "Dominant in previous matches."
+            }
+          }
+        }
+      ]
+    },
+    "Daniel Procopciuc": {
+      "self_predictions": [
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Daniel is confident in his strategy and form, believing he can overcome Oleg's strengths.",
+          "predicted_duration": null,
+          "style_conflict": "Daniel plans to use a hybrid style to counter Oleg's unique hand anatomy.",
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Acknowledges Oleg's strength and unique hand.",
+              "health": "Notes Oleg's injuries.",
+              "previous_match_summary": "Oleg's past performances are considered, but Daniel believes in his own preparation."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "David Dadikyan",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "Daniel believes Dadikyan can quickly get inside and hook Kurdecha.",
+          "predicted_duration": null,
+          "style_conflict": "Dadikyan's speed and hooking ability vs. Kurdecha's length.",
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Long arm is a challenge.",
+              "health": null,
+              "previous_match_summary": "Noted for his performance against Babaev."
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisek",
+            "Malin Bergström"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Fia Reisek",
+          "predicted_score": null,
+          "prediction_summary": "Daniel favors Fia in this matchup.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Daniel thinks Irakli's recent progress will give him the edge over Hutchings.",
+          "predicted_duration": null,
+          "style_conflict": "Irakli's top roll vs. Hutchings' endurance.",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong but aging.",
+              "health": null,
+              "previous_match_summary": "Known for his endurance."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Daniel believes Todd's experience and endurance could surprise Gasparini.",
+          "predicted_duration": null,
+          "style_conflict": "Todd's press and endurance vs. Gasparini's confidence.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Confident but may be overconfident.",
+              "health": null,
+              "previous_match_summary": "Noted for his recent performances."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Daniel thinks the pressure of competing in Tbilisi may affect Genadi negatively.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's adjustments vs. Genadi's home advantage.",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong but under pressure.",
+              "health": "Old injury may be a factor.",
+              "previous_match_summary": "Noted for his past performances under pressure."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Daniel believes Laletin is unbeatable in left arm currently.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Dominant left arm.",
+              "health": null,
+              "previous_match_summary": "Considered the best left-arm puller."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

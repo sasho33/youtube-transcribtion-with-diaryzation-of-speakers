@@ -1,0 +1,615 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Host",
+    "SPEAKER_01": "Davit Samushia",
+    "SPEAKER_02": "Nurdaulet Aidarkhan",
+    "SPEAKER_04": "Translator"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Davit Samushia",
+      "self_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Nurdaulet Aidarkhan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Davit anticipates a tough match but believes he will push his limits to defend his title.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Nurdaulet Aidarkhan": {
+              "strength": "Very strong, similar to Vala",
+              "health": "No injuries reported",
+              "previous_match_summary": "Impressed by Nurdaulet's win against Vala, showing good endurance"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Kamil Jablonski",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Kamil Jablonski",
+          "predicted_score": null,
+          "prediction_summary": "Davit believes Kamil will win convincingly on left arm based on his recent performance against Devon Larratt.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kamil Jablonski": {
+              "strength": "Very strong on left arm",
+              "health": null,
+              "previous_match_summary": "Performed well against Devon Larratt"
+            },
+            "Tobias Sporrong": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Talgat Aktaev"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Davit thinks Betkili will win based on their past encounters where Betkili consistently outperformed Talgat.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Counters all angles effectively",
+              "health": null,
+              "previous_match_summary": "Consistently beat Talgat in past matches"
+            },
+            "Talgat Aktaev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Nugzari Chikadze",
+            "Petro Marharint"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Davit sees this as a very close match, with both athletes being strong and capable of winning.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Nugzari Chikadze": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Petro Marharint": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Sandris Šedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Davit believes it's a 50-50 match depending on who can impose their style first.",
+          "predicted_duration": null,
+          "style_conflict": "Sagov pulls inside, Sandris is more versatile",
+          "opinion_about_athletes": {
+            "Ibragim Sagov": {
+              "strength": "Strong inside puller",
+              "health": null,
+              "previous_match_summary": "Performed well in AMC, even beat Silaev"
+            },
+            "Sandris Šedis": {
+              "strength": "Versatile",
+              "health": null,
+              "previous_match_summary": "World champion"
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisik",
+            "Ekaterina Nikisheva"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Fia Reisik",
+          "predicted_score": null,
+          "prediction_summary": "Davit slightly favors Fia due to Ekaterina's inactivity.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Fia Reisik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ekaterina Nikisheva": {
+              "strength": null,
+              "health": "Coming back from a long pause",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Artur Makarov",
+          "predicted_score": null,
+          "prediction_summary": "Davit thinks Makarov's awkward hand anatomy will be tough for Mindaugus to handle.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": "Strong, awkward hand",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Mindaugus Tarasaitis": {
+              "strength": "Respectable",
+              "health": null,
+              "previous_match_summary": "Made a great comeback against Prokapchuk"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Davit believes Irakli has significantly improved since their last match and is now the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Upgraded since last match",
+              "health": null,
+              "previous_match_summary": "Gained better shape since 2021"
+            },
+            "Sasho Andreev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "Davit thinks Georgi will convincingly beat Alex.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Very strong, hard to beat",
+              "health": null,
+              "previous_match_summary": "Showed good performances lately"
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Davit sees this as a 50-50 match with both having equal chances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Looking good in training",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Frank Lamparelli": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Davit thinks it's a close match due to Ermes' technical skills and weight advantage.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Very strong on left arm",
+              "health": null,
+              "previous_match_summary": "Beat super heavyweights at World Championships"
+            },
+            "Ermes Gasparini": {
+              "strength": "Smart and technical",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Davit believes history will repeat with Levan dominating.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Very huge and strong",
+              "health": null,
+              "previous_match_summary": "Back in training and in great shape"
+            },
+            "Devon Larratt": {
+              "strength": "Improved, in best shape ever",
+              "health": null,
+              "previous_match_summary": "Not the same as two years ago"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Nurdaulet Aidarkhan",
+      "self_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Nurdaulet Aidarkhan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Nurdaulet Aidarkhan",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet is motivated to break Davit's winning streak and become a new champion.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Very strong, similar to Vala",
+              "health": null,
+              "previous_match_summary": "Has a long winning streak"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Kamil Jablonski",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Tobias Sporrong",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet thinks Tobias will win based on his recent victories.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Tobias Sporrong": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Won against Daewon and Wagner"
+            },
+            "Kamil Jablonski": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Talgat Aktaev"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Talgat Aktaev",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet supports Talgat, who has been working on speed, strength, and endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Talgat Aktaev": {
+              "strength": "Working on speed, strength, and endurance",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Betkili Oniani": {
+              "strength": "Very tough opponent",
+              "health": null,
+              "previous_match_summary": "Known for strong points"
+            }
+          }
+        },
+        {
+          "match": [
+            "Nugzari Chikadze",
+            "Petro Marharint"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Petro Marharint",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet believes Petro will win based on his past performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Unbelievable at best shape",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Nugzari Chikadze": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Sandris Šedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet thinks Sagov will win due to his recent performances in AMC.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ibragim Sagov": {
+              "strength": "Showing very well in AMC",
+              "health": null,
+              "previous_match_summary": "Beat Silaev once"
+            },
+            "Sandris Šedis": {
+              "strength": "World champion",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Mindaugus Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet believes Mindaugus will win based on his comeback against Prokapchuk.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugus Tarasaitis": {
+              "strength": "Getting stronger and better",
+              "health": null,
+              "previous_match_summary": "Made a great comeback against Prokapchuk"
+            },
+            "Artur Makarov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Leonidas Arkona",
+            "Alexsandr Beziazykov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Alexsandr Beziazykov",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet thinks schoolboy will win as he hasn't seen much of Leonidas.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alexsandr Beziazykov": {
+              "strength": "Doing much better lately",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Leonidas Arkona": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Nurdaulet sees this as a tough fight with both athletes being strong.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Sasho Andreev": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": "60-40",
+          "prediction_summary": "Nurdaulet believes Georgi has a 60-40 chance due to his recent form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Showing himself very well lately",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet thinks Michael will win based on his training progress.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Training going very well",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Frank Lamparelli": {
+              "strength": "Good",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet thinks Ermes has no chance against Alizhan on left arm.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Very good on left arm",
+              "health": null,
+              "previous_match_summary": "Proved weight doesn't matter at World Championships"
+            },
+            "Ermes Gasparini": {
+              "strength": "Best on right arm",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Nurdaulet sees this as a 50-50 match with both in great shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Very huge and strong",
+              "health": null,
+              "previous_match_summary": "Back in training and in great shape"
+            },
+            "Devon Larratt": {
+              "strength": "Improved, in best shape ever",
+              "health": null,
+              "previous_match_summary": "Not the same as two years ago"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

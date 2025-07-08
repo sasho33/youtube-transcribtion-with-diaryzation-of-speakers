@@ -1,0 +1,198 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Devon Larratt",
+    "SPEAKER_02": "Rino Mašić",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "self_predictions": {
+    "Devon Larratt": [
+      {
+        "match": [
+          "Devon Larratt",
+          "Oleg Petrenko"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Devon Larratt",
+        "predicted_score": null,
+        "prediction_summary": "Devon believes he will cause Oleg Petrenko a lot of problems and expects to have better control by the end of the match. He thinks Petrenko's best performances will come early, and Devon will drain his strength over time.",
+        "predicted_duration": null,
+        "style_conflict": "Devon's style of taking the hand and controlling the match will be problematic for Petrenko."
+      }
+    ],
+    "Rino Mašić": [
+      {
+        "match": [
+          "Rino Mašić",
+          "Ibragim Sagov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Rino Mašić",
+        "predicted_score": null,
+        "prediction_summary": "Rino is confident he will win the match against Sagov, mentioning he has something planned for the match.",
+        "predicted_duration": null,
+        "style_conflict": "Rino believes his versatility will give him an advantage."
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Devon Larratt": [
+      {
+        "match": [
+          "Michael Todd",
+          "Genadi Kvikvinia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Michael Todd",
+        "predicted_score": null,
+        "prediction_summary": "Devon thinks Michael Todd has a better shot at beating Genadi this time, noting Genadi might not have fully recovered from his injury.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Genadi Kvikvinia": {
+            "strength": "Still strong but possibly not at his peak due to injury.",
+            "health": "Might not have fully recovered from injury.",
+            "previous_match_summary": "Genadi looked smaller and possibly not as strong as before his injury."
+          },
+          "Michael Todd": {
+            "strength": "Strong and improving.",
+            "health": "Good condition.",
+            "previous_match_summary": "Michael has been performing well and might be in better shape than Genadi currently."
+          }
+        }
+      },
+      {
+        "match": [
+          "Vitalii Laletin",
+          "Georgii Dzeranov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Georgii Dzeranov",
+        "predicted_score": null,
+        "prediction_summary": "Devon believes Georgii Dzeranov is stronger than Laletin except in hand strength and could win if he stops Laletin's initial explosiveness.",
+        "predicted_duration": null,
+        "style_conflict": "Georgii's strength and ability to stop Laletin's explosiveness could be key.",
+        "opinion_about_athletes": {
+          "Vitalii Laletin": {
+            "strength": "Explosive and strong.",
+            "health": null,
+            "previous_match_summary": "Known for his explosive starts and dominant performances."
+          },
+          "Georgii Dzeranov": {
+            "strength": "Very strong, possibly stronger than Laletin in overall strength.",
+            "health": null,
+            "previous_match_summary": "Has shown dominance in previous matches, including beating strong opponents like Rivas."
+          }
+        }
+      }
+    ],
+    "Rino Mašić": [
+      {
+        "match": [
+          "Michael Todd",
+          "Genadi Kvikvinia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Michael Todd",
+        "predicted_score": null,
+        "prediction_summary": "Rino thinks Michael Todd has a great shot at beating Genadi, noting Genadi looked smaller and possibly not as strong as before.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Genadi Kvikvinia": {
+            "strength": "Still strong but possibly not at his peak.",
+            "health": "Might not have fully recovered from injury.",
+            "previous_match_summary": "Looked smaller and possibly not as strong as before his injury."
+          },
+          "Michael Todd": {
+            "strength": "Strong and improving.",
+            "health": "Good condition.",
+            "previous_match_summary": "Michael has been performing well and might be in better shape than Genadi currently."
+          }
+        }
+      },
+      {
+        "match": [
+          "Nugzari Chikadze",
+          "Oguzhan Koçak"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Nugzari Chikadze",
+        "predicted_score": null,
+        "prediction_summary": "Rino believes Nugzari will crush his opponent, noting his aggressive style and lack of intimidation.",
+        "predicted_duration": null,
+        "style_conflict": "Nugzari's aggressive and fearless style will be hard to counter.",
+        "opinion_about_athletes": {
+          "Nugzari Chikadze": {
+            "strength": "Very strong and aggressive.",
+            "health": null,
+            "previous_match_summary": "Known for his explosive and dominant performances."
+          },
+          "Oguzhan Koçak": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ],
+    "Engin Terzi": [
+      {
+        "match": [
+          "Davit Samushia",
+          "Vladimir Maiorov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Engin predicts a very hard match, noting Maiorov's ability to control the pronator, which is key to beating Samushia.",
+        "predicted_duration": null,
+        "style_conflict": "Maiorov's control over the pronator could be the deciding factor.",
+        "opinion_about_athletes": {
+          "Davit Samushia": {
+            "strength": "Dominant champion with strong performances.",
+            "health": null,
+            "previous_match_summary": "Has defended his title multiple times with strong performances."
+          },
+          "Vladimir Maiorov": {
+            "strength": "Strong with excellent pronator control.",
+            "health": null,
+            "previous_match_summary": "Has shown strong performances, including beating top opponents."
+          }
+        }
+      },
+      {
+        "match": [
+          "Alizhan Muratov",
+          "Ivan Matyushenko"
+        ],
+        "arm": "Left",
+        "event": "East vs West 15",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Engin is very interested in this match, noting it makes the card super interesting.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Alizhan Muratov": {
+            "strength": "Super strong and scary strong.",
+            "health": null,
+            "previous_match_summary": "Known for his incredible strength and dominance."
+          },
+          "Ivan Matyushenko": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ]
+  }
+}

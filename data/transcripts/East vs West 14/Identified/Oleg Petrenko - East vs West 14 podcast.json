@@ -1,0 +1,446 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Oleg Petrenko",
+    "SPEAKER_02": "Paolo",
+    "SPEAKER_03": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Oleg Petrenko",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Corey West",
+            "Travis Bagent"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Corey West is too big for Travis Bagent, though Travis might gain form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Travis Bagent": {
+              "strength": "Could gain form",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Frank Lampirelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Hopes Dave Chaffee will bring better form than last time; otherwise, Lampirelli may win due to his top rolling.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Strong, likes his style",
+              "health": null,
+              "previous_match_summary": "Needs better form than last time"
+            },
+            "Frank Lampirelli": {
+              "strength": "Very good top roller",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik needs to bring his 2019 form to win, but currently, Hutchings is favored.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": "Needs to regain top form",
+              "health": null,
+              "previous_match_summary": "Not at 2019 level currently"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John Brzenk will win without any problems; Leonidas is strong but not at John's level.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Superior",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Leonidas Arkona": {
+              "strength": "Good but not enough",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babaiev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Unpredictable match; Rustam was dominant before injury, but Paul Linn is progressing.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rustam Babaiev": {
+              "strength": "Dominant before injury",
+              "health": "Needs to regain peak form",
+              "previous_match_summary": "Injury affected performance"
+            },
+            "Paul Linn": {
+              "strength": "Progressing well",
+              "health": null,
+              "previous_match_summary": "Stopped Rustam mid-table last time"
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Lars Rørbakken"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Matt Mask has a very strong upper hand and will win despite Lars' style being difficult.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Very strong upper hand",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Lars Rørbakken": {
+              "strength": "Difficult style",
+              "health": null,
+              "previous_match_summary": "Won against Mask years ago"
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Michael Todd will win, but it will be a tough match as Kamil is in good form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Fast and can surprise",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kamil Jablonski": {
+              "strength": "Gaining good form",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": "3-0 or 4-0",
+          "prediction_summary": "Alex Kurdecha will dominate due to his strength, size, and improved table IQ.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Much stronger and bigger",
+              "health": null,
+              "previous_match_summary": "Improved table IQ"
+            },
+            "Jerry Cadorette": {
+              "strength": "Strong but may be stopped",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Janis Amolins",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Janis Amolins",
+          "predicted_score": null,
+          "prediction_summary": "Janis' table IQ and understanding will help him win despite Justin being amazing.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Janis Amolins": {
+              "strength": "High table IQ",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Justin Bishop": {
+              "strength": "Amazing arm wrestler",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Elizabeth Mocek",
+            "Aleksandra Ozerova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Elizabeth Mocek",
+          "predicted_score": null,
+          "prediction_summary": "Elizabeth is too powerful for Aleksandra, despite Aleksandra being more technical.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Elizabeth Mocek": {
+              "strength": "Too powerful",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Aleksandra Ozerova": {
+              "strength": "More technical",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Aymeric Pradines",
+            "Jonathan Breda"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Jonathan Breda",
+          "predicted_score": "55%",
+          "prediction_summary": "Jonathan Breda is extremely good right now and is favored slightly.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jonathan Breda": {
+              "strength": "Extremely good",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Aymeric Pradines": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vrezh Sedrakyan",
+            "Paul Talbott"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Paul Talbott",
+          "predicted_score": null,
+          "prediction_summary": "Paul Talbott may flash pin Vrezh every time, but it's unpredictable.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Talbott": {
+              "strength": "Amazing, incredible",
+              "health": null,
+              "previous_match_summary": "Only one to beat Paolo left-handed"
+            },
+            "Vrezh Sedrakyan": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Paolo",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Corey West",
+            "Travis Bagent"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Travis Bagent",
+          "predicted_score": "52-48",
+          "prediction_summary": "Travis has a slight edge due to his ability to over-arm wrestle Corey.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Big and strong but straightforward",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Travis Bagent": {
+              "strength": "Can over-arm wrestle",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Frank Lampirelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Chaffee can control the top roll and has a good flop press, giving him a slight edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Can control top roll",
+              "health": null,
+              "previous_match_summary": "Good flop press"
+            },
+            "Frank Lampirelli": {
+              "strength": "Good top roller",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Lars Rørbakken"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Very close match; Lars can win if he doesn't lose the wrist immediately.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Lars Rørbakken": {
+              "strength": "Can change styles and apply side pressure",
+              "health": null,
+              "previous_match_summary": "Close match with Monster"
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Michael can surprise with speed or sit in his open top roll to drain Kamil's endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Fast, can surprise",
+              "health": null,
+              "previous_match_summary": "No king's move anymore"
+            },
+            "Kamil Jablonski": {
+              "strength": "Gaining good form",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Alex will adjust and win due to his strength, size, and improved table IQ.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Much stronger and bigger",
+              "health": null,
+              "previous_match_summary": "Improved table IQ"
+            },
+            "Jerry Cadorette": {
+              "strength": "May stop Alex if he makes mistakes",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

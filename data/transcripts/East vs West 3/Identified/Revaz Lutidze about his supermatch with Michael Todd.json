@@ -1,0 +1,195 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Revaz Lutidze",
+    "SPEAKER_02": "Unknown",
+    "SPEAKER_03": "Translator",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Revaz Lutidze",
+      "self_predictions": [
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Revaz Lutidze",
+          "predicted_score": null,
+          "prediction_summary": "Revaz believes he is at 40% of his best shape but still feels confident against Michael Todd. He thinks it will be very hard for Michael to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Michael Todd is a great arm wrestler but hasn't trained for a few years."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Revaz wants Genadi to win but thinks it will be very hard because Dave is strong too.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Genadi surprised Revaz by beating Michael Todd."
+            },
+            "Dave Chaffee": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "İrakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "İrakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Revaz thinks it's 50-50 but İrakli is younger, faster, and has more chance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "İrakli Zirakashvili": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "İrakli is very strong and gave Revaz trouble in training."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Revaz thinks Zurab is very strong and in better shape than John Brzenk, but acknowledges John as the king.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "John is the king of arm wrestling."
+            },
+            "Zurab Tavberidze": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Revaz thinks Evgeny is strong but doesn't want to predict the outcome.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Evgeny was very good against Morozov."
+            },
+            "Matt Mask": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Dave looks favorite but Genadi may surprise us.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Genadi surprised Engin by beating Michael Todd."
+            },
+            "Dave Chaffee": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Engin is 100% sure Levan will win if there is no accident.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Levan Saginashvili": {
+              "strength": "Too strong",
+              "health": null,
+              "previous_match_summary": "Levan is considered unbeatable right now."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

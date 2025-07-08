@@ -1,0 +1,162 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Sarah Backman",
+    "SPEAKER_03": "Engin Terzi"
+  },
+  "date": null,
+  "self_predictions": {
+    "Sarah Backman": [
+      {
+        "match": [
+          "Sarah Backman",
+          "Gabriela Vasconcelos"
+        ],
+        "arm": "Right",
+        "event": "East vs West 2",
+        "predicted_winner": "Sarah Backman",
+        "predicted_score": null,
+        "prediction_summary": "Sarah feels she has done her homework this time and is more confident compared to their last match. She believes she is stronger now and has been training specifically for this match for two and a half years.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Gabriela Vasconcelos": {
+            "strength": "Gabriela is described as a monster with pure horsepower and is incredibly strong.",
+            "health": null,
+            "previous_match_summary": "Gabriela won their last match, but Sarah was just coming back from a break and wasn't mentally ready."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Sarah Backman": [
+      {
+        "match": [
+          "Fia Reisek",
+          "Rebeka Martinkovicova"
+        ],
+        "arm": "Right",
+        "event": "East vs West 2",
+        "predicted_winner": "Fia Reisek",
+        "predicted_score": "3-2",
+        "prediction_summary": "Sarah predicts Fia will win in a close match, possibly 3-2, but acknowledges Rebeka's solid performance at the world championship. She notes Fia's consistency and potential but thinks Rebeka could win if everything aligns for her.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Fia Reisek": {
+            "strength": "Fia is a warrior with high technical ability and never stops competing.",
+            "health": null,
+            "previous_match_summary": "Fia has competed every year, even during pregnancies, and sometimes brings varying levels of performance."
+          },
+          "Rebeka Martinkovicova": {
+            "strength": "Rebeka is a pure arm wrestler with solid wrist and hand control.",
+            "health": null,
+            "previous_match_summary": "Rebeka looked solid at the world championship and won her category easily."
+          }
+        }
+      },
+      {
+        "match": [
+          "Angie Rose",
+          "Anna Grönlund"
+        ],
+        "arm": "Right",
+        "event": "East vs West 2",
+        "predicted_winner": "Anna Grönlund",
+        "predicted_score": null,
+        "prediction_summary": "Sarah thinks Anna is more determined and has more experience traveling and competing internationally. She believes it will be a good test for Angie to see where she stands.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Angie Rose": {
+            "strength": "Angie is one of the best in the U.S., always winning tournaments.",
+            "health": null,
+            "previous_match_summary": "Angie is finally leaving the U.S. to compete internationally."
+          },
+          "Anna Grönlund": {
+            "strength": "Anna is determined and has more experience with international competition.",
+            "health": null,
+            "previous_match_summary": "Anna has been competing for a long time and is known for her consistency."
+          }
+        }
+      },
+      {
+        "match": [
+          "John Brzenk",
+          "Khadzimurat Zoloev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 2",
+        "predicted_winner": "Khadzimurat Zoloev",
+        "predicted_score": null,
+        "prediction_summary": "Sarah believes Zoloev will come in extremely prepared and motivated, while Brzenk is testing himself again without much to prove.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "John Brzenk": {
+            "strength": "Brzenk is a champion forever but may not be as motivated.",
+            "health": null,
+            "previous_match_summary": "Brzenk has nothing to prove and is competing more as a hobby."
+          },
+          "Khadzimurat Zoloev": {
+            "strength": "Zoloev is taking the match extremely seriously and is highly motivated.",
+            "health": null,
+            "previous_match_summary": "Zoloev is considered number one and is preparing hard for this match."
+          }
+        }
+      },
+      {
+        "match": [
+          "Genadi Kvikvinia",
+          "Michael Todd"
+        ],
+        "arm": "Right",
+        "event": "East vs West 2",
+        "predicted_winner": "Michael Todd",
+        "predicted_score": "3-1",
+        "prediction_summary": "Sarah predicts Michael will come out on top, possibly winning 3-1. She notes Genadi's motivation but thinks Michael hates losing more than he loves to win.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Genadi Kvikvinia": {
+            "strength": "Genadi is extremely motivated after his last loss.",
+            "health": null,
+            "previous_match_summary": "Genadi lost his last match against Ermes Gasparini."
+          },
+          "Michael Todd": {
+            "strength": "Michael is known for his determination and dislike of losing.",
+            "health": null,
+            "previous_match_summary": "Michael is consistent and will do whatever it takes to win."
+          }
+        }
+      }
+    ],
+    "Engin Terzi": [
+      {
+        "match": [
+          "Ermes Gasparini",
+          "Arif Ertem"
+        ],
+        "arm": "Right",
+        "event": "East vs West 2",
+        "predicted_winner": "Ermes Gasparini",
+        "predicted_score": null,
+        "prediction_summary": "Engin notes Ermes has been very impressive lately and has won almost everything he has done in the last year.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Ermes Gasparini": {
+            "strength": "Ermes has been very impressive in recent matches.",
+            "health": null,
+            "previous_match_summary": "Ermes has won almost everything he has done in the last year."
+          },
+          "Arif Ertem": {
+            "strength": "Arif is the super heavyweight champion of the world.",
+            "health": null,
+            "previous_match_summary": "Arif has won the world championship twice."
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "David Dadikyan",
+    "SPEAKER_01": "Alex (Translator)",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_04": "Georgii Tsvetkov"
+  },
+  "date": null,
+  "predictions": {
+    "David Dadikyan": {
+      "self_predictions": [
+        {
+          "match": [
+            "David Dadikyan",
+            "Georgii Tsvetkov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "David believes he can win by hooking Georgii, as he sees Georgii as a one-dimensional top roller. He feels confident in his training and preparation.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Georgii Tsvetkov": {
+              "strength": "Strong top roller",
+              "health": "Injured right arm, left arm in good shape",
+              "previous_match_summary": "Georgii is known for top rolling and has not shown much versatility in pulling styles."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Unknown Opponent"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "David thinks Zurab will win, especially if he can finish the match early.",
+          "predicted_duration": "Long, exhausting match",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Lifts crazy weights",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Petro Marharin",
+            "Adair"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Petro Marharin",
+          "predicted_score": null,
+          "prediction_summary": "David believes Petro will win due to his experience and strong wrist cupping.",
+          "predicted_duration": "Not easy but confident",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Petro Marharin": {
+              "strength": "Strong wrist cupping",
+              "health": null,
+              "previous_match_summary": "Impressive win at Moldova 2018"
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "David thinks Matt will win if he doesn't let Irakli get into the hook.",
+          "predicted_duration": null,
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Strong top roller",
+              "health": null,
+              "previous_match_summary": "Impressive win against Ungarbaev"
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Egle Vaidila",
+            "Jocelyn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Egle Vaidila",
+          "predicted_score": null,
+          "prediction_summary": "David thinks Egle will win due to her experience and strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Egle Vaidila": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Unbeatable in her category"
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "David thinks Georgii will win if he can stretch Kamil and prevent him from using his shoulder.",
+          "predicted_duration": null,
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Fast and strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kamil Jablonski": {
+              "strength": "Versatile",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Arsen Khachatryan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Arsen Khachatryan",
+          "predicted_score": null,
+          "prediction_summary": "David thinks Arsen will win if he gains enough weight.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arsen Khachatryan": {
+              "strength": "Experienced and skilled",
+              "health": null,
+              "previous_match_summary": "Beat Sasho in a crazy match"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ivan Matyshenko",
+            "Sergey Kalinichenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Sergey Kalinichenko",
+          "predicted_score": null,
+          "prediction_summary": "David thinks Sergey is in good shape and can win with his back pressure.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sergey Kalinichenko": {
+              "strength": "Strong back pressure",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Daniel Prokofiev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Artur Makarov",
+          "predicted_score": null,
+          "prediction_summary": "David thinks Artur will win if he is in good shape and prepared well.",
+          "predicted_duration": "Close match",
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": "Put Mindaugas in hook every time"
+            },
+            "Daniel Prokofiev": {
+              "strength": "Strong top roller",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Gennady Kvikvinia",
+            "Ibrahim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Gennady Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "David thinks Gennady will win due to his experience and strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Gennady Kvikvinia": {
+              "strength": "Strong and experienced",
+              "health": null,
+              "previous_match_summary": "Had some good positions against Devon"
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babaev",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "David is impressed by Todd and wants him to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Impressive puller",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "David thinks Vitaly can win if he works correctly and transitions to triceps without mistakes.",
+          "predicted_duration": null,
+          "style_conflict": "Top Roll vs King's Move",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Beat Dave in second match"
+            },
+            "Michael Todd": {
+              "strength": "Drains opponents' energy",
+              "health": null,
+              "previous_match_summary": "Close match with Ermes"
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "David thinks Levan is the favorite but is unsure due to Ermes' impressive preparations.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Versatile and tactical",
+              "health": null,
+              "previous_match_summary": "Perfect technique against Michael Todd"
+            },
+            "Levan Saginashvili": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Quietly preparing"
+            }
+          }
+        }
+      ]
+    },
+    "Georgii Tsvetkov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Georgii Tsvetkov",
+            "David Dadikyan"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Georgii Tsvetkov",
+          "predicted_score": "3-2",
+          "prediction_summary": "Georgii believes he can win by cracking David's wrist, as he sees David as one of the strongest hookers. He feels confident in his left arm's strength.",
+          "predicted_duration": "Endurance match",
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "One of the strongest hookers",
+              "health": null,
+              "previous_match_summary": "Beat Alex Kurdecha in hook"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Unknown Opponent"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks Zurab will win without losing his wrist.",
+          "predicted_duration": "Long, exhausting match",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Petro Marharin",
+            "Adair"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Petro Marharin",
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks Petro will win due to his experience and stronger wrist cupping.",
+          "predicted_duration": "Not easy but confident",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Petro Marharin": {
+              "strength": "Strong wrist cupping",
+              "health": null,
+              "previous_match_summary": "Very strong in Moldova 2018"
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks Matt will win because Irakli is not strong in top roll.",
+          "predicted_duration": null,
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Strong top roller",
+              "health": null,
+              "previous_match_summary": "Beat Ungarbaev"
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Egle Vaidila",
+            "Jocelyn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Egle Vaidila",
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks Egle will win due to her strength and experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Egle Vaidila": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Way more experienced"
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks Georgii Dzeranov will win in hook.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Fast and strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Arsen Khachatryan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Arsen Khachatryan",
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks Arsen will win due to his experience and endurance.",
+          "predicted_duration": "Close match",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arsen Khachatryan": {
+              "strength": "Experienced and skilled",
+              "health": null,
+              "previous_match_summary": "Beat Sasho in a crazy match"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ivan Matyshenko",
+            "Sergey Kalinichenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Ivan Matyshenko",
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks Ivan will win by hooking Sergey.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Ivan Matyshenko": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Daniel Prokofiev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Daniel Prokofiev",
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks Daniel will win, possibly by going sideways or top rolling.",
+          "predicted_duration": "Crazy match",
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Daniel Prokofiev": {
+              "strength": "Stronger than Mindaugas",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Gennady Kvikvinia",
+            "Ibrahim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Gennady Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks Gennady will win even at 115 kg due to his strength and experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Gennady Kvikvinia": {
+              "strength": "Stronger and more experienced",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babaev",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks Todd is unstoppable now and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Very dangerous and strong",
+              "health": null,
+              "previous_match_summary": "Beat Terapeak"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks Michael will win in a long, exhausting match.",
+          "predicted_duration": "Long, exhausting match",
+          "style_conflict": "Top Roll vs King's Move",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Very dangerous puller",
+              "health": null,
+              "previous_match_summary": "Close match with Ermes"
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks Levan will win confidently, not dominantly.",
+          "predicted_duration": "Not a fresh win match",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Levan Saginashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

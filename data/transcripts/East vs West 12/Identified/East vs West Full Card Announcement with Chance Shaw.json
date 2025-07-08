@@ -1,0 +1,345 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Chance Shaw",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Dan"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Engin Terzi",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Alex Kurdecha is finally on the East vs West stage right-handed. It's a really interesting match, especially with the right-hand perspective.",
+          "predicted_duration": null,
+          "style_conflict": "Top roller vs top roller",
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Incredible back pressure and pronator",
+              "health": null,
+              "previous_match_summary": "Amazing left-handed match with Morozov"
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Pure top roller with incredible back pressure and pronator",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Alizhan Muratov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": "60-40",
+          "prediction_summary": "Alizhan is the favorite, but Ermes is getting ready for Denis Cyplenkov and will be in incredible shape.",
+          "predicted_duration": null,
+          "style_conflict": "Technical vs power",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Technical, smart, fast",
+              "health": null,
+              "previous_match_summary": "Training hard after loss to Devon"
+            },
+            "Alizhan Muratov": {
+              "strength": "Incredible power",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Hard to say who will win since it's Michael's big comeback match. The style should be the same as when Michael had his match with Ermes.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "In really good shape",
+              "health": null,
+              "previous_match_summary": "Looked good against Pavlo"
+            },
+            "Frank Lamparelli": {
+              "strength": "Beat Matt Mask",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Nurdaulet Aidarkhan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Davit Samushia doesn't lose at 85 kilos. Nurdaulet's hit is nasty, but Samushia is incredible.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Too strong for 85 kilos",
+              "health": null,
+              "previous_match_summary": "Seven-time champion"
+            },
+            "Nurdaulet Aidarkhan": {
+              "strength": "Nasty hit",
+              "health": null,
+              "previous_match_summary": "Coming up from 75 kilos"
+            }
+          }
+        },
+        {
+          "match": [
+            "Leonidas Arkona",
+            "Alexsandr Beziazykov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Alexsandr Beziazykov",
+          "predicted_score": null,
+          "prediction_summary": "Schoolboy is technically a much better armwrestler, but Leonidas has a sticky open bicep move.",
+          "predicted_duration": null,
+          "style_conflict": "Technical vs sticky open bicep",
+          "opinion_about_athletes": {
+            "Leonidas Arkona": {
+              "strength": "Sticky open bicep move",
+              "health": null,
+              "previous_match_summary": "Beat Larry Wills"
+            },
+            "Alexsandr Beziazykov": {
+              "strength": "Technically better",
+              "health": null,
+              "previous_match_summary": "Beat Larry Wills"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Artur Makarov",
+          "predicted_score": null,
+          "prediction_summary": "Artur Makarov is maybe even a step up from Daniel Prokopchik. Slight edge to Makarov.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": "Step up from Daniel Prokopchik",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Mindaugus Tarasaitis": {
+              "strength": "Adjusted well against Daniel Prokopchik",
+              "health": null,
+              "previous_match_summary": "Incredible match against Daniel Prokopchik"
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisik",
+            "Ekaterina Nikisheva"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Ekaterina Nikisheva",
+          "predicted_score": "55-45",
+          "prediction_summary": "Even with time off, Ekaterina is favored over Fia on the left.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Fia Reisik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ekaterina Nikisheva": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Hasn't competed left arm for a while"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "55-45",
+          "prediction_summary": "50-50, maybe Irakli 55%. If Petro passes Irakli, he's ready for a title shot.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Looking amazing",
+              "health": null,
+              "previous_match_summary": "Beat Rustam Babayev and Pauline"
+            },
+            "Sasho Andreev": {
+              "strength": "Powerful",
+              "health": null,
+              "previous_match_summary": "Beat Marcio"
+            }
+          }
+        },
+        {
+          "match": [
+            "Petro Marharint",
+            "Nugzari Chikadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Nugzari Chikadze",
+          "predicted_score": null,
+          "prediction_summary": "Being a top roller, Nugzari is favored to beat the hook puller Petro.",
+          "predicted_duration": null,
+          "style_conflict": "Top roller vs hook puller",
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Almost un-top-rollable",
+              "health": null,
+              "previous_match_summary": "Beat Sandris, Revas, John Brzenk"
+            },
+            "Nugzari Chikadze": {
+              "strength": "Very hard to be hooked",
+              "health": null,
+              "previous_match_summary": "Took Krasimir's wrist and beat him twice"
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Šedis",
+            "Ibragim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "Ibragim is much stronger. Sandris is technically better, but Ibragim's pure power is too much.",
+          "predicted_duration": null,
+          "style_conflict": "Technical vs power",
+          "opinion_about_athletes": {
+            "Sandris Šedis": {
+              "strength": "Technically better",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ibragim Sagov": {
+              "strength": "Much stronger",
+              "health": null,
+              "previous_match_summary": "Gave Todd Hutchings trouble"
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Talgat Aktaev"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": "55-45",
+          "prediction_summary": "If the match stops, it's going to be a war. Betkili has amazing shoulder commitment to dig out of a losing position.",
+          "predicted_duration": "Long if stopped, quick if not",
+          "style_conflict": "Flash vs endurance",
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Amazing shoulder commitment",
+              "health": null,
+              "previous_match_summary": "Gave hell to Oleg Zhokh"
+            },
+            "Talgat Aktaev": {
+              "strength": "Super fast",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan is the favorite until proven otherwise, but Devon has a good chance. Devon's endurance is better, and if the match stops, it's Devon's lane.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs endurance",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Incredible power",
+              "health": null,
+              "previous_match_summary": "Undefeated for seven years"
+            },
+            "Devon Larratt": {
+              "strength": "Better endurance",
+              "health": "Stem cell treatments",
+              "previous_match_summary": "Beat Ermes, Denis Cyplenkov, Georgi Tsvetkov"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Chance Shaw",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon has the tools for the job. If Devon can hold up, his endurance will be key. Levan's wrist may go, and Devon can stop it.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs endurance",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Incredible power",
+              "health": "Wrist injury history",
+              "previous_match_summary": "Undefeated for seven years"
+            },
+            "Devon Larratt": {
+              "strength": "Better endurance",
+              "health": "Stem cell treatments",
+              "previous_match_summary": "Beat Ermes, Denis Cyplenkov, Georgi Tsvetkov"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Unknown",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Betkili Oniani",
+    "SPEAKER_03": "Oleg Petrenko"
+  },
+  "date": null,
+  "self_predictions": {
+    "Betkili Oniani": {
+      "match": [
+        "Betkili Oniani",
+        "Oleg Petrenko"
+      ],
+      "arm": "Left",
+      "event": "East vs West 16",
+      "predicted_winner": "Betkili Oniani",
+      "predicted_score": "50-50",
+      "prediction_summary": "Betkili believes the match will be tough and not short, implying he will win due to endurance.",
+      "predicted_duration": "Long match",
+      "style_conflict": "Endurance vs strength",
+      "opinion_about_athletes": {
+        "Oleg Petrenko": {
+          "strength": "Very strong",
+          "health": "Healthy left arm",
+          "previous_match_summary": "Dominant in previous matches, but Betkili believes he can withstand his strength."
+        }
+      }
+    },
+    "Oleg Petrenko": {
+      "match": [
+        "Oleg Petrenko",
+        "Betkili Oniani"
+      ],
+      "arm": "Left",
+      "event": "East vs West 16",
+      "predicted_winner": "Oleg Petrenko",
+      "predicted_score": "70-30",
+      "prediction_summary": "Oleg believes he is the favorite and the match will not be long.",
+      "predicted_duration": "Short match",
+      "style_conflict": "Strength vs endurance",
+      "opinion_about_athletes": {
+        "Betkili Oniani": {
+          "strength": "Endless endurance",
+          "health": "Good condition",
+          "previous_match_summary": "Known for long matches and high endurance."
+        }
+      }
+    }
+  },
+  "third_party_predictions": {
+    "Betkili Oniani": [
+      {
+        "match": [
+          "Bacho Saginashvili",
+          "Brad Grundy"
+        ],
+        "arm": "Right",
+        "event": "East vs West 16",
+        "predicted_winner": "Bacho Saginashvili",
+        "predicted_score": null,
+        "prediction_summary": "Betkili believes Bacho will dominate throughout the match.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Bacho Saginashvili": {
+            "strength": "Strong and young",
+            "health": "Good condition",
+            "previous_match_summary": "Impressive performance against Matt Mask."
+          },
+          "Brad Grundy": {
+            "strength": "Strong",
+            "health": "Good condition",
+            "previous_match_summary": "Tough opponent but not at Bacho's level."
+          }
+        }
+      },
+      {
+        "match": [
+          "Serhii Kalinichenko",
+          "Frank Lamparelli"
+        ],
+        "arm": "Right",
+        "event": "East vs West 16",
+        "predicted_winner": "Frank Lamparelli",
+        "predicted_score": "70-30",
+        "prediction_summary": "Betkili thinks Lamparelli is the favorite even if Kalinichenko didn't have to lose weight.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Serhii Kalinichenko": {
+            "strength": "Strong",
+            "health": "Good condition",
+            "previous_match_summary": "Needs to drop weight."
+          },
+          "Frank Lamparelli": {
+            "strength": "Very tough",
+            "health": "Good condition",
+            "previous_match_summary": "Impressive performance against Michael Todd."
+          }
+        }
+      },
+      {
+        "match": [
+          "Vitalii Laletin",
+          "Artyom Morozov"
+        ],
+        "arm": "Left",
+        "event": "East vs West 16",
+        "predicted_winner": "Artyom Morozov",
+        "predicted_score": "55-45",
+        "prediction_summary": "Betkili believes Morozov has a chance if he can contain Laletin's initial surge.",
+        "predicted_duration": null,
+        "style_conflict": "Top-roll vs hook",
+        "opinion_about_athletes": {
+          "Vitalii Laletin": {
+            "strength": "Explosive",
+            "health": "Good condition",
+            "previous_match_summary": "Known for his powerful hits."
+          },
+          "Artyom Morozov": {
+            "strength": "Strong in hook",
+            "health": "Good condition",
+            "previous_match_summary": "Current super heavyweight world champion."
+          }
+        }
+      }
+    ],
+    "Oleg Petrenko": [
+      {
+        "match": [
+          "Serhii Kalinichenko",
+          "Frank Lamparelli"
+        ],
+        "arm": "Right",
+        "event": "East vs West 16",
+        "predicted_winner": "50-50",
+        "predicted_score": null,
+        "prediction_summary": "Oleg wants Kalinichenko to win but thinks it's a tough match.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Serhii Kalinichenko": {
+            "strength": "Strong",
+            "health": "Good condition",
+            "previous_match_summary": "Countryman, wants him to win."
+          },
+          "Frank Lamparelli": {
+            "strength": "Very tough",
+            "health": "Good condition",
+            "previous_match_summary": "Impressive performance against Michael Todd."
+          }
+        }
+      },
+      {
+        "match": [
+          "Vitalii Laletin",
+          "Artyom Morozov"
+        ],
+        "arm": "Left",
+        "event": "East vs West 16",
+        "predicted_winner": "50-50",
+        "predicted_score": null,
+        "prediction_summary": "Oleg thinks it's a balanced match due to Laletin's surge and Morozov's championship experience.",
+        "predicted_duration": null,
+        "style_conflict": "Top-roll vs hook",
+        "opinion_about_athletes": {
+          "Vitalii Laletin": {
+            "strength": "Explosive",
+            "health": "Good condition",
+            "previous_match_summary": "Progressing well."
+          },
+          "Artyom Morozov": {
+            "strength": "Strong in hook",
+            "health": "Good condition",
+            "previous_match_summary": "Defending champion."
+          }
+        }
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Genadi Kvikvinia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 16",
+        "predicted_winner": "Devon Larratt",
+        "predicted_score": null,
+        "prediction_summary": "Oleg thinks Devon is the slight favorite based on his current shape.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "In best shape",
+            "health": "Good condition",
+            "previous_match_summary": "Motivated to not lose twice."
+          },
+          "Genadi Kvikvinia": {
+            "strength": "Strong",
+            "health": "Recovering from injury",
+            "previous_match_summary": "Previous winner against Devon."
+          }
+        }
+      }
+    ]
+  }
+}

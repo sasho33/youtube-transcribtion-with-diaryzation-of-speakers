@@ -1,0 +1,538 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Valen Low",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_03": "Mindaugas Tarasaitis",
+    "SPEAKER_04": "Hunter Noffz"
+  },
+  "date": null,
+  "predictions": {
+    "Hunter Noffz": {
+      "self_predictions": [
+        {
+          "match": [
+            "Hunter Noffz",
+            "Valen Low"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Hunter Noffz",
+          "predicted_score": "3-0",
+          "prediction_summary": "Hunter is confident and does not underestimate Valen but believes he will win convincingly.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Valen Low": {
+              "strength": "Unknown",
+              "health": null,
+              "previous_match_summary": "Valen has achievements in Asian championships and China Open but is considered an underdog."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Janis Amolins"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "Hunter believes Mindaugas is in his prime and will win, but it will be a technical match.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll battle",
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Strong",
+              "health": "Minor injuries",
+              "previous_match_summary": "Mindaugas has been dominant recently and is considered a top contender."
+            },
+            "Janis Amolins": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": "Janis is a veteran but may be past his peak."
+            }
+          }
+        },
+        {
+          "match": [
+            "Cody Wood",
+            "Joseph Meranto"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Cody Wood",
+          "predicted_score": "Convincing win",
+          "prediction_summary": "Hunter thinks Cody is the favorite and will win convincingly.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Cody Wood": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Cody is a rising star in the lightweight category."
+            },
+            "Joseph Meranto": {
+              "strength": "Powerful",
+              "health": null,
+              "previous_match_summary": "Joseph beat Kevin Palko but is considered less powerful than Cody."
+            }
+          }
+        },
+        {
+          "match": [
+            "Craig Tullier",
+            "John Therrien"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Craig Tullier",
+          "predicted_score": "3-2",
+          "prediction_summary": "Hunter believes Craig's experience will give him the edge, but John could turn the match if it goes inside.",
+          "predicted_duration": null,
+          "style_conflict": "Inside vs outside",
+          "opinion_about_athletes": {
+            "Craig Tullier": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": "Craig has been dominant and is a veteran."
+            },
+            "John Therrien": {
+              "strength": "Endurance",
+              "health": null,
+              "previous_match_summary": "John has been looking solid recently."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sarah Bäckman",
+            "Jocelyne Brisson"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Sarah Bäckman",
+          "predicted_score": "3-2",
+          "prediction_summary": "Hunter hopes Sarah will redeem herself and win, but it will be close.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sarah Bäckman": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": "Sarah is known for pulling in multiple categories."
+            },
+            "Jocelyne Brisson": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Jocelyne beat Sarah in a previous match."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": "3-1",
+          "prediction_summary": "Hunter thinks Ongarbaev is too strong and Matt will have a tough time.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Ongarbaev is from a strong team and is a top contender."
+            },
+            "Matt Mask": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Matt needs to be at his best to compete."
+            }
+          }
+        },
+        {
+          "match": [
+            "Andrei Sharkevich",
+            "Arsen Khachatryan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Andrei Sharkevich",
+          "predicted_score": "Win with at least one round for Arsen",
+          "prediction_summary": "Hunter believes Andrei is on a winning streak and will win, but Arsen may get a round.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Andrei Sharkevich": {
+              "strength": "Dominant",
+              "health": null,
+              "previous_match_summary": "Andrei has been tearing through opponents."
+            },
+            "Arsen Khachatryan": {
+              "strength": "Young and strong",
+              "health": null,
+              "previous_match_summary": "Arsen is young and less experienced."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Kody Merritt",
+          "predicted_score": "Close match",
+          "prediction_summary": "Hunter thinks Kody's size and power will give him the edge.",
+          "predicted_duration": "War",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Strong",
+              "health": "Back issues",
+              "previous_match_summary": "Prudnik's health is a question mark."
+            },
+            "Kody Merritt": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Kody has a strong left arm."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Hunter thinks it's hard to bet against Devon but Corey could take him to the pad.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Tricky",
+              "health": null,
+              "previous_match_summary": "Devon is hard to bet against."
+            },
+            "Corey West": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Corey could take Devon to the pad."
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "70-30",
+          "prediction_summary": "Hunter believes Dave is fully capable of beating Georgi.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Dave has been dominant in the past."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Georgi is coming back from a break."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Hunter believes John can get the match to his side and finish with a press.",
+          "predicted_duration": null,
+          "style_conflict": "Press vs pull back",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experienced",
+              "health": "Shoulder issues",
+              "previous_match_summary": "John is a legend but has shoulder issues."
+            },
+            "Yoshinobu Kanai": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Kanai is a legend with incredible pulling power."
+            }
+          }
+        }
+      ]
+    },
+    "Valen Low": {
+      "self_predictions": [
+        {
+          "match": [
+            "Hunter Noffz",
+            "Valen Low"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Hunter Noffz if flashed in round one, otherwise Valen has a chance",
+          "predicted_score": "3-0 if Hunter flashes, otherwise close",
+          "prediction_summary": "Valen believes if Hunter flashes him in round one, it will be 3-0, but if he can stop Hunter, he has a chance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Hunter Noffz": {
+              "strength": "Fast and strong",
+              "health": null,
+              "previous_match_summary": "Hunter is a rising star with a strong left arm."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Hunter Noffz"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Valen thinks Mindaugas will have the upper hand due to experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Experienced",
+              "health": "Minor injuries",
+              "previous_match_summary": "Mindaugas is a top contender."
+            },
+            "Hunter Noffz": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Hunter is confident but less experienced."
+            }
+          }
+        },
+        {
+          "match": [
+            "Craig Tullier",
+            "John Therrien"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Craig Tullier",
+          "predicted_score": "3-0 or 3-1",
+          "prediction_summary": "Valen thinks Craig's experience will give him the win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Craig Tullier": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": "Craig has been dominant."
+            },
+            "John Therrien": {
+              "strength": "Solid",
+              "health": null,
+              "previous_match_summary": "John has been looking good recently."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sarah Bäckman",
+            "Jocelyne Brisson"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Jocelyne Brisson",
+          "predicted_score": null,
+          "prediction_summary": "Valen thinks Jocelyne will win due to size advantage.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sarah Bäckman": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": "Sarah is known for pulling in multiple categories."
+            },
+            "Jocelyne Brisson": {
+              "strength": "Bigger",
+              "health": null,
+              "previous_match_summary": "Jocelyne has a size advantage."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Valen believes Ongarbaev's team strength will give him the win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Ongarbaev is from a strong team."
+            },
+            "Matt Mask": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Matt needs to be at his best."
+            }
+          }
+        },
+        {
+          "match": [
+            "Andrei Sharkevich",
+            "Arsen Khachatryan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Valen thinks it's a toss-up.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Andrei Sharkevich": {
+              "strength": "Dominant",
+              "health": null,
+              "previous_match_summary": "Andrei has been winning recently."
+            },
+            "Arsen Khachatryan": {
+              "strength": "Young",
+              "health": null,
+              "previous_match_summary": "Arsen is less experienced."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Valen is going for the lighter guy, Prudnik.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Prudnik is a strong left-arm puller."
+            },
+            "Kody Merritt": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Kody has a strong left arm."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Valen thinks Devon's tricks will give him the win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Tricky",
+              "health": null,
+              "previous_match_summary": "Devon is hard to bet against."
+            },
+            "Corey West": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Corey could take Devon to the pad."
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Valen is going with Dave due to his past dominance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Dave has been dominant in the past."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Georgi is coming back from a break."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Yoshinobu Kanai",
+          "predicted_score": null,
+          "prediction_summary": "Valen thinks Kanai will get the stop and win.",
+          "predicted_duration": null,
+          "style_conflict": "Pull back vs press",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experienced",
+              "health": "Shoulder issues",
+              "previous_match_summary": "John is a legend but has shoulder issues."
+            },
+            "Yoshinobu Kanai": {
+              "strength": "Legendary",
+              "health": null,
+              "previous_match_summary": "Kanai is a legend with incredible pulling power."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

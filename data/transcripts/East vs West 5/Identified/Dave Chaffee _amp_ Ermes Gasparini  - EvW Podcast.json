@@ -1,0 +1,164 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Dave Chaffee",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_04": "Ermes Gasparini"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Ermes Gasparini",
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes his style is dangerous for Dave and that he has improved significantly over the past year. He is confident in his wrist and pronation strength.",
+          "predicted_duration": null,
+          "style_conflict": "Ermes thinks his style is dangerous for Dave, especially in the grip and pronation.",
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Super strong, especially in the hook and defensive positions.",
+              "health": "Dave mentioned some elbow issues but feels good for the match.",
+              "previous_match_summary": "Dave has been active in high-level matches this year, showing endurance and adaptability."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "3-2",
+          "prediction_summary": "Ermes thinks Prudnik will win the first two rounds but Devon's endurance will prevail in the later rounds.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's endurance vs Prudnik's explosiveness.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Incredible endurance and smart on the table.",
+              "health": "Devon is prepared and ready despite recent surgeries.",
+              "previous_match_summary": "Devon has been training intensely and is known for his endurance."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Explosive and strong in both hook and top roll.",
+              "health": null,
+              "previous_match_summary": "Prudnik has shown dominance in recent matches, including a strong win over Todd Hutchings."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks Matt Mask is very dangerous in the setup and has a strong pronation.",
+          "predicted_duration": null,
+          "style_conflict": "Matt's aggressive setup vs Sandris's endurance.",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Super strong in pronation and setup.",
+              "health": null,
+              "previous_match_summary": "Matt has been looking monstrous in recent training videos."
+            },
+            "Sandris Sedis": {
+              "strength": "Strong endurance and hook.",
+              "health": null,
+              "previous_match_summary": "Sandris recently won the WAF title, showing great endurance."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Dave Chaffee",
+      "self_predictions": [
+        {
+          "match": [
+            "Dave Chaffee",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave is confident he will win, citing his experience and recent improvements. He believes the match will go differently than Ermes expects.",
+          "predicted_duration": null,
+          "style_conflict": "Dave's power and experience vs Ermes's youth and improvement.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Young, improving, and confident in his wrist and pronation.",
+              "health": null,
+              "previous_match_summary": "Ermes has not pulled right arm matches since early 2022, making his current level a question mark."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "3-2",
+          "prediction_summary": "Dave thinks Devon's endurance and intelligence on the table will give him the edge over Prudnik.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's endurance vs Prudnik's explosiveness.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Super smart and knows how to win.",
+              "health": "Prepared despite recent surgeries.",
+              "previous_match_summary": "Devon is known for his endurance and strategic pulling."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Explosive and strong in both hook and top roll.",
+              "health": null,
+              "previous_match_summary": "Prudnik has been dominant in recent matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Dave believes Matt Mask's current form and strength will give him the win over Sandris.",
+          "predicted_duration": null,
+          "style_conflict": "Matt's aggressive setup vs Sandris's endurance.",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Monstrous in recent training videos.",
+              "health": null,
+              "previous_match_summary": "Matt has been looking very strong and aggressive."
+            },
+            "Sandris Sedis": {
+              "strength": "Strong endurance and hook.",
+              "health": null,
+              "previous_match_summary": "Sandris recently won the WAF title."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

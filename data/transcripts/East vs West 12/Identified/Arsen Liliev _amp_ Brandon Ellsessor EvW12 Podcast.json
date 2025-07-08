@@ -1,0 +1,253 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Brandon Ellsessor",
+    "SPEAKER_01": "Ivan Matushenko",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Unknown",
+    "SPEAKER_04": "Arsen Liliev"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "40% Devon has chance, 60% Levan has chance",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Ivan Matushenko",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan has more chances, but it can be an even fight",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Arsen Liliev",
+      "self_predictions": [
+        {
+          "match": [
+            "Arsen Liliev",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Arsen Liliev",
+          "predicted_score": null,
+          "prediction_summary": "Never competed anywhere he wasn't sure he would win",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Brandon Ellsessor": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan is an incredible athlete with so much strength",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Incredible",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": "Impressive",
+              "health": null,
+              "previous_match_summary": "Showed incredible form against Denis Cyplenkov"
+            }
+          }
+        },
+        {
+          "match": [
+            "Petro Marharint",
+            "Nugzari Chikadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Nugzari Chikadze",
+          "predicted_score": null,
+          "prediction_summary": "Georgian team can improve quickly, may win",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Strong wrist",
+              "health": null,
+              "previous_match_summary": "Beat Krasimir Kostadinov"
+            },
+            "Nugzari Chikadze": {
+              "strength": "Improving quickly",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan is the most impressive hook puller, Ermes has 10% chance",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Incredible",
+              "health": null,
+              "previous_match_summary": "Best hook puller"
+            },
+            "Ermes Gasparini": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Primarily a right-handed arm wrestler"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Brandon Ellsessor",
+      "self_predictions": [
+        {
+          "match": [
+            "Arsen Liliev",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Brandon Ellsessor",
+          "predicted_score": null,
+          "prediction_summary": "50-50 chance, but believes in his own progress",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arsen Liliev": {
+              "strength": "Unknown current level",
+              "health": null,
+              "previous_match_summary": "Legendary athlete returning after 11 years"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon has better chances this time, 55-45",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Very strong",
+              "health": "Coming off an injury",
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": "Stronger than before",
+              "health": null,
+              "previous_match_summary": "Got injured in the last match"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan is like Chuck Norris in arm wrestling, 70-30",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Amazing",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ermes Gasparini": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Primarily a right-handed arm wrestler"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

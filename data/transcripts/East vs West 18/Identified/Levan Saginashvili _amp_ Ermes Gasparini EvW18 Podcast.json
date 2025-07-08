@@ -1,0 +1,80 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Levan Saginashvili",
+    "SPEAKER_05": "Levan Saginashvili",
+    "SPEAKER_06": "Ermes Gasparini",
+    "SPEAKER_07": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Levan Saginashvili",
+      "self_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "6-0",
+          "prediction_summary": "Levan believes he will win decisively, stating Ermes has no chance unless unforeseen circumstances occur.",
+          "predicted_duration": "Short",
+          "style_conflict": "Levan expects to dominate with his strength and technique."
+        }
+      ],
+      "third_party_predictions": []
+    },
+    {
+      "speaker": "Ermes Gasparini",
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes he has improved significantly and can win, especially if the match goes long.",
+          "predicted_duration": "Long",
+          "style_conflict": "Ermes plans to use his improved wrist strength and endurance to challenge Levan."
+        }
+      ],
+      "third_party_predictions": []
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Engin acknowledges Levan's dominance but highlights the potential for an exciting match if Ermes can challenge him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Unmatched",
+              "health": "Good, but past issues with oxygen and weight",
+              "previous_match_summary": "Dominant performances, but struggled with endurance in long matches."
+            },
+            "Ermes Gasparini": {
+              "strength": "Very strong, especially in wrist and pronation",
+              "health": "Good",
+              "previous_match_summary": "Gave Levan a tough match, showing significant improvement."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Joseph Meranto",
+    "SPEAKER_01": "Cody Wood",
+    "SPEAKER_02": "Engin Terzi"
+  },
+  "date": null,
+  "self_predictions": {
+    "Joseph Meranto": [],
+    "Cody Wood": []
+  },
+  "third_party_predictions": {
+    "Joseph Meranto": [
+      {
+        "match": [
+          "Hunter Noffz",
+          "Valen Low"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Hunter Noffz",
+        "predicted_score": "3-1",
+        "prediction_summary": "Hunter's left arm is better than his right, and his consistent power will surprise people.",
+        "predicted_duration": null,
+        "style_conflict": "Hunter's explosive and enduring style vs Valen's unknown approach.",
+        "opinion_about_athletes": {
+          "Hunter Noffz": {
+            "strength": "Explosive and enduring",
+            "health": "Good",
+            "previous_match_summary": "Beat Justin Bishop left-handed in a tournament."
+          },
+          "Valen Low": {
+            "strength": "Unknown",
+            "health": "Unknown",
+            "previous_match_summary": "Recently appeared on the card, limited information."
+          }
+        }
+      },
+      {
+        "match": [
+          "John Brzenk",
+          "Yoshinobu Kanai"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "John Brzenk",
+        "predicted_score": null,
+        "prediction_summary": "John's competition performance is better than practice, and he has a history of surprising wins.",
+        "predicted_duration": null,
+        "style_conflict": "John's experience and adaptability vs Kanai's technical skills.",
+        "opinion_about_athletes": {
+          "John Brzenk": {
+            "strength": "Experienced and adaptable",
+            "health": "Good",
+            "previous_match_summary": "Beat Leonidas despite not looking impressive in practice."
+          },
+          "Yoshinobu Kanai": {
+            "strength": "Technical",
+            "health": "Good",
+            "previous_match_summary": "Had a good match against Todd."
+          }
+        }
+      }
+    ],
+    "Cody Wood": [
+      {
+        "match": [
+          "Hunter Noffz",
+          "Mindaugas Tarasaitis"
+        ],
+        "arm": "Left",
+        "event": "East vs West 17",
+        "predicted_winner": "Hunter Noffz",
+        "predicted_score": "55-45",
+        "prediction_summary": "Hunter's left arm is better than his right, and his consistent power will surprise Mindaugas.",
+        "predicted_duration": null,
+        "style_conflict": "Hunter's explosive style vs Mindaugas' defensive style.",
+        "opinion_about_athletes": {
+          "Hunter Noffz": {
+            "strength": "Explosive and enduring",
+            "health": "Good",
+            "previous_match_summary": "Beat Justin Bishop left-handed in a tournament."
+          },
+          "Mindaugas Tarasaitis": {
+            "strength": "Defensive",
+            "health": "Good",
+            "previous_match_summary": "Won 20-23 in 70 kg left-handed."
+          }
+        }
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Corey West"
+        ],
+        "arm": "Left",
+        "event": "East vs West 17",
+        "predicted_winner": "Devon Larratt",
+        "predicted_score": null,
+        "prediction_summary": "Devon's endurance and ability to handle hook pullers will give him the edge over Corey.",
+        "predicted_duration": null,
+        "style_conflict": "Devon's endurance vs Corey's explosive but short-lived power.",
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Enduring and technical",
+            "health": "Good",
+            "previous_match_summary": "Strong performance in recent matches."
+          },
+          "Corey West": {
+            "strength": "Explosive but lacks endurance",
+            "health": "Good",
+            "previous_match_summary": "Dominant in strap matches but struggles without it."
+          }
+        }
+      },
+      {
+        "match": [
+          "Georgi Tsvetkov",
+          "Dave Chaffee"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Georgi Tsvetkov",
+        "predicted_score": null,
+        "prediction_summary": "Georgi's endurance and technical skills will overcome Dave's side pressure.",
+        "predicted_duration": null,
+        "style_conflict": "Georgi's endurance vs Dave's side pressure.",
+        "opinion_about_athletes": {
+          "Georgi Tsvetkov": {
+            "strength": "Enduring and technical",
+            "health": "Good",
+            "previous_match_summary": "Strong performance in recent matches."
+          },
+          "Dave Chaffee": {
+            "strength": "Strong side pressure",
+            "health": "Recently healthy",
+            "previous_match_summary": "Feeling healthy and training harder lately."
+          }
+        }
+      }
+    ],
+    "Engin Terzi": [
+      {
+        "match": [
+          "Jocelyne Brisson",
+          "Sarah Bäckman"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Sarah Bäckman",
+        "predicted_score": null,
+        "prediction_summary": "Sarah's experience and improved preparation will give her the edge over Jocelyne.",
+        "predicted_duration": null,
+        "style_conflict": "Sarah's experience vs Jocelyne's raw strength.",
+        "opinion_about_athletes": {
+          "Jocelyne Brisson": {
+            "strength": "Raw strength (bench presses 315 lbs)",
+            "health": "Good",
+            "previous_match_summary": "Surprised everyone by beating Sarah in a previous match."
+          },
+          "Sarah Bäckman": {
+            "strength": "Experienced and technical",
+            "health": "Good",
+            "previous_match_summary": "Lost to Jocelyne but is now more prepared."
+          }
+        }
+      }
+    ]
+  }
+}

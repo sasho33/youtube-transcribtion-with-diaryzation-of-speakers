@@ -1,0 +1,220 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Devon Larratt",
+    "SPEAKER_01": "Alex Kurdecha",
+    "SPEAKER_03": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Devon Larratt",
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Devon predicts Alex will win due to his size, strength, and ranking, but hints at possible referee influence.",
+          "predicted_duration": null,
+          "style_conflict": "Devon suggests Alex will dominate but may intentionally make the match harder for entertainment.",
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Extremely strong, ranked number four in the world.",
+              "health": null,
+              "previous_match_summary": "Beat Ermes Gasparini decisively."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Devon believes Levan is the favorite due to his dominance and structure, but Ermes has a chance if the match stops and becomes about endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Levan's hand control vs. Ermes' back pressure and posting ability.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Most dominant champion in the sport.",
+              "health": "In great shape, training hard.",
+              "previous_match_summary": "Dominant performances, including against Ermes."
+            },
+            "Ermes Gasparini": {
+              "strength": "Incredible arm for posting and curling, improved significantly since last match.",
+              "health": "Healthy and in top shape.",
+              "previous_match_summary": "Performed well against Levan in their first match, surprising many."
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisek",
+            "Elin Janeheim"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Fia Reisek",
+          "predicted_score": null,
+          "prediction_summary": "Devon supports Fia but acknowledges Elin's strength and potential.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Fia Reisek": {
+              "strength": "Very dangerous, experienced.",
+              "health": null,
+              "previous_match_summary": "Previous match against Malin was tough."
+            },
+            "Elin Janeheim": {
+              "strength": "Young and strong, won a round against Fia in a tournament.",
+              "health": null,
+              "previous_match_summary": "Recent European champion."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Alex Kurdecha",
+      "self_predictions": [
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Devon Larratt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Alex believes he will win but may make the match harder for entertainment.",
+          "predicted_duration": null,
+          "style_conflict": "Alex plans to control the match but may not go for a quick pin.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Special left and right arm, very strategic.",
+              "health": null,
+              "previous_match_summary": "Beat Ermes Gasparini but not as decisively as Alex."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "Arsen Khachatryan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Alex thinks Paul is the favorite due to his professionalism and strength at 95 kg.",
+          "predicted_duration": "5-7 seconds",
+          "style_conflict": "Paul's explosive hook vs. Arsen's endurance.",
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Very professional, strong hook.",
+              "health": null,
+              "previous_match_summary": "Competitive match with Rustem Bavaev."
+            },
+            "Arsen Khachatryan": {
+              "strength": "Good endurance, strong.",
+              "health": null,
+              "previous_match_summary": "Beat Andrei Sharkevich at 100 kg."
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Alex believes Michael is the favorite due to his endurance and experience.",
+          "predicted_duration": null,
+          "style_conflict": "Michael's endurance vs. Georgii's strength.",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Endurance and technique.",
+              "health": null,
+              "previous_match_summary": "Close match with Vitaly Laletin."
+            },
+            "Georgii Dzeranov": {
+              "strength": "Physically impressive, but lacks endurance.",
+              "health": null,
+              "previous_match_summary": "Beat Rivas but lost to Vitaly."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Riekerd Bornman",
+            "Wallace Dilley"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Wallace Dilley",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Wallace is the favorite due to his strength and recent performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Riekerd Bornman": {
+              "strength": "Young and strong, potential.",
+              "health": null,
+              "previous_match_summary": "Making waves in Australia."
+            },
+            "Wallace Dilley": {
+              "strength": "Big background in strength, converted well to arm wrestling.",
+              "health": null,
+              "previous_match_summary": "Beat Marcio decisively."
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Matt will win due to his left arm strength and experience.",
+          "predicted_duration": null,
+          "style_conflict": "Matt's left arm vs. Irakli's losing streak.",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Very good left arm, follows right hand work.",
+              "health": null,
+              "previous_match_summary": "Has been very good in past left arm matches."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "On a losing streak.",
+              "health": null,
+              "previous_match_summary": "Struggling recently."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

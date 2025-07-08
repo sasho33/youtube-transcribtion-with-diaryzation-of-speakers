@@ -1,0 +1,212 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Genadi Kvikvinia",
+    "SPEAKER_01": "Translator/Roman",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": {
+    "Genadi Kvikvinia": {
+      "self_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Genadi is confident he will beat Michael Todd, citing his preparation and recovery from injury. He believes his offensive skills are superior to Michael's.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi plans to use his offensive skills to dominate Michael.",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Michael is strong but not on Genadi's level offensively.",
+              "health": "Michael has recovered from his injuries and is in good shape.",
+              "previous_match_summary": "Genadi previously beat Michael and believes he can do it again."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Genadi believes it's a 50-50 match. Dzeranov must either hook or deadlift to win, but Laletin's hand strength is a significant factor.",
+          "predicted_duration": null,
+          "style_conflict": "Dzeranov needs to avoid outside pulling to have a chance.",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Laletin has a strong hand and is in good shape.",
+              "health": null,
+              "previous_match_summary": "Laletin has been dominant in previous matches."
+            },
+            "Georgii Dzeranov": {
+              "strength": "Dzeranov is strong but may struggle with Laletin's hand.",
+              "health": null,
+              "previous_match_summary": "Dzeranov beat Revas dominantly."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Alizhan Muratov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Genadi favors Muratov due to his current shape, though Matyushenko is fast and explosive.",
+          "predicted_duration": null,
+          "style_conflict": "Muratov's surge will be tough for Matyushenko to stop.",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Muratov is in better shape currently.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ivan Matyushenko": {
+              "strength": "Matyushenko is fast and explosive.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "King of the Table",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Genadi believes Levan will win due to his size, hand strength, and ability to adjust strategies. He thinks it will be a war but Levan will prevail.",
+          "predicted_duration": null,
+          "style_conflict": "Levan's versatility and hand strength will be key.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Levan is dominant and has refined his skills.",
+              "health": null,
+              "previous_match_summary": "Levan has been unbeatable in recent matches."
+            },
+            "Jerry Cadorette": {
+              "strength": "Jerry is strong but may struggle with Levan's hand.",
+              "health": null,
+              "previous_match_summary": "Jerry has shown good form recently."
+            }
+          }
+        },
+        {
+          "match": [
+            "Nugzari Chikadze",
+            "RavVision Jr."
+          ],
+          "arm": "Right",
+          "event": "King of the Table",
+          "predicted_winner": "Nugzari Chikadze",
+          "predicted_score": null,
+          "prediction_summary": "Genadi favors Chikadze due to his strength and current shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Nugzari Chikadze": {
+              "strength": "Chikadze is tremendously strong.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "RavVision Jr.": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey West",
+            "Kamil Jablonski"
+          ],
+          "arm": "Left",
+          "event": "King of the Table",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Genadi thinks Corey will win but it will be a tough battle.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Corey is in good shape.",
+              "health": null,
+              "previous_match_summary": "Corey performed well in his last match."
+            },
+            "Kamil Jablonski": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Artem Morozov"
+          ],
+          "arm": "Right",
+          "event": "King of the Table",
+          "predicted_winner": "Artem Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Genadi favors Morozov but acknowledges Kurdecha could win. He thinks Morozov is currently in better shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artem Morozov": {
+              "strength": "Morozov is in good shape.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Alex Kurdecha": {
+              "strength": "Kurdecha is strong but may not be at his peak.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Leonidas"
+          ],
+          "arm": "Left",
+          "event": "King of the Table",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Genadi believes Devon must win, as he wants to be the one to beat Devon first.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Devon is strong and must win.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Leonidas": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

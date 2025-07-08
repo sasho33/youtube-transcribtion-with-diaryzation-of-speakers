@@ -1,0 +1,346 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Georgii Dzeranov",
+    "SPEAKER_01": "Georgii Dzeranov (Translator)",
+    "SPEAKER_03": "Kamil Jablonski",
+    "SPEAKER_04": "Host/Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "Georgii Dzeranov": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Daniel Prokopchuk",
+            "Artur Makarov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Artur Makarov",
+          "predicted_score": null,
+          "prediction_summary": "Close fight, leaning slightly towards Makarov due to his larger hand and wrist.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Prokopchuk": {
+              "strength": "Strong, but may struggle against Makarov's wrist.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artur Makarov": {
+              "strength": "Very strong wrist and hand, difficult to pull outside against.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Gennady Kvikvinya",
+            "Ibrahim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Ibrahim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "Sagov is in good shape and has gained weight, while Kvikvinya is cutting weight. Sagov has a chance if he maintains endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Gennady Kvikvinya": {
+              "strength": "Strong character and endurance, but may not be in top shape.",
+              "health": "Recently injured, may not be at 100%.",
+              "previous_match_summary": null
+            },
+            "Ibrahim Sagov": {
+              "strength": "Good shape and power, but endurance could be an issue.",
+              "health": null,
+              "previous_match_summary": "Close match with Rino Masic (4-3)."
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babaev",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "51-49",
+          "prediction_summary": "Close match, but Todd's experience and potential referee leniency give him a slight edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rustam Babaev": {
+              "strength": "Younger, faster, good hook, but recent injuries may hinder him.",
+              "health": "Recent chest injuries.",
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": "Experienced, tricky, can exploit Babaev's injuries.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": "55-45",
+          "prediction_summary": "Vitaly has a strong start and big hand, but needs to finish quickly. If the match goes long, Todd could exploit Vitaly's endurance issues.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Strong start and big hand, but endurance may be an issue at higher weight.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": "Endurance and tricky style, can hang on if the match goes long.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan is highly motivated to prove himself after Ermes stopped him last time. Likely to win, but Ermes will put up a fight.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Dominant power, motivated to prove himself.",
+              "health": null,
+              "previous_match_summary": "Stopped by Ermes in their last match."
+            },
+            "Ermes Gasparini": {
+              "strength": "Very knowledgeable and strong, but may not have enough to beat Levan.",
+              "health": null,
+              "previous_match_summary": "Stopped Levan in their last match."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Vitaly Laletin"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly is stylistically difficult for Devon due to his long fingers and tricky setup.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Tricky and experienced, but may struggle against Vitaly's style.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Vitaly Laletin": {
+              "strength": "Long fingers and tricky setup, difficult for Devon.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Kamil Jablonski": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Daniel Prokopchuk",
+            "Artur Makarov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Artur Makarov",
+          "predicted_score": "51-49",
+          "prediction_summary": "Very close match, slight edge to Makarov due to his larger hand.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Prokopchuk": {
+              "strength": "Strong, but may struggle against Makarov's wrist.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artur Makarov": {
+              "strength": "Large hand and wrist, difficult to pull outside against.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Gennady Kvikvinya",
+            "Ibrahim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Gennady Kvikvinya",
+          "predicted_score": null,
+          "prediction_summary": "Gennady is tricky and may find a way to neutralize Sagov's side pressure.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Gennady Kvikvinya": {
+              "strength": "Tricky and clever, can find ways to win.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ibrahim Sagov": {
+              "strength": "Good side pressure, but may struggle if Gennady avoids his strengths.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Matt's size and hand advantage will make it difficult for Irakli to do anything.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Large frame and hand, difficult to overcome.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Strong, but may struggle against Mask's size.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babaev",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Rustam Babaev",
+          "predicted_score": null,
+          "prediction_summary": "Rustam's strong wrist and hook will neutralize Todd's side pressure.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rustam Babaev": {
+              "strength": "Strong wrist and hook, good stamina.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": "Experienced, but may struggle against Rustam's control.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "55-45",
+          "prediction_summary": "Vitaly needs to be clever and not just rely on flash pins. Todd's technique is dangerous.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Strong start, but may lack the strategy to beat Todd.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": "Tricky technique, can exploit Vitaly's weaknesses.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Very close match, both will be at 100%. Ermes is hungry and Levan is motivated to prove himself.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Dominant power, but Ermes knows how to prepare.",
+              "health": null,
+              "previous_match_summary": "Stopped by Ermes in their last match."
+            },
+            "Ermes Gasparini": {
+              "strength": "Very knowledgeable and strong, growing fast.",
+              "health": null,
+              "previous_match_summary": "Stopped Levan in their last match."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Vitaly Laletin"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly will be fired up and has the power to flash pin Devon.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Experienced, but lacks the stop power to handle Vitaly.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Vitaly Laletin": {
+              "strength": "Fired up and powerful, can flash pin Devon.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Unknown",
+    "SPEAKER_01": "Unknown",
+    "SPEAKER_02": "Levan Saginashvili",
+    "SPEAKER_03": "Engin Terzi"
+  },
+  "date": null,
+  "Levan Saginashvili": {
+    "self_predictions": [
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Levan Saginashvili",
+        "predicted_score": "6-0",
+        "prediction_summary": "Levan predicts a dominant victory over Ermes, stating Ermes has no chance and will likely run away after being defeated.",
+        "predicted_duration": "Quick match",
+        "style_conflict": "Levan criticizes Ermes' training methods, particularly his back pressure technique, calling it useless and not specific to armwrestling.",
+        "opinion_about_athletes": {
+          "Ermes Gasparini": {
+            "strength": "Levan believes Ermes' strength is overrated, especially his back pressure technique.",
+            "health": "No specific comments on health.",
+            "previous_match_summary": "Levan references their previous match where Ermes was injured and ran away after losing."
+          }
+        }
+      }
+    ],
+    "third_party_predictions": [
+      {
+        "match": [
+          "Devon Larratt",
+          "Vitaly Laletin"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Devon Larratt",
+        "predicted_score": null,
+        "prediction_summary": "Levan gives Devon a slight edge (60-40) due to his experience and ability to control the setup and straps.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Levan respects Devon's experience and psychological edge.",
+            "health": "Mentions Devon's back issues affecting his training.",
+            "previous_match_summary": "References Devon's past performances and trash-talking skills."
+          },
+          "Vitaly Laletin": {
+            "strength": "Acknowledges Vitaly's potential for a fast hit.",
+            "health": "No specific comments on health.",
+            "previous_match_summary": "Notes Vitaly's calm demeanor and previous victories."
+          }
+        }
+      },
+      {
+        "match": [
+          "Irakli Zirakashvili",
+          "Todd Hutchings"
+        ],
+        "arm": "Left",
+        "event": "East vs West 18",
+        "predicted_winner": "Irakli Zirakashvili",
+        "predicted_score": null,
+        "prediction_summary": "Levan believes Todd's previous win was due to referee errors and predicts Irakli will win in a fair rematch.",
+        "predicted_duration": null,
+        "style_conflict": "Criticizes Todd's elbow fouls in their previous match.",
+        "opinion_about_athletes": {
+          "Irakli Zirakashvili": {
+            "strength": "Strong fighter spirit.",
+            "health": "No specific comments on health.",
+            "previous_match_summary": "References the controversial loss to Todd."
+          },
+          "Todd Hutchings": {
+            "strength": "No specific comments on strength.",
+            "health": "No specific comments on health.",
+            "previous_match_summary": "Criticizes Todd's behavior and refereeing in their last match."
+          }
+        }
+      }
+    ]
+  },
+  "Engin Terzi": {
+    "self_predictions": [],
+    "third_party_predictions": []
+  }
+}

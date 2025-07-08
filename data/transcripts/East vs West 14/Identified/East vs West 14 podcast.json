@@ -1,0 +1,60 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Unknown"
+  },
+  "date": null,
+  "self_predictions": [],
+  "third_party_predictions": [
+    {
+      "match": [
+        "Jerry Cadorette",
+        "Alex Kurdecha"
+      ],
+      "arm": "Right",
+      "event": "East vs West 14",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "I think Jerry has a chance to beat Kurdecha as much as Kurdecha has a chance to beat him.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Jerry Cadorette": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Alex Kurdecha": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "match": [
+        "John Brzenk",
+        "Leonidas Arkona"
+      ],
+      "arm": "Right",
+      "event": "East vs West 14",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "I don't think he can toy, and I don't think that his only problem is endurance. His hand, wrist is not as it used to be, in my opinion. But if you say best of John, yeah, in his category, he would play with anyone. Maybe not play, but he would just beat, but convincingly.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "John Brzenk": {
+          "strength": null,
+          "health": "His hand, wrist is not as it used to be",
+          "previous_match_summary": null
+        },
+        "Leonidas Arkona": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    }
+  ]
+}

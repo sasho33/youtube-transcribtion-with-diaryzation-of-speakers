@@ -1,0 +1,111 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Malin",
+    "SPEAKER_02": "Dimitrina Petrova",
+    "SPEAKER_03": "Ayane Takenaka",
+    "SPEAKER_04": "Fia"
+  },
+  "date": null,
+  "self_predictions": {
+    "Dimitrina Petrova": [
+      {
+        "match": [
+          "Dimitrina Petrova",
+          "Ayane Takenaka"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "Dimitrina Petrova",
+        "predicted_score": null,
+        "prediction_summary": "Dimitrina expects Ayane to go to the side with some back pressure. She believes if she can curl Ayane, she will flash her. She is confident in her strength and preparation.",
+        "predicted_duration": null,
+        "style_conflict": "Hook vs Side Pressure",
+        "opinion_about_athletes": {
+          "Ayane Takenaka": {
+            "strength": "Very strong, especially in side pressure",
+            "health": null,
+            "previous_match_summary": "Studied Ayane's matches for 10 years, aware of her style"
+          }
+        }
+      }
+    ],
+    "Ayane Takenaka": [
+      {
+        "match": [
+          "Dimitrina Petrova",
+          "Ayane Takenaka"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "Ayane Takenaka",
+        "predicted_score": null,
+        "prediction_summary": "Ayane believes avoiding the hook is key to winning. She has been training with stronger male opponents to replicate Dimitrina's strength.",
+        "predicted_duration": null,
+        "style_conflict": "Avoiding Hook",
+        "opinion_about_athletes": {
+          "Dimitrina Petrova": {
+            "strength": "Strong in hook, dominant in lower weight classes",
+            "health": null,
+            "previous_match_summary": "Aware of Dimitrina's dominance and style"
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Fia": [
+      {
+        "match": [
+          "Barbora Bajčiová",
+          "Egle Vaitkute"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "Egle Vaitkute",
+        "predicted_score": null,
+        "prediction_summary": "Fia thinks Egle is in great shape and if she is at her top form, she will win the match.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Barbora Bajčiová": {
+            "strength": "Strong but weight difference might be a factor",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Egle Vaitkute": {
+            "strength": "Very strong, confident, and in great shape",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ],
+    "Ayane Takenaka": [
+      {
+        "match": [
+          "Barbora Bajčiová",
+          "Egle Vaitkute"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "Barbora Bajčiová",
+        "predicted_score": null,
+        "prediction_summary": "Ayane thinks the weight difference will be too much for Egle, giving Barbora the advantage.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Barbora Bajčiová": {
+            "strength": "Strong due to weight advantage",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Egle Vaitkute": {
+            "strength": "Strong but may not overcome weight difference",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ]
+  }
+}

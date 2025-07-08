@@ -1,0 +1,290 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Unknown",
+    "SPEAKER_01": "Devon Larratt",
+    "SPEAKER_02": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "Devon Larratt": {
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon believes it will be a close match but gives himself a slight edge (53-56% chance of victory). He cites his hand size, arm length, and experience as advantages, while acknowledging Petrenko's explosiveness, strength, and youth.",
+          "predicted_duration": null,
+          "style_conflict": "Devon plans to secure hand position and potentially give away the center, aiming to stop Petrenko and wear him down over the rounds.",
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": "Extremely strong, especially at the center.",
+              "health": "Assumed to be in good health.",
+              "previous_match_summary": "Dominant in recent matches, current world title holder."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Brigitta Ivánfi",
+            "Irina Gladkaya"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Irina Gladkaya",
+          "predicted_score": null,
+          "prediction_summary": "Devon favors Irina due to her long-standing dominance and experience, despite Brigitta being more active recently.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Brigitta Ivánfi": {
+              "strength": "Active and strong.",
+              "health": "Assumed good.",
+              "previous_match_summary": "More active recently."
+            },
+            "Irina Gladkaya": {
+              "strength": "Historically dominant.",
+              "health": "Looks ready based on recent photos.",
+              "previous_match_summary": "Returning after a break."
+            }
+          }
+        },
+        {
+          "match": [
+            "Nugzari Chikadze",
+            "Oguzhan Koçak"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Oguzhan Koçak",
+          "predicted_score": null,
+          "prediction_summary": "Devon acknowledges Nugzari's unique style but believes Oguzhan's size and past wins make him the favorite, despite recent inactivity.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Nugzari Chikadze": {
+              "strength": "Unique and technically skilled.",
+              "health": "Assumed good.",
+              "previous_match_summary": "Youth champion, known for his head movement technique."
+            },
+            "Oguzhan Koçak": {
+              "strength": "Big and strong, with significant past wins.",
+              "health": "Inactive recently but assumed ready.",
+              "previous_match_summary": "Has beaten top competitors like Barbosa and Tautiev."
+            }
+          }
+        },
+        {
+          "match": [
+            "Danil Ustinov",
+            "Azat Srapyan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Danil Ustinov",
+          "predicted_score": null,
+          "prediction_summary": "Devon is impressed by Danil's strength and focus, predicting a win despite Azat being the current 70kg world champion.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Danil Ustinov": {
+              "strength": "Extremely strong for his weight.",
+              "health": "Looks healthy and focused.",
+              "previous_match_summary": "75kg world champion, young and rising."
+            },
+            "Azat Srapyan": {
+              "strength": "Strong, current 70kg world champion.",
+              "health": "Assumed good.",
+              "previous_match_summary": "Experienced and accomplished."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Ömer Kozakoğlu"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Ömer Kozakoğlu",
+          "predicted_score": null,
+          "prediction_summary": "Devon sees Ömer as a future dominant champion due to his physical attributes and technique, despite Artur's strength and experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": "Very strong, claims to be 25% stronger than before.",
+              "health": "Assumed good.",
+              "previous_match_summary": "Beat Mindaugas, known for unique genetics."
+            },
+            "Ömer Kozakoğlu": {
+              "strength": "Tall and technically skilled.",
+              "health": "Young and assumed healthy.",
+              "previous_match_summary": "Rising star with potential to dominate."
+            }
+          }
+        },
+        {
+          "match": [
+            "Dimitrina Petrova",
+            "Carolina Pettersson"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Carolina Pettersson",
+          "predicted_score": null,
+          "prediction_summary": "Devon favors Carolina based on her recent progress and results, though he acknowledges Dimitrina's capabilities.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dimitrina Petrova": {
+              "strength": "Strong but less followed by Devon.",
+              "health": "Assumed good.",
+              "previous_match_summary": "Experienced competitor."
+            },
+            "Carolina Pettersson": {
+              "strength": "Progressing well, strong recent performances.",
+              "health": "Assumed good.",
+              "previous_match_summary": "Won recent competitions, showing improvement."
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Devon believes Betkili's health, strength, and progress since their last match make him the favorite, though Oleg's legendary status is acknowledged.",
+          "predicted_duration": null,
+          "style_conflict": "Betkili may top roll Oleg by later rounds.",
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Very strong, healthy, and improving.",
+              "health": "Looks very healthy.",
+              "previous_match_summary": "Progressed significantly since last match with Oleg."
+            },
+            "Oleg Zhokh": {
+              "strength": "Legendary hand strength, but possibly not at pre-accident level.",
+              "health": "Assumed good but not peak.",
+              "previous_match_summary": "Legend of the sport, but may not be at his best."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Devon finds this match very hard to call, noting Todd's current form but also Yoshi's potential and past excellence. He sees it as a potential war.",
+          "predicted_duration": null,
+          "style_conflict": "Yoshi's kings move could be key against Todd's lack of press.",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Hot and killing it currently.",
+              "health": "Assumed good.",
+              "previous_match_summary": "In excellent form."
+            },
+            "Yoshinobu Kanai": {
+              "strength": "Historically very strong, especially in kings move.",
+              "health": "Assumed good if he's returning.",
+              "previous_match_summary": "Former top competitor, returning after a break."
+            }
+          }
+        },
+        {
+          "match": [
+            "Rino Mašić",
+            "Ibragim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Rino Mašić",
+          "predicted_score": null,
+          "prediction_summary": "Devon gives Rino a slight edge due to his technical skills and arm wrestling IQ, despite Ibragim's physical strength.",
+          "predicted_duration": null,
+          "style_conflict": "Rino's versatility and endurance may prevail over Ibragim's raw strength.",
+          "opinion_about_athletes": {
+            "Rino Mašić": {
+              "strength": "Technically skilled, high arm wrestling IQ.",
+              "health": "Young and assumed healthy.",
+              "previous_match_summary": "20-year-old rising star."
+            },
+            "Ibragim Sagov": {
+              "strength": "Physically impressive, very strong.",
+              "health": "Assumed good.",
+              "previous_match_summary": "Dominant in recent matches, strong fingers."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Devon leans towards Vitalii due to his experience and past performances, though he acknowledges Georgii's shocking strength and potential.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Experienced and strong.",
+              "health": "Assumed good.",
+              "previous_match_summary": "Close match with Rivas, historically strong."
+            },
+            "Georgii Dzeranov": {
+              "strength": "Extremely strong, shocked many with recent performance.",
+              "health": "Assumed good.",
+              "previous_match_summary": "Dominant win over Rivas, rising hype."
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin expresses concern about Michael Todd's heavy PRs close to the match, noting his astronomical strength but potential risk of injury or overtraining.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Astronomical, possibly unmatched.",
+              "health": "At risk due to heavy training close to match.",
+              "previous_match_summary": "One of the sport's greatest champions."
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Strong, but facing a peak Michael Todd.",
+              "health": "Assumed good.",
+              "previous_match_summary": "Experienced competitor."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

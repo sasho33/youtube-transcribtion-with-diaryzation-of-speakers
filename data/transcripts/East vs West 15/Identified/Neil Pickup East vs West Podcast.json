@@ -1,0 +1,272 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Neil Pickup",
+    "SPEAKER_04": "Neil Pickup"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Neil Pickup",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Nugzari Chikadze",
+            "Rob Vigeant"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Rob Vigeant",
+          "predicted_score": null,
+          "prediction_summary": "Believes Rob's hand and wrist dominance will be key, especially without the strap. If the match goes to the strap, Nugzari might have an advantage.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hand and wrist control",
+          "opinion_about_athletes": {
+            "Nugzari Chikadze": {
+              "strength": "Strong on the inside, leverage advantage",
+              "health": null,
+              "previous_match_summary": "Entertaining and endearing arm wrestler, ignites the crowd"
+            },
+            "Rob Vigeant": {
+              "strength": "Dominant hand and wrist, versatile",
+              "health": null,
+              "previous_match_summary": "If at his best, can win; loses only if not at his best"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Artem Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Slight edge to Kurdecha due to speed in the top roll. If it turns into a long battle, Morozov might have an endurance advantage.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs versatility",
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Extremely powerful, quick initiation",
+              "health": null,
+              "previous_match_summary": "Unbelievably dangerous in orthodox arm wrestling"
+            },
+            "Artem Morozov": {
+              "strength": "Versatile, comfortable in any position",
+              "health": null,
+              "previous_match_summary": "Real athlete, slight endurance benefit"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Leonidas Arkona"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon's pronation control, endurance, and experience make him a significant favorite. Leonidas is fearless but may lack the experience to handle Devon's versatility.",
+          "predicted_duration": null,
+          "style_conflict": "Pronation control vs speed",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Exceptional endurance, versatile",
+              "health": "Not in the best condition currently",
+              "previous_match_summary": "Horrible to arm wrestle due to many options"
+            },
+            "Leonidas Arkona": {
+              "strength": "Fast, strong, fearless",
+              "health": null,
+              "previous_match_summary": "On a tear, genuine strength pedigree"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ivan Matyushenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan's explosivity and multiple hits give him a slight edge. Ivan's mental game might be a factor as he doesn't see himself as a favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Explosivity vs fluidity",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Explosive, confident, aggressive",
+              "health": null,
+              "previous_match_summary": "Looks like he's in a class of his own"
+            },
+            "Ivan Matyushenko": {
+              "strength": "Incredibly fluid, fast wrist",
+              "health": null,
+              "previous_match_summary": "Humble, underrates himself, brutal arm wrestler"
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Betkili's confidence and swagger make him a slight favorite. Oleg needs to stop rolling to have a chance.",
+          "predicted_duration": null,
+          "style_conflict": "Confidence vs technique",
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Confident, aggressive, swagger",
+              "health": null,
+              "previous_match_summary": "One of the favorite arm wrestlers, mega dangerous"
+            },
+            "Oleg Zhokh": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Needs to stop rolling to compete"
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Both are incredibly tough with huge hearts. The match is expected to be a long, drawn-out war with no clear dominance from either side.",
+          "predicted_duration": "Long, drawn-out war",
+          "style_conflict": "Defensive vs offensive",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Best defensive arm wrestler, huge heart",
+              "health": null,
+              "previous_match_summary": "Unbelievable defensive puller, never gives up"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Teflon, nothing bothers him, focused",
+              "health": null,
+              "previous_match_summary": "Incredible in long matches, battles"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii is the favorite due to his orthodox style and being the most dangerous threat in the orthodox crop. Georgii is a unique challenge but Vitalii's experience and strength give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Orthodox vs unique",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Most dangerous orthodox threat",
+              "health": null,
+              "previous_match_summary": "Nearest orthodox threat to Levan"
+            },
+            "Georgii Dzeranov": {
+              "strength": "Built like a giant blacksmith, thick",
+              "health": null,
+              "previous_match_summary": "Unique, unorthodox, very confident"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Nugzari Chikadze",
+            "Rob Vigeant"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Believes Rob is a close friend's son and is interested in how the match will go. Thinks Nugzari is very good but Rob might have an edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Nugzari Chikadze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Very good, entertaining"
+            },
+            "Rob Vigeant": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Close friend's son, interested in his performance"
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Considers this one of the most exciting matches. Both have huge hearts and the match is expected to be a war with no clear dominance.",
+          "predicted_duration": "War-like",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Huge heart, defensive",
+              "health": null,
+              "previous_match_summary": "Unbelievable defensive puller"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Focused, nothing bothers him",
+              "health": null,
+              "previous_match_summary": "Incredible in long matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ivan Matyushenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Believes this is one of the best left-arm matches ever. Thinks Ivan needs a fast start to win; if not, Alizhan's endurance might prevail.",
+          "predicted_duration": null,
+          "style_conflict": "Fast start vs endurance",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Fearless, aggressive",
+              "health": null,
+              "previous_match_summary": "Looks like a real killer"
+            },
+            "Ivan Matyushenko": {
+              "strength": "Fast wrist, fluid",
+              "health": null,
+              "previous_match_summary": "Humble, underrates himself"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

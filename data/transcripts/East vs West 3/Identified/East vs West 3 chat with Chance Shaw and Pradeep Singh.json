@@ -1,0 +1,304 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Pradeep Singh",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Chance Shaw",
+    "SPEAKER_04": "Chance Shaw"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Chance Shaw",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Marcio Barboza",
+            "Sahip Çağlar"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Sahip Çağlar",
+          "predicted_score": null,
+          "prediction_summary": "Chance believes Sahip Çağlar will control Marcio's hand and wrist, taking it outside.",
+          "predicted_duration": null,
+          "style_conflict": "Outside control vs. Marcio's potential hook",
+          "opinion_about_athletes": {
+            "Marcio Barboza": {
+              "strength": "Strong, but may struggle against Sahip's control",
+              "health": null,
+              "previous_match_summary": "Lost to Fresh in Florida, but looked strong in other events."
+            },
+            "Sahip Çağlar": {
+              "strength": "Very strong left arm, good hand control",
+              "health": null,
+              "previous_match_summary": "Top-rolled Prudnik once and was hooked by Prudnik in another practice match."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "İrakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Chance thinks Todd will win by endurance, not domination, and İrakli should avoid going inside.",
+          "predicted_duration": null,
+          "style_conflict": "Side pressure vs. pronation control",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong side pressure, endurance",
+              "health": null,
+              "previous_match_summary": "Recently beat Chance Shaw in a tough match."
+            },
+            "İrakli Zirakashvili": {
+              "strength": "Strong pronator, young and progressing",
+              "health": null,
+              "previous_match_summary": "Gave Sasho a hard time, but struggled with side pressure."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "3-0",
+          "prediction_summary": "Chance believes Dave is stronger and may sweep if Genadi can't close the strength gap early.",
+          "predicted_duration": null,
+          "style_conflict": "Dave's side pressure vs. Genadi's endurance",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Well-rounded, good endurance",
+              "health": null,
+              "previous_match_summary": "Beat Michael Todd dominantly recently."
+            },
+            "Dave Chaffee": {
+              "strength": "Incredible side pressure, strong wrist",
+              "health": null,
+              "previous_match_summary": "Beat Alex Kurdecha and looked in great form."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Chance thinks John will control the match anywhere he wants and take Zurab's wrist.",
+          "predicted_duration": null,
+          "style_conflict": "John's wrist control vs. Zurab's side pressure",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Elite wrist control, experience",
+              "health": null,
+              "previous_match_summary": "Recently beat Paul Linn and looked strong."
+            },
+            "Zurab Tavberidze": {
+              "strength": "Strong side pressure, bicep",
+              "health": null,
+              "previous_match_summary": "Beat Brita recently but may struggle against John's control."
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Chance gives Prudnik a 65-35 edge, thinking Matt may take the first round but Prudnik's endurance will prevail.",
+          "predicted_duration": null,
+          "style_conflict": "Matt's wrist control vs. Prudnik's endurance",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Strong wrist, difficult to hook",
+              "health": null,
+              "previous_match_summary": "Recently trained well but may lack endurance."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Battle-tested, good endurance",
+              "health": null,
+              "previous_match_summary": "Recently performed well in high-level matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Matt Mask"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Chance thinks Morozov's posting top roll will be too much for Matt left-handed.",
+          "predicted_duration": null,
+          "style_conflict": "Morozov's top roll vs. Matt's wrist control",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Strong top roll, speed",
+              "health": null,
+              "previous_match_summary": "Recently pulled Tobias Sporrong left-handed."
+            },
+            "Matt Mask": {
+              "strength": "Good wrist control",
+              "health": null,
+              "previous_match_summary": "Recently trained well left-handed."
+            }
+          }
+        },
+        {
+          "match": [
+            "Krasimir Kostadinov",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Chance leans towards Krasimir but acknowledges Arif's past wins and current size advantage.",
+          "predicted_duration": null,
+          "style_conflict": "Arif's size vs. Krasimir's experience",
+          "opinion_about_athletes": {
+            "Krasimir Kostadinov": {
+              "strength": "Experienced, strong",
+              "health": null,
+              "previous_match_summary": "Recently struggled in practice against Georgi."
+            },
+            "Arif Ertem": {
+              "strength": "Very heavy, strong",
+              "health": null,
+              "previous_match_summary": "Has beaten Krasimir multiple times in the past."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Dave is stronger but if the match goes to endurance, Genadi may have a chance.",
+          "predicted_duration": null,
+          "style_conflict": "Dave's side pressure vs. Genadi's endurance",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "More well-rounded, good endurance",
+              "health": null,
+              "previous_match_summary": "Beat Michael Todd recently."
+            },
+            "Dave Chaffee": {
+              "strength": "Stronger, better side pressure",
+              "health": null,
+              "previous_match_summary": "Beat Alex Kurdecha dominantly."
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Engin roots for Michael but is unsure about Revaz's level.",
+          "predicted_duration": null,
+          "style_conflict": "Michael's old style vs. Revaz's unknown style",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Improving, fixing riser and pronator",
+              "health": null,
+              "previous_match_summary": "Recently practiced well with Derek Smith."
+            },
+            "Revaz Lutidze": {
+              "strength": "Unknown",
+              "health": null,
+              "previous_match_summary": "Not much known about recent performances."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Pradeep Singh",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "Davit Samushia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Pradeep gives Paul a slight edge due to his strict weight management and recent form.",
+          "predicted_duration": null,
+          "style_conflict": "Paul's size vs. Samushia's inside strength",
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Strong inside, good weight management",
+              "health": null,
+              "previous_match_summary": "Recently beat Ron Bath and performed well against John Brzenk."
+            },
+            "Davit Samushia": {
+              "strength": "Strong inside, smaller frame",
+              "health": null,
+              "previous_match_summary": "Gave Sandris a hard match at 78kg, now heavier."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Matt Mask"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Pradeep thinks Morozov's all-around game and speed will be too much for Matt left-handed.",
+          "predicted_duration": null,
+          "style_conflict": "Morozov's speed vs. Matt's wrist control",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Strong, fast",
+              "health": null,
+              "previous_match_summary": "Recently pulled Tobias Sporrong left-handed."
+            },
+            "Matt Mask": {
+              "strength": "Good wrist control",
+              "health": null,
+              "previous_match_summary": "Recently trained well left-handed."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

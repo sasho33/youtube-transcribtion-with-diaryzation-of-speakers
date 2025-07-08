@@ -1,0 +1,171 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Unknown",
+    "SPEAKER_01": "Unknown",
+    "SPEAKER_03": "Alex Kurdecha",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "Alex Kurdecha": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Interested in the match as it will show the level difference between West and East.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Won against Ermes Gasparini."
+            },
+            "Michael Todd": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Known for his unique style and endurance."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Believes it will be an equal and interesting match, but gives a slight edge to John due to personal bias.",
+          "predicted_duration": "Long",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Legend with extensive experience."
+            },
+            "Khadzimurat Zoloev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Great hooker with strong performances."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yordan Tsonev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Gives Todd an edge based on previous performances but hopes Yordan can surprise.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Strong performances, including a win over Krasimir."
+            },
+            "Yordan Tsonev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Technically amazing with good endurance."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Šedis",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Sandris Šedis",
+          "predicted_score": null,
+          "prediction_summary": "Believes Sandris is more experienced and knows how to use his power better.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Šedis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "More experienced and technically sound."
+            },
+            "Chance Shaw": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Beautiful athlete but needs more time to reach top level."
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Believes Arif is underrated and could surprise Ermes with his style.",
+          "predicted_duration": null,
+          "style_conflict": "Different than expected (not just top roll vs top roll).",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Strong young athlete with a bright future."
+            },
+            "Arif Ertem": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Won WAF and has improved significantly."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Betkili Oniani"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Expects a surprise as Betkili is strong at 90kg and Oleg is coming back from injury.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Won European titles but returning from injury."
+            },
+            "Betkili Oniani": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Strong at 90kg with good hook ability."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

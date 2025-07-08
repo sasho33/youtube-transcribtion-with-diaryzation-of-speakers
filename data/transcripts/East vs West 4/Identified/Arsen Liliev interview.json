@@ -1,0 +1,314 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Raimonds Liepiņš",
+    "SPEAKER_02": "Arsen Liliev"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Arsen Liliev",
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Ongarbaev is one of the most technical and motivated, but it won't be an easy walk for John. If Ongarbaev shows his form from the top 8, it will be a close fight.",
+          "predicted_duration": null,
+          "style_conflict": "Flat wrist, back pressure and pronator battle",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "High",
+              "health": null,
+              "previous_match_summary": "Experienced and technical"
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Technical and motivated",
+              "health": "Post-surgery condition unknown",
+              "previous_match_summary": "Strong performance in top 8"
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "3-0",
+          "prediction_summary": "Prudnik is very technical and smart. If he chooses not to let Todd Hutchings get inside, it will be convincing wins.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik's technical superiority over Hutchings' inside game",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Technical and intelligent",
+              "health": null,
+              "previous_match_summary": "Well-rounded with hand control"
+            },
+            "Todd Hutchings": {
+              "strength": "Strong inside puller",
+              "health": null,
+              "previous_match_summary": "Close friend but likely outmatched"
+            }
+          }
+        },
+        {
+          "match": [
+            "Chance Shaw",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "50-50 due to huge weight difference. Zurab is strong but Chance has been progressing fast.",
+          "predicted_duration": null,
+          "style_conflict": "Inner side pressure vs wrist control side pressure",
+          "opinion_about_athletes": {
+            "Chance Shaw": {
+              "strength": "Natural big frame",
+              "health": null,
+              "previous_match_summary": "Rapid progression"
+            },
+            "Zurab Tavberidze": {
+              "strength": "Building muscle",
+              "health": null,
+              "previous_match_summary": "Needs time to adapt to new weight"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave Chaffee is a clear favorite. Artyom hasn't yet gained the strength he will have in 5-7 years.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Developing",
+              "health": null,
+              "previous_match_summary": "Young and improving"
+            },
+            "Dave Chaffee": {
+              "strength": "Strong and experienced",
+              "health": null,
+              "previous_match_summary": "Consistent performer"
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Genadi is a favorite due to being well-rounded. Jerry needs an incredible start to win.",
+          "predicted_duration": null,
+          "style_conflict": "Jerry's flop wrist press vs Genadi's versatility",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Strong start",
+              "health": null,
+              "previous_match_summary": "One-dimensional but powerful"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Versatile",
+              "health": null,
+              "previous_match_summary": "Can hook or top roll"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Krasimir Kostadinov",
+          "predicted_score": null,
+          "prediction_summary": "If it's a war, Krasimir has more endurance and character to win.",
+          "predicted_duration": null,
+          "style_conflict": "Strap match likely",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Needs to win fairly easy"
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Endurance and willpower",
+              "health": null,
+              "previous_match_summary": "Used to tough fights"
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": null,
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 4",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": null,
+          "prediction_summary": "Dadikyan is physically strong but mentally may not reach top level. Weight drop is a big disadvantage.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Physically incredible",
+              "health": null,
+              "previous_match_summary": "Losing 10 kilos for the match"
+            },
+            "Oleg Zhokh": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Experienced"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John is the favorite if the match is flat wrist and pronator battle.",
+          "predicted_duration": null,
+          "style_conflict": "Flat wrist and pronator battle",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experienced and technical",
+              "health": null,
+              "previous_match_summary": "Consistent performer"
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Technical",
+              "health": null,
+              "previous_match_summary": "Needs full control to win"
+            }
+          }
+        },
+        {
+          "match": [
+            "Chance Shaw",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Chance Shaw",
+          "predicted_score": null,
+          "prediction_summary": "Chance has better positions to win. Zurab folds his hand a lot.",
+          "predicted_duration": null,
+          "style_conflict": "Inner side pressure vs wrist control side pressure",
+          "opinion_about_athletes": {
+            "Chance Shaw": {
+              "strength": "Takes hand easily",
+              "health": null,
+              "previous_match_summary": "Big frame advantage"
+            },
+            "Zurab Tavberidze": {
+              "strength": "Strong but adapting to weight",
+              "health": null,
+              "previous_match_summary": "Folds hand often"
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Genadi is favorite for being well-rounded. Jerry needs to be incredibly strong to win.",
+          "predicted_duration": null,
+          "style_conflict": "Jerry's flop wrist press vs Genadi's versatility",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Strong start",
+              "health": null,
+              "previous_match_summary": "One-dimensional"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Versatile",
+              "health": null,
+              "previous_match_summary": "Can hook or top roll"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Raimonds Liepiņš",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Genadi has a lot of options. Jerry is one-dimensional.",
+          "predicted_duration": null,
+          "style_conflict": "Jerry's flop wrist press vs Genadi's versatility",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Strong start",
+              "health": null,
+              "previous_match_summary": "One-dimensional"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Versatile",
+              "health": null,
+              "previous_match_summary": "Can hook or top roll"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

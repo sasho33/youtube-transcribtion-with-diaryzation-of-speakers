@@ -1,0 +1,106 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Irakli Zirakashvili",
+    "SPEAKER_01": "Roman",
+    "SPEAKER_02": "Matt Mask",
+    "SPEAKER_03": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "Irakli Zirakashvili": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli believes his left arm will be in very good shape and warns Matt not to underestimate it.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Irakli mentions that Matt has been calling him out and that he will 'water his fire and smoke him' if challenged."
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli implies Levan will dominate Ermes, suggesting Ermes is daydreaming about winning.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Extremely strong, especially in back pressure",
+              "health": null,
+              "previous_match_summary": "Irakli mentions sparring with Levan and finding him very heavy and tough to handle."
+            },
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Irakli jokes about Ermes being a 'dreamy guy' and not facing the current version of Levan."
+            }
+          }
+        }
+      ]
+    },
+    "Matt Mask": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Matt is confident and challenges Irakli to a left-arm match, joking about the outcome.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Matt mentions Irakli hasn't pulled left arm in years and jokes about making him quit left-arm wrestling."
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Matt believes Levan is the strongest armwrestler of all time, comparing him to Prime Suplinkov.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Strongest right now, capable of lifting more than most men can bench press",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

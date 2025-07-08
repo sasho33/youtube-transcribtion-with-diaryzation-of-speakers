@@ -1,0 +1,144 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "John Brzenk",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "John Brzenk": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Dave Chaffee",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave has proven he can beat Genadi before and is favored due to his strength and hand control. Genadi has a chance but lacks the horsepower to deal with Dave.",
+          "predicted_duration": null,
+          "style_conflict": "Dave's strength vs Genadi's back pressure and top roll",
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Extremely strong, only a few can match his hand strength",
+              "health": null,
+              "previous_match_summary": "Has beaten Genadi before and performs well in super matches"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Good back pressure and top roller but lacks the horsepower to deal with Dave",
+              "health": null,
+              "previous_match_summary": "Has been competitive but struggles against top-tier strength"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "İrakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "İrakli has good chances to top-roll Todd, but Todd is a fighter and will likely win if the match goes to straps. İrakli may win early rounds but Todd will come back.",
+          "predicted_duration": null,
+          "style_conflict": "İrakli's top roll vs Todd's fighting spirit and strap prowess",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong fighter, can win even with a straight or broken wrist",
+              "health": null,
+              "previous_match_summary": "Known for comebacks in strap matches"
+            },
+            "İrakli Zirakashvili": {
+              "strength": "Good top roller, showed strength against Tasho",
+              "health": null,
+              "previous_match_summary": "Performed well against Tasho but may struggle to finish Todd"
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Tobias Sporrong",
+          "predicted_score": null,
+          "prediction_summary": "Tobias has a strong hand and height advantage. Matt may struggle to top roll him and lacks the horsepower to hook him.",
+          "predicted_duration": null,
+          "style_conflict": "Tobias's strong hand vs Matt's reliance on height and outside moves",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Relies on height and outside moves",
+              "health": null,
+              "previous_match_summary": "Struggles against strong hand control"
+            },
+            "Tobias Sporrong": {
+              "strength": "Very strong hand, hard to top roll",
+              "health": null,
+              "previous_match_summary": "Morozov had to hook him to win"
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Dave Chaffee",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave's wrist may not handle the pressure if Genadi gets his pronator working, but Dave is still the favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Dave's strength vs Genadi's pronator and top roll",
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Extremely strong, hard to beat if he maintains hand control",
+              "health": null,
+              "previous_match_summary": "Struggles when his wrist is compromised"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Good pronator and top roller",
+              "health": null,
+              "previous_match_summary": "Can be dangerous if he gets his pronator working"
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Tobias Sporrong",
+          "predicted_score": null,
+          "prediction_summary": "Tobias's strong hand will make it difficult for Matt to top roll him. Matt may not have the inside game to hook him.",
+          "predicted_duration": null,
+          "style_conflict": "Tobias's hand strength vs Matt's outside moves",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Relies on outside moves",
+              "health": null,
+              "previous_match_summary": "Struggles against strong hand control"
+            },
+            "Tobias Sporrong": {
+              "strength": "Very strong hand, hard to top roll",
+              "health": null,
+              "previous_match_summary": "Morozov had to hook him to win"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

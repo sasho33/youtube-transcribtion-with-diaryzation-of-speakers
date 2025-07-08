@@ -1,0 +1,165 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Ermes Gasparini"
+  },
+  "date": null,
+  "predictions": {
+    "Ermes Gasparini": {
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes he is stronger now compared to his last match with Levan, with improved pronation and rising. He feels confident in stopping Levan and winning if he can control the match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Incredible",
+              "health": null,
+              "previous_match_summary": "Gave Levan the toughest match in his professional career."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks the match will be close and expects Corey West to give Devon a serious trouble due to his strong side pressure.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong hand control",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Corey West": {
+              "strength": "Very strong side pressure",
+              "health": null,
+              "previous_match_summary": "Dominant in strapped rounds against Tobias."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes John Brzenk will win but it will be a very hard match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Can use all techniques",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Yoshinobu Kanai": {
+              "strength": "Similar to Michael Todd",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks if the match goes harder and longer, Georgi will win, but it depends on the position.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Strong press",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": "Strong side pressure",
+              "health": "Healthier than before",
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "55-60 to Devon",
+          "prediction_summary": "Engin expects the match to go strapped and be close, with Corey West posing a serious challenge due to his strong side pressure.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong hand control",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Corey West": {
+              "strength": "Very strong side pressure",
+              "health": null,
+              "previous_match_summary": "Dominant in strapped rounds against Tobias."
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": "50-50",
+          "prediction_summary": "Engin thinks it will be a big war, with Georgi having the edge if the match goes longer, but Dave's side pressure could be decisive.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Doesn't like side pressure",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": "Strong side pressure",
+              "health": "Healthier than before",
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

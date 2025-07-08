@@ -1,0 +1,143 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": null,
+    "SPEAKER_01": "Barbora Bajčiová",
+    "SPEAKER_02": null,
+    "SPEAKER_03": "Egle Vaitkute",
+    "SPEAKER_04": "Fia"
+  },
+  "date": null,
+  "predictions": {
+    "Barbora Bajčiová": {
+      "self_predictions": [
+        {
+          "match": [
+            "Barbora Bajčiová",
+            "Egle Vaitkute"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Barbora Bajčiová",
+          "predicted_score": "4-0",
+          "prediction_summary": "Barbora is confident in her strength and power, predicting a clean sweep.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Egle Vaitkute": {
+              "strength": "Egle is strong and versatile, but Barbora believes in her own progress and power.",
+              "health": null,
+              "previous_match_summary": "Barbora recalls a training session with Egle three years ago but notes her own significant progress since then."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Carolina Pettersson",
+            "Olga Terpelova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Barbora did not provide a clear prediction but acknowledged Carolina's technique and Olga's recent form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Carolina Pettersson": {
+              "strength": "Very technical and smart at the table.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Olga Terpelova": {
+              "strength": "Good shape but hasn't competed much recently.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Dimitrina Petrova",
+            "Ayane Takenaka"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Dimitrina Petrova",
+          "predicted_score": null,
+          "prediction_summary": "Barbora thinks Dimitrina will win, noting Ayane's short arm but acknowledging her strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dimitrina Petrova": {
+              "strength": "Can pull on the outside.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ayane Takenaka": {
+              "strength": "Really strong.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Egle Vaitkute": {
+      "self_predictions": [
+        {
+          "match": [
+            "Egle Vaitkute",
+            "Barbora Bajčiová"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Egle Vaitkute",
+          "predicted_score": null,
+          "prediction_summary": "Egle is confident in her strength and versatility, feeling like an 'animal' currently.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Barbora Bajčiová": {
+              "strength": "Egle acknowledges Barbora's power but believes in her own ability to adapt.",
+              "health": null,
+              "previous_match_summary": "Egle notes they have never competed before, making it hard to predict."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": []
+    },
+    "Fia": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Barbora Bajčiová",
+            "Egle Vaitkute"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Fia believes Egle has more experience and knowledge, while Barbora has weight and power.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Barbora Bajčiová": {
+              "strength": "Weight and power.",
+              "health": null,
+              "previous_match_summary": "Has not been challenged by many strong girls recently."
+            },
+            "Egle Vaitkute": {
+              "strength": "Knowledge and versatility.",
+              "health": null,
+              "previous_match_summary": "Has pulled many different girls and has few losses."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

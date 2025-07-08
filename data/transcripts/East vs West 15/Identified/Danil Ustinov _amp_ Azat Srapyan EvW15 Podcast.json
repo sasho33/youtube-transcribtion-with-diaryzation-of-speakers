@@ -1,0 +1,384 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Danil Ustinov",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Azat Srapyan",
+    "SPEAKER_03": "Translator",
+    "SPEAKER_04": "Host"
+  },
+  "date": null,
+  "self_predictions": {
+    "Danil Ustinov": [
+      {
+        "match": [
+          "Danil Ustinov",
+          "Azat Srapyan"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Danil Ustinov",
+        "predicted_score": "50-50",
+        "prediction_summary": "Danil believes it will be a very spectacular and beautiful fight, with no injuries. He is confident in his preparation and thinks he will win.",
+        "predicted_duration": null,
+        "style_conflict": "Outside pullers, Danil with back pressure and sideways, Azat with strong hand and wrist.",
+        "opinion_about_athletes": {
+          "Azat Srapyan": {
+            "strength": "Strong hand and wrist",
+            "health": null,
+            "previous_match_summary": "Dominant performance at WAF"
+          }
+        }
+      }
+    ],
+    "Azat Srapyan": [
+      {
+        "match": [
+          "Danil Ustinov",
+          "Azat Srapyan"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Azat Srapyan",
+        "predicted_score": null,
+        "prediction_summary": "Azat believes he can open Danil's wrist due to his strong hand and wrist, making it a good stylistic match for him.",
+        "predicted_duration": null,
+        "style_conflict": "Outside pullers, Azat with strong hand and wrist, Danil with back pressure and sideways.",
+        "opinion_about_athletes": {
+          "Danil Ustinov": {
+            "strength": "Back pressure and sideways",
+            "health": null,
+            "previous_match_summary": "Dominant performance at WAF"
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Danil Ustinov": [
+      {
+        "match": [
+          "Brigitta Ivánfi",
+          "Irina Gladkaya"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Irina Gladkaya",
+        "predicted_score": null,
+        "prediction_summary": "Danil thinks Irina Gladkaya will win.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Artur Makarov",
+          "Ömer Kozakoğlu"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Artur Makarov",
+        "predicted_score": null,
+        "prediction_summary": "Danil believes Artur will win with his side pressure.",
+        "predicted_duration": null,
+        "style_conflict": "Side pressure vs. wrist",
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Davit Samushia",
+          "Vladimir Maiorov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Vladimir Maiorov",
+        "predicted_score": null,
+        "prediction_summary": "Danil is on Maiorov's side, thinking it will be interesting to have a new world champion.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Dimitrina Petrova",
+          "Carolina Pettersson"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Carolina Pettersson",
+        "predicted_score": null,
+        "prediction_summary": "Danil thinks Carolina will win, though he is not sure about their styles.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Irakli Zirakashvili",
+          "Georgii Tautiev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Irakli Zirakashvili",
+        "predicted_score": null,
+        "prediction_summary": "Danil thinks it will be a tough match, with the winner being the more endurable one.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Betkili Oniani",
+          "Oleg Zhokh"
+        ],
+        "arm": "Left",
+        "event": "East vs West 15",
+        "predicted_winner": "Betkili Oniani",
+        "predicted_score": null,
+        "prediction_summary": "Danil thinks Betkili will win, but it will be a very hard match.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Oleg Petrenko"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Oleg Petrenko",
+        "predicted_score": null,
+        "prediction_summary": "Danil thinks Petrenko will win.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Rino Mašić",
+          "Ibragim Sagov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "50-50",
+        "predicted_score": null,
+        "prediction_summary": "Danil thinks it's a 50-50 match, very interesting as both have similar styles.",
+        "predicted_duration": null,
+        "style_conflict": "Shoulder pressure",
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Alizhan Muratov",
+          "Ivan Matyushenko"
+        ],
+        "arm": "Left",
+        "event": "East vs West 15",
+        "predicted_winner": "Alizhan Muratov",
+        "predicted_score": null,
+        "prediction_summary": "Danil thinks Alizhan will win very easily.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Michael Todd",
+          "Genadi Kvikvinia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Genadi Kvikvinia",
+        "predicted_score": null,
+        "prediction_summary": "Danil thinks it will be a very hard match, but Genadi will win.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Nugzari Chikadze",
+          "Oguzhan Koçak"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "50-50",
+        "predicted_score": null,
+        "prediction_summary": "Danil thinks it will be a very interesting match, 50-50.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Vitalii Laletin",
+          "Georgii Dzeranov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Georgii Dzeranov",
+        "predicted_score": null,
+        "prediction_summary": "Danil thinks Dzeranov can win, but is not sure about the style.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      }
+    ],
+    "Azat Srapyan": [
+      {
+        "match": [
+          "Brigitta Ivánfi",
+          "Irina Gladkaya"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Irina Gladkaya",
+        "predicted_score": null,
+        "prediction_summary": "Azat thinks Irina Gladkaya will win.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Artur Makarov",
+          "Ömer Kozakoğlu"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Ömer Kozakoğlu",
+        "predicted_score": null,
+        "prediction_summary": "Azat thinks Ömer is very strong and will beat Artur by taking his wrist.",
+        "predicted_duration": null,
+        "style_conflict": "Wrist control",
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Davit Samushia",
+          "Vladimir Maiorov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Davit Samushia",
+        "predicted_score": null,
+        "prediction_summary": "Azat thinks Samushia will win again.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Dimitrina Petrova",
+          "Carolina Pettersson"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Carolina Pettersson",
+        "predicted_score": null,
+        "prediction_summary": "Azat thinks Carolina will win with the top roll.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs. hook",
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Betkili Oniani",
+          "Oleg Zhokh"
+        ],
+        "arm": "Left",
+        "event": "East vs West 15",
+        "predicted_winner": "Oleg Zhokh",
+        "predicted_score": null,
+        "prediction_summary": "Azat thinks Oleg will win, but it will not be easy.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Oleg Petrenko"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Oleg Petrenko",
+        "predicted_score": null,
+        "prediction_summary": "Azat thinks Petrenko will win, though it will be a very hard match.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Rino Mašić",
+          "Ibragim Sagov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Rino Mašić",
+        "predicted_score": null,
+        "prediction_summary": "Azat thinks Rino will win, but it will not be easy.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Alizhan Muratov",
+          "Ivan Matyushenko"
+        ],
+        "arm": "Left",
+        "event": "East vs West 15",
+        "predicted_winner": "Alizhan Muratov",
+        "predicted_score": null,
+        "prediction_summary": "Azat thinks Alizhan will win very easily.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Michael Todd",
+          "Genadi Kvikvinia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Genadi Kvikvinia",
+        "predicted_score": null,
+        "prediction_summary": "Azat thinks Genadi can beat Michael Todd.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Nugzari Chikadze",
+          "Oguzhan Koçak"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "50-50",
+        "predicted_score": null,
+        "prediction_summary": "Azat thinks it will be a 50-50 match.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {}
+      },
+      {
+        "match": [
+          "Vitalii Laletin",
+          "Georgii Dzeranov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 15",
+        "predicted_winner": "Georgii Dzeranov",
+        "predicted_score": null,
+        "prediction_summary": "Azat thinks Dzeranov will win by hooking Laletin.",
+        "predicted_duration": null,
+        "style_conflict": "Hook",
+        "opinion_about_athletes": {}
+      }
+    ]
+  }
+}

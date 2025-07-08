@@ -1,0 +1,138 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Alex",
+    "SPEAKER_01": "Aleksandra Ozerova",
+    "SPEAKER_02": "Fia",
+    "SPEAKER_03": "Molly"
+  },
+  "date": null,
+  "self_predictions": [
+    {
+      "athlete": "Aleksandra Ozerova",
+      "match": [
+        "Elizabeth Mocek",
+        "Aleksandra Ozerova"
+      ],
+      "arm": "Right",
+      "weight": "Lightweight",
+      "predicted_winner": "Aleksandra Ozerova",
+      "predicted_score": "3-2",
+      "prediction_summary": "Aleksandra believes Liz might win the first two matches, but she will adapt and win the next three by finding Liz's weakness.",
+      "predicted_duration": null,
+      "style_conflict": "Power vs. Experience",
+      "opinion_about_athletes": {
+        "Elizabeth Mocek": {
+          "strength": "Super strong, especially in arm strength and back pressure",
+          "health": null,
+          "previous_match_summary": "Lost to Carolina Patterson easily a year ago, but her technique may have improved since then."
+        }
+      }
+    }
+  ],
+  "third_party_predictions": [
+    {
+      "speaker": "Alex",
+      "match": [
+        "John Brzenk",
+        "Leonidas Arkona"
+      ],
+      "arm": "Right",
+      "weight": "Super Heavyweight",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "No clear prediction, but if Leonidas wins, John Brzenk and Scuba would have to pull for second place.",
+      "predicted_duration": null,
+      "style_conflict": "Power vs. Experience",
+      "opinion_about_athletes": {
+        "Leonidas Arkona": {
+          "strength": "Very strong, gifted for wrestling with big hands and wrists",
+          "health": null,
+          "previous_match_summary": "Alex showed Leonidas how to pull in 2020, and he has since developed into a top-level strength athlete."
+        },
+        "John Brzenk": {
+          "strength": "Experienced",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Alex",
+      "match": [
+        "Alex Kurdecha",
+        "Jerry Cadorette"
+      ],
+      "arm": "Right",
+      "weight": "Super Heavyweight",
+      "predicted_winner": "Alex Kurdecha",
+      "predicted_score": null,
+      "prediction_summary": "Alex believes Kurdecha will take Jerry's wrist and win if he maintains side pressure and center control.",
+      "predicted_duration": null,
+      "style_conflict": "Wrist control vs. Side pressure",
+      "opinion_about_athletes": {
+        "Alex Kurdecha": {
+          "strength": "Working on side pressure and triceps finishing moves",
+          "health": null,
+          "previous_match_summary": "Not a hooker but a strong presser."
+        },
+        "Jerry Cadorette": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Aleksandra Ozerova",
+      "match": [
+        "Janis Amolins",
+        "Justin Bishop"
+      ],
+      "arm": "Right",
+      "weight": "Lightweight",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Hype match with previous wins on both sides. Justin is very prepared, and it will be competitive.",
+      "predicted_duration": "Long fight",
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Janis Amolins": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": "Has beaten Justin before."
+        },
+        "Justin Bishop": {
+          "strength": "Very prepared",
+          "health": null,
+          "previous_match_summary": "Has beaten Janis before."
+        }
+      }
+    },
+    {
+      "speaker": "Aleksandra Ozerova",
+      "match": [
+        "Rustam Babaiev",
+        "Paul Linn"
+      ],
+      "arm": "Right",
+      "weight": "Middleweight",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Interesting match to watch.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Rustam Babaiev": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Paul Linn": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    }
+  ]
+}

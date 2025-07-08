@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Append the project root to path and import config
 sys.path.append(str(Path(__file__).resolve().parents[1]))
@@ -42,8 +43,35 @@ def analyze_all():
                 analyze_event(event_title)
             except Exception as e:
                 print(f"❌ Failed to analyze event '{event_title}': {e}")
+def analyze_all_parallel(max_workers: int = 3):
+    """
+    Process all event folders in TRANSCRIPT_DIR in parallel.
+    Each event is processed in its own thread.
+    """
+    def process_event(event_folder):
+        event_title = event_folder.name
+        normalized_folder = event_folder / "normalized"
+        if not normalized_folder.exists():
+            return
+        files = [f for f in normalized_folder.glob("*.txt") if f.is_file()]
+        for file_path in files:
+            try:
+                extract_predictions_as_json(event_title, file_path.name)
+            except Exception as e:
+                print(f"❌ Failed to process {file_path.name} in {event_title}: {e}")
+
+    event_folders = [f for f in TRANSCRIPT_DIR.iterdir() if f.is_dir() and (f / "normalized").exists()]
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = [executor.submit(process_event, folder) for folder in event_folders]
+        for future in as_completed(futures):
+            try:
+                future.result()
+            except Exception as e:
+                print(f"❌ Error during parallel processing: {e}")
 
 # Example usage:
 if __name__ == "__main__":
-    analyze_event("East vs West 17")
+    # analyze_event("East vs West 17")
     # analyze_all()
+    analyze_all_parallel(3)

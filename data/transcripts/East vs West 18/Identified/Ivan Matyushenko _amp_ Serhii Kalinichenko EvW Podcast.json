@@ -1,0 +1,289 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Serhii Kalinichenko",
+    "SPEAKER_01": "Ivan Matyushenko",
+    "SPEAKER_04": "Host"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Serhii Kalinichenko",
+      "self_predictions": [
+        {
+          "match": [
+            "Serhii Kalinichenko",
+            "Ivan Matyushenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Serhii Kalinichenko",
+          "predicted_score": "50-50",
+          "prediction_summary": "Serhii believes it's a 50-50 match, emphasizing his training in hook and his confidence in his top roll. He thinks endurance will be a key factor.",
+          "predicted_duration": "Endurance battle",
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": "Best hook ability, strong wrist",
+              "health": "Recovered from past injuries",
+              "previous_match_summary": "Legendary arm wrestler with many titles"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Lachlan Adair",
+            "Petro Marharit"
+          ],
+          "arm": "Right",
+          "event": "King of the Table 14",
+          "predicted_winner": "Petro Marharit",
+          "predicted_score": "3-0",
+          "prediction_summary": "Serhii thinks Petro Marharit will win due to his strength and experience, predicting a slow but decisive victory.",
+          "predicted_duration": "Not fast, but decisive",
+          "style_conflict": "Hook",
+          "opinion_about_athletes": {
+            "Petro Marharit": {
+              "strength": "Strongest wrist for his weight",
+              "health": "Healthy",
+              "previous_match_summary": "Top three in 105 kg category"
+            },
+            "Lachlan Adair": {
+              "strength": "Strong but less experienced",
+              "health": "Healthy",
+              "previous_match_summary": "Lost to Krasimir Kostadinov due to experience"
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Georgii Svetko"
+          ],
+          "arm": "Left",
+          "event": "King of the Table 14",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": "52-48",
+          "prediction_summary": "Serhii believes Dadikyan is slightly favored due to his pronation and endurance, but acknowledges Svetko's strong top roll.",
+          "predicted_duration": "Hard match",
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Strong pronation, dangerous left hand",
+              "health": "Recovered from injuries",
+              "previous_match_summary": "Beat Alex Kurdecha convincingly"
+            },
+            "Georgii Svetko": {
+              "strength": "Amazing endurance, special top roll",
+              "health": "Healthy",
+              "previous_match_summary": "Strong performances in past matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Kamil Jablonski",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Left",
+          "event": "King of the Table 14",
+          "predicted_winner": "Kamil Jablonski",
+          "predicted_score": "60-40",
+          "prediction_summary": "Serhii thinks Kamil's press and speed will be too much for Dzeranov, predicting a win for Kamil.",
+          "predicted_duration": "Fast pins",
+          "style_conflict": "Press vs Hook",
+          "opinion_about_athletes": {
+            "Kamil Jablonski": {
+              "strength": "Best attacking press, fast",
+              "health": "Stronger and stronger",
+              "previous_match_summary": "Dominant performances"
+            },
+            "Georgii Dzeranov": {
+              "strength": "Best defensive hook position",
+              "health": "Healthy",
+              "previous_match_summary": "Strong hook specialist"
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "60-40",
+          "prediction_summary": "Serhii believes Nugo's strength and style will be too much for Matt Mask, despite rooting for Matt.",
+          "predicted_duration": "Decisive",
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Strong top roll",
+              "health": "Healthy",
+              "previous_match_summary": "Beat Ongarbaev recently"
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Very powerful, good for top rollers",
+              "health": "Healthy",
+              "previous_match_summary": "Beat Petro Marharit twice"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": "3-2",
+          "prediction_summary": "Serhii thinks Vitaly's endurance and recovery will give him the edge over Michael Todd.",
+          "predicted_duration": "Close match",
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Unreal endurance, good recovery",
+              "health": "Healthy",
+              "previous_match_summary": "Strong performances"
+            },
+            "Michael Todd": {
+              "strength": "Strong in hook, good endurance",
+              "health": "Healthy",
+              "previous_match_summary": "Known for stopping opponents"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Ivan Matyushenko",
+      "self_predictions": [
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Serhii Kalinichenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": "50-50",
+          "prediction_summary": "Ivan sees it as a 50-50 match, emphasizing endurance and his hook ability.",
+          "predicted_duration": "Endurance battle",
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Serhii Kalinichenko": {
+              "strength": "Strong arm, good top roll",
+              "health": "Healthy",
+              "previous_match_summary": "Strong performances"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Lachlan Adair",
+            "Petro Marharit"
+          ],
+          "arm": "Right",
+          "event": "King of the Table 14",
+          "predicted_winner": "Petro Marharit",
+          "predicted_score": "3-0",
+          "prediction_summary": "Ivan agrees with Serhii that Petro's experience and strength will win the match.",
+          "predicted_duration": "Slow but decisive",
+          "style_conflict": "Hook",
+          "opinion_about_athletes": {
+            "Petro Marharit": {
+              "strength": "Strongest wrist for his weight",
+              "health": "Healthy",
+              "previous_match_summary": "Top three in 105 kg category"
+            },
+            "Lachlan Adair": {
+              "strength": "Less experienced",
+              "health": "Healthy",
+              "previous_match_summary": "Lost to Krasimir Kostadinov"
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Georgii Svetko"
+          ],
+          "arm": "Left",
+          "event": "King of the Table 14",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": "Clear favorite",
+          "prediction_summary": "Ivan believes Dadikyan is the clear favorite due to his left hand strength and recent form.",
+          "predicted_duration": "Decisive",
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Extremely dangerous left hand",
+              "health": "Healthy",
+              "previous_match_summary": "Beat Alex Kurdecha"
+            },
+            "Georgii Svetko": {
+              "strength": "Good top roll",
+              "health": "Healthy",
+              "previous_match_summary": "Strong performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Kamil Jablonski",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Left",
+          "event": "King of the Table 14",
+          "predicted_winner": "Kamil Jablonski",
+          "predicted_score": "50-50",
+          "prediction_summary": "Ivan thinks it's a tough match but leans towards Kamil due to his press and speed.",
+          "predicted_duration": "Endurance battle",
+          "style_conflict": "Press vs Hook",
+          "opinion_about_athletes": {
+            "Kamil Jablonski": {
+              "strength": "Best attacking press, fast",
+              "health": "Healthy",
+              "previous_match_summary": "Dominant performances"
+            },
+            "Georgii Dzeranov": {
+              "strength": "Best defensive hook position",
+              "health": "Healthy",
+              "previous_match_summary": "Strong hook specialist"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": "Quick win",
+          "prediction_summary": "Ivan believes Vitaly could be the first to flash pin Michael Todd due to his current level.",
+          "predicted_duration": "Quick",
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Incredible shape",
+              "health": "Healthy",
+              "previous_match_summary": "Strong performances"
+            },
+            "Michael Todd": {
+              "strength": "Strong in hook",
+              "health": "Healthy",
+              "previous_match_summary": "Known for stopping opponents"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

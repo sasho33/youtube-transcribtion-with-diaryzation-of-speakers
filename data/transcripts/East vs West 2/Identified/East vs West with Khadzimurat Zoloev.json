@@ -1,0 +1,137 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Yanis",
+    "SPEAKER_02": "Unknown",
+    "SPEAKER_03": "Khadzimurat Zoloev"
+  },
+  "date": null,
+  "predictions": {
+    "Khadzimurat Zoloev": {
+      "self_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Khadzimurat Zoloev",
+          "predicted_score": null,
+          "prediction_summary": "Zoloev feels optimistic about the fight with John Brzenk, believing he has improved his top roll and side pressure since their last match. He plans to attack John's wrist and finish the fight with his side pressure.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. John's pronation",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Respected legend, but Zoloev believes his wrist is vulnerable now.",
+              "health": "John is older and has injuries, but still formidable.",
+              "previous_match_summary": "Last match was in A1 Russia, where Zoloev's inside move was more effective than his outside move."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Zoloev roots for Genadi but acknowledges Michael Todd's unique technique and unpredictability. He notes Genadi was not at his best in his last fight.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Technically good, can fight in every position.",
+              "health": "Returning from a long break, not at his best in last fight.",
+              "previous_match_summary": "Did not perform well in his last fight."
+            },
+            "Michael Todd": {
+              "strength": "Unique technique, can surprise in the hook.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Zoloev considers Gasparini the favorite but notes he has made mistakes in past fights. He respects Arif Ertem but doesn't know much about him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Favorite, but has made mistakes.",
+              "health": null,
+              "previous_match_summary": "Has won and lost in past fights."
+            },
+            "Arif Ertem": {
+              "strength": "Young athlete, unknown potential.",
+              "health": null,
+              "previous_match_summary": "Won weightlifting in the 110+ championship."
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Zoloev notes Oniani is in good shape and ready to fight, but Oleg Zhokh is recovering from an accident and may not be at his previous level.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "In good shape, ready to fight.",
+              "health": null,
+              "previous_match_summary": "Offered to fight anyone under 100 kg in left arm."
+            },
+            "Oleg Zhokh": {
+              "strength": "Recovering, not at previous level yet.",
+              "health": "Recovering from accident.",
+              "previous_match_summary": "Not as strong as before his accident."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yordan Tsonev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Yordan Tsonev",
+          "predicted_score": null,
+          "prediction_summary": "Zoloev believes Tsonev has a good chance against Hutchings if he avoids Hutchings' strong position in the hook. He praises Tsonev's patience and technique.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. Tsonev's technique.",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong in specific hook position.",
+              "health": null,
+              "previous_match_summary": "Winning streak, but Zoloev sees vulnerabilities."
+            },
+            "Yordan Tsonev": {
+              "strength": "Patient, good technique.",
+              "health": null,
+              "previous_match_summary": "Beat Bogoslov in a surprising match."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

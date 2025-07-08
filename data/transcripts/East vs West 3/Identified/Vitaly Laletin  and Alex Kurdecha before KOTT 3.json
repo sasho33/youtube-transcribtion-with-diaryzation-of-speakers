@@ -1,0 +1,221 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Murat (Translator)",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Alex Kurdecha",
+    "SPEAKER_04": "Vitaly Laletin"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Vitaly Laletin",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Davit Dadikyan"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Davit Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly thinks Davit is very strong right now and if Oleg can come to his best shape, the outcome might change.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Did not show his best form in the last event."
+            },
+            "Davit Dadikyan": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Has been playing with Davit lately and finds him very strong."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly believes Prudnik will beat Hutchings even in a hook, not just with a top roll.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Very strong in hook",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "İrakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly thinks John is very knowledgeable and will find a way to pull against İrakli, but İrakli will also do his thing, making it a good match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Very good athlete, very wise",
+              "health": null,
+              "previous_match_summary": "Finds techniques that work against opponents."
+            },
+            "İrakli Zirakashvili": {
+              "strength": "Very strong at the moment",
+              "health": null,
+              "previous_match_summary": "Gained weight and looks stronger."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly sees Dave as the favorite if he can reach his best form, but acknowledges Genadi's quick start and ability to fight with a broken wrist.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Very fast start",
+              "health": null,
+              "previous_match_summary": "Can fight with a broken wrist."
+            },
+            "Dave Chaffee": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Did not like his form in the last match with Levan."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Alex Kurdecha",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Alex thinks Prudnik will dominate Hutchings with a top roll and even in a hook.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Smart guy, can check the hook in later rounds",
+              "health": null,
+              "previous_match_summary": "Beat Hutchings in Moldova event."
+            },
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Lost to Prudnik in Moldova event."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "İrakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Alex believes if İrakli doesn't open John's wrist, it will be hard to beat him. John's wrist control is legendary.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary wrist control",
+              "health": null,
+              "previous_match_summary": "Can protect his pronator and maintain control."
+            },
+            "İrakli Zirakashvili": {
+              "strength": "Very good with outside move",
+              "health": null,
+              "previous_match_summary": "Wrist and hand control not as dominant as Prudnik."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Alex thinks it depends on Dave's shape and motivation. If Dave is in prime shape, he has more chances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Extra motivated, improving wrist and fingers",
+              "health": null,
+              "previous_match_summary": "Stronger now than in previous matches."
+            },
+            "Dave Chaffee": {
+              "strength": "Strong if in prime shape",
+              "health": null,
+              "previous_match_summary": "Depends on his current form and motivation."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Davit Dadikyan"
+          ],
+          "arm": "Left",
+          "event": "East vs West 3",
+          "predicted_winner": "Davit Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "Alex thinks Oleg needs to come back to his best shape to compete with Davit, who is currently very strong.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Not in his best shape yet."
+            },
+            "Davit Dadikyan": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Currently in good shape."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

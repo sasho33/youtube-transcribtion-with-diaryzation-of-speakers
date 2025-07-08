@@ -1,0 +1,218 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Michael Todd",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_03": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Michael Todd",
+      "self_predictions": [
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Michael plans to control the match and let Revaz work himself into fatigue, aiming to avoid early pins and focus on endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Michael aims to avoid losing wrist control early and focus on back pressure and riser strength.",
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Very strong, especially in hand and wrist control.",
+              "health": null,
+              "previous_match_summary": "Impressive performance against Genadi, showing strong wrist control."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John is too versatile and experienced for Zurab, likely to take his hand early.",
+          "predicted_duration": null,
+          "style_conflict": "John's versatility vs. Zurab's potential strength improvement.",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Still very strong and versatile at his age.",
+              "health": null,
+              "previous_match_summary": "Recent performances show he can still compete at a high level."
+            },
+            "Zurab Tavberidze": {
+              "strength": "Needs significant improvement to challenge John.",
+              "health": null,
+              "previous_match_summary": "Recent performances indicate potential but not yet at John's level."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "İrakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Todd's experience and endurance might give him the edge, but İrakli's pronation could be a challenge.",
+          "predicted_duration": null,
+          "style_conflict": "Todd's endurance vs. İrakli's pronation strength.",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong endurance and back pressure.",
+              "health": null,
+              "previous_match_summary": "Consistent performer with strong endurance."
+            },
+            "İrakli Zirakashvili": {
+              "strength": "Strong pronation, especially in the strap.",
+              "health": null,
+              "previous_match_summary": "Showed strong pronation in recent matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave's explosiveness might dominate if Genadi's wrist doesn't hold up.",
+          "predicted_duration": null,
+          "style_conflict": "Dave's explosiveness vs. Genadi's wrist control.",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong wrist control and endurance.",
+              "health": null,
+              "previous_match_summary": "Recent matches show strong wrist control but vulnerability to explosive opponents."
+            },
+            "Dave Chaffee": {
+              "strength": "Very explosive with strong side pressure.",
+              "health": null,
+              "previous_match_summary": "Recent performances show dominance when his wrist holds up."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Derek Smith"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Derek Smith",
+          "predicted_score": null,
+          "prediction_summary": "Derek's versatility might give him the edge if the match goes into a hand battle.",
+          "predicted_duration": null,
+          "style_conflict": "Morozov's explosiveness vs. Derek's versatility.",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Very explosive but lacks versatility.",
+              "health": null,
+              "previous_match_summary": "Recent losses show vulnerability to versatile opponents."
+            },
+            "Derek Smith": {
+              "strength": "Versatile with strong hook and endurance.",
+              "health": null,
+              "previous_match_summary": "Recent performances show strong versatility and endurance."
+            }
+          }
+        },
+        {
+          "match": [
+            "Marcio Barboza",
+            "Tobias Sporrong"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Marcio Barboza",
+          "predicted_score": null,
+          "prediction_summary": "Marcio's strength might give him the edge, but his elbow fouling could be a problem.",
+          "predicted_duration": null,
+          "style_conflict": "Marcio's strength vs. Tobias's technique.",
+          "opinion_about_athletes": {
+            "Marcio Barboza": {
+              "strength": "Very strong but prone to elbow fouling.",
+              "health": null,
+              "previous_match_summary": "Recent matches show strength but issues with fouls."
+            },
+            "Tobias Sporrong": {
+              "strength": "Technically sound but might lack strength.",
+              "health": null,
+              "previous_match_summary": "Recent performances show good technique but inconsistent results."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik's experience and strength might dominate Matt Mask.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik's strength vs. Matt's potential.",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Very strong with good technique.",
+              "health": null,
+              "previous_match_summary": "Recent performances show dominance."
+            },
+            "Matt Mask": {
+              "strength": "Has potential but lacks recent strong performances.",
+              "health": null,
+              "previous_match_summary": "Recent losses indicate struggles against top opponents."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "Davit Samushia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Paul's strength and recent performances suggest he might dominate.",
+          "predicted_duration": null,
+          "style_conflict": "Paul's strength vs. Davit's hook.",
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Very strong with good endurance.",
+              "health": null,
+              "previous_match_summary": "Recent wins show strong performance."
+            },
+            "Davit Samushia": {
+              "strength": "Strong hook puller but might lack versatility.",
+              "health": null,
+              "previous_match_summary": "Recent performances show strength in hook but struggles against versatile opponents."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

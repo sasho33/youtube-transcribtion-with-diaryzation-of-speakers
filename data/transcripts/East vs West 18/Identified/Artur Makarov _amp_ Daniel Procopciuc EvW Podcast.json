@@ -1,0 +1,398 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_02": "Artur Makarov",
+    "SPEAKER_03": "Daniel Procopciuc",
+    "SPEAKER_04": "Alex (Translator)"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Daniel Procopciuc",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Vitaly Laletin"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "If Michael stops him, he's going to win. But stopping Vitaly is a big challenge. I don't know if it's going to happen.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Vitaly Laletin": {
+              "strength": "Bigger, longer levers",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babayev",
+            "Tata Shintzplaniev"
+          ],
+          "arm": null,
+          "event": "East vs West 18",
+          "predicted_winner": "Tata Shintzplaniev",
+          "predicted_score": null,
+          "prediction_summary": "If the match stops, Tata has more chance. Styles are very important. Tata is in very good shape now.",
+          "predicted_duration": null,
+          "style_conflict": "Styles match up or don't at times.",
+          "opinion_about_athletes": {
+            "Rustam Babayev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Hasn't pulled in a while."
+            },
+            "Tata Shintzplaniev": {
+              "strength": "In very good shape",
+              "health": null,
+              "previous_match_summary": "Progressing, getting better and better."
+            }
+          }
+        },
+        {
+          "match": [
+            "Gennady Kvikvinia",
+            "Ibrahim Sago"
+          ],
+          "arm": null,
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Depends on how Gennady's weight cut will go. If it was in Gennady's weight, for sure Gennady would win.",
+          "predicted_duration": null,
+          "style_conflict": "Flop press against side pressure.",
+          "opinion_about_athletes": {
+            "Gennady Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Recently had two good matches but lost to very strong opponents."
+            },
+            "Ibrahim Sago": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Kamil Jablonski",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Kamil is very strong and dangerous for top-rollers, but Georgii is very fast. If Kamil stops him, there's a chance, but it's unlikely.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kamil Jablonski": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgii Dzeranov": {
+              "strength": "Very fast",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Pauline",
+            "David Samusha"
+          ],
+          "arm": null,
+          "event": "East vs West 18",
+          "predicted_winner": "David Samusha",
+          "predicted_score": null,
+          "prediction_summary": "David is definitely a favorite. He won against Sasha Andreev in the hook, which was surprising.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Pauline": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "David Samusha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Won against Sasha Andreev in the hook."
+            }
+          }
+        },
+        {
+          "match": [
+            "Serhii Kalnyshenko",
+            "Ivan Matyushenko"
+          ],
+          "arm": null,
+          "event": "East vs West 18",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": "55-45",
+          "prediction_summary": "In the hook, Ivan is a favorite. If Serhii doesn't let him get into the hook, he won't lose.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. top roll.",
+          "opinion_about_athletes": {
+            "Serhii Kalnyshenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ivan Matyushenko": {
+              "strength": "Very good hook ability",
+              "health": null,
+              "previous_match_summary": "Doesn't remember last time his wrist got opened up."
+            }
+          }
+        },
+        {
+          "match": [
+            "Nugo Shikadze",
+            "Matt Mask"
+          ],
+          "arm": null,
+          "event": "East vs West 18",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Nugo is stronger physically, but Matt's long levers will be an advantage. Nugo has a very small hand and strong wrist, but Matt's length will matter.",
+          "predicted_duration": null,
+          "style_conflict": "Long levers vs. short arm.",
+          "opinion_about_athletes": {
+            "Nugo Shikadze": {
+              "strength": "Very strong wrist",
+              "health": null,
+              "previous_match_summary": "Has a very small hand."
+            },
+            "Matt Mask": {
+              "strength": "Long levers, good top roll",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan will dominate. If Ermes can hold him, he might drag him, but if his gas tank runs out, Levan will win.",
+          "predicted_duration": null,
+          "style_conflict": "Offensive vs. defensive.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "A lot of muscle and power",
+              "health": "No issues with wrist anymore",
+              "previous_match_summary": "Depends on his form in the first match."
+            },
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "If he can hold Levan, he might drag him."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Artur Makarov",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Vitaly Laletin"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": "60-40",
+          "prediction_summary": "Vitaly is bigger, his levers are longer. The main task for Vitaly will be to control his wrist.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Vitaly Laletin": {
+              "strength": "Bigger, longer levers",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babayev",
+            "Tata Shintzplaniev"
+          ],
+          "arm": null,
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "If Rustam is able to pull him to the pillow and not get stuck, he will win. Tata is in good shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rustam Babayev": {
+              "strength": "Younger",
+              "health": null,
+              "previous_match_summary": "Hasn't fought for a long time."
+            },
+            "Tata Shintzplaniev": {
+              "strength": "Gaining weight very well",
+              "health": null,
+              "previous_match_summary": "In good shape."
+            }
+          }
+        },
+        {
+          "match": [
+            "Gennady Kvikvinia",
+            "Ibrahim Sago"
+          ],
+          "arm": null,
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Never seen Gennady fight in any other weight category than absolute. Depends on his weight loss.",
+          "predicted_duration": null,
+          "style_conflict": "Triceps against the side.",
+          "opinion_about_athletes": {
+            "Gennady Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Lost last two fights to very strong opponents."
+            },
+            "Ibrahim Sago": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Kamil Jablonski",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Georgii's levers are longer. Kamil has one strong movement, but Georgii will try to turn it off.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kamil Jablonski": {
+              "strength": "One very strong movement",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgii Dzeranov": {
+              "strength": "Longer levers",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Serhii Kalnyshenko",
+            "Ivan Matyushenko"
+          ],
+          "arm": null,
+          "event": "East vs West 18",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": "55-45",
+          "prediction_summary": "Ivan's left is better. On right arm, still a favorite. Fight will be in the hooks.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Serhii Kalnyshenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ivan Matyushenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Doesn't remember last time his wrist got opened up."
+            }
+          }
+        },
+        {
+          "match": [
+            "Nugo Shikadze",
+            "Matt Mask"
+          ],
+          "arm": null,
+          "event": "East vs West 18",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Matt's long arms will be comfortable for Nugo, but Nugo will be uncomfortable for Matt. Nugo is stronger physically, but lever difference is huge.",
+          "predicted_duration": null,
+          "style_conflict": "Long levers vs. short arm.",
+          "opinion_about_athletes": {
+            "Nugo Shikadze": {
+              "strength": "Stronger physically",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Matt Mask": {
+              "strength": "Long arms",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan will dominate. Ermes will be in defensive position. If Ermes can hold Levan, he might drag him.",
+          "predicted_duration": null,
+          "style_conflict": "Offensive vs. defensive.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "A lot of muscles and strength",
+              "health": "No problems with wrist",
+              "previous_match_summary": null
+            },
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "If he can hold Levan, he might drag him."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

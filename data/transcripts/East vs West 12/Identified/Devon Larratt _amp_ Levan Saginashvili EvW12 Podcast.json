@@ -1,0 +1,121 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Tornike (Translator)",
+    "SPEAKER_02": "Devon Larratt",
+    "SPEAKER_03": "Levan Saginashvili",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Devon Larratt",
+      "self_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "4-1 or 4-0",
+          "prediction_summary": "Devon believes he is stronger than ever and will win, possibly causing Levan to quit after rounds 4-1 or 4-0.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Devon emphasizes his improved strength and strategy, focusing on wrist control and endurance.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Acknowledges Levan's strength but believes he is weaker now.",
+              "health": "Questions Levan's current health and wrist condition.",
+              "previous_match_summary": "References their first match where Devon was injured and dominated by Levan."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "Upcoming match",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Devon predicts Ermes will win based on current information.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong contender.",
+              "health": "Not specified",
+              "previous_match_summary": "References Ermes's performance against Levan."
+            },
+            "Denis Cyplenkov": {
+              "strength": "Not specified",
+              "health": "Not specified",
+              "previous_match_summary": "Not specified"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Levan Saginashvili",
+      "self_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "4-0 or 4-1",
+          "prediction_summary": "Levan expects to dominate, possibly stopping Devon early, and believes Devon cannot beat him even at his best.",
+          "predicted_duration": "Quick, with a few surges",
+          "style_conflict": "Levan focuses on his superior strength and versatility, predicting a quick finish.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Acknowledges Devon's improvements but believes he is still not strong enough.",
+              "health": "Not specified",
+              "previous_match_summary": "References their first match where he dominated Devon."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": []
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "4-0 or 4-1",
+          "prediction_summary": "Engin believes Levan will win, possibly stopping Devon early, and questions Devon's current strength.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Questions Devon's current strength compared to previous matches.",
+              "health": "Not specified",
+              "previous_match_summary": "References Devon's performance against Ermes and others."
+            },
+            "Levan Saginashvili": {
+              "strength": "Believes Levan is the strongest arm wrestler ever.",
+              "health": "Not specified",
+              "previous_match_summary": "References Levan's dominance in previous matches."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

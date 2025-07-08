@@ -1,0 +1,216 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Evgeny Prudnik",
+    "SPEAKER_03": "Irakli Zirakashvili"
+  },
+  "date": null,
+  "predictions": {
+    "Evgeny Prudnik": {
+      "self_predictions": [
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "3-0",
+          "prediction_summary": "Prudnik believes he is stronger and will win, possibly giving Irakli one round as a 'gift'.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs top roll",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Strong but not stronger than Prudnik",
+              "health": null,
+              "previous_match_summary": "Irakli has been successful in East vs West and King of the Table events."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Carolina Pettersson",
+            "Olga Terpelova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Olga Terpelova",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik thinks Olga will win but is not entirely sure.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Tom Rozits",
+            "Artem Taranenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Tom Rozits",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik believes Tom will win based on his recent performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Petro Marharint",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Petro Marharint",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik thinks Marharint is in good shape and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Dimitrina Petrova",
+            "Ayane Takenaka"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Dimitrina Petrova",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik favors Dimitrina due to her experience and titles.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Vladimir Maiorov",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vladimir Maiorov",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik predicts Maiorov will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Artem Taynov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik thinks Oniani will win if he can stop Taynov's hand.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Barbora Bajčiová",
+            "Egle Vaitkute"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Egle Vaitkute",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik predicts Egle will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Serhii Kalinichenko",
+            "Travis Bagent"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Serhii Kalinichenko",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik favors Kalinichenko to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik thinks Samushia will find a way to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik believes Morozov should win, especially if it goes into an endurance war.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        }
+      ]
+    },
+    "Irakli Zirakashvili": {
+      "self_predictions": [
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "3-0",
+          "prediction_summary": "Irakli is confident he will win and may even sing a song during the match.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs top roll",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Strong but not stronger than Irakli",
+              "health": null,
+              "previous_match_summary": "Prudnik is a legend but Irakli believes his time has passed."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Samushia will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        }
+      ]
+    }
+  }
+}

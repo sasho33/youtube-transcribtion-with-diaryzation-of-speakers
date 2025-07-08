@@ -1,0 +1,213 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Kody Merritt",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Artyom Morozov",
+    "SPEAKER_04": "Paulo"
+  },
+  "date": null,
+  "self_predictions": {
+    "Artyom Morozov": [
+      {
+        "match": [
+          "Artyom Morozov",
+          "Kody Merritt"
+        ],
+        "arm": "Left",
+        "event": "East vs West 4",
+        "predicted_winner": "Artyom Morozov",
+        "predicted_score": null,
+        "prediction_summary": "Artyom believes he is stronger and will win, especially if he can straighten Kody's wrist.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Kody Merritt": {
+            "strength": "Strong but manageable",
+            "health": null,
+            "previous_match_summary": "Kody is experienced but Artyom feels he has the tools to win."
+          }
+        }
+      }
+    ],
+    "Kody Merritt": [
+      {
+        "match": [
+          "Artyom Morozov",
+          "Kody Merritt"
+        ],
+        "arm": "Left",
+        "event": "East vs West 4",
+        "predicted_winner": "Kody Merritt",
+        "predicted_score": null,
+        "prediction_summary": "Kody believes his experience and strength will give him the edge, despite Artyom's youth and strength.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Artyom Morozov": {
+            "strength": "Very strong but unknown",
+            "health": null,
+            "previous_match_summary": "Artyom is a rising star with impressive strength."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Engin Terzi": [
+      {
+        "match": [
+          "Artyom Morozov",
+          "Kody Merritt"
+        ],
+        "arm": "Left",
+        "event": "East vs West 4",
+        "predicted_winner": "Artyom Morozov",
+        "predicted_score": null,
+        "prediction_summary": "Engin sees Artyom as slightly favored due to his strength and youth, but acknowledges Kody's experience.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Artyom Morozov": {
+            "strength": "Very strong and improving",
+            "health": null,
+            "previous_match_summary": "Artyom has shown significant growth since his last matches."
+          },
+          "Kody Merritt": {
+            "strength": "Strong but aging",
+            "health": null,
+            "previous_match_summary": "Kody is experienced but may be past his prime."
+          }
+        }
+      },
+      {
+        "match": [
+          "Gabriela Vasconcelos",
+          "Egle Vaitkute"
+        ],
+        "arm": "Left",
+        "event": "East vs West 4",
+        "predicted_winner": "Gabriela Vasconcelos",
+        "predicted_score": null,
+        "prediction_summary": "Engin believes Gabriela's training intensity gives her an edge over Egle.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Gabriela Vasconcelos": {
+            "strength": "Very strong, trains like a man",
+            "health": null,
+            "previous_match_summary": "Gabriela has been training heavily and looks stronger than before."
+          },
+          "Egle Vaitkute": {
+            "strength": "Strong, world champion",
+            "health": null,
+            "previous_match_summary": "Egle is a seasoned champion but may be challenged by Gabriela's intensity."
+          }
+        }
+      }
+    ],
+    "Kody Merritt": [
+      {
+        "match": [
+          "Raimonds Liepiņš",
+          "Ryan Bowen"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Raimonds Liepiņš",
+        "predicted_score": null,
+        "prediction_summary": "Kody wants to see Raimonds win due to personal disagreements with Ryan Bowen's past statements.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Raimonds Liepiņš": {
+            "strength": "Strong and likable",
+            "health": null,
+            "previous_match_summary": "Raimonds is a respected athlete."
+          },
+          "Ryan Bowen": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": "Ryan has made controversial statements in the past."
+          }
+        }
+      },
+      {
+        "match": [
+          "Gabriela Vasconcelos",
+          "Egle Vaitkute"
+        ],
+        "arm": "Left",
+        "event": "East vs West 4",
+        "predicted_winner": "Gabriela Vasconcelos",
+        "predicted_score": null,
+        "prediction_summary": "Kody is excited to see this match and believes Gabriela's training gives her an edge.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Gabriela Vasconcelos": {
+            "strength": "Very strong, intense training",
+            "health": null,
+            "previous_match_summary": "Gabriela has been training heavily."
+          },
+          "Egle Vaitkute": {
+            "strength": "Strong, world champion",
+            "health": null,
+            "previous_match_summary": "Egle is a seasoned champion."
+          }
+        }
+      }
+    ],
+    "Artyom Morozov": [
+      {
+        "match": [
+          "Gabriela Vasconcelos",
+          "Egle Vaitkute"
+        ],
+        "arm": "Left",
+        "event": "East vs West 4",
+        "predicted_winner": "Gabriela Vasconcelos",
+        "predicted_score": null,
+        "prediction_summary": "Artyom is interested in this match and believes Gabriela's training intensity gives her an edge.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Gabriela Vasconcelos": {
+            "strength": "Very strong, trains like a man",
+            "health": null,
+            "previous_match_summary": "Gabriela has been training heavily."
+          },
+          "Egle Vaitkute": {
+            "strength": "Strong, world champion",
+            "health": null,
+            "previous_match_summary": "Egle is a seasoned champion."
+          }
+        }
+      },
+      {
+        "match": [
+          "Evgeny Prudnik",
+          "Todd Hutchings"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Todd Hutchings",
+        "predicted_score": null,
+        "prediction_summary": "Artyom is intrigued by this match and secretly hopes Todd Hutchings will surprise everyone again.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Evgeny Prudnik": {
+            "strength": "Very strong",
+            "health": null,
+            "previous_match_summary": "Prudnik is a top competitor."
+          },
+          "Todd Hutchings": {
+            "strength": "Strong and surprising",
+            "health": null,
+            "previous_match_summary": "Todd has a history of defying expectations."
+          }
+        }
+      }
+    ]
+  }
+}

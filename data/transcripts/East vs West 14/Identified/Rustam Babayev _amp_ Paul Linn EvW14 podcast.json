@@ -1,0 +1,252 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Paolo",
+    "SPEAKER_01": "Rustam Babaiev",
+    "SPEAKER_02": "Paul Linn",
+    "SPEAKER_03": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Rustam Babaiev",
+      "self_predictions": [
+        {
+          "match": [
+            "Rustam Babaiev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Rustam Babaiev",
+          "predicted_score": null,
+          "prediction_summary": "Rustam feels confident in his current form, stating his arm is stronger than before and his chest is healed. He believes if his chest holds up during the match, he will be in his best shape.",
+          "predicted_duration": null,
+          "style_conflict": "Inside arm wrestling with focus on hand strength and technical prowess."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Rustam believes John Brzenk is the best arm wrestler ever and will out-arm wrestle Leonidas due to his experience and technical skills.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs. new player in the game."
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Rustam thinks if Kurdecha brings good form, he may win early rounds, but Jerry has endurance advantage if the match goes long.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Endurance vs. early power."
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Rustam believes Todd Hutchings is gaining momentum and if Prudnik is underprepared, Todd has a good chance.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs. power."
+        }
+      ],
+      "opinion_about_athletes": {
+        "Paul Linn": {
+          "strength": "Strong inside arm wrestler with technical prowess.",
+          "health": "No issues mentioned.",
+          "previous_match_summary": "Previous match was tough, but Rustam feels he can win this time."
+        },
+        "John Brzenk": {
+          "strength": "Greatest arm wrestler ever with unmatched experience.",
+          "health": "No issues mentioned.",
+          "previous_match_summary": "Dominant career with prolonged success."
+        }
+      }
+    },
+    {
+      "speaker": "Paul Linn",
+      "self_predictions": [
+        {
+          "match": [
+            "Rustam Babaiev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Paul feels good about his preparation and is thankful for the opportunity to run the match back. He acknowledges Rustam's strength and technical skills.",
+          "predicted_duration": null,
+          "style_conflict": "Inside arm wrestling with focus on hand strength and setup."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Paul believes John will find a way to out-arm wrestle Leonidas due to his experience and control over pronation.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs. new player in the game."
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Paul thinks Jerry has an edge if the match goes into deep water due to his endurance and experience in long wars.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Endurance vs. early power."
+        },
+        {
+          "match": [
+            "Travis Bagent",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Travis Bagent",
+          "predicted_score": null,
+          "prediction_summary": "Paul believes Travis's experience and smart setup will give him an edge over Corey's physical strength.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs. physical strength."
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Frank Lampirelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Paul thinks Dave's side pressure and size will be tough for Frank to handle, especially if Dave is close to his past form.",
+          "predicted_duration": "Tough match",
+          "style_conflict": "Side pressure vs. top roll."
+        }
+      ],
+      "opinion_about_athletes": {
+        "Rustam Babaiev": {
+          "strength": "Pinnacle of inside arm wrestling with strong hand and wrist.",
+          "health": "Recovered from chest injury.",
+          "previous_match_summary": "Previous match was tough, but Rustam is confident now."
+        },
+        "Travis Bagent": {
+          "strength": "Functional strength with smart setup.",
+          "health": "No issues mentioned.",
+          "previous_match_summary": "Experienced and confident with left arm."
+        }
+      }
+    },
+    {
+      "speaker": "Engin Terzi",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Michael's shoulder roll and mobility could give him an edge if he avoids the King's move.",
+          "predicted_duration": null,
+          "style_conflict": "Shoulder roll vs. one-sided technique."
+        },
+        {
+          "match": [
+            "Elizabeth Mocek",
+            "Aleksandra Ozerova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Elizabeth Mocek",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Elizabeth has learned from her first experience and is now stronger, predicting a comfortable win.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs. experience."
+        }
+      ],
+      "opinion_about_athletes": {
+        "Michael Todd": {
+          "strength": "Strong with shoulder roll and mobility.",
+          "health": "Recovered from surgery.",
+          "previous_match_summary": "Different approach post-surgery."
+        },
+        "Elizabeth Mocek": {
+          "strength": "Very strong in the gym.",
+          "health": "No issues mentioned.",
+          "previous_match_summary": "Learned from previous experience."
+        }
+      }
+    },
+    {
+      "speaker": "Paolo",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Janis Amolins",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Janis Amolins",
+          "predicted_score": "60-40",
+          "prediction_summary": "Paolo believes Janis is a better arm wrestler and gives him a 60-40 edge over Justin.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs. power."
+        },
+        {
+          "match": [
+            "Artem Taranenko",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Paolo thinks Mindaugas has more experience and will find a way to prevent Artem from using his unorthodox style.",
+          "predicted_duration": "Huge war if Artem gets his position.",
+          "style_conflict": "Experience vs. unorthodox style."
+        }
+      ],
+      "opinion_about_athletes": {
+        "Janis Amolins": {
+          "strength": "Better arm wrestler technically.",
+          "health": "No issues mentioned.",
+          "previous_match_summary": "More active recently."
+        },
+        "Artem Taranenko": {
+          "strength": "Unorthodox style and fast.",
+          "health": "No issues mentioned.",
+          "previous_match_summary": "Powerful but less experienced."
+        }
+      }
+    }
+  ]
+}

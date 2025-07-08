@@ -1,0 +1,464 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Adam Wawrzynski",
+    "SPEAKER_02": "Vladimir Maiorov",
+    "SPEAKER_01": "Pavlo (Translator)",
+    "SPEAKER_04": "Engin Terzi",
+    "SPEAKER_03": "Unknown (Technical)"
+  },
+  "date": null,
+  "predictions": {
+    "Adam Wawrzynski": {
+      "self_predictions": [
+        {
+          "match": [
+            "Adam Wawrzynski",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Adam Wawrzynski",
+          "predicted_score": "3-1",
+          "prediction_summary": "Adam believes he is in much better form than his last match, is healthier, and has improved his efficiency at this weight. He is confident but acknowledges Vladimir's strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vladimir Maiorov": {
+              "strength": "Strong biceps, similar pulling style",
+              "health": "Good form, improving endurance",
+              "previous_match_summary": "Analyzed Vladimir's match against Samushia, noted his endurance issues in that match"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Tom Rozits",
+            "Artem Taranenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Artem Taranenko",
+          "predicted_score": null,
+          "prediction_summary": "Adam gives the edge to Artem due to his versatility and unorthodox style, though he acknowledges Tom's recent success.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artem Taranenko": {
+              "strength": "Versatile, unorthodox style",
+              "health": null,
+              "previous_match_summary": "Impressed by Artem's recent performances"
+            },
+            "Tom Rozits": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Noted recent win over Oleg Zhokh"
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Petro Marharint"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Petro Marharint",
+          "predicted_score": null,
+          "prediction_summary": "Adam favors Petro due to uncertainty about Zurab's current form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Recent match against a Georgian athlete"
+            },
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "First match back, unknown current form"
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Bozhidar Simeonov",
+          "predicted_score": null,
+          "prediction_summary": "Adam roots for Bozhidar, noting both are strong but Bozhidar has an edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bozhidar Simeonov": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Beat Procopciuc at World Combat Games"
+            },
+            "Daniel Procopciuc": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Pulled on after table"
+            }
+          }
+        },
+        {
+          "match": [
+            "Serhii Kalinichenko",
+            "Travis Bagent"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Serhii Kalinichenko",
+          "predicted_score": null,
+          "prediction_summary": "Adam roots for Travis but thinks Serhii is the favorite due to his power.",
+          "predicted_duration": null,
+          "style_conflict": "Outside puller vs outside puller",
+          "opinion_about_athletes": {
+            "Serhii Kalinichenko": {
+              "strength": "Very powerful",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Travis Bagent": {
+              "strength": "Unorthodox style, good timing",
+              "health": "Unknown current shape",
+              "previous_match_summary": "Beat Serhii a couple of years ago in a tournament"
+            }
+          }
+        },
+        {
+          "match": [
+            "Barbora Bajčiová",
+            "Egle Vaitkute"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Barbora Bajčiová",
+          "predicted_score": null,
+          "prediction_summary": "Adam thinks Barbora is slightly stronger and bigger, giving her the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Barbora Bajčiová": {
+              "strength": "Stronger, bigger",
+              "health": null,
+              "previous_match_summary": "Defeated Gabriella"
+            },
+            "Egle Vaitkute": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Recently beat Sarah"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Adam favors Todd by a solid margin.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Krasimir Kostadinov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "Adam thinks Prudnik has the edge due to his versatility, but notes Irakli is on an upward trend.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Versatile, more tools",
+              "health": "Possibly lighter now",
+              "previous_match_summary": "Beat Todd Hutchings easily in the past"
+            },
+            "Irakli Zirakashvili": {
+              "strength": "On upward trajectory",
+              "health": null,
+              "previous_match_summary": "Lost to Todd Hutchings in 2022"
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "David Dadikyan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "Adam thinks Dadikyan has a slight edge but it's very close.",
+          "predicted_duration": null,
+          "style_conflict": "Dadikyan more in the hook, Petrenko more to the top",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Impressed by his match against a younger opponent"
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Adam thinks Samushia has his hands full but isn't out of it. He believes Samushia may need to be more versatile.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Great inside",
+              "health": null,
+              "previous_match_summary": "Eight-time champion"
+            },
+            "Sasho Andreev": {
+              "strength": "Very good inside, sticky",
+              "health": null,
+              "previous_match_summary": "Coming down in weight"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "Adam thinks Morozov is the favorite and will figure out how to win after possibly losing the first couple of rounds.",
+          "predicted_duration": null,
+          "style_conflict": "All over the place (hook, press, top roll)",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Versatile",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Vitalii Laletin": {
+              "strength": "May get into his move early",
+              "health": null,
+              "previous_match_summary": "Potential to beat Levan"
+            }
+          }
+        }
+      ]
+    },
+    "Vladimir Maiorov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Adam Wawrzynski",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vladimir Maiorov",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "Vladimir believes he is in good form, has improved his endurance, and is more confident than in his match against Samushia. He thinks it will be a close match but favors himself.",
+          "predicted_duration": "Endurance game",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": "Strong biceps, physically developed",
+              "health": null,
+              "previous_match_summary": "Analyzed some videos, noted Adam's strength"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Tom Rozits",
+            "Artem Taranenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Vladimir doesn't know Tom well enough to predict but acknowledges Artem's skill.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artem Taranenko": {
+              "strength": "Good",
+              "health": "Unknown current form",
+              "previous_match_summary": null
+            },
+            "Tom Rozits": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Won Europeans, beat Oleg Zhokh once"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Vladimir cheers for Krasimir but thinks it's an even match, with endurance being a key factor.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Krasimir Kostadinov": {
+              "strength": null,
+              "health": "Endurance may be an issue",
+              "previous_match_summary": null
+            },
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Vladimir thinks Prudnik is more versatile and would favor him if both are in peak form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Versatile, more tools",
+              "health": "Possibly lighter now",
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": "On upward trajectory",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "David Dadikyan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Vladimir likes both athletes and thinks the winner will be whoever imposes their style (Dadikyan in the hook, Petrenko to the top).",
+          "predicted_duration": null,
+          "style_conflict": "Dadikyan in hook, Petrenko to top",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": null,
+          "prediction_summary": "Vladimir wants Samushia to win for a rematch but thinks Sasho is very likely to win and could dominate the category.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Eight-time champion"
+            },
+            "Sasho Andreev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Could be next dominant champion"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vladimir thinks Vitalii has a slight edge but wants Morozov to push him to reveal weaknesses, as he believes Vitalii has more potential to beat Levan.",
+          "predicted_duration": "Hard match",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Serious opponent",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Vitalii Laletin": {
+              "strength": "More potential to beat Levan",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

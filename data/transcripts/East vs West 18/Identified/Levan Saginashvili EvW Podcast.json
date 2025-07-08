@@ -1,0 +1,138 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Levan Saginashvili",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Tornike (Translator)"
+  },
+  "date": null,
+  "Levan Saginashvili": {
+    "self_predictions": [
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Levan Saginashvili",
+        "predicted_score": null,
+        "prediction_summary": "Levan is confident in his victory, citing his current shape and understanding of his opponent. He believes there's no chance Ermes can take his wrist and plans to control the match.",
+        "predicted_duration": null,
+        "style_conflict": "Levan expects to dominate with wrist control and superior hand strength.",
+        "opinion_about_athletes": {
+          "Ermes Gasparini": {
+            "strength": "Strong rise through the middle, but doubts about his back pressure strength based on training videos.",
+            "health": null,
+            "previous_match_summary": "Levan references their previous match where he won despite not being in his best shape, implying Ermes hasn't improved enough to challenge him now."
+          }
+        }
+      }
+    ],
+    "third_party_predictions": [
+      {
+        "match": [
+          "Michael Todd",
+          "Vitaly Laletin"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Michael Todd",
+        "predicted_score": null,
+        "prediction_summary": "Levan believes Michael Todd's awkward style and press could trouble Laletin, especially if Laletin's wrist cracks. He thinks Todd has a chance if the match goes to the strap.",
+        "predicted_duration": "Long battle expected.",
+        "style_conflict": "Todd's press vs. Laletin's potential wrist issues.",
+        "opinion_about_athletes": {
+          "Michael Todd": {
+            "strength": "Strong press, awkward to flash pin.",
+            "health": null,
+            "previous_match_summary": "References Todd's past performances against strong opponents like Pushkar and Dennis."
+          },
+          "Vitaly Laletin": {
+            "strength": "Strong but struggles with good pressers.",
+            "health": null,
+            "previous_match_summary": "Mentions Laletin's wrist cracking against Ermes and struggles against Chaffee's press."
+          }
+        }
+      },
+      {
+        "match": [
+          "Matt Mask",
+          "Irakli Zirakashvili"
+        ],
+        "arm": "Left",
+        "event": "East vs West 18",
+        "predicted_winner": "Irakli Zirakashvili",
+        "predicted_score": null,
+        "prediction_summary": "Levan thinks Irakli is preparing well and is very motivated, predicting a win despite the tough match.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Matt Mask": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": "Surprised by Mask's win over Ongarbaev but doubts Mask's current level against Irakli."
+          },
+          "Irakli Zirakashvili": {
+            "strength": "Crazy dedicated, lifting heavy weights.",
+            "health": null,
+            "previous_match_summary": "Preparing well and focused."
+          }
+        }
+      },
+      {
+        "match": [
+          "David Dadikyan",
+          "Georgii Tretiakov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Levan expects a tough battle with no flash pins, possibly with Dadikyan holding Tretiakov slightly below center.",
+        "predicted_duration": "Long battle expected.",
+        "style_conflict": "Dadikyan's wrist vs. Tretiakov's pronator.",
+        "opinion_about_athletes": {
+          "David Dadikyan": {
+            "strength": "Strong shoulder and wrist.",
+            "health": null,
+            "previous_match_summary": "Previously predicted Dadikyan would win against Kurdecha."
+          },
+          "Georgii Tretiakov": {
+            "strength": "Good pronator, hard to control.",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ]
+  },
+  "Engin Terzi": {
+    "third_party_predictions": [
+      {
+        "match": [
+          "Paul Linn",
+          "Arsen Khachatryan"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Paul Linn",
+        "predicted_score": null,
+        "prediction_summary": "Engin mentions Linn's preparation and implies confidence in his victory.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Paul Linn": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Arsen Khachatryan": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Krasimir Kostadinov",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_03": "Todd Hutchings",
+    "SPEAKER_04": "Todd Hutchings"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Todd Hutchings",
+      "self_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Todd believes he has improved and likes his chances against Krasimir, especially with his improved pronation and side pressure.",
+          "predicted_duration": null,
+          "style_conflict": "Inside pull vs. versatile style",
+          "opinion_about_athletes": {
+            "Krasimir Kostadinov": {
+              "strength": "Respects his strength and experience but believes he can handle it.",
+              "health": null,
+              "previous_match_summary": "Analyzed past matches and feels prepared."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Tom Rozits",
+            "Artem Taranenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Artem Taranenko",
+          "predicted_score": null,
+          "prediction_summary": "Artem's unorthodox style and ability to generate power from losing positions give him an edge.",
+          "predicted_duration": null,
+          "style_conflict": "Unorthodox vs. traditional",
+          "opinion_about_athletes": {
+            "Artem Taranenko": {
+              "strength": "Unique ability to hit from weird positions.",
+              "health": null,
+              "previous_match_summary": "Impressed by his past performances."
+            }
+          }
+        },
+        {
+          "match": [
+            "Petro Marharint",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Petro Marharint",
+          "predicted_score": null,
+          "prediction_summary": "Petro's cupping dominance makes him the favorite, but Zurab's bicep power could be a factor.",
+          "predicted_duration": null,
+          "style_conflict": "Cupping vs. bicep power",
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Strong cupping and control.",
+              "health": null,
+              "previous_match_summary": "Recent comeback, needs more time to peak."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "Ibragim's explosive style and ability to turn around quickly give him the advantage.",
+          "predicted_duration": null,
+          "style_conflict": "Explosive vs. press",
+          "opinion_about_athletes": {
+            "Ibragim Sagov": {
+              "strength": "Explosive and versatile.",
+              "health": null,
+              "previous_match_summary": "Dominant in past matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "David Dadikyan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Oleg's side pressure and strength make him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Side pressure vs. explosiveness",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Explosive but may struggle against Oleg's strength.",
+              "health": null,
+              "previous_match_summary": "Strong endurance but may not finish quickly."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Samushia's endurance and strength make him the clear favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs. center control",
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Strong wrist and center control.",
+              "health": null,
+              "previous_match_summary": "Dominant in past matches but may struggle with endurance."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Morozov's versatility and ability to hook Laletin give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. top roll",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Strong top roller but may struggle if hooked.",
+              "health": null,
+              "previous_match_summary": "Dominant at higher weights."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Krasimir Kostadinov",
+      "self_predictions": [
+        {
+          "match": [
+            "Krasimir Kostadinov",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Krasimir Kostadinov",
+          "predicted_score": null,
+          "prediction_summary": "Krasimir believes his experience and strength will give him the edge, especially if he can stop Todd's hit early.",
+          "predicted_duration": null,
+          "style_conflict": "Versatile vs. inside pull",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Respects his improved pronation and side pressure.",
+              "health": null,
+              "previous_match_summary": "Analyzed past matches and feels prepared."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Tom Rozits",
+            "Artem Taranenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Artem Taranenko",
+          "predicted_score": null,
+          "prediction_summary": "Artem's unorthodox style and ability to generate power from losing positions give him an edge.",
+          "predicted_duration": null,
+          "style_conflict": "Unorthodox vs. traditional",
+          "opinion_about_athletes": {
+            "Artem Taranenko": {
+              "strength": "Unique ability to hit from weird positions.",
+              "health": null,
+              "previous_match_summary": "Impressed by his past performances."
+            }
+          }
+        },
+        {
+          "match": [
+            "Petro Marharint",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Petro Marharint",
+          "predicted_score": null,
+          "prediction_summary": "Petro's cupping dominance makes him the favorite, but Zurab's bicep power could be a factor.",
+          "predicted_duration": null,
+          "style_conflict": "Cupping vs. bicep power",
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Strong cupping and control.",
+              "health": null,
+              "previous_match_summary": "Recent comeback, needs more time to peak."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli's slight edge in endurance and strength makes him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Versatile vs. top roll",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Strong but may struggle with Irakli's endurance.",
+              "health": "Coming back after injury.",
+              "previous_match_summary": "Past matches show Prudnik's versatility."
+            }
+          }
+        },
+        {
+          "match": [
+            "Dimitrina Petrova",
+            "Ayane Takenaka"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Dimitrina Petrova",
+          "predicted_score": null,
+          "prediction_summary": "Dimitrina's strength and quick finishes make her the favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Control vs. endurance",
+          "opinion_about_athletes": {
+            "Ayane Takenaka": {
+              "strength": "Endurance-based but may struggle with Dimitrina's power.",
+              "health": null,
+              "previous_match_summary": "Past matches show her endurance."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

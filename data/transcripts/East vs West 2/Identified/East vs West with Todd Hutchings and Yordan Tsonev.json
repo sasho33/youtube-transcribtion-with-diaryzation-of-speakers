@@ -1,0 +1,397 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Pradeep",
+    "SPEAKER_01": "Todd Hutchings",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Yordan Tsonev",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Todd Hutchings",
+      "self_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yordan Tsonev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Todd feels confident in his inside and outside game, but acknowledges Yordan's unique style. He believes the match will start slower unless Yordan trains for speed.",
+          "predicted_duration": null,
+          "style_conflict": "Yordan's unique hook pulling style vs Todd's inside and outside game",
+          "opinion_about_athletes": {
+            "Yordan Tsonev": {
+              "strength": "Unique style of getting palm up and digging his arm out",
+              "health": null,
+              "previous_match_summary": "Watched multiple matches including his super match and highlight reel"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Todd believes John's pronator is stronger and he will slow down the match and take the pronation on Hazi.",
+          "predicted_duration": null,
+          "style_conflict": "John's pronation vs Hazi's hook",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Strong pronator, bigger hand",
+              "health": null,
+              "previous_match_summary": "Has pulled both John and Hazi recently"
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Tough opponent",
+              "health": null,
+              "previous_match_summary": "Known for his hook style"
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Todd thinks Michael Todd is the favorite due to his dedication and training.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi's climbing ability vs Michael Todd's style",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Dedicated, trains hard",
+              "health": null,
+              "previous_match_summary": "Works harder at it than anybody Todd knows"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Climbing ability and press",
+              "health": null,
+              "previous_match_summary": "Watched his match vs Ermes"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ron Bath",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Todd is unsure about Ron's current shape but thinks Zurab has the advantage.",
+          "predicted_duration": null,
+          "style_conflict": "Ron's endurance vs Zurab's speed",
+          "opinion_about_athletes": {
+            "Ron Bath": {
+              "strength": "Legend, bad dude",
+              "health": null,
+              "previous_match_summary": "Doesn't keep a public profile, unsure about current shape"
+            },
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Recently watched him"
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Todd picks Prudnik over Morozov due to his elite level and ability to hook Morozov.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik's hook vs Morozov's top roll",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Elite level, fast start",
+              "health": null,
+              "previous_match_summary": "Lost to Prudnik due to his speed"
+            },
+            "Artyom Morozov": {
+              "strength": "Good against top rollers, good wrist",
+              "health": null,
+              "previous_match_summary": "Feels good against top rollers"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Yordan Tsonev",
+      "self_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yordan Tsonev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Yordan Tsonev",
+          "predicted_score": null,
+          "prediction_summary": "Yordan believes he can win, especially in a long match due to improved endurance.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Yordan's hook vs Todd's inside and outside game",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong inside and outside game",
+              "health": null,
+              "previous_match_summary": "Respects Todd's style and training"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Yordan thinks John is the favorite but Hazi has chances if he goes to strap and hook.",
+          "predicted_duration": null,
+          "style_conflict": "John's pronation vs Hazi's hook",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Favorite",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Chances if he goes to strap and hook",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Yordan thinks Michael has more chance to win unless Genadi can climb and press effectively.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi's climbing ability vs Michael Todd's style",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "More chance to win",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Needs to climb and press effectively",
+              "health": null,
+              "previous_match_summary": "Watched his match vs Ermes"
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Yordan thinks Prudnik will manage to hook Morozov.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik's hook vs Morozov's top roll",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Will manage to hook Morozov",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artyom Morozov": {
+              "strength": "Good in hook",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yordan Tsonev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Yordan Tsonev",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Yordan has a chance to win if the match goes long due to his endurance.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Yordan's endurance vs Todd's power",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "More horsepower in offensive way",
+              "health": null,
+              "previous_match_summary": "Seen him with Dave Chaffee"
+            },
+            "Yordan Tsonev": {
+              "strength": "Improved endurance",
+              "health": null,
+              "previous_match_summary": "Trained with someone imitating Todd's style"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks John's pronator is stronger and he will slow down the match.",
+          "predicted_duration": null,
+          "style_conflict": "John's pronation vs Hazi's hook",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Stronger pronator",
+              "health": null,
+              "previous_match_summary": "More experience using pronator effectively"
+            },
+            "Khadzimurat Zoloev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Michael Todd is the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Favorite",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Watched his match vs Ermes"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ron Bath",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Ron Bath",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Ron will win if the match is long due to his endurance and heart.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Ron's endurance vs Zurab's speed",
+          "opinion_about_athletes": {
+            "Ron Bath": {
+              "strength": "Endurance and heart",
+              "health": null,
+              "previous_match_summary": "Never quits"
+            },
+            "Zurab Tavberidze": {
+              "strength": "5-10 seconds to win if short",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Prudnik will win due to his elite level.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik's hook vs Morozov's top roll",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Elite level",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artyom Morozov": {
+              "strength": "Good in hook",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Morozov is heavily favorite but Tobias may surprise due to his left arm being stronger.",
+          "predicted_duration": null,
+          "style_conflict": "Morozov's hook vs Tobias' cupping ability",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Heavily favorite",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Tobias Sporrong": {
+              "strength": "Left arm 30% stronger than right, good cupping ability",
+              "health": null,
+              "previous_match_summary": "Gave trouble to Kurdesha"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

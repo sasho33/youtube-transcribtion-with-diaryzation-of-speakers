@@ -1,0 +1,355 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Alex Kurdecha",
+    "SPEAKER_02": "Paulo",
+    "SPEAKER_04": "Artem Morozov"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Alex Kurdecha",
+      "self_predictions": [
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Artem Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Alex Kurdecha",
+          "prediction_summary": "Alex believes he will win but acknowledges it's a tough match."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Davit Samushia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Todd Hutchings",
+          "prediction_summary": "Slight favorite due to Todd's recent performances."
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "John Brzenk",
+          "prediction_summary": "Alex cheers for John due to personal admiration."
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Evgeny Prudnik",
+          "prediction_summary": "Slight edge to Prudnik due to endurance."
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Wagner Bortolato"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Matt Mask",
+          "prediction_summary": "51% chance for Matt due to speed."
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Rino Mašić"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Ivan Matyushenko",
+          "prediction_summary": "Ivan is a favorite due to experience."
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Irakli Zirakashvili",
+          "prediction_summary": "Irakli is favored due to recent shape."
+        },
+        {
+          "match": [
+            "Artem Taynov",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Artem Taynov",
+          "prediction_summary": "Slight favorite due to top roll."
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Daniel Procopciuc",
+          "prediction_summary": "Daniel is favored due to versatility."
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Davit Samushia",
+          "prediction_summary": "Davit wants to set a record."
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Avtandil Tutberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Oleg Zhokh",
+          "prediction_summary": "Oleg's anatomy makes him hard to top-roll."
+        },
+        {
+          "match": [
+            "Aymeric Pradines",
+            "Robbie Topie"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Aymeric Pradines",
+          "prediction_summary": "Aymeric is favored if in good shape."
+        }
+      ]
+    },
+    {
+      "speaker": "Artem Morozov",
+      "self_predictions": [
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Artem Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Artem Morozov",
+          "prediction_summary": "Artem believes the strongest will win."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Davit Samushia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Davit Samushia",
+          "prediction_summary": "Rooting for David but acknowledges it's tough."
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "John Brzenk",
+          "prediction_summary": "John will win at 105 kg."
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Alizhan Muratov",
+          "prediction_summary": "Alizhan's speed and side pressure will win."
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Rino Mašić"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Ivan Matyushenko",
+          "prediction_summary": "Ivan is a heavy favorite due to wrist strength."
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Irakli Zirakashvili",
+          "prediction_summary": "Irakli is favored."
+        },
+        {
+          "match": [
+            "Artem Taynov",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "50-50",
+          "prediction_summary": "Depends on Zurab's bicep recovery."
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Daniel Procopciuc",
+          "prediction_summary": "Daniel has more styles."
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Avtandil Tutberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Oleg Zhokh",
+          "prediction_summary": "Oleg's anatomy favors him."
+        }
+      ]
+    },
+    {
+      "speaker": "Paulo",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Artem Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Unpredictable",
+          "prediction_summary": "Unpredictable due to both athletes' recent changes."
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Evgeny Prudnik",
+          "prediction_summary": "Slight edge due to endurance."
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Wagner Bortolato"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Matt Mask",
+          "prediction_summary": "Matt's speed will win."
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Rino Mašić"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Ivan Matyushenko",
+          "prediction_summary": "Heavy favorite but Rino could surprise."
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Irakli Zirakashvili",
+          "prediction_summary": "Slight edge to Irakli."
+        },
+        {
+          "match": [
+            "Artem Taynov",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "50-50",
+          "prediction_summary": "Zurab has leveled up recently."
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Daniel Procopciuc",
+          "prediction_summary": "Slight edge to Daniel."
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "Future Match",
+          "predicted_winner": "Levan Saginashvili",
+          "prediction_summary": "Levan will add cardio and win again."
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "War",
+          "prediction_summary": "Expects a long endurance match."
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Wagner Bortolato"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Matt Mask",
+          "prediction_summary": "Table might break due to Wagner's power."
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "Future Match",
+          "predicted_winner": "Levan Saginashvili",
+          "prediction_summary": "Levan needs to improve to secure win."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Translator",
+    "SPEAKER_01": "Unknown",
+    "SPEAKER_02": "Denis Cyplenkov",
+    "SPEAKER_04": "Host/Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Denis Cyplenkov",
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Leonidas Arkona",
+          "predicted_score": null,
+          "prediction_summary": "Leonidas is younger and stronger; John's experience may not be enough to counteract Leonidas's power.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs. Experience",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "High technique and experience",
+              "health": "Good but aging",
+              "previous_match_summary": "Recent losses, still competitive in weight class"
+            },
+            "Leonidas Arkona": {
+              "strength": "Very strong, on the rise",
+              "health": "Good",
+              "previous_match_summary": "Recent strong performances, including a win over Skolboy"
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Alex will break Jerry's movement and win decisively.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs. Technique",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Strong flop press",
+              "health": "Good",
+              "previous_match_summary": "Consistent performer but may struggle against top-tier opponents"
+            },
+            "Alex Kurdecha": {
+              "strength": "Very strong, experienced",
+              "health": "Good",
+              "previous_match_summary": "Recent strong performances, improving mindset"
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Kamil Jablonski",
+          "predicted_score": null,
+          "prediction_summary": "Jablonski's triceps press will overpower Michael's style, especially if he gains position early.",
+          "predicted_duration": null,
+          "style_conflict": "Triceps press vs. Shoulder pressure",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Endurance, shoulder pressure",
+              "health": "Good",
+              "previous_match_summary": "Tends to tire opponents before pressing"
+            },
+            "Kamil Jablonski": {
+              "strength": "Strong triceps, weight advantage",
+              "health": "Good",
+              "previous_match_summary": "Effective in deep flop press positions"
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Frank Lampirelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Hopes Dave will start a winning streak, though not familiar with Lampirelli's recent form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Powerful, experienced",
+              "health": "Not in best form",
+              "previous_match_summary": "Recent losses, looking to rebound"
+            },
+            "Frank Lampirelli": {
+              "strength": "Unknown",
+              "health": "Unknown",
+              "previous_match_summary": "Not well-known to Denis"
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babaiev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Rustam Babaiev",
+          "predicted_score": null,
+          "prediction_summary": "Rustam was favorite in previous match but lost due to injury; expects him to win if healthy.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rustam Babaiev": {
+              "strength": "Strong, technical",
+              "health": "Recovering from chest injury",
+              "previous_match_summary": "Lost to Paul Linn due to injury"
+            },
+            "Paul Linn": {
+              "strength": "Competitive",
+              "health": "Good",
+              "previous_match_summary": "Won previous match due to Rustam's injury"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Ivan Matyushenko",
+    "SPEAKER_04": "Host"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Ivan Matyushenko",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Devon has chances but Levan is the favorite. It may be close but still bets on Levan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Very strong, especially in wrist and pronation",
+              "health": "Had some issues with wrist curl recently",
+              "previous_match_summary": "Dominant in previous matches, but recent training shows slightly lower wrist strength"
+            },
+            "Devon Larratt": {
+              "strength": "Strong, especially in psychological pressure and versatility",
+              "health": null,
+              "previous_match_summary": "Has been improving and adapting, but lost 6-0 to Levan last time"
+            }
+          }
+        },
+        {
+          "match": [
+            "Kamil Jablonski",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Kamil Jablonski",
+          "predicted_score": null,
+          "prediction_summary": "Kamil is slightly favored due to better side pressure and experience, but Tobias has adapted well with his new style.",
+          "predicted_duration": null,
+          "style_conflict": "Tobias has strong grip and hand, which could trouble Kamil if he controls the pronator.",
+          "opinion_about_athletes": {
+            "Kamil Jablonski": {
+              "strength": "Strong in defensive positions and side pressure",
+              "health": null,
+              "previous_match_summary": "Experienced and consistent in left arm matches"
+            },
+            "Tobias Sporrong": {
+              "strength": "Strong grip and hand, adapted to use side pressure more",
+              "health": null,
+              "previous_match_summary": "Showed good adaptation against Wagner, but less experienced in left arm"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

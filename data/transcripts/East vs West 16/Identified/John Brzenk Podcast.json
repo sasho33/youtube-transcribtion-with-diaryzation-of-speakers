@@ -1,0 +1,142 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_02": "John Brzenk"
+  },
+  "date": null,
+  "predictions": {
+    "John Brzenk": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes needs to be explosive and win quickly or lose quickly. If the match goes longer than 10-15 seconds, it favors Michael Todd due to his endurance.",
+          "predicted_duration": "Short if Ermes wins, long if Michael Todd gains traction",
+          "style_conflict": "Ermes' explosive power vs Michael Todd's endurance and king's move",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Monster in strength, size, speed, and experience",
+              "health": null,
+              "previous_match_summary": "Handled Michael Todd well at 200 pounds in Italy"
+            },
+            "Michael Todd": {
+              "strength": "Strong, good endurance, and improved training",
+              "health": null,
+              "previous_match_summary": "Beat Genadi Kvikvinia and has shown significant progression"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Laletin looks very dominant, but Morozov is also strong. The match could be competitive.",
+          "predicted_duration": null,
+          "style_conflict": "Laletin's top roll vs Morozov's potential hook",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Super fit, lean, and strong",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            },
+            "Artyom Morozov": {
+              "strength": "Strong but may not match Laletin's dominance",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon's approach was perfect in their last match. If he can defend against Genadi's flop wrist press, he can win.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's open pronation top roll vs Genadi's flop wrist press",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Perfect technique and preparation",
+              "health": "Recovering from wrist injury",
+              "previous_match_summary": "Had the upper hand until Genadi switched to flop wrist press"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Strong but relies on flop wrist press",
+              "health": null,
+              "previous_match_summary": "Switched to flop wrist press to counter Devon"
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes has improved his riser strength post-Devon match and is focused on winning quickly.",
+          "predicted_duration": "Short if Ermes wins",
+          "style_conflict": "Ermes' explosive power vs Michael Todd's endurance",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Improved riser strength, explosive",
+              "health": null,
+              "previous_match_summary": "Struggled with Devon's back pressure but has improved"
+            },
+            "Michael Todd": {
+              "strength": "Strong endurance and king's move",
+              "health": null,
+              "previous_match_summary": "Beat Genadi Kvikvinia and is in good form"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Laletin is very dominant, but Morozov is also strong. The match could be competitive.",
+          "predicted_duration": null,
+          "style_conflict": "Laletin's top roll vs Morozov's potential hook",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Dominant and strong",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            },
+            "Artyom Morozov": {
+              "strength": "Strong but may not match Laletin",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

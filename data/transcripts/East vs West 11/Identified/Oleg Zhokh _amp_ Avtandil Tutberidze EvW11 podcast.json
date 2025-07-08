@@ -1,0 +1,402 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Anzor (Translator)",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Unknown",
+    "SPEAKER_04": "Avtandil Tutberidze",
+    "SPEAKER_01": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Oleg Zhokh",
+      "self_predictions": [
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Avtandil Tutberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": "4-3",
+          "prediction_summary": "Oleg believes it will be a close match, estimating a 50-50 chance. He considers himself slightly the underdog due to weight class but is confident in his preparation.",
+          "predicted_duration": "Close match, possibly going to seven rounds",
+          "style_conflict": "Toproll vs Toproll",
+          "opinion_about_athletes": {
+            "Avtandil Tutberidze": {
+              "strength": "Genetically gifted, fast, good control",
+              "health": "Young and in good shape",
+              "previous_match_summary": "Became a world champion recently, showing hard work and skill"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Artem Taynov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Artem Taynov",
+          "predicted_score": null,
+          "prediction_summary": "Oleg thinks Taynov will win, likely through toproll.",
+          "predicted_duration": "Short match",
+          "style_conflict": "Toproll vs Hook",
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Nurdalet Aidarkhan",
+            "Vala Ichqiti"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Nurdalet Aidarkhan",
+          "predicted_score": null,
+          "prediction_summary": "Oleg believes Nurdalet is a very good opponent and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Vladimir Maiorov",
+            "Davit Samushia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Oleg thinks Samushia will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Marcio Barboza"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Oleg believes it will be a hard match but Petrenko will win.",
+          "predicted_duration": "Hard match",
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Oleg thinks it will be a tough fight but favors Irakli.",
+          "predicted_duration": "Tough fight",
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Oleg believes if Daniel holds his position, he will win.",
+          "predicted_duration": "Depends on who imposes their style",
+          "style_conflict": "Side pressure vs Wrist control",
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Rino Mašić"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Rino Mašić",
+          "predicted_score": null,
+          "prediction_summary": "Oleg thinks Rino has a slight better chance due to his ability to impose his style.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Oleg believes John's experience and ability to find keys to opponents will lead him to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Alizhan Muratov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Oleg thinks it will be the most interesting fight and supports Prudnik to win, though it will be tough.",
+          "predicted_duration": "War",
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Artem Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Oleg believes Kurdecha's experience will give him the edge over the younger Morozov.",
+          "predicted_duration": "Tough match",
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "Oleg thinks Dadikyan has a slight edge but if Hutchings stops the match, he could win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Oleg believes Devon will be better prepared this time and has a slight edge over Levan.",
+          "predicted_duration": "Closer than last time",
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        }
+      ]
+    },
+    {
+      "speaker": "Avtandil Tutberidze",
+      "self_predictions": [
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Avtandil Tutberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Avtandil Tutberidze",
+          "predicted_score": null,
+          "prediction_summary": "Avtandil is confident he will win, citing Oleg's big palm as a challenge but believes in his endurance and strength.",
+          "predicted_duration": null,
+          "style_conflict": "Toproll vs Toproll",
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Big palm, strong endurance",
+              "health": "Recovering from past accidents",
+              "previous_match_summary": "Dominant in his weight class, rarely loses to toprollers"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Artem Taynov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Artem Taynov",
+          "predicted_score": "60-40",
+          "prediction_summary": "Avtandil thinks Taynov has a 60% chance, considering Zurab's recent injury.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Vala Ichqiti",
+            "Nurdalet Aidarkhan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Vala Ichqiti",
+          "predicted_score": null,
+          "prediction_summary": "Avtandil believes Vala's strength will be enough to beat Aydar Khan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Vladimir Maiorov",
+            "Davit Samushia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Avtandil is sure Samushia will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Marcio Barboza"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Avtandil thinks Petrenko will win based on his past performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Wagner Bortolato"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Avtandil thinks it's a 50-50 match and will be exciting to watch.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Aymeric Pradines",
+            "Robbie Topie"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Aymeric Pradines",
+          "predicted_score": null,
+          "prediction_summary": "Avtandil believes Aymeric's form is good and he will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Rino Mašić"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": "70-30",
+          "prediction_summary": "Avtandil favors Ivan but acknowledges Rino's explosiveness.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Krasimir Kostadinov",
+          "predicted_score": null,
+          "prediction_summary": "Avtandil thinks John's age might be a factor, favoring Kostadinov.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Alizhan Muratov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "50-50",
+          "prediction_summary": "Avtandil thinks it's 50-50 but Prudnik might find the key to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Artem Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Avtandil believes if Kurdecha takes Morozov's hand, he will win 100%.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Avtandil thinks Todd will win but acknowledges Dadikyan's explosiveness.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Avtandil thinks the result will be the same as last time but it will be tougher for Levan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        }
+      ]
+    }
+  ]
+}

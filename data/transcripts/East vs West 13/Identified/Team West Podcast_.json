@@ -1,0 +1,125 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Derek Smith",
+    "SPEAKER_01": "Justin Bishop",
+    "SPEAKER_03": "Paul Lynn"
+  },
+  "date": null,
+  "predictions": {
+    "Paul Lynn": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "At 95 kg, I might take Irakli. At 105 kg, I might take Prudnik. But if both are prime at a catch weight of 100 kg, it's hard to bet against Irakli right now.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Very strong, especially in top roll",
+              "health": "Young and healthy",
+              "previous_match_summary": "Dominating performances recently"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Strong, but possibly banged up recently",
+              "health": "Might have some injuries",
+              "previous_match_summary": "Still on demand but recent performances unclear"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Morozov is the man, but Vitalii is considered by many as the rightful owner of the title. If Vitalii loses to Camille, it could shake things up.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Incredible top roll and leverage",
+              "health": "Good",
+              "previous_match_summary": "Strong performances, considered top contender"
+            },
+            "Artyom Morozov": {
+              "strength": "Versatile, can hook and top roll",
+              "health": "Good",
+              "previous_match_summary": "Dominating performances, current title holder"
+            }
+          }
+        }
+      ]
+    },
+    "Derek Smith": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Hard to bet against Irakli right now. He's still leveling up and is very young.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Very strong, especially in top roll",
+              "health": "Young and healthy",
+              "previous_match_summary": "Dominating performances recently"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Strong, but possibly banged up recently",
+              "health": "Might have some injuries",
+              "previous_match_summary": "Still on demand but recent performances unclear"
+            }
+          }
+        }
+      ]
+    },
+    "Justin Bishop": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "At this juncture, it's hard to bet against Irakli. He's looking strong and still leveling up.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Very strong, especially in top roll",
+              "health": "Young and healthy",
+              "previous_match_summary": "Dominating performances recently"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Strong, but possibly banged up recently",
+              "health": "Might have some injuries",
+              "previous_match_summary": "Still on demand but recent performances unclear"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

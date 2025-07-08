@@ -1,0 +1,258 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Alex Kurdecha",
+    "SPEAKER_01": "Artyom Morozov",
+    "SPEAKER_02": "Pavlo Derbedyenyev",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "self_predictions": {
+    "Alex Kurdecha": [
+      {
+        "match": [
+          "Devon Larratt",
+          "Alex Kurdecha"
+        ],
+        "arm": "Left",
+        "event": "East vs West 18",
+        "predicted_winner": "Alex Kurdecha",
+        "predicted_score": null,
+        "prediction_summary": "Alex believes he is in the best shape of his life and has broken all personal records. He respects Devon but is confident in his abilities.",
+        "predicted_duration": null,
+        "style_conflict": "Devon's tricky style vs Alex's power and endurance",
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Respects Devon's strength and preparation",
+            "health": "Not mentioned",
+            "previous_match_summary": "Devon is training seriously and is motivated."
+          }
+        }
+      },
+      {
+        "match": [
+          "Artyom Morozov",
+          "Alex Kurdecha"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Alex Kurdecha",
+        "predicted_score": null,
+        "prediction_summary": "Alex acknowledges Morozov's power and speed but believes his own preparation and shape will give him the edge.",
+        "predicted_duration": null,
+        "style_conflict": "Morozov's power vs Alex's top-roll specialization",
+        "opinion_about_athletes": {
+          "Artyom Morozov": {
+            "strength": "Very powerful and fast",
+            "health": "Not mentioned",
+            "previous_match_summary": "Morozov showed great endurance against Vitaly Laletin."
+          }
+        }
+      }
+    ],
+    "Artyom Morozov": [
+      {
+        "match": [
+          "Artyom Morozov",
+          "Alex Kurdecha"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Artyom Morozov",
+        "predicted_score": null,
+        "prediction_summary": "Morozov believes his right arm is in good shape and expects a different match compared to their left-arm encounter.",
+        "predicted_duration": null,
+        "style_conflict": "Morozov's power vs Alex's top-roll",
+        "opinion_about_athletes": {
+          "Alex Kurdecha": {
+            "strength": "Respects Alex's strength and endurance",
+            "health": "Not mentioned",
+            "previous_match_summary": "Alex is in great shape and has broken personal records."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Alex Kurdecha": [
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Levan Saginashvili",
+        "predicted_score": null,
+        "prediction_summary": "Alex believes Levan is the favorite but hopes Ermes can stop him to see a beautiful match.",
+        "predicted_duration": null,
+        "style_conflict": "Levan's power vs Ermes's technique",
+        "opinion_about_athletes": {
+          "Levan Saginashvili": {
+            "strength": "Strongest in the world",
+            "health": "Not mentioned",
+            "previous_match_summary": "Levan has been dominant."
+          },
+          "Ermes Gasparini": {
+            "strength": "Very strong and confident",
+            "health": "Very good",
+            "previous_match_summary": "Ermes has improved and believes he can win."
+          }
+        }
+      },
+      {
+        "match": [
+          "Michael Todd",
+          "Georgii Dzeranov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Michael Todd",
+        "predicted_score": null,
+        "prediction_summary": "Alex thinks Michael's endurance and technique will give him the edge, but it was unexpected how well Vitaly did against Michael.",
+        "predicted_duration": null,
+        "style_conflict": "Michael's endurance vs Georgii's speed",
+        "opinion_about_athletes": {
+          "Michael Todd": {
+            "strength": "Endurance and technique",
+            "health": "Not mentioned",
+            "previous_match_summary": "Michael controlled Vitaly in the center."
+          },
+          "Georgii Dzeranov": {
+            "strength": "Fast and strong",
+            "health": "Not mentioned",
+            "previous_match_summary": "Georgii's endurance varies."
+          }
+        }
+      }
+    ],
+    "Artyom Morozov": [
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Ermes Gasparini",
+        "predicted_score": null,
+        "prediction_summary": "Morozov roots for Ermes, believing he has improved and has a good chance to stop Levan.",
+        "predicted_duration": null,
+        "style_conflict": "Levan's power vs Ermes's technique",
+        "opinion_about_athletes": {
+          "Levan Saginashvili": {
+            "strength": "Strongest",
+            "health": "Not mentioned",
+            "previous_match_summary": "Levan has been dominant but may not have progressed much."
+          },
+          "Ermes Gasparini": {
+            "strength": "Improved significantly",
+            "health": "Very good",
+            "previous_match_summary": "Ermes has focused on specific training for this match."
+          }
+        }
+      },
+      {
+        "match": [
+          "Michael Todd",
+          "Georgii Dzeranov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Michael Todd",
+        "predicted_score": null,
+        "prediction_summary": "Morozov thinks Michael is the favorite due to his endurance and technique but roots for Georgii as his compatriot.",
+        "predicted_duration": null,
+        "style_conflict": "Michael's endurance vs Georgii's speed",
+        "opinion_about_athletes": {
+          "Michael Todd": {
+            "strength": "Endurance and technique",
+            "health": "Not mentioned",
+            "previous_match_summary": "Michael is uncomfortable to pull against."
+          },
+          "Georgii Dzeranov": {
+            "strength": "Fast and strong",
+            "health": "Not mentioned",
+            "previous_match_summary": "Georgii's endurance can be good."
+          }
+        }
+      },
+      {
+        "match": [
+          "Paul Linn",
+          "Arsen Khachatryan"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Arsen Khachatryan",
+        "predicted_score": null,
+        "prediction_summary": "Morozov believes Arsen's top roll will be stronger than Paul's wrist, making him a slight favorite.",
+        "predicted_duration": null,
+        "style_conflict": "Paul's strength vs Arsen's top roll",
+        "opinion_about_athletes": {
+          "Paul Linn": {
+            "strength": "Very strong",
+            "health": "Not mentioned",
+            "previous_match_summary": "Paul is durable and strong."
+          },
+          "Arsen Khachatryan": {
+            "strength": "Strong top roll",
+            "health": "Not mentioned",
+            "previous_match_summary": "Arsen is fast and has a strong top roll."
+          }
+        }
+      }
+    ],
+    "Pavlo Derbedyenyev": [
+      {
+        "match": [
+          "Devon Larratt",
+          "Alex Kurdecha"
+        ],
+        "arm": "Left",
+        "event": "East vs West 18",
+        "predicted_winner": "Alex Kurdecha",
+        "predicted_score": null,
+        "prediction_summary": "Pavlo thinks Alex is more powerful and comfortable with Devon's hand size, making him the favorite.",
+        "predicted_duration": null,
+        "style_conflict": "Devon's pronator vs Alex's power",
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Strong pronator",
+            "health": "Not mentioned",
+            "previous_match_summary": "Devon is training seriously."
+          },
+          "Alex Kurdecha": {
+            "strength": "Very powerful",
+            "health": "Not mentioned",
+            "previous_match_summary": "Alex is in the best shape of his life."
+          }
+        }
+      },
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Levan Saginashvili",
+        "predicted_score": null,
+        "prediction_summary": "Pavlo believes Levan is the favorite but thinks Ermes has the best chance to stop him.",
+        "predicted_duration": null,
+        "style_conflict": "Levan's power vs Ermes's technique",
+        "opinion_about_athletes": {
+          "Levan Saginashvili": {
+            "strength": "Strongest",
+            "health": "Not mentioned",
+            "previous_match_summary": "Levan has been dominant."
+          },
+          "Ermes Gasparini": {
+            "strength": "Improved",
+            "health": "Very good",
+            "previous_match_summary": "Ermes has focused on specific training."
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": null,
+    "SPEAKER_01": "Ibragim Sagov",
+    "SPEAKER_02": "Chance Shaw",
+    "SPEAKER_04": "Coach (possibly Engin Terzi)"
+  },
+  "date": null,
+  "Ibragim Sagov": {
+    "self_predictions": [
+      {
+        "match": [
+          "Ibragim Sagov",
+          "Chance Shaw"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "Ibragim Sagov",
+        "predicted_score": null,
+        "prediction_summary": "Ibragim feels confident in his ability to press and believes he can win if he gets inside, though he acknowledges Chance's strength on the outside.",
+        "predicted_duration": null,
+        "style_conflict": "Press vs Top Roll",
+        "opinion_about_athletes": {
+          "Chance Shaw": {
+            "strength": "Very difficult to turn inside, strong pronation",
+            "health": "Recently had stem cell treatment for elbow, feels good",
+            "previous_match_summary": "Seen matches where Chance maintains outside control effectively"
+          }
+        }
+      }
+    ],
+    "third_party_predictions": [
+      {
+        "match": [
+          "Vitalii Laletin",
+          "Artyom Morozov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "Vitalii Laletin",
+        "predicted_score": null,
+        "prediction_summary": "Ibragim thinks if Morozov gets inside, he wins 90%, but getting there is tough. Overall, hard to predict.",
+        "predicted_duration": null,
+        "style_conflict": "Top Roll vs Hook",
+        "opinion_about_athletes": {
+          "Vitalii Laletin": {
+            "strength": "Very fast, long arms, difficult to press against",
+            "health": null,
+            "previous_match_summary": "Dominant in previous matches, hard to sink inside"
+          },
+          "Artyom Morozov": {
+            "strength": "Strong inside, can win if he gets to hook",
+            "health": null,
+            "previous_match_summary": "Has shown ability to dominate inside"
+          }
+        }
+      },
+      {
+        "match": [
+          "Davit Samushia",
+          "Sasho Andreev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "Sasho Andreev",
+        "predicted_score": null,
+        "prediction_summary": "Ibragim believes Sasho is too strong for the weight class and will win if it goes inside.",
+        "predicted_duration": null,
+        "style_conflict": "Hook vs Top Roll",
+        "opinion_about_athletes": {
+          "Davit Samushia": {
+            "strength": "Strong, but may struggle against Sasho's power",
+            "health": null,
+            "previous_match_summary": "Has beaten everyone Engin has thrown his way, but matches are close"
+          },
+          "Sasho Andreev": {
+            "strength": "Too strong for the weight class",
+            "health": null,
+            "previous_match_summary": "Has been dominant in previous matches"
+          }
+        }
+      },
+      {
+        "match": [
+          "David Dadikyan",
+          "Oleg Petrenko"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "David Dadikyan",
+        "predicted_score": "60-40",
+        "prediction_summary": "Ibragim gives David a slight edge due to speed, expects a war with pins on both sides.",
+        "predicted_duration": null,
+        "style_conflict": "Speed vs Endurance",
+        "opinion_about_athletes": {
+          "David Dadikyan": {
+            "strength": "Very fast, strong movement",
+            "health": null,
+            "previous_match_summary": "Recently beat Todd Hutchings"
+          },
+          "Oleg Petrenko": {
+            "strength": "Very enduring, strong",
+            "health": null,
+            "previous_match_summary": "Recently beat Kadragali"
+          }
+        }
+      },
+      {
+        "match": [
+          "Irakli Zirakashvili",
+          "Evgeny Prudnik"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": null,
+        "predicted_score": "50-50",
+        "prediction_summary": "Ibragim thinks it's hard to predict, depends on Prudnik's form. If Prudnik is in bad shape, Irakli wins.",
+        "predicted_duration": null,
+        "style_conflict": "Top Roll vs Hook",
+        "opinion_about_athletes": {
+          "Irakli Zirakashvili": {
+            "strength": "Gained a lot lately, strong",
+            "health": null,
+            "previous_match_summary": "Has been performing well recently"
+          },
+          "Evgeny Prudnik": {
+            "strength": "Strong, but form is uncertain",
+            "health": null,
+            "previous_match_summary": "Took some time off, recent performance unclear"
+          }
+        }
+      },
+      {
+        "match": [
+          "Todd Hutchings",
+          "Krasimir Kostadinov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "Todd Hutchings",
+        "predicted_score": null,
+        "prediction_summary": "Ibragim thinks Todd will win but Krassi will take at least one round.",
+        "predicted_duration": null,
+        "style_conflict": "Inside vs Outside",
+        "opinion_about_athletes": {
+          "Todd Hutchings": {
+            "strength": "Hard to go inside with, strong",
+            "health": null,
+            "previous_match_summary": "Recently beat Krassi dominantly"
+          },
+          "Krasimir Kostadinov": {
+            "strength": "Gaining strength, but may not be enough",
+            "health": null,
+            "previous_match_summary": "Had a war with Lachlan recently"
+          }
+        }
+      },
+      {
+        "match": [
+          "Serhii Kalinichenko",
+          "Travis Bagent"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "Serhii Kalinichenko",
+        "predicted_score": "60-40",
+        "prediction_summary": "Ibragim thinks Travis's right arm isn't as strong as his left, and Kalinichenko is in great form.",
+        "predicted_duration": null,
+        "style_conflict": "Power vs Speed",
+        "opinion_about_athletes": {
+          "Serhii Kalinichenko": {
+            "strength": "Very powerful, strong hand, fast for super heavyweight",
+            "health": null,
+            "previous_match_summary": "Looking incredible lately"
+          },
+          "Travis Bagent": {
+            "strength": "Strong left arm, right arm not as dominant",
+            "health": null,
+            "previous_match_summary": "Recently competed, form uncertain"
+          }
+        }
+      },
+      {
+        "match": [
+          "Daniel Procopciuc",
+          "Bozhidar Simeonov"
+        ],
+        "arm": "Left",
+        "event": "East vs West 13",
+        "predicted_winner": null,
+        "predicted_score": "50-50",
+        "prediction_summary": "Ibragim thinks it's a war, even though Bozhidar won last time, Daniel has shown great form recently.",
+        "predicted_duration": null,
+        "style_conflict": "Hook vs Top Roll",
+        "opinion_about_athletes": {
+          "Daniel Procopciuc": {
+            "strength": "Showed great form vs Alan Zoloev",
+            "health": null,
+            "previous_match_summary": "Lost to Bozhidar last time but improved"
+          },
+          "Bozhidar Simeonov": {
+            "strength": "Strong, won last encounter",
+            "health": null,
+            "previous_match_summary": "Won at World Combat Games"
+          }
+        }
+      }
+    ]
+  },
+  "Chance Shaw": {
+    "self_predictions": [
+      {
+        "match": [
+          "Ibragim Sagov",
+          "Chance Shaw"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Chance has a game plan to keep Ibragim from hitting his press/hook, feels confident in his pronation.",
+        "predicted_duration": null,
+        "style_conflict": "Top Roll vs Press",
+        "opinion_about_athletes": {
+          "Ibragim Sagov": {
+            "strength": "Strong presser, difficult to turn inside",
+            "health": null,
+            "previous_match_summary": "Seen matches where Ibragim dominates inside"
+          }
+        }
+      }
+    ],
+    "third_party_predictions": [
+      {
+        "match": [
+          "Vitalii Laletin",
+          "Artyom Morozov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "Vitalii Laletin",
+        "predicted_score": "60-40",
+        "prediction_summary": "Chance thinks if Morozov gets inside, he wins almost guaranteed, but sinking Vitalii is tough. Picks Vitalii 60-40 but roots for Morozov.",
+        "predicted_duration": null,
+        "style_conflict": "Top Roll vs Hook",
+        "opinion_about_athletes": {
+          "Vitalii Laletin": {
+            "strength": "Difficult to sink inside, strong top roller",
+            "health": null,
+            "previous_match_summary": "Dominant in previous matches"
+          },
+          "Artyom Morozov": {
+            "strength": "Stronger inside, can win if he gets there",
+            "health": null,
+            "previous_match_summary": "Has shown ability to dominate inside"
+          }
+        }
+      },
+      {
+        "match": [
+          "Davit Samushia",
+          "Sasho Andreev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "Sasho Andreev",
+        "predicted_score": "55-45",
+        "prediction_summary": "Chance thinks Sasho might be the guy to beat Samushia, doesn't see Samushia taking him outside.",
+        "predicted_duration": null,
+        "style_conflict": "Hook vs Top Roll",
+        "opinion_about_athletes": {
+          "Davit Samushia": {
+            "strength": "Strong, but may struggle against Sasho's power",
+            "health": null,
+            "previous_match_summary": "Has beaten everyone Engin has thrown his way, but matches are close"
+          },
+          "Sasho Andreev": {
+            "strength": "Too strong for the weight class",
+            "health": null,
+            "previous_match_summary": "Has been dominant in previous matches"
+          }
+        }
+      },
+      {
+        "match": [
+          "David Dadikyan",
+          "Oleg Petrenko"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "David Dadikyan",
+        "predicted_score": "50-50",
+        "prediction_summary": "Chance thinks it's a coin toss, slight edge to Dadikyan due to recent form.",
+        "predicted_duration": null,
+        "style_conflict": "Speed vs Endurance",
+        "opinion_about_athletes": {
+          "David Dadikyan": {
+            "strength": "Very fast, strong movement",
+            "health": null,
+            "previous_match_summary": "Recently beat Todd Hutchings"
+          },
+          "Oleg Petrenko": {
+            "strength": "Very enduring, strong",
+            "health": null,
+            "previous_match_summary": "Recently beat Kadragali"
+          }
+        }
+      },
+      {
+        "match": [
+          "Irakli Zirakashvili",
+          "Evgeny Prudnik"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "Irakli Zirakashvili",
+        "predicted_score": "60-40",
+        "prediction_summary": "Chance picks Irakli 60-40, unsure if Prudnik is back to his previous form.",
+        "predicted_duration": null,
+        "style_conflict": "Top Roll vs Hook",
+        "opinion_about_athletes": {
+          "Irakli Zirakashvili": {
+            "strength": "Strong top roller, gaining lately",
+            "health": null,
+            "previous_match_summary": "Has been performing well recently"
+          },
+          "Evgeny Prudnik": {
+            "strength": "Strong, but form is uncertain",
+            "health": null,
+            "previous_match_summary": "Took some time off, recent performance unclear"
+          }
+        }
+      },
+      {
+        "match": [
+          "Todd Hutchings",
+          "Krasimir Kostadinov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "Todd Hutchings",
+        "predicted_score": null,
+        "prediction_summary": "Chance thinks Todd is one or two levels ahead of Krassi, hard to go inside with.",
+        "predicted_duration": null,
+        "style_conflict": "Inside vs Outside",
+        "opinion_about_athletes": {
+          "Todd Hutchings": {
+            "strength": "Hard to go inside with, strong",
+            "health": null,
+            "previous_match_summary": "Recently beat Krassi dominantly"
+          },
+          "Krasimir Kostadinov": {
+            "strength": "Strong, but may not be enough",
+            "health": null,
+            "previous_match_summary": "Had a war with Lachlan recently"
+          }
+        }
+      },
+      {
+        "match": [
+          "Serhii Kalinichenko",
+          "Travis Bagent"
+        ],
+        "arm": "Right",
+        "event": "East vs West 13",
+        "predicted_winner": "Serhii Kalinichenko",
+        "predicted_score": null,
+        "prediction_summary": "Chance thinks Sergey is a bad matchup for Travis, too big and quick. Picks Sergey unless Travis is in his best shape.",
+        "predicted_duration": null,
+        "style_conflict": "Power vs Speed",
+        "opinion_about_athletes": {
+          "Serhii Kalinichenko": {
+            "strength": "Very powerful, strong hand, fast for super heavyweight",
+            "health": null,
+            "previous_match_summary": "Looking incredible lately"
+          },
+          "Travis Bagent": {
+            "strength": "Strong left arm, right arm not as dominant",
+            "health": null,
+            "previous_match_summary": "Recently competed, form uncertain"
+          }
+        }
+      },
+      {
+        "match": [
+          "Daniel Procopciuc",
+          "Bozhidar Simeonov"
+        ],
+        "arm": "Left",
+        "event": "East vs West 13",
+        "predicted_winner": "Daniel Procopciuc",
+        "predicted_score": "65-35",
+        "prediction_summary": "Chance never picks against Prokopciuk left-handed in his weight class, thinks he will win despite last loss.",
+        "predicted_duration": null,
+        "style_conflict": "Hook vs Top Roll",
+        "opinion_about_athletes": {
+          "Daniel Procopciuc": {
+            "strength": "Incredible left-handed, strong",
+            "health": null,
+            "previous_match_summary": "Showed great form vs Alan Zoloev"
+          },
+          "Bozhidar Simeonov": {
+            "strength": "Strong, won last encounter",
+            "health": null,
+            "previous_match_summary": "Won at World Combat Games"
+          }
+        }
+      }
+    ]
+  }
+}

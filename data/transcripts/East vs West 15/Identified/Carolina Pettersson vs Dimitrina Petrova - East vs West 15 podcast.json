@@ -1,0 +1,143 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": null,
+    "SPEAKER_01": null,
+    "SPEAKER_02": "Krasi (translator for Dimitrina Petrova)",
+    "SPEAKER_03": "Malin",
+    "SPEAKER_04": "Carolina Pettersson"
+  },
+  "date": null,
+  "predictions": {
+    "Carolina Pettersson": {
+      "self_predictions": [
+        {
+          "match": [
+            "Carolina Pettersson",
+            "Dimitrina Petrova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Carolina believes she has improved significantly since her last match with Dimitrina and has changed her training to be more specific for arm wrestling. She feels she might be better now but acknowledges Dimitrina's strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dimitrina Petrova": {
+              "strength": "Very strong, especially in her preferred positions",
+              "health": null,
+              "previous_match_summary": "Dimitrina was better in their previous match, but Carolina thinks she has improved since then."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Brigitta Ivánfi",
+            "Irina Gladkaya"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Brigitta Ivánfi",
+          "predicted_score": null,
+          "prediction_summary": "Carolina thinks Brigitta is in good shape and explosive, and might take the win based on her observations.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Brigitta Ivánfi": {
+              "strength": "Explosive and in good shape",
+              "health": null,
+              "previous_match_summary": "Carolina won against Brigitta in a previous match but acknowledges her strength."
+            },
+            "Irina Gladkaya": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Not much known about her current form."
+            }
+          }
+        }
+      ]
+    },
+    "Dimitrina Petrova": {
+      "self_predictions": [
+        {
+          "match": [
+            "Dimitrina Petrova",
+            "Carolina Pettersson"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Dimitrina feels she might be the favorite but never underestimates anyone. She acknowledges Carolina's improvements but remains confident.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Carolina Pettersson": {
+              "strength": "Improved, especially in techniques and control",
+              "health": null,
+              "previous_match_summary": "Dimitrina was better in their previous match, but Carolina has improved since then."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": []
+    },
+    "Malin": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Carolina Pettersson",
+            "Dimitrina Petrova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Malin believes the match will be intense and fun to watch, with both athletes being great arm wrestlers.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Carolina Pettersson": {
+              "strength": "Improved and more secure in her pulling",
+              "health": null,
+              "previous_match_summary": "Carolina has improved significantly since her last match with Dimitrina."
+            },
+            "Dimitrina Petrova": {
+              "strength": "Strong and confident",
+              "health": null,
+              "previous_match_summary": "Dimitrina was better in their previous match."
+            }
+          }
+        },
+        {
+          "match": [
+            "Brigitta Ivánfi",
+            "Irina Gladkaya"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Malin thinks it will be fun to watch but believes the match between Carolina and Dimitrina will be more intense.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Brigitta Ivánfi": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irina Gladkaya": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Not much known about her current form."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

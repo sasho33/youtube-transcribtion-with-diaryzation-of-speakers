@@ -1,0 +1,218 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Alex",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Host",
+    "SPEAKER_03": "Alexsandr Beziazykov",
+    "SPEAKER_04": "Leonidas Arkona"
+  },
+  "date": null,
+  "predictions": {
+    "Leonidas Arkona": {
+      "self_predictions": [
+        {
+          "match": [
+            "Leonidas Arkona",
+            "Alexsandr Beziazykov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Leonidas Arkona",
+          "predicted_score": null,
+          "prediction_summary": "Leonidas is confident in his improved technique and strength, especially in endurance and biceps, and believes he can surprise Alexsandr.",
+          "predicted_duration": null,
+          "style_conflict": "Leonidas expects a tough match but believes his strength and endurance will prevail.",
+          "opinion_about_athletes": {
+            "Alexsandr Beziazykov": {
+              "strength": "Strong, especially in top roll and wrist control.",
+              "health": null,
+              "previous_match_summary": "Alexsandr has been dominant in previous matches, but Leonidas believes he has improved significantly since then."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Leonidas believes Devon's cleverness and adjustments in training will allow him to beat Levan this time.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's strategy and endurance vs. Levan's raw strength.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Superior in armwrestling, strongest on the table.",
+              "health": null,
+              "previous_match_summary": "Levan has been dominant in all his matches."
+            },
+            "Devon Larratt": {
+              "strength": "Clever and tricky at the table, improved since last match.",
+              "health": null,
+              "previous_match_summary": "Devon has shown significant improvement and has defeated top opponents since his last match with Levan."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": "60-40",
+          "prediction_summary": "Leonidas slightly favors Alex due to his strength and past performances.",
+          "predicted_duration": null,
+          "style_conflict": "Alex's strength vs. Georgi's wrist control.",
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Very strong, especially in his match against Morozov.",
+              "health": null,
+              "previous_match_summary": "Alex has shown impressive strength in previous matches."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Strong wrist control.",
+              "health": null,
+              "previous_match_summary": "Georgi has been a tough opponent in past matches."
+            }
+          }
+        }
+      ]
+    },
+    "Alexsandr Beziazykov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Alexsandr Beziazykov",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Alexsandr Beziazykov",
+          "predicted_score": "6-0",
+          "prediction_summary": "Alexsandr is very confident in his abilities and believes he will dominate the match.",
+          "predicted_duration": null,
+          "style_conflict": "Alexsandr plans to start with a top roll and control the match from there.",
+          "opinion_about_athletes": {
+            "Leonidas Arkona": {
+              "strength": "Strong, especially in endurance and biceps.",
+              "health": null,
+              "previous_match_summary": "Leonidas has improved but Alexsandr believes he is still stronger."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "70-80%",
+          "prediction_summary": "Alexsandr believes Levan's size and strength will prevail, but Devon has a chance if he tires Levan out.",
+          "predicted_duration": null,
+          "style_conflict": "Levan's raw strength vs. Devon's strategy and endurance.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Superior in armwrestling, strongest on the table.",
+              "health": null,
+              "previous_match_summary": "Levan has been dominant in all his matches."
+            },
+            "Devon Larratt": {
+              "strength": "Clever and tricky at the table.",
+              "health": null,
+              "previous_match_summary": "Devon has shown significant improvement since his last match with Levan."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": "100%",
+          "prediction_summary": "Alexsandr believes Alizhan is too strong and will dominate Ermes in the hook.",
+          "predicted_duration": null,
+          "style_conflict": "Alizhan's strength and inside game vs. Ermes' top roll.",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Very strong, especially in the hook.",
+              "health": null,
+              "previous_match_summary": "Alizhan has been dominant in previous matches."
+            },
+            "Ermes Gasparini": {
+              "strength": "Strong top roller.",
+              "health": null,
+              "previous_match_summary": "Ermes has shown good performances but may struggle against Alizhan's strength."
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Stoyan Golemanov",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Stoyan Golemanov",
+          "predicted_score": null,
+          "prediction_summary": "Stoyan's wrist and table control may be too much for Brandon, but if the match goes long, Brandon's endurance could be a factor.",
+          "predicted_duration": null,
+          "style_conflict": "Stoyan's wrist control vs. Brandon's endurance and versatility.",
+          "opinion_about_athletes": {
+            "Stoyan Golemanov": {
+              "strength": "Strong wrist and table control.",
+              "health": null,
+              "previous_match_summary": "Stoyan has been dominant in previous matches."
+            },
+            "Brandon Ellsessor": {
+              "strength": "Versatile with good endurance.",
+              "health": null,
+              "previous_match_summary": "Brandon has shown good performances but may struggle against Stoyan's wrist control."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Artur Makarov or Mindaugus Tarasaitis",
+          "predicted_score": "50-50",
+          "prediction_summary": "Engin believes Artur could dominate if he flash pins, but if the match is stopped, Mindaugus could win.",
+          "predicted_duration": null,
+          "style_conflict": "Artur's strength vs. Mindaugus' blocking ability.",
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": "Incredibly strong but lacks control.",
+              "health": null,
+              "previous_match_summary": "Artur has shown dominance but struggles with control."
+            },
+            "Mindaugus Tarasaitis": {
+              "strength": "Excellent at blocking with low hand.",
+              "health": null,
+              "previous_match_summary": "Mindaugus has been a tough opponent in previous matches."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

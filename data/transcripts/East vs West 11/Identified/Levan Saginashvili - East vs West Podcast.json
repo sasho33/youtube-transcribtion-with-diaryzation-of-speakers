@@ -1,0 +1,184 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Levan Saginashvili",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Tornike (Translator)"
+  },
+  "date": null,
+  "Levan Saginashvili": {
+    "self_predictions": [
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Devon Larratt"
+        ],
+        "arm": "Right",
+        "event": "East vs West 11",
+        "predicted_winner": "Levan Saginashvili",
+        "predicted_score": null,
+        "prediction_summary": "Levan believes he will regain his peak strength and be unbeatable, stating Devon will have no chance against him.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Strong, especially in wrist and cupping, but not drastically improved since their last match.",
+            "health": null,
+            "previous_match_summary": "Devon beat Levan 6-0 in their last match, but Levan was injured."
+          }
+        }
+      }
+    ],
+    "third_party_predictions": [
+      {
+        "match": [
+          "Vala Ichqiti",
+          "Nurdalet Aidarkhan"
+        ],
+        "arm": "Right",
+        "event": "East vs West 11",
+        "predicted_winner": "Vala Ichqiti",
+        "predicted_score": null,
+        "prediction_summary": "Levan roots for Vala but acknowledges Aidarkhan's explosiveness and speed, advising Vala to work on speed.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs. top roll",
+        "opinion_about_athletes": {
+          "Vala Ichqiti": {
+            "strength": "Very strong",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Nurdalet Aidarkhan": {
+            "strength": "Explosive and very fast",
+            "health": null,
+            "previous_match_summary": "Multiple-time WAF champion."
+          }
+        }
+      },
+      {
+        "match": [
+          "Ivan Matyushenko",
+          "Rino Mašić"
+        ],
+        "arm": "Left",
+        "event": "East vs West 11",
+        "predicted_winner": "Ivan Matyushenko",
+        "predicted_score": null,
+        "prediction_summary": "Levan thinks Ivan is too much for Rino at the moment.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Ivan Matyushenko": {
+            "strength": "Very good, almost no one can be a good opponent for him in his weight class.",
+            "health": null,
+            "previous_match_summary": "Had great sparring matches with Pushkar and Denis."
+          },
+          "Rino Mašić": {
+            "strength": "Great young athlete with potential",
+            "health": null,
+            "previous_match_summary": "Current world champion in 110 kg."
+          }
+        }
+      },
+      {
+        "match": [
+          "Matt Mask",
+          "Wagner Bortolato"
+        ],
+        "arm": "Right",
+        "event": "East vs West 11",
+        "predicted_winner": "Matt Mask",
+        "predicted_score": null,
+        "prediction_summary": "Levan predicts Matt will win but expects a highly entertaining and risky match.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Matt Mask": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Wagner Bortolato": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Alizhan Muratov",
+          "Evgeny Prudnik"
+        ],
+        "arm": "Left",
+        "event": "East vs West 11",
+        "predicted_winner": "Evgeny Prudnik",
+        "predicted_score": null,
+        "prediction_summary": "Levan thinks the 'old Prudnik' will win this match.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Alizhan Muratov": {
+            "strength": "Very strong",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Evgeny Prudnik": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Todd Hutchings",
+          "David Dadikyan"
+        ],
+        "arm": "Right",
+        "event": "East vs West 11",
+        "predicted_winner": "Todd Hutchings",
+        "predicted_score": "55-45",
+        "prediction_summary": "Levan gives a slight edge to Todd, especially if he gets the strap.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Todd Hutchings": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          },
+          "David Dadikyan": {
+            "strength": null,
+            "health": "Injured left arm",
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Alex Kurdecha",
+          "Artem Morozov"
+        ],
+        "arm": "Left",
+        "event": "East vs West 11",
+        "predicted_winner": "Artem Morozov",
+        "predicted_score": null,
+        "prediction_summary": "Levan gives a slight edge to Morozov, noting Kurdecha's weight gain might affect his endurance.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs. hook",
+        "opinion_about_athletes": {
+          "Alex Kurdecha": {
+            "strength": null,
+            "health": "Gained significant weight (over 160 kg)",
+            "previous_match_summary": "Has not pulled for a while."
+          },
+          "Artem Morozov": {
+            "strength": "Can fight even with a lost wrist",
+            "health": null,
+            "previous_match_summary": "Lost to Georgi Tsvetkov due to illness and weight loss."
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Michael Todd",
+    "SPEAKER_01": "Engin Terzi"
+  },
+  "date": null,
+  "Michael Todd": {
+    "self_predictions": [
+      {
+        "match": [
+          "Michael Todd",
+          "Frank Lamparelli"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Michael Todd",
+        "predicted_score": null,
+        "prediction_summary": "Michael Todd believes he can control Frank Lamparelli with back pressure and improve his cup strength to win the match.",
+        "predicted_duration": null,
+        "style_conflict": "Top roller vs shoulder pressure",
+        "opinion_about_athletes": {
+          "Frank Lamparelli": {
+            "strength": "Technically excellent top roller",
+            "health": null,
+            "previous_match_summary": "Known for cracking wrists and being a tough opponent"
+          }
+        }
+      }
+    ],
+    "third_party_predictions": [
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Devon Larratt"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Levan Saginashvili",
+        "predicted_score": null,
+        "prediction_summary": "Michael Todd thinks Levan is a 60% favorite due to his strength and wrist control, but Devon has a chance if he can stop Levan's initial hit.",
+        "predicted_duration": null,
+        "style_conflict": "Strength vs endurance",
+        "opinion_about_athletes": {
+          "Levan Saginashvili": {
+            "strength": "Strongest arm wrestler currently",
+            "health": null,
+            "previous_match_summary": "Dominant in previous matches"
+          },
+          "Devon Larratt": {
+            "strength": "Strong but needs to close the strength gap",
+            "health": "Improved with stem cells",
+            "previous_match_summary": "Known for endurance and leverage"
+          }
+        }
+      },
+      {
+        "match": [
+          "Ermes Gasparini",
+          "Alizhan Muratov"
+        ],
+        "arm": "Left",
+        "event": "East vs West 12",
+        "predicted_winner": "Ermes Gasparini",
+        "predicted_score": null,
+        "prediction_summary": "Michael Todd believes Ermes is not going to lose easily and will be in great shape for the match.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Ermes Gasparini": {
+            "strength": "Very strong and confident",
+            "health": null,
+            "previous_match_summary": "Preparing seriously for the match"
+          },
+          "Alizhan Muratov": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ]
+  },
+  "Engin Terzi": {
+    "self_predictions": [],
+    "third_party_predictions": [
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Devon Larratt"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Levan Saginashvili",
+        "predicted_score": null,
+        "prediction_summary": "Engin thinks Levan is favored but acknowledges Devon's chance if he can stop Levan's initial hit.",
+        "predicted_duration": null,
+        "style_conflict": "Strength vs endurance",
+        "opinion_about_athletes": {
+          "Levan Saginashvili": {
+            "strength": "Strongest arm wrestler currently",
+            "health": null,
+            "previous_match_summary": "Dominant in previous matches"
+          },
+          "Devon Larratt": {
+            "strength": "Strong but needs to close the strength gap",
+            "health": "Improved with stem cells",
+            "previous_match_summary": "Known for endurance and leverage"
+          }
+        }
+      },
+      {
+        "match": [
+          "Fia Reisik",
+          "Ekaterina Nikisheva"
+        ],
+        "arm": "Left",
+        "event": "East vs West 12",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Engin mentions it's a really important match but does not give a prediction.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Ekaterina Nikisheva": {
+            "strength": "Very, very strong",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Fia Reisik": {
+            "strength": "Legendary",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ]
+  }
+}

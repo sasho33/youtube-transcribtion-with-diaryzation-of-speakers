@@ -1,0 +1,70 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Unknown",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Devon Larratt",
+    "SPEAKER_03": "Todd Hutchings",
+    "SPEAKER_04": "Artem Taranenko"
+  },
+  "date": null,
+  "predictions": {
+    "Devon Larratt": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon expresses interest in pulling Prudnik if he holds the title, indicating confidence in his ability to compete at 115kg.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [
+        {
+          "match": [
+            "Engin Terzi",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Engin Terzi",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "Engin believes he can flash pin Devon in the first couple of rounds if his elbow is healthy, but acknowledges Devon might end up winning.",
+          "predicted_duration": null,
+          "style_conflict": "Engin plans to attack Devon's pronator and hit sideways hard.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong but not invincible at 100kg",
+              "health": null,
+              "previous_match_summary": "References past matches to argue Devon is not unbeatable at lower weights."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": []
+    },
+    "Todd Hutchings": {
+      "self_predictions": [],
+      "third_party_predictions": []
+    },
+    "Artem Taranenko": {
+      "self_predictions": [],
+      "third_party_predictions": []
+    }
+  }
+}

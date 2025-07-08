@@ -1,0 +1,158 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Travis Bagent",
+    "SPEAKER_01": "Hunter Noffz",
+    "SPEAKER_03": "Doug Erlich",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "self_predictions": {
+    "Hunter Noffz": {
+      "match": [
+        "Hunter Noffz",
+        "Doug Erlich"
+      ],
+      "arm": "Right",
+      "event": "East vs West 14",
+      "predicted_winner": "Hunter Noffz",
+      "predicted_score": "3-0",
+      "prediction_summary": "Hunter believes he will dominate Doug, citing Doug's age and lack of recent high-level competition.",
+      "predicted_duration": "Quick match",
+      "style_conflict": "Hunter plans to use his aggressive style to overpower Doug.",
+      "opinion_about_athletes": {
+        "Doug Erlich": {
+          "strength": "Doug is strong but past his prime.",
+          "health": "Doug has had injuries recently.",
+          "previous_match_summary": "Doug has not been active in high-level competitions recently."
+        }
+      }
+    },
+    "Doug Erlich": {
+      "match": [
+        "Hunter Noffz",
+        "Doug Erlich"
+      ],
+      "arm": "Right",
+      "event": "East vs West 14",
+      "predicted_winner": "Doug Erlich",
+      "predicted_score": "3-0",
+      "prediction_summary": "Doug believes Hunter lacks experience at the highest level and will not be able to handle his strength and technique.",
+      "predicted_duration": "Quick match",
+      "style_conflict": "Doug plans to use his experience and strength to control the match.",
+      "opinion_about_athletes": {
+        "Hunter Noffz": {
+          "strength": "Hunter is strong but inexperienced at the highest level.",
+          "health": "Hunter has been active and healthy.",
+          "previous_match_summary": "Hunter has been winning local tournaments but lacks high-level super match experience."
+        }
+      }
+    }
+  },
+  "third_party_predictions": [
+    {
+      "speaker": "Travis Bagent",
+      "match": [
+        "Corey West",
+        "Travis Bagent"
+      ],
+      "arm": "Left",
+      "event": "East vs West 14",
+      "predicted_winner": "Travis Bagent",
+      "predicted_score": "3-0",
+      "prediction_summary": "Travis believes his left arm is superior and will dominate Corey West.",
+      "predicted_duration": "Quick match",
+      "style_conflict": "Travis plans to use his aggressive style to overpower Corey.",
+      "opinion_about_athletes": {
+        "Corey West": {
+          "strength": "Corey is strong but not at Travis's level.",
+          "health": "Corey is healthy.",
+          "previous_match_summary": "Corey has been active but lacks high-level left-arm experience."
+        }
+      }
+    },
+    {
+      "speaker": "Doug Erlich",
+      "match": [
+        "John Brzenk",
+        "Leonidas Arkona"
+      ],
+      "arm": "Right",
+      "event": "East vs West 14",
+      "predicted_winner": "John Brzenk",
+      "predicted_score": "3-0",
+      "prediction_summary": "Doug believes John's experience and technique will be too much for Leonidas.",
+      "predicted_duration": "Long match",
+      "style_conflict": "John's hand control will be key.",
+      "opinion_about_athletes": {
+        "Leonidas Arkona": {
+          "strength": "Leonidas is strong but inexperienced.",
+          "health": "Leonidas is healthy.",
+          "previous_match_summary": "Leonidas is new to high-level super matches."
+        }
+      }
+    },
+    {
+      "speaker": "Hunter Noffz",
+      "match": [
+        "Michael Todd",
+        "Kamil Jablonski"
+      ],
+      "arm": "Right",
+      "event": "East vs West 14",
+      "predicted_winner": "Michael Todd",
+      "predicted_score": "3-2",
+      "prediction_summary": "Hunter thinks Michael's experience and endurance will give him the edge.",
+      "predicted_duration": "Long match",
+      "style_conflict": "Michael's press will be key.",
+      "opinion_about_athletes": {
+        "Kamil Jablonski": {
+          "strength": "Kamil is strong but inexperienced.",
+          "health": "Kamil is healthy.",
+          "previous_match_summary": "Kamil is new to high-level super matches."
+        }
+      }
+    },
+    {
+      "speaker": "Engin Terzi",
+      "match": [
+        "Dave Chaffee",
+        "Frank Lampirelli"
+      ],
+      "arm": "Right",
+      "event": "East vs West 14",
+      "predicted_winner": "Dave Chaffee",
+      "predicted_score": "3-0",
+      "prediction_summary": "Engin believes Dave's strength and experience will dominate Frank.",
+      "predicted_duration": "Quick match",
+      "style_conflict": "Dave's hand control will be key.",
+      "opinion_about_athletes": {
+        "Frank Lampirelli": {
+          "strength": "Frank is strong but not at Dave's level.",
+          "health": "Frank is healthy.",
+          "previous_match_summary": "Frank has been active but lacks high-level super match experience."
+        }
+      }
+    },
+    {
+      "speaker": "Travis Bagent",
+      "match": [
+        "Paul Linn",
+        "Rustam Babaiev"
+      ],
+      "arm": "Right",
+      "event": "East vs West 14",
+      "predicted_winner": "Paul Linn",
+      "predicted_score": "3-2",
+      "prediction_summary": "Travis thinks Paul's hard work and recent improvements will give him the edge.",
+      "predicted_duration": "Long match",
+      "style_conflict": "Paul's frame and technique will be key.",
+      "opinion_about_athletes": {
+        "Rustam Babaiev": {
+          "strength": "Rustam is very strong.",
+          "health": "Rustam is healthy.",
+          "previous_match_summary": "Rustam has been active and successful in recent matches."
+        }
+      }
+    }
+  ]
+}

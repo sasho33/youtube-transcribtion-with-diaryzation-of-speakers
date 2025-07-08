@@ -1,0 +1,439 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Oleg Petrenko",
+    "SPEAKER_01": "Pavlo (Translator)",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Marcio Barboza"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Marcio Barboza",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Aymeric Pradines",
+            "Robbie Topie"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Aymeric Pradines",
+          "predicted_score": null,
+          "prediction_summary": "Aymeric has more international experience and is slightly favored.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Aymeric Pradines": {
+              "strength": "Very good left arm",
+              "health": null,
+              "previous_match_summary": "Took second place to Rino Masic at Europeans."
+            },
+            "Robbie Topie": {
+              "strength": "Strong left arm",
+              "health": null,
+              "previous_match_summary": "Competed at WAF in 2001 and 2012."
+            }
+          }
+        },
+        {
+          "match": [
+            "Nurdalet Aidarkhan",
+            "Vala Ichqiti"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Very close match, could go either way.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. strength",
+          "opinion_about_athletes": {
+            "Nurdalet Aidarkhan": {
+              "strength": "Explosive and strong",
+              "health": null,
+              "previous_match_summary": "Former world champion at 75 kg, now competing at higher weight."
+            },
+            "Vala Ichqiti": {
+              "strength": "Strong top roller",
+              "health": null,
+              "previous_match_summary": "Pulled with David Samushia."
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Wagner Bortolato"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Wagner Bortolato",
+          "predicted_score": null,
+          "prediction_summary": "Wagner's strength and size could be decisive if he avoids being controlled by Matt's hand and wrist.",
+          "predicted_duration": null,
+          "style_conflict": "Press vs. hand control",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Good hand and wrist control",
+              "health": null,
+              "previous_match_summary": "Needs to control the match early."
+            },
+            "Wagner Bortolato": {
+              "strength": "Very strong, especially in press",
+              "health": null,
+              "previous_match_summary": "Former WAF finalist, now much heavier."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli is the favorite, but Paul has improved and could make it close.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. wrist control",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Top roll machine",
+              "health": null,
+              "previous_match_summary": "Dominant top roller."
+            },
+            "Paul Linn": {
+              "strength": "Strong wrist, improved recently",
+              "health": null,
+              "previous_match_summary": "Has shown progress in recent matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artem Taynov",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Artem Taynov",
+          "predicted_score": null,
+          "prediction_summary": "Slight edge to Taynov due to versatility and hand control.",
+          "predicted_duration": null,
+          "style_conflict": "Versatility vs. hook",
+          "opinion_about_athletes": {
+            "Artem Taynov": {
+              "strength": "Versatile, good hand control",
+              "health": null,
+              "previous_match_summary": "Improved technically recently."
+            },
+            "Zurab Tavberidze": {
+              "strength": "Strong hook puller",
+              "health": null,
+              "previous_match_summary": "Bull-like strength."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Avtandil Tutberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": null,
+          "prediction_summary": "Oleg Zhokh is hard to pass and is gaining better form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Super hard to pass",
+              "health": "Recovering from accident",
+              "previous_match_summary": "Won at 80 kg after moving down from 85 kg."
+            },
+            "Avtandil Tutberidze": {
+              "strength": "Incredible top roll",
+              "health": null,
+              "previous_match_summary": "Current 85 kg world champion."
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Daniel is slightly favored due to strength and endurance, but it's very close.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Top roll vs. strength",
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "One of the best top rollers",
+              "health": null,
+              "previous_match_summary": "Master of avoiding hooks."
+            },
+            "Daniel Procopciuc": {
+              "strength": "Unbelievable strength for his size",
+              "health": null,
+              "previous_match_summary": "Very strong and technical."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Rino Mašić"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": null,
+          "prediction_summary": "Matyushenko is favored, but Rino is a rising star.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": "Experienced and strong",
+              "health": null,
+              "previous_match_summary": "Long-time top competitor."
+            },
+            "Rino Mašić": {
+              "strength": "Versatile and fast",
+              "health": null,
+              "previous_match_summary": "Young and progressing rapidly."
+            }
+          }
+        },
+        {
+          "match": [
+            "Krasimir Kostadinov",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Very close match, could go either way.",
+          "predicted_duration": null,
+          "style_conflict": "Supination vs. versatility",
+          "opinion_about_athletes": {
+            "Krasimir Kostadinov": {
+              "strength": "Good at supinating and hooking",
+              "health": null,
+              "previous_match_summary": "Strong competitor."
+            },
+            "John Brzenk": {
+              "strength": "Strong and versatile",
+              "health": null,
+              "previous_match_summary": "Legendary puller."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "If Alizhan flash pins, he wins; if Prudnik stops him, Prudnik wins due to endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Explosiveness vs. endurance",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Quick and explosive",
+              "health": null,
+              "previous_match_summary": "Flash pin specialist."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Enduring and strong hook",
+              "health": null,
+              "previous_match_summary": "Proven endurance at this weight."
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Todd is favored due to endurance and recent form.",
+          "predicted_duration": null,
+          "style_conflict": "Hand control vs. endurance",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Strong hand control",
+              "health": null,
+              "previous_match_summary": "Flash pin potential."
+            },
+            "Todd Hutchings": {
+              "strength": "Enduring and strong",
+              "health": null,
+              "previous_match_summary": "Recent impressive performances."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Oleg Petrenko",
+      "self_predictions": [
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Marcio Barboza"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": "3-1",
+          "prediction_summary": "Believes he can win by avoiding mistakes and using his strengths.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Marcio Barboza": {
+              "strength": "Strong and experienced",
+              "health": "Recovering from illness",
+              "previous_match_summary": "Legendary puller with decades of experience."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Wagner Bortolato"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Wagner Bortolato",
+          "predicted_score": null,
+          "prediction_summary": "Wagner's physical strength will prevail if he doesn't break the table.",
+          "predicted_duration": null,
+          "style_conflict": "Press vs. control",
+          "opinion_about_athletes": {
+            "Wagner Bortolato": {
+              "strength": "Much stronger physically",
+              "health": null,
+              "previous_match_summary": "Strong press."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artem Taynov",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab will come back stronger and win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong and improving",
+              "health": null,
+              "previous_match_summary": "Bull-like strength."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Rino Mašić"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Rino Mašić",
+          "predicted_score": null,
+          "prediction_summary": "Rino's rapid progress gives him the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rino Mašić": {
+              "strength": "Versatile and fast",
+              "health": null,
+              "previous_match_summary": "Young and progressing rapidly."
+            }
+          }
+        },
+        {
+          "match": [
+            "Krasimir Kostadinov",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John is stronger and will be uncomfortable for Krasimir.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Strong and versatile",
+              "health": null,
+              "previous_match_summary": "Legendary puller."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "If Prudnik stops Alizhan, he will win due to endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Explosiveness vs. endurance",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Enduring and strong",
+              "health": null,
+              "previous_match_summary": "Proven endurance at this weight."
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Todd is in great shape and is currently number one in 105 kg.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong and enduring",
+              "health": null,
+              "previous_match_summary": "Recent impressive performances."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

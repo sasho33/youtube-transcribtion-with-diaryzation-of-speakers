@@ -1,0 +1,147 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Travis Bagent",
+    "SPEAKER_01": "Unknown Host",
+    "SPEAKER_02": "Unknown Speaker"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Travis Bagent",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Travis believes Michael Todd will win due to his confidence and recent performances, despite Genadi's past victory and current form.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi's press vs Michael's endurance",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Big and strong, confident, poised",
+              "health": "Recovered from bicep surgery, has had three matches post-injury",
+              "previous_match_summary": "Impressive wins post-injury, including against Kamil Jablonski"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Top three in the world, strong press",
+              "health": "Recovering from bicep surgery, first match post-injury",
+              "previous_match_summary": "Dominant hand control in previous match against Michael Todd"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Alizhan Muratov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": null,
+          "prediction_summary": "Travis gives Ivan a 70% chance of a battle, 20% chance Alizhan dominates, and 10% chance Ivan dominates. He believes Ivan's technical prowess and wrist control will be key.",
+          "predicted_duration": null,
+          "style_conflict": "Ivan's wrist control vs Alizhan's speed and power",
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": "Technician, always in control, strong wrist domination",
+              "health": null,
+              "previous_match_summary": "Close match with Morozov, showed technical superiority"
+            },
+            "Alizhan Muratov": {
+              "strength": "Fast, powerful, whole body movement",
+              "health": null,
+              "previous_match_summary": "Strong performances, but showed panic in past matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Travis thinks the match is 50-50, with Devon's weight cut potentially affecting his performance. He emphasizes the importance of fair refereeing in the set grip.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's back pressure and set grip tactics vs Oleg's strength",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong hand, competitive, great back pressure",
+              "health": "Healthy post-stem cell regimen, but weight cut could affect performance",
+              "previous_match_summary": "Strong performances at higher weights, close match with Levan"
+            },
+            "Oleg Petrenko": {
+              "strength": "Amazing, strong at 231 lbs",
+              "health": null,
+              "previous_match_summary": "Dominant win against Dadikyan"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Unknown Host",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "The host believes Michael Todd will win, citing his recent form and confidence, despite Genadi's past victory.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi's press vs Michael's endurance",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Big and strong, confident",
+              "health": "Recovered from bicep surgery",
+              "previous_match_summary": "Impressive wins post-injury"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Strong press, top three in the world",
+              "health": "Recovering from bicep surgery",
+              "previous_match_summary": "Dominant hand control in previous match against Michael Todd"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "The host thinks Devon will win but acknowledges the weight cut could affect his performance.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's back pressure vs Oleg's strength",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong hand, competitive",
+              "health": "Weight cut could be a factor",
+              "previous_match_summary": "Strong performances at higher weights"
+            },
+            "Oleg Petrenko": {
+              "strength": "Strong at 231 lbs",
+              "health": null,
+              "previous_match_summary": "Dominant win against Dadikyan"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

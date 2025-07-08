@@ -1,0 +1,342 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Betkili Oniani",
+    "SPEAKER_01": "Artem Taynov",
+    "SPEAKER_02": "Roman Tsindeliani",
+    "SPEAKER_04": "Ray Medeiros"
+  },
+  "date": null,
+  "predictions": {
+    "Artem Taynov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Artem Taynov",
+            "Betkili Oniani"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Artem Taynov",
+          "predicted_score": null,
+          "prediction_summary": "Artem believes he can win fast but acknowledges Betkili's endurance and stopping ability. He has worked on his endurance but prefers not to engage in long matches with Betkili.",
+          "predicted_duration": "Short if possible, but acknowledges it could be long",
+          "style_conflict": "Betkili's stopping ability and endurance vs Artem's speed and technique",
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Very strong, especially in stopping opponents",
+              "health": "In top shape based on recent performances",
+              "previous_match_summary": "Dominant performance against Talgat Aktaev"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "60-40",
+          "prediction_summary": "Artem leans towards Vitalii due to better endurance, though acknowledges Morozov's continuous improvement. Vitalii had recent elbow surgery but is still favored.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs growing strength",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Strong and resilient",
+              "health": "Recovering from elbow surgery",
+              "previous_match_summary": "Strong performances but post-injury status is a question"
+            },
+            "Artyom Morozov": {
+              "strength": "Continuously improving",
+              "health": null,
+              "previous_match_summary": "Growing stronger with each match"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "3-1",
+          "prediction_summary": "Artem believes Irakli is phenomenal but Prudnik's versatility will allow him to find a way to win after initial rounds.",
+          "predicted_duration": "Up to 7 rounds",
+          "style_conflict": "Irakli's top roll vs Prudnik's versatility",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Phenomenal strength with ideal technique",
+              "health": null,
+              "previous_match_summary": "Impressive recent performances"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Versatile and adaptable",
+              "health": null,
+              "previous_match_summary": "Consistently strong performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "Artem favors David due to his speed and uncomfortable hitting style, though both are extremely strong.",
+          "predicted_duration": null,
+          "style_conflict": "Speed and technique vs raw strength",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Fast and technically proficient",
+              "health": null,
+              "previous_match_summary": "Champion for a reason"
+            },
+            "Oleg Petrenko": {
+              "strength": "Extremely strong",
+              "health": null,
+              "previous_match_summary": "Does not look weaker in any aspect"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": "3-0",
+          "prediction_summary": "Artem predicts a one-sided victory for Todd, though not necessarily easy.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Krasimir Kostadinov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Serhii Kalinichenko",
+            "Travis Bagent"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Serhii Kalinichenko",
+          "predicted_score": null,
+          "prediction_summary": "Artem believes Travis is not in his peak form and Sergey will win, though it will be a great show.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Serhii Kalinichenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Travis Bagent": {
+              "strength": "Not in peak form",
+              "health": null,
+              "previous_match_summary": "Past performances were stronger"
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": null,
+          "prediction_summary": "Artem thinks it's time for David to give up the belt to Sasho, who is extremely strong. A David win would be a big surprise.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Sasho Andreev": {
+              "strength": "Extremely strong, especially in his position",
+              "health": "Cutting weight",
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Betkili Oniani": {
+      "self_predictions": [
+        {
+          "match": [
+            "Artem Taynov",
+            "Betkili Oniani"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Betkili is confident in his ability to catch Artem in his position and does not plan to focus on being faster at the start.",
+          "predicted_duration": null,
+          "style_conflict": "Betkili's stopping ability vs Artem's speed",
+          "opinion_about_athletes": {
+            "Artem Taynov": {
+              "strength": "Fast and technically proficient",
+              "health": null,
+              "previous_match_summary": "Strong performances but endurance may be a question"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "55-45",
+          "prediction_summary": "Betkili slightly favors Vitalii due to stylistic advantages and adaptability.",
+          "predicted_duration": null,
+          "style_conflict": "Stylistic adaptability",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artyom Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Betkili believes Sasho will be disappointed as David is still progressing and has not yet peaked.",
+          "predicted_duration": "Long and close",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Still progressing",
+              "health": null,
+              "previous_match_summary": "Has not yet peaked"
+            },
+            "Sasho Andreev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Betkili thinks Leonidas cannot defeat John's hand three times in a row due to John's superior hand control.",
+          "predicted_duration": null,
+          "style_conflict": "Leonidas' outside pull vs John's hand control",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Superior hand control",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Leonidas Arkona": {
+              "strength": "Outside puller",
+              "health": null,
+              "previous_match_summary": "Strong performance against Skubal"
+            }
+          }
+        }
+      ]
+    },
+    "Roman Tsindeliani": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "3-2",
+          "prediction_summary": "Roman believes Prudnik's endurance will give him the edge in a longer match, though Irakli could win if he takes early rounds.",
+          "predicted_duration": "Best of 5 rounds",
+          "style_conflict": "Endurance vs early strength",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Strong in early rounds",
+              "health": null,
+              "previous_match_summary": "Good practice performances"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Better endurance",
+              "health": null,
+              "previous_match_summary": "Versatile and adaptable"
+            }
+          }
+        },
+        {
+          "match": [
+            "Travis Bagent",
+            "Serhii Kalinichenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Travis Bagent",
+          "predicted_score": null,
+          "prediction_summary": "Roman thinks Travis could win if he regains his good form, but it's uncertain.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Travis Bagent": {
+              "strength": "Potentially strong if in good form",
+              "health": null,
+              "previous_match_summary": "Long pause from competition"
+            },
+            "Serhii Kalinichenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

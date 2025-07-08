@@ -1,0 +1,151 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Unknown",
+    "SPEAKER_01": "Nugo (Nugzari Chikadze)",
+    "SPEAKER_02": "Matt Mask",
+    "SPEAKER_03": "Engin Terzi (Host)"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Matt Mask",
+      "self_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": "3-1",
+          "prediction_summary": "Matt believes he will win against Irakli, possibly giving him one round out of pity.",
+          "predicted_duration": null,
+          "style_conflict": "Matt emphasizes his strength and versatility, suggesting he can adapt if his initial plan fails."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "Matt thinks Vitaly has the tools to beat Michael Todd but questions if he can finish him with his press.",
+          "predicted_duration": null,
+          "style_conflict": "Vitaly's speed and hit could be key, but finishing power is uncertain.",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Strong, versatile, good hand control",
+              "health": null,
+              "previous_match_summary": "Known for his speed and ability to dominate positions."
+            },
+            "Michael Todd": {
+              "strength": "Endurance, difficult to pin",
+              "health": null,
+              "previous_match_summary": "Hard to finish due to his endurance and wrist hovering technique."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "4-3",
+          "prediction_summary": "Matt supports Ermes, believing he can exploit Levan's weaknesses and become the new champion.",
+          "predicted_duration": null,
+          "style_conflict": "Ermes's progression and potential to exploit Levan's stamina issues.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Phenomenal, progressing well",
+              "health": null,
+              "previous_match_summary": "Showed great performance in previous matches."
+            },
+            "Levan Saginashvili": {
+              "strength": "Freakishly strong, but stamina questioned",
+              "health": null,
+              "previous_match_summary": "Dominant but had stamina issues in past matches."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Nugo (Nugzari Chikadze)",
+      "self_predictions": [
+        {
+          "match": [
+            "Nugzari Chikadze",
+            "Matt Mask"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Nugzari Chikadze",
+          "predicted_score": "3-0",
+          "prediction_summary": "Nugo is confident he will break Matt's wrist and dominate the match.",
+          "predicted_duration": null,
+          "style_conflict": "Nugo believes his strength and versatility will overpower Matt's hand size advantage."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Nugo believes Levan is progressing and will remain champion as long as he wants.",
+          "predicted_duration": null,
+          "style_conflict": "Levan's continuous improvement overshadows Ermes's progress.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Unmatched, progressing",
+              "health": null,
+              "previous_match_summary": "Dominant in all matches."
+            },
+            "Ermes Gasparini": {
+              "strength": "Strong but not enough to beat Levan",
+              "health": null,
+              "previous_match_summary": "Improved but still not at Levan's level."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Nugo thinks Vitaly's press isn't strong enough to finish Michael.",
+          "predicted_duration": null,
+          "style_conflict": "Michael's endurance and technique will outlast Vitaly's press.",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Good hand control but weak press",
+              "health": null,
+              "previous_match_summary": "Struggles to finish strong opponents."
+            },
+            "Michael Todd": {
+              "strength": "Endurance, hard to pin",
+              "health": null,
+              "previous_match_summary": "Known for his resilience and endurance."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

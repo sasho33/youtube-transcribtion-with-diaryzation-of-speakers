@@ -1,0 +1,140 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Devon Larratt",
+    "SPEAKER_01": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon has more chance to win, but it won't be a walk in the park.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Always strong but not the same as when he faced Levan",
+              "health": "Good, but lighter version now",
+              "previous_match_summary": "Pushed himself as a super heavyweight for 1.5 years, now naturally lighter"
+            },
+            "Chance Shaw": {
+              "strength": "Strong, around 290 lbs",
+              "health": null,
+              "previous_match_summary": "Claims he can beat the light version of Devon"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Denis Siplenkov said if Leonidas beats John, he would like to pull against him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Leonidas Arkona": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Alex is favorite, but stylistically Jerry is dangerous for Alex.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Jerry Cadorette": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babaiev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Very close match. Paul is a dangerous and serious opponent.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rustam Babaiev": {
+              "strength": "Incredible if at his best",
+              "health": null,
+              "previous_match_summary": "Already proven"
+            },
+            "Paul Linn": {
+              "strength": "Dangerous",
+              "health": null,
+              "previous_match_summary": "Very professional and respected"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ryan Belanger",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Ryan Belanger",
+          "predicted_score": null,
+          "prediction_summary": "55-45 for Ryan due to weight difference.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ryan Belanger": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Seen in videos"
+            },
+            "Raimonds Liepiņš": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Representative of West vs West"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

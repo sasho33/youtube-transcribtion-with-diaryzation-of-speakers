@@ -1,0 +1,322 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Neil Pickup",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Neil Pickup"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Neil Pickup",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Hunter Noffz",
+            "Valen Low"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Hunter Noffz",
+          "predicted_score": null,
+          "prediction_summary": "Hunter Noffz is in great form and confident, likely to win in a tight match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Hunter Noffz": {
+              "strength": "Confident and aggressive",
+              "health": "Good",
+              "previous_match_summary": "Impressive performances recently"
+            },
+            "Valen Low": {
+              "strength": "Technical and experienced",
+              "health": "Good",
+              "previous_match_summary": "Proven entity, but may struggle with Hunter's aggression"
+            }
+          }
+        },
+        {
+          "match": [
+            "Jocelyne Brisson",
+            "Sarah Bäckman"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Sarah Bäckman",
+          "predicted_score": null,
+          "prediction_summary": "Sarah Bäckman is more experienced and likely to make technical adjustments.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jocelyne Brisson": {
+              "strength": "Strong and improving",
+              "health": "Good",
+              "previous_match_summary": "Beat Sarah last time, but Sarah may have underestimated her"
+            },
+            "Sarah Bäckman": {
+              "strength": "Technical and professional",
+              "health": "Good",
+              "previous_match_summary": "May have been complacent last time, but will come back stronger"
+            }
+          }
+        },
+        {
+          "match": [
+            "Arsen Khachatryan",
+            "Andrei Sharkevich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Andrei Sharkevich",
+          "predicted_score": null,
+          "prediction_summary": "Sharkevich is slightly stronger and more settled, likely to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arsen Khachatryan": {
+              "strength": "Technical",
+              "health": "Good",
+              "previous_match_summary": "New to the scene, less experienced"
+            },
+            "Andrei Sharkevich": {
+              "strength": "Strong and experienced",
+              "health": "Good",
+              "previous_match_summary": "Has been impressive in recent matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Janis Amolins"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": "55-45",
+          "prediction_summary": "Close match, slight edge to Mindaugas due to his dangerous style.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Dangerous and unpredictable",
+              "health": "Good",
+              "previous_match_summary": "Has been pursuing this match for years"
+            },
+            "Janis Amolins": {
+              "strength": "Technical and experienced",
+              "health": "Good",
+              "previous_match_summary": "In great shape, believes he can win"
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": "55-45",
+          "prediction_summary": "Matt Mask is in great form and has the capability to beat Ongarbaev.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Explosive and confident",
+              "health": "Good",
+              "previous_match_summary": "Has been performing well recently"
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Technical and experienced",
+              "health": "May be rusty after surgery",
+              "previous_match_summary": "Exceptional arm wrestler, but may not be at his best"
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Kody Merritt",
+          "predicted_score": "55-45",
+          "prediction_summary": "Close match, slight edge to Kody Merritt due to Prudnik's uncertain form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Strong when at his best",
+              "health": "Uncertain",
+              "previous_match_summary": "Lately not at his best"
+            },
+            "Kody Merritt": {
+              "strength": "Deadly and strong",
+              "health": "Good",
+              "previous_match_summary": "Has been performing well"
+            }
+          }
+        },
+        {
+          "match": [
+            "Craig Tullier",
+            "John Therrien"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Craig Tullier",
+          "predicted_score": "55-45",
+          "prediction_summary": "Close match, slight edge to Craig Tullier due to experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Craig Tullier": {
+              "strength": "Experienced and strong",
+              "health": "Good",
+              "previous_match_summary": "Legendary puller, always finds a way"
+            },
+            "John Therrien": {
+              "strength": "Aggressive and confident",
+              "health": "Good",
+              "previous_match_summary": "On a tear, wants to prove himself"
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "If Dave is back to his best, he can win due to his well-rounded style.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Exceptional top roller",
+              "health": "Good",
+              "previous_match_summary": "Underrated, but may struggle with Dave's style"
+            },
+            "Dave Chaffee": {
+              "strength": "Strong side pressure",
+              "health": "Back to his best",
+              "previous_match_summary": "Elite level when fit"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "60-40",
+          "prediction_summary": "Devon's endurance and pronation give him the edge, but Corey is dangerous early.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Endurance and pronation",
+              "health": "Good",
+              "previous_match_summary": "Left arm is healthier than right"
+            },
+            "Corey West": {
+              "strength": "Strong and explosive",
+              "health": "Good",
+              "previous_match_summary": "Can blast early, but may struggle later"
+            }
+          }
+        },
+        {
+          "match": [
+            "Yoshinobu Kanai",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John's hand control and experience give him the edge, but Kanai is a warrior.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Yoshinobu Kanai": {
+              "strength": "Warrior spirit",
+              "health": "Good",
+              "previous_match_summary": "Has pursued John for years"
+            },
+            "John Brzenk": {
+              "strength": "Hand control and experience",
+              "health": "Good",
+              "previous_match_summary": "Still lethal when focused"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Janis Amolins"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Janis Amolins",
+          "predicted_score": "50-50",
+          "prediction_summary": "Janis is in incredible shape and believes he can win, making it a close match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Dangerous and unpredictable",
+              "health": "Good",
+              "previous_match_summary": "Has been pursuing this match for years"
+            },
+            "Janis Amolins": {
+              "strength": "Incredible shape",
+              "health": "Good",
+              "previous_match_summary": "Believes he can win, in great condition"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon's endurance and pronation give him the edge, but Corey is dangerous early.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Endurance and pronation",
+              "health": "Good",
+              "previous_match_summary": "Left arm is healthier than right"
+            },
+            "Corey West": {
+              "strength": "Strong and explosive",
+              "health": "Good",
+              "previous_match_summary": "Can blast early, but may struggle later"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

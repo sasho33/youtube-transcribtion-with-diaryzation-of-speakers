@@ -1,0 +1,490 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Michael Todd",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Kamil Jablonski"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Michael Todd",
+      "self_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "97.5% confidence",
+          "prediction_summary": "Michael believes he is faster and has multiple options to win, including transitioning from press to top roll.",
+          "predicted_duration": "Fast, possibly under 0.2 seconds",
+          "style_conflict": "Speed and versatility vs. Kamil's press"
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "60-40",
+          "prediction_summary": "Hard to bet against John Brzenk, but Leonidas is strong and young.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs. youth and power"
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Frank Lampirelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "55-45",
+          "prediction_summary": "Dave's hand control and inside-side-pressure-style might give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Hand control vs. press"
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": "55-45",
+          "prediction_summary": "Alex is impressive, but Jerry's experience and press could be a factor.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. press"
+        },
+        {
+          "match": [
+            "Rustam Babaiev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": "60-40",
+          "prediction_summary": "Paul's strength and recent form make him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs. technique"
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": "65-35",
+          "prediction_summary": "Todd's current form and strength give him the edge over Prudnik.",
+          "predicted_duration": "3-0",
+          "style_conflict": "Strength vs. technique"
+        },
+        {
+          "match": [
+            "Craig Tullier",
+            "Tom Holland"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Craig Tullier",
+          "predicted_score": null,
+          "prediction_summary": "Craig's tenacity and experience give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs. strength"
+        },
+        {
+          "match": [
+            "Janis Amolins",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Janis Amolins",
+          "predicted_score": "60-40",
+          "prediction_summary": "Janis's continuous improvement and size make him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Size vs. experience"
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Artem Taranenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Artem Taranenko",
+          "predicted_score": null,
+          "prediction_summary": "Artem's size gives him the edge over Mindaugas.",
+          "predicted_duration": null,
+          "style_conflict": "Size vs. technique"
+        },
+        {
+          "match": [
+            "Vrezh Sedrakyan",
+            "Paul Talbott"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Paul Talbott",
+          "predicted_score": null,
+          "prediction_summary": "Paul's positioning and technique could overcome Vrezh's strength.",
+          "predicted_duration": null,
+          "style_conflict": "Positioning vs. strength"
+        },
+        {
+          "match": [
+            "Elizabeth Mocek",
+            "Aleksandra Ozerova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Elizabeth Mocek",
+          "predicted_score": "60-40",
+          "prediction_summary": "Elizabeth's strength gives her the edge over Aleksandra's technique.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs. technique"
+        },
+        {
+          "match": [
+            "Aymeric Pradines",
+            "Jonathan Breda"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Aymeric Pradines",
+          "predicted_score": "50-50",
+          "prediction_summary": "Aymeric's technique vs. Jonathan's strength makes it a close match.",
+          "predicted_duration": null,
+          "style_conflict": "Technique vs. strength"
+        },
+        {
+          "match": [
+            "Ryan Belanger",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": "50-50",
+          "prediction_summary": "Raimonds' experience vs. Ryan's strength makes it a close match.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs. strength"
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Lars Rørbakken"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Lars Rørbakken",
+          "predicted_score": "55-45",
+          "prediction_summary": "Lars' flop press could give him the edge over Matt.",
+          "predicted_duration": null,
+          "style_conflict": "Flop press vs. versatility"
+        },
+        {
+          "match": [
+            "Hunter Noffz",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Doug Erlich",
+          "predicted_score": "55-45",
+          "prediction_summary": "Doug's strength gives him the edge over Hunter.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs. technique"
+        },
+        {
+          "match": [
+            "Corey West",
+            "Travis Bagent"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Corey West",
+          "predicted_score": "65-35",
+          "prediction_summary": "Corey's strength and aggression give him the edge over Travis.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs. mental game"
+        }
+      ],
+      "opinion_about_athletes": {
+        "Kamil Jablonski": {
+          "strength": "Very strong, especially in press",
+          "health": "No recent injuries, trains hard",
+          "previous_match_summary": "Beat Devon left-handed, Cody Merritt left-handed, Dave Chaffee 3-0, and Merritt Tala."
+        },
+        "Denis Tsyplenkov": {
+          "strength": "Legendary strength, but currently not in top form",
+          "health": "Unknown, possibly recovering",
+          "previous_match_summary": "Michael has pinned Denis three times, Denis has pinned Michael five times."
+        },
+        "Pushkar": {
+          "strength": "Strong, but Michael has pinned him eight times",
+          "health": "Deceased",
+          "previous_match_summary": "Michael has eight wins over Pushkar, Pushkar had five wins over Michael."
+        },
+        "Jerry Cadorette": {
+          "strength": "Strong press, experienced",
+          "health": "No recent injuries",
+          "previous_match_summary": "Michael has nine pins over Jerry, Jerry has eight over Michael."
+        },
+        "Vitaly Laletin": {
+          "strength": "Very strong, ranked eighth",
+          "health": "No recent injuries",
+          "previous_match_summary": "Beat Revas and Morozov, but hasn't pulled others in top 10."
+        },
+        "Georgi Tsvetkov": {
+          "strength": "Strong top roller",
+          "health": "No recent injuries",
+          "previous_match_summary": "Michael thinks stylistically Georgi is a good match for him."
+        },
+        "Morozov": {
+          "strength": "Young and strong",
+          "health": "Injured left arm, right arm possibly ready",
+          "previous_match_summary": "Lost to Vitaly, but generally strong performances."
+        }
+      }
+    },
+    {
+      "speaker": "Kamil Jablonski",
+      "self_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Kamil Jablonski",
+          "predicted_score": "55-45",
+          "prediction_summary": "Kamil believes his press and strength will give him the edge over Michael.",
+          "predicted_duration": null,
+          "style_conflict": "Press vs. Michael's versatility"
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Leonidas Arkona",
+          "predicted_score": "50-50",
+          "prediction_summary": "Leonidas' endurance and power could give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs. experience"
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Frank Lampirelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave's strength and ranking give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs. press"
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Kamil hopes Jerry wins due to his press technique.",
+          "predicted_duration": null,
+          "style_conflict": "Press vs. top roll"
+        },
+        {
+          "match": [
+            "Rustam Babaiev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Rustam Babaiev",
+          "predicted_score": null,
+          "prediction_summary": "Rustam's training and strength give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Training vs. recent form"
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Todd's current form and strength make him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs. technique"
+        },
+        {
+          "match": [
+            "Janis Amolins",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Janis Amolins",
+          "predicted_score": null,
+          "prediction_summary": "Janis's continuous improvement makes him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Improvement vs. experience"
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Artem Taranenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Artem Taranenko",
+          "predicted_score": "50-50",
+          "prediction_summary": "Artem's size gives him the edge, but Mindaugas is strong.",
+          "predicted_duration": null,
+          "style_conflict": "Size vs. technique"
+        },
+        {
+          "match": [
+            "Vrezh Sedrakyan",
+            "Paul Talbott"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Vrezh Sedrakyan",
+          "predicted_score": null,
+          "prediction_summary": "Vrezh's strength makes him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs. technique"
+        },
+        {
+          "match": [
+            "Elizabeth Mocek",
+            "Aleksandra Ozerova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Elizabeth Mocek",
+          "predicted_score": "60-40",
+          "prediction_summary": "Elizabeth's strength gives her the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs. technique"
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Lars Rørbakken"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Lars Rørbakken",
+          "predicted_score": "55-45",
+          "prediction_summary": "Lars' flop press could give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Flop press vs. versatility"
+        },
+        {
+          "match": [
+            "Corey West",
+            "Travis Bagent"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Corey West",
+          "predicted_score": "50-50",
+          "prediction_summary": "Corey's strength gives him the edge, but Travis is sneaky.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs. mental game"
+        }
+      ],
+      "opinion_about_athletes": {
+        "Michael Todd": {
+          "strength": "Versatile, fast, and strong",
+          "health": "Recovered from surgery, healthy arm",
+          "previous_match_summary": "Michael has beaten many top athletes, including Pushkar and Denis Tsyplenkov."
+        },
+        "Vitaly Laletin": {
+          "strength": "Very strong, especially left arm",
+          "health": "No recent injuries",
+          "previous_match_summary": "Kamil was 50-50 with Vitaly on left arm, Vitaly beat Morozov on right."
+        },
+        "Ivan Matyshenko": {
+          "strength": "Experienced and fast",
+          "health": "No recent injuries",
+          "previous_match_summary": "Kamil was scared of Ivan's speed and experience."
+        },
+        "Jerry Cadorette": {
+          "strength": "Strong press, mentor to Kamil",
+          "health": "No recent injuries",
+          "previous_match_summary": "Jerry encouraged Kamil's press technique."
+        }
+      }
+    },
+    {
+      "speaker": "Engin Terzi",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Kamil Jablonski",
+          "predicted_score": "Stylistically favors Kamil",
+          "prediction_summary": "Engin believes Kamil's press is too strong for Michael's classic style.",
+          "predicted_duration": null,
+          "style_conflict": "Press vs. versatility"
+        },
+        {
+          "match": [
+            "Corey West",
+            "Travis Bagent"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Corey's strength and corner advice could give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs. mental game"
+        }
+      ],
+      "opinion_about_athletes": {
+        "Michael Todd": {
+          "strength": "Versatile and experienced",
+          "health": "Recovered from surgery, healthy arm",
+          "previous_match_summary": "Michael has beaten many top athletes, including Pushkar and Denis Tsyplenkov."
+        },
+        "Kamil Jablonski": {
+          "strength": "Very strong press",
+          "health": "No recent injuries",
+          "previous_match_summary": "Kamil has beaten Devon, Cody Merritt, and Dave Chaffee."
+        }
+      }
+    }
+  ]
+}

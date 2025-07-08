@@ -1,0 +1,834 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Ray",
+    "SPEAKER_02": "Rob",
+    "SPEAKER_03": "Paul"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Rob",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ryan Belanger",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": "3-1 or 3-0",
+          "prediction_summary": "Ray is expected to be sticky and enduring, possibly stronger and more polished in a hook.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Raimonds Liepiņš": {
+              "strength": "Strong and polished in hook",
+              "health": null,
+              "previous_match_summary": "Known for coming back from 0-2 deficits"
+            },
+            "Ryan Belanger": {
+              "strength": "Hungry and trying to get out there",
+              "health": null,
+              "previous_match_summary": "Won qualifier, beat Jordan Sill, Dallas Langston, Brent Rager"
+            }
+          }
+        },
+        {
+          "match": [
+            "Aymeric Pradines",
+            "Jonathan Breda"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Aymeric Pradines",
+          "predicted_score": null,
+          "prediction_summary": "Aymeric is one of the best on left arm, expected to win before Breda can engage.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Aymeric Pradines": {
+              "strength": "Athletic and savvy",
+              "health": null,
+              "previous_match_summary": "Dismantles opponents quickly"
+            },
+            "Jonathan Breda": {
+              "strength": "Has power but may lack savvy",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Elizabeth Mocek",
+            "Aleksandra Ozerova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Aleksandra Ozerova",
+          "predicted_score": null,
+          "prediction_summary": "Aleksandra is solid with a strong wrist, trained with top Russian arm wrestlers.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Aleksandra Ozerova": {
+              "strength": "Solid wrist strength",
+              "health": null,
+              "previous_match_summary": "Trained with top Russian arm wrestlers"
+            },
+            "Elizabeth Mocek": {
+              "strength": "Strong (125 dumbbell flat bench)",
+              "health": null,
+              "previous_match_summary": "Pulled at Knuckles Up"
+            }
+          }
+        },
+        {
+          "match": [
+            "Hunter Noffz",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Doug Erlich",
+          "predicted_score": null,
+          "prediction_summary": "Doug is expected to win, but Hunter is confident.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Doug Erlich": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Hunter Noffz": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Confident, called Doug 'ancient history'"
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey West",
+            "Travis Bagent"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Corey is expected to win, Travis needs to deliver after talking a lot.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Travis Bagent": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Hasn't delivered in a while despite self-promotion"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vrezh Sedrakyan",
+            "Paul Talbott"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Paul Talbott",
+          "predicted_score": "3-0",
+          "prediction_summary": "Paul is expected to dominate, possibly due to secret training.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Talbott": {
+              "strength": "Monster",
+              "health": null,
+              "previous_match_summary": "Secretive about training"
+            },
+            "Vrezh Sedrakyan": {
+              "strength": "Monster soldier",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Lars Rørbakken"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Matt is expected to win due to speed and initiation, despite Lars' past win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": null,
+              "health": "Sometimes shows up not 100%",
+              "previous_match_summary": null
+            },
+            "Lars Rørbakken": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Beat Matt Mask 5-1 years ago"
+            }
+          }
+        },
+        {
+          "match": [
+            "Janis Amolins",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Justin Bishop",
+          "predicted_score": null,
+          "prediction_summary": "Justin is expected to win, but it's a close call.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Justin Bishop": {
+              "strength": "Bull-like, filled out his weight",
+              "health": null,
+              "previous_match_summary": "Wants this win badly"
+            },
+            "Janis Amolins": {
+              "strength": "Strong pronation hand, but shoulder issues",
+              "health": "Shoulder issues",
+              "previous_match_summary": "Not in best shape, but still strong"
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Frank Lampirelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave is expected to win due to strong shoulder and side pressure.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Strong shoulder and side pressure",
+              "health": null,
+              "previous_match_summary": "Steamrolls opponents"
+            },
+            "Frank Lampirelli": {
+              "strength": "Tough cookie, loud hand",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Artem Taranenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": "3-0",
+          "prediction_summary": "Mindaugas is expected to crush Artem due to polished technique and strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Polished, been around strong guys",
+              "health": "Recently had a baby",
+              "previous_match_summary": "Hard to deal with, great endurance"
+            },
+            "Artem Taranenko": {
+              "strength": "Tricky, but wrist is an issue",
+              "health": null,
+              "previous_match_summary": "Talked a lot but got dusted by Toms"
+            }
+          }
+        },
+        {
+          "match": [
+            "Craig Tullier",
+            "Tom Holland"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Craig Tullier",
+          "predicted_score": null,
+          "prediction_summary": "Craig is expected to win, possibly a mismatch.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Craig Tullier": {
+              "strength": "Tricky, fast",
+              "health": null,
+              "previous_match_summary": "Hard to beat around 200 lbs"
+            },
+            "Tom Holland": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Lost to Craig in a war"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": null,
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Michael is expected to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Athletic, strong shoulder roll",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kamil Jablonski": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babaiev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Paul is expected to win, possibly due to improved form and strategy.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Improved, learned from past mistakes",
+              "health": null,
+              "previous_match_summary": "Lost to Rustam before but adjusted strategy"
+            },
+            "Rustam Babaiev": {
+              "strength": "Bigger and stronger",
+              "health": "Possible injuries",
+              "previous_match_summary": "Beat Paul before, but may be affected by travel/weight cut"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik is expected to win, possibly due to Todd's injuries.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Todd Hutchings": {
+              "strength": "Strong but vulnerable due to injuries",
+              "health": "Injuries looming",
+              "previous_match_summary": "Got the last win over Alan Ford after initial losses"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John is expected to win despite age and losing streak, Leonidas seen as cherry-picking.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Tricky, strong hand",
+              "health": "Nearing 60, on losing streak",
+              "previous_match_summary": "Lost to a 95 kg guy, on 6-loss streak"
+            },
+            "Leonidas Arkona": {
+              "strength": "Very strong arm",
+              "health": null,
+              "previous_match_summary": "Cherry-picking, ducking higher competition"
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Jerry is expected to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Paul",
+      "self_predictions": [
+        {
+          "match": [
+            "Rustam Babaiev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": "3-0",
+          "prediction_summary": "Paul is confident, learned from past mistakes, and adjusted strategy.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rustam Babaiev": {
+              "strength": "Bigger and stronger",
+              "health": null,
+              "previous_match_summary": "Beat Paul before, but Paul has improved"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ryan Belanger",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": "3-1 or 3-0",
+          "prediction_summary": "Ray is expected to be sticky and enduring, possibly stronger and more polished in a hook.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Raimonds Liepiņš": {
+              "strength": "Strong and polished in hook",
+              "health": null,
+              "previous_match_summary": "Known for coming back from 0-2 deficits"
+            },
+            "Ryan Belanger": {
+              "strength": "Hungry and trying to get out there",
+              "health": null,
+              "previous_match_summary": "Won qualifier, beat Jordan Sill, Dallas Langston, Brent Rager"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John is expected to win despite age and losing streak.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Tricky, strong hand",
+              "health": "Nearing 60, on losing streak",
+              "previous_match_summary": "Lost to a 95 kg guy, on 6-loss streak"
+            },
+            "Leonidas Arkona": {
+              "strength": "Very strong arm",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Jerry is expected to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Todd is expected to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Frank Lampirelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave is expected to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Frank Lampirelli": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey West",
+            "Travis Bagent"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Travis Bagent",
+          "predicted_score": null,
+          "prediction_summary": "Travis is expected to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Travis Bagent": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Janis Amolins",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Janis Amolins",
+          "predicted_score": null,
+          "prediction_summary": "Janis is expected to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Janis Amolins": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Justin Bishop": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Lars Rørbakken"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Matt is expected to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Lars Rørbakken": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Artem Taranenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas is expected to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artem Taranenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Aymeric Pradines",
+            "Jonathan Breda"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Aymeric Pradines",
+          "predicted_score": null,
+          "prediction_summary": "Aymeric is expected to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Aymeric Pradines": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Jonathan Breda": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Elizabeth Mocek",
+            "Aleksandra Ozerova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Elizabeth Mocek",
+          "predicted_score": null,
+          "prediction_summary": "Elizabeth is expected to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Elizabeth Mocek": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Aleksandra Ozerova": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Michael is expected to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kamil Jablonski": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Ray",
+      "self_predictions": [
+        {
+          "match": [
+            "Ryan Belanger",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": "3-1 or 3-0",
+          "prediction_summary": "Ray is confident, expects to win but may drop early rounds.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ryan Belanger": {
+              "strength": "Hungry, strong",
+              "health": null,
+              "previous_match_summary": "Won qualifier, beat strong opponents"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Janis Amolins",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Janis Amolins",
+          "predicted_score": null,
+          "prediction_summary": "Janis is strong but has shoulder issues, match could be close.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Janis Amolins": {
+              "strength": "Strong pronation hand",
+              "health": "Shoulder issues",
+              "previous_match_summary": "Not in best shape but still strong"
+            },
+            "Justin Bishop": {
+              "strength": "Bull-like, filled out weight",
+              "health": null,
+              "previous_match_summary": "Wants this win badly"
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Artem Taranenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas is very hard to deal with, especially in long matches.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Great endurance, lot of power",
+              "health": "Recently had a baby",
+              "previous_match_summary": "Not many guys beat him"
+            },
+            "Artem Taranenko": {
+              "strength": "Right arm better than left",
+              "health": null,
+              "previous_match_summary": "Wrist has been an issue"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Todd Hutchings"
+  },
+  "date": null,
+  "self_predictions": {
+    "Todd Hutchings": [
+      {
+        "match": [
+          "Todd Hutchings",
+          "Rustam Babayev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Todd Hutchings",
+        "predicted_score": null,
+        "prediction_summary": "Todd believes he is the favorite despite never having beaten Rustam before, citing his ability to strategize and adapt for each match.",
+        "predicted_duration": null,
+        "style_conflict": "Outside vs Inside",
+        "opinion_about_athletes": {
+          "Rustam Babayev": {
+            "strength": "Very strong, especially in controlling pronator with wrist",
+            "health": "Likely stronger than when he faced Irakli post-injury",
+            "previous_match_summary": "Rustam has beaten Todd multiple times in the past, but Todd feels he has progressed significantly."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Todd Hutchings": [
+      {
+        "match": [
+          "Mindaugas Tarasaitis",
+          "Janis Amolins"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Janis Amolins",
+        "predicted_score": null,
+        "prediction_summary": "Todd finds it hard to bet against Janis, who is known for comebacks, but acknowledges Mindaugas is dangerous.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Janis Amolins": {
+            "strength": "Strong comeback ability",
+            "health": null,
+            "previous_match_summary": "Known for outclassing opponents in later rounds."
+          },
+          "Mindaugas Tarasaitis": {
+            "strength": "Very dangerous",
+            "health": null,
+            "previous_match_summary": "Recently beat Daniel Prokopchuk but lost to Artur Makarov."
+          }
+        }
+      },
+      {
+        "match": [
+          "Jocelyne Brisson",
+          "Sarah Bäckman"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Jocelyne Brisson",
+        "predicted_score": null,
+        "prediction_summary": "Todd thinks Jocelyne is a strong favorite due to her strength-based training approach.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Jocelyne Brisson": {
+            "strength": "Trains with heavy singles/doubles",
+            "health": null,
+            "previous_match_summary": "Focuses on strength over bodybuilding."
+          },
+          "Sarah Bäckman": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": "Known for a long time but trains differently."
+          }
+        }
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Corey West"
+        ],
+        "arm": "Left",
+        "event": "East vs West 17",
+        "predicted_winner": "Devon Larratt",
+        "predicted_score": "3-0 or 0-3 either way",
+        "prediction_summary": "Todd thinks Devon is the favorite but acknowledges Corey could win rounds, especially if the match goes to the strap.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs press",
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Strong left arm, endurance favors him in longer matches",
+            "health": null,
+            "previous_match_summary": "Recently beat Andrei and Georgi Tsvetkov left-handed."
+          },
+          "Corey West": {
+            "strength": "Strong side pressure, dangerous if wrist is controlled",
+            "health": null,
+            "previous_match_summary": "Won strap rounds against Tobias but lost overall."
+          }
+        }
+      },
+      {
+        "match": [
+          "Dave Chaffee",
+          "Georgi Tsvetkov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Dave Chaffee",
+        "predicted_score": "55-45",
+        "prediction_summary": "Todd favors Dave due to his strength and ability in the strap, but acknowledges Georgi's defensive top roll.",
+        "predicted_duration": null,
+        "style_conflict": "Press vs top roll",
+        "opinion_about_athletes": {
+          "Dave Chaffee": {
+            "strength": "Very strong, dominant in practice",
+            "health": "Reportedly healthier lately",
+            "previous_match_summary": "Consistently unbeatable in training."
+          },
+          "Georgi Tsvetkov": {
+            "strength": "Defensive top roll",
+            "health": null,
+            "previous_match_summary": "Unknown recent form but respected."
+          }
+        }
+      },
+      {
+        "match": [
+          "Craig Tullier",
+          "John Therrien"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Craig Tullier",
+        "predicted_score": null,
+        "prediction_summary": "Todd picks Tullier due to familiarity, though he doesn't know John well.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Craig Tullier": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          },
+          "John Therrien": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": "Beat Brandon Assessor recently."
+          }
+        }
+      },
+      {
+        "match": [
+          "Matt Mask",
+          "Kydyrgali Ongarbaev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Kydyrgali Ongarbaev",
+        "predicted_score": null,
+        "prediction_summary": "Todd favors Ongarbaev due to his hand control and endurance, despite recent surgery.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs hand control",
+        "opinion_about_athletes": {
+          "Kydyrgali Ongarbaev": {
+            "strength": "Monstrous hand control, deep endurance",
+            "health": "Recovered from elbow surgery",
+            "previous_match_summary": "Lost to Petrenko post-surgery but hand strength remains."
+          },
+          "Matt Mask": {
+            "strength": "Violent top roll",
+            "health": null,
+            "previous_match_summary": "Dominates hookers but struggles against hand control."
+          }
+        }
+      },
+      {
+        "match": [
+          "John Brzenk",
+          "Yoshinobu Kanai"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "John Brzenk",
+        "predicted_score": null,
+        "prediction_summary": "Todd thinks John will prevent Yoshi from getting into his King's move and control the match early.",
+        "predicted_duration": "Short matches (under 15 seconds) favor John",
+        "style_conflict": "Top roll vs King's move",
+        "opinion_about_athletes": {
+          "John Brzenk": {
+            "strength": "Superior hand control, shoulder pressure",
+            "health": "Training but unknown current shape",
+            "previous_match_summary": "Historically shuts down King's moves."
+          },
+          "Yoshinobu Kanai": {
+            "strength": "King's move endurance",
+            "health": null,
+            "previous_match_summary": "Gave Todd trouble but faded in later rounds."
+          }
+        }
+      }
+    ],
+    "Engin Terzi": [
+      {
+        "match": [
+          "Devon Larratt",
+          "Corey West"
+        ],
+        "arm": "Left",
+        "event": "East vs West 17",
+        "predicted_winner": "Devon Larratt",
+        "predicted_score": null,
+        "prediction_summary": "Engin agrees Devon is the favorite but thinks Corey has a chance if he controls the wrist early.",
+        "predicted_duration": "Longer matches favor Devon",
+        "style_conflict": "Top roll vs press",
+        "opinion_about_athletes": {
+          "Corey West": {
+            "strength": "Strong side pressure if wrist is controlled",
+            "health": null,
+            "previous_match_summary": "Can press effectively if wrist is compromised."
+          }
+        }
+      },
+      {
+        "match": [
+          "Dave Chaffee",
+          "Georgi Tsvetkov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Dave Chaffee",
+        "predicted_score": null,
+        "prediction_summary": "Engin sees a battle between Georgi's defensive top roll and Dave's side pressure, favoring Dave in the strap.",
+        "predicted_duration": null,
+        "style_conflict": "Press vs top roll",
+        "opinion_about_athletes": {
+          "Dave Chaffee": {
+            "strength": "Strong side move from start",
+            "health": "Healthier lately",
+            "previous_match_summary": "Dominant in training."
+          }
+        }
+      },
+      {
+        "match": [
+          "Matt Mask",
+          "Kydyrgali Ongarbaev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 17",
+        "predicted_winner": "Kydyrgali Ongarbaev",
+        "predicted_score": null,
+        "prediction_summary": "Engin acknowledges Ongarbaev's hand strength post-surgery and thinks Matt's top roll may not be enough.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs hand control",
+        "opinion_about_athletes": {
+          "Kydyrgali Ongarbaev": {
+            "strength": "Hand control remains strong post-surgery",
+            "health": "Recovered from elbow surgery",
+            "previous_match_summary": "Lost to Petrenko but hand unaffected."
+          }
+        }
+      }
+    ]
+  }
+}

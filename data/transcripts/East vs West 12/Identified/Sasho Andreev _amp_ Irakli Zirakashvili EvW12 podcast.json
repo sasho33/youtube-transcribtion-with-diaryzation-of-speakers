@@ -1,0 +1,365 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Irakli Zirakashvili",
+    "SPEAKER_02": "Sasho Andreev",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Translator (Tornike)"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "athlete": "Sasho Andreev",
+      "self_predictions": [
+        {
+          "match": [
+            "Sasho Andreev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": null,
+          "prediction_summary": "Sasho believes he is invincible and will win if he is well-prepared. He thinks the match is 50-50 but keeps his confidence as a joker.",
+          "predicted_duration": null,
+          "style_conflict": "Inside hook vs top roll",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Very strong, different level now",
+              "health": null,
+              "previous_match_summary": "Lost to Sasho three years ago but has improved significantly since then."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Petro Marharint",
+            "Nugzari Chikadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Petro Marharint",
+          "predicted_score": "60% for Petro",
+          "prediction_summary": "Petro has a stronger wrist and will hook Nugo, who has a small arm.",
+          "predicted_duration": null,
+          "style_conflict": "Wrist control vs strength",
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Strong wrist",
+              "health": null,
+              "previous_match_summary": "Played well in recent matches."
+            },
+            "Nugzari Chikadze": {
+              "strength": "Strong but small arm",
+              "health": null,
+              "previous_match_summary": "Beat Krasimir but may struggle against Petro's wrist."
+            }
+          }
+        },
+        {
+          "match": [
+            "Stoyan Golemanov",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Stoyan Golemanov",
+          "predicted_score": null,
+          "prediction_summary": "Stoyan is in top shape and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Stoyan Golemanov": {
+              "strength": "In very good shape",
+              "health": null,
+              "previous_match_summary": "Bulgarian national champion, prepared to pull against Krasimir."
+            },
+            "Brandon Ellsessor": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Had a match with Davit Samushia."
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Talgat Aktaev"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": "50-50",
+          "prediction_summary": "Betkili will win but not easily. Endurance will play a big role.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance battle",
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Endurance",
+              "health": null,
+              "previous_match_summary": "Known for endurance."
+            },
+            "Talgat Aktaev": {
+              "strength": "Fast",
+              "health": null,
+              "previous_match_summary": "Has some king's move technique."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kamil Jablonski",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Kamil Jablonski",
+          "predicted_score": null,
+          "prediction_summary": "Kamil lifts heavier weights and is stronger.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kamil Jablonski": {
+              "strength": "Lifts heavy weights",
+              "health": null,
+              "previous_match_summary": "Impressive weightlifting."
+            },
+            "Tobias Sporrong": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Sandris Šedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Sandris Šedis",
+          "predicted_score": "60-40 for Sandris",
+          "prediction_summary": "Sandris keeps his power all year and is more consistent.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ibragim Sagov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "AMC champion."
+            },
+            "Sandris Šedis": {
+              "strength": "Consistent power",
+              "health": null,
+              "previous_match_summary": "World champion."
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Frank Lamparelli",
+          "predicted_score": null,
+          "prediction_summary": "Michael has an ugly game, but Frank will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Every match is harder for him."
+            },
+            "Frank Lamparelli": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan beat Prudnik easily and has good control.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Strong control",
+              "health": null,
+              "previous_match_summary": "Beat Prudnik easily."
+            },
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "50-50",
+          "prediction_summary": "Levan is stronger but was injured. If Devon stops the game, he might win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Stronger",
+              "health": "Recovered from injury",
+              "previous_match_summary": "Injured before but now confident."
+            },
+            "Devon Larratt": {
+              "strength": "Stronger than before",
+              "health": null,
+              "previous_match_summary": "Improved since last match with Levan."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "athlete": "Irakli Zirakashvili",
+      "self_predictions": [
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "50-50",
+          "prediction_summary": "Irakli believes he has a big chance but says 50-50. He is motivated for revenge.",
+          "predicted_duration": null,
+          "style_conflict": "Inside hook vs top roll",
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Strong wrist",
+              "health": null,
+              "previous_match_summary": "Beat Irakli three years ago."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Petro Marharint",
+            "Nugzari Chikadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Nugzari Chikadze",
+          "predicted_score": null,
+          "prediction_summary": "Nugo is very strong and will be the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Competed well recently."
+            },
+            "Nugzari Chikadze": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Mindaugus Tarasaitis",
+          "predicted_score": "50-50",
+          "prediction_summary": "If Mindaugus takes Makarov's wrist, he will win.",
+          "predicted_duration": null,
+          "style_conflict": "Wrist control vs top roll",
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Mindaugus Tarasaitis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan is the favorite as he hasn't faced strong top rollers before.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Favorite",
+              "health": null,
+              "previous_match_summary": "Haven't faced strong top rollers."
+            },
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "99% Levan, 1% Devon",
+          "prediction_summary": "Levan is not injured and is very strong. Devon has almost no chance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Very strong",
+              "health": "Not injured",
+              "previous_match_summary": "Recovered and confident."
+            },
+            "Devon Larratt": {
+              "strength": "Stronger than before",
+              "health": null,
+              "previous_match_summary": "Improved but still not enough."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

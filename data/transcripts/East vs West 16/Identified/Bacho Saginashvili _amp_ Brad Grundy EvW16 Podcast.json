@@ -1,0 +1,463 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Brad Grundy",
+    "SPEAKER_01": "Host",
+    "SPEAKER_02": "Bacho Saginashvili",
+    "SPEAKER_03": "Georgi (Translator/Helper)"
+  },
+  "date": null,
+  "predictions": {
+    "Bacho Saginashvili": {
+      "self_predictions": [
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Brad Grundy"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Bacho Saginashvili",
+          "predicted_score": "Easy win",
+          "prediction_summary": "Bacho believes he will win easily, stating Brad has no chance in top roll or hook.",
+          "predicted_duration": "Very fast",
+          "style_conflict": "None",
+          "opinion_about_athletes": {
+            "Brad Grundy": {
+              "strength": "Not impressive",
+              "health": "Not mentioned",
+              "previous_match_summary": "Did not know much about Brad initially, watched his matches and wasn't surprised by his performance."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Stoyan Golemanov",
+            "Vasily Dautashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "50-50",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Bacho thinks it's a 50-50 match as he hasn't pulled against Vasily but knows Stoyan is strong.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Stoyan Golemanov": {
+              "strength": "Strong",
+              "health": "Previously injured",
+              "previous_match_summary": "Pulled against Stoyan in World Championship where Stoyan got injured."
+            },
+            "Vasily Dautashvili": {
+              "strength": "In very good shape",
+              "health": "Not mentioned",
+              "previous_match_summary": "Never pulled against him but hears he's in great shape."
+            }
+          }
+        },
+        {
+          "match": [
+            "Serhii Kalinichenko",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Serhii Kalinichenko",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Bacho knows Kalinichenko well and believes he will win, likely through top roll.",
+          "predicted_duration": "Not easy",
+          "style_conflict": "Top roll vs press",
+          "opinion_about_athletes": {
+            "Serhii Kalinichenko": {
+              "strength": "Strong",
+              "health": "Not mentioned",
+              "previous_match_summary": "Met in France and knows his style."
+            },
+            "Frank Lamparelli": {
+              "strength": "Not specified",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "50-50",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Hard to predict as both are strong; Kurdecha has gained size but Dadikyan has good wrist and side pressure.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Big and strong",
+              "health": "Not mentioned",
+              "previous_match_summary": "Gained a lot of size recently."
+            },
+            "David Dadikyan": {
+              "strength": "Good wrist and side pressure",
+              "health": "Not mentioned",
+              "previous_match_summary": "Looking bigger and strong."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "50-50",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Both are really strong; hard to predict who will win.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Strong",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            },
+            "Daniel Procopciuc": {
+              "strength": "Strong",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Betkili Onianii"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Betkili Onianii",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Betkili has good endurance and will win if the match goes long.",
+          "predicted_duration": "Long",
+          "style_conflict": "Endurance vs power",
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": "Strong",
+              "health": "Not mentioned",
+              "previous_match_summary": "Gave a hard match to Alisen."
+            },
+            "Betkili Onianii": {
+              "strength": "Good endurance",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "Easy",
+          "prediction_summary": "Irakli lost weight and is now stronger; Todd's style won't cause problems.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong wrist",
+              "health": "Not mentioned",
+              "previous_match_summary": "Excellent against top rollers."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Strong wrist and side pressure",
+              "health": "Not mentioned",
+              "previous_match_summary": "Lost weight and now beats everyone."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Genadi is prepared well and will win again with his endurance and fighting spirit.",
+          "predicted_duration": "Tough match",
+          "style_conflict": "Flopper's press vs hook",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong",
+              "health": "Bicep problems last time",
+              "previous_match_summary": "Lost to Genadi last time."
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Good endurance and fighting spirit",
+              "health": "Not mentioned",
+              "previous_match_summary": "Pulled very well last time."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "Easy",
+          "prediction_summary": "Ermes is in very good shape and is a different level.",
+          "predicted_duration": "Easy",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Very good shape",
+              "health": "Not mentioned",
+              "previous_match_summary": "Different level now."
+            },
+            "Michael Todd": {
+              "strength": "Good shape",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Laletin will win as Morozov's wrist will open in top roll.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Strong",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            },
+            "Artyom Morozov": {
+              "strength": "Not specified",
+              "health": "Not mentioned",
+              "previous_match_summary": "Wrist will open."
+            }
+          }
+        }
+      ]
+    },
+    "Brad Grundy": {
+      "self_predictions": [
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Brad Grundy"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Bacho Saginashvili",
+          "predicted_score": "Hardest match so far",
+          "prediction_summary": "Brad thinks this will be his hardest match ever, but he's been training with Devon and Paul Lynn.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Bacho Saginashvili": {
+              "strength": "Insanely strong",
+              "health": "Not mentioned",
+              "previous_match_summary": "Gifted from a young age."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Ermes is in very good shape and is a different level.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Very good shape",
+              "health": "Not mentioned",
+              "previous_match_summary": "Different level now."
+            },
+            "Michael Todd": {
+              "strength": "Good shape",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Devon has made a significant jump in power and would bet on him this time.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Significant jump in power",
+              "health": "Not mentioned",
+              "previous_match_summary": "Trained with him recently."
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Not specified",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Vitalii is on another level compared to Morozov.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Another level",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            },
+            "Artyom Morozov": {
+              "strength": "Not specified",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": "Easy",
+          "prediction_summary": "Zhokh's hand and arm length will be too much for Procopciuc.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Long hand and arm",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            },
+            "Daniel Procopciuc": {
+              "strength": "Small hand and short arm",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Dadikyan can beat Kurdecha, who is hard to analyze.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Strong",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            },
+            "Alex Kurdecha": {
+              "strength": "All over the place",
+              "health": "Not mentioned",
+              "previous_match_summary": "Hard to analyze."
+            }
+          }
+        },
+        {
+          "match": [
+            "Serhii Kalinichenko",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Serhii Kalinichenko",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Frank is bad at flopping, and Sergey will kill him.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Flopper's press vs top roll",
+          "opinion_about_athletes": {
+            "Serhii Kalinichenko": {
+              "strength": "Strong",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            },
+            "Frank Lamparelli": {
+              "strength": "Bad at flopping",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned."
+            }
+          }
+        },
+        {
+          "match": [
+            "Stoyan Golemanov",
+            "Vasily Dautashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Stoyan Golemanov",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Stoyan might be at his peak, and Vasily's camp hasn't said much.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Stoyan Golemanov": {
+              "strength": "At his peak",
+              "health": "Not mentioned",
+              "previous_match_summary": "Started pulling in 1996."
+            },
+            "Vasily Dautashvili": {
+              "strength": "Strong",
+              "health": "Not mentioned",
+              "previous_match_summary": "Started pulling in 2006."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

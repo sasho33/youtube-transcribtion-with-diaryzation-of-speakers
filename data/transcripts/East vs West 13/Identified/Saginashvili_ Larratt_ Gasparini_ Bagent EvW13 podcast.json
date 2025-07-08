@@ -1,0 +1,171 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Devon Larratt",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Levan Saginashvili",
+    "SPEAKER_03": "Travis Bagent"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Levan Saginashvili",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Levan thinks Laletin will manage to take Morozov's wrist but is unsure how the match will continue after that. He believes if it goes into a lengthy endurance match, Morozov has a better chance.",
+          "predicted_duration": null,
+          "style_conflict": "Wrist control vs endurance",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Strong wrist control",
+              "health": null,
+              "previous_match_summary": "Lost to Hermes, won against Dave Chaffee"
+            },
+            "Artyom Morozov": {
+              "strength": "Good endurance",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Serhii Kalinichenko",
+            "Travis Bagent"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Serhii Kalinichenko",
+          "predicted_score": null,
+          "prediction_summary": "Levan thinks Kalinichenko is in good shape and training hard, while Travis's current shape is uncertain. He believes Kalinichenko has the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Serhii Kalinichenko": {
+              "strength": "Good shape and training",
+              "health": null,
+              "previous_match_summary": "Broke his finger but still managed to win"
+            },
+            "Travis Bagent": {
+              "strength": "Uncertain current shape",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": "52-53% for Samushia",
+          "prediction_summary": "Levan thinks Samushia is slightly favored but acknowledges Sasho is a tough opponent stylistically.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Experienced and coordinated",
+              "health": null,
+              "previous_match_summary": "Has won multiple title matches"
+            },
+            "Sasho Andreev": {
+              "strength": "Strong on the hook with endurance",
+              "health": null,
+              "previous_match_summary": "Won European and world championships"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Devon Larratt",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Serhii Kalinichenko",
+            "Travis Bagent"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Travis Bagent",
+          "predicted_score": "3-0",
+          "prediction_summary": "Devon thinks Travis will destroy Kalinichenko, predicting a quick 3-0 win.",
+          "predicted_duration": "Quick match",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Serhii Kalinichenko": {
+              "strength": "Good shoulder press",
+              "health": null,
+              "previous_match_summary": "Broke his finger but still won"
+            },
+            "Travis Bagent": {
+              "strength": "Strong when in good shape",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Devon believes Laletin is the worst opponent for him but thinks Laletin can beat Morozov.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Strong opponent for Devon",
+              "health": null,
+              "previous_match_summary": "Lost to Hermes, won against Dave Chaffee"
+            },
+            "Artyom Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Travis Bagent",
+      "self_predictions": [
+        {
+          "match": [
+            "Travis Bagent",
+            "Serhii Kalinichenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Travis Bagent",
+          "predicted_score": null,
+          "prediction_summary": "Travis is confident in his return and believes he can beat Kalinichenko.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Serhii Kalinichenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

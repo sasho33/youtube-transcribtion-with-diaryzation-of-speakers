@@ -1,0 +1,320 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Paul Linn",
+    "SPEAKER_02": "John Therrien",
+    "SPEAKER_04": "Craig Tullier"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "John Therrien",
+      "self_predictions": [
+        {
+          "match": [
+            "Craig Tullier",
+            "John Therrien"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "John Therrien",
+          "predicted_score": null,
+          "prediction_summary": "John believes he can stop Craig's hit and expects a war, especially if the match stops Craig's initial hit.",
+          "predicted_duration": "Long, grinder match",
+          "style_conflict": "Inside hook vs top roll",
+          "opinion_about_athletes": {
+            "Craig Tullier": {
+              "strength": "Very strong hit and side pressure",
+              "health": "Healthy and experienced",
+              "previous_match_summary": "Dominant in hook with cupping"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Hunter Noffz",
+            "Valen Low"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Hunter Noffz",
+          "predicted_score": null,
+          "prediction_summary": "Hunter is too explosive; Valen is too slow.",
+          "predicted_duration": "Quick to the pad",
+          "style_conflict": "Explosive vs slow top roll",
+          "opinion_about_athletes": {
+            "Hunter Noffz": {
+              "strength": "Very explosive",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Valen Low": {
+              "strength": "Decent top roll but slow",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Janis Amolins"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas is special and ever-improving; expects a long grinder match.",
+          "predicted_duration": "Long, grinder match",
+          "style_conflict": "Technical hand control",
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Excellent at getting to position first",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            },
+            "Janis Amolins": {
+              "strength": "Technical and strong hand",
+              "health": "Recovered from injury",
+              "previous_match_summary": "Strong showing against Justin Bishop"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon is very strong but may lose the first round; endurance will play a key role.",
+          "predicted_duration": "War, possibly long",
+          "style_conflict": "Explosive start vs endurance",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strongest he's ever been",
+              "health": "Biggest size ever",
+              "previous_match_summary": "Dominant in recent matches"
+            },
+            "Corey West": {
+              "strength": "Very explosive with side pressure",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Craig Tullier",
+      "self_predictions": [
+        {
+          "match": [
+            "Craig Tullier",
+            "John Therrien"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Craig Tullier",
+          "predicted_score": null,
+          "prediction_summary": "Craig is confident in his top roll and side pressure; expects John to learn a new level.",
+          "predicted_duration": "War if stopped",
+          "style_conflict": "Top roll vs inside hook",
+          "opinion_about_athletes": {
+            "John Therrien": {
+              "strength": "Strong hand and improving",
+              "health": "Healthy and confident",
+              "previous_match_summary": "Recent success against top guys"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Hunter Noffz",
+            "Valen Low"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Hunter Noffz",
+          "predicted_score": null,
+          "prediction_summary": "Hunter is a dominant force; Valen may not handle his explosiveness.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Hunter Noffz": {
+              "strength": "Dominant and strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Valen Low": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Janis Amolins"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Janis Amolins",
+          "predicted_score": null,
+          "prediction_summary": "If Janis is healthy, he can win; expects a good match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Janis Amolins": {
+              "strength": "Healthy and strong",
+              "health": "Recovered from injury",
+              "previous_match_summary": "Good recent training"
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Kody Merritt",
+          "predicted_score": null,
+          "prediction_summary": "Kody's hand and back pressure will take Prudnik out of his power.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Strong but recent losses",
+              "health": null,
+              "previous_match_summary": "Lost recent matches"
+            },
+            "Kody Merritt": {
+              "strength": "Very strong hand and back pressure",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Paul Linn",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Craig Tullier",
+            "John Therrien"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Craig Tullier",
+          "predicted_score": null,
+          "prediction_summary": "Craig is favored due to experience and track record; if stopped, it will be a war.",
+          "predicted_duration": "War if stopped",
+          "style_conflict": "Inside hook vs top roll",
+          "opinion_about_athletes": {
+            "Craig Tullier": {
+              "strength": "Excellent at getting to his spot first",
+              "health": null,
+              "previous_match_summary": "Dominant in hook with cupping"
+            },
+            "John Therrien": {
+              "strength": "Improved and confident",
+              "health": null,
+              "previous_match_summary": "Recent success against top guys"
+            }
+          }
+        },
+        {
+          "match": [
+            "Hunter Noffz",
+            "Valen Low"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Hunter Noffz",
+          "predicted_score": null,
+          "prediction_summary": "Hunter is on a good trajectory; Valen may not handle his explosiveness.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Hunter Noffz": {
+              "strength": "On a path to shake things up",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Valen Low": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Slight edge to Ongarbaev due to unknowns about Matt's form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Can be very strong when firing on all cylinders",
+              "health": null,
+              "previous_match_summary": "Beat Barboza recently"
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Strong and explosive",
+              "health": "First match after elbow surgery",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Yoshinobu Kanai",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John has the hand to deal with the king's move; expects a match of the night.",
+          "predicted_duration": null,
+          "style_conflict": "King's move vs orthodox arm wrestling",
+          "opinion_about_athletes": {
+            "Yoshinobu Kanai": {
+              "strength": "Strong king's move",
+              "health": null,
+              "previous_match_summary": "Recent matches show resilience"
+            },
+            "John Brzenk": {
+              "strength": "Strong hand and pronation",
+              "health": null,
+              "previous_match_summary": "Pulled many king's move pullers"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

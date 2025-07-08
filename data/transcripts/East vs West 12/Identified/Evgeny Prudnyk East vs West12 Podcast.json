@@ -1,0 +1,315 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Unknown",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Unknown",
+    "SPEAKER_04": "Evgeny Prudnyk"
+  },
+  "date": null,
+  "predictions": {
+    "Evgeny Prudnyk": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Petro Marharint",
+            "Nugzari Chikadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Marharint has a strong wrist, but Chikadze is strong in hook. It will be a very interesting fight.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Very strong wrist",
+              "health": null,
+              "previous_match_summary": "Beat many top arm wrestlers including John, Krasimir, Dadikian, Ongarbev, Zeranova, Lutizze, Sabin, Sandris."
+            },
+            "Nugzari Chikadze": {
+              "strength": "Very strong in hook",
+              "health": null,
+              "previous_match_summary": "Beat Krasimir Kostadinov last year."
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Talgat Aktaev"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Oniani has more chance because when you go in hook with top roll, you need more level and power.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": "Many times world champion."
+            },
+            "Talgat Aktaev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Beat Oleg Dzog in 2022."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kamil Jablonski",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Kamil Jablonski",
+          "predicted_score": null,
+          "prediction_summary": "Jablonski is going to press and win, but it's obvious to take the open reach and take the center.",
+          "predicted_duration": null,
+          "style_conflict": "Press vs Open Reach",
+          "opinion_about_athletes": {
+            "Kamil Jablonski": {
+              "strength": "Strong press",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Tobias Sporrong": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Beat Wagner with straight side pressure."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Sandris Šedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "Sagov has more chance because he can pull like Jablonski without this threat. Sandris needs stronger side depression.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ibragim Sagov": {
+              "strength": "Good top roll",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Sandris Šedis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Had a very long match with Samushia."
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisik",
+            "Ekaterina Nikisheva"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Fia Reisik",
+          "predicted_score": null,
+          "prediction_summary": "Fia Reisik is predicted to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Fia Reisik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ekaterina Nikisheva": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Mindaugus Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugus is very technical and smart. Makarov is strong but has a difficult technique.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": "Strong side pressure",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Mindaugus Tarasaitis": {
+              "strength": "Very technical",
+              "health": null,
+              "previous_match_summary": "Had a match against Daniel Prokopchuk."
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Michael Todd will have better control with the hand and can finish.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Better hand control",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Frank Lamparelli": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Nurdaulet Aidarkhan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Samushia has a level similar to Prudnyk, with a very tall forearm.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Very tall forearm",
+              "health": null,
+              "previous_match_summary": "Had a very long match with Sandris."
+            },
+            "Nurdaulet Aidarkhan": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli has changed and now has more chance. Sasho is difficult to beat with his block formation.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Changed and improved."
+            },
+            "Sasho Andreev": {
+              "strength": "Block formation",
+              "health": null,
+              "previous_match_summary": "Beat Grosvenor half a year ago."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Kurdecha has more experience and improved, but Georgi is a very difficult opponent.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Improved",
+              "health": null,
+              "previous_match_summary": "Didn't compete for two years."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Very difficult opponent",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "5-0",
+          "prediction_summary": "Ermes will win five times. His left arm is stronger than his right.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Can beat Morozov and Laletin."
+            },
+            "Ermes Gasparini": {
+              "strength": "Strong left arm",
+              "health": null,
+              "previous_match_summary": "Never lost."
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "55-45 in favor of Levan",
+          "predicted_score": null,
+          "prediction_summary": "Devon has improved and has a good chance. If Levan's wrist moves, Devon can stop and get stronger.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": null,
+              "health": "First match after injury",
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": "Improved technique",
+              "health": null,
+              "previous_match_summary": "Improved after last match with Levan."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

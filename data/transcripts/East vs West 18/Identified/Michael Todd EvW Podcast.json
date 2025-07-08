@@ -1,0 +1,96 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Michael Todd",
+    "SPEAKER_03": "Michael Todd"
+  },
+  "date": null,
+  "athletes": {
+    "Michael Todd": {
+      "self_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Michael believes he has a good chance of winning if he follows his training program and shows up in his best shape. He acknowledges Vitaly's strength but is confident in his stopping power and endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Michael thinks Vitaly might try to flash pin him, but he doubts Vitaly can do it three times in a row.",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Extremely dangerous, strong, and prepared.",
+              "health": null,
+              "previous_match_summary": "Vitaly is younger and bigger, and Michael expects to face the strongest version of him."
+            },
+            "Ermes Gasparini": {
+              "strength": "Ermes has the strongest riser and up pressure, possibly the strongest ever.",
+              "health": null,
+              "previous_match_summary": "Ermes beat Michael 3-0, but Michael believes it was closer than the score suggests."
+            },
+            "Levan Saginashvili": {
+              "strength": "Levan might be able to flash pin Michael, but Michael is unsure.",
+              "health": null,
+              "previous_match_summary": "Michael thinks if he can stop the match, he has a chance against Levan due to his endurance and heart."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Michael thinks it's very difficult to bet against Devon, especially in his current big version. He believes Devon's control and endurance will be key.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's pronation and riser strength are highlighted as advantages.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Devon is better at the center and has strong pronation and riser.",
+              "health": null,
+              "previous_match_summary": "Devon's ability to control the match from the center is emphasized."
+            },
+            "Alex Kurdecha": {
+              "strength": "Alex is strong but may struggle against Devon's control.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Michael believes Ermes has a chance against Levan if he can leverage his riser and up pressure to make the match last longer.",
+          "predicted_duration": null,
+          "style_conflict": "Ermes' strength in riser and up pressure could be key.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Levan is extremely strong but may struggle if the match goes long.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ermes Gasparini": {
+              "strength": "Ermes has the strongest riser and up pressure.",
+              "health": null,
+              "previous_match_summary": "Ermes' recent improvements are noted."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Pradeep",
+    "SPEAKER_02": "Matt Mask",
+    "SPEAKER_03": "Evgeny Prudnik",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Evgeny Prudnik",
+      "self_predictions": [
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Evgeny believes he has a 70% chance of winning, citing his preparation and technique as advantages.",
+          "predicted_duration": null,
+          "style_conflict": "Evgeny plans to use a surprise technique, possibly involving hook and top roll.",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Respects Matt's strength and hand control",
+              "health": null,
+              "previous_match_summary": "Acknowledges Matt's recent match with Tim Bresnan and his ability to take wrists of top athletes."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "İrakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Evgeny thinks İrakli may win the first two rounds due to strong pronation and side pressure, but Todd's endurance will lead him to win overall.",
+          "predicted_duration": null,
+          "style_conflict": "İrakli's explosive start vs Todd's endurance.",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Great endurance",
+              "health": null,
+              "previous_match_summary": "Known for his side pressure and endurance."
+            },
+            "İrakli Zirakashvili": {
+              "strength": "Very strong pronation and side pressure",
+              "health": null,
+              "previous_match_summary": "Training partner of Levan, explosive start."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Evgeny believes John's experience and ability to control the wrist will lead to his victory.",
+          "predicted_duration": null,
+          "style_conflict": "John's wrist control vs Zurab's potential side pressure.",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Big experience, great pronation",
+              "health": null,
+              "previous_match_summary": "Legendary control and transition skills."
+            },
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Lost wrist control in previous matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Evgeny thinks it's a 50-50 match, but Dave's right techniques and experience might give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi's power vs Dave's technique.",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Very strong now",
+              "health": null,
+              "previous_match_summary": "Improved since his last match with Dave."
+            },
+            "Dave Chaffee": {
+              "strength": "Big experience, right techniques",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Evgeny believes Michael's endurance and technique will overcome Revaz's power.",
+          "predicted_duration": null,
+          "style_conflict": "Revaz's power vs Michael's endurance and technique.",
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Very big power",
+              "health": null,
+              "previous_match_summary": "Gave Levan a tough match in the past."
+            },
+            "Michael Todd": {
+              "strength": "Great endurance",
+              "health": null,
+              "previous_match_summary": "Known for his ability to wear down opponents."
+            }
+          }
+        },
+        {
+          "match": [
+            "Arif Ertem",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Evgeny thinks Arif will win based on their past encounters.",
+          "predicted_duration": null,
+          "style_conflict": "Arif's outside move vs Krasimir's inside move.",
+          "opinion_about_athletes": {
+            "Arif Ertem": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Won all three previous matches against Krasimir."
+            },
+            "Krasimir Kostadinov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Always training but lost to Arif before."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Matt Mask",
+      "self_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Matt believes it's a 50-50 match and is confident he can win if he's fresh and injury-free.",
+          "predicted_duration": null,
+          "style_conflict": "Matt's hand control vs Evgeny's versatility.",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Very skillful, great technique",
+              "health": null,
+              "previous_match_summary": "Respects Evgeny's ability to transition between techniques."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "İrakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Matt thinks Todd will adjust and win after a back-and-forth match.",
+          "predicted_duration": null,
+          "style_conflict": "İrakli's explosive start vs Todd's adjustments.",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Great side pressure",
+              "health": null,
+              "previous_match_summary": "Known for his endurance and adjustments."
+            },
+            "İrakli Zirakashvili": {
+              "strength": "More explosive",
+              "health": null,
+              "previous_match_summary": "Training partner of Levan."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Matt believes John's control and pronation will be too much for Zurab.",
+          "predicted_duration": null,
+          "style_conflict": "John's wrist control vs Zurab's side pressure.",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Too much control and smarts",
+              "health": null,
+              "previous_match_summary": "Legendary ability to control matches."
+            },
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Struggles with wrist control."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 3",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Matt thinks Dave will dominate unless Genadi finds a hole in Dave's defense.",
+          "predicted_duration": null,
+          "style_conflict": "Dave's power vs Genadi's potential adjustments.",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Can turn it on if he feels something",
+              "health": null,
+              "previous_match_summary": "Improved since his last match with Dave."
+            },
+            "Dave Chaffee": {
+              "strength": "Dominant if he controls the match",
+              "health": null,
+              "previous_match_summary": "Strong recent performances."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": null,
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Matt believes Devon's current form and sticky point will wear out Ermes's wrist.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's endurance vs Ermes's power.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Insane endurance, sticky point",
+              "health": null,
+              "previous_match_summary": "Preparing for Levan, in top form."
+            },
+            "Ermes Gasparini": {
+              "strength": "Very strong, but loses wrist control",
+              "health": null,
+              "previous_match_summary": "Struggles if wrist is compromised."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

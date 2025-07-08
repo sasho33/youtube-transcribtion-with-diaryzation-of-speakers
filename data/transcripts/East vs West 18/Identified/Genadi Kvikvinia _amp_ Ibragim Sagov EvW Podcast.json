@@ -1,0 +1,194 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Genadi Kvikvinia",
+    "SPEAKER_02": "Ibragim Sagov",
+    "SPEAKER_04": "Translator/Moderator"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Ibragim Sagov",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Vitaly Laletin"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": "3-0",
+          "prediction_summary": "Vitaly is very fast and Michael won't be able to get in his position, leading to flash pins.",
+          "predicted_duration": null,
+          "style_conflict": "Vitaly's speed vs. Michael's stopping ability",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Peak form at 150 kg, strongest ever",
+              "health": null,
+              "previous_match_summary": "Pressed Artem on the left, showing improved press"
+            },
+            "Michael Todd": {
+              "strength": "Strong in stopping position",
+              "health": null,
+              "previous_match_summary": "Changed style to open arm top roll, harder to flash pin now"
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "3-0",
+          "prediction_summary": "Levan is too big and strong; Ermes is too light to win even a round.",
+          "predicted_duration": null,
+          "style_conflict": "Levan's size and strength vs. Ermes's technique",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Too powerful",
+              "health": "Had cardio issues in last match",
+              "previous_match_summary": "Needed oxygen tank in last rounds"
+            },
+            "Ermes Gasparini": {
+              "strength": "Very strong but not enough against Levan",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin (first two rounds), then uncertain",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly may win first two rounds, but Devon could surprise with king's move later.",
+          "predicted_duration": null,
+          "style_conflict": "Vitaly's speed vs. Devon's king's move",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Fast and strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": "Hard to top roll against",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Genadi Kvikvinia",
+      "self_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Ibragim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Genadi sees it as a tough match but is confident in his preparation and respects Ibragim's strength.",
+          "predicted_duration": null,
+          "style_conflict": "Ibragim's attack vs. Genadi's post-surgery bicep",
+          "opinion_about_athletes": {
+            "Ibragim Sagov": {
+              "strength": "Young, fast development, top in 115 kg",
+              "health": null,
+              "previous_match_summary": "Close match with Reno, finalist in 115 kg"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Vitaly Laletin"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Michael Todd (if match stops)",
+          "predicted_score": null,
+          "prediction_summary": "Genadi thinks the match will stop, and Michael has a good chance to win if it does.",
+          "predicted_duration": null,
+          "style_conflict": "Vitaly's speed vs. Michael's stopping ability",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Has difficulties when stopped",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": "Very strong when in position",
+              "health": null,
+              "previous_match_summary": "Recent matches show he's hard to stop"
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "3-0",
+          "prediction_summary": "Levan is too strong; Genadi is 100% sure Levan will win.",
+          "predicted_duration": null,
+          "style_conflict": "Levan's size and strength vs. Ermes's technique",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Too powerful",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Genadi thinks it's very hard to top roll Devon, so Devon will probably win.",
+          "predicted_duration": null,
+          "style_conflict": "Vitaly's speed vs. Devon's king's move",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": "Hard to top roll against",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

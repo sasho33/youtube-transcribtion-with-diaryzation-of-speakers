@@ -1,0 +1,221 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "John Brzenk",
+    "SPEAKER_02": "Unknown",
+    "SPEAKER_03": "Unknown",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "John Brzenk",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Petro Marharint",
+            "Nugzari Chikadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Depends on Petro's condition after 5 years away from the sport, but he has natural ability and strong cupping.",
+          "predicted_duration": null,
+          "style_conflict": "Top-roll vs. hook",
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Strong cupping ability",
+              "health": null,
+              "previous_match_summary": "Beat Krasimir and Ravaz in past events."
+            },
+            "Nugzari Chikadze": {
+              "strength": "Strong top-roll",
+              "health": null,
+              "previous_match_summary": "Top-rolled Krasimir in strap and beat him twice."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Sandris Šedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Ibragim is super strong in a hook with great endurance. Sandris is also strong, but Ibragim might have the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. top-roll",
+          "opinion_about_athletes": {
+            "Ibragim Sagov": {
+              "strength": "Super strong in a hook, great endurance",
+              "health": null,
+              "previous_match_summary": "Had a long match with Todd Hutchins."
+            },
+            "Sandris Šedis": {
+              "strength": "Strong top-roll",
+              "health": null,
+              "previous_match_summary": "Multiple-time world champion."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Mindaugus Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugus proved himself against Daniel Prokopchuk, so he might have the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Inside vs. outside",
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": "Strong inside puller",
+              "health": null,
+              "previous_match_summary": "Gives tough matches to Alan Zolev."
+            },
+            "Mindaugus Tarasaitis": {
+              "strength": "Explosive outside move",
+              "health": null,
+              "previous_match_summary": "Beat Daniel Prokopchuk."
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Frank might win early rounds, but Michael will figure it out and win later rounds.",
+          "predicted_duration": null,
+          "style_conflict": "King's move vs. conventional",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Endurance and heart",
+              "health": null,
+              "previous_match_summary": "Known for his king's move."
+            },
+            "Frank Lamparelli": {
+              "strength": "Strong early rounds",
+              "health": null,
+              "previous_match_summary": "Pulled Matt Mask."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Georgi can deal with Alex's outside move. Match might be a stalemate in the middle.",
+          "predicted_duration": null,
+          "style_conflict": "Outside vs. outside",
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Strong outside move",
+              "health": null,
+              "previous_match_summary": "Looked good in recent matches."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Strong back pressure and hand control",
+              "health": null,
+              "previous_match_summary": "Proven against top guys."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan is a powerful beast left-handed. Ermes is technical, but Alizhan might have the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs. technique",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Powerful left arm",
+              "health": null,
+              "previous_match_summary": "Crushes anybody left-handed."
+            },
+            "Ermes Gasparini": {
+              "strength": "Technical and coordinated",
+              "health": null,
+              "previous_match_summary": "Strong left arm but not as dominant as right."
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan is the favorite due to size and strength, but Devon has a chance if he can maintain his hand control.",
+          "predicted_duration": null,
+          "style_conflict": "Cupping vs. pronation",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Best cupping in the world, massive size",
+              "health": "Recovered from injury, possibly stronger",
+              "previous_match_summary": "Dominant in past matches."
+            },
+            "Devon Larratt": {
+              "strength": "Strong back pressure and pronation",
+              "health": "Improved with stem cell therapies",
+              "previous_match_summary": "Analyzed past match with Levan and improved."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Devon has improved his pronation and back pressure, but Levan is still a favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Cupping vs. pronation",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Massive size and strength",
+              "health": "Recovered from injury",
+              "previous_match_summary": "Dominant in past matches."
+            },
+            "Devon Larratt": {
+              "strength": "Improved pronation and back pressure",
+              "health": "Healthier with stem cell therapies",
+              "previous_match_summary": "Analyzed past match and improved."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

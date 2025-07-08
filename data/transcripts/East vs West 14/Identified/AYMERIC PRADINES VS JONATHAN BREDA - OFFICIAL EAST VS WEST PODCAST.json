@@ -1,0 +1,337 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Aymeric Pradines",
+    "SPEAKER_01": "Jonathan Breda",
+    "SPEAKER_02": "Coach Ray"
+  },
+  "date": null,
+  "self_predictions": {
+    "Aymeric Pradines": {
+      "self_predictions": [
+        {
+          "match": [
+            "Aymeric Pradines",
+            "Jonathan Breda"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Aymeric believes his speed and start are his biggest advantages but acknowledges Jonathan's improved table IQ and ability to adjust.",
+          "predicted_duration": null,
+          "style_conflict": "Aymeric prefers to stay outside due to past injuries and lack of confidence in his inside game.",
+          "opinion_about_athletes": {
+            "Jonathan Breda": {
+              "strength": "Strong inside, improved table IQ",
+              "health": null,
+              "previous_match_summary": "Jonathan has shown significant improvement in recent matches, adjusting well after losses."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Justin Bishop",
+            "Janis Amolins"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Janis Amolins",
+          "predicted_score": null,
+          "prediction_summary": "Aymeric believes Janis is the better arm wrestler and smarter, but acknowledges Justin's potential power.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Janis Amolins": {
+              "strength": "Well-rounded, smarter",
+              "health": "Uncertain if at best level",
+              "previous_match_summary": "Janis has won every time against Justin in the past."
+            },
+            "Justin Bishop": {
+              "strength": "Possibly more powerful",
+              "health": null,
+              "previous_match_summary": "Justin has shown determination and improvement, especially in his match against Mondogas."
+            }
+          }
+        },
+        {
+          "match": [
+            "Travis Bagent",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Aymeric thinks it's too soon for Travis to face Corey, who is very strong and has a thick, awkward hand.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Very strong, thick hand",
+              "health": null,
+              "previous_match_summary": "Corey has driven through opponents even when his wrist is broken back."
+            },
+            "Travis Bagent": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Travis is not yet ready for this level, needs more time to return to top form."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vrezh Sedrakyan",
+            "Paul Talbott"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Vrezh Sedrakyan",
+          "predicted_score": null,
+          "prediction_summary": "Aymeric believes Paul is not strong enough to finish Vrezh, who can stop him and exploit mistakes.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vrezh Sedrakyan": {
+              "strength": "Impressive, can stop opponents",
+              "health": null,
+              "previous_match_summary": "Vrezh is a different human being, even without his hands."
+            },
+            "Paul Talbott": {
+              "strength": "Not enough to finish Vrezh",
+              "health": null,
+              "previous_match_summary": "Paul is motivated but may make too many mistakes."
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Aymeric thinks Alex has improved a lot and has the tools to beat Jerry, despite Jerry's past successes.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Improved strength and table IQ",
+              "health": null,
+              "previous_match_summary": "Alex has shown significant improvement, especially in his match against Artem Morozov."
+            },
+            "Jerry Cadorette": {
+              "strength": null,
+              "health": "Recovered from a serious infection",
+              "previous_match_summary": "Jerry has had breaks but has proven himself in past matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Aymeric believes Leonidas is strong but will make mistakes, and John's experience will prevail.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experienced, can exploit mistakes",
+              "health": "Uncertain about current shape",
+              "previous_match_summary": "John's stamina and hand control are key."
+            },
+            "Leonidas Arkona": {
+              "strength": "Crazy power",
+              "health": null,
+              "previous_match_summary": "Leonidas has improved but may make too many mistakes."
+            }
+          }
+        }
+      ]
+    },
+    "Jonathan Breda": {
+      "self_predictions": [
+        {
+          "match": [
+            "Jonathan Breda",
+            "Aymeric Pradines"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Jonathan believes his consistency and improved table IQ will be key to victory.",
+          "predicted_duration": null,
+          "style_conflict": "Jonathan is confident in his ability to adjust and maintain pronation even if Aymeric breaks his hand back.",
+          "opinion_about_athletes": {
+            "Aymeric Pradines": {
+              "strength": "Strong hands, prefers outside",
+              "health": "Recovered from injuries",
+              "previous_match_summary": "Aymeric has changed his style due to injuries and lack of training time."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Justin Bishop",
+            "Janis Amolins"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Jonathan thinks Justin is very determined and the outcome may surprise many.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Justin Bishop": {
+              "strength": "Determined, improved",
+              "health": null,
+              "previous_match_summary": "Justin has shown significant determination and improvement, especially against Mondogas."
+            },
+            "Janis Amolins": {
+              "strength": null,
+              "health": "Uncertain about current shape",
+              "previous_match_summary": "Janis has historically won against Justin."
+            }
+          }
+        },
+        {
+          "match": [
+            "Travis Bagent",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Jonathan believes Corey's strength and awkward hand will be too much for Travis at this stage.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Very strong, thick hand",
+              "health": null,
+              "previous_match_summary": "Corey can drive through opponents even when his wrist is broken back."
+            },
+            "Travis Bagent": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Travis needs more time to return to top form."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vrezh Sedrakyan",
+            "Paul Talbott"
+          ],
+          "arm": "Left",
+          "event": "East vs West 14",
+          "predicted_winner": "Vrezh Sedrakyan",
+          "predicted_score": "60-40",
+          "prediction_summary": "Jonathan thinks Vrezh is a different human being and Paul won't have enough to finish him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vrezh Sedrakyan": {
+              "strength": "Impressive, can stop opponents",
+              "health": null,
+              "previous_match_summary": "Vrezh can grab people and just sit there, thinking about dinner."
+            },
+            "Paul Talbott": {
+              "strength": "Not enough side pressure",
+              "health": null,
+              "previous_match_summary": "Paul is motivated but may not have the tools to finish Vrezh."
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Jonathan believes Jerry has the tools to beat Alex, despite Alex's improvements.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Proven in past matches",
+              "health": "Recovered from infection",
+              "previous_match_summary": "Jerry has taken breaks but has proven himself in past matches."
+            },
+            "Alex Kurdecha": {
+              "strength": "Improved, but may not be enough",
+              "health": null,
+              "previous_match_summary": "Alex has shown improvement but may struggle against Jerry."
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Kamil Jablonski",
+          "predicted_score": "60-40",
+          "prediction_summary": "Jonathan thinks Michael's increased mobility post-surgery may hurt him, leaning towards Kamil.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": null,
+              "health": "Post-surgery with increased mobility",
+              "previous_match_summary": "Michael's bone lock was previously successful but may now be a disadvantage."
+            },
+            "Kamil Jablonski": {
+              "strength": "Impressive weights",
+              "health": null,
+              "previous_match_summary": "Kamil's stamina and strength are key factors."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Jonathan believes Leonidas will make too many mistakes and John will out-arm wrestle him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experienced, can exploit mistakes",
+              "health": null,
+              "previous_match_summary": "John's hand control and experience are key."
+            },
+            "Leonidas Arkona": {
+              "strength": "Crazy power",
+              "health": null,
+              "previous_match_summary": "Leonidas is improving but may get too eager and make mistakes."
+            }
+          }
+        }
+      ]
+    }
+  }
+}
