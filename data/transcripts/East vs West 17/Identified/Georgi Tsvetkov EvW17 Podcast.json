@@ -1,0 +1,77 @@
+{
+  "SPEAKER_00": "Georgi Tsvetkov",
+  "SPEAKER_01": "Engin Terzi",
+  "Georgi Tsvetkov": [
+    {
+      "event": "East vs West 17",
+      "participants": [
+        "Georgi Tsvetkov",
+        "Dave Chaffee"
+      ],
+      "predicted_winner": "Georgi Tsvetkov",
+      "prediction_summary": "I have superior hand control, pronation, and endurance; Dave might pin me once but lacks the stamina to do it three times.",
+      "confidence_level": "60-40",
+      "opinion_about_opponent": "Dave is powerful with strong side pressure but underestimates my improvements."
+    },
+    {
+      "event": "East vs West 17",
+      "participants": [
+        "Mindaugas Tarasaitis",
+        "Janis Amolins"
+      ],
+      "predicted_winner": "Janis Amolins",
+      "prediction_summary": "Janis has superior technique and experience; he is one of the smartest on the table and is well-prepared.",
+      "opinion_about_opponent": "Mindaugas is strong but lacks Janis's tactical intelligence."
+    },
+    {
+      "event": "East vs West 17",
+      "participants": [
+        "Craig Tullier",
+        "John Therrien"
+      ],
+      "predicted_winner": "Craig Tullier",
+      "prediction_summary": "Craig is strong with extensive experience and good table IQ, making him the favorite.",
+      "opinion_about_opponent": "John Therrien is capable but Craig's consistency gives him the edge."
+    },
+    {
+      "event": "East vs West 17",
+      "participants": [
+        "Jocelyne Brisson",
+        "Sarah Bäckman"
+      ],
+      "predicted_winner": "Sarah Bäckman",
+      "prediction_summary": "Sarah is highly motivated for revenge, well-prepared, and has optimized her weight without losing power.",
+      "opinion_about_opponent": "Jocelyne won last year, but Sarah's improvements make her formidable."
+    },
+    {
+      "event": "East vs West 17",
+      "participants": [
+        "Matt Mask",
+        "Kydyrgali Ongarbaev"
+      ],
+      "predicted_winner": "Matt Mask",
+      "prediction_summary": "Matt's explosiveness and unorthodox style will overwhelm Ongarbaev, who is returning from surgery.",
+      "opinion_about_opponent": "Ongarbaev is skilled but lacks match readiness post-surgery."
+    },
+    {
+      "event": "East vs West 17",
+      "participants": [
+        "Devon Larratt",
+        "Corey West"
+      ],
+      "predicted_winner": "Devon Larratt",
+      "prediction_summary": "Devon's size, experience, and control are too much; Corey might win one round but can't sustain it.",
+      "opinion_about_opponent": "Corey has a strong start and shoulder pressure but isn't versatile enough."
+    },
+    {
+      "event": "East vs West 17",
+      "participants": [
+        "Yoshinobu Kanai",
+        "John Brzenk"
+      ],
+      "predicted_winner": "John Brzenk",
+      "prediction_summary": "John's hand control and strategic top-rolling will slowly dismantle Kanai; he knows how to beat him.",
+      "opinion_about_opponent": "Kanai is dangerous but lacks John's adaptability and endurance."
+    }
+  ]
+}

@@ -1,40 +1,93 @@
 import os
 import json
 import requests
-from datetime import datetime
+import re
 from pathlib import Path
 import sys
 
+# Append the project root to path and import config
 sys.path.append(str(Path(__file__).resolve().parents[1]))
-from pipeline.config import SHALLOWSEEK_APIK
-
-
+from pipeline.config import SHALLOWSEEK_APIK, TRANSCRIPT_DIR, EVW_EVENTS_FILE
 
 # Configuration
-DEEPSEEK_API_KEY = SHALLOWSEEK_APIK  # Set your API key in environment variables
-print(f"Using DeepSeek API Key: {DEEPSEEK_API_KEY}")
+DEEPSEEK_API_KEY = SHALLOWSEEK_APIK
 API_URL = "https://api.deepseek.com/v1/chat/completions"
-MODEL = "deepseek-chat"
+MODEL = "deepseek-reasoner"
 
-def analyze_armwrestling_transcript(file_path):
-    """Processes a transcript file and returns predictions in JSON format"""
-    # Read the text file
-    with open(file_path, 'r') as file:
-        transcript = file.read()
-
-    # Prepare the system prompt
-    system_prompt = """
-    You are an expert armwrestling analyst. Process interview transcripts and extract:
-    1. Assign the participants usinf name of the file and context of the interview.
-    2. JSON predictions for upcoming matches with:
-        - predictor name
-        - participants
-        - predicted winner
-        - event name
-    3. compare the predictions with the actual results
+def extract_predictions_as_json(event_title: str, filename: str):
     """
+    Process a normalized transcript to identify speakers and extract match predictions.
+    Saves result as JSON in Identified/ folder under the same event.
+    """
+    normalized_path = TRANSCRIPT_DIR / event_title / "normalized" / filename
+    output_path = TRANSCRIPT_DIR / event_title / "Identified"
+    output_path.mkdir(parents=True, exist_ok=True)
+    output_json_path = output_path / filename.replace(".txt", ".json")
 
-    # Create the API payload
+    if not normalized_path.exists():
+        raise FileNotFoundError(f"Transcript file not found: {normalized_path}")
+
+    with normalized_path.open("r", encoding="utf-8") as f:
+        transcript = f.read()
+
+    with open(EVW_EVENTS_FILE, "r", encoding="utf-8") as f:
+        all_events = json.load(f)
+
+    event_record = next((e for e in all_events if e["event_title"] == event_title), None)
+    if not event_record:
+        raise ValueError(f"Event '{event_title}' not found in EVW_EVENTS_FILE.")
+
+    matches = event_record.get("matches", [])
+    match_summaries = "\n".join(
+        [
+            f"- {m['participants'][0]} vs {m['participants'][1]} (arm: {m['arm']}, weight: {m['weight_category']})"
+            for m in matches
+        ]
+    )
+
+    # Escape nested braces for f-string compatibility
+    example_json = """{
+  \"SPEAKER_00\": \"Devon Larratt\",
+  \"SPEAKER_01\": \"Engin Terzi\",
+  \"Devon Larratt\": [
+    {
+      \"event\": \"%s\",
+      \"participants\": [\"Devon Larratt\", \"Corey West\"],
+      \"predicted_winner\": \"Devon Larratt\",
+      \"prediction_summary\": \"I believe I can stop him and control center table.\",
+      \"confidence_level\": \"high\",
+      \"opinion_about_opponent\": \"Corey is strong but has a weak pronation.\"
+    }
+  ]
+}""" % event_title
+
+    # Prompt for structured JSON response
+    system_prompt = f"""
+You are an expert assistant in analyzing armwrestling podcasts.
+
+You will receive a transcript and metadata. Your task is to:
+1. Identify each speaker using filename and content.
+2. Return structured JSON with:
+   - A speaker mapping like \"SPEAKER_00\": \"Devon Larratt\"
+   - For each speaker who is a known athlete, extract their match predictions about {event_title}
+   - Use the list of matches below for valid match-ups
+   - For each prediction include:
+     * event name (always '{event_title}')
+     * participants (exact two names from the match)
+     * predicted_winner (exact name from participants)
+     * prediction_summary (1-2 sentences max summarizing reasoning)
+     * confidence_level (optional, if speaker expresses it clearly)
+     * opinion_about_opponent (optional: speaker's brief opinion of opponent)
+
+Return only a JSON object like this:
+{example_json}
+
+List of matches:
+{match_summaries}
+
+Filename: {filename}
+"""
+
     payload = {
         "model": MODEL,
         "messages": [
@@ -42,7 +95,7 @@ def analyze_armwrestling_transcript(file_path):
             {"role": "user", "content": transcript}
         ],
         "temperature": 0.3,
-        "max_tokens": 8000
+        "max_tokens": 8192
     }
 
     headers = {
@@ -50,65 +103,31 @@ def analyze_armwrestling_transcript(file_path):
         "Content-Type": "application/json"
     }
 
-    # Call DeepSeek API
+    print(f"📤 Requesting speaker prediction data for: {filename}")
     response = requests.post(API_URL, headers=headers, json=payload)
     response_data = response.json()
 
-    # Extract the content
     if 'choices' in response_data and response_data['choices']:
-        content = response_data['choices'][0]['message']['content']
-        return extract_response_components(content)
-    
-    raise Exception("API call failed: " + json.dumps(response_data, indent=2))
-
-def extract_response_components(full_response):
-    """Separates natural language response from JSON prediction"""
-    # Try to find JSON block
-    json_start = full_response.find('{')
-    json_end = full_response.rfind('}') + 1
-    
-    if json_start != -1 and json_end != -1:
-        json_str = full_response[json_start:json_end]
-        summary = full_response[:json_start].strip()
-        
         try:
-            predictions = json.loads(json_str)
-            return summary, predictions
-        except json.JSONDecodeError:
-            # Fallback if JSON parsing fails
-            return full_response, None
-    
-    return full_response, None
+            raw = response_data['choices'][0]['message']['content']
+            cleaned = re.sub(r'^```(?:json)?|```$', '', raw.strip(), flags=re.MULTILINE).strip()
+            structured_json = json.loads(cleaned)
+            with output_json_path.open("w", encoding="utf-8") as f:
+                json.dump(structured_json, f, indent=2, ensure_ascii=False)
+            print(f"✅ Saved structured predictions to: {output_json_path}")
+            return output_json_path
+        except Exception as e:
+            print("❌ Failed to parse AI response as JSON")
+            print(response_data['choices'][0]['message']['content'])
+            raise e
 
-def save_predictions(predictions, filename_prefix="predictions"):
-    """Saves predictions to a JSON file with timestamp"""
-    if not predictions:
-        return None
-        
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename = f"{filename_prefix}_{timestamp}.json"
-    
-    with open(filename, 'w') as f:
-        json.dump(predictions, f, indent=2)
-    
-    return filename
+    raise Exception("❌ DeepSeek API call failed:\n" + json.dumps(response_data, indent=2))
 
-# Example Usage
+# Example usage
 if __name__ == "__main__":
-    # Set your API key (better to use environment variables)
-    # os.environ["DEEPSEEK_API_KEY"] = DEEPSEEK_API_KEY
-
-    
-    # Process a transcript file
     try:
-        summary, predictions = analyze_armwrestling_transcript("Cvetkov and Terzi.txt")
-        
-        print("\n==== SUMMARY ====")
-        print(summary)
-        
-        if predictions:
-            json_file = save_predictions(predictions)
-            print(f"\n==== PREDICTIONS SAVED TO {json_file} ====")
-            print(json.dumps(predictions, indent=2))
+        event = "East vs West 17"
+        file = "Corey West _amp_ Devon Larratt EvW17 Podcast.txt"
+        extract_predictions_as_json(event, file)
     except Exception as e:
         print(f"Error: {str(e)}")

@@ -1,0 +1,66 @@
+{
+  "SPEAKER_00": "Devon Larratt",
+  "SPEAKER_01": "Corey West",
+  "SPEAKER_02": "Michael Todd",
+  "SPEAKER_03": "Engin Terzi",
+  "Devon Larratt": [
+    {
+      "event": "East vs West 17",
+      "participants": [
+        "Devon Larratt",
+        "Corey West"
+      ],
+      "predicted_winner": "Devon Larratt",
+      "prediction_summary": "I think I can do whatever I want with you. I'll crack you and take control from the stop.",
+      "confidence_level": "high",
+      "opinion_about_opponent": "Corey is strong but has a weak pronation."
+    },
+    {
+      "event": "East vs West 17",
+      "participants": [
+        "John Brzenk",
+        "Yoshinobu Kanai"
+      ],
+      "predicted_winner": "John Brzenk",
+      "prediction_summary": "This may be John's last match, and he's going to give it everything he has.",
+      "confidence_level": "medium"
+    }
+  ],
+  "Corey West": [
+    {
+      "event": "East vs West 17",
+      "participants": [
+        "Devon Larratt",
+        "Corey West"
+      ],
+      "predicted_winner": "Corey West",
+      "prediction_summary": "I'm coming in strong enough to win and I like my chances left-handed.",
+      "confidence_level": "medium",
+      "opinion_about_opponent": "Devon is confident but I believe in my strength and preparation."
+    }
+  ],
+  "Michael Todd": [
+    {
+      "event": "East vs West 17",
+      "participants": [
+        "Devon Larratt",
+        "Corey West"
+      ],
+      "predicted_winner": "Devon Larratt",
+      "prediction_summary": "Devon is very confident and if he's as strong as he says, he'll put on a show.",
+      "confidence_level": "medium"
+    }
+  ],
+  "Engin Terzi": [
+    {
+      "event": "East vs West 17",
+      "participants": [
+        "Devon Larratt",
+        "Corey West"
+      ],
+      "predicted_winner": "Devon Larratt",
+      "prediction_summary": "Devon is very confident and I think he will surprise Corey on game day.",
+      "confidence_level": "high"
+    }
+  ]
+}
