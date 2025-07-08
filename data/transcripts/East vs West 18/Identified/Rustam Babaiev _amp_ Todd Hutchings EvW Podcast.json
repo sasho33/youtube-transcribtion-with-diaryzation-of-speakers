@@ -1,0 +1,135 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Rustam Babaev",
+    "SPEAKER_01": "Pavlo Derbedyenyev",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_04": "Todd Hutchings"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Rustam Babaev",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Riekerd Bornman",
+            "Wallace Dilley"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Riekerd Bornman",
+          "predicted_score": null,
+          "prediction_summary": "Rustam thinks Riekerd Bornman will win due to his strength and preparation.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Riekerd Bornman": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Strong performances in past matches."
+            },
+            "Wallace Dilley": {
+              "strength": "Moderate",
+              "health": "Good",
+              "previous_match_summary": "Consistent but may lack the edge against top competitors."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Todd Hutchings",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Todd believes Devon Larratt will win due to his experience and technique.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Very High",
+              "health": "Good",
+              "previous_match_summary": "Dominant in past matches with strong technique."
+            },
+            "Alex Kurdecha": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Strong but may lack the experience against top-tier opponents."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Pavlo Derbedyenyev",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Pavlo thinks Matt Mask will win due to his recent improvements and strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Recent matches show significant improvement."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Moderate",
+              "health": "Good",
+              "previous_match_summary": "Consistent but may not match Matt's current level."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "60-40",
+          "prediction_summary": "Engin believes Levan will win but Ermes might take a couple of rounds due to his technique.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Extremely High",
+              "health": "Good",
+              "previous_match_summary": "Dominant in all past matches."
+            },
+            "Ermes Gasparini": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Technically sound but may lack the raw power of Levan."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

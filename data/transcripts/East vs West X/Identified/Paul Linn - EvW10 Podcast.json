@@ -1,0 +1,121 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_03": "Paul Linn"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Expects a war with no clear domination from either side. Believes Denis is stronger in arm power but Devon has better hand-wrist coordination and experience.",
+          "predicted_duration": "Long, grinding match",
+          "style_conflict": "Denis's power vs Devon's technique and endurance",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Excellent hand-wrist coordination and experience",
+              "health": "Good, but endurance questioned by some",
+              "previous_match_summary": "Recent matches show adaptability but some struggles against committed dead wrist press"
+            },
+            "Denis Cyplenkov": {
+              "strength": "Unbelievable arm power, global popularity",
+              "health": "In phenomenal shape, leaner than prime",
+              "previous_match_summary": "Less active recently but focused solely on this match"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Sees Ongarbaev as the favorite but Todd has more than a puncher's chance. Expects a tough match with potential for either to stop the other.",
+          "predicted_duration": "Competitive, no clear domination",
+          "style_conflict": "Todd's side pressure vs Ongarbaev's top roll",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Technically savvy, strong side pressure",
+              "health": "Good",
+              "previous_match_summary": "Known for big wins against top rollers"
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Pound for pound best pure arm wrestler, smooth rotation",
+              "health": "Good",
+              "previous_match_summary": "Exceptional technique and movement"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John is the favorite but not by a large margin. Expects a close match with John's hydraulic pronation being a key factor.",
+          "predicted_duration": "Close, potentially long rounds",
+          "style_conflict": "John's pronation vs Sasho's side pressure",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Savvy, many weapons, hydraulic pronation",
+              "health": "Age may be a factor",
+              "previous_match_summary": "Consistent performer with vast experience"
+            },
+            "Sasho Andreev": {
+              "strength": "Strong side pressure, young and at physical peak",
+              "health": "Good",
+              "previous_match_summary": "Technically strong but less experienced than John"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Paul Linn",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Rustam Babaiev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Hard to predict. Irakli's pronation vs Rustam's down pressure. Rustam may have an edge if he can contain Irakli's top roll.",
+          "predicted_duration": "Competitive",
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Elite top roller, clean back pressure",
+              "health": "Good",
+              "previous_match_summary": "Highly rated globally"
+            },
+            "Rustam Babaiev": {
+              "strength": "Iron hand, strong down pressure",
+              "health": "Coming off injury",
+              "previous_match_summary": "Historically strong, especially in prime"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

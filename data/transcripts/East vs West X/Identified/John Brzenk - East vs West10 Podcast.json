@@ -1,0 +1,140 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "John Brzenk",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Unknown"
+  },
+  "date": null,
+  "predictions": {
+    "John Brzenk": {
+      "self_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John believes he needs to be more aggressive and control Sasho's hand and wrist to win. He acknowledges Sasho's strength and endurance but thinks he can outmaneuver him with proper strategy.",
+          "predicted_duration": null,
+          "style_conflict": "John plans to avoid a long match and be aggressive off the start.",
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Very strong, especially in side pressure.",
+              "health": null,
+              "previous_match_summary": "Sasho has losses to Spartak Zolev and others but is considered one of the best pound-for-pound arm wrestlers."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "John thinks Todd's aggressive style and side pressure will be too much for Kydyrgali, especially if Todd gets him off center.",
+          "predicted_duration": null,
+          "style_conflict": "Todd's side pressure vs Kydyrgali's endurance.",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Extreme side pressure.",
+              "health": null,
+              "previous_match_summary": "Todd manhandled John in their previous match."
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Strong endurance.",
+              "health": null,
+              "previous_match_summary": "Kydyrgali has shown great endurance but may struggle against Todd's aggression."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "John believes Devon's leverage, endurance, and ability to control the hand and wrist will be too much for Denis, who lacks the cup to turn Devon's wrist.",
+          "predicted_duration": null,
+          "style_conflict": "Denis's sloppy style vs Devon's controlled leverage.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Great endurance and leverage.",
+              "health": null,
+              "previous_match_summary": "Devon has shown consistent dominance in recent matches."
+            },
+            "Denis Cyplenkov": {
+              "strength": "Strong but sloppy style.",
+              "health": "Recovering from injury.",
+              "previous_match_summary": "Denis has been training hard but lacks the cup to control top-tier opponents."
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babaiev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Rustam Babaiev",
+          "predicted_score": null,
+          "prediction_summary": "John thinks Rustam's ability to use his back and tricep to stay high and come down with force will be key. He believes Irakli will struggle if Rustam gets wrist control.",
+          "predicted_duration": null,
+          "style_conflict": "Rustam's inside hook vs Irakli's outside style.",
+          "opinion_about_athletes": {
+            "Rustam Babaiev": {
+              "strength": "Uses back and tricep effectively.",
+              "health": null,
+              "previous_match_summary": "Rustam has been effective against top pullers but had a recent loss to Paul Linn."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Good against hook pullers but loses wrist control.",
+              "health": null,
+              "previous_match_summary": "Irakli has struggled with hand control against top opponents."
+            }
+          }
+        },
+        {
+          "match": [
+            "Zaur Paizulaev",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Zaur Paizulaev",
+          "predicted_score": null,
+          "prediction_summary": "John thinks Zaur's power and recent recovery from injury will give him the edge over Georgi, despite Georgi's size advantage.",
+          "predicted_duration": null,
+          "style_conflict": "Zaur's power vs Georgi's size.",
+          "opinion_about_athletes": {
+            "Zaur Paizulaev": {
+              "strength": "Tremendous power.",
+              "health": "Recovered from bicep injury.",
+              "previous_match_summary": "Zaur has shown ability to control top opponents like Denis."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Huge arm size makes him difficult to handle.",
+              "health": null,
+              "previous_match_summary": "Georgi's size has been a challenge for opponents."
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": []
+    }
+  }
+}

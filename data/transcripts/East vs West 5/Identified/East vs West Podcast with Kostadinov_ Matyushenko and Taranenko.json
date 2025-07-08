@@ -1,0 +1,221 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "John Brzenk",
+    "SPEAKER_02": "Krasimir Kostadinov",
+    "SPEAKER_03": "Ivan Matyushenko"
+  },
+  "date": null,
+  "predictions": {
+    "Zurab Tavberidze vs Ryan Bowen": {
+      "third_party_predictions": [
+        {
+          "speaker": "Engin Terzi",
+          "predicted_winner": "Zurab Tavberidze",
+          "prediction_summary": "Zurab is more experienced and stronger, but Ryan has gained weight and strength recently."
+        },
+        {
+          "speaker": "Ivan Matyushenko",
+          "predicted_winner": "Zurab Tavberidze",
+          "prediction_summary": "Zurab is more experienced and stronger, but Ryan has become bigger and stronger recently."
+        }
+      ]
+    },
+    "Georgii Dzeranov vs Sergey Kalinichenko": {
+      "third_party_predictions": [
+        {
+          "speaker": "Krasimir Kostadinov",
+          "predicted_winner": "Georgii Dzeranov",
+          "prediction_summary": "Dzeranov has more experience and raw power, and will win if the match is equal."
+        },
+        {
+          "speaker": "Ivan Matyushenko",
+          "predicted_winner": "Georgii Dzeranov",
+          "prediction_summary": "Dzeranov is the favorite, being both stronger and more versatile."
+        }
+      ]
+    },
+    "Mindaugas Tarasaitis vs Justin Bishop": {
+      "third_party_predictions": [
+        {
+          "speaker": "Krasimir Kostadinov",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "prediction_summary": "Mindaugas is a huge favorite on right arm; if it was left arm, Justin would be the favorite."
+        },
+        {
+          "speaker": "John Brzenk",
+          "predicted_winner": "Justin Bishop",
+          "prediction_summary": "Justin has not competed in a long time, but stylistically it's a good match for him."
+        }
+      ]
+    },
+    "Adam Wawrzynski vs Bozhidar Simeonov": {
+      "third_party_predictions": [
+        {
+          "speaker": "John Brzenk",
+          "predicted_winner": "Bozhidar Simeonov",
+          "prediction_summary": "Bozhidar is favored, but Adam has incredible endurance and could make it a long war."
+        },
+        {
+          "speaker": "Engin Terzi",
+          "predicted_winner": "Bozhidar Simeonov",
+          "prediction_summary": "Bozhidar is great in hook, but Adam has the power to stop him and make it a long match."
+        }
+      ]
+    },
+    "Oleg Petrenko vs Zurab Tavberidze": {
+      "third_party_predictions": [
+        {
+          "speaker": "Krasimir Kostadinov",
+          "predicted_winner": "Oleg Petrenko",
+          "prediction_summary": "Petrenko will have better hand control and cupping, and will win a close match."
+        },
+        {
+          "speaker": "Ivan Matyushenko",
+          "predicted_winner": "Oleg Petrenko",
+          "prediction_summary": "Petrenko will win with a side move, possibly top-rolling Zurab's hand."
+        }
+      ]
+    },
+    "Davit Samushia vs Daniel Procopciuc": {
+      "third_party_predictions": [
+        {
+          "speaker": "Engin Terzi",
+          "predicted_winner": "Daniel Procopciuc",
+          "prediction_summary": "Daniel is coming up in weight, while Samushia is coming down, giving Daniel an edge."
+        },
+        {
+          "speaker": "Ivan Matyushenko",
+          "predicted_winner": "Daniel Procopciuc",
+          "prediction_summary": "Daniel has a good chance, especially if the match goes into a hook."
+        }
+      ]
+    },
+    "Georgii Dzeranov vs Wagner Bortolato": {
+      "third_party_predictions": [
+        {
+          "speaker": "Ivan Matyushenko",
+          "predicted_winner": "Wagner Bortolato",
+          "prediction_summary": "Bortolato is a little favorite due to size and strength, but it will be an even match."
+        },
+        {
+          "speaker": "John Brzenk",
+          "predicted_winner": "Georgii Dzeranov",
+          "prediction_summary": "Georgii is the clear favorite, even with Bortolato's size advantage."
+        }
+      ]
+    },
+    "Paul Linn vs lrakli Gamtenadze": {
+      "third_party_predictions": [
+        {
+          "speaker": "Krasimir Kostadinov",
+          "predicted_winner": "Paul Linn",
+          "prediction_summary": "Paul is the favorite, but lrakli's style could be unpredictable."
+        },
+        {
+          "speaker": "John Brzenk",
+          "predicted_winner": "Paul Linn",
+          "prediction_summary": "Paul is favored, but lrakli's wild style could make it interesting."
+        }
+      ]
+    },
+    "John Brzenk vs Oleg Petrenko": {
+      "third_party_predictions": [
+        {
+          "speaker": "Engin Terzi",
+          "predicted_winner": "John Brzenk",
+          "prediction_summary": "John's technique and experience give him the edge, but Petrenko's power is a challenge."
+        },
+        {
+          "speaker": "Ivan Matyushenko",
+          "predicted_winner": "John Brzenk",
+          "prediction_summary": "John's versatility and technique will be key, but Petrenko's power is formidable."
+        }
+      ]
+    },
+    "Artyom Morozov vs Revaz Lutidze": {
+      "third_party_predictions": [
+        {
+          "speaker": "Engin Terzi",
+          "predicted_winner": "Revaz Lutidze",
+          "prediction_summary": "Revaz is better in top roll, but Artem could win if he gets into a hook."
+        },
+        {
+          "speaker": "Ivan Matyushenko",
+          "predicted_winner": "Revaz Lutidze",
+          "prediction_summary": "Revaz is the favorite due to his top roll ability and size advantage."
+        }
+      ]
+    },
+    "Ermes Gasparini vs Dave Chaffee": {
+      "third_party_predictions": [
+        {
+          "speaker": "Krasimir Kostadinov",
+          "predicted_winner": "Dave Chaffee",
+          "prediction_summary": "Dave has a slight edge, but it's very close (51-49)."
+        },
+        {
+          "speaker": "Ivan Matyushenko",
+          "predicted_winner": "Ermes Gasparini",
+          "prediction_summary": "Ermes is the favorite due to Dave's recent war with Laletin and not being 100%."
+        }
+      ]
+    },
+    "Haydar Gildil vs Cobra Rhodes": {
+      "third_party_predictions": [
+        {
+          "speaker": "Ivan Matyushenko",
+          "predicted_winner": "Cobra Rhodes",
+          "prediction_summary": "Cobra is favored due to his past achievements and current form."
+        },
+        {
+          "speaker": "John Brzenk",
+          "predicted_winner": "Cobra Rhodes",
+          "prediction_summary": "Cobra is the favorite, but Haydar is a legend with unknown current form."
+        }
+      ]
+    },
+    "Sandris Sedis vs Matt Mask": {
+      "third_party_predictions": [
+        {
+          "speaker": "Krasimir Kostadinov",
+          "predicted_winner": "Matt Mask",
+          "prediction_summary": "Matt is the favorite, especially if Sandris has wrist issues."
+        },
+        {
+          "speaker": "Ivan Matyushenko",
+          "predicted_winner": "Matt Mask",
+          "prediction_summary": "Matt is stronger now, and Sandris may not be fully recovered from his recent championship."
+        }
+      ]
+    },
+    "Artyom Morozov vs Ermes Gasparini": {
+      "third_party_predictions": [
+        {
+          "speaker": "Engin Terzi",
+          "predicted_winner": "Artyom Morozov",
+          "prediction_summary": "Artem is the favorite on left arm, especially if he can top-roll Ermes."
+        },
+        {
+          "speaker": "Ivan Matyushenko",
+          "predicted_winner": "Ermes Gasparini",
+          "prediction_summary": "Ermes has a better top roll, but Artem could win if he gets into a hook."
+        }
+      ]
+    },
+    "Devon Larratt vs Evgeny Prudnik": {
+      "third_party_predictions": [
+        {
+          "speaker": "Krasimir Kostadinov",
+          "predicted_winner": "Evgeny Prudnik",
+          "prediction_summary": "Prudnik is slightly favored (55-45), but Devon's endurance could be a factor."
+        },
+        {
+          "speaker": "Ivan Matyushenko",
+          "predicted_winner": "Evgeny Prudnik",
+          "prediction_summary": "Prudnik is the favorite, but Devon's open-arm top roll could change the match."
+        }
+      ]
+    }
+  }
+}

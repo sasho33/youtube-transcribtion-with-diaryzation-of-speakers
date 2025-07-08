@@ -1,0 +1,377 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Paul Linn",
+    "SPEAKER_02": "David (Translator)",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Arsen Khachatryan"
+  },
+  "date": null,
+  "predictions": {
+    "Paul Linn": {
+      "self_predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "Arsen Khachatryan"
+          ],
+          "arm": "Right",
+          "weight": "Middleweight",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Paul acknowledges Arsen as a tough and versatile opponent, expressing excitement for the match and the challenge it presents.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arsen Khachatryan": {
+              "strength": "Young, fast, versatile",
+              "health": null,
+              "previous_match_summary": "Second at AMC, high-level puller"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ryan Belanger",
+            "Allen Ford"
+          ],
+          "arm": "Right",
+          "weight": "Middleweight",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": "Could be 3-0 one way or the other",
+          "prediction_summary": "Paul finds it hard to predict but thinks if it goes into a hook, it's Ryan's world. Questions if Allen can get out on his fingers.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. finger-based top roll",
+          "opinion_about_athletes": {
+            "Ryan Belanger": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Allen Ford": {
+              "strength": "Same speed, more powerful now",
+              "health": null,
+              "previous_match_summary": "At his all-time best according to Ivan Carnegie"
+            }
+          }
+        },
+        {
+          "match": [
+            "Joseph Meranto",
+            "Ivan Portela"
+          ],
+          "arm": "Right",
+          "weight": "Featherweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Joseph Meranto",
+          "predicted_score": null,
+          "prediction_summary": "Paul gives the edge to Joseph but wouldn't be surprised if Ivan comes in amazing form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Joseph Meranto": {
+              "strength": "Adjusts well, big future",
+              "health": null,
+              "previous_match_summary": "Done really well on big stage"
+            },
+            "Ivan Portela": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "If close to peak, tough for Joseph"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Paul thinks if Morozov turns it into a hook, he edges it. Close match.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Universal puller",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Pulled competitively inside with Morozov in the past (left arm)"
+            }
+          }
+        },
+        {
+          "match": [
+            "Wallace Dilley",
+            "Riekerd Bornman"
+          ],
+          "arm": "Right",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Paul finds this match super interesting. Thinks Ricard could shoulder roll through Wallace, but if Wallace wins center, it could be interesting.",
+          "predicted_duration": null,
+          "style_conflict": "Shoulder roll vs. center control",
+          "opinion_about_athletes": {
+            "Wallace Dilley": {
+              "strength": "Diesel strong",
+              "health": null,
+              "previous_match_summary": "Tough competitor"
+            },
+            "Riekerd Bornman": {
+              "strength": "Far above everybody in Australia/NZ",
+              "health": null,
+              "previous_match_summary": "Killing everybody in Australia/NZ"
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Paul is 100% behind Michael, citing his PRs and pronation as difference makers. Thinks Georgii would need a flop press to win.",
+          "predicted_duration": null,
+          "style_conflict": "Pronation vs. supinated hook",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Hitting PRs, fast enough to get to center",
+              "health": null,
+              "previous_match_summary": "Performed well even in losing to Vitaly"
+            },
+            "Georgii Dzeranov": {
+              "strength": "Good in supinated hook",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Paul thinks Devon's cerebral approach and competition-day intensity give him the edge. Alex's practice with Devon might be a disadvantage.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Cerebral, intelligent",
+              "health": null,
+              "previous_match_summary": "Practice version not the same as competition"
+            },
+            "Alex Kurdecha": {
+              "strength": "Smart, intelligent",
+              "health": null,
+              "previous_match_summary": "Lacks experience with Devon's competition intensity"
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "4-0 (mind), 4-3 (heart)",
+          "prediction_summary": "Paul's mind says Levan 4-0 due to extreme power. His heart wants to see Ermes contest early and potentially push to a close match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Most powerful human, improved since last match",
+              "health": null,
+              "previous_match_summary": "Potentially pissed off by Ermes' comments"
+            },
+            "Ermes Gasparini": {
+              "strength": "Improved riser, pronation, back pressure",
+              "health": null,
+              "previous_match_summary": "Believes he can win this time"
+            }
+          }
+        }
+      ]
+    },
+    "Arsen Khachatryan": {
+      "self_predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "Arsen Khachatryan"
+          ],
+          "arm": "Right",
+          "weight": "Middleweight",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Arsen respects Paul but is coming to win. Believes it will be super tough but is prepared for all positions.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Very good competitor, smart, experienced",
+              "health": null,
+              "previous_match_summary": "Supports US team, high-level puller"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "weight": "Light Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "50-50",
+          "prediction_summary": "Arsen thinks it's 50-50 but slightly favors Irakli.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Very good",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "60-40",
+          "prediction_summary": "Arsen thinks Michael will win by stopping Georgii's position and making him tired.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Can stop Georgii's position",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": "Lost form in recent years",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Arsen thinks Devon will control with his wrist and win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Controls with wrist",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Wagner Bortalato",
+            "Manuel Battaglia"
+          ],
+          "arm": "Left",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Wagner Bortalato",
+          "predicted_score": null,
+          "prediction_summary": "Arsen thinks Wagner is physically stronger and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Wagner Bortalato": {
+              "strength": "Physically stronger",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Manuel Battaglia": {
+              "strength": "Very good, smart",
+              "health": null,
+              "previous_match_summary": "Lost to Armenian competitor in European Championship"
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Arsen thinks Levan will win absolutely, as he is prepared better and won't give Ermes any chances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Improved every position",
+              "health": null,
+              "previous_match_summary": "Surprised by Ermes last time, now better prepared"
+            },
+            "Ermes Gasparini": {
+              "strength": "Has toproll position",
+              "health": null,
+              "previous_match_summary": "Got some wins last time"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

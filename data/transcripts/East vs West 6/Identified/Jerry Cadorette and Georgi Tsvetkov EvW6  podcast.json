@@ -1,0 +1,240 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Jerry Cadorette",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Georgi Tsvetkov",
+    "SPEAKER_03": null
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Georgi Tsvetkov",
+      "self_predictions": [
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "Georgi believes he will win due to his improved strength and endurance, focusing on hook and side pressure techniques.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Georgi's top rolling vs Jerry's dead wrist shoulder pressure",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Very strong",
+              "health": "Recovered from shoulder injury",
+              "previous_match_summary": "Jerry has a history of winning long matches and is known for his endurance."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ferit Osmanli",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Ferit Osmanli",
+          "predicted_score": null,
+          "prediction_summary": "Georgi thinks Ferit will win due to his power, experience, and smart competition.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ferit Osmanli": {
+              "strength": "Very powerful",
+              "health": "In good shape",
+              "previous_match_summary": "Recently won in Russia and is bigger and stronger now."
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Strong opponent but not as experienced as Ferit in top rolling."
+            }
+          }
+        },
+        {
+          "match": [
+            "Arif Ertem",
+            "Corey West"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Georgi believes Arif will win easily due to his speed and strength against hookers.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arif Ertem": {
+              "strength": "Very fast and strong",
+              "health": null,
+              "previous_match_summary": "More experienced and dangerous against hookers."
+            },
+            "Corey West": {
+              "strength": "Big and strong",
+              "health": null,
+              "previous_match_summary": "Less experienced compared to Arif."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Georgi thinks Irakli will win due to John's problem with good top rollers.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Strong top roller",
+              "health": null,
+              "previous_match_summary": "Trains with Levan and is a beast."
+            },
+            "John Brzenk": {
+              "strength": "Endurance",
+              "health": null,
+              "previous_match_summary": "Smart but may lack the skill set against Irakli."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Georgi believes Ongarbaev will win due to Michael's weight loss affecting his performance.",
+          "predicted_duration": "Very difficult match",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Super strong",
+              "health": null,
+              "previous_match_summary": "Smart and clever competitor."
+            },
+            "Michael Todd": {
+              "strength": "Strong but lighter",
+              "health": "Recovered from injury",
+              "previous_match_summary": "Conditioned but may not be as strong at lower weight."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Jerry Cadorette",
+      "self_predictions": [
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Jerry is confident he will win, citing his strength and experience, though he respects Georgi's WAF win.",
+          "predicted_duration": null,
+          "style_conflict": "Jerry's dead wrist shoulder pressure vs Georgi's top rolling",
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Strong top roller",
+              "health": null,
+              "previous_match_summary": "Won WAF and is training hard."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ferit Osmanli",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Jerry thinks Genadi will win due to his strength and experience, though he hasn't pulled with Ferit.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Super strong",
+              "health": null,
+              "previous_match_summary": "Strong opponent with many tools."
+            },
+            "Ferit Osmanli": {
+              "strength": "Good",
+              "health": "Been out of it a bit",
+              "previous_match_summary": "Good but not as experienced as Genadi."
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Rustam Babayev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Jerry supports Paul due to his recent performances and being from the United States.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Force",
+              "health": null,
+              "previous_match_summary": "Been winning last series of matches."
+            },
+            "Rustam Babayev": {
+              "strength": "Tough at peak",
+              "health": null,
+              "previous_match_summary": "Been out of it for a while."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Jerry supports Michael despite his weight loss, citing his conditioning and experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Conditioned",
+              "health": "Recovered from injury",
+              "previous_match_summary": "Trains all the time, something to prove."
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

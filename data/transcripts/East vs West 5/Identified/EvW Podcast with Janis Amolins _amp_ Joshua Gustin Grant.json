@@ -1,0 +1,603 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Janis Amolins",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_04": "Joshua Grant"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Janis Amolins",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Ryan Bowen"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab is a clear favorite due to his higher caliber and experience. Ryan is in big trouble despite being heavier and bigger.",
+          "predicted_duration": null,
+          "style_conflict": "Ryan may try to top roll Zurab, but Zurab's posting position is strong against top rollers.",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Top three in his weight class for many years."
+            },
+            "Ryan Bowen": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "Won against Bogdan Stojka but struggled against Ray."
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas is technically superior and has better endurance. Justin's best chance is in the first round with his explosiveness.",
+          "predicted_duration": null,
+          "style_conflict": "Justin will likely try to top roll Mindaugas, but Mindaugas is hard to hook.",
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Lost to Armenian after a long match with Daniel Procopciuc."
+            },
+            "Justin Bishop": {
+              "strength": "Good",
+              "health": "Recovering from injuries",
+              "previous_match_summary": "Not active lately, last seen in WSL against StarVJ."
+            }
+          }
+        },
+        {
+          "match": [
+            "Adam Wawrzynski",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Bozhidar Simeonov",
+          "predicted_score": null,
+          "prediction_summary": "Bozhidar is the favorite due to his superior inside game and versatility.",
+          "predicted_duration": null,
+          "style_conflict": "Adam is strong inside, but Bozhidar can adapt and find other ways to win.",
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "Strong inside game but not at Bozhidar's level."
+            },
+            "Bozhidar Simeonov": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "World champion, versatile and strong in super matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Sergey Kalinichenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Georgii is in good shape and has proven himself against top arm wrestlers.",
+          "predicted_duration": null,
+          "style_conflict": "Georgii's explosiveness and strength give him the edge.",
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Played with everyone in Russia's Motoshino tournament."
+            },
+            "Sergey Kalinichenko": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "Not active lately, last seen in Lotto Tour."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "3-2",
+          "prediction_summary": "Daniel's current form is excellent, and he has a good chance to win a close match.",
+          "predicted_duration": "Long",
+          "style_conflict": "Samushia may try to control Daniel's pronator, but Daniel's hand strength is incredible.",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Won against Bozhidar inside but struggled against top rollers."
+            },
+            "Daniel Procopciuc": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Strong in slow hook matches, excellent hand strength."
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Wagner Bortolato"
+          ],
+          "arm": "Left",
+          "event": "East vs West 5",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Georgii's 2019 shape could win against Bortolato, and he's even bigger now.",
+          "predicted_duration": null,
+          "style_conflict": "Bortolato is strong but not as technical as Georgii.",
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Very impressive in past tournaments."
+            },
+            "Wagner Bortolato": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "World champion in 2006, 2012, but not as active lately."
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Irakli Gamtenadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Paul is improving rapidly and has high power levels. Gamtenadze hasn't been active lately.",
+          "predicted_duration": null,
+          "style_conflict": "Paul's unorthodox style is effective, but Gamtenadze has a strange open hook game.",
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Won against Samushia and gave John Brzenk a hard time."
+            },
+            "Irakli Gamtenadze": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "European and World champion but not active lately."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Petrenko is younger, stronger, and more explosive, but John always finds a way.",
+          "predicted_duration": null,
+          "style_conflict": "Petrenko's hand has been flopped back before, and John could catch him in a longer game.",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Legendary arm wrestler with incredible endurance and technique."
+            },
+            "Oleg Petrenko": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Strong in super matches, but endurance is questionable."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Morozov's hook ability is better, and he's in great shape.",
+          "predicted_duration": null,
+          "style_conflict": "If Morozov hooks Revaz, he wins. If they go outside, it's more even.",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Competing often and improving rapidly."
+            },
+            "Revaz Lutidze": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Georgians say he has the most potential but not always serious."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes is technically superior and has better hand control. Dave's recent injuries may affect him.",
+          "predicted_duration": null,
+          "style_conflict": "Ermes needs to control Dave's pronator to win. If wrist is flat, Dave has an edge.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "One of the best top rollers, technically excellent."
+            },
+            "Dave Chaffee": {
+              "strength": "High",
+              "health": "Recovering from injuries",
+              "previous_match_summary": "Super strong but struggles when stopped."
+            }
+          }
+        },
+        {
+          "match": [
+            "Haydar Gildil",
+            "Cobra Rhodes"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Haydar Gildil",
+          "predicted_score": null,
+          "prediction_summary": "Haydar is more active lately and has wins against top arm wrestlers.",
+          "predicted_duration": null,
+          "style_conflict": "Clash of styles: Haydar inside, Cobra top roll.",
+          "opinion_about_athletes": {
+            "Haydar Gildil": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Wins against Rick Pia, Bondo Hupalo, and Shamil Karajayev."
+            },
+            "Cobra Rhodes": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "Legendary top roller but not active lately."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Matt is the favorite due to Sandris' recent illness and short recovery time after WAF.",
+          "predicted_duration": null,
+          "style_conflict": "Matt's top roll is strong, and Sandris struggled against top rollers at WAF.",
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": "High",
+              "health": "Recovering from illness",
+              "previous_match_summary": "Struggled against top rollers at WAF."
+            },
+            "Matt Mask": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Motivated after previous defeat, training hard."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 5",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Morozov is younger, growing, and in better shape. Ermes' left is good but not as dominant as his right.",
+          "predicted_duration": null,
+          "style_conflict": "Battle of hands. Morozov's hook ability is better.",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Competing often, improving rapidly."
+            },
+            "Ermes Gasparini": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Good left arm but not as dominant as right."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik is stronger, more explosive, and younger. Devon's endurance is his best chance.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik's explosiveness vs Devon's endurance. Setup battle will be crucial.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Incredible endurance, can wear opponents down."
+            },
+            "Evgeny Prudnik": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Dominant against Todd Hutchings and Matt Mask."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Ryan Bowen"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab is a serious guy, training hard, and will be in super shape.",
+          "predicted_duration": null,
+          "style_conflict": "Ryan may try to top roll, but Zurab's posting position is strong.",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Preparing for Petrenko, in top shape."
+            },
+            "Ryan Bowen": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "Gained weight, but general strength gains may not translate to arm wrestling."
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas is technically superior and has better endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Justin's explosiveness vs Mindaugas' technical skills.",
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Lost to Armenian after a long match with Daniel Procopciuc."
+            },
+            "Justin Bishop": {
+              "strength": "Good",
+              "health": "Recovering from injuries",
+              "previous_match_summary": "Not active lately, last seen in WSL."
+            }
+          }
+        },
+        {
+          "match": [
+            "Adam Wawrzynski",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Bozhidar Simeonov",
+          "predicted_score": null,
+          "prediction_summary": "Bozhidar is the favorite due to his superior inside game and versatility.",
+          "predicted_duration": null,
+          "style_conflict": "Adam is strong inside, but Bozhidar can adapt and find other ways to win.",
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "Strong inside game but not at Bozhidar's level."
+            },
+            "Bozhidar Simeonov": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "World champion, versatile and strong in super matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "3-2",
+          "prediction_summary": "Daniel's current form is excellent, and he has a good chance to win a close match.",
+          "predicted_duration": "Long",
+          "style_conflict": "Samushia may try to control Daniel's pronator, but Daniel's hand strength is incredible.",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Won against Bozhidar inside but struggled against top rollers."
+            },
+            "Daniel Procopciuc": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Strong in slow hook matches, excellent hand strength."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik is stronger, more explosive, and younger. Devon's endurance is his best chance.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik's explosiveness vs Devon's endurance. Setup battle will be crucial.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Incredible endurance, can wear opponents down."
+            },
+            "Evgeny Prudnik": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Dominant against Todd Hutchings and Matt Mask."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Joshua Grant",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Ryan Bowen"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab is the favorite, but Ryan is tricky and could surprise if Zurab takes him lightly.",
+          "predicted_duration": null,
+          "style_conflict": "Ryan's endurance could be a factor if the match goes long.",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Higher caliber arm wrestler."
+            },
+            "Ryan Bowen": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "Tricky and can surprise if underestimated."
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas has more recent competition experience and is comfortable with strict rules.",
+          "predicted_duration": null,
+          "style_conflict": "Justin's lack of recent competition could be a disadvantage.",
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Lost to Armenian after a long match with Daniel Procopciuc."
+            },
+            "Justin Bishop": {
+              "strength": "Good",
+              "health": "Recovering from injuries",
+              "previous_match_summary": "Not active lately, last seen in WSL."
+            }
+          }
+        },
+        {
+          "match": [
+            "Adam Wawrzynski",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Bozhidar Simeonov",
+          "predicted_score": null,
+          "prediction_summary": "Bozhidar is the clear favorite due to his superior strength and experience.",
+          "predicted_duration": null,
+          "style_conflict": "Adam is strong, but Bozhidar's versatility gives him the edge.",
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "Strong but not at Bozhidar's level."
+            },
+            "Bozhidar Simeonov": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "World champion, versatile and strong in super matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik is stronger and more explosive. Devon's endurance is his best chance.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik's explosiveness vs Devon's endurance. Setup battle will be crucial.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Incredible endurance, can wear opponents down."
+            },
+            "Evgeny Prudnik": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Dominant against Todd Hutchings and Matt Mask."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

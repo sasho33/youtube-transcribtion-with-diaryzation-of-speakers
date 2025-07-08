@@ -1,0 +1,187 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Pavlo (Translator)",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Zaur Payzulaev",
+    "SPEAKER_03": "Unknown Speaker"
+  },
+  "date": null,
+  "predictions": {
+    "Zaur Payzulaev": {
+      "self_predictions": [
+        {
+          "match": [
+            "Zaur Payzulaev",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Zaur Payzulaev",
+          "predicted_score": "50-50",
+          "prediction_summary": "Zaur believes he has a 50% chance against Levan, understanding his strengths and weaknesses.",
+          "predicted_duration": null,
+          "style_conflict": "Zaur's explosive start vs Levan's strength",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Very strong wrist and fingers",
+              "health": null,
+              "previous_match_summary": "Dominant in supermatches"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Ferit Osmanli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Zaur sees this as a very close match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ferit Osmanli": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey West",
+            "Ferit Osmanli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Ferit Osmanli",
+          "predicted_score": null,
+          "prediction_summary": "Zaur thinks Ferit will win the left arm match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ferit Osmanli": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Barbora Bajciova",
+            "Gabriela Vasconcelos"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Gabriela Vasconcelos",
+          "predicted_score": null,
+          "prediction_summary": "Zaur initially thought it was 50-50 but leans towards Gabriela due to her power and experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Barbora Bajciova": {
+              "strength": "Stable and progressing",
+              "health": null,
+              "previous_match_summary": "Winning many tournaments"
+            },
+            "Gabriela Vasconcelos": {
+              "strength": "Explosive power",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Zaur thinks Michael has a good chance but acknowledges Ongarbaev's versatility.",
+          "predicted_duration": null,
+          "style_conflict": "Michael's king's move vs Ongarbaev's versatility",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Dangerous for almost anyone",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Complete athlete",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "55-45",
+          "prediction_summary": "Zaur thinks Brzenk will find a way to win despite Irakli's strong start.",
+          "predicted_duration": null,
+          "style_conflict": "Brzenk's experience vs Irakli's power",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Impressive gains",
+              "health": null,
+              "previous_match_summary": "Endurance issues"
+            },
+            "John Brzenk": {
+              "strength": "Strong hand control",
+              "health": null,
+              "previous_match_summary": "Finds keys to win"
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Zaur thinks Jerry will wear Georgi down despite Georgi's strong pronation.",
+          "predicted_duration": null,
+          "style_conflict": "Jerry's endurance vs Georgi's pronation",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Endurance",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Strong pronator",
+              "health": null,
+              "previous_match_summary": "Lacks pressure"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

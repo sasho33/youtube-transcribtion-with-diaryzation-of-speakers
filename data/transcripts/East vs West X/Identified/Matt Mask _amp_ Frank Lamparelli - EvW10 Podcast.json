@@ -1,0 +1,195 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Frank Lamparelli",
+    "SPEAKER_02": "Matt Mask",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Translator/Interpreter"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Matt Mask",
+      "self_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": "3-0",
+          "prediction_summary": "Matt believes he will dominate Frank, teaching him a lesson and giving him a rude awakening.",
+          "predicted_duration": null,
+          "style_conflict": "Top-roll battle, likely going to straps.",
+          "opinion_about_athletes": {
+            "Frank Lamparelli": {
+              "strength": "Experienced top-roller, similar style to Matt.",
+              "health": "Healthy, no pain, but getting older.",
+              "previous_match_summary": "Frank has competed in many tournaments but fewer supermatches outside Italy."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": "3-2",
+          "prediction_summary": "Matt thinks Ongarbaev's versatility and maneuverability will give him the edge over Todd's side pressure.",
+          "predicted_duration": null,
+          "style_conflict": "Side pressure vs. versatile transitions.",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong side pressure.",
+              "health": null,
+              "previous_match_summary": "Todd has been dominant but may struggle against Ongarbaev's adaptability."
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Versatile, smart, and maneuverable.",
+              "health": null,
+              "previous_match_summary": "Ongarbaev has improved significantly and is one of the smartest arm wrestlers."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Matt believes Devon is on a different level now and will adjust to Denis's strength, though Denis may surprise him.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's versatility vs. Denis's raw power.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Versatile, smart, and improving.",
+              "health": null,
+              "previous_match_summary": "Devon has been on a warpath since his loss to Gennady."
+            },
+            "Denis Cyplenkov": {
+              "strength": "Strong but not at his peak.",
+              "health": null,
+              "previous_match_summary": "Denis may not be as strong as he used to be."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Frank Lamparelli",
+      "self_predictions": [
+        {
+          "match": [
+            "Frank Lamparelli",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Frank sees the match as even, acknowledging Matt's strength and demeanor.",
+          "predicted_duration": null,
+          "style_conflict": "Top-roll battle, similar styles.",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Strong top-roller, intimidating demeanor.",
+              "health": null,
+              "previous_match_summary": "Matt has been performing well recently, looking healthier and more confident."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": "3-0",
+          "prediction_summary": "Frank believes Ivan's hooking ability will dominate Kamil's flopper press.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. flopper press.",
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": "One of the best hook pullers.",
+              "health": null,
+              "previous_match_summary": "Ivan has dominated in past matches, including against Vitaly Laletin."
+            },
+            "Kamil Jablonski": {
+              "strength": "Strong flopper press.",
+              "health": null,
+              "previous_match_summary": "Kamil is strong but may struggle against Ivan's hook."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Denis Cyplenkov",
+          "predicted_score": "3-2",
+          "prediction_summary": "Frank thinks Denis's strength and endurance will edge out Devon's versatility.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's versatility vs. Denis's power.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Versatile and smart.",
+              "health": null,
+              "previous_match_summary": "Devon has been improving and is highly adaptable."
+            },
+            "Denis Cyplenkov": {
+              "strength": "Very strong, but endurance is key.",
+              "health": null,
+              "previous_match_summary": "Denis is a formidable opponent but may not be at his peak."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Sasho Andreev",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Engin hopes John will win despite Sasho's strong form.",
+          "predicted_duration": null,
+          "style_conflict": "Sasho's hook vs. John's hand control.",
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Strong hook puller.",
+              "health": null,
+              "previous_match_summary": "Sasho has been performing well recently."
+            },
+            "John Brzenk": {
+              "strength": "Master of hand control.",
+              "health": null,
+              "previous_match_summary": "John has been vulnerable to inside pulls but remains a legend."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

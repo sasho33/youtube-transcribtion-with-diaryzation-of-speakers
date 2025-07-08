@@ -1,0 +1,72 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_02": "Vitaly Laletin",
+    "SPEAKER_03": "Translator/Interpreter"
+  },
+  "date": null,
+  "Vitaly Laletin": {
+    "self_predictions": [
+      {
+        "match": [
+          "Vitaly Laletin",
+          "Michael Todd"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Vitaly Laletin",
+        "predicted_score": null,
+        "prediction_summary": "Vitaly aims to flash pin Michael three times to prove it's possible, but acknowledges a 50% chance the match could stop. If it stops, he still believes he has a 50% chance to win.",
+        "predicted_duration": null,
+        "style_conflict": "Vitaly plans to attack aggressively, risking wrist fatigue if Michael defends successfully."
+      }
+    ],
+    "third_party_predictions": [
+      {
+        "match": [
+          "Ermes Gasparini",
+          "Levan Saginashvili"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Levan Saginashvili",
+        "predicted_score": null,
+        "prediction_summary": "Vitaly believes Levan will win more dominantly this time compared to their first match, as Ermes is not as prepared as before.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Ermes Gasparini": {
+            "strength": "Not as strong as in previous matches",
+            "health": "Recovered from past injuries but may not be at peak condition",
+            "previous_match_summary": "Ermes was hurt after their last match and took 14 months to recover."
+          },
+          "Levan Saginashvili": {
+            "strength": "Has progressed but Vitaly believes his own progress is greater",
+            "health": null,
+            "previous_match_summary": "Dominant in past matches, expected to perform even better now."
+          }
+        }
+      },
+      {
+        "match": [
+          "Vitaly Laletin",
+          "Devon Larratt"
+        ],
+        "arm": "Right",
+        "event": null,
+        "predicted_winner": "Vitaly Laletin",
+        "predicted_score": null,
+        "prediction_summary": "Vitaly claims a 100% chance of winning against Devon, citing Devon's avoidance behavior and past comments as reasons for his confidence.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Has a solid, strong hand but talks too much",
+            "health": null,
+            "previous_match_summary": "Devon avoided pulling Vitaly earlier and is now delaying the match further."
+          }
+        }
+      }
+    ]
+  }
+}

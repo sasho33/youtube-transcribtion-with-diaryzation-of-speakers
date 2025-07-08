@@ -1,0 +1,168 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Tornike",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Levan Saginashvili"
+  },
+  "date": null,
+  "predictions": {
+    "Levan Saginashvili": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "No chance for Jerry",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave is going to win",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artyom Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Derek Smith",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Revaz Lutidze",
+          "predicted_score": null,
+          "prediction_summary": "Revaz 100%",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Derek Smith": {
+              "strength": "Great potential",
+              "health": null,
+              "previous_match_summary": "Inconsistent in training"
+            },
+            "Revaz Lutidze": {
+              "strength": "Great potential",
+              "health": null,
+              "previous_match_summary": "Showed great performance against Michael Todd"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John is a favorite due to Ongarbaev's long break",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Returning after six years"
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Had a long break"
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik will be able to top roll him",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs Todd Hutchings' style",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Beat Irakli in Istanbul"
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": null,
+          "predicted_score": "Close match",
+          "prediction_summary": "Highest level possible in 85kg",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Previous world champion"
+            },
+            "Bozhidar Simeonov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Latest world champion"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

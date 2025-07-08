@@ -1,0 +1,538 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Brandon Ellsessor",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Roman Tsindeliani",
+    "SPEAKER_04": "Davit Samushia"
+  },
+  "date": null,
+  "predictions": {
+    "Brandon Ellsessor": {
+      "self_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": "80-20",
+          "prediction_summary": "Brandon considers himself the underdog but loves proving people wrong. He acknowledges Davit's strength and experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Very strong",
+              "health": "Healthy",
+              "previous_match_summary": "Had a tough time with Craig but won 3-0."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Adam Wawrzynski",
+          "predicted_score": "75-25",
+          "prediction_summary": "Brandon is unfamiliar with Bacho's senior-level performance and gives the edge to Adam until proven otherwise.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Bacho Saginashvili": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Dominant in junior world championships."
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Brandon finds it hard to predict, acknowledging both athletes' strengths.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Amazing",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Doug Erlich": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Dominant at the last event."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": "75-25",
+          "prediction_summary": "Brandon is impressed by Alizhan's performance against Oleg Petrenko and gives him the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Elite",
+              "health": null,
+              "previous_match_summary": "Looked like a beast against Oleg Petrenko."
+            },
+            "Kody Merritt": {
+              "strength": "Big and strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Brandon believes Rob has the tools to win if he is mentally prepared and confident.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rob Vigeant Jr.": {
+              "strength": "Has the tools",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": "65-35",
+          "prediction_summary": "Brandon trains regularly with Paul and believes he is the strongest he has ever been.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Strongest ever",
+              "health": null,
+              "previous_match_summary": "Looked good against Babayev."
+            },
+            "Sasho Andreev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Brandon finds it hard to predict, acknowledging both athletes' strengths.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Tobias Sporrong": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Left arm is better than his right according to his coach."
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "60-40",
+          "prediction_summary": "Brandon believes Dave's power and pronation will be a problem for Revaz.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Powerful",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Revaz Lutidze": {
+              "strength": "Very strong and powerful",
+              "health": null,
+              "previous_match_summary": "Looked good against Michael Todd."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Brandon finds it hard to predict, acknowledging both athletes' strengths.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Champ right now."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Insane for his size",
+              "health": null,
+              "previous_match_summary": "Keeps progressing."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "60-40",
+          "prediction_summary": "Brandon believes Devon's endurance and ability to stop matches will give him the edge over Genadi.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Lifting much bigger weights",
+              "health": null,
+              "previous_match_summary": "In best shape ever according to Davit."
+            },
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Very good at stopping matches and bleeding guys out."
+            }
+          }
+        }
+      ]
+    },
+    "Davit Samushia": {
+      "self_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": "50-50",
+          "prediction_summary": "Davit acknowledges Brandon's strength but believes in his own abilities.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Brandon Ellsessor": {
+              "strength": "One of the toughest opponents",
+              "health": null,
+              "previous_match_summary": "Knows how good Brandon is in this weight category."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Davit sees potential in Bacho but acknowledges Adam's capabilities.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bacho Saginashvili": {
+              "strength": "Very strong for his age",
+              "health": null,
+              "previous_match_summary": "Young star with potential."
+            },
+            "Adam Wawrzynski": {
+              "strength": "Very capable",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "60-40",
+          "prediction_summary": "Davit considers Daniel one of the best in his weight category.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "One of the best",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Doug Erlich": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": "82-18",
+          "prediction_summary": "Davit believes Zurab is in the best shape ever and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Machine in good shape",
+              "health": "No issues, no pains",
+              "previous_match_summary": "Best version we have ever seen."
+            },
+            "Rob Vigeant Jr.": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": "80-20",
+          "prediction_summary": "Davit respects both but gives the edge to Alizhan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kody Merritt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Davit expects a tough match between the two.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Arif Ertem": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Davit sees equal chances for both, acknowledging Sasho's past performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Progressing",
+              "health": null,
+              "previous_match_summary": "Looked good against Babayev."
+            },
+            "Sasho Andreev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Previous shapes were better."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "60-40",
+          "prediction_summary": "Davit gives Laletin the edge due to longer leverage.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Tobias Sporrong": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Davit sees a very exciting match with equal chances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Bigger and stronger",
+              "health": null,
+              "previous_match_summary": "Best shape we have seen."
+            },
+            "Dave Chaffee": {
+              "strength": "Dominant",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Davit sees an exciting match with both having chances to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Keeps progressing",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": "80-20",
+          "prediction_summary": "Davit believes Genadi is in the best shape ever and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Double more than before",
+              "health": null,
+              "previous_match_summary": "Best shape ever seen."
+            },
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Legend of the sport."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

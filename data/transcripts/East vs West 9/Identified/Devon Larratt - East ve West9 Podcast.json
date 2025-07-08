@@ -1,0 +1,117 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Unknown",
+    "SPEAKER_01": "Devon Larratt",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": {
+    "Devon Larratt": {
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon believes he is in impeccable form and has the capability to beat Ermes, especially if the match is close in strength. He expects a positional fight with potential for the match to go into a hook or on the strap.",
+          "predicted_duration": null,
+          "style_conflict": "Positional fight with potential for hook or strap",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Very strong, especially in back pressure and wrist control",
+              "health": "Prime of his life",
+              "previous_match_summary": "Ermes has shown great performances against top competitors like Dave Chaffee and Levan, demonstrating his versatility and strength."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Devon believes Vitalii can be the best and is incredibly dangerous, especially in a top roll match. He thinks Vitalii will win but acknowledges Revaz's strong hand and top roll abilities.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs top roll",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Incredibly dangerous, especially in top roll",
+              "health": "Some inconsistent performances but still very strong",
+              "previous_match_summary": "Vitalii has had great matches but some not up to expectations."
+            },
+            "Revaz Lutidze": {
+              "strength": "Incredible hand and top roll abilities",
+              "health": null,
+              "previous_match_summary": "Revaz has shown strong performances, especially in top roll."
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Thomas Manghi",
+            "Dustin Hyatt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin describes Thomas Manghi as a high-quality top roller and Dustin Hyatt as a high-quality hook puller, setting up an interesting hook vs top roll match.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs top roll",
+          "opinion_about_athletes": {
+            "Thomas Manghi": {
+              "strength": "High-quality top roller",
+              "health": null,
+              "previous_match_summary": "Known for his top rolling skills."
+            },
+            "Dustin Hyatt": {
+              "strength": "High-quality hook puller",
+              "health": null,
+              "previous_match_summary": "Known for his hook pulling skills."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Devon is at his strongest ever and that Ermes should be very concerned. He thinks Devon's physical and mental preparation will give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Positional fight with potential for various techniques",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strongest ever, especially in pronation and wrist control",
+              "health": "Very healthy, both physically and mentally",
+              "previous_match_summary": "Devon has shown incredible form in recent matches, including his performance against Dave Chaffee."
+            },
+            "Ermes Gasparini": {
+              "strength": "Very strong, especially in back pressure and wrist control",
+              "health": "Prime of his life",
+              "previous_match_summary": "Ermes has demonstrated versatility and strength against top competitors."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

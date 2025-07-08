@@ -1,0 +1,239 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Unknown",
+    "SPEAKER_01": "Paulo",
+    "SPEAKER_02": "Alizhan Muratov",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": {
+    "Alizhan Muratov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Oleg Petrenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan is confident in his endurance and strength if the match is balanced, despite being known for his explosiveness.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": "Crazy strong",
+              "health": null,
+              "previous_match_summary": "Beat Zhura and David previously."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Believes Ongarbaev will win but acknowledges the danger of Michael Todd's open-arm style.",
+          "predicted_duration": null,
+          "style_conflict": "Open-arm style is dangerous and traumatic.",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Dangerous with open-arm style",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Barbora Bajciova",
+            "Gabriela Vasconcelos"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Gabriela Vasconcelos",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Gabriela will win based on her strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Gabriela Vasconcelos": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Even beats men in Brazil."
+            },
+            "Barbora Bajciova": {
+              "strength": "Not bad",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Oleg Petrenko": {
+      "self_predictions": [
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Oleg Petrenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Oleg is in better form than last time and evaluates his chances as 50-50. He aims to stop Alizhan's explosive start.",
+          "predicted_duration": null,
+          "style_conflict": "Alizhan's explosiveness is a concern.",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Very strong and explosive",
+              "health": null,
+              "previous_match_summary": "Won the super heavyweight world title multiple times."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Corey West",
+            "Ferit Osmanli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Ferit Osmanli",
+          "predicted_score": null,
+          "prediction_summary": "Roots for Ferit due to his experience and technique.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ferit Osmanli": {
+              "strength": "Talented and experienced",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Corey West": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Rustam Babayev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Rustam Babayev",
+          "predicted_score": null,
+          "prediction_summary": "Believes Rustam will win without problems due to his strength, speed, and experience.",
+          "predicted_duration": "First couple of rounds might be competitive.",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rustam Babayev": {
+              "strength": "Stronger and more experienced",
+              "health": "In top form",
+              "previous_match_summary": "Inactive for two years but recently in peak form."
+            },
+            "Paul Linn": {
+              "strength": "Good athlete",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Jerry will win due to his physical strength and endurance.",
+          "predicted_duration": "Not a quick finish, may take a few minutes.",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Very strong and can hold on for long",
+              "health": null,
+              "previous_match_summary": "Performed well in last fights."
+            },
+            "Georgi Tsvetkov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Roots for John due to his experience and strength in certain positions.",
+          "predicted_duration": "Long and emotional fight.",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legend, very strong in some positions",
+              "health": null,
+              "previous_match_summary": "Beat Oleg Petrenko previously."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Very strong young athlete",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Believes Michael will win due to his King's move, despite rooting for Ongarbaev.",
+          "predicted_duration": "First or second rounds might be competitive.",
+          "style_conflict": "King's move will drain Ongarbaev's endurance.",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "King's move is effective",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

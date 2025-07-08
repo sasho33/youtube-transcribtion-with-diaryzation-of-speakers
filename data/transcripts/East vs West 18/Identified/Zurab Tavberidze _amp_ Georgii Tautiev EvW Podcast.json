@@ -1,0 +1,215 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Roman Gamtenadze",
+    "SPEAKER_01": "Georgii Tautiev",
+    "SPEAKER_02": "Zurab Tavberidze",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Zurab Tavberidze",
+      "self_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Georgii Tautiev"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab believes he is in his best shape and can handle Georgii's side pressure weakness. He predicts a 70% chance of winning.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Toproll",
+          "opinion_about_athletes": {
+            "Georgii Tautiev": {
+              "strength": "Strong toproller but weak side pressure",
+              "health": "Concerns about wrist injury from previous match",
+              "previous_match_summary": "Georgii has won and lost matches against Zurab, with both having one win by fouls."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "Zurab believes Nugo's raw power will overcome Matt's leverage advantage.",
+          "predicted_duration": null,
+          "style_conflict": "Leverage vs Raw Power",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Big palm, long range",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Very strong physically",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Zurab thinks Dzeranov has a 100% chance if he can hook Kamil.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Press",
+          "opinion_about_athletes": {
+            "Kamil Jablonski": {
+              "strength": "Strong presser",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgii Dzeranov": {
+              "strength": "Strong biceps",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Zurab believes Vitaly is at Levan/Ermes level and will win due to his progress.",
+          "predicted_duration": null,
+          "style_conflict": "Toproll vs King's Move",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Long leverage, progressing well",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": "Can put anyone in deep trouble",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Georgii Tautiev",
+      "self_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Georgii Tautiev"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Georgii Tautiev",
+          "predicted_score": null,
+          "prediction_summary": "Georgii believes he has a 70% chance if his preparation goes well and he avoids injuries.",
+          "predicted_duration": null,
+          "style_conflict": "Toproll vs Hook",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong side pressure",
+              "health": "Recovered from injury",
+              "previous_match_summary": "Zurab has won and lost matches against Georgii, with both having one win by fouls."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "Georgii thinks Nugo will win despite discomfort from Matt's leverage.",
+          "predicted_duration": null,
+          "style_conflict": "Leverage vs Raw Power",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Big palm, long range",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Very strong physically",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks Dzeranov will win if he can hook Kamil.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Press",
+          "opinion_about_athletes": {
+            "Kamil Jablonski": {
+              "strength": "Strong presser",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgii Dzeranov": {
+              "strength": "Strong biceps",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Georgii is 100% sure Vitaly will win due to his long arm against Michael's King's Move.",
+          "predicted_duration": null,
+          "style_conflict": "Toproll vs King's Move",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Long leverage",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": "King's Move specialist",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

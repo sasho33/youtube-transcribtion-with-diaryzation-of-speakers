@@ -1,0 +1,115 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Jerry Cadorette",
+    "SPEAKER_02": "Ermes Gasparini",
+    "SPEAKER_03": "Unknown",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Ermes Gasparini",
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "2-0",
+          "prediction_summary": "Ermes believes he will win easily, possibly in the first two rounds, and then allow Jerry to try his power in the third round.",
+          "predicted_duration": "Short",
+          "style_conflict": "Top roll vs press",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Strong but not at Ermes' level",
+              "health": "Good",
+              "previous_match_summary": "Jerry beat Gennady Kvikvinia but Ermes thinks it was due to Gennady's injury."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "Unknown",
+          "prediction_summary": "Ermes thinks Prudnik will win easily based on his performance against Todd Hutchings.",
+          "predicted_duration": "Unknown",
+          "style_conflict": "Unknown",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Good but giving up weight",
+              "health": "Unknown",
+              "previous_match_summary": "Close match with Todd Hutchings."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Very strong",
+              "health": "Unknown",
+              "previous_match_summary": "Handled Todd Hutchings easily."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Jerry Cadorette",
+      "self_predictions": [
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": "Unknown",
+          "prediction_summary": "Jerry believes he will win, especially in a long match, and thinks Ermes' only chance is to win in the first few seconds.",
+          "predicted_duration": "Long",
+          "style_conflict": "Top roll vs press",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Explosive and strong",
+              "health": "Good",
+              "previous_match_summary": "Ermes has been progressing well but hasn't faced someone like Jerry."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "Unknown",
+          "prediction_summary": "Jerry leans towards Prudnik based on his performance against Todd Hutchings and Michael's weight drop.",
+          "predicted_duration": "Unknown",
+          "style_conflict": "Unknown",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Good but giving up weight",
+              "health": "Unknown",
+              "previous_match_summary": "Close match with Todd Hutchings."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Getting stronger",
+              "health": "Unknown",
+              "previous_match_summary": "Handled Todd Hutchings well."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

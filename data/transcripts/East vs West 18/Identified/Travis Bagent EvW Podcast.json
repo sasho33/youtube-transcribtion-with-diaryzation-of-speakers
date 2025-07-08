@@ -1,0 +1,295 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Travis Bagent",
+    "SPEAKER_01": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "Travis Bagent": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Riekerd Bornman",
+            "Wallace Dilley"
+          ],
+          "arm": "Right",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "No specific prediction mentioned.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Ryan Belanger",
+            "Allen Ford"
+          ],
+          "arm": "Right",
+          "weight": "Middleweight",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "No specific prediction mentioned.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Joseph Meranto",
+            "Ivan Portela"
+          ],
+          "arm": "Right",
+          "weight": "Featherweight",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "No specific prediction mentioned.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Pavlo Derbedyenyev",
+            "Wagner Bortalato"
+          ],
+          "arm": "Left",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "No specific prediction mentioned.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "No specific prediction mentioned.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Arsen Khachatryan"
+          ],
+          "arm": "Right",
+          "weight": "Middleweight",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "No specific prediction mentioned.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "weight": "Light Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Travis believes Matt Mask is different now and could be really good, but it's a close match.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs top roll, back pressure vs back pressure.",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Impressive, possibly at another level now.",
+              "health": "No injury issues mentioned.",
+              "previous_match_summary": "Recently beat strong opponents, showing dominance."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Great showman, doesn't look as awesome as he really is.",
+              "health": "No injury issues mentioned.",
+              "previous_match_summary": "Strong performances, but recent losses."
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Travis thinks it's not that close and Dzeranov is the favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Dzeranov's power vs Todd's defensive style.",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Best defensive puller, consistent.",
+              "health": "No injury issues mentioned.",
+              "previous_match_summary": "Close matches, tough to pin."
+            },
+            "Georgii Dzeranov": {
+              "strength": "Strong, possibly overwhelming.",
+              "health": "No injury issues mentioned.",
+              "previous_match_summary": "Dominant performances."
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisek",
+            "Elin Janeheim"
+          ],
+          "arm": "Right",
+          "weight": "Lightweight",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "No specific prediction mentioned.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "No specific prediction mentioned.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Travis believes Levan is the favorite but Ermes has a chance.",
+          "predicted_duration": null,
+          "style_conflict": "Levan's power vs Ermes' technique.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Overwhelming power.",
+              "health": "No injury issues mentioned.",
+              "previous_match_summary": "Dominant in all matches."
+            },
+            "Ermes Gasparini": {
+              "strength": "Strong, good technique.",
+              "health": "No injury issues mentioned.",
+              "previous_match_summary": "Close matches, tough competitor."
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "weight": "Light Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin is unsure but acknowledges Matt's recent improvements.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs top roll, back pressure vs back pressure.",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Improved, possibly due to stem cell treatment.",
+              "health": "No injury issues mentioned.",
+              "previous_match_summary": "Recent wins against strong opponents."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Strong, but may not be at his peak.",
+              "health": "No injury issues mentioned.",
+              "previous_match_summary": "Mixed results in recent matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Dzeranov is the favorite due to his power.",
+          "predicted_duration": null,
+          "style_conflict": "Dzeranov's power vs Todd's defensive style.",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Best defensive puller, consistent.",
+              "health": "No injury issues mentioned.",
+              "previous_match_summary": "Close matches, tough to pin."
+            },
+            "Georgii Dzeranov": {
+              "strength": "Strong, possibly overwhelming.",
+              "health": "No injury issues mentioned.",
+              "previous_match_summary": "Dominant performances."
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "weight": "Super Heavyweight",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Levan is the favorite but Ermes has a chance.",
+          "predicted_duration": null,
+          "style_conflict": "Levan's power vs Ermes' technique.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Overwhelming power.",
+              "health": "No injury issues mentioned.",
+              "previous_match_summary": "Dominant in all matches."
+            },
+            "Ermes Gasparini": {
+              "strength": "Strong, good technique.",
+              "health": "No injury issues mentioned.",
+              "previous_match_summary": "Close matches, tough competitor."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

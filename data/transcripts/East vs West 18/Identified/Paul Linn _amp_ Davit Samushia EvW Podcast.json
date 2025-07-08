@@ -1,0 +1,223 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Davit Samushia",
+    "SPEAKER_01": "Paul Linn",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Roman Tsindeliani"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Paul Linn",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Daniel Prokopchuk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Daniel Prokopchuk",
+          "predicted_score": null,
+          "prediction_summary": "Rooting for Daniel; thinks it will be a war with no fast finish, 50-50.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Pronator control and endurance in hook",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong, coming back from injury",
+              "health": "Recovered well",
+              "previous_match_summary": "Legendary puller, but current form is a question mark"
+            },
+            "Daniel Prokopchuk": {
+              "strength": "Strong, capable of controlling pronator",
+              "health": null,
+              "previous_match_summary": "Has shown endurance and skill in past matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Gennady Kvikvinia",
+            "Ibrahim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Gennady Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Gennady will win if he makes the weight cut; believes in his courage and skill.",
+          "predicted_duration": null,
+          "style_conflict": "Meeting in the middle with bone structure",
+          "opinion_about_athletes": {
+            "Gennady Kvikvinia": {
+              "strength": "Strong, courageous",
+              "health": "Questionable due to weight cut",
+              "previous_match_summary": "Has shown resilience and skill in past matches"
+            },
+            "Ibrahim Sagov": {
+              "strength": "Tricky lane",
+              "health": null,
+              "previous_match_summary": "Skilled but may lack the courage to meet Gennady in the middle"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Supports Michael; believes it's a match of heart and thinks Michael has the tools to win.",
+          "predicted_duration": null,
+          "style_conflict": "Heart and endurance",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Universal hand, can pull different styles",
+              "health": null,
+              "previous_match_summary": "Has shown versatility in past matches"
+            },
+            "Michael Todd": {
+              "strength": "Evolved, changed focus in training",
+              "health": null,
+              "previous_match_summary": "Has shown resilience and adaptability"
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Believes Levan is not ready to give up the crown yet; thinks Ermes has improved but Levan's motivation is high.",
+          "predicted_duration": null,
+          "style_conflict": "Motivation and skill",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Motivated, high skill",
+              "health": "Improved from last performance",
+              "previous_match_summary": "Dominant in past matches"
+            },
+            "Ermes Gasparini": {
+              "strength": "Improved, warrior spirit",
+              "health": null,
+              "previous_match_summary": "Knows armwrestling very well"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Davit Samushia",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Daniel Prokopchuk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Daniel Prokopchuk",
+          "predicted_score": null,
+          "prediction_summary": "Thinks it will be a great war, Prokopchuk will find key moments to win.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Endurance and adjustments",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Legendary puller",
+              "health": "Coming back from injury",
+              "previous_match_summary": "Has been one-sided till now"
+            },
+            "Daniel Prokopchuk": {
+              "strength": "Strong, capable",
+              "health": null,
+              "previous_match_summary": "Has shown endurance in past matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Gennady Kvikvinia",
+            "Ibrahim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Gennady Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Roots for Gennady; thinks it's 50-50 but believes in Gennady's preparation.",
+          "predicted_duration": null,
+          "style_conflict": "Weight cut and preparation",
+          "opinion_about_athletes": {
+            "Gennady Kvikvinia": {
+              "strength": "Strong, good preparation",
+              "health": "Dropping weight",
+              "previous_match_summary": "Has shown resilience"
+            },
+            "Ibrahim Sagov": {
+              "strength": "Skilled",
+              "health": null,
+              "previous_match_summary": "Has shown skill in past matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": "70-30",
+          "prediction_summary": "Thinks Vitaly has the tools to finish the job; expects a war but favors Vitaly.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Universal hand vs. open-topper",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Universal hand, can pull different styles",
+              "health": null,
+              "previous_match_summary": "Has shown versatility"
+            },
+            "Michael Todd": {
+              "strength": "Open-topper style",
+              "health": null,
+              "previous_match_summary": "Has shown endurance"
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Believes Levan will outperform himself and win more dominantly than last time.",
+          "predicted_duration": null,
+          "style_conflict": "Motivation and skill",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Motivated, high skill",
+              "health": "Improved from last performance",
+              "previous_match_summary": "Dominant in past matches"
+            },
+            "Ermes Gasparini": {
+              "strength": "Warrior spirit, knows armwrestling well",
+              "health": null,
+              "previous_match_summary": "Has shown improvement"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Unknown"
+  },
+  "date": null,
+  "predictions": {
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Jerry is not someone to underestimate. He is a very unique style puller. If Ermes makes a mistake with his preparation, it may not be fixable during the match. Jerry deserves utmost respect.",
+          "predicted_duration": null,
+          "style_conflict": "Jerry's unique style could pose problems for Ermes if not properly prepared for.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Incredible, recently posted a back pressure world record at 92 kilos.",
+              "health": null,
+              "previous_match_summary": "Learned from past experiences like the Kurdecha match."
+            },
+            "Jerry Cadorette": {
+              "strength": "Very strong, unique style that can be dangerous if underestimated.",
+              "health": null,
+              "previous_match_summary": "Has beaten top rollers before, like Gennady Kvikvinia."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

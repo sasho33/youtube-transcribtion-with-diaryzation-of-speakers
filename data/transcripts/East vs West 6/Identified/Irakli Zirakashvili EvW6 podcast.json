@@ -1,0 +1,288 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "David Arabuli",
+    "SPEAKER_02": "Irakli Zirakashvili"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Irakli Zirakashvili",
+      "self_predictions": [
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli believes his power and style are superior to John's experience. He thinks John's prediction of winning is incorrect and that his youth and strength will prevail.",
+          "predicted_duration": null,
+          "style_conflict": "Irakli thinks his style is naturally good against John's and that the key is to be stronger and have the correct style.",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Respected but not enough to win against Irakli's power",
+              "health": "Had stem cell therapy for injuries",
+              "previous_match_summary": "John is a legend with vast experience but Irakli believes his current form is superior."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Todd will win due to his experience and power, despite some age-related issues.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Strong but not as powerful as before",
+              "health": "Age might be a factor",
+              "previous_match_summary": "Todd has not shown his best in recent matches but is still a formidable opponent."
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Strong but not enough to beat Todd",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Nurdaulet Aidarkhan",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Nurdaulet Aidarkhan",
+          "predicted_score": null,
+          "prediction_summary": "Irakli predicts Aidarkhan will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Nurdaulet Aidarkhan": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Mindaugas Tarasaitis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "David Samushia",
+            "Craig Tullier"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "David Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Irakli believes Samushia is unbeatable under 85 kg if he is ready.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "David Samushia": {
+              "strength": "Unbeatable under 85 kg",
+              "health": null,
+              "previous_match_summary": "Lost to Daniel in the first round but wasn't ready."
+            },
+            "Craig Tullier": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Ferit Osmanli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": "60% chance",
+          "prediction_summary": "Irakli thinks Genadi has a 60% chance to win, depending on how he adapts to Ferit's style.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi can adapt his style based on the table situation.",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong and adaptable",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ferit Osmanli": {
+              "strength": "Good shape but not enough to beat Genadi",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Rustam Babayev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Rustam Babayev",
+          "predicted_score": null,
+          "prediction_summary": "Irakli predicts Babayev will win, despite Linn's strong performance against Irakli Gamtenadze.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Strong but not enough against Babayev",
+              "health": null,
+              "previous_match_summary": "Dominant victory against Irakli Gamtenadze."
+            },
+            "Rustam Babayev": {
+              "strength": "Stronger and more experienced",
+              "health": null,
+              "previous_match_summary": "Coming back after some time away from armwrestling."
+            }
+          }
+        },
+        {
+          "match": [
+            "Barbora Bajciova",
+            "Gabriela Vasconcelos"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Irakli sees it as a 50-50 match but thinks Barbora might have the edge in the future.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Barbora Bajciova": {
+              "strength": "Incredibly strong and young",
+              "health": null,
+              "previous_match_summary": "Beat Christo in hook."
+            },
+            "Gabriela Vasconcelos": {
+              "strength": "Very strong but has wrist issues",
+              "health": null,
+              "previous_match_summary": "Has more world titles than her age."
+            }
+          }
+        },
+        {
+          "match": [
+            "Arif Ertem",
+            "Corey West"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Arif will win unless Corey's right arm is as good as his left.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arif Ertem": {
+              "strength": "Dominant if Corey's right arm isn't as strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Corey West": {
+              "strength": "Strong left arm, right arm unknown",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Oleg Petrenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Muratov can win quickly if Petrenko doesn't stop his first attack.",
+          "predicted_duration": null,
+          "style_conflict": "If Petrenko stops the first attack, it will be a tough match.",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Too strong and smart",
+              "health": null,
+              "previous_match_summary": "Can pull long time in hook."
+            },
+            "Oleg Petrenko": {
+              "strength": "Needs to stop first attack",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Tsvetkov will win if he focuses more on side pressure.",
+          "predicted_duration": null,
+          "style_conflict": "Tsvetkov's style is more open, which is better for Jerry.",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Strong but style may not be effective",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Stronger if he focuses on side pressure",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "David Arabuli",
+      "self_predictions": [
+        {
+          "match": [
+            "Davit Arabuli",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Davit Arabuli",
+          "predicted_score": null,
+          "prediction_summary": "David believes he must win and is in the best shape of his life.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Chance Shaw": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Competing all the time."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": []
+    }
+  ]
+}

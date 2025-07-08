@@ -1,0 +1,253 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Herman Stevens",
+    "SPEAKER_03": "Joshua Grant"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Herman Stevens",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Herman thinks Genadi is more technical and can handle Jerry's style, possibly winning easily.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi's technical top roll vs Jerry's flat press",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Strong but may not match Genadi's technique",
+              "health": "Healthy and in good shape",
+              "previous_match_summary": "Hasn't pulled a super match since WAL"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Highly technical and strong",
+              "health": "Assumed healthy",
+              "previous_match_summary": "Consistent performer over the years"
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Herman believes John's experience and ability to pull long matches will give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "John's versatility vs Ongarbaev's top roll",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Still very strong despite age",
+              "health": "Recovering from injury but managing",
+              "previous_match_summary": "Recent win over Corey West shows he can still compete at high level"
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Strong top roller",
+              "health": "Assumed healthy",
+              "previous_match_summary": "Performing well in recent matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Herman thinks Dave's side pressure and experience will be too much for Morozov.",
+          "predicted_duration": null,
+          "style_conflict": "Dave's side pressure vs Morozov's power",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Strong but less technical than Dave",
+              "health": "Assumed healthy",
+              "previous_match_summary": "Lost to Prudnik due to technical differences"
+            },
+            "Dave Chaffee": {
+              "strength": "Incredible side pressure",
+              "health": "Some concerns about past injuries",
+              "previous_match_summary": "Strong performances, including against Genadi"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Joshua Grant",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Joshua thinks Jerry is in incredible shape and highly motivated, possibly giving Genadi a tough match.",
+          "predicted_duration": null,
+          "style_conflict": "Jerry's flat press vs Genadi's top roll",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Very strong and in best shape recently",
+              "health": "Healthy",
+              "previous_match_summary": "Training intensely, more muscular than during WAL"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Highly technical",
+              "health": "Assumed healthy",
+              "previous_match_summary": "Consistent high-level performer"
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Corey Miller"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Joshua believes Daniel's experience and strength will be too much for Corey at this time.",
+          "predicted_duration": null,
+          "style_conflict": "Daniel's technique vs Corey's explosiveness",
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Strong and experienced",
+              "health": "Assumed healthy",
+              "previous_match_summary": "WAF gold medalist, consistent performer"
+            },
+            "Corey Miller": {
+              "strength": "Explosive but less experienced at this level",
+              "health": "Assumed healthy",
+              "previous_match_summary": "On the rise but not yet at Daniel's level"
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Bozhidar Simeonov",
+          "predicted_score": null,
+          "prediction_summary": "Joshua is impressed by Bozhidar and wouldn't bet against him, especially against someone close in weight.",
+          "predicted_duration": null,
+          "style_conflict": "Bozhidar's strength vs Samushia's technique",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Strong but may not match Bozhidar",
+              "health": "Assumed healthy",
+              "previous_match_summary": "Experienced puller"
+            },
+            "Bozhidar Simeonov": {
+              "strength": "Very strong, especially within 20 lbs of his weight",
+              "health": "Assumed healthy",
+              "previous_match_summary": "Consistent high-level performer"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Chance Shaw",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Chance Shaw",
+          "predicted_score": null,
+          "prediction_summary": "Engin sees this as a 50-50 match, with Chance having the potential to surprise Zurab.",
+          "predicted_duration": null,
+          "style_conflict": "Chance's pronation vs Zurab's side pressure",
+          "opinion_about_athletes": {
+            "Chance Shaw": {
+              "strength": "Dangerous and underestimated",
+              "health": "Assumed healthy",
+              "previous_match_summary": "Recent match against Taka showed his strength"
+            },
+            "Zurab Tavberidze": {
+              "strength": "Strong but may not dominate Chance",
+              "health": "Assumed healthy",
+              "previous_match_summary": "Lost to John Brzenk recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Irakli's recent performance against Marcio shows he can handle Krasimir.",
+          "predicted_duration": null,
+          "style_conflict": "Irakli's power vs Krasimir's limited arm range",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Strong and surprising",
+              "health": "Assumed healthy",
+              "previous_match_summary": "Shocked Marcio recently"
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Limited by arm range",
+              "health": "Assumed healthy",
+              "previous_match_summary": "Hasn't lost to someone lighter in recent times"
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Derek Smith"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Derek Smith",
+          "predicted_score": null,
+          "prediction_summary": "Engin had a dream where Derek won, and sees it as a possible outcome.",
+          "predicted_duration": null,
+          "style_conflict": "Revaz's strength vs Derek's technique",
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Strong but may be matched by Derek",
+              "health": "Assumed healthy",
+              "previous_match_summary": "Wanted a match now"
+            },
+            "Derek Smith": {
+              "strength": "Technically sound",
+              "health": "Assumed healthy",
+              "previous_match_summary": "Beat Tim recently"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

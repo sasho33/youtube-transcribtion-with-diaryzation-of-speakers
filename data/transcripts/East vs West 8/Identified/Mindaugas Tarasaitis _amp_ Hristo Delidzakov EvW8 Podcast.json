@@ -1,0 +1,208 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Host",
+    "SPEAKER_01": "Mindaugas Tarasaitis",
+    "SPEAKER_02": "Hristo Delidzhakov",
+    "SPEAKER_03": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "Mindaugas Tarasaitis": {
+      "self_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Hristo Delidzhakov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": "3-0",
+          "prediction_summary": "Mindaugas is confident he will win, citing his improved skills and recent training. He believes Hristo will not be able to pin him.",
+          "predicted_duration": "Quick match",
+          "style_conflict": "Mindaugas plans to avoid Hristo's hook and finish with his own techniques."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Toms Rozits",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Justin Bishop",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas roots for Justin Bishop, believing he is in good shape and can handle Toms Rozits.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Emil Amirshadyan"
+          ],
+          "arm": "Left",
+          "event": "East vs West 8",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "60-40",
+          "prediction_summary": "Mindaugas believes Daniel has improved and is more solid now, but acknowledges Emil's strength on the left arm.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": "70-30",
+          "prediction_summary": "Mindaugas favors Jerry due to his technique against Ermes, believing Ermes's preparation won't be enough to counter Jerry's style.",
+          "predicted_duration": null,
+          "style_conflict": null
+        }
+      ],
+      "opinion_about_athletes": {
+        "Hristo Delidzhakov": {
+          "strength": "Hristo is strong but Mindaugas believes he can handle his power.",
+          "health": "Hristo mentioned some elbow pain but claims it's not a big issue.",
+          "previous_match_summary": "Mindaugas recalls beating Hristo recently and learning from past matches."
+        },
+        "Justin Bishop": {
+          "strength": "Justin is in good shape and has improved.",
+          "health": null,
+          "previous_match_summary": "Mindaugas beat Justin easily in the past."
+        },
+        "Ermes Gasparini": {
+          "strength": "Ermes is strong but may not be prepared enough for Jerry's style.",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    "Hristo Delidzhakov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Hristo Delidzhakov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Hristo Delidzhakov",
+          "predicted_score": "3-0",
+          "prediction_summary": "Hristo is confident he will win, citing his current strength and Mindaugas's past performances.",
+          "predicted_duration": "Quick start, longer rounds if Mindaugas tires",
+          "style_conflict": "Hristo plans to use his strength and avoid Mindaugas's techniques."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Toms Rozits",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Toms Rozits",
+          "predicted_score": null,
+          "prediction_summary": "Hristo believes Toms is very strong and Justin won't be able to handle him.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Emil Amirshadyan"
+          ],
+          "arm": "Left",
+          "event": "East vs West 8",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "50-50",
+          "prediction_summary": "Hristo thinks it's a close match but leans slightly towards Daniel.",
+          "predicted_duration": null,
+          "style_conflict": null
+        }
+      ],
+      "opinion_about_athletes": {
+        "Mindaugas Tarasaitis": {
+          "strength": "Mindaugas is competent but Hristo believes he can overpower him.",
+          "health": null,
+          "previous_match_summary": "Hristo recalls beating Mindaugas in past matches."
+        },
+        "Toms Rozits": {
+          "strength": "Toms is very strong, especially in hook.",
+          "health": null,
+          "previous_match_summary": "Hristo mentions Toms's past performances."
+        },
+        "Justin Bishop": {
+          "strength": "Justin is strong but Hristo believes he can beat him.",
+          "health": null,
+          "previous_match_summary": "Hristo recalls training with Justin and feeling confident."
+        }
+      }
+    },
+    "Engin Terzi": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Hristo Delidzhakov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin acknowledges both athletes' confidence and sees it as an interesting match.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": "70-30",
+          "prediction_summary": "Engin favors Jerry due to his technique and believes Ermes's preparation won't be enough.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Wagner Bortolato",
+            "Ferit Osmanli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 8",
+          "predicted_winner": "Wagner Bortolato",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Wagner's shoulder pressure will be key, but Ferit has a chance if he follows the right strategy.",
+          "predicted_duration": null,
+          "style_conflict": null
+        }
+      ],
+      "opinion_about_athletes": {
+        "Hristo Delidzhakov": {
+          "strength": "Hristo is strong and has improved recently.",
+          "health": "Hristo mentioned some elbow pain but claims it's not a big issue.",
+          "previous_match_summary": "Engin recalls Hristo's recent performances and his unorthodox style."
+        },
+        "Jerry Cadorette": {
+          "strength": "Jerry is very strong in his technique.",
+          "health": null,
+          "previous_match_summary": "Engin mentions Jerry's past matches and his ability to handle top rollers."
+        },
+        "Ermes Gasparini": {
+          "strength": "Ermes is strong but may not be prepared enough for Jerry's style.",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Elizabeth Rae Mocek",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Carolina Pettersson"
+  },
+  "date": null,
+  "self_predictions": {
+    "Elizabeth Rae Mocek": [
+      {
+        "match": [
+          "Carolina Pettersson",
+          "Elizabeth Rae Mocek"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Elizabeth Rae Mocek",
+        "predicted_score": null,
+        "prediction_summary": "Elizabeth believes she can finish the match quickly, especially if it goes to the strap, where she feels confident in her strength.",
+        "predicted_duration": "Quick match if out of strap",
+        "style_conflict": "Elizabeth plans to avoid a prolonged endurance match by finishing quickly.",
+        "opinion_about_athletes": {
+          "Carolina Pettersson": {
+            "strength": "Endurance is strong, but Elizabeth believes she has more horsepower.",
+            "health": "No injuries reported.",
+            "previous_match_summary": "Carolina is experienced with long matches and endurance."
+          }
+        }
+      }
+    ],
+    "Carolina Pettersson": [
+      {
+        "match": [
+          "Carolina Pettersson",
+          "Elizabeth Rae Mocek"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Carolina Pettersson",
+        "predicted_score": null,
+        "prediction_summary": "Carolina believes her experience will be the deciding factor, especially if the match becomes a war of endurance.",
+        "predicted_duration": "Long match if out of strap",
+        "style_conflict": "Carolina plans to use her experience to control the match and potentially extend it to test Elizabeth's endurance.",
+        "opinion_about_athletes": {
+          "Elizabeth Rae Mocek": {
+            "strength": "Powerful but newer to the sport, may lack technique.",
+            "health": "No injuries reported.",
+            "previous_match_summary": "Elizabeth is strong but still developing her table skills."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Elizabeth Rae Mocek": [
+      {
+        "match": [
+          "Jerry Cadorette",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Jerry Cadorette",
+        "predicted_score": null,
+        "prediction_summary": "Elizabeth hopes Jerry wins because he helped her early in her career and is her countryman.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Jerry Cadorette": {
+            "strength": "Unique pulling style, helped Elizabeth learn.",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Ermes Gasparini": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Artyom Morozov",
+          "Georgi Tsvetkov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Artyom Morozov",
+        "predicted_score": null,
+        "prediction_summary": "Elizabeth likes Morozov's strength on the table and hopes he wins.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Artyom Morozov": {
+            "strength": "Dominant on the table.",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Georgi Tsvetkov": {
+            "strength": "Experienced but may not match Morozov's dominance.",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ],
+    "Carolina Pettersson": [
+      {
+        "match": [
+          "Toms Rozits",
+          "Justin Bishop"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Toms Rozits",
+        "predicted_score": null,
+        "prediction_summary": "Carolina believes Toms will dominate due to his recent performances.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Toms Rozits": {
+            "strength": "Dominating recently.",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Justin Bishop": {
+            "strength": "Pulled lighter opponents, may not match Toms.",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Jerry Cadorette",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": null,
+        "predicted_score": "3-2",
+        "prediction_summary": "Carolina thinks it will be a close match, possibly a war, but doesn't see Ermes dominating.",
+        "predicted_duration": "War",
+        "style_conflict": "Jerry's unique style vs Ermes's approach.",
+        "opinion_about_athletes": {
+          "Jerry Cadorette": {
+            "strength": "Unique pulling style.",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Ermes Gasparini": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Artyom Morozov",
+          "Georgi Tsvetkov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Artyom Morozov",
+        "predicted_score": "3-2",
+        "prediction_summary": "Carolina thinks Morozov is dominant but Gennady will put up a fight.",
+        "predicted_duration": "Close match",
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Artyom Morozov": {
+            "strength": "Dominant.",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Georgi Tsvetkov": {
+            "strength": "Experienced.",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ]
+  }
+}

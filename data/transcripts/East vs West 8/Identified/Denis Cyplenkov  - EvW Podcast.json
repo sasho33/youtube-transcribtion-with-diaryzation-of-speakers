@@ -1,0 +1,199 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": null,
+    "SPEAKER_01": "Denis Cyplenkov",
+    "SPEAKER_02": "Artyom Morozov",
+    "SPEAKER_03": "Babken",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "Denis Cyplenkov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Denis Cyplenkov",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Denis Cyplenkov",
+          "predicted_score": null,
+          "prediction_summary": "Denis plans to be in better shape than his match against John and is confident in his ability to beat Devon.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Devon has great endurance",
+              "health": null,
+              "previous_match_summary": "Denis respects Devon but is upset about the scheduling changes."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Denis thinks Jerry is very uncomfortable for many sportsmen and Ermes will need to find a key to beat him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Very strong sportsman",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Jerry Cadorette": {
+              "strength": "Getting bigger and stronger",
+              "health": null,
+              "previous_match_summary": "Jerry is not the type of guy that you can underestimate."
+            }
+          }
+        },
+        {
+          "match": [
+            "Gennady Kvikvinia",
+            "Artem Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Denis thinks it will be an interesting fight and a challenge for Artem.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Gennady Kvikvinia": {
+              "strength": "Very versatile athlete",
+              "health": null,
+              "previous_match_summary": "Gennady is different now compared to 10 years ago."
+            },
+            "Artem Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Artyom Morozov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Artyom Morozov",
+            "Corey West"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Artyom is confident and ready for Corey, stating he is not afraid.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Gennady Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Gennady Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Artyom thinks Gennady will win more easily this time due to karma.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Gennady Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Devon should have fought Denis first."
+            }
+          }
+        }
+      ]
+    },
+    "Babken": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Babken supports Ermes but acknowledges it will not be an easy match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Jerry Cadorette": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Ermes will win but Jerry should not be underestimated.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Jerry Cadorette": {
+              "strength": "Not the type of guy to underestimate",
+              "health": null,
+              "previous_match_summary": "If underestimated, it will feel like a building collapsing on your arm."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

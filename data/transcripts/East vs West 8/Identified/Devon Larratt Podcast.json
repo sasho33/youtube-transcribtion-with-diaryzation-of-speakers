@@ -1,0 +1,195 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": null,
+    "SPEAKER_01": "Devon Larratt",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": null
+  },
+  "date": null,
+  "predictions": {
+    "Devon Larratt": {
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "6-0",
+          "prediction_summary": "Devon believes he will dominate Dave Chaffee, predicting a 6-0 victory, citing his improved strength and technique.",
+          "predicted_duration": null,
+          "style_conflict": "Devon plans to use his improved inside game and control to dominate Dave."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Devon thinks Ermes has more versatility and can handle Jerry's flop wrist press, but acknowledges Jerry's strength and size.",
+          "predicted_duration": null,
+          "style_conflict": "Ermes' ability to adapt and control the match against Jerry's flop wrist press."
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Pavlo Derbedyenyev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Sandris Sedis",
+          "predicted_score": null,
+          "prediction_summary": "Devon believes Sandris' technical ability and endurance will outlast Pavlo's strength.",
+          "predicted_duration": null,
+          "style_conflict": "Sandris' control and endurance vs. Pavlo's raw power."
+        },
+        {
+          "match": [
+            "Corey West",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 8",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Devon predicts Corey's strength and coaching from Michael Todd will give him an edge in round one, but the match will be close.",
+          "predicted_duration": null,
+          "style_conflict": "Corey's raw strength vs. Artyom's disciplined technique."
+        }
+      ],
+      "opinion_about_athletes": {
+        "Dave Chaffee": {
+          "strength": "Very strong, but Devon believes he is stronger now.",
+          "health": null,
+          "previous_match_summary": "Devon references their past matches and believes he has improved significantly since then."
+        },
+        "Jerry Cadorette": {
+          "strength": "Incredibly strong, especially in flop wrist press.",
+          "health": "Getting bigger and more serious.",
+          "previous_match_summary": "Devon acknowledges Jerry's recent performances and danger."
+        },
+        "Ermes Gasparini": {
+          "strength": "Versatile and technically sound.",
+          "health": null,
+          "previous_match_summary": "Devon respects Ermes' ability to adapt and control matches."
+        },
+        "Sandris Sedis": {
+          "strength": "Technically superior with great endurance.",
+          "health": null,
+          "previous_match_summary": "Devon highlights Sandris' recent performances and control."
+        },
+        "Corey West": {
+          "strength": "Humongous raw strength.",
+          "health": null,
+          "previous_match_summary": "Devon notes Corey's improvement and coaching from Michael Todd."
+        },
+        "Artyom Morozov": {
+          "strength": "Disciplined and technically sound.",
+          "health": null,
+          "previous_match_summary": "Devon respects Artyom's endurance and technique."
+        }
+      }
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "6-0",
+          "prediction_summary": "Engin agrees with Devon's prediction of a 6-0 victory, citing Devon's improved strength and technique.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's control and inside game vs. Dave's side pressure."
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Ermes' versatility and technique will overcome Jerry's strength.",
+          "predicted_duration": null,
+          "style_conflict": "Ermes' adaptability vs. Jerry's flop wrist press."
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Pavlo Derbedyenyev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Sandris Sedis",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Sandris' technical ability and endurance will outlast Pavlo's strength.",
+          "predicted_duration": null,
+          "style_conflict": "Sandris' control vs. Pavlo's power."
+        },
+        {
+          "match": [
+            "Corey West",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 8",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Engin predicts Corey's raw strength and coaching will give him an edge in round one.",
+          "predicted_duration": null,
+          "style_conflict": "Corey's strength vs. Artyom's technique."
+        }
+      ],
+      "opinion_about_athletes": {
+        "Devon Larratt": {
+          "strength": "Extremely strong and technically versatile.",
+          "health": null,
+          "previous_match_summary": "Engin respects Devon's endurance and ability to adapt."
+        },
+        "Dave Chaffee": {
+          "strength": "Very strong, but lacks technical versatility.",
+          "health": null,
+          "previous_match_summary": "Engin notes Dave's reliance on side pressure."
+        },
+        "Jerry Cadorette": {
+          "strength": "Incredibly strong, especially in flop wrist press.",
+          "health": "Getting bigger and more serious.",
+          "previous_match_summary": "Engin acknowledges Jerry's recent performances and danger."
+        },
+        "Ermes Gasparini": {
+          "strength": "Versatile and technically sound.",
+          "health": null,
+          "previous_match_summary": "Engin respects Ermes' ability to adapt and control matches."
+        },
+        "Sandris Sedis": {
+          "strength": "Technically superior with great endurance.",
+          "health": null,
+          "previous_match_summary": "Engin highlights Sandris' recent performances and control."
+        },
+        "Corey West": {
+          "strength": "Humongous raw strength.",
+          "health": null,
+          "previous_match_summary": "Engin notes Corey's improvement and coaching from Michael Todd."
+        },
+        "Artyom Morozov": {
+          "strength": "Disciplined and technically sound.",
+          "health": null,
+          "previous_match_summary": "Engin respects Artyom's endurance and technique."
+        }
+      }
+    }
+  }
+}

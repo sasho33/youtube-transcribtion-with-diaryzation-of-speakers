@@ -1,0 +1,195 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Tornike (Translator)",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_04": "Levan Saginashvili"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Levan Saginashvili",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Levan thinks Ermes should win but feels Chaffee might take the first round. He believes it will be a tough battle.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Very strong, especially with his latest shape and huge shoulders.",
+              "health": "Levan is a bit worried about Ermes' shape based on photos.",
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": "Has more horsepower but might struggle against Ermes.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Levan thinks Devon will win due to Prudnik's wrist weakness and Devon's King's move.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Very strong, especially in his best shape.",
+              "health": null,
+              "previous_match_summary": "Devon was in his best shape when he pulled Levan."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Great athlete but has wrist weakness.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": null,
+          "predicted_score": "Close match",
+          "prediction_summary": "Levan thinks it will be a very hard and close match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary strength and experience.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Oleg Petrenko": {
+              "strength": "Strong opponent.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Sandris Sedis",
+          "predicted_score": null,
+          "prediction_summary": "Levan thinks Sandris will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": "Strong and confident.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Revaz Lutidze",
+          "predicted_score": "100%",
+          "prediction_summary": "Levan thinks Revaz will win, especially if he takes Morozov's wrist on the start.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "In his best ever shape, much better than against Michael Todd.",
+              "health": null,
+              "previous_match_summary": "Improved since his match with Michael Todd."
+            },
+            "Artyom Morozov": {
+              "strength": "Great athlete but attitude is light during matches.",
+              "health": null,
+              "previous_match_summary": "Makes mistakes due to light attitude."
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Ryan Bowen"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Levan thinks Ryan is a great guy but no match to Zurab in arm wrestling.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong and at a different level.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ryan Bowen": {
+              "strength": "Great guy but not at the same level.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin avoids predictions as the organizer but acknowledges it will be a tough match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

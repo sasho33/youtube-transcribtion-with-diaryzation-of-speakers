@@ -1,0 +1,102 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Unknown"
+  },
+  "date": null,
+  "self_predictions": [],
+  "third_party_predictions": [
+    {
+      "match": [
+        "Devon Larratt",
+        "Evgeny Prudnik"
+      ],
+      "arm": "Right",
+      "event": "East vs West 5",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Engin believes Devon Larratt is ready and wants to pull Evgeny Prudnik, but there are other factors affecting the possibility of the match happening. He estimates a 50% chance of the match occurring on November 19th.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Devon Larratt": {
+          "strength": "Devon is in incredible shape and very strong right now.",
+          "health": "Devon is healthy and ready to compete.",
+          "previous_match_summary": "Devon has been training hard and is ready for a serious match."
+        },
+        "Evgeny Prudnik": {
+          "strength": "Prudnik is 100% ready and very dangerous at his weight class.",
+          "health": null,
+          "previous_match_summary": "Prudnik is known for his dominant performances and interesting personality."
+        }
+      }
+    },
+    {
+      "match": [
+        "Ermes Gasparini",
+        "Dave Chaffee"
+      ],
+      "arm": "Right",
+      "event": "East vs West 5",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Engin considers this a 50-50 match. Ermes feels incredible and confident, but Dave Chaffee is also a formidable opponent with a big heart.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Ermes Gasparini": {
+          "strength": "Ermes has a very strong wrist and is confident in his abilities.",
+          "health": null,
+          "previous_match_summary": "Ermes believes he can beat Devon Larratt."
+        },
+        "Dave Chaffee": {
+          "strength": "Dave has a big heart and no fear.",
+          "health": null,
+          "previous_match_summary": "Dave is known for his strong performances and resilience."
+        }
+      }
+    },
+    {
+      "match": [
+        "Georgii Dzeranov",
+        "Sergey Kalinichenko"
+      ],
+      "arm": "Right",
+      "event": "East vs West 5",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Engin mentions that Georgii Dzeranov has a match against Sergey Kalinichenko but does not provide a prediction.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {}
+    },
+    {
+      "match": [
+        "Sandris Sedis",
+        "Matt Mask"
+      ],
+      "arm": "Right",
+      "event": "East vs West 5",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Engin confirms that Matt Mask is going to pull Sandris Sedis in the same event.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {}
+    },
+    {
+      "match": [
+        "Haydar Gildil",
+        "Cobra Rhodes"
+      ],
+      "arm": "Right",
+      "event": "East vs West 5",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Engin is excited for this match, calling both athletes legends.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {}
+    }
+  ]
+}

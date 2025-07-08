@@ -1,0 +1,467 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Toms Rozits",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Justin Bishop",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": {
+    "Toms Rozits": {
+      "self_predictions": [
+        {
+          "match": [
+            "Toms Rozits",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Toms Rozits",
+          "predicted_score": "3-0",
+          "prediction_summary": "Toms believes he will win easily, stating Justin has no chance outside or inside if his right hand is in good shape.",
+          "predicted_duration": null,
+          "style_conflict": "Outside or inside, Toms feels confident in both scenarios.",
+          "opinion_about_athletes": {
+            "Justin Bishop": {
+              "strength": "Acknowledges Justin's strength but believes his own hand and side pressure are superior.",
+              "health": "Notes Justin's arm is healthy now, which makes him more dangerous.",
+              "previous_match_summary": "References Justin's loss to Mindaugas Tarasaitis and his performance in previous matches."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Hristo Delidzhakov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Believes Mindaugas will open Hristo's hand and finish him in an open position.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Strong against outside pullers.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Hristo Delidzhakov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Notes Hristo's performance in Europe."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Pavlo Derbedyenyev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Pavlo Derbedyenyev",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Sandris is competing too much and won't be ready for this match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": null,
+              "health": "Notes Sandris is competing too frequently.",
+              "previous_match_summary": null
+            },
+            "Pavlo Derbedyenyev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Emil Amirshadyan"
+          ],
+          "arm": "Left",
+          "event": "East vs West 8",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Believes Daniel is a beast and will win, though he doesn't know much about Emil.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Strong and beastly.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Emil Amirshadyan": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Doesn't know much about Emil."
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Morozov looks incredibly strong and confident, though Gennady is dangerous.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Incredibly strong and confident.",
+              "health": "Super healthy right now.",
+              "previous_match_summary": "References his recent performances."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Dangerous and never gives up.",
+              "health": null,
+              "previous_match_summary": "Notes his underdog status in previous matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": "3-2",
+          "prediction_summary": "Expects a long, hard match favoring Jerry due to endurance.",
+          "predicted_duration": "Long",
+          "style_conflict": "Ermes' top roll vs Jerry's unique style.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Probably stronger overall.",
+              "health": null,
+              "previous_match_summary": "References his performance against LaVon."
+            },
+            "Jerry Cadorette": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Notes his endurance and unique style."
+            }
+          }
+        }
+      ]
+    },
+    "Justin Bishop": {
+      "self_predictions": [
+        {
+          "match": [
+            "Justin Bishop",
+            "Toms Rozits"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Justin Bishop",
+          "predicted_score": "3-0",
+          "prediction_summary": "Justin believes he will win easily, citing his experience, health, and preparation.",
+          "predicted_duration": null,
+          "style_conflict": "Plans to flop Toms' hand back quickly and adjust based on Toms' strength.",
+          "opinion_about_athletes": {
+            "Toms Rozits": {
+              "strength": "Strong but a one-trick pony.",
+              "health": null,
+              "previous_match_summary": "References Toms' performance in Europe and his losses."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Hristo Delidzhakov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Mindaugas will dominate due to his ability to get outside of Hristo's palm.",
+          "predicted_duration": null,
+          "style_conflict": "Mindaugas' outside style vs Hristo's.",
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Good at getting outside of the palm.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Hristo Delidzhakov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Bad style for this matchup."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Chance Shaw",
+          "predicted_score": "3-0 or 3-1",
+          "prediction_summary": "Believes Chance's style is terrible for Petrenko and if he wins, it will be a sweep.",
+          "predicted_duration": null,
+          "style_conflict": "Chance's style vs Petrenko's.",
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Chance Shaw": {
+              "strength": "Big enough and style is good.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Pavlo Derbedyenyev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Pavlo Derbedyenyev",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Pavlo's static power is through the roof and Sandris might struggle with the height difference.",
+          "predicted_duration": null,
+          "style_conflict": "Inside game favors Pavlo.",
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Pavlo Derbedyenyev": {
+              "strength": "Ridiculously strong static power.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Wagner Bortolato",
+            "Ferit Osmanli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 8",
+          "predicted_winner": "Ferit Osmanli",
+          "predicted_score": "3-2",
+          "prediction_summary": "Expects a close match with Ferit winning due to Wagner's gas tank issues.",
+          "predicted_duration": "Long",
+          "style_conflict": "Inside game.",
+          "opinion_about_athletes": {
+            "Wagner Bortolato": {
+              "strength": "Looking really strong now.",
+              "health": "Gas tank issues.",
+              "previous_match_summary": null
+            },
+            "Ferit Osmanli": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "3-2",
+          "prediction_summary": "Leans towards Morozov due to his health and strength, but acknowledges Gennady's endurance and will.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Super healthy and strong.",
+              "health": "Healthy right now.",
+              "previous_match_summary": "References his recent performances."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Smart and not willing to lose.",
+              "health": "Been through the grind recently.",
+              "previous_match_summary": "Notes his underdog status and recent wins."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Jerry's style is bad for Ermes and his endurance will win out.",
+          "predicted_duration": "Long",
+          "style_conflict": "Ermes' top roll vs Jerry's unique style.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Probably stronger overall.",
+              "health": null,
+              "previous_match_summary": "References his performance against LaVon."
+            },
+            "Jerry Cadorette": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Notes his endurance and unique style."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Believes Devon will come out better prepared and more dedicated this time.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "More dedicated to getting stronger now.",
+              "health": null,
+              "previous_match_summary": "References his loss to Gennady and his ego."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Smart and not willing to lose.",
+              "health": "Been through the grind recently.",
+              "previous_match_summary": "Notes his underdog status and recent wins."
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Vitaly Laletin"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Revaz Lutidze",
+          "predicted_score": "3-0",
+          "prediction_summary": "Thinks Revaz is improving and his peak is higher than Vitaly's.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Improving and peak is higher.",
+              "health": null,
+              "previous_match_summary": "References his dominance against Dave Chaffee."
+            },
+            "Vitaly Laletin": {
+              "strength": null,
+              "health": "Healed up his arms.",
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Toms Rozits",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin is very curious about the match, noting Justin's strength and Toms' effectiveness against outside pullers.",
+          "predicted_duration": null,
+          "style_conflict": "Justin's outside pull vs Toms' strength against outside pullers.",
+          "opinion_about_athletes": {
+            "Toms Rozits": {
+              "strength": "Very effective against outside pullers.",
+              "health": null,
+              "previous_match_summary": "References his performance at the European Championships."
+            },
+            "Justin Bishop": {
+              "strength": "Stronger than last time.",
+              "health": "Healthy now.",
+              "previous_match_summary": "Notes his loss to Mindaugas Tarasaitis."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Expects a close match, noting Ermes' strength and Jerry's endurance.",
+          "predicted_duration": "Long",
+          "style_conflict": "Ermes' top roll vs Jerry's unique style.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong.",
+              "health": null,
+              "previous_match_summary": "References his performance against LaVon."
+            },
+            "Jerry Cadorette": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Notes his endurance and unique style."
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Unsure, noting Morozov's strength and Gennady's never-give-up attitude.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Incredibly strong.",
+              "health": "Super healthy right now.",
+              "previous_match_summary": "References his recent performances."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Dangerous and never gives up.",
+              "health": null,
+              "previous_match_summary": "Notes his underdog status in previous matches."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

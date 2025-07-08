@@ -1,0 +1,187 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Genadi Kvikvinia",
+    "SPEAKER_01": "Translator (David)",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Unknown Speaker",
+    "SPEAKER_04": "Jerry Cadorette"
+  },
+  "date": null,
+  "self_predictions": {
+    "Genadi Kvikvinia": [
+      {
+        "match": [
+          "Genadi Kvikvinia",
+          "Jerry Cadorette"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Genadi Kvikvinia",
+        "predicted_score": "3-0",
+        "prediction_summary": "Genadi is confident he will win, stating he is in the best shape of his life and respects Jerry but believes he will tire him out in any position.",
+        "predicted_duration": "Long war",
+        "style_conflict": "Genadi can adapt to any style, inside or outside.",
+        "opinion_about_athletes": {
+          "Jerry Cadorette": {
+            "strength": "Respects Jerry's strength and endurance",
+            "health": "No specific mention",
+            "previous_match_summary": "Grew up watching Jerry's matches and respects his achievements."
+          }
+        }
+      }
+    ],
+    "Jerry Cadorette": [
+      {
+        "match": [
+          "Jerry Cadorette",
+          "Genadi Kvikvinia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Jerry Cadorette",
+        "predicted_score": "Not specified",
+        "prediction_summary": "Jerry is confident he will win, stating he is training hard and will be at 100% for the match. He respects Genadi but believes in his own abilities.",
+        "predicted_duration": "War",
+        "style_conflict": "Jerry believes Genadi will try to go outside, but he is prepared for any style.",
+        "opinion_about_athletes": {
+          "Genadi Kvikvinia": {
+            "strength": "Respects Genadi's strength and achievements",
+            "health": "Mentions Genadi's finger injury in previous matches",
+            "previous_match_summary": "Genadi beat Michael Todd and Dave Chaffee, both matches came down to the last round."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Genadi Kvikvinia": [
+      {
+        "match": [
+          "John Brzenk",
+          "Kydyrgali Ongarbaev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "John Brzenk",
+        "predicted_score": "60-40",
+        "prediction_summary": "Genadi thinks John Brzenk will win 60-40.",
+        "predicted_duration": "Not specified",
+        "style_conflict": "Not specified",
+        "opinion_about_athletes": {
+          "John Brzenk": {
+            "strength": "Not specified",
+            "health": "Not specified",
+            "previous_match_summary": "Not specified"
+          },
+          "Kydyrgali Ongarbaev": {
+            "strength": "Not specified",
+            "health": "Not specified",
+            "previous_match_summary": "Not specified"
+          }
+        }
+      },
+      {
+        "match": [
+          "Dave Chaffee",
+          "Artyom Morozov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Dave Chaffee",
+        "predicted_score": "Not specified",
+        "prediction_summary": "Genadi thinks Dave Chaffee will win.",
+        "predicted_duration": "Not specified",
+        "style_conflict": "Not specified",
+        "opinion_about_athletes": {
+          "Dave Chaffee": {
+            "strength": "Not specified",
+            "health": "Not specified",
+            "previous_match_summary": "Not specified"
+          },
+          "Artyom Morozov": {
+            "strength": "Not specified",
+            "health": "Not specified",
+            "previous_match_summary": "Not specified"
+          }
+        }
+      },
+      {
+        "match": [
+          "Irakli Zirakashvili",
+          "Krasimir Kostadinov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Irakli Zirakashvili",
+        "predicted_score": "Not specified",
+        "prediction_summary": "Genadi thinks Irakli Zirakashvili will win.",
+        "predicted_duration": "Not specified",
+        "style_conflict": "Not specified",
+        "opinion_about_athletes": {
+          "Irakli Zirakashvili": {
+            "strength": "Not specified",
+            "health": "Not specified",
+            "previous_match_summary": "Not specified"
+          },
+          "Krasimir Kostadinov": {
+            "strength": "Not specified",
+            "health": "Not specified",
+            "previous_match_summary": "Not specified"
+          }
+        }
+      }
+    ],
+    "Jerry Cadorette": [
+      {
+        "match": [
+          "John Brzenk",
+          "Kydyrgali Ongarbaev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "John Brzenk",
+        "predicted_score": "60-40",
+        "prediction_summary": "Jerry thinks John Brzenk will win 60-40.",
+        "predicted_duration": "Not specified",
+        "style_conflict": "Not specified",
+        "opinion_about_athletes": {
+          "John Brzenk": {
+            "strength": "Not specified",
+            "health": "Not specified",
+            "previous_match_summary": "Not specified"
+          },
+          "Kydyrgali Ongarbaev": {
+            "strength": "Not specified",
+            "health": "Not specified",
+            "previous_match_summary": "Not specified"
+          }
+        }
+      },
+      {
+        "match": [
+          "Dave Chaffee",
+          "Artyom Morozov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Dave Chaffee",
+        "predicted_score": "Not specified",
+        "prediction_summary": "Jerry thinks Dave Chaffee will win.",
+        "predicted_duration": "Not specified",
+        "style_conflict": "Not specified",
+        "opinion_about_athletes": {
+          "Dave Chaffee": {
+            "strength": "Not specified",
+            "health": "Not specified",
+            "previous_match_summary": "Not specified"
+          },
+          "Artyom Morozov": {
+            "strength": "Not specified",
+            "health": "Not specified",
+            "previous_match_summary": "Not specified"
+          }
+        }
+      }
+    ]
+  }
+}

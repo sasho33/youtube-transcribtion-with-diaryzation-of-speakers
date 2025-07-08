@@ -1,0 +1,171 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Paolo",
+    "SPEAKER_01": "Denis Cyplenkov",
+    "SPEAKER_02": "Babken",
+    "SPEAKER_03": "Unknown",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "Denis Cyplenkov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Denis Cyplenkov",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Denis Cyplenkov",
+          "predicted_score": null,
+          "prediction_summary": "Denis is confident in his preparation and believes he will win, focusing on his strength and endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Denis expects Devon to use mind games and physical manipulations, but he is prepared to handle them.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Denis acknowledges Devon's strength and endurance, especially in his current form.",
+              "health": "Denis notes that professional sports are inherently risky to health.",
+              "previous_match_summary": "Denis criticizes Devon's tactics in previous matches, particularly against Hermes, but respects his abilities."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Alexey Voivoda",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Alexey Voivoda",
+          "predicted_score": null,
+          "prediction_summary": "Denis believes Alexey has the physical strength but questions his psychological readiness after years away from competition.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alexey Voivoda": {
+              "strength": "Denis notes Alexey's high training weights and athletic base.",
+              "health": null,
+              "previous_match_summary": "Denis mentions Alexey's long absence from competition and potential psychological challenges."
+            },
+            "John Brzenk": {
+              "strength": "Denis respects John's consistent performance and endurance.",
+              "health": null,
+              "previous_match_summary": "Denis recalls John's ability to handle pressure in long matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Zaur Paizulaev",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Zaur Paizulaev",
+          "predicted_score": "60-40",
+          "prediction_summary": "Denis gives Zaur a slight edge due to his performance against Vitaly Laletin, whom he considers stronger than Tsvetkov.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zaur Paizulaev": {
+              "strength": "Denis notes Zaur's ability to control matches.",
+              "health": null,
+              "previous_match_summary": "Denis references Zaur's close matches with Vitaly Laletin."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Denis acknowledges Tsvetkov's wrist strength.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Babken": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Alexey Voivoda",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Alexey Voivoda",
+          "predicted_score": null,
+          "prediction_summary": "Babken emphasizes Alexey's high training weights but notes the psychological challenge of returning after a long absence.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alexey Voivoda": {
+              "strength": "Babken highlights Alexey's impressive training weights.",
+              "health": null,
+              "previous_match_summary": "Babken mentions Alexey's long break from competition and potential lack of competitive fire."
+            },
+            "John Brzenk": {
+              "strength": "Babken respects John's experience and ability to handle pressure.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Zaur Paizulaev",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Babken sees the match as evenly balanced, with Tsvetkov's wrist strength potentially countering Zaur's control.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zaur Paizulaev": {
+              "strength": "Babken notes Zaur's control and endurance.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Babken highlights Tsvetkov's wrist strength.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Denis Cyplenkov",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin expects a close and intense match, with both athletes at their best.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Denis Cyplenkov": {
+              "strength": "Engin respects Denis's strength and endurance.",
+              "health": "Engin acknowledges the risks Denis is taking with his health.",
+              "previous_match_summary": "Engin recalls Denis's past performances and his comeback after surgery."
+            },
+            "Devon Larratt": {
+              "strength": "Engin notes Devon's current form and endurance.",
+              "health": null,
+              "previous_match_summary": "Engin references Devon's recent matches and tactics."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

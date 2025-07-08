@@ -1,0 +1,195 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Unknown",
+    "SPEAKER_02": "Todd Hutchings",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Sultan"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Todd Hutchings",
+      "self_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Todd mentions he likes his chances and feels stronger than he looks, but does not give a definitive prediction.",
+          "predicted_duration": null,
+          "style_conflict": "Side pressure vs technical top-roll",
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "High technical IQ, versatile",
+              "health": null,
+              "previous_match_summary": "Known for technical prowess and adaptability"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Denis Cyplenkov",
+          "predicted_score": null,
+          "prediction_summary": "Todd predicts Denis will win by turning Devon's palm up and using his pronation strength.",
+          "predicted_duration": null,
+          "style_conflict": "Pronation vs versatility",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Versatile, well-rounded",
+              "health": null,
+              "previous_match_summary": "Known for adaptability and endurance"
+            },
+            "Denis Cyplenkov": {
+              "strength": "Strong pronator, endurance",
+              "health": null,
+              "previous_match_summary": "Known for power and recent focus on pronation"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Rustam Babaiev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Rustam Babaiev",
+          "predicted_score": null,
+          "prediction_summary": "Todd believes Rustam will win by applying side pressure and flop press, similar to his own style.",
+          "predicted_duration": null,
+          "style_conflict": "Side pressure vs top-roll",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Fast, high setup",
+              "health": null,
+              "previous_match_summary": "Known for speed and hand control"
+            },
+            "Rustam Babaiev": {
+              "strength": "Strong connections, side pressure",
+              "health": null,
+              "previous_match_summary": "Known for flop press and adaptability"
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Todd predicts John will win due to his experience and ability to handle Sasho's style.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs youth",
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Young, strong cup",
+              "health": null,
+              "previous_match_summary": "Known for wrist control"
+            },
+            "John Brzenk": {
+              "strength": "Legendary, adaptable",
+              "health": null,
+              "previous_match_summary": "Known for versatility and endurance"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Abdulmanaf Tuzuyev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Engin considers his chances against Samushia but remains uncertain due to recent training inconsistencies.",
+          "predicted_duration": null,
+          "style_conflict": "Top-roll vs side pressure",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Strong top-roll",
+              "health": null,
+              "previous_match_summary": "Known for hand control"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Sultan",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Sultan thinks it's 50-50, noting Devon's versatility but Denis's endurance and power.",
+          "predicted_duration": null,
+          "style_conflict": "Versatility vs power",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Versatile",
+              "health": null,
+              "previous_match_summary": "Known for adaptability"
+            },
+            "Denis Cyplenkov": {
+              "strength": "Powerful, enduring",
+              "health": null,
+              "previous_match_summary": "Known for strength and recent improvements"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Rustam Babaiev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Rustam Babaiev",
+          "predicted_score": null,
+          "prediction_summary": "Sultan believes Rustam will win due to better connections and side pressure.",
+          "predicted_duration": null,
+          "style_conflict": "Flop press vs top-roll",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Fast setup",
+              "health": null,
+              "previous_match_summary": "Known for speed"
+            },
+            "Rustam Babaiev": {
+              "strength": "Strong side pressure",
+              "health": null,
+              "previous_match_summary": "Known for flop press"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

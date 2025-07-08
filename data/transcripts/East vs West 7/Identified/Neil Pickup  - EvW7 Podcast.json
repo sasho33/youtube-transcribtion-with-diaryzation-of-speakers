@@ -1,0 +1,239 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_02": "Neil Pickup",
+    "SPEAKER_03": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Neil Pickup",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Bacho Saginashvili",
+          "prediction_summary": "Neil is excited about this match due to the unknown factor of Bacho, who is highly regarded by Georgians. He sees Bacho as a potential dominant force despite his young age."
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "prediction_summary": "Neil sees Zurab as a slight favorite due to his recent dominance and motivation, but acknowledges Rob's potential if he can control the match."
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Davit Samushia",
+          "prediction_summary": "Neil believes Davit's experience and endurance give him the edge, though he respects Brandon's heart and determination."
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Daniel Procopciuc",
+          "prediction_summary": "Neil favors Daniel due to his technical prowess and strength, but acknowledges Doug's confidence and potential to surprise."
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "prediction_summary": "Neil sees Alizhan as a heavy favorite due to his explosiveness and dynamism, though Kody's size and strength could pose a challenge."
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Arif Ertem",
+          "prediction_summary": "Neil gives Arif a slight edge due to his explosiveness and aggression, though he acknowledges Georgii's strength and endurance."
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "prediction_summary": "Neil believes Vitalii's height and leverage give him an advantage, though Tobias's hand and wrist strength could make it competitive."
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Sasho Andreev",
+          "prediction_summary": "Neil sees Sasho as the favorite due to his unorthodox style and strength, though he respects Paul's explosiveness and determination."
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Dave Chaffee",
+          "prediction_summary": "Neil favors Dave due to his side pressure and evolving style, though he acknowledges Revaz's strength and endurance."
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "prediction_summary": "Neil believes Ongarbaev's versatility and technical skill give him the edge, though Irakli's explosiveness could be a factor."
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "prediction_summary": "Neil sees Devon as the favorite due to his technical skill and endurance, though he acknowledges Genadi's strength and motivation."
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Bacho Saginashvili",
+          "prediction_summary": "Engin is intrigued by Bacho's potential and the confidence Georgians have in him, though he acknowledges Adam's strength."
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "prediction_summary": "Engin sees Zurab as a strong favorite due to his recent performances and dominance in the hook."
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Davit Samushia",
+          "prediction_summary": "Engin believes Davit's endurance and experience will be key, though he respects Brandon's heart and determination."
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Daniel Procopciuc",
+          "prediction_summary": "Engin favors Daniel due to his technical skill and strength, though he acknowledges Doug's confidence and potential."
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "prediction_summary": "Engin sees Alizhan as a heavy favorite due to his explosiveness, though Kody's size could pose a challenge."
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Arif Ertem",
+          "prediction_summary": "Engin gives Arif a slight edge due to his explosiveness, though he acknowledges Georgii's strength and endurance."
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "prediction_summary": "Engin believes Vitalii's height and leverage give him an advantage, though Tobias's technical skill could make it competitive."
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Sasho Andreev",
+          "prediction_summary": "Engin sees Sasho as the favorite due to his unorthodox style, though he respects Paul's explosiveness and determination."
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Dave Chaffee",
+          "prediction_summary": "Engin favors Dave due to his side pressure, though he acknowledges Revaz's strength and endurance."
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "prediction_summary": "Engin believes Ongarbaev's versatility and technical skill give him the edge, though Irakli's explosiveness could be a factor."
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "prediction_summary": "Engin sees Devon as the favorite due to his technical skill and endurance, though he acknowledges Genadi's strength and motivation."
+        }
+      ]
+    }
+  ]
+}

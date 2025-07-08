@@ -1,0 +1,177 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Paul Linn",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_03": "Roman (Translator)",
+    "SPEAKER_04": "İrakli Gamtenadze"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Paul Linn",
+      "self_predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "İrakli Gamtenadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "50-50",
+          "prediction_summary": "Paul respects his opponent and chooses to be the underdog to maintain his edge."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Davit Samushia",
+          "prediction_summary": "Paul has Samushia as a heavy favorite based on training feedback and past matches."
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Ryan Bowen"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Zurab Tavberidze",
+          "prediction_summary": "Paul thinks Zurab is the favorite but acknowledges Ryan's tricky style."
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 5",
+          "predicted_winner": "Oleg Petrenko",
+          "prediction_summary": "Paul believes Petrenko is the favorite due to his versatility and current form."
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Matt Mask",
+          "prediction_summary": "Paul thinks Matt is in top form and has a strong chance against Sandris."
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "John Brzenk",
+          "prediction_summary": "Paul believes John has the tools to work around Petrenko's style."
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Dave Chaffee",
+          "prediction_summary": "Paul favors Dave due to his recent activity and mental focus."
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Devon Larratt",
+          "prediction_summary": "Paul thinks Devon will win, especially if the match goes to later rounds."
+        }
+      ]
+    },
+    {
+      "speaker": "İrakli Gamtenadze",
+      "self_predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "İrakli Gamtenadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "İrakli Gamtenadze",
+          "predicted_score": "80-20",
+          "prediction_summary": "İrakli is confident he will win, citing his current form and training regime."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Ryan Bowen"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Zurab Tavberidze",
+          "prediction_summary": "İrakli thinks Zurab will easily beat Ryan Bowen."
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Wagner Bortolato"
+          ],
+          "arm": "Left",
+          "event": "East vs West 5",
+          "predicted_winner": "Wagner Bortolato",
+          "prediction_summary": "İrakli gives a slight edge to Wagner based on his control over Dzeranov's right arm."
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 5",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": "60-40",
+          "prediction_summary": "İrakli believes Petrenko is versatile and in better shape."
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Revaz Lutidze",
+          "prediction_summary": "İrakli thinks Revaz is stronger and heavier, giving him the edge."
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "prediction_summary": "İrakli believes Ermes is more technical and endurable, predicting he will lose at most one round."
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Devon Larratt",
+          "prediction_summary": "İrakli thinks Devon's leverage and weight advantage will be decisive."
+        }
+      ]
+    }
+  ]
+}

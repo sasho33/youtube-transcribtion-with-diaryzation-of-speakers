@@ -1,0 +1,261 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Vitalii Laletin",
+    "SPEAKER_01": "Alexander",
+    "SPEAKER_03": "Tobias Sporrong",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "athlete": "Vitalii Laletin",
+      "self_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii is in top form and trains both arms equally. He acknowledges Tobias's strength but believes his experience and technique will prevail.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. potential hook from Tobias",
+          "opinion_about_athletes": {
+            "Tobias Sporrong": {
+              "strength": "Strong, especially in pronation",
+              "health": "Recovered from hernia surgery",
+              "previous_match_summary": "Performed well against Prudnik and Morozov"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan's quick start will be decisive.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Very quick start",
+              "health": null,
+              "previous_match_summary": "Recently won World Championship"
+            },
+            "Kody Merritt": {
+              "strength": "Lacks quick start",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Georgii's endurance and speed will overcome Arif.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Good endurance and fast movement",
+              "health": "Motivated after rest",
+              "previous_match_summary": null
+            },
+            "Arif Ertem": null
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Dave Chaffee if in good shape",
+          "predicted_score": null,
+          "prediction_summary": "Dave's side pressure and endurance could win if he's in top form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Gaining well, in good shape",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": "Best side pressure in the world",
+              "health": "Stamina is good based on past matches",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon's hand strength and ability to exhaust Genadi will be key.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's pronation vs. Genadi's explosiveness",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong hand, excellent preparation",
+              "health": null,
+              "previous_match_summary": "Can surprise with preparation"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Younger, more explosive",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "athlete": "Tobias Sporrong",
+      "self_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Tobias Sporrong if Vitalii can't top roll",
+          "predicted_score": null,
+          "prediction_summary": "Tobias believes the match hinges on Vitalii's ability to top roll him. If not, Tobias can win.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. potential hook",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Tall, long forearm, strong top roll",
+              "health": "No left arm injuries",
+              "previous_match_summary": "Best left-handed Russian arm wrestler"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab's experience gives him the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Paul's arm strength could win, though Sasho is explosive.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Strong hook",
+              "health": null,
+              "previous_match_summary": "Gave John Brzenk a hard match"
+            },
+            "Sasho Andreev": {
+              "strength": "Fast and explosive",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Ongarbaev's table IQ and experience make him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Super strong, great table IQ",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Strong, but wrist may be a weakness",
+              "health": null,
+              "previous_match_summary": "Lost to Prokopciuk"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon's pronation will exhaust Genadi.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's pronation vs. Genadi's explosiveness",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong pronation",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

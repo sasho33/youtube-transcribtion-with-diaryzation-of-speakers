@@ -1,0 +1,586 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Doug Erlich",
+    "SPEAKER_01": "Dung",
+    "SPEAKER_02": "John Brzenk",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "John Brzenk",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Rob Vigeant Jr.",
+          "predicted_score": null,
+          "prediction_summary": "Rob needs to hit his top roll perfectly and not over top roll to possibly flash pin Zurab. If the match stops, Rob will be in trouble as Zurab is a fighter.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": "Beat Paul Linn and others recently"
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Strong top roller",
+              "health": null,
+              "previous_match_summary": "Has been training more and is dedicated"
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Daniel is strong and versatile. Doug will have a hard time if Daniel hangs him out in a bad position.",
+          "predicted_duration": null,
+          "style_conflict": "Versatile vs. endurance",
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Versatile in styles",
+              "health": null,
+              "previous_match_summary": "Beat Ray recently"
+            },
+            "Doug Erlich": {
+              "strength": "Endurance",
+              "health": null,
+              "previous_match_summary": "Struggles against strong opponents"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan is very impressive and has beaten strong opponents. Kody is good but has been struggling with injuries.",
+          "predicted_duration": null,
+          "style_conflict": "Speed vs. power",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Fast and explosive",
+              "health": null,
+              "previous_match_summary": "Beat Oleg Petrenko and others"
+            },
+            "Kody Merritt": {
+              "strength": "Powerful",
+              "health": "Struggling with aches and pains",
+              "previous_match_summary": "Has been inconsistent due to injuries"
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Arif is too fast and explosive. Georgii might not be able to handle his speed.",
+          "predicted_duration": null,
+          "style_conflict": "Speed vs. endurance",
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Endurance",
+              "health": null,
+              "previous_match_summary": "Beat Wagner Bortolato and others"
+            },
+            "Arif Ertem": {
+              "strength": "Fast and explosive",
+              "health": null,
+              "previous_match_summary": "Impressive performances recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii's experience and endurance will outlast Tobias. Even if out of position, Vitalii can hold and win.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs. power",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Endurance and height advantage",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            },
+            "Tobias Sporrong": {
+              "strength": "Powerful grip",
+              "health": null,
+              "previous_match_summary": "Strong performances but lacks experience against top-tier lefties"
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Davit is training with Georgians who know how to counter king's move. Brandon's weight cut might affect his performance.",
+          "predicted_duration": null,
+          "style_conflict": "King's move vs. hook",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": "Beat Craig Tullier and others"
+            },
+            "Brandon Ellsessor": {
+              "strength": "King's move",
+              "health": "Weight cut might affect stamina",
+              "previous_match_summary": "Struggles against strong hook pullers"
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": null,
+          "prediction_summary": "Sasho's endurance and compact build will outlast Paul. Paul needs to commit to the hook early.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs. power",
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Endurance and compact build",
+              "health": null,
+              "previous_match_summary": "Strong performances recently"
+            },
+            "Paul Linn": {
+              "strength": "Powerful hook",
+              "health": null,
+              "previous_match_summary": "Aggressive but can fade in long matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave's initial power will win early rounds, but if he fades, Revaz has a chance. Dave needs to slip and use the strap.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs. endurance",
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Endurance",
+              "health": null,
+              "previous_match_summary": "Strong but can be overwhelmed early"
+            },
+            "Dave Chaffee": {
+              "strength": "Initial power",
+              "health": "Needs to manage stamina",
+              "previous_match_summary": "Dominant early but can fade"
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Ongarbaev's endurance and table IQ will outlast Irakli. Irakli needs to finish quickly.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs. explosiveness",
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Endurance and table IQ",
+              "health": null,
+              "previous_match_summary": "Beat Michael Todd recently"
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Explosiveness",
+              "health": null,
+              "previous_match_summary": "Strong but can fade in long matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "3-0",
+          "prediction_summary": "Devon's pronation and endurance will dominate Genadi. Genadi lacks the hand strength to counter Devon's style.",
+          "predicted_duration": null,
+          "style_conflict": "Pronation vs. power",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Powerful but lacks endurance",
+              "health": null,
+              "previous_match_summary": "Struggled against Jerry Cadorette"
+            },
+            "Devon Larratt": {
+              "strength": "Pronation and endurance",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab's hook will be too much for Rob if it goes inside.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. top roll",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": "Recent wins in AMC events"
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Top roller",
+              "health": null,
+              "previous_match_summary": "Training hard but may struggle against strong hooks"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan is too fast and explosive for Kody.",
+          "predicted_duration": null,
+          "style_conflict": "Speed vs. power",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Fast and explosive",
+              "health": null,
+              "previous_match_summary": "Beat Oleg Petrenko"
+            },
+            "Kody Merritt": {
+              "strength": "Powerful",
+              "health": "Injury concerns",
+              "previous_match_summary": "Inconsistent due to injuries"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon's pronation and endurance will be too much for Genadi.",
+          "predicted_duration": null,
+          "style_conflict": "Pronation vs. power",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Powerful",
+              "health": null,
+              "previous_match_summary": "Struggled against Jerry Cadorette"
+            },
+            "Devon Larratt": {
+              "strength": "Pronation and endurance",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Doug Erlich",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Rob Vigeant Jr.",
+          "predicted_score": null,
+          "prediction_summary": "Rob is training more and is dedicated. It's a 50-50 match.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": "Recent wins in AMC events"
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Top roller",
+              "health": null,
+              "previous_match_summary": "Training hard and dedicated"
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "70-30",
+          "prediction_summary": "Daniel's versatility will be too much for Doug.",
+          "predicted_duration": null,
+          "style_conflict": "Versatile vs. endurance",
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Versatile in styles",
+              "health": null,
+              "previous_match_summary": "Beat Ray recently"
+            },
+            "Doug Erlich": {
+              "strength": "Endurance",
+              "health": null,
+              "previous_match_summary": "Struggles against strong opponents"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": "60-40",
+          "prediction_summary": "Alizhan is too fast and explosive. Kody is the underdog.",
+          "predicted_duration": null,
+          "style_conflict": "Speed vs. power",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Fast and explosive",
+              "health": null,
+              "previous_match_summary": "Beat Oleg Petrenko"
+            },
+            "Kody Merritt": {
+              "strength": "Powerful",
+              "health": "Injury concerns",
+              "previous_match_summary": "Inconsistent due to injuries"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Tobias Sporrong",
+          "predicted_score": null,
+          "prediction_summary": "Tobias is a favorite personally and has the strength to challenge Vitalii.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs. endurance",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Endurance and height advantage",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            },
+            "Tobias Sporrong": {
+              "strength": "Powerful grip",
+              "health": null,
+              "previous_match_summary": "Strong performances but lacks experience against top-tier lefties"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon's endurance and mindset will dominate Genadi.",
+          "predicted_duration": null,
+          "style_conflict": "Pronation vs. power",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Powerful",
+              "health": null,
+              "previous_match_summary": "Struggled against Jerry Cadorette"
+            },
+            "Devon Larratt": {
+              "strength": "Pronation and endurance",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Dung",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab's hook will be too much for Rob under WAF rules.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. top roll",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": "Recent wins in AMC events"
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Top roller",
+              "health": null,
+              "previous_match_summary": "Training hard but may struggle against strong hooks"
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Paul has sought advice from Neil Pickup and knows how to pull Sasho.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. endurance",
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Endurance",
+              "health": null,
+              "previous_match_summary": "Strong performances recently"
+            },
+            "Paul Linn": {
+              "strength": "Powerful hook",
+              "health": null,
+              "previous_match_summary": "Aggressive and seeks advice from experienced pullers"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii's endurance and experience will outlast Tobias.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs. power",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Endurance and height advantage",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            },
+            "Tobias Sporrong": {
+              "strength": "Powerful grip",
+              "health": null,
+              "previous_match_summary": "Strong performances but lacks experience against top-tier lefties"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon's bone and tendon strength will overpower Genadi's muscle.",
+          "predicted_duration": null,
+          "style_conflict": "Pronation vs. power",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Powerful",
+              "health": null,
+              "previous_match_summary": "Struggled against Jerry Cadorette"
+            },
+            "Devon Larratt": {
+              "strength": "Pronation and endurance",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

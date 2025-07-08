@@ -1,0 +1,465 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Dave Chaffee",
+    "SPEAKER_01": "Revaz Lutidze",
+    "SPEAKER_03": "Roman (Translator)",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Dave Chaffee",
+      "self_predictions": [
+        {
+          "match": [
+            "Dave Chaffee",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "3-2",
+          "prediction_summary": "Dave predicts a close match, respecting Revaz's strength and versatility. He believes it will be a war but hopes to come out on top.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Very strong hand, versatile",
+              "health": "In best shape of his life",
+              "previous_match_summary": "Disappointed with last performance but has made changes to improve."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Doug Erlich",
+          "predicted_score": null,
+          "prediction_summary": "Dave roots for Doug, calling it an upset, and believes Doug's strength will be key.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "World class competitor",
+              "health": null,
+              "previous_match_summary": "Known for being on top for years."
+            },
+            "Doug Erlich": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Great guy, strong competitor."
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Rob Vigeant Jr.",
+          "predicted_score": null,
+          "prediction_summary": "Dave thinks Rob can surprise Zurab with his hand strength, giving Rob the edge outside.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong inside",
+              "health": null,
+              "previous_match_summary": "Pulled smartly in recent AMC tournament."
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Great hand, especially for his size",
+              "health": null,
+              "previous_match_summary": "Hasn't pulled in a while but is strong."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Kody Merritt",
+          "predicted_score": null,
+          "prediction_summary": "Dave loves Kody's strength but acknowledges Alizhan's skill, calling Kody the underdog.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Ridiculously good left arm",
+              "health": null,
+              "previous_match_summary": "Won One Force Superweight at 210 lbs."
+            },
+            "Kody Merritt": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Training very well."
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Dave picks Arif due to his recent strong performances and great hand.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Preparing very strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Arif Ertem": {
+              "strength": "Super strong, great hand",
+              "health": null,
+              "previous_match_summary": "Looking strong lately."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Brandon Ellsessor",
+          "predicted_score": null,
+          "prediction_summary": "Dave supports Brandon, citing his hard training and heart.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Needs to switch to raging mode to win."
+            },
+            "Brandon Ellsessor": {
+              "strength": "Getting better and better",
+              "health": null,
+              "previous_match_summary": "Trains harder than most."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Dave believes Paul's horsepower and confidence will lead him to victory.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Paul Linn": {
+              "strength": "Huge horsepower",
+              "health": null,
+              "previous_match_summary": "Looked great lately."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Dave thinks Vitalii will win but acknowledges Tobias's solid performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Left isn't as good as right but still strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Tobias Sporrong": {
+              "strength": "Young, great",
+              "health": null,
+              "previous_match_summary": "Looked solid every time seen."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": "3-2",
+          "prediction_summary": "Dave predicts a war, favoring Ongarbaev's table IQ and endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Superior table IQ, endurance",
+              "health": null,
+              "previous_match_summary": "Impressive against Michael."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "More horsepower",
+              "health": null,
+              "previous_match_summary": "Strong against everyone he's pulled."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Dave thinks Devon's endurance and table IQ will wear Genadi out.",
+          "predicted_duration": null,
+          "style_conflict": "King's Move vs. endurance",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Well prepared, focused",
+              "health": null,
+              "previous_match_summary": "Studied Devon's moves."
+            },
+            "Devon Larratt": {
+              "strength": "Too much endurance, smart on table",
+              "health": null,
+              "previous_match_summary": "Best shape ever."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Revaz Lutidze",
+      "self_predictions": [
+        {
+          "match": [
+            "Dave Chaffee",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Revaz Lutidze",
+          "predicted_score": null,
+          "prediction_summary": "Revaz respects Dave but is coming to win, expecting a tough match.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Respected sportsman, strong",
+              "health": "Hand recovered, neck issues",
+              "previous_match_summary": "Coming off a loss."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Revaz favors Daniel due to his known strength and performance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Good top roller",
+              "health": null,
+              "previous_match_summary": "Performed well against Samushia."
+            },
+            "Doug Erlich": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Not familiar with him."
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Revaz thinks Zurab's recent tournament performance gives him an edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Pulling smartly",
+              "health": null,
+              "previous_match_summary": "Won recent AMC tournament."
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Proven against tough opponents",
+              "health": null,
+              "previous_match_summary": "Coming from a long pause."
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Revaz believes Arif's top roll will be too much for Georgii.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Preparing very strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Arif Ertem": {
+              "strength": "Knows how to block angles",
+              "health": null,
+              "previous_match_summary": "Strong against hook attempts."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Revaz thinks Paul's performance against Babaev shows he can win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Paul Linn": {
+              "strength": "Impressive against Babaev",
+              "health": null,
+              "previous_match_summary": "Showed great endurance."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Revaz expects Vitalii to win but acknowledges Tobias's potential.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Tobias Sporrong": {
+              "strength": "Somewhere right there",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Revaz favors Ongarbaev due to his table IQ and experience.",
+          "predicted_duration": null,
+          "style_conflict": "Outside game",
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Strong in outside movement",
+              "health": null,
+              "previous_match_summary": "One of Revaz's favorite arm wrestlers."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "More horsepower",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Revaz believes Genadi is well-prepared and focused to beat Devon.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Really well prepared",
+              "health": null,
+              "previous_match_summary": "Training at his best."
+            },
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

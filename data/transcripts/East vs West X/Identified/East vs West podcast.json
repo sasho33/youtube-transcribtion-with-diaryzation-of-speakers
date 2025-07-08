@@ -1,0 +1,114 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "It is a very good match. It could go either way. I can see Devon winning that match. I can also see Denis winning that match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Devon is near 2 meters, ripped under 20-25 kilo, just totally ripped.",
+              "health": null,
+              "previous_match_summary": "Devon is the most active puller as of now, having pulled five supermatches in the last 10 months."
+            },
+            "Denis Cyplenkov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Denis is a very smart guy and knows how dangerous Devon is."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "John Brzenk said that it is a very dangerous match for Kydyrgali.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Kydyrgali came and beat John Brzenk and then got the title and still defends."
+            }
+          }
+        },
+        {
+          "match": [
+            "Egle Vaitkute",
+            "Sarah Backman"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Sarah Backman",
+          "predicted_score": null,
+          "prediction_summary": "In my opinion Sarah looks favorite but both are my friends I just wish both the best.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Egle Vaitkute": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Sarah Backman": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Zaur Paizulaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Zaur is very strong but for super match I think he needs to work more on endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Zaur Paizulaev": {
+              "strength": "Zaur is very strong.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

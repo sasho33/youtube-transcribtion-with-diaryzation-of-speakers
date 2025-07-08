@@ -1,0 +1,116 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_02": "Evgeny Prudnik",
+    "SPEAKER_04": "Devon Larratt"
+  },
+  "date": null,
+  "predictions": {
+    "Ermes Gasparini": {
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "3-0",
+          "prediction_summary": "Ermes believes he can control Dave's pronator and avoid losing his wrist, giving him the advantage.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Super strong wrist and power",
+              "health": "Good stamina and form",
+              "previous_match_summary": "Lost to Laletin but showed good endurance in 7 rounds"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "50-50",
+          "prediction_summary": "Ermes thinks it's a close match but leans slightly towards Devon due to his experience.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Smart, experienced",
+              "health": "Recovering from stem cell treatment",
+              "previous_match_summary": "Lost to Levan but is training hard for Prudnik"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Very strong in hook",
+              "health": "Good shape",
+              "previous_match_summary": "Beat Michael Todd in previous matches"
+            }
+          }
+        }
+      ]
+    },
+    "Evgeny Prudnik": {
+      "self_predictions": [
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "65-35",
+          "prediction_summary": "Prudnik believes he can exploit Devon's weaknesses and win, especially if he controls the match early.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Experienced, smart",
+              "health": "Recovering from stem cell treatment",
+              "previous_match_summary": "Lost to Levan but is training hard"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "85-15",
+          "prediction_summary": "Prudnik thinks Ermes has a significant advantage due to his technique and strength.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Extreme power, smart technique",
+              "health": "Incredible shape",
+              "previous_match_summary": "Beat Jerry Cadorette"
+            },
+            "Dave Chaffee": {
+              "strength": "Super strong wrist",
+              "health": "Good stamina",
+              "previous_match_summary": "Lost to Laletin but showed endurance"
+            }
+          }
+        }
+      ]
+    },
+    "Devon Larratt": {
+      "self_predictions": [],
+      "third_party_predictions": []
+    }
+  }
+}

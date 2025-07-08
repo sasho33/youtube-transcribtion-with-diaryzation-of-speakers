@@ -1,0 +1,150 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Alex Kurdecha",
+    "SPEAKER_02": "Vitaly Laletin",
+    "SPEAKER_03": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "Vitaly Laletin": {
+      "self_predictions": [
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly believes he can beat Devon, especially after defeating Michael Todd. He feels confident in his press technique and thinks Devon's defense is not as strong as Michael's.",
+          "predicted_duration": null,
+          "style_conflict": "Press technique vs Devon's defense",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Devon's center is strong, but his defense is not as good as Michael Todd's.",
+              "health": null,
+              "previous_match_summary": "Vitaly compares Devon's performance against Ermes and notes that Ermes looked lost in that match."
+            },
+            "Michael Todd": {
+              "strength": "Michael's defense and riser are very strong.",
+              "health": null,
+              "previous_match_summary": "Vitaly was surprised by how he managed to press Michael down and felt comfortable in the attack."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly wants Levan to win because Ermes has not shown interest in pulling him. He roots for the underdog but considers Levan stronger.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Levan's bicep curl is incredibly strong.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ermes Gasparini": {
+              "strength": "Ermes' back pressure is impressive and more effective for arm wrestling.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly thinks Devon will win against Alex on the left hand.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly wants Artyom to win but acknowledges it won't be easy.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Jerry Cadorette": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Alex Kurdecha": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Alex thinks Devon will win against him on the left hand.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": []
+    }
+  }
+}

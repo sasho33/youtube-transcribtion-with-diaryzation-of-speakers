@@ -1,0 +1,325 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Michael Todd",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Pasha",
+    "SPEAKER_04": "Kydyrgali Ongarbaev"
+  },
+  "date": null,
+  "self_predictions": {
+    "Michael Todd": {
+      "match": [
+        "Michael Todd",
+        "Kydyrgali Ongarbaev"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Michael Todd",
+      "predicted_score": "51-49",
+      "prediction_summary": "Michael believes he has a slight edge but acknowledges it will be a tough match. He mentions his bicep health and mental readiness as key factors.",
+      "predicted_duration": null,
+      "style_conflict": "Outside pressure vs inside pressure"
+    },
+    "Kydyrgali Ongarbaev": {
+      "match": [
+        "Kydyrgali Ongarbaev",
+        "Michael Todd"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Kydyrgali did not give a specific prediction but stated he is well-prepared and ready for the match.",
+      "predicted_duration": null,
+      "style_conflict": null
+    }
+  },
+  "third_party_predictions": [
+    {
+      "speaker": "Michael Todd",
+      "match": [
+        "Paul Linn",
+        "Rustam Babayev"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Paul Linn",
+      "predicted_score": null,
+      "prediction_summary": "Michael thinks Paul Linn is a strong opponent and if Rustam doesn't win quickly, Paul's confidence will make him dangerous.",
+      "predicted_duration": null,
+      "style_conflict": "Quick finish vs endurance",
+      "opinion_about_athletes": {
+        "Paul Linn": {
+          "strength": "Very strong",
+          "health": null,
+          "previous_match_summary": "On a terror before losing to Pablo"
+        },
+        "Rustam Babayev": {
+          "strength": "Strong with endurance",
+          "health": "Coming back after a break",
+          "previous_match_summary": "Legendary middleweight arm wrestler"
+        }
+      }
+    },
+    {
+      "speaker": "Kydyrgali Ongarbaev",
+      "match": [
+        "Nurdaulet Aidarkhan",
+        "Mindaugas Tarasaitis"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Nurdaulet Aidarkhan",
+      "predicted_score": null,
+      "prediction_summary": "Kydyrgali believes Nurdaulet will win as he is a world champion in this class.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Nurdaulet Aidarkhan": {
+          "strength": "World champion level",
+          "health": null,
+          "previous_match_summary": "World champion in his class"
+        },
+        "Mindaugas Tarasaitis": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Michael Todd",
+      "match": [
+        "Gabriela Vasconcelos",
+        "Barbora Bajciova"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Gabriela Vasconcelos",
+      "predicted_score": null,
+      "prediction_summary": "Michael is highly impressed by Gabriela and considers her the most impressive female arm wrestler he has seen.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Gabriela Vasconcelos": {
+          "strength": "Most impressive female arm wrestler",
+          "health": null,
+          "previous_match_summary": "Most accomplished arm wrestler in WAF history"
+        },
+        "Barbora Bajciova": {
+          "strength": "Very large and strong",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Michael Todd",
+      "match": [
+        "Zurab Tavberidze",
+        "Curtis Cameron"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Zurab Tavberidze",
+      "predicted_score": null,
+      "prediction_summary": "Michael thinks Zurab's shorter lever will give him an advantage if both go inside.",
+      "predicted_duration": null,
+      "style_conflict": "Inside pressure vs shorter lever advantage",
+      "opinion_about_athletes": {
+        "Zurab Tavberidze": {
+          "strength": "Shorter lever advantage",
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Curtis Cameron": {
+          "strength": "Looks really strong",
+          "health": null,
+          "previous_match_summary": "Beat Ryan Espy"
+        }
+      }
+    },
+    {
+      "speaker": "Michael Todd",
+      "match": [
+        "Corey West",
+        "Ferit Osmanli"
+      ],
+      "arm": "Left",
+      "event": "East vs West 6",
+      "predicted_winner": "Corey West",
+      "predicted_score": null,
+      "prediction_summary": "Michael believes Corey is a threat to anyone left-handed unless Ferit is near his past form.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Corey West": {
+          "strength": "Threat to anyone left-handed",
+          "health": null,
+          "previous_match_summary": "Very strong left-handed"
+        },
+        "Ferit Osmanli": {
+          "strength": "Unknown current form",
+          "health": null,
+          "previous_match_summary": "Used to be very strong"
+        }
+      }
+    },
+    {
+      "speaker": "Kydyrgali Ongarbaev",
+      "match": [
+        "Arif Ertem",
+        "Corey West"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Arif Ertem",
+      "predicted_score": null,
+      "prediction_summary": "Kydyrgali is rooting for Arif but acknowledges both are very good.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Arif Ertem": {
+          "strength": "Very good",
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Corey West": {
+          "strength": "Very good",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Michael Todd",
+      "match": [
+        "Genadi Kvikvinia",
+        "Ferit Osmanli"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Genadi Kvikvinia",
+      "predicted_score": null,
+      "prediction_summary": "Michael agrees Genadi will win if he goes outside, as Ferit is very strong inside.",
+      "predicted_duration": null,
+      "style_conflict": "Outside vs inside pressure",
+      "opinion_about_athletes": {
+        "Genadi Kvikvinia": {
+          "strength": "Strong outside",
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Ferit Osmanli": {
+          "strength": "Very strong inside",
+          "health": null,
+          "previous_match_summary": "Lost to Czar recently"
+        }
+      }
+    },
+    {
+      "speaker": "Kydyrgali Ongarbaev",
+      "match": [
+        "Genadi Kvikvinia",
+        "Ferit Osmanli"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Genadi Kvikvinia",
+      "predicted_score": null,
+      "prediction_summary": "Kydyrgali thinks Genadi will win by going outside.",
+      "predicted_duration": null,
+      "style_conflict": "Outside vs inside pressure",
+      "opinion_about_athletes": {
+        "Genadi Kvikvinia": {
+          "strength": "Strong outside",
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Ferit Osmanli": {
+          "strength": "Strong inside",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Michael Todd",
+      "match": [
+        "Jerry Cadorette",
+        "Georgi Tsvetkov"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Jerry Cadorette",
+      "predicted_score": null,
+      "prediction_summary": "Michael thinks Jerry will win unless Georgi can put him past his shoulder early.",
+      "predicted_duration": null,
+      "style_conflict": "Inside pressure vs shoulder commitment",
+      "opinion_about_athletes": {
+        "Jerry Cadorette": {
+          "strength": "Strong with shoulder commitment",
+          "health": null,
+          "previous_match_summary": "Beat Genadi in a controversial match"
+        },
+        "Georgi Tsvetkov": {
+          "strength": "Needs to put Jerry past his shoulder early",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Michael Todd",
+      "match": [
+        "John Brzenk",
+        "Irakli Zirakashvili"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "John Brzenk",
+      "predicted_score": null,
+      "prediction_summary": "Michael thinks John will win unless Irakli can crack open John's wrist.",
+      "predicted_duration": null,
+      "style_conflict": "Wrist control vs back pressure",
+      "opinion_about_athletes": {
+        "John Brzenk": {
+          "strength": "Legendary wrist control",
+          "health": "Shoulder health is a concern",
+          "previous_match_summary": "Most accomplished arm wrestler"
+        },
+        "Irakli Zirakashvili": {
+          "strength": "Strong back pressure",
+          "health": null,
+          "previous_match_summary": "Similar style to Ongarbaev"
+        }
+      }
+    },
+    {
+      "speaker": "Kydyrgali Ongarbaev",
+      "match": [
+        "John Brzenk",
+        "Irakli Zirakashvili"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "John Brzenk",
+      "predicted_score": null,
+      "prediction_summary": "Kydyrgali thinks John will win but acknowledges Irakli's strength.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "John Brzenk": {
+          "strength": "Legendary",
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Irakli Zirakashvili": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    }
+  ]
+}

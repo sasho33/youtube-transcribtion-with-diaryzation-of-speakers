@@ -1,0 +1,188 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Roman",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Vitalii Laletin",
+    "SPEAKER_04": "Revaz Lutidze"
+  },
+  "date": null,
+  "predictions": {
+    "Vitalii Laletin": {
+      "self_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Vitalii acknowledges Revaz's strength and does not make a clear prediction, stating the table will show the outcome.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Very strong opponent",
+              "health": "Healthy and in good shape",
+              "previous_match_summary": "Revaz was stronger than Dave Chaffee in their match, but it depends on the form of both athletes."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii believes Devon will control the match by taking Ermes' wrist and winning from there.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's endurance and wrist control vs Ermes' explosiveness",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Very smart and experienced",
+              "health": null,
+              "previous_match_summary": "Devon controlled Gennady Kvikvinia in their match."
+            },
+            "Ermes Gasparini": {
+              "strength": "Explosive and strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Denis Cyplenkov",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": null,
+          "predicted_winner": "Denis Cyplenkov",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii thinks if Denis is well-prepared, he will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Denis Cyplenkov": {
+              "strength": "Very well prepared",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii believes Ibragim will dominate Todd Hutchings, especially if the match goes inside.",
+          "predicted_duration": null,
+          "style_conflict": "Ibragim's comfort in hook vs Todd's style",
+          "opinion_about_athletes": {
+            "Ibragim Sagov": {
+              "strength": "In very good shape",
+              "health": null,
+              "previous_match_summary": "Ibragim was stronger in his recent matches at 105 kg."
+            },
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Revaz Lutidze": {
+      "self_predictions": [
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Vitalii Laletin"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Revaz is confident and coming to win, but acknowledges Vitalii's strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Very strong opponent",
+              "health": "Healthy now",
+              "previous_match_summary": "Vitalii beat Revaz in a past competition, but Revaz doesn't recall it officially."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Revaz thinks it's an even match and could go either way.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Denis Cyplenkov",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": null,
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Revaz believes Devon will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Denis Cyplenkov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

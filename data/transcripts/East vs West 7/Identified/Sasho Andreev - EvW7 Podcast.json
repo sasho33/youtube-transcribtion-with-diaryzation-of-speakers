@@ -1,0 +1,117 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Unknown",
+    "SPEAKER_02": "Unknown",
+    "SPEAKER_03": "Christo Del Gaco",
+    "SPEAKER_04": "Sasho Andreev"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Sasho Andreev",
+      "self_predictions": [
+        {
+          "match": [
+            "Sasho Andreev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": "3-0",
+          "prediction_summary": "Sasho expects to win without losing any rounds, focusing on not repeating past mistakes.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Paul Linn is a strong competitor, but Sasho is confident in his own abilities."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Oleg Cherkasov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Sasho did not provide a clear prediction, wishing success to both competitors.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Sasho thinks Arif will win due to his explosiveness.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arif Ertem": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Sasho believes Zurab is in very good shape and stronger in the hook.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rob Vigeant Jr.": {
+              "strength": "Uncomfortable and high hand",
+              "health": null,
+              "previous_match_summary": "Rob has a long arm and uncomfortable hand position for Zurab."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Sasho thinks Irakli has better wrist control and is training with Levan, making him slightly favored.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Good rotation control",
+              "health": null,
+              "previous_match_summary": "Ongarbaev is uncomfortable against inside players."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Strong wrist control",
+              "health": null,
+              "previous_match_summary": "Training with Levan has improved his control."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

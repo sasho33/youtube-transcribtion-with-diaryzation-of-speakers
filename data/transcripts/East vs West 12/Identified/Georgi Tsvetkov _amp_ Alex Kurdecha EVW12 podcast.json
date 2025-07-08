@@ -1,0 +1,636 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Alex Kurdecha",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Unknown",
+    "SPEAKER_04": "Georgi Tsvetkov"
+  },
+  "date": "March 13, 2024",
+  "self_predictions": {
+    "Alex Kurdecha": [
+      {
+        "match": [
+          "Alex Kurdecha",
+          "Georgi Tsvetkov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Alex Kurdecha",
+        "predicted_score": null,
+        "prediction_summary": "Alex believes it will be a tough match but thinks he can win if he controls Georgi's wrist.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs top roll",
+        "opinion_about_athletes": {
+          "Georgi Tsvetkov": {
+            "strength": "Very strong wrist and pronation",
+            "health": "No major issues mentioned",
+            "previous_match_summary": "Endured long matches, notably against Devon Larratt"
+          }
+        }
+      }
+    ],
+    "Georgi Tsvetkov": [
+      {
+        "match": [
+          "Georgi Tsvetkov",
+          "Alex Kurdecha"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Georgi Tsvetkov",
+        "predicted_score": null,
+        "prediction_summary": "Georgi thinks he has an advantage due to Alex's inactivity and his own improved strength.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs top roll",
+        "opinion_about_athletes": {
+          "Alex Kurdecha": {
+            "strength": "Strong wrist and pronation",
+            "health": "No major issues mentioned",
+            "previous_match_summary": "Returning after a long break, but in good shape"
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Alex Kurdecha": [
+      {
+        "match": [
+          "Petro Marharint",
+          "Nugzari Chikadze"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Petro Marharint",
+        "predicted_score": null,
+        "prediction_summary": "Alex thinks Petro is dangerous if in top shape due to his wrist strength.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs hook",
+        "opinion_about_athletes": {
+          "Petro Marharint": {
+            "strength": "Very powerful wrist",
+            "health": "Possibly returning from a break",
+            "previous_match_summary": "Known for beating strong opponents like Rivas"
+          },
+          "Nugzari Chikadze": {
+            "strength": "Impressive in training",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Beat strong opponents in training"
+          }
+        }
+      },
+      {
+        "match": [
+          "Ibragim Sagov",
+          "Sandris Šedis"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Sandris Šedis",
+        "predicted_score": null,
+        "prediction_summary": "Alex believes Sandris is smarter and more well-rounded.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs versatile",
+        "opinion_about_athletes": {
+          "Sandris Šedis": {
+            "strength": "Smart and versatile",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Consistently performs well"
+          },
+          "Ibragim Sagov": {
+            "strength": "Strong pressure",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Serious opponent"
+          }
+        }
+      },
+      {
+        "match": [
+          "Betkili Oniani",
+          "Talgat Aktaev"
+        ],
+        "arm": "Left",
+        "event": "East vs West 12",
+        "predicted_winner": "50-50",
+        "predicted_score": null,
+        "prediction_summary": "Alex thinks it's a toss-up due to both being strong and motivated.",
+        "predicted_duration": null,
+        "style_conflict": "Hook vs hook",
+        "opinion_about_athletes": {
+          "Betkili Oniani": {
+            "strength": "High endurance",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Performs well under pressure"
+          },
+          "Talgat Aktaev": {
+            "strength": "Strong pressure",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Dangerous if he gets a good setup"
+          }
+        }
+      },
+      {
+        "match": [
+          "Artur Makarov",
+          "Mindaugus Tarasaitis"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Mindaugus Tarasaitis",
+        "predicted_score": null,
+        "prediction_summary": "Alex favors Mindaugus after his recent win over Prokopchuk.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs pressure",
+        "opinion_about_athletes": {
+          "Mindaugus Tarasaitis": {
+            "strength": "Improved recently",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Beat Prokopchuk convincingly"
+          },
+          "Artur Makarov": {
+            "strength": "Strong but slightly less favored",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Solid performer"
+          }
+        }
+      },
+      {
+        "match": [
+          "Fia Reisik",
+          "Ekaterina Nikisheva"
+        ],
+        "arm": "Left",
+        "event": "East vs West 12",
+        "predicted_winner": "Fia Reisik",
+        "predicted_score": null,
+        "prediction_summary": "Alex is unsure but leans towards Fia due to Nikisheva's inactivity.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Fia Reisik": {
+            "strength": "No details provided",
+            "health": "No issues mentioned",
+            "previous_match_summary": "No details provided"
+          },
+          "Ekaterina Nikisheva": {
+            "strength": "No details provided",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Inactive recently"
+          }
+        }
+      },
+      {
+        "match": [
+          "Irakli Zirakashvili",
+          "Sasho Andreev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Sasho Andreev",
+        "predicted_score": null,
+        "prediction_summary": "Alex thinks Sasho is slightly favored due to his style and consistency.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs pressure",
+        "opinion_about_athletes": {
+          "Sasho Andreev": {
+            "strength": "Strong against top rollers",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Consistently performs well"
+          },
+          "Irakli Zirakashvili": {
+            "strength": "Improved recently",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Motivated for revenge"
+          }
+        }
+      },
+      {
+        "match": [
+          "Leonidas Arkona",
+          "Alexsandr Beziazykov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Alexsandr Beziazykov",
+        "predicted_score": null,
+        "prediction_summary": "Alex favors Skuboy due to experience and recent improvements.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs pressure",
+        "opinion_about_athletes": {
+          "Alexsandr Beziazykov": {
+            "strength": "Experienced and improved",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Strong recent performances"
+          },
+          "Leonidas Arkona": {
+            "strength": "Improved but less experienced",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Good performance against Larry Wheels"
+          }
+        }
+      },
+      {
+        "match": [
+          "Stoyan Golemanov",
+          "Brandon Ellsessor"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Stoyan Golemanov",
+        "predicted_score": null,
+        "prediction_summary": "Alex believes Stoyan is in the best shape of his life and will win.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs pressure",
+        "opinion_about_athletes": {
+          "Stoyan Golemanov": {
+            "strength": "Incredible top roll ability",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Recently very strong"
+          },
+          "Brandon Ellsessor": {
+            "strength": "No details provided",
+            "health": "No issues mentioned",
+            "previous_match_summary": "No details provided"
+          }
+        }
+      },
+      {
+        "match": [
+          "Michael Todd",
+          "Frank Lamparelli"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "50-50",
+        "predicted_score": null,
+        "prediction_summary": "Alex thinks it's even, depending on Michael's shape.",
+        "predicted_duration": null,
+        "style_conflict": "King's move vs pressure",
+        "opinion_about_athletes": {
+          "Michael Todd": {
+            "strength": "Durable and tricky",
+            "health": "Healed from injuries",
+            "previous_match_summary": "Recently beat Pablo"
+          },
+          "Frank Lamparelli": {
+            "strength": "Strong pressure",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Well-prepared"
+          }
+        }
+      },
+      {
+        "match": [
+          "Davit Samushia",
+          "Nurdaulet Aidarkhan"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Davit Samushia",
+        "predicted_score": null,
+        "prediction_summary": "Alex favors Samushia due to his experience and endurance.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs pressure",
+        "opinion_about_athletes": {
+          "Davit Samushia": {
+            "strength": "Experienced and durable",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Defending champion"
+          },
+          "Nurdaulet Aidarkhan": {
+            "strength": "Strong hit",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Impressive win over Vala"
+          }
+        }
+      },
+      {
+        "match": [
+          "Alizhan Muratov",
+          "Ermes Gasparini"
+        ],
+        "arm": "Left",
+        "event": "East vs West 12",
+        "predicted_winner": "Ermes Gasparini",
+        "predicted_score": null,
+        "prediction_summary": "Alex believes Ermes can win if he controls the setup and uses his top roll.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs hook",
+        "opinion_about_athletes": {
+          "Ermes Gasparini": {
+            "strength": "Improved recently",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Strong top roll"
+          },
+          "Alizhan Muratov": {
+            "strength": "Very strong",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Beat super heavyweights"
+          }
+        }
+      },
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Devon Larratt"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Levan Saginashvili",
+        "predicted_score": null,
+        "prediction_summary": "Alex thinks Levan is the favorite but Devon has improved and could make it interesting.",
+        "predicted_duration": null,
+        "style_conflict": "Power vs technique",
+        "opinion_about_athletes": {
+          "Levan Saginashvili": {
+            "strength": "Strongest ever",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Dominant in recent matches"
+          },
+          "Devon Larratt": {
+            "strength": "Improved wrist and technique",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Better prepared than last match"
+          }
+        }
+      }
+    ],
+    "Georgi Tsvetkov": [
+      {
+        "match": [
+          "Petro Marharint",
+          "Nugzari Chikadze"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Nugzari Chikadze",
+        "predicted_score": null,
+        "prediction_summary": "Georgi favors Nugzari due to his training intensity and recent performances.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs hook",
+        "opinion_about_athletes": {
+          "Nugzari Chikadze": {
+            "strength": "Crazy training intensity",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Beat strong opponents in training"
+          },
+          "Petro Marharint": {
+            "strength": "Strong but returning from break",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Known for wrist strength"
+          }
+        }
+      },
+      {
+        "match": [
+          "Ibragim Sagov",
+          "Sandris Šedis"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Sandris Šedis",
+        "predicted_score": null,
+        "prediction_summary": "Georgi thinks Sandris is smarter and more versatile.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs versatile",
+        "opinion_about_athletes": {
+          "Sandris Šedis": {
+            "strength": "Smart and versatile",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Consistently performs well"
+          },
+          "Ibragim Sagov": {
+            "strength": "Strong pressure",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Serious opponent"
+          }
+        }
+      },
+      {
+        "match": [
+          "Betkili Oniani",
+          "Talgat Aktaev"
+        ],
+        "arm": "Left",
+        "event": "East vs West 12",
+        "predicted_winner": "Betkili Oniani",
+        "predicted_score": null,
+        "prediction_summary": "Georgi thinks Oniani has better endurance.",
+        "predicted_duration": null,
+        "style_conflict": "Hook vs hook",
+        "opinion_about_athletes": {
+          "Betkili Oniani": {
+            "strength": "High endurance",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Performs well under pressure"
+          },
+          "Talgat Aktaev": {
+            "strength": "Strong pressure",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Dangerous if he gets a good setup"
+          }
+        }
+      },
+      {
+        "match": [
+          "Artur Makarov",
+          "Mindaugus Tarasaitis"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Mindaugus Tarasaitis",
+        "predicted_score": null,
+        "prediction_summary": "Georgi favors Mindaugus after his recent win over Prokopchuk.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs pressure",
+        "opinion_about_athletes": {
+          "Mindaugus Tarasaitis": {
+            "strength": "Improved recently",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Beat Prokopchuk convincingly"
+          },
+          "Artur Makarov": {
+            "strength": "Strong but slightly less favored",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Solid performer"
+          }
+        }
+      },
+      {
+        "match": [
+          "Irakli Zirakashvili",
+          "Sasho Andreev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Sasho Andreev",
+        "predicted_score": null,
+        "prediction_summary": "Georgi thinks Sasho is favored due to his style and consistency.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs pressure",
+        "opinion_about_athletes": {
+          "Sasho Andreev": {
+            "strength": "Strong against top rollers",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Consistently performs well"
+          },
+          "Irakli Zirakashvili": {
+            "strength": "Improved recently",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Motivated for revenge"
+          }
+        }
+      },
+      {
+        "match": [
+          "Leonidas Arkona",
+          "Alexsandr Beziazykov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Alexsandr Beziazykov",
+        "predicted_score": null,
+        "prediction_summary": "Georgi favors Skuboy due to experience.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs pressure",
+        "opinion_about_athletes": {
+          "Alexsandr Beziazykov": {
+            "strength": "Experienced",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Strong recent performances"
+          },
+          "Leonidas Arkona": {
+            "strength": "Improved but less experienced",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Good performance against Larry Wheels"
+          }
+        }
+      },
+      {
+        "match": [
+          "Stoyan Golemanov",
+          "Brandon Ellsessor"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Stoyan Golemanov",
+        "predicted_score": null,
+        "prediction_summary": "Georgi thinks Stoyan is in great shape and will win.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs pressure",
+        "opinion_about_athletes": {
+          "Stoyan Golemanov": {
+            "strength": "Incredible top roll ability",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Recently very strong"
+          },
+          "Brandon Ellsessor": {
+            "strength": "No details provided",
+            "health": "No issues mentioned",
+            "previous_match_summary": "No details provided"
+          }
+        }
+      },
+      {
+        "match": [
+          "Michael Todd",
+          "Frank Lamparelli"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "50-50",
+        "predicted_score": null,
+        "prediction_summary": "Georgi thinks it's even, depending on execution.",
+        "predicted_duration": null,
+        "style_conflict": "King's move vs pressure",
+        "opinion_about_athletes": {
+          "Michael Todd": {
+            "strength": "Durable and tricky",
+            "health": "Healed from injuries",
+            "previous_match_summary": "Recently beat Pablo"
+          },
+          "Frank Lamparelli": {
+            "strength": "Strong pressure",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Well-prepared"
+          }
+        }
+      },
+      {
+        "match": [
+          "Davit Samushia",
+          "Nurdaulet Aidarkhan"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Davit Samushia",
+        "predicted_score": null,
+        "prediction_summary": "Georgi thinks Samushia will win with endurance.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs pressure",
+        "opinion_about_athletes": {
+          "Davit Samushia": {
+            "strength": "Experienced and durable",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Defending champion"
+          },
+          "Nurdaulet Aidarkhan": {
+            "strength": "Strong hit",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Impressive win over Vala"
+          }
+        }
+      },
+      {
+        "match": [
+          "Alizhan Muratov",
+          "Ermes Gasparini"
+        ],
+        "arm": "Left",
+        "event": "East vs West 12",
+        "predicted_winner": "Ermes Gasparini",
+        "predicted_score": null,
+        "prediction_summary": "Georgi thinks Ermes can top roll Alizhan.",
+        "predicted_duration": null,
+        "style_conflict": "Top roll vs hook",
+        "opinion_about_athletes": {
+          "Ermes Gasparini": {
+            "strength": "Strong top roll",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Improved recently"
+          },
+          "Alizhan Muratov": {
+            "strength": "Very strong",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Beat super heavyweights"
+          }
+        }
+      },
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Devon Larratt"
+        ],
+        "arm": "Right",
+        "event": "East vs West 12",
+        "predicted_winner": "Levan Saginashvili",
+        "predicted_score": null,
+        "prediction_summary": "Georgi thinks Levan is the strongest ever but gives Devon a 40% chance if he stops Levan's wrist.",
+        "predicted_duration": null,
+        "style_conflict": "Power vs technique",
+        "opinion_about_athletes": {
+          "Levan Saginashvili": {
+            "strength": "Strongest ever",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Dominant in recent matches"
+          },
+          "Devon Larratt": {
+            "strength": "Improved wrist and endurance",
+            "health": "No issues mentioned",
+            "previous_match_summary": "Better prepared than last match"
+          }
+        }
+      }
+    ]
+  }
+}

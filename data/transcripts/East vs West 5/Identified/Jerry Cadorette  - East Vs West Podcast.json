@@ -1,0 +1,118 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Jerry Cadorette",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_03": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Jerry Cadorette",
+      "self_predictions": [
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": "3-0 or 3-1",
+          "prediction_summary": "Jerry believes he will win against Ermes, citing his experience against top rollers and his training focus. He predicts a tough match but expects to come out victorious.",
+          "predicted_duration": "War-like, not quick pins",
+          "style_conflict": "Top roll vs shoulder pressure",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong, but Jerry believes he can overpower him",
+              "health": "Ermes claims to be at 85% now but will be 100% for the match",
+              "previous_match_summary": "Ermes has been performing well but Jerry thinks his style is predictable"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "Likely 3-0 or 3-1",
+          "prediction_summary": "Jerry thinks Prudnik will win against Michael Todd, especially if Michael is at 250 lbs. He believes Prudnik's quickness and strength will be too much for Michael.",
+          "predicted_duration": "Could be quick if Prudnik dominates",
+          "style_conflict": "King's move vs top roll",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Strong defensively but may struggle at lower weight",
+              "health": "Unknown",
+              "previous_match_summary": "Michael has had recent losses and barely beat Todd Hutchings"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Very strong and quick",
+              "health": "Unknown",
+              "previous_match_summary": "Prudnik has been impressive in recent matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "Likely 3-1 or 3-0",
+          "prediction_summary": "Jerry believes Morozov will win by bringing Revaz down to a hook and overpowering him.",
+          "predicted_duration": "Competitive but Morozov favored",
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Very strong and well-rounded",
+              "health": "Unknown",
+              "previous_match_summary": "Morozov has been training non-stop and is in great shape"
+            },
+            "Revaz Lutidze": {
+              "strength": "Strong but returning after a long break",
+              "health": "Unknown",
+              "previous_match_summary": "Revaz is taking arm wrestling seriously for the first time in years"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "No clear prediction",
+          "predicted_score": "Unknown",
+          "prediction_summary": "Engin mentions the match but does not provide a clear prediction. He seems to respect both athletes.",
+          "predicted_duration": "Unknown",
+          "style_conflict": "Unknown",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Respected veteran",
+              "health": "Resting and healing",
+              "previous_match_summary": "Devon is preparing for future matches"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Strong and quick",
+              "health": "Unknown",
+              "previous_match_summary": "Prudnik has been performing well"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

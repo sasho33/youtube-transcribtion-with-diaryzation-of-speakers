@@ -1,0 +1,268 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Translator (Tornike)",
+    "SPEAKER_01": "Levan Saginashvili",
+    "SPEAKER_02": "Host (Engin Terzi)",
+    "SPEAKER_03": "Khan (Guest)",
+    "SPEAKER_04": "Host (Engin Terzi)"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Levan Saginashvili",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Levan thinks Procopciuk is the favorite due to his bicep strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Very strong bicep",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Doug Erlich": {
+              "strength": "Good against hook pullers",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Levan is unsure about this match; many think Muratov is the favorite, but Merritt is a super heavyweight.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Strong current shape",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kody Merritt": {
+              "strength": "Super heavyweight",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Levan predicts Zurab will win, especially looking at his current shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "In great shape",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Rob Vigeant Jr.": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Bacho Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan thinks Bacho is a freak for armwrestling at his age and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bacho Saginashvili": {
+              "strength": "Freak for armwrestling at his age",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Adam Wawrzynski": {
+              "strength": "Impressive technique",
+              "health": null,
+              "previous_match_summary": "Pleasantly impressed by his last match."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Levan thinks Laletin's left arm is very strong, possibly stronger than his right, and will win unless Tobias can hook him.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Very strong left arm",
+              "health": null,
+              "previous_match_summary": "Close to his best in the left arm."
+            },
+            "Tobias Sporrong": {
+              "strength": "Strong left arm",
+              "health": null,
+              "previous_match_summary": "Easily took Morozov's wrist in a previous match."
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": "65% chance for Arif",
+          "prediction_summary": "Levan thinks Arif is very strong in the hook and advises against hooking him. If Dzeranov can top roll, there's a chance for a battle.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. top roll",
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Needs to top roll to win",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Arif Ertem": {
+              "strength": "Very strong in the hook",
+              "health": null,
+              "previous_match_summary": "Difficult to defeat in the hook."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Levan thinks Samushia is a robot in great shape and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Robot-like in great shape",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Brandon Ellsessor": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Levan thinks it's a 50-50 match; Revaz is in great shape, but Chaffee is also preparing and healthy.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "In great shape",
+              "health": null,
+              "previous_match_summary": "Moving big weights at the moment."
+            },
+            "Dave Chaffee": {
+              "strength": "Preparing and healthy",
+              "health": null,
+              "previous_match_summary": "Not heard from for a while, likely in good shape."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Levan thinks Ongarbaev is slightly favored due to his natural size and strength, but Irakli will fight hard as the underdog.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Naturally bigger frame, rock-solid joints",
+              "health": null,
+              "previous_match_summary": "Impressive victories, including against Kurdecha."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Strong will and spirit",
+              "health": null,
+              "previous_match_summary": "Won previous matches with willpower."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Levan thinks it's a 50-50 match; Genadi's endurance and smart tactics could give him the edge, but Devon is also very strong.",
+          "predicted_duration": "Long and hard battle",
+          "style_conflict": "Pronator control vs. top roll",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong endurance and smart tactics",
+              "health": null,
+              "previous_match_summary": "Can deliver strong hits and presses."
+            },
+            "Devon Larratt": {
+              "strength": "Very strong pronator",
+              "health": null,
+              "previous_match_summary": "Smart and adaptable on the table."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

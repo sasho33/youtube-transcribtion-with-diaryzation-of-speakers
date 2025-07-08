@@ -1,0 +1,287 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Unknown",
+    "SPEAKER_02": "Unknown",
+    "SPEAKER_03": "Evgeny Prudnik",
+    "SPEAKER_04": "Todd Hutchings"
+  },
+  "date": null,
+  "self_predictions": {
+    "Todd Hutchings": [
+      {
+        "match": [
+          "Todd Hutchings",
+          "Evgeny Prudnik"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Todd Hutchings",
+        "predicted_score": null,
+        "prediction_summary": "Todd believes he is the one to stop Prudnik and destroy his dreams, indicating confidence in his ability to win.",
+        "predicted_duration": null,
+        "style_conflict": "Todd plans to use his hook and side pressure to counter Prudnik's versatility.",
+        "opinion_about_athletes": {
+          "Evgeny Prudnik": {
+            "strength": "Prudnik has incredible hand control and versatility, similar to John Brzenk.",
+            "health": null,
+            "previous_match_summary": "Prudnik dominated Todd in their 2018 match, but Todd believes he is better prepared now."
+          }
+        }
+      }
+    ],
+    "Evgeny Prudnik": [
+      {
+        "match": [
+          "Evgeny Prudnik",
+          "Todd Hutchings"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Evgeny Prudnik",
+        "predicted_score": null,
+        "prediction_summary": "Prudnik plans to destroy Todd Hutchings, indicating confidence in his ability to win, though he acknowledges it will be a hard match.",
+        "predicted_duration": null,
+        "style_conflict": "Prudnik will try to control the match with his hand and adapt as needed.",
+        "opinion_about_athletes": {
+          "Todd Hutchings": {
+            "strength": "Todd's hook and side pressure are very dangerous.",
+            "health": null,
+            "previous_match_summary": "Todd has improved since their last match and is now bigger and stronger."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Todd Hutchings": [
+      {
+        "match": [
+          "John Brzenk",
+          "Kydyrgali Ongarbaev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "John Brzenk",
+        "predicted_score": null,
+        "prediction_summary": "Todd believes John's versatility and experience give him the edge, though Ongarbaev could be dangerous if he can force John into awkward positions.",
+        "predicted_duration": null,
+        "style_conflict": "John's ability to adapt and win from any position will be key.",
+        "opinion_about_athletes": {
+          "John Brzenk": {
+            "strength": "John's depth and versatility are unmatched.",
+            "health": null,
+            "previous_match_summary": "John has a history of winning even when outmatched."
+          },
+          "Kydyrgali Ongarbaev": {
+            "strength": "Ongarbaev is a well-rounded arm wrestler but may lack the size to overpower John.",
+            "health": null,
+            "previous_match_summary": "Ongarbaev has shown quick, snappy top rolls but may struggle against John's experience."
+          }
+        }
+      },
+      {
+        "match": [
+          "Chance Shaw",
+          "Zurab Tavberidze"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Zurab Tavberidze",
+        "predicted_score": null,
+        "prediction_summary": "Todd thinks Zurab can win if the match goes into the straps, where his power will be decisive.",
+        "predicted_duration": null,
+        "style_conflict": "Chance's hand control versus Zurab's power in the straps.",
+        "opinion_about_athletes": {
+          "Chance Shaw": {
+            "strength": "Chance has good hand control but lacks experience against elite pullers.",
+            "health": null,
+            "previous_match_summary": "Chance has been improving but still learning at the elite level."
+          },
+          "Zurab Tavberidze": {
+            "strength": "Zurab has immense power and can win even without full hand control.",
+            "health": null,
+            "previous_match_summary": "Zurab's power has been effective in previous matches."
+          }
+        }
+      },
+      {
+        "match": [
+          "Revaz Lutidze",
+          "Derek Smith"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Revaz Lutidze",
+        "predicted_score": null,
+        "prediction_summary": "Todd considers Revaz the favorite due to his dominant performance against Michael Todd.",
+        "predicted_duration": null,
+        "style_conflict": "Revaz's power and control versus Derek's potential.",
+        "opinion_about_athletes": {
+          "Revaz Lutidze": {
+            "strength": "Revaz is already a world elite opponent with impressive power.",
+            "health": null,
+            "previous_match_summary": "Revaz comfortably beat Michael Todd after returning from a break."
+          },
+          "Derek Smith": {
+            "strength": "Derek is trying to reach the level Revaz is already at.",
+            "health": null,
+            "previous_match_summary": "Derek has shown potential but may not be ready for Revaz."
+          }
+        }
+      },
+      {
+        "match": [
+          "Irakli Zirakashvili",
+          "Krasimir Kostadinov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Todd believes the match depends on strategy and could go either way.",
+        "predicted_duration": null,
+        "style_conflict": "Irakli's top roll versus Krasimir's hook.",
+        "opinion_about_athletes": {
+          "Irakli Zirakashvili": {
+            "strength": "Irakli has great power and potential but is still rough around the edges.",
+            "health": null,
+            "previous_match_summary": "Irakli beat Marcio but lost to Todd recently."
+          },
+          "Krasimir Kostadinov": {
+            "strength": "Krasimir is polished and experienced.",
+            "health": null,
+            "previous_match_summary": "Krasimir has faced top competition like Corey and Arif."
+          }
+        }
+      },
+      {
+        "match": [
+          "Artyom Morozov",
+          "Dave Chaffee"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Dave Chaffee",
+        "predicted_score": null,
+        "prediction_summary": "Todd thinks Dave's power and endurance will be too much for Morozov.",
+        "predicted_duration": null,
+        "style_conflict": "Dave's unrelenting power versus Morozov's technique.",
+        "opinion_about_athletes": {
+          "Artyom Morozov": {
+            "strength": "Morozov is tough and skilled but may lack the power to beat Dave.",
+            "health": null,
+            "previous_match_summary": "Morozov has shown promise but faces a big challenge in Dave."
+          },
+          "Dave Chaffee": {
+            "strength": "Dave's power from awkward positions is unmatched.",
+            "health": null,
+            "previous_match_summary": "Dave has dominated many top pullers with his raw power."
+          }
+        }
+      },
+      {
+        "match": [
+          "Jerry Cadorette",
+          "Genadi Kvikvinia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Genadi Kvikvinia",
+        "predicted_score": null,
+        "prediction_summary": "Todd believes Genadi's awareness and power will be too much for Jerry.",
+        "predicted_duration": null,
+        "style_conflict": "Genadi's ability to counter Jerry's style.",
+        "opinion_about_athletes": {
+          "Jerry Cadorette": {
+            "strength": "Jerry is strong but may be predictable.",
+            "health": null,
+            "previous_match_summary": "Jerry has been active but faces a tough opponent in Genadi."
+          },
+          "Genadi Kvikvinia": {
+            "strength": "Genadi is very strong and well-prepared.",
+            "health": null,
+            "previous_match_summary": "Genadi has shown he can handle top competition."
+          }
+        }
+      }
+    ],
+    "Evgeny Prudnik": [
+      {
+        "match": [
+          "John Brzenk",
+          "Kydyrgali Ongarbaev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "John Brzenk",
+        "predicted_score": null,
+        "prediction_summary": "Prudnik thinks John will win if they are in equal shape, but Ongarbaev could win if he is in better shape.",
+        "predicted_duration": null,
+        "style_conflict": "John's experience and ability to generate pressure from any position.",
+        "opinion_about_athletes": {
+          "John Brzenk": {
+            "strength": "John's ability to adapt and win is unparalleled.",
+            "health": null,
+            "previous_match_summary": "John has a history of winning even when outmatched."
+          },
+          "Kydyrgali Ongarbaev": {
+            "strength": "Ongarbaev is skilled but may lack the power to overcome John.",
+            "health": null,
+            "previous_match_summary": "Ongarbaev has shown quick top rolls but may struggle against John's experience."
+          }
+        }
+      },
+      {
+        "match": [
+          "Chance Shaw",
+          "Zurab Tavberidze"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Zurab Tavberidze",
+        "predicted_score": null,
+        "prediction_summary": "Prudnik believes Zurab's size and strength will be decisive.",
+        "predicted_duration": null,
+        "style_conflict": "Zurab's power versus Chance's hand control.",
+        "opinion_about_athletes": {
+          "Chance Shaw": {
+            "strength": "Chance has good hand control but may lack the power to stop Zurab.",
+            "health": null,
+            "previous_match_summary": "Chance has been improving but faces a tough opponent in Zurab."
+          },
+          "Zurab Tavberidze": {
+            "strength": "Zurab is very strong and can win even without full hand control.",
+            "health": null,
+            "previous_match_summary": "Zurab's power has been effective in previous matches."
+          }
+        }
+      },
+      {
+        "match": [
+          "Bozhidar Simeonov",
+          "Davit Samushia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Bozhidar Simeonov",
+        "predicted_score": null,
+        "prediction_summary": "Prudnik thinks Bozhidar is the favorite in this match.",
+        "predicted_duration": null,
+        "style_conflict": "Bozhidar's strength versus Samushia's technique.",
+        "opinion_about_athletes": {
+          "Bozhidar Simeonov": {
+            "strength": "Bozhidar is a world champion and very strong.",
+            "health": null,
+            "previous_match_summary": "Bozhidar has shown he can compete at the highest level."
+          },
+          "Davit Samushia": {
+            "strength": "Samushia is skilled but may lack the power to beat Bozhidar.",
+            "health": null,
+            "previous_match_summary": "Samushia has faced tough competition but may struggle here."
+          }
+        }
+      }
+    ]
+  }
+}

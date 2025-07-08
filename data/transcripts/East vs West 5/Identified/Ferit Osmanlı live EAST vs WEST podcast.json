@@ -1,0 +1,146 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Ferit Osmanlı",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Ferit Osmanlı",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ferit thinks Ermes will beat Morozov, especially after seeing Morozov's match against Dadikyan where Dadikyan took Morozov's wrist without a strap. He believes Ermes is bigger and more explosive.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Big and explosive",
+              "health": null,
+              "previous_match_summary": "Controlled matches, good wrist fight"
+            },
+            "Artyom Morozov": {
+              "strength": "Good size and structure",
+              "health": null,
+              "previous_match_summary": "Struggled against Dadikyan's wrist control"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Ferit thinks Petrenko has more chance to win unless John is in very, very good shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experienced but older",
+              "health": null,
+              "previous_match_summary": "Needs to be in top shape to compete"
+            },
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Haydar Gildil",
+            "Cobra Rhodes"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Ferit thinks it will be an interesting match. If Cobra top-rolls, he wins; if Haydar hooks, he wins. It depends on who can execute their style better.",
+          "predicted_duration": null,
+          "style_conflict": "Top-roll vs Hook",
+          "opinion_about_athletes": {
+            "Haydar Gildil": {
+              "strength": "Strong hook",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Cobra Rhodes": {
+              "strength": "Strong top-roll",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Ferit thinks Devon is the favorite due to his experience and current form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Experienced, top 5 in the world",
+              "health": null,
+              "previous_match_summary": "Good shape"
+            },
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Ermes will win if he can take Dave to the losing side quickly. If the match stops in the middle, Dave might have the advantage.",
+          "predicted_duration": null,
+          "style_conflict": "Quick pin vs endurance",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Fast and controlled",
+              "health": null,
+              "previous_match_summary": "Good wrist fight"
+            },
+            "Dave Chaffee": {
+              "strength": "Endurance",
+              "health": null,
+              "previous_match_summary": "Strong in the center"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

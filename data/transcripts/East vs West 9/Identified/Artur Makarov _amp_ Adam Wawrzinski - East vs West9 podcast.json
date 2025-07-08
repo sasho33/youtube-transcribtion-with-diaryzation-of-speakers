@@ -1,0 +1,264 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Adam Wawrzynski",
+    "SPEAKER_01": "Artur Makarov",
+    "SPEAKER_02": "Paulo",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "self_predictions": {
+    "Adam Wawrzynski": [
+      {
+        "match": [
+          "Adam Wawrzynski",
+          "Artur Makarov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 9",
+        "predicted_winner": null,
+        "predicted_score": "Not 3-0",
+        "prediction_summary": "Expects a close match with potential for endurance to play a key role.",
+        "predicted_duration": null,
+        "style_conflict": "Inside game with different angles",
+        "opinion_about_athletes": {
+          "Artur Makarov": {
+            "strength": "Very strong forearm and hand",
+            "health": null,
+            "previous_match_summary": "Noted for being smaller but very strong for his size"
+          }
+        }
+      }
+    ],
+    "Artur Makarov": [
+      {
+        "match": [
+          "Adam Wawrzynski",
+          "Artur Makarov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 9",
+        "predicted_winner": null,
+        "predicted_score": "Not 3-0",
+        "prediction_summary": "Considers the match 50-50, acknowledges Adam as a serious opponent.",
+        "predicted_duration": null,
+        "style_conflict": "Inside game",
+        "opinion_about_athletes": {
+          "Adam Wawrzynski": {
+            "strength": "Serious opponent, strong",
+            "health": null,
+            "previous_match_summary": "Dominant performance against Bojidar"
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Adam Wawrzynski": [
+      {
+        "match": [
+          "Vitalii Laletin",
+          "Revaz Lutidze"
+        ],
+        "arm": "Right",
+        "event": "East vs West 9",
+        "predicted_winner": "Revaz Lutidze",
+        "predicted_score": null,
+        "prediction_summary": "Thinks Revaz is on an upward trajectory and will win the top game.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Vitalii Laletin": {
+            "strength": "Better top roll abilities",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Revaz Lutidze": {
+            "strength": "More power overall",
+            "health": null,
+            "previous_match_summary": "Shocked by his performance against Dave Chaffee"
+          }
+        }
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 9",
+        "predicted_winner": "Ermes Gasparini",
+        "predicted_score": null,
+        "prediction_summary": "Believes Ermes has the tools and horsepower to finish the match, especially if it stops on his side of the table.",
+        "predicted_duration": null,
+        "style_conflict": "Outside move",
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Endurance",
+            "health": null,
+            "previous_match_summary": "Lost to Gennady in a similar fashion"
+          },
+          "Ermes Gasparini": {
+            "strength": "Powerful, immaculate top roll",
+            "health": null,
+            "previous_match_summary": "Proven to be one of the top guys currently"
+          }
+        }
+      }
+    ],
+    "Artur Makarov": [
+      {
+        "match": [
+          "Vitalii Laletin",
+          "Revaz Lutidze"
+        ],
+        "arm": "Right",
+        "event": "East vs West 9",
+        "predicted_winner": "Vitalii Laletin",
+        "predicted_score": null,
+        "prediction_summary": "Gives slight edge to Vitalii, hopes Georgii brings good form.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Vitalii Laletin": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": "Saw him at AMC, had better form before"
+          },
+          "Revaz Lutidze": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "David Samushia",
+          "Vala Ichqiti"
+        ],
+        "arm": "Right",
+        "event": "East vs West 9",
+        "predicted_winner": "Vala Ichqiti",
+        "predicted_score": null,
+        "prediction_summary": "Believes Vala will be able to twist David, despite David's exhaustion from travel.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "David Samushia": {
+            "strength": null,
+            "health": "Exhausted from travel",
+            "previous_match_summary": null
+          },
+          "Vala Ichqiti": {
+            "strength": "Gave good fight to Sarmat Degurov",
+            "health": null,
+            "previous_match_summary": "Competed well against Sarmat Degurov"
+          }
+        }
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 9",
+        "predicted_winner": "Ermes Gasparini",
+        "predicted_score": null,
+        "prediction_summary": "Assumes Ermes will be the favorite but hopes for a long-term struggle from Larratt.",
+        "predicted_duration": null,
+        "style_conflict": "Long-term struggle",
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Ermes Gasparini": {
+            "strength": "Favorite",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ],
+    "Paulo": [
+      {
+        "match": [
+          "Paul Linn",
+          "Ruslan Babaiev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 9",
+        "predicted_winner": "Paul Linn",
+        "predicted_score": null,
+        "prediction_summary": "Thinks Paul will win if he brings the form he had in 2010, but unsure of Ruslan's current form.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Paul Linn": {
+            "strength": "Very strong",
+            "health": null,
+            "previous_match_summary": "Dominant in 2010"
+          },
+          "Ruslan Babaiev": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": "Not seen in serious competition for about 10 years"
+          }
+        }
+      },
+      {
+        "match": [
+          "Todd Hutchings",
+          "Ibragim Sagov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 9",
+        "predicted_winner": "Todd Hutchings",
+        "predicted_score": null,
+        "prediction_summary": "Would never bet against Todd Hutchings, believes he will find a way to win.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Todd Hutchings": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": "Known for his ability to win"
+          },
+          "Ibragim Sagov": {
+            "strength": "Very good shoulder pressure guy",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 9",
+        "predicted_winner": "Devon Larratt",
+        "predicted_score": "60-40 or 55-45",
+        "prediction_summary": "Gives edge to Devon due to his wrist strength and endurance, but warns Devon not to be playful like against Gennady.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Wrist strength, endurance",
+            "health": null,
+            "previous_match_summary": "Lost to Gennady when playful"
+          },
+          "Ermes Gasparini": {
+            "strength": "Great guy, future of arm wrestling",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ]
+  }
+}

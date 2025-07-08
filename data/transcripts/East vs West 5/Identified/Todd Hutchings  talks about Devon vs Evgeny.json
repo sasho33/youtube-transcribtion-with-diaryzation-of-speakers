@@ -1,0 +1,190 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_03": "Todd Hutchings"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Todd Hutchings",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "3-2",
+          "prediction_summary": "Devon is the favorite in the first match due to his unique pulling style and hand control, but Prudnik could win a rematch after learning from the first encounter.",
+          "predicted_duration": "Long matches",
+          "style_conflict": "Devon's endurance vs Prudnik's speed and power",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Endurance and hand control",
+              "health": "Recovered from previous injuries",
+              "previous_match_summary": "Prepared for Levan, showed incredible endurance"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Speed and versatility",
+              "health": "Preparing for long matches",
+              "previous_match_summary": "Prepared for Michael Todd, has good endurance"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "3-1",
+          "prediction_summary": "Dave Chaffee has the horsepower to overpower Ermes if he prepares for Ermes' speed.",
+          "predicted_duration": "Short to medium matches",
+          "style_conflict": "Dave's power vs Ermes' speed",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Speed and explosiveness",
+              "health": "Good shape",
+              "previous_match_summary": "Fast and technical"
+            },
+            "Dave Chaffee": {
+              "strength": "Power and endurance",
+              "health": "Runs hot and cold",
+              "previous_match_summary": "Can dominate if he hits hard"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "3-0",
+          "prediction_summary": "John's experience and adaptability will give him the edge over Oleg.",
+          "predicted_duration": "Long matches",
+          "style_conflict": "John's versatility vs Oleg's knuckles high style",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experience and adaptability",
+              "health": "Recovered from previous matches",
+              "previous_match_summary": "Fought hard in long matches"
+            },
+            "Oleg Petrenko": {
+              "strength": "Knuckles high style",
+              "health": "Stronger than in previous matches",
+              "previous_match_summary": "Improved strength"
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Sandris Sedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": "3-2",
+          "prediction_summary": "Matt needs to pull more backwards to avoid Sandris' hand control.",
+          "predicted_duration": "Medium matches",
+          "style_conflict": "Matt's speed vs Sandris' versatility",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Speed and explosiveness",
+              "health": "Ready to compete",
+              "previous_match_summary": "Relies on speed and knuckles high"
+            },
+            "Sandris Sedis": {
+              "strength": "Versatility and hand control",
+              "health": "Good shape",
+              "previous_match_summary": "Strong in hook and top roll"
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Irakli Gamtenadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": "3-2",
+          "prediction_summary": "Paul's explosiveness can win if he gets pronation in the hook.",
+          "predicted_duration": "Long matches",
+          "style_conflict": "Paul's explosiveness vs Irakli's unorthodox hook",
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Explosiveness",
+              "health": "Ready to compete",
+              "previous_match_summary": "Fast and strong"
+            },
+            "Irakli Gamtenadze": {
+              "strength": "Unorthodox hook style",
+              "health": "Good shape",
+              "previous_match_summary": "Strong in hook"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ryan Bowen",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": "3-1",
+          "prediction_summary": "Zurab's strength and hook style will be tough for Ryan to handle.",
+          "predicted_duration": "Medium matches",
+          "style_conflict": "Zurab's hook vs Ryan's technical style",
+          "opinion_about_athletes": {
+            "Ryan Bowen": {
+              "strength": "Technical",
+              "health": "Ready to compete",
+              "previous_match_summary": "Technical but lacks power"
+            },
+            "Zurab Tavberidze": {
+              "strength": "Hook and power",
+              "health": "Good shape",
+              "previous_match_summary": "Strong in hook"
+            }
+          }
+        },
+        {
+          "match": [
+            "Justin Bishop",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": "3-2",
+          "prediction_summary": "Justin needs to be fast and powerful to avoid Mindaugas' control.",
+          "predicted_duration": "Medium matches",
+          "style_conflict": "Justin's power vs Mindaugas' control",
+          "opinion_about_athletes": {
+            "Justin Bishop": {
+              "strength": "Power",
+              "health": "Recovered from injuries",
+              "previous_match_summary": "Strong but inactive"
+            },
+            "Mindaugas Tarasaitis": {
+              "strength": "Control",
+              "health": "Good shape",
+              "previous_match_summary": "Strong in control"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

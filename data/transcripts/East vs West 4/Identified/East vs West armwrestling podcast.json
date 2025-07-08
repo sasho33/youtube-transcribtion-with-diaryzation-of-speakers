@@ -1,0 +1,127 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Paolo",
+    "SPEAKER_02": "Herman Stevens",
+    "SPEAKER_03": "John",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Engin Terzi",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Engin mentions that Jerry is very motivated but thinks Genadi has the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Very strong and motivated",
+              "health": null,
+              "previous_match_summary": "Recently active and confident"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Strong and experienced",
+              "health": null,
+              "previous_match_summary": "Consistent performer"
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Zurab will win but acknowledges Rob's potential to surprise.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong and confident",
+              "health": null,
+              "previous_match_summary": "Recent performances have been impressive"
+            },
+            "Rob Vigeant": {
+              "strength": "Strong when motivated",
+              "health": null,
+              "previous_match_summary": "Can be a wall when in top form"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Herman Stevens",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Herman thinks Jerry is very motivated and could win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Very strong and motivated",
+              "health": null,
+              "previous_match_summary": "Recently active and confident"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Strong and experienced",
+              "health": null,
+              "previous_match_summary": "Consistent performer"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "John",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Rob Vigeant",
+          "predicted_score": null,
+          "prediction_summary": "John believes Rob could surprise Zurab if he is motivated and in top form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong and confident",
+              "health": null,
+              "previous_match_summary": "Recent performances have been impressive"
+            },
+            "Rob Vigeant": {
+              "strength": "Strong when motivated",
+              "health": null,
+              "previous_match_summary": "Can be a wall when in top form"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Unknown",
+    "SPEAKER_02": "Mike Aiello",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Lachlan Adair"
+  },
+  "date": null,
+  "self_predictions": {
+    "Mike Aiello": [
+      {
+        "match": [
+          "Lachlan Adair",
+          "Mike Aiello"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Mike Aiello",
+        "predicted_score": "3-0",
+        "prediction_summary": "Mike believes he is stronger, faster, and more experienced than Lachlan, and expects to win decisively.",
+        "predicted_duration": null,
+        "style_conflict": "Inside hook",
+        "opinion_about_athletes": {
+          "Lachlan Adair": {
+            "strength": "Improved significantly since their last match",
+            "health": "Healthy and active",
+            "previous_match_summary": "Lachlan lost to Mike in their previous encounter but has since leveled up."
+          }
+        }
+      }
+    ],
+    "Lachlan Adair": [
+      {
+        "match": [
+          "Lachlan Adair",
+          "Mike Aiello"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Lachlan Adair",
+        "predicted_score": "3-0",
+        "prediction_summary": "Lachlan is confident in his improved skills and believes he can dominate Mike this time.",
+        "predicted_duration": null,
+        "style_conflict": "Inside hook with center table control",
+        "opinion_about_athletes": {
+          "Mike Aiello": {
+            "strength": "Strong but Lachlan believes he can handle it",
+            "health": "Healthy and in good shape",
+            "previous_match_summary": "Mike won their last match but Lachlan has improved significantly since then."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Mike Aiello": [
+      {
+        "match": [
+          "Oleg Petrenko",
+          "Chance Shaw"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Oleg Petrenko",
+        "predicted_score": null,
+        "prediction_summary": "Mike believes Oleg will dominate Chance with his strength and style.",
+        "predicted_duration": null,
+        "style_conflict": "Side pressure",
+        "opinion_about_athletes": {
+          "Chance Shaw": {
+            "strength": "Difficult to hook",
+            "health": null,
+            "previous_match_summary": "Chance is known for his ability to avoid hooks and counter effectively."
+          }
+        }
+      },
+      {
+        "match": [
+          "Wagner Bortolato",
+          "Ferit Osmanli"
+        ],
+        "arm": "Left",
+        "event": "East vs West 8",
+        "predicted_winner": "Wagner Bortolato",
+        "predicted_score": null,
+        "prediction_summary": "Mike thinks Wagner's press and explosiveness will be too much for Ferit.",
+        "predicted_duration": null,
+        "style_conflict": "Press",
+        "opinion_about_athletes": {
+          "Ferit Osmanli": {
+            "strength": "Strong but not as explosive as Wagner",
+            "health": null,
+            "previous_match_summary": "Ferit has been inconsistent in recent matches."
+          }
+        }
+      },
+      {
+        "match": [
+          "Jerry Cadorette",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Jerry Cadorette",
+        "predicted_score": null,
+        "prediction_summary": "Mike believes Jerry's press and endurance will be key to defeating Ermes.",
+        "predicted_duration": "Long match",
+        "style_conflict": "Press vs Top Roll",
+        "opinion_about_athletes": {
+          "Ermes Gasparini": {
+            "strength": "Incredible top roller",
+            "health": null,
+            "previous_match_summary": "Ermes has shown great strength but may struggle against Jerry's press."
+          }
+        }
+      }
+    ],
+    "Lachlan Adair": [
+      {
+        "match": [
+          "Artyom Morozov",
+          "Georgi Tsvetkov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Artyom Morozov",
+        "predicted_score": "3-0",
+        "prediction_summary": "Lachlan thinks Morozov will lose the first two rounds but come back strong to win.",
+        "predicted_duration": null,
+        "style_conflict": "Versatile",
+        "opinion_about_athletes": {
+          "Georgi Tsvetkov": {
+            "strength": "Strong but not as versatile as Morozov",
+            "health": null,
+            "previous_match_summary": "Georgi is experienced but may struggle against Morozov's adaptability."
+          }
+        }
+      },
+      {
+        "match": [
+          "Sandris Sedis",
+          "Pavlo Derbedyenyev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Sandris Sedis",
+        "predicted_score": null,
+        "prediction_summary": "Lachlan believes Sandris's technical skills will overcome Pavlo's raw power.",
+        "predicted_duration": null,
+        "style_conflict": "Technical vs Raw Power",
+        "opinion_about_athletes": {
+          "Pavlo Derbedyenyev": {
+            "strength": "Very strong but lacks technical efficiency",
+            "health": null,
+            "previous_match_summary": "Pavlo has shown raw power but may struggle against technical opponents."
+          }
+        }
+      },
+      {
+        "match": [
+          "Jerry Cadorette",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Ermes Gasparini",
+        "predicted_score": null,
+        "prediction_summary": "Lachlan favors Ermes due to his coaching relationship but acknowledges Jerry's strength.",
+        "predicted_duration": "Quick if Ermes is explosive, long if Jerry can endure",
+        "style_conflict": "Top Roll vs Press",
+        "opinion_about_athletes": {
+          "Jerry Cadorette": {
+            "strength": "Unending pressure",
+            "health": null,
+            "previous_match_summary": "Jerry is known for his relentless press and endurance."
+          }
+        }
+      }
+    ]
+  }
+}

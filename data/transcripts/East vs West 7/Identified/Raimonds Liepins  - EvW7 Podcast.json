@@ -1,0 +1,371 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_03": "Raimonds Liepins"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Daniel is a clear favorite. If Doug surprises us, it will be a major upset.",
+          "predicted_duration": null,
+          "style_conflict": "Doug needs to top roll Daniel fast and finish quick to have a chance.",
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Insanely strong, outranks his power for his weight class.",
+              "health": "Possibly hurt in the elbow from previous matches.",
+              "previous_match_summary": "Dominant in past matches, but lost to David Samushia after changing styles."
+            },
+            "Doug Erlich": {
+              "strength": "Strong and a good arm wrestler.",
+              "health": null,
+              "previous_match_summary": "Beat Raimonds Liepins easily, but Raimonds underestimated him."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Davit is insane and very dominant after his return.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Insane and dominant.",
+              "health": null,
+              "previous_match_summary": "Lost his first match back but has been dominant since."
+            },
+            "Brandon Ellsessor": {
+              "strength": "Good, but unclear where he ranks against Davit.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Adam Wawrzynski",
+          "predicted_score": null,
+          "prediction_summary": "Adam is very dedicated and smart. Bacho's lack of recent competition might be a disadvantage.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bacho Saginashvili": {
+              "strength": "Unknown due to lack of recent competition.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Adam Wawrzynski": {
+              "strength": "Very strong and smart.",
+              "health": null,
+              "previous_match_summary": "Impressive performances, including beating Borzder Simenov."
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab is in great shape and hard to bet against.",
+          "predicted_duration": null,
+          "style_conflict": "Rob needs to be fast enough to control Zurab's pronator.",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Insane shape, dominant in recent matches.",
+              "health": null,
+              "previous_match_summary": "Dominant at AMC, ran through everyone."
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Strong, but needs to be fast to beat Zurab.",
+              "health": "Feeling great according to his wife.",
+              "previous_match_summary": "Champion in WL, but needs to prove himself against top competition."
+            }
+          }
+        },
+        {
+          "match": [
+            "Arif Ertem",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Arif is a real heavyweight and very dangerous.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arif Ertem": {
+              "strength": "Real heavyweight, very dangerous.",
+              "health": null,
+              "previous_match_summary": "WF World Champion, beat Gergely once."
+            },
+            "Georgii Dzeranov": {
+              "strength": "Good, but may not get inside against Arif.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Could go either way. Alizhan is extremely strong, but Kody is much bigger.",
+          "predicted_duration": null,
+          "style_conflict": "Alizhan's style works against everyone, but Kody's size could be a factor.",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Extremely strong, unique style.",
+              "health": null,
+              "previous_match_summary": "Beat Petrenko when Petrenko was at the top."
+            },
+            "Kody Merritt": {
+              "strength": "Much bigger, strong back pressure.",
+              "health": "Training hard.",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Hard to bet against Vitalii if he's healthy.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Insane, patient, and strong.",
+              "health": "Previously injured, but won a left-arm tournament recently.",
+              "previous_match_summary": "Dominant in WF, long matches."
+            },
+            "Tobias Sporrong": {
+              "strength": "Very dangerous, strong grip.",
+              "health": null,
+              "previous_match_summary": "Impressive in past super matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Hard to bet against Dave, but Revaz is bigger.",
+          "predicted_duration": null,
+          "style_conflict": "Revaz needs to take Dave's hand to have a chance.",
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Bigger and taller than Dave.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": "Powerhouse, can pull without the hand.",
+              "health": null,
+              "previous_match_summary": "Faced almost everyone in the top 10."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Ketagali is likely to take Irakli's hand.",
+          "predicted_duration": null,
+          "style_conflict": "Irakli needs to adapt if he loses the hand.",
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Insane strength parameters for his size.",
+              "health": null,
+              "previous_match_summary": "Dominant in his weight class."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Very dangerous, intuitive on the table.",
+              "health": null,
+              "previous_match_summary": "Impressive against Michael Todd, beat John Brzenk in a surprising way."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon is in his prime and can outwork Genadi over rounds.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi needs to pin Devon fast to win.",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Explosive, can hit hook or top roll.",
+              "health": null,
+              "previous_match_summary": "Preparing for the biggest match of his life."
+            },
+            "Devon Larratt": {
+              "strength": "Prime Devon, strong and healthy.",
+              "health": "Healthier than ever, stem cells may have helped.",
+              "previous_match_summary": "Dominant against Prudnik and Sandris, continuously improving."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Raimonds Liepins",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Daniel is a clear favorite. Doug's belief in himself is strong, but Daniel's strength is unmatched.",
+          "predicted_duration": null,
+          "style_conflict": "Doug needs to top roll Daniel fast to have a chance.",
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Insanely strong, outranks his weight class.",
+              "health": "Possibly hurt in the elbow.",
+              "previous_match_summary": "Dominant in past matches, but lost to David Samushia after changing styles."
+            },
+            "Doug Erlich": {
+              "strength": "Strong and believes in himself.",
+              "health": null,
+              "previous_match_summary": "Beat Raimonds Liepins easily."
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab is in insane shape and hard to bet against.",
+          "predicted_duration": null,
+          "style_conflict": "Rob needs to be fast enough to control Zurab's pronator.",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Insane shape, dominant in recent matches.",
+              "health": null,
+              "previous_match_summary": "Dominant at AMC, ran through everyone."
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Strong, but needs to be fast to beat Zurab.",
+              "health": "Feeling great according to his wife.",
+              "previous_match_summary": "Champion in WL, but needs to prove himself against top competition."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Could go either way. Alizhan is extremely strong, but Kody's size is a factor.",
+          "predicted_duration": null,
+          "style_conflict": "Alizhan's style works against everyone, but Kody's size could be a challenge.",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Extremely strong, unique style.",
+              "health": null,
+              "previous_match_summary": "Beat Petrenko when Petrenko was at the top."
+            },
+            "Kody Merritt": {
+              "strength": "Much bigger, strong back pressure.",
+              "health": "Training hard.",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon is in his prime and can outwork Genadi over rounds.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi needs to pin Devon fast to win.",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Explosive, can hit hook or top roll.",
+              "health": null,
+              "previous_match_summary": "Preparing for the biggest match of his life."
+            },
+            "Devon Larratt": {
+              "strength": "Prime Devon, strong and healthy.",
+              "health": "Healthier than ever, stem cells may have helped.",
+              "previous_match_summary": "Dominant against Prudnik and Sandris, continuously improving."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

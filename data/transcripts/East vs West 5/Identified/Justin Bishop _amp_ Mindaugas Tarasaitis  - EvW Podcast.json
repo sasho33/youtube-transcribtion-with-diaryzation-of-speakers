@@ -1,0 +1,288 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Justin Bishop",
+    "SPEAKER_03": "Mindaugas Tarasaitis"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Mindaugas Tarasaitis",
+      "self_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Believes he can beat Justin even with a dead wrist due to his technique and power.",
+          "predicted_duration": null,
+          "style_conflict": "Power and technique will determine the outcome.",
+          "opinion_about_athletes": {
+            "Justin Bishop": {
+              "strength": "Respects his power but thinks he can handle it.",
+              "health": null,
+              "previous_match_summary": "Noted Justin's performance against lrakli and Viral."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Petrenko is too strong for John currently.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Acknowledges his legendary status but thinks age is a factor.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Oleg Petrenko": {
+              "strength": "Very strong lately.",
+              "health": null,
+              "previous_match_summary": "Recent performances show high power."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Slight edge to Devon due to endurance and overall skill.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik might struggle to get inside.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Endurance and technique are superior.",
+              "health": null,
+              "previous_match_summary": "Recent matches show strong form."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Strong but may not have enough to win three rounds.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave's horsepower and endurance will be too much.",
+          "predicted_duration": null,
+          "style_conflict": "Ermes may struggle inside.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Good but not enough for Dave.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": "Very strong in the center.",
+              "health": null,
+              "previous_match_summary": "Improved endurance recently."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 5",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Morozov's left is his main weapon and stronger than Ermes's left.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Left arm is very strong.",
+              "health": null,
+              "previous_match_summary": "Recent performances show dominance."
+            },
+            "Ermes Gasparini": {
+              "strength": "Left not as good as right.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Samushia's bicep hook should handle Daniel's press.",
+          "predicted_duration": null,
+          "style_conflict": "Daniel's press vs Samushia's hook.",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Good in bicep hook.",
+              "health": null,
+              "previous_match_summary": "Had time to improve shape."
+            },
+            "Daniel Procopciuc": {
+              "strength": "Mainly a press guy.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Justin Bishop",
+      "self_predictions": [
+        {
+          "match": [
+            "Justin Bishop",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Justin Bishop",
+          "predicted_score": null,
+          "prediction_summary": "Confident in his power and ability to handle Mindaugas's style.",
+          "predicted_duration": null,
+          "style_conflict": "Power and technique will determine the outcome.",
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Respects his technique but thinks he's not big enough.",
+              "health": null,
+              "previous_match_summary": "Noted his performance against Daniel and others."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Bet $50 on John, believes in his experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary status and experience.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Oleg Petrenko": {
+              "strength": "Strong but thinks John can handle him.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Slight edge to Devon due to endurance and overall skill.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik might struggle to get inside.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Endurance and technique are superior.",
+              "health": null,
+              "previous_match_summary": "Recent matches show strong form."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Strong but may not have enough to win three rounds.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave's power and endurance will be too much.",
+          "predicted_duration": null,
+          "style_conflict": "Ermes may struggle inside.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Good but not enough for Dave.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": "Very strong in the center.",
+              "health": null,
+              "previous_match_summary": "Improved endurance recently."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Revaz Lutidze",
+          "predicted_score": null,
+          "prediction_summary": "Revaz's inside power will be too much for Morozov.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Strong but not enough for Revaz.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Revaz Lutidze": {
+              "strength": "Massive and powerful.",
+              "health": null,
+              "previous_match_summary": "Beat Michael Todd recently."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

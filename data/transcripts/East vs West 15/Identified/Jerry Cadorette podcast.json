@@ -1,0 +1,339 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_02": "Jerry Cadorette"
+  },
+  "date": null,
+  "predictions": {
+    "Jerry Cadorette": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Danil Ustinov",
+            "Azat Srapyan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Danil Ustinov",
+          "predicted_score": null,
+          "prediction_summary": "Jerry likes Danil and will go with him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Danil Ustinov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Azat Srapyan": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Nugzari Chikadze",
+            "Oguzhan Koçak"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Oguzhan Koçak",
+          "predicted_score": null,
+          "prediction_summary": "Jerry will go with Oguzhan based on his past wins, including over Sasho.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Nugzari Chikadze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Oguzhan Koçak": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Beat Sasho and other notable names in the past."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Ömer Kozakoğlu"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Artur Makarov",
+          "predicted_score": null,
+          "prediction_summary": "Jerry predicts Artur will win based on more experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ömer Kozakoğlu": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Dimitrina Petrova",
+            "Carolina Pettersson"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Carolina Pettersson",
+          "predicted_score": null,
+          "prediction_summary": "Jerry thinks Carolina wants vengeance from their last match and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dimitrina Petrova": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Won against Carolina in WAF 2023."
+            },
+            "Carolina Pettersson": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Was 135 lbs when she won 143 lbs category in WAF."
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": null,
+          "prediction_summary": "Jerry predicts Oleg will win, referencing their past match where Oleg won.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Beat Artem Taino in the last event."
+            },
+            "Oleg Zhokh": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "85 kg world champion, won against Betkili two years ago."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Jerry roots for Todd as a fellow American and believes in his power.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Yoshinobu Kanai": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Had wars with John Brzenk and others in the past."
+            }
+          }
+        },
+        {
+          "match": [
+            "Rino Mašić",
+            "Ibragim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "Jerry predicts Ibragim will win because Rino thinks he can beat Jerry, which Jerry finds amusing.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rino Mašić": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Current WAP World Champion, beat Sandris in the final."
+            },
+            "Ibragim Sagov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Had a long match with Todd Hutchings, beat Chen Shou and Sandri."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Jerry doesn't think Vladimir can beat Samushia at his weight.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Has been dominant at his weight."
+            },
+            "Vladimir Maiorov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Recently returned to arm wrestling after a 5-year break."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Jerry thinks Vitalii is on a mission and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Georgii Tautiev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Jerry predicts Irakli will win because he trains with Levan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Beat John Brzenk, trains with Levan."
+            },
+            "Georgii Tautiev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Jerry thinks this is a 50-50 match that will come down to blood, sweat, and tears. Whoever makes a mistake will lose.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Put on size, over 300 lbs now.",
+              "health": "Coming back from injury, had 3 warm-up matches.",
+              "previous_match_summary": "Beat Camille, Lars, and Lamparelli recently."
+            },
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": "First match after bicep injury surgery 16 months ago.",
+              "previous_match_summary": "Beat Devon, had a war with Jerry."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ivan Matyushenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": null,
+          "prediction_summary": "Jerry thinks Ivan (Machinko) will win as the current defender.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ivan Matyushenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Current defender at 150 kg."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Jerry thinks Devon is healthy and knows how to manipulate anyone, including Petrenko.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": null,
+              "health": "Healthy, a little light but will put on weight.",
+              "previous_match_summary": null
+            },
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

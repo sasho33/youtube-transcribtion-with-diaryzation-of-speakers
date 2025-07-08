@@ -1,0 +1,406 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Evgeny Prudnik",
+    "SPEAKER_01": "Levan Saginashvili",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Hermes Gasparini"
+  },
+  "date": null,
+  "predictions": {
+    "Evgeny Prudnik": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Artem Taynov",
+            "Sasho Andreev"
+          ],
+          "arm": "Left",
+          "event": "East vs West X",
+          "predicted_winner": "Artem Taynov",
+          "predicted_score": "3-2",
+          "prediction_summary": "Close match, possibly 3-2 either way",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artem Taynov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Sasho Andreev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Believes Hutchings can win if he controls pronator with wrist",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Intense side pressure with pronator",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": null,
+          "prediction_summary": "Sasho has good endurance and control, dangerous for John",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Good endurance and control",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "John Brzenk": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Levan Saginashvili": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Egle Vaitkute",
+            "Sarah Backman"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Sarah Backman",
+          "predicted_score": null,
+          "prediction_summary": "Sarah is in good shape",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Egle Vaitkute": {
+              "strength": null,
+              "health": "Weaker than usual",
+              "previous_match_summary": null
+            },
+            "Sarah Backman": {
+              "strength": "Very good shape",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Frank Lamparelli",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Frank Lamparelli",
+          "predicted_score": null,
+          "prediction_summary": "Frank is a very good man",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Frank Lamparelli": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": null,
+          "prediction_summary": "Big difference in level",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kamil Jablonski": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Zaur Paizulaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": "65-35",
+          "prediction_summary": "65% for Georgi, 35% for Zaur due to Zaur's injury",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Strong top roll",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Zaur Paizulaev": {
+              "strength": null,
+              "health": "Has wrist and bicep injury",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": null,
+          "prediction_summary": "Sasho is younger and stronger",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Very strong wrist and biceps",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "John Brzenk": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Denis Cyplenkov",
+          "predicted_score": null,
+          "prediction_summary": "Denis has more power, but heart wants Devon to win",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Denis Cyplenkov": {
+              "strength": "More power",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Hermes Gasparini": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Zaur Paizulaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "Little bit favorite after Zaur's injury",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Zaur Paizulaev": {
+              "strength": null,
+              "health": "Injury",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Very hard match but thinks John will win",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "John Brzenk": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Close fight, but Devon has more endurance",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "More endurance",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Denis Cyplenkov": {
+              "strength": "More power",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Egle Vaitkute",
+            "Sarah Backman"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Sarah Backman",
+          "predicted_score": "55-45",
+          "prediction_summary": "Sarah in very good shape",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Egle Vaitkute": {
+              "strength": null,
+              "health": "Weaker than usual",
+              "previous_match_summary": null
+            },
+            "Sarah Backman": {
+              "strength": "Very good shape",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babaiev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Rustam Babaiev",
+          "predicted_score": "70-30",
+          "prediction_summary": "If Rustam is in good shape, he will win",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rustam Babaiev": {
+              "strength": "Legend, very strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": "In good shape, lost weight",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Very close match, but leans towards Devon",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Denis Cyplenkov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

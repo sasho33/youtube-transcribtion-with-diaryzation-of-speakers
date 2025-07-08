@@ -1,0 +1,391 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Neil Pickup",
+    "SPEAKER_04": "Neil Pickup"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Neil Pickup",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Doug Erlich",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": null,
+          "prediction_summary": "Raimonds is more versatile and has better endurance. Doug needs to win early; if the match is balanced, Raimonds has the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Doug's strength vs Raimonds' versatility and endurance",
+          "opinion_about_athletes": {
+            "Doug Erlich": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Not as active lately; last big supermatch was in WAL."
+            },
+            "Raimonds Liepiņš": {
+              "strength": "Underrated strength, not the most explosive",
+              "health": null,
+              "previous_match_summary": "Proven in long, drawn-out matches; frequents high-level competitions."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ahmet Yenerer",
+            "Robert Baxter"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Robert Baxter",
+          "predicted_score": null,
+          "prediction_summary": "Robert is more versatile and intelligent at the table. Ahmet may struggle if the match goes long.",
+          "predicted_duration": null,
+          "style_conflict": "Ahmet's power vs Robert's technical prowess",
+          "opinion_about_athletes": {
+            "Ahmet Yenerer": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Recently beat Robert but fouled out in one match."
+            },
+            "Robert Baxter": {
+              "strength": "Highly articulate at the table",
+              "health": null,
+              "previous_match_summary": "Versatile and experienced; can adapt during the match."
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Curtis Cameron"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab is a warrior with heart; Curtis is strong but unproven at this level.",
+          "predicted_duration": null,
+          "style_conflict": "Curtis's power vs Zurab's endurance and experience",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Extremely powerful and durable",
+              "health": null,
+              "previous_match_summary": "Known for long, tough matches."
+            },
+            "Curtis Cameron": {
+              "strength": "Very strong, looks like a powerlifter",
+              "health": null,
+              "previous_match_summary": "Limited high-level competition experience."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Arabuli",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Chance Shaw",
+          "predicted_score": null,
+          "prediction_summary": "Chance is tricky and motivated; Davit hasn't been active in high-level competitions recently.",
+          "predicted_duration": null,
+          "style_conflict": "Davit's strength vs Chance's technical tricks",
+          "opinion_about_athletes": {
+            "Davit Arabuli": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Not as active lately; last seen around 2018."
+            },
+            "Chance Shaw": {
+              "strength": "Fast and motivated",
+              "health": null,
+              "previous_match_summary": "Recent performances show high motivation and skill."
+            }
+          }
+        },
+        {
+          "match": [
+            "Nurdaulet Aidarkhan",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas is a purist top-roller; if he controls the match early, he can win. Nurdaulet is explosive but less experienced in supermatches.",
+          "predicted_duration": null,
+          "style_conflict": "Nurdaulet's explosiveness vs Mindaugas's technical top-roll",
+          "opinion_about_athletes": {
+            "Nurdaulet Aidarkhan": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": "Tournament specialist; less supermatch experience."
+            },
+            "Mindaugas Tarasaitis": {
+              "strength": "Technical top-roller",
+              "health": null,
+              "previous_match_summary": "Known for controlling matches with finesse."
+            }
+          }
+        },
+        {
+          "match": [
+            "Barbora Bajciova",
+            "Gabriela Vasconcelos"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Barbora Bajciova",
+          "predicted_score": null,
+          "prediction_summary": "Barbora's size and strength may overpower Gabriela, who is better suited to lower weight classes.",
+          "predicted_duration": null,
+          "style_conflict": "Barbora's size vs Gabriela's experience",
+          "opinion_about_athletes": {
+            "Barbora Bajciova": {
+              "strength": "Very strong and big-framed",
+              "health": null,
+              "previous_match_summary": "Rising star with impressive performances."
+            },
+            "Gabriela Vasconcelos": {
+              "strength": "Strong side pressure",
+              "health": null,
+              "previous_match_summary": "Dominant in lower weight classes."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Oleg Petrenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Oleg's strength and experience may prevail if he can stop Alizhan's explosive hits.",
+          "predicted_duration": null,
+          "style_conflict": "Alizhan's explosiveness vs Oleg's strength",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Explosive and quick",
+              "health": null,
+              "previous_match_summary": "Young and rising; can pull long if stopped."
+            },
+            "Oleg Petrenko": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Experienced and durable."
+            }
+          }
+        },
+        {
+          "match": [
+            "Arif Ertem",
+            "Corey West"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Corey's size and strength may be too much for Arif, though Arif is versatile and will fight hard.",
+          "predicted_duration": null,
+          "style_conflict": "Corey's power vs Arif's versatility",
+          "opinion_about_athletes": {
+            "Arif Ertem": {
+              "strength": "Versatile",
+              "health": null,
+              "previous_match_summary": "Proud and aggressive; will adapt during the match."
+            },
+            "Corey West": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Big and powerful; dangerous in his sweet spot."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Ferit Osmanli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": "60-40",
+          "prediction_summary": "Genadi is more versatile; Ferit needs to believe in himself and avoid doubts.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi's versatility vs Ferit's hook",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Versatile and confident",
+              "health": null,
+              "previous_match_summary": "Can adapt to different styles."
+            },
+            "Ferit Osmanli": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": "Needs to overcome self-doubt."
+            }
+          }
+        },
+        {
+          "match": [
+            "David Samushia",
+            "Craig Tullier"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "David Samushia",
+          "predicted_score": null,
+          "prediction_summary": "David's strength in long matches may give him the edge over Craig, who needs to avoid drawn-out battles.",
+          "predicted_duration": null,
+          "style_conflict": "Craig's aggression vs David's endurance",
+          "opinion_about_athletes": {
+            "David Samushia": {
+              "strength": "Strong in long matches",
+              "health": null,
+              "previous_match_summary": "Durable and experienced."
+            },
+            "Craig Tullier": {
+              "strength": "Aggressive hitter",
+              "health": null,
+              "previous_match_summary": "Needs to avoid long battles."
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Rustam Babayev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Rustam Babayev",
+          "predicted_score": null,
+          "prediction_summary": "Rustam's experience and hand control may be too much for Paul, who is still refining his technique.",
+          "predicted_duration": null,
+          "style_conflict": "Paul's explosiveness vs Rustam's hand control",
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": "Still refining his technique."
+            },
+            "Rustam Babayev": {
+              "strength": "Excellent hand control",
+              "health": null,
+              "previous_match_summary": "Experienced and dangerous."
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey West",
+            "Ferit Osmanli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Corey West",
+          "predicted_score": "55-45",
+          "prediction_summary": "Corey's strength and size may give him the edge, but Ferit is experienced and will fight hard.",
+          "predicted_duration": null,
+          "style_conflict": "Corey's power vs Ferit's experience",
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Big and powerful."
+            },
+            "Ferit Osmanli": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": "Will adapt and fight hard."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "If Michael's bicep holds up, his endurance and unorthodox style may wear down Ongarbaev.",
+          "predicted_duration": "Potentially the longest match of the night",
+          "style_conflict": "Ongarbaev's explosiveness vs Michael's endurance",
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": "Dangerous off the start."
+            },
+            "Michael Todd": {
+              "strength": "Endurance and unorthodox style",
+              "health": "Bicep concern",
+              "previous_match_summary": "Can wear opponents down in long matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "60-40",
+          "prediction_summary": "John's experience and adaptability may overcome Irakli's dangerous top-roll.",
+          "predicted_duration": null,
+          "style_conflict": "Irakli's top-roll vs John's versatility",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Dangerous top-roller",
+              "health": null,
+              "previous_match_summary": "Can dominate if he controls the hand."
+            },
+            "John Brzenk": {
+              "strength": "Versatile and experienced",
+              "health": null,
+              "previous_match_summary": "Can adapt and find ways to win."
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Jerry's unorthodox style and endurance may be too much for Georgi, who is training hard but may lack the explosiveness.",
+          "predicted_duration": null,
+          "style_conflict": "Jerry's shoulder pressure vs Georgi's orthodox style",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Unorthodox and enduring",
+              "health": null,
+              "previous_match_summary": "Can outlast opponents in long matches."
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Training hard",
+              "health": null,
+              "previous_match_summary": "May lack explosiveness compared to Jerry."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Georgi Tsvetkov",
+    "SPEAKER_03": "Translator (possibly Engin Terzi)",
+    "SPEAKER_04": "Zaur Paizulaev"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Zaur Paizulaev",
+      "self_predictions": [
+        {
+          "match": [
+            "Zaur Paizulaev",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Zaur Paizulaev",
+          "predicted_score": null,
+          "prediction_summary": "Zaur believes he can win with a quick start and flash pins, but acknowledges Georgi's endurance might be a challenge.",
+          "predicted_duration": null,
+          "style_conflict": "Explosive vs Endurance",
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Very strong, especially in endurance",
+              "health": "Good, but Zaur mentions his own past injuries affecting performance",
+              "previous_match_summary": "Georgi has improved since his match with Morozov"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": null,
+          "prediction_summary": "Ivan's hook style will prevent Kamil from using his triceps.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Triceps",
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": "Very fast and experienced",
+              "health": null,
+              "previous_match_summary": "High-level experience over 20 years"
+            },
+            "Kamil Jablonski": {
+              "strength": "Strong in triceps",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Sarah Backman",
+            "Egle Vaitkute"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Egle Vaitkute",
+          "predicted_score": null,
+          "prediction_summary": "Egle's leverage and size will help her win through top roll.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs Sarah's strength",
+          "opinion_about_athletes": {
+            "Sarah Backman": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Different from 10 years ago when she lost to Egle"
+            },
+            "Egle Vaitkute": {
+              "strength": "One of the strongest female pullers",
+              "health": null,
+              "previous_match_summary": "Previously beat Sarah but lost to Gabriella recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artem Taynov",
+            "Sasho Andreev"
+          ],
+          "arm": "Left",
+          "event": "East vs West X",
+          "predicted_winner": "Artem Taynov",
+          "predicted_score": null,
+          "prediction_summary": "Artem is slightly favored due to explosiveness, but Sasho's endurance could be a factor.",
+          "predicted_duration": null,
+          "style_conflict": "Explosive vs Endurance",
+          "opinion_about_athletes": {
+            "Artem Taynov": {
+              "strength": "Explosive, can pull in multiple styles",
+              "health": null,
+              "previous_match_summary": "Looks better than before"
+            },
+            "Sasho Andreev": {
+              "strength": "Good endurance",
+              "health": null,
+              "previous_match_summary": "Lost to Artem in 2021 WAF after a tough match"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Kydyrgali's endurance and top roll will give him the edge, though Todd could catch him in a hook.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs Hook",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong hook",
+              "health": null,
+              "previous_match_summary": "Has beaten top rollers like John Brzenk and Irakli Zirakashvili"
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Great endurance",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Denis Cyplenkov",
+          "predicted_score": null,
+          "prediction_summary": "Denis's strength and endurance in the king's move will be too much for Devon.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs Technique",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Smart and wise at the table",
+              "health": null,
+              "previous_match_summary": "Bringing his best shape"
+            },
+            "Denis Cyplenkov": {
+              "strength": "Physically stronger, uncomfortable grip",
+              "health": null,
+              "previous_match_summary": "Needs to show better shape than recent appearances"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Georgi Tsvetkov",
+      "self_predictions": [
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Zaur Paizulaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "Georgi is confident he can win, though it won't be easy. He believes his endurance and strength are better.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs Explosiveness",
+          "opinion_about_athletes": {
+            "Zaur Paizulaev": {
+              "strength": "Explosive, big wrist",
+              "health": "Recovering from past injuries",
+              "previous_match_summary": "Zaur's endurance is questionable"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": null,
+          "prediction_summary": "Ivan's speed and hook will be too much for Kamil.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Triceps",
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": "Fast and explosive",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kamil Jablonski": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Sarah Backman",
+            "Egle Vaitkute"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Egle Vaitkute",
+          "predicted_score": null,
+          "prediction_summary": "Egle's size and hand control will make her uncomfortable for Sarah.",
+          "predicted_duration": null,
+          "style_conflict": "Size vs Strength",
+          "opinion_about_athletes": {
+            "Sarah Backman": {
+              "strength": "Different from the past",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Egle Vaitkute": {
+              "strength": "Bigger hands, more leverage",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Frank Lamparelli",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Frank Lamparelli",
+          "predicted_score": null,
+          "prediction_summary": "Frank's experience and preparation will give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs Technique",
+          "opinion_about_athletes": {
+            "Frank Lamparelli": {
+              "strength": "More dangerous, bigger experience",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Rustam Babaiev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli's height and style will be advantageous against Rustam.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs Inside pull",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Taller with longer hands",
+              "health": null,
+              "previous_match_summary": "Lost to Dadikian and Ongarbaev but won against inside pullers"
+            },
+            "Rustam Babaiev": {
+              "strength": "Experienced, finds ways to win",
+              "health": null,
+              "previous_match_summary": "Lost to Sasho recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artem Taynov",
+            "Sasho Andreev"
+          ],
+          "arm": "Left",
+          "event": "East vs West X",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Very close match; Artem's speed vs Sasho's endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Speed vs Endurance",
+          "opinion_about_athletes": {
+            "Artem Taynov": {
+              "strength": "Very fast and dangerous",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Sasho Andreev": {
+              "strength": "Better endurance",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "60-40",
+          "prediction_summary": "John's experience and size give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs Technique",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Bigger man with longer hands",
+              "health": null,
+              "previous_match_summary": "In very good shape"
+            },
+            "Sasho Andreev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Denis Cyplenkov",
+          "predicted_score": null,
+          "prediction_summary": "Denis is physically stronger and has an uncomfortable grip.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs Smart Technique",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Smarter at the table",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Denis Cyplenkov": {
+              "strength": "Stronger, difficult grip",
+              "health": null,
+              "previous_match_summary": "Needs to show better shape"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

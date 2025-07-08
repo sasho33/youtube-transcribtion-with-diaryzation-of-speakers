@@ -1,0 +1,350 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Rustam Babayev",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Paolo",
+    "SPEAKER_04": "Paul Linn"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Paul Linn",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Doug Erlich",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Coach Ray is the favorite but Doug has a serious puncher's chance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Doug Erlich": {
+              "strength": "Good form",
+              "health": null,
+              "previous_match_summary": "Competed around 2017-18, had a layoff."
+            },
+            "Raimonds Liepiņš": {
+              "strength": "Favorite",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Curtis Cameron"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": "60-40",
+          "prediction_summary": "Thinks Zurab's activity level and experience give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Active and experienced",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Curtis Cameron": {
+              "strength": "Strong but lacks outside options",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Ferit Osmanli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Genadi's preparation for East vs West gives him an edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Well-prepared",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ferit Osmanli": {
+              "strength": "Standstill",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Nurdaulet Aidarkhan",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Nurdaulet Aidarkhan",
+          "predicted_score": "60-40",
+          "prediction_summary": "Thinks Nurdaulet is the favorite but Mindaugas has impressive composure and setup game.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Nurdaulet Aidarkhan": {
+              "strength": "Favorite",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Mindaugas Tarasaitis": {
+              "strength": "Good composure and setup",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Oleg Petrenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Alizhan's speed and recent WAF performance give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Fast and strong",
+              "health": null,
+              "previous_match_summary": "Won gold in WAF super heavyweight."
+            },
+            "Oleg Petrenko": {
+              "strength": "Slow",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Ongarbaev's style and Michael's weight cut make Ongarbaev the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Strong back pressure and top knuckle",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": "Heart and experience",
+              "health": "Bicep injury, weight cut",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "David Samushia",
+            "Craig Tullier"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "David Samushia",
+          "predicted_score": "50-50",
+          "prediction_summary": "Thinks it's a close match, depends on where the match stops.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "David Samushia": {
+              "strength": "Stronger in hook",
+              "health": null,
+              "previous_match_summary": "First match after pandemic."
+            },
+            "Craig Tullier": {
+              "strength": "More explosive",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Thinks John will win, possibly not easily but without too many problems.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Biggest opportunity of his career",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "John Brzenk": {
+              "strength": "Experience and skill",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Rustam Babayev",
+      "self_predictions": [
+        {
+          "match": [
+            "Rustam Babayev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Rustam Babayev",
+          "predicted_score": null,
+          "prediction_summary": "Doesn't think about losing, mindset is winning.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Physically strong but makes mistakes",
+              "health": null,
+              "previous_match_summary": "Watched his videos, sees mistakes."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Ferit Osmanli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Depends on preparation",
+          "predicted_score": null,
+          "prediction_summary": "Thinks the winner will be the one who is more prepared.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ferit Osmanli": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Thinks John will win, possibly not easily but without too many problems.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Has breakdowns in certain places",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "John Brzenk": {
+              "strength": "Can exploit weaknesses",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Paolo",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Curtis Cameron"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Curtis Cameron",
+          "predicted_score": "60-40",
+          "prediction_summary": "Thinks Curtis has a slight edge due to power and leverage.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Can win if he hooks deep",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Curtis Cameron": {
+              "strength": "Power and leverage",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey West",
+            "Ferit Osmanli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Corey is constantly climbing and will win if Ferit is not at 90-95% form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Constantly improving",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ferit Osmanli": {
+              "strength": "Standstill",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

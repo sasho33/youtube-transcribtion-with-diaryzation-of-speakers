@@ -1,0 +1,473 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Roman (Translator)",
+    "SPEAKER_01": "Curtis Cameron",
+    "SPEAKER_02": "Zurab Tavberidze",
+    "SPEAKER_04": "Engin Terzi"
+  },
+  "date": null,
+  "self_predictions": {
+    "Curtis Cameron": [
+      {
+        "match": [
+          "Zurab Tavberidze",
+          "Curtis Cameron"
+        ],
+        "arm": "Right",
+        "event": "East vs West 6",
+        "predicted_winner": "Curtis Cameron",
+        "predicted_score": "3-0",
+        "prediction_summary": "Curtis believes he will dominate the match, giving Zurab only a 5% chance out of respect. He expects to win decisively.",
+        "predicted_duration": "Not specified",
+        "style_conflict": "Hook vs Hook",
+        "opinion_about_athletes": {
+          "Zurab Tavberidze": {
+            "strength": "Very strong, especially in the strap",
+            "health": "No major issues mentioned",
+            "previous_match_summary": "Known for endurance and stubbornness in matches like Ron Bath and John Brzenk"
+          }
+        }
+      }
+    ],
+    "Zurab Tavberidze": [
+      {
+        "match": [
+          "Zurab Tavberidze",
+          "Curtis Cameron"
+        ],
+        "arm": "Right",
+        "event": "East vs West 6",
+        "predicted_winner": "Zurab Tavberidze",
+        "predicted_score": "Not specified",
+        "prediction_summary": "Zurab gives himself a 70% chance, acknowledging Curtis's strength but believes he will win.",
+        "predicted_duration": "Not specified",
+        "style_conflict": "Hook vs Hook",
+        "opinion_about_athletes": {
+          "Curtis Cameron": {
+            "strength": "Extremely strong, especially in the hook",
+            "health": "No major issues mentioned",
+            "previous_match_summary": "Curtis is relatively new but has shown dominance in his matches"
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": [
+    {
+      "speaker": "Engin Terzi",
+      "match": [
+        "Zurab Tavberidze",
+        "Curtis Cameron"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "No clear prediction",
+      "predicted_score": "Not specified",
+      "prediction_summary": "Engin is unsure but expects a tough match, possibly going to the strap.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Hook vs Hook",
+      "opinion_about_athletes": {
+        "Zurab Tavberidze": {
+          "strength": "Strong in the strap, good endurance",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Performed well against Ron Bath and John Brzenk"
+        },
+        "Curtis Cameron": {
+          "strength": "Very strong, especially in the hook",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Dominant in his matches, though relatively new"
+        }
+      }
+    },
+    {
+      "speaker": "Devon Larratt",
+      "match": [
+        "Zurab Tavberidze",
+        "Curtis Cameron"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Curtis Cameron",
+      "predicted_score": "Not specified",
+      "prediction_summary": "Devon believes Curtis is too strong and will win, especially if the match goes to the strap.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Hook vs Hook",
+      "opinion_about_athletes": {
+        "Zurab Tavberidze": {
+          "strength": "Strong but not enough to stop Curtis",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for endurance and stubbornness"
+        },
+        "Curtis Cameron": {
+          "strength": "Extremely strong, especially in the hook",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Dominant in his matches"
+        }
+      }
+    },
+    {
+      "speaker": "Zurab Tavberidze",
+      "match": [
+        "Corey West",
+        "Ferit Osmanli"
+      ],
+      "arm": "Left",
+      "event": "East vs West 6",
+      "predicted_winner": "50-50",
+      "predicted_score": "Not specified",
+      "prediction_summary": "Zurab is unsure due to Ferit's uncertain form but acknowledges Corey's strength.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Not specified",
+      "opinion_about_athletes": {
+        "Corey West": {
+          "strength": "Very strong",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Dominant in his matches"
+        },
+        "Ferit Osmanli": {
+          "strength": "High level but current form uncertain",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Experienced but recent performance unclear"
+        }
+      }
+    },
+    {
+      "speaker": "Zurab Tavberidze",
+      "match": [
+        "Nurdaulet Aidarkhan",
+        "Mindaugas Tarasaitis"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Nurdaulet Aidarkhan",
+      "predicted_score": "Not specified",
+      "prediction_summary": "Zurab confidently predicts Nurdaulet will win.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Not specified",
+      "opinion_about_athletes": {
+        "Nurdaulet Aidarkhan": {
+          "strength": "Very strong",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Dominant in his matches"
+        },
+        "Mindaugas Tarasaitis": {
+          "strength": "Not specified",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Not specified"
+        }
+      }
+    },
+    {
+      "speaker": "Curtis Cameron",
+      "match": [
+        "Alizhan Muratov",
+        "Oleg Petrenko"
+      ],
+      "arm": "Left",
+      "event": "East vs West 6",
+      "predicted_winner": "Oleg Petrenko",
+      "predicted_score": "Not specified",
+      "prediction_summary": "Curtis believes Petrenko will win based on his strength and reputation.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Not specified",
+      "opinion_about_athletes": {
+        "Alizhan Muratov": {
+          "strength": "Strong but less experienced",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Recent world champion but less known internationally"
+        },
+        "Oleg Petrenko": {
+          "strength": "Very strong, experienced",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        }
+      }
+    },
+    {
+      "speaker": "Zurab Tavberidze",
+      "match": [
+        "Alizhan Muratov",
+        "Oleg Petrenko"
+      ],
+      "arm": "Left",
+      "event": "East vs West 6",
+      "predicted_winner": "Oleg Petrenko",
+      "predicted_score": "60-40",
+      "prediction_summary": "Zurab gives Petrenko a slight edge due to his experience and strength.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Not specified",
+      "opinion_about_athletes": {
+        "Alizhan Muratov": {
+          "strength": "Strong but less experienced",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Recent world champion but less known internationally"
+        },
+        "Oleg Petrenko": {
+          "strength": "Very strong, experienced",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        }
+      }
+    },
+    {
+      "speaker": "Curtis Cameron",
+      "match": [
+        "Paul Linn",
+        "Rustam Babayev"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Rustam Babayev",
+      "predicted_score": "Not specified",
+      "prediction_summary": "Curtis gives Rustam the edge but acknowledges Paul's strength.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Not specified",
+      "opinion_about_athletes": {
+        "Paul Linn": {
+          "strength": "Very strong, especially in the hook",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        },
+        "Rustam Babayev": {
+          "strength": "Very strong, experienced",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        }
+      }
+    },
+    {
+      "speaker": "Zurab Tavberidze",
+      "match": [
+        "Paul Linn",
+        "Rustam Babayev"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Paul Linn",
+      "predicted_score": "60-40",
+      "prediction_summary": "Zurab gives Paul a slight edge due to his recent performances.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Not specified",
+      "opinion_about_athletes": {
+        "Paul Linn": {
+          "strength": "Very strong, especially in the hook",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        },
+        "Rustam Babayev": {
+          "strength": "Very strong, experienced",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        }
+      }
+    },
+    {
+      "speaker": "Curtis Cameron",
+      "match": [
+        "Kydyrgali Ongarbaev",
+        "Michael Todd"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Kydyrgali Ongarbaev",
+      "predicted_score": "Not specified",
+      "prediction_summary": "Curtis believes Ongarbaev will win, especially if Todd is not in top shape.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Not specified",
+      "opinion_about_athletes": {
+        "Kydyrgali Ongarbaev": {
+          "strength": "Very strong, especially in his weight class",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        },
+        "Michael Todd": {
+          "strength": "Strong but recent form uncertain",
+          "health": "Possible injury concerns",
+          "previous_match_summary": "Known for his endurance and King's Move"
+        }
+      }
+    },
+    {
+      "speaker": "Zurab Tavberidze",
+      "match": [
+        "Kydyrgali Ongarbaev",
+        "Michael Todd"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Kydyrgali Ongarbaev",
+      "predicted_score": "55-45",
+      "prediction_summary": "Zurab gives Ongarbaev a slight edge due to Todd's weight drop and recent form.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Not specified",
+      "opinion_about_athletes": {
+        "Kydyrgali Ongarbaev": {
+          "strength": "Very strong, especially in his weight class",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        },
+        "Michael Todd": {
+          "strength": "Strong but recent form uncertain",
+          "health": "Possible injury concerns",
+          "previous_match_summary": "Known for his endurance and King's Move"
+        }
+      }
+    },
+    {
+      "speaker": "Zurab Tavberidze",
+      "match": [
+        "David Samushia",
+        "Craig Tullier"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "David Samushia",
+      "predicted_score": "100%",
+      "prediction_summary": "Zurab confidently predicts Samushia will win, considering him the best in his weight class.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Not specified",
+      "opinion_about_athletes": {
+        "David Samushia": {
+          "strength": "Very strong, especially in his weight class",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        },
+        "Craig Tullier": {
+          "strength": "Strong but less experienced",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        }
+      }
+    },
+    {
+      "speaker": "Zurab Tavberidze",
+      "match": [
+        "Jerry Cadorette",
+        "Georgi Tsvetkov"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Jerry Cadorette",
+      "predicted_score": "70-30",
+      "prediction_summary": "Zurab gives Jerry the edge due to his style and strength.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Top roll vs Hook",
+      "opinion_about_athletes": {
+        "Jerry Cadorette": {
+          "strength": "Very strong, especially in his style",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        },
+        "Georgi Tsvetkov": {
+          "strength": "Strong but less experienced",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        }
+      }
+    },
+    {
+      "speaker": "Curtis Cameron",
+      "match": [
+        "John Brzenk",
+        "Irakli Zirakashvili"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "John Brzenk",
+      "predicted_score": "Not specified",
+      "prediction_summary": "Curtis gives John the edge but acknowledges Irakli's strength.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Not specified",
+      "opinion_about_athletes": {
+        "John Brzenk": {
+          "strength": "Very strong, experienced",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known as the GOAT of armwrestling"
+        },
+        "Irakli Zirakashvili": {
+          "strength": "Very strong, especially in the hook",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        }
+      }
+    },
+    {
+      "speaker": "Zurab Tavberidze",
+      "match": [
+        "John Brzenk",
+        "Irakli Zirakashvili"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "50-50",
+      "predicted_score": "Not specified",
+      "prediction_summary": "Zurab is unsure due to both athletes' strengths in different areas.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Not specified",
+      "opinion_about_athletes": {
+        "John Brzenk": {
+          "strength": "Very strong, especially in side pressure",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known as the GOAT of armwrestling"
+        },
+        "Irakli Zirakashvili": {
+          "strength": "Very strong, especially in back pressure",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        }
+      }
+    },
+    {
+      "speaker": "Zurab Tavberidze",
+      "match": [
+        "Arif Ertem",
+        "Corey West"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Arif Ertem",
+      "predicted_score": "100%",
+      "prediction_summary": "Zurab confidently predicts Arif will win.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Not specified",
+      "opinion_about_athletes": {
+        "Arif Ertem": {
+          "strength": "Very strong",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        },
+        "Corey West": {
+          "strength": "Very strong",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        }
+      }
+    },
+    {
+      "speaker": "Zurab Tavberidze",
+      "match": [
+        "Genadi Kvikvinia",
+        "Ferit Osmanli"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": "Genadi Kvikvinia",
+      "predicted_score": "55-45",
+      "prediction_summary": "Zurab gives Genadi a slight edge due to his strength and experience.",
+      "predicted_duration": "Not specified",
+      "style_conflict": "Not specified",
+      "opinion_about_athletes": {
+        "Genadi Kvikvinia": {
+          "strength": "Very strong, experienced",
+          "health": "No major issues mentioned",
+          "previous_match_summary": "Known for his matches against top pullers"
+        },
+        "Ferit Osmanli": {
+          "strength": "Strong but recent form uncertain",
+          "health": "Possible travel fatigue",
+          "previous_match_summary": "Known for his matches against top pullers"
+        }
+      }
+    }
+  ]
+}

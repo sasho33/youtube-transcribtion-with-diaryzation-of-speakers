@@ -1,0 +1,564 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Ryan Bowen",
+    "SPEAKER_03": "Zurab Tavberidze"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Ryan Bowen",
+      "self_predictions": [
+        {
+          "match": [
+            "Ryan Bowen",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ryan Bowen",
+          "predicted_score": null,
+          "prediction_summary": "Ryan believes he is in his best shape ever and is confident in his ability to perform at his highest level. He acknowledges Zurab as the favorite but thinks the mental pressure on Zurab could be a factor.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Very strong, especially in holding positions",
+              "health": null,
+              "previous_match_summary": "Zurab has significant achievements and is a favorite based on past performances."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Adam Wawrzynski",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Bozhidar Simeonov",
+          "predicted_score": null,
+          "prediction_summary": "Ryan thinks Bozhidar has the advantage due to familiarity with the conditions and referees.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": "Technical with good endurance",
+              "health": null,
+              "previous_match_summary": "Adam is promising but may struggle with the international stage."
+            },
+            "Bozhidar Simeonov": {
+              "strength": "Strong and familiar with the environment",
+              "health": null,
+              "previous_match_summary": "Bozhidar has experience and home-ground advantage."
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Ryan believes Mindaugas has the edge due to control of hand and wrist and familiarity with the conditions.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Good dragging back pressure",
+              "health": null,
+              "previous_match_summary": "Mindaugas has shown strong performances recently."
+            },
+            "Justin Bishop": {
+              "strength": "Great back pressure and solid side pressure",
+              "health": null,
+              "previous_match_summary": "Justin has had pendulum results and may struggle with fast starts."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Ryan thinks Davit's offensive surge will be too much for Daniel.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Bigger framed and stronger",
+              "health": null,
+              "previous_match_summary": "Davit has multiple world titles."
+            },
+            "Daniel Procopciuc": {
+              "strength": "Amazing defense and supernated side pressure",
+              "health": null,
+              "previous_match_summary": "Daniel is a world-class defender."
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Wagner Bortolato"
+          ],
+          "arm": "Left",
+          "event": "East vs West 5",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Ryan is reluctant to pick a side due to lack of data on Georgii.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "High posting style",
+              "health": null,
+              "previous_match_summary": "Georgii is a WAF title holder."
+            },
+            "Wagner Bortolato": {
+              "strength": "Fiery with a strong press",
+              "health": null,
+              "previous_match_summary": "Wagner is a beast left-handed."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Ryan thinks Morozov is the favorite based on recent performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Strong and technically well-rounded",
+              "health": null,
+              "previous_match_summary": "Morozov dealt with Dave Chaffee impressively."
+            },
+            "Revaz Lutidze": {
+              "strength": "Tall with great tools",
+              "health": null,
+              "previous_match_summary": "Revaz is highly rated but may not be at Morozov's level yet."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Ryan thinks Matt Mask is the favorite early, but Sandris could take over later.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": "Technically disciplined",
+              "health": null,
+              "previous_match_summary": "Sandris is rock solid and protects his pronator well."
+            },
+            "Matt Mask": {
+              "strength": "Frantic and aggressive",
+              "health": null,
+              "previous_match_summary": "Matt is prone to errors but hits hard."
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "3-2",
+          "prediction_summary": "Ryan thinks Dave will take an early lead but Ermes will come back. It may come down to a flop press in round five.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Strong side pressure",
+              "health": null,
+              "previous_match_summary": "Dave has shown good form recently."
+            },
+            "Ermes Gasparini": {
+              "strength": "Efficient and technical",
+              "health": null,
+              "previous_match_summary": "Ermes can work the hand and wrist well."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Ryan thinks it's a balanced match with Devon having the edge on defense and endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Technically well-rounded",
+              "health": null,
+              "previous_match_summary": "Devon is cutting weight but is experienced."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Explosive offense",
+              "health": null,
+              "previous_match_summary": "Evgeny is confident and strong."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 5",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Ryan thinks Morozov's left is as strong as his right and Ermes' left wrist is untested at this level.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Strong left arm",
+              "health": null,
+              "previous_match_summary": "Morozov is versatile and powerful."
+            },
+            "Ermes Gasparini": {
+              "strength": "Pure top roller",
+              "health": null,
+              "previous_match_summary": "Ermes' left wrist is a question mark."
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "lrakli Gamtenadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "lrakli Gamtenadze",
+          "predicted_score": null,
+          "prediction_summary": "Ryan thinks lrakli has the edge due to experience and size.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Diligent and improving",
+              "health": null,
+              "previous_match_summary": "Paul is finding his feet but is committed."
+            },
+            "lrakli Gamtenadze": {
+              "strength": "World champion with more mass",
+              "health": null,
+              "previous_match_summary": "lrakli has many titles and experience."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Ryan believes John will find a way to win with his wrist flexion and pronation.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Technically versatile",
+              "health": null,
+              "previous_match_summary": "John always adapts and wins."
+            },
+            "Oleg Petrenko": {
+              "strength": "Aggressive with strong side pressure",
+              "health": null,
+              "previous_match_summary": "Oleg is young and powerful."
+            }
+          }
+        },
+        {
+          "match": [
+            "Haydar Gildil",
+            "Cobra Rhodes"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Cobra Rhodes",
+          "predicted_score": null,
+          "prediction_summary": "Ryan thinks Cobra is very motivated and aggressive.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Haydar Gildil": {
+              "strength": "Legendary but returning after a long break",
+              "health": null,
+              "previous_match_summary": "Haydar has beaten top competitors in the past."
+            },
+            "Cobra Rhodes": {
+              "strength": "Pound for pound one of the best",
+              "health": null,
+              "previous_match_summary": "Cobra is motivated to return strongly."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Zurab Tavberidze",
+      "self_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Ryan Bowen"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": "3-0",
+          "prediction_summary": "Zurab is confident he will win easily and may even give his wrist in the third round.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Ryan Bowen": {
+              "strength": "Technically perfect but lacks physical strength",
+              "health": null,
+              "previous_match_summary": "Ryan is consistent but needs twice the strength to match Zurab."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Zurab thinks Samushia is stronger and more experienced.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Bigger and stronger",
+              "health": null,
+              "previous_match_summary": "Samushia has multiple world titles."
+            },
+            "Daniel Procopciuc": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Zurab thinks it's a balanced match with both athletes progressing.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Young and growing stronger",
+              "health": null,
+              "previous_match_summary": "Morozov is improving rapidly."
+            },
+            "Revaz Lutidze": {
+              "strength": "Very progressive",
+              "health": null,
+              "previous_match_summary": "Revaz is active and improving."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Zurab believes Matt Mask is motivated and in shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Matt Mask": {
+              "strength": "Motivated and in shape",
+              "health": null,
+              "previous_match_summary": "Matt is ready for this match."
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Zurab thinks Dave is in good shape and knows how to fight top rollers.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Strong and in good shape",
+              "health": null,
+              "previous_match_summary": "Dave beat Laletin recently."
+            },
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Zurab is certain Devon will win due to endurance and experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong with great endurance",
+              "health": null,
+              "previous_match_summary": "Devon is versatile and experienced."
+            },
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "lrakli Gamtenadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "lrakli Gamtenadze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab thinks lrakli is stronger and more experienced.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "lrakli Gamtenadze": {
+              "strength": "World champion with more mass",
+              "health": null,
+              "previous_match_summary": "lrakli has many titles."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Zurab believes John will win due to his experience and skill.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Experienced and skilled",
+              "health": null,
+              "previous_match_summary": "John is a legend."
+            },
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Haydar Gildil",
+            "Cobra Rhodes"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Cobra Rhodes",
+          "predicted_score": null,
+          "prediction_summary": "Zurab thinks Cobra is a legendary athlete who can fight from any position.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Haydar Gildil": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Cobra Rhodes": {
+              "strength": "Versatile and legendary",
+              "health": null,
+              "previous_match_summary": "Cobra is a top competitor."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

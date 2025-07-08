@@ -1,0 +1,42 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Alexey Voevoda",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Paulo (Translator)",
+    "SPEAKER_03": "Host"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Alexey Voevoda",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Friendship will win",
+          "predicted_score": null,
+          "prediction_summary": "Devon is very good, but sometimes he loses to a guy and then prepares specifically to win. Knowing Denis's fingers, wrist, and ability to withstand long loads, it will be a good fight.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Very good, adapts and prepares specifically after losses",
+              "health": null,
+              "previous_match_summary": "Loses once, then prepares specifically to win"
+            },
+            "Denis Cyplenkov": {
+              "strength": "Strong fingers and wrist, can withstand long loads",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

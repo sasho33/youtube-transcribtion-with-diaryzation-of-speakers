@@ -1,0 +1,887 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_03": "Coach Ray",
+    "SPEAKER_04": "Ryan Bowen"
+  },
+  "date": null,
+  "self_predictions": {
+    "Ryan Bowen": [
+      {
+        "match": [
+          "Ryan Bowen",
+          "Coach Ray"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Ryan Bowen",
+        "predicted_score": "3-0 or close",
+        "prediction_summary": "Ryan believes he can win by controlling the center and using his side pressure against Ray's wrist flexion supination. He plans to hit hard in round one and adjust if needed.",
+        "predicted_duration": "Varies, could be quick or long depending on stops",
+        "style_conflict": "Side pressure vs wrist flexion supination",
+        "opinion_about_athletes": {
+          "Coach Ray": {
+            "strength": "Good wrist flexion and supination",
+            "health": "Unknown",
+            "previous_match_summary": "Ray has been training hard and is confident in his abilities."
+          }
+        }
+      }
+    ],
+    "Coach Ray": [
+      {
+        "match": [
+          "Ryan Bowen",
+          "Coach Ray"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Coach Ray",
+        "predicted_score": "3-0 or close",
+        "prediction_summary": "Ray believes he can win by holding on out of straps in round one and potentially top rolling Ryan in later rounds. He is confident in his ability to control the match.",
+        "predicted_duration": "Varies, could be quick or long depending on stops",
+        "style_conflict": "Top roll vs hook",
+        "opinion_about_athletes": {
+          "Ryan Bowen": {
+            "strength": "Strong side pressure and rotation",
+            "health": "Unknown",
+            "previous_match_summary": "Ryan has been training hard and feels good about his current form."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Ryan Bowen": [
+      {
+        "match": [
+          "Jerry Cadorette",
+          "Genadi Kvikvinia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Genadi Kvikvinia",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Ryan thinks Genadi is in great form and will likely win, but Jerry might take a round if he's at his best.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Press vs versatility",
+        "opinion_about_athletes": {
+          "Jerry Cadorette": {
+            "strength": "Strong press",
+            "health": "Unknown",
+            "previous_match_summary": "Jerry's current form is unknown."
+          },
+          "Genadi Kvikvinia": {
+            "strength": "Versatile and in great form",
+            "health": "Unknown",
+            "previous_match_summary": "Genadi has been performing well recently."
+          }
+        }
+      },
+      {
+        "match": [
+          "Artyom Morozov",
+          "Dave Chaffee"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Dave Chaffee",
+        "predicted_score": "Close, possibly 3-2",
+        "prediction_summary": "Ryan thinks Dave is the favorite but Morozov's trajectory is significant, and it wouldn't surprise him if Morozov wins.",
+        "predicted_duration": "Long",
+        "style_conflict": "Pressure vs technical prowess",
+        "opinion_about_athletes": {
+          "Artyom Morozov": {
+            "strength": "Technical and improving",
+            "health": "Unknown",
+            "previous_match_summary": "Morozov has been performing well recently."
+          },
+          "Dave Chaffee": {
+            "strength": "Strong pressure",
+            "health": "Unknown",
+            "previous_match_summary": "Dave is a seasoned competitor."
+          }
+        }
+      },
+      {
+        "match": [
+          "Kydyrgali Ongarbaev",
+          "John Brzenk"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "John Brzenk",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Ryan believes John will win due to his experience and ability to step up against phenomenal opponents.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Defensive top roll vs control",
+        "opinion_about_athletes": {
+          "Kydyrgali Ongarbaev": {
+            "strength": "Great defensive top roll",
+            "health": "Unknown",
+            "previous_match_summary": "Ongarbaev is a strong competitor."
+          },
+          "John Brzenk": {
+            "strength": "Experience and control",
+            "health": "Unknown",
+            "previous_match_summary": "John has a history of winning against top opponents."
+          }
+        }
+      },
+      {
+        "match": [
+          "Daniel Procopciuc",
+          "Corey Miller"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Daniel Procopciuc",
+        "predicted_score": "3-0",
+        "prediction_summary": "Ryan thinks Procopciuc will win by forcing the match into a hook and collapsing Corey's pronation.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Hook vs speed",
+        "opinion_about_athletes": {
+          "Daniel Procopciuc": {
+            "strength": "Strong inside puller",
+            "health": "Unknown",
+            "previous_match_summary": "Procopciuc has been performing well."
+          },
+          "Corey Miller": {
+            "strength": "Fast off the go",
+            "health": "Unknown",
+            "previous_match_summary": "Corey's speed is a significant factor."
+          }
+        }
+      },
+      {
+        "match": [
+          "Chance Shaw",
+          "Zurab Tavberidze"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Chance Shaw",
+        "predicted_score": "3-2 or 3-0",
+        "prediction_summary": "Ryan believes Chance has the weapons to beat Zurab, especially if he can take Zurab's wrist.",
+        "predicted_duration": "Long",
+        "style_conflict": "Aggressive hit vs side pressure",
+        "opinion_about_athletes": {
+          "Chance Shaw": {
+            "strength": "Aggressive and big",
+            "health": "Unknown",
+            "previous_match_summary": "Chance has been performing well."
+          },
+          "Zurab Tavberidze": {
+            "strength": "Strong side pressure",
+            "health": "Unknown",
+            "previous_match_summary": "Zurab is a warrior with a lot of matches."
+          }
+        }
+      },
+      {
+        "match": [
+          "Sandris Sedis",
+          "Lachlan Adair"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Could go either way",
+        "predicted_score": "Close, possibly 3-2",
+        "prediction_summary": "Ryan thinks the match will come down to where the stop happens. If Lachlan has a slight kink in his wrist, Sandris is in trouble.",
+        "predicted_duration": "Long",
+        "style_conflict": "Top roll vs inside game",
+        "opinion_about_athletes": {
+          "Sandris Sedis": {
+            "strength": "Technical and strong top roll",
+            "health": "Unknown",
+            "previous_match_summary": "Sandris is a strong competitor."
+          },
+          "Lachlan Adair": {
+            "strength": "Strong back pressure and fingers",
+            "health": "Unknown",
+            "previous_match_summary": "Lachlan has been improving."
+          }
+        }
+      },
+      {
+        "match": [
+          "Evgeny Prudnik",
+          "Todd Hutchings"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Evgeny Prudnik",
+        "predicted_score": "Likely 3-1 or 3-2",
+        "prediction_summary": "Ryan thinks Prudnik is the favorite due to his control strength and speed, but Todd could win if the match stops in the straps.",
+        "predicted_duration": "Long",
+        "style_conflict": "Control vs press",
+        "opinion_about_athletes": {
+          "Evgeny Prudnik": {
+            "strength": "Control strength and speed",
+            "health": "Unknown",
+            "previous_match_summary": "Prudnik has been performing well."
+          },
+          "Todd Hutchings": {
+            "strength": "Strong press",
+            "health": "Unknown",
+            "previous_match_summary": "Todd is a seasoned competitor."
+          }
+        }
+      },
+      {
+        "match": [
+          "Revaz Lutidze",
+          "Derek Smith"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Revaz Lutidze",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Ryan thinks Revaz is the favorite but acknowledges that Derek could make it a match if he turns up motivated.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Top roll vs hook",
+        "opinion_about_athletes": {
+          "Revaz Lutidze": {
+            "strength": "Strong top roll and shoulder pressure",
+            "health": "Unknown",
+            "previous_match_summary": "Revaz has been performing well."
+          },
+          "Derek Smith": {
+            "strength": "Aggressive if motivated",
+            "health": "Unknown",
+            "previous_match_summary": "Derek's form is uncertain."
+          }
+        }
+      },
+      {
+        "match": [
+          "Bozhidar Simeonov",
+          "Davit Samushia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Could go either way",
+        "predicted_score": "Close, possibly 3-2",
+        "prediction_summary": "Ryan thinks the match could be long and physically exhausting, with Bozhidar looking to lock it out and David looking to finish.",
+        "predicted_duration": "Long",
+        "style_conflict": "Hook vs hook",
+        "opinion_about_athletes": {
+          "Bozhidar Simeonov": {
+            "strength": "Strong in hook and endurance",
+            "health": "Unknown",
+            "previous_match_summary": "Bozhidar has been improving."
+          },
+          "Davit Samushia": {
+            "strength": "Strong in center table integrity",
+            "health": "Unknown",
+            "previous_match_summary": "Samushia is a tough competitor."
+          }
+        }
+      },
+      {
+        "match": [
+          "Yerdaulet Sarybay",
+          "Yusuf Yıldızoğlu"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Yusuf Yıldızoğlu",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Ryan thinks Yusuf is a killer and will likely win, but acknowledges Yerdaulet's strength.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Inside vs inside",
+        "opinion_about_athletes": {
+          "Yerdaulet Sarybay": {
+            "strength": "Strong inside",
+            "health": "Unknown",
+            "previous_match_summary": "Yerdaulet has been performing well."
+          },
+          "Yusuf Yıldızoğlu": {
+            "strength": "Strong inside and killer instinct",
+            "health": "Unknown",
+            "previous_match_summary": "Yusuf has been amazing."
+          }
+        }
+      },
+      {
+        "match": [
+          "Oleg Zhokh",
+          "David Dadikyan"
+        ],
+        "arm": "Left",
+        "event": "East vs West 4",
+        "predicted_winner": "David Dadikyan",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Ryan thinks David is a beast and it will be a hard match for Oleg to win, but he hopes Oleg wins for the story.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Power vs technique",
+        "opinion_about_athletes": {
+          "Oleg Zhokh": {
+            "strength": "Pound-for-pound great",
+            "health": "Recovering from accident",
+            "previous_match_summary": "Oleg is building back his form."
+          },
+          "David Dadikyan": {
+            "strength": "Strong and beastly",
+            "health": "Unknown",
+            "previous_match_summary": "David is a tough competitor."
+          }
+        }
+      }
+    ],
+    "Coach Ray": [
+      {
+        "match": [
+          "Jerry Cadorette",
+          "Genadi Kvikvinia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Genadi Kvikvinia",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Ray thinks Genadi is the favorite due to his form and versatility.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Press vs versatility",
+        "opinion_about_athletes": {
+          "Jerry Cadorette": {
+            "strength": "Strong press",
+            "health": "Unknown",
+            "previous_match_summary": "Jerry's current form is unknown."
+          },
+          "Genadi Kvikvinia": {
+            "strength": "Versatile and in great form",
+            "health": "Unknown",
+            "previous_match_summary": "Genadi has been performing well recently."
+          }
+        }
+      },
+      {
+        "match": [
+          "Artyom Morozov",
+          "Dave Chaffee"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Dave Chaffee",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Ray thinks Dave is the favorite but acknowledges Morozov's potential.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Pressure vs technical prowess",
+        "opinion_about_athletes": {
+          "Artyom Morozov": {
+            "strength": "Technical and improving",
+            "health": "Unknown",
+            "previous_match_summary": "Morozov has been performing well recently."
+          },
+          "Dave Chaffee": {
+            "strength": "Strong pressure",
+            "health": "Unknown",
+            "previous_match_summary": "Dave is a seasoned competitor."
+          }
+        }
+      },
+      {
+        "match": [
+          "Kydyrgali Ongarbaev",
+          "John Brzenk"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "John Brzenk",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Ray believes John will win due to his experience and ability to step up against phenomenal opponents.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Defensive top roll vs control",
+        "opinion_about_athletes": {
+          "Kydyrgali Ongarbaev": {
+            "strength": "Great defensive top roll",
+            "health": "Unknown",
+            "previous_match_summary": "Ongarbaev is a strong competitor."
+          },
+          "John Brzenk": {
+            "strength": "Experience and control",
+            "health": "Unknown",
+            "previous_match_summary": "John has a history of winning against top opponents."
+          }
+        }
+      },
+      {
+        "match": [
+          "Daniel Procopciuc",
+          "Corey Miller"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Daniel Procopciuc",
+        "predicted_score": "3-0",
+        "prediction_summary": "Ray thinks Procopciuc will win by stopping Corey's speed and bleeding him out.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Hook vs speed",
+        "opinion_about_athletes": {
+          "Daniel Procopciuc": {
+            "strength": "Strong inside puller",
+            "health": "Unknown",
+            "previous_match_summary": "Procopciuc has been performing well."
+          },
+          "Corey Miller": {
+            "strength": "Fast off the go",
+            "health": "Unknown",
+            "previous_match_summary": "Corey's speed is a significant factor."
+          }
+        }
+      },
+      {
+        "match": [
+          "Chance Shaw",
+          "Zurab Tavberidze"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Chance Shaw",
+        "predicted_score": "3-2 or 3-0",
+        "prediction_summary": "Ray thinks Chance has the weapons to beat Zurab, especially if he can take Zurab's wrist.",
+        "predicted_duration": "Long",
+        "style_conflict": "Aggressive hit vs side pressure",
+        "opinion_about_athletes": {
+          "Chance Shaw": {
+            "strength": "Aggressive and big",
+            "health": "Unknown",
+            "previous_match_summary": "Chance has been performing well."
+          },
+          "Zurab Tavberidze": {
+            "strength": "Strong side pressure",
+            "health": "Unknown",
+            "previous_match_summary": "Zurab is a warrior with a lot of matches."
+          }
+        }
+      },
+      {
+        "match": [
+          "Sandris Sedis",
+          "Lachlan Adair"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Sandris Sedis",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Ray thinks Sandris has more options to win and will likely take the match.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Top roll vs inside game",
+        "opinion_about_athletes": {
+          "Sandris Sedis": {
+            "strength": "Technical and strong top roll",
+            "health": "Unknown",
+            "previous_match_summary": "Sandris is a strong competitor."
+          },
+          "Lachlan Adair": {
+            "strength": "Strong back pressure and fingers",
+            "health": "Unknown",
+            "previous_match_summary": "Lachlan has been improving."
+          }
+        }
+      },
+      {
+        "match": [
+          "Evgeny Prudnik",
+          "Todd Hutchings"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Evgeny Prudnik",
+        "predicted_score": "Likely 3-1 or 3-2",
+        "prediction_summary": "Ray thinks Prudnik is the favorite due to his control strength and speed, but Todd could win if the match stops in the straps.",
+        "predicted_duration": "Long",
+        "style_conflict": "Control vs press",
+        "opinion_about_athletes": {
+          "Evgeny Prudnik": {
+            "strength": "Control strength and speed",
+            "health": "Unknown",
+            "previous_match_summary": "Prudnik has been performing well."
+          },
+          "Todd Hutchings": {
+            "strength": "Strong press",
+            "health": "Unknown",
+            "previous_match_summary": "Todd is a seasoned competitor."
+          }
+        }
+      },
+      {
+        "match": [
+          "Revaz Lutidze",
+          "Derek Smith"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Revaz Lutidze",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Ray thinks Revaz is the favorite and Derek is not at that level yet.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Top roll vs hook",
+        "opinion_about_athletes": {
+          "Revaz Lutidze": {
+            "strength": "Strong top roll and shoulder pressure",
+            "health": "Unknown",
+            "previous_match_summary": "Revaz has been performing well."
+          },
+          "Derek Smith": {
+            "strength": "Aggressive if motivated",
+            "health": "Unknown",
+            "previous_match_summary": "Derek's form is uncertain."
+          }
+        }
+      },
+      {
+        "match": [
+          "Bozhidar Simeonov",
+          "Davit Samushia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Bozhidar Simeonov",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Ray thinks Bozhidar is the slight favorite due to his improvement and ability to lock it out.",
+        "predicted_duration": "Long",
+        "style_conflict": "Hook vs hook",
+        "opinion_about_athletes": {
+          "Bozhidar Simeonov": {
+            "strength": "Strong in hook and endurance",
+            "health": "Unknown",
+            "previous_match_summary": "Bozhidar has been improving."
+          },
+          "Davit Samushia": {
+            "strength": "Strong in center table integrity",
+            "health": "Unknown",
+            "previous_match_summary": "Samushia is a tough competitor."
+          }
+        }
+      },
+      {
+        "match": [
+          "Yerdaulet Sarybay",
+          "Yusuf Yıldızoğlu"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Yusuf Yıldızoğlu",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Ray thinks Yusuf is the favorite due to his killer instinct.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Inside vs inside",
+        "opinion_about_athletes": {
+          "Yerdaulet Sarybay": {
+            "strength": "Strong inside",
+            "health": "Unknown",
+            "previous_match_summary": "Yerdaulet has been performing well."
+          },
+          "Yusuf Yıldızoğlu": {
+            "strength": "Strong inside and killer instinct",
+            "health": "Unknown",
+            "previous_match_summary": "Yusuf has been amazing."
+          }
+        }
+      },
+      {
+        "match": [
+          "Oleg Zhokh",
+          "David Dadikyan"
+        ],
+        "arm": "Left",
+        "event": "East vs West 4",
+        "predicted_winner": "David Dadikyan",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Ray thinks David is the favorite due to his strength, but acknowledges Oleg's story.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Power vs technique",
+        "opinion_about_athletes": {
+          "Oleg Zhokh": {
+            "strength": "Pound-for-pound great",
+            "health": "Recovering from accident",
+            "previous_match_summary": "Oleg is building back his form."
+          },
+          "David Dadikyan": {
+            "strength": "Strong and beastly",
+            "health": "Unknown",
+            "previous_match_summary": "David is a tough competitor."
+          }
+        }
+      }
+    ],
+    "Engin Terzi": [
+      {
+        "match": [
+          "Jerry Cadorette",
+          "Genadi Kvikvinia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Genadi Kvikvinia",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Engin thinks Genadi is the favorite due to his form and versatility.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Press vs versatility",
+        "opinion_about_athletes": {
+          "Jerry Cadorette": {
+            "strength": "Strong press",
+            "health": "Unknown",
+            "previous_match_summary": "Jerry's current form is unknown."
+          },
+          "Genadi Kvikvinia": {
+            "strength": "Versatile and in great form",
+            "health": "Unknown",
+            "previous_match_summary": "Genadi has been performing well recently."
+          }
+        }
+      },
+      {
+        "match": [
+          "Artyom Morozov",
+          "Dave Chaffee"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Dave Chaffee",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Engin thinks Dave is the favorite but acknowledges Morozov's potential.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Pressure vs technical prowess",
+        "opinion_about_athletes": {
+          "Artyom Morozov": {
+            "strength": "Technical and improving",
+            "health": "Unknown",
+            "previous_match_summary": "Morozov has been performing well recently."
+          },
+          "Dave Chaffee": {
+            "strength": "Strong pressure",
+            "health": "Unknown",
+            "previous_match_summary": "Dave is a seasoned competitor."
+          }
+        }
+      },
+      {
+        "match": [
+          "Kydyrgali Ongarbaev",
+          "John Brzenk"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "John Brzenk",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Engin believes John will win due to his experience and ability to step up against phenomenal opponents.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Defensive top roll vs control",
+        "opinion_about_athletes": {
+          "Kydyrgali Ongarbaev": {
+            "strength": "Great defensive top roll",
+            "health": "Unknown",
+            "previous_match_summary": "Ongarbaev is a strong competitor."
+          },
+          "John Brzenk": {
+            "strength": "Experience and control",
+            "health": "Unknown",
+            "previous_match_summary": "John has a history of winning against top opponents."
+          }
+        }
+      },
+      {
+        "match": [
+          "Daniel Procopciuc",
+          "Corey Miller"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Daniel Procopciuc",
+        "predicted_score": "3-0",
+        "prediction_summary": "Engin thinks Procopciuc will win by stopping Corey's speed and bleeding him out.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Hook vs speed",
+        "opinion_about_athletes": {
+          "Daniel Procopciuc": {
+            "strength": "Strong inside puller",
+            "health": "Unknown",
+            "previous_match_summary": "Procopciuc has been performing well."
+          },
+          "Corey Miller": {
+            "strength": "Fast off the go",
+            "health": "Unknown",
+            "previous_match_summary": "Corey's speed is a significant factor."
+          }
+        }
+      },
+      {
+        "match": [
+          "Chance Shaw",
+          "Zurab Tavberidze"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Chance Shaw",
+        "predicted_score": "3-2 or 3-0",
+        "prediction_summary": "Engin thinks Chance has the weapons to beat Zurab, especially if he can take Zurab's wrist.",
+        "predicted_duration": "Long",
+        "style_conflict": "Aggressive hit vs side pressure",
+        "opinion_about_athletes": {
+          "Chance Shaw": {
+            "strength": "Aggressive and big",
+            "health": "Unknown",
+            "previous_match_summary": "Chance has been performing well."
+          },
+          "Zurab Tavberidze": {
+            "strength": "Strong side pressure",
+            "health": "Unknown",
+            "previous_match_summary": "Zurab is a warrior with a lot of matches."
+          }
+        }
+      },
+      {
+        "match": [
+          "Sandris Sedis",
+          "Lachlan Adair"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Sandris Sedis",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Engin thinks Sandris has more options to win and will likely take the match.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Top roll vs inside game",
+        "opinion_about_athletes": {
+          "Sandris Sedis": {
+            "strength": "Technical and strong top roll",
+            "health": "Unknown",
+            "previous_match_summary": "Sandris is a strong competitor."
+          },
+          "Lachlan Adair": {
+            "strength": "Strong back pressure and fingers",
+            "health": "Unknown",
+            "previous_match_summary": "Lachlan has been improving."
+          }
+        }
+      },
+      {
+        "match": [
+          "Evgeny Prudnik",
+          "Todd Hutchings"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Evgeny Prudnik",
+        "predicted_score": "Likely 3-1 or 3-2",
+        "prediction_summary": "Engin thinks Prudnik is the favorite due to his control strength and speed, but Todd could win if the match stops in the straps.",
+        "predicted_duration": "Long",
+        "style_conflict": "Control vs press",
+        "opinion_about_athletes": {
+          "Evgeny Prudnik": {
+            "strength": "Control strength and speed",
+            "health": "Unknown",
+            "previous_match_summary": "Prudnik has been performing well."
+          },
+          "Todd Hutchings": {
+            "strength": "Strong press",
+            "health": "Unknown",
+            "previous_match_summary": "Todd is a seasoned competitor."
+          }
+        }
+      },
+      {
+        "match": [
+          "Revaz Lutidze",
+          "Derek Smith"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Revaz Lutidze",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Engin thinks Revaz is the favorite and Derek is not at that level yet.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Top roll vs hook",
+        "opinion_about_athletes": {
+          "Revaz Lutidze": {
+            "strength": "Strong top roll and shoulder pressure",
+            "health": "Unknown",
+            "previous_match_summary": "Revaz has been performing well."
+          },
+          "Derek Smith": {
+            "strength": "Aggressive if motivated",
+            "health": "Unknown",
+            "previous_match_summary": "Derek's form is uncertain."
+          }
+        }
+      },
+      {
+        "match": [
+          "Bozhidar Simeonov",
+          "Davit Samushia"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Bozhidar Simeonov",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Engin thinks Bozhidar is the slight favorite due to his improvement and ability to lock it out.",
+        "predicted_duration": "Long",
+        "style_conflict": "Hook vs hook",
+        "opinion_about_athletes": {
+          "Bozhidar Simeonov": {
+            "strength": "Strong in hook and endurance",
+            "health": "Unknown",
+            "previous_match_summary": "Bozhidar has been improving."
+          },
+          "Davit Samushia": {
+            "strength": "Strong in center table integrity",
+            "health": "Unknown",
+            "previous_match_summary": "Samushia is a tough competitor."
+          }
+        }
+      },
+      {
+        "match": [
+          "Yerdaulet Sarybay",
+          "Yusuf Yıldızoğlu"
+        ],
+        "arm": "Right",
+        "event": "East vs West 4",
+        "predicted_winner": "Yusuf Yıldızoğlu",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Engin thinks Yusuf is the favorite due to his killer instinct.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Inside vs inside",
+        "opinion_about_athletes": {
+          "Yerdaulet Sarybay": {
+            "strength": "Strong inside",
+            "health": "Unknown",
+            "previous_match_summary": "Yerdaulet has been performing well."
+          },
+          "Yusuf Yıldızoğlu": {
+            "strength": "Strong inside and killer instinct",
+            "health": "Unknown",
+            "previous_match_summary": "Yusuf has been amazing."
+          }
+        }
+      },
+      {
+        "match": [
+          "Oleg Zhokh",
+          "David Dadikyan"
+        ],
+        "arm": "Left",
+        "event": "East vs West 4",
+        "predicted_winner": "David Dadikyan",
+        "predicted_score": "Likely 3-0 or 3-1",
+        "prediction_summary": "Engin thinks David is the favorite due to his strength, but acknowledges Oleg's story.",
+        "predicted_duration": "Medium",
+        "style_conflict": "Power vs technique",
+        "opinion_about_athletes": {
+          "Oleg Zhokh": {
+            "strength": "Pound-for-pound great",
+            "health": "Recovering from accident",
+            "previous_match_summary": "Oleg is building back his form."
+          },
+          "David Dadikyan": {
+            "strength": "Strong and beastly",
+            "health": "Unknown",
+            "previous_match_summary": "David is a tough competitor."
+          }
+        }
+      }
+    ]
+  }
+}

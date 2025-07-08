@@ -1,0 +1,122 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Pavel",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Devon Larratt",
+    "SPEAKER_03": "Denis Cyplenkov",
+    "SPEAKER_04": "Babken"
+  },
+  "date": null,
+  "predictions": {
+    "Devon Larratt": {
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon believes he will destroy Denis and win the match, citing his improvement over the past five years and Denis's setbacks.",
+          "predicted_duration": null,
+          "style_conflict": "Devon thinks Denis is a better arm wrestler now but still believes he will win.",
+          "opinion_about_athletes": {
+            "Denis Cyplenkov": {
+              "strength": "Devon respects Denis's strength and sacrifice but believes his own training and consistency will prevail.",
+              "health": "Notes Denis's past health issues and surgeries.",
+              "previous_match_summary": "Mentions Denis's match with John Brzenk and questions whether Denis was fully trying."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": []
+    },
+    "Denis Cyplenkov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Denis Cyplenkov",
+          "predicted_score": null,
+          "prediction_summary": "Denis believes he has a good chance to win, citing his current training and mindset. He feels he is improving and will be ready for the match.",
+          "predicted_duration": null,
+          "style_conflict": "Denis acknowledges Devon's improvements but remains confident in his own abilities.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Denis jokes about Devon losing weight but understands his strategy for endurance.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ],
+      "third_party_predictions": []
+    },
+    "Babken": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Denis Cyplenkov",
+          "predicted_score": null,
+          "prediction_summary": "Babken strongly supports Denis, citing his training and preparation. He also humorously suggests Devon needs an exorcism to remove negative influences.",
+          "predicted_duration": null,
+          "style_conflict": "Babken believes Denis's current style and training under his guidance make him a better arm wrestler.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Babken thinks Devon is strong but has negative influences affecting him.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Denis Cyplenkov": {
+              "strength": "Babken views Denis as a saint-like figure with immense strength and dedication.",
+              "health": "Notes Denis's past surgeries and recovery.",
+              "previous_match_summary": "Highlights Denis's match with John Brzenk and his support during Denis's surgery."
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin notes the historical significance of the match and the long wait for it. He emphasizes the importance of the match beyond just determining who faces Levan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Engin respects Devon as a promoter and ambassador of the sport.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Denis Cyplenkov": {
+              "strength": "Engin acknowledges Denis's strength and the support from Babken.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

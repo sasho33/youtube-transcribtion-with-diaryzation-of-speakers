@@ -1,0 +1,274 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Nurdaulet Aidarkhan",
+    "SPEAKER_02": "Mindaugas Tarasaitis",
+    "SPEAKER_04": "Moderator/Translator"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Mindaugas Tarasaitis",
+      "self_predictions": [
+        {
+          "match": [
+            "Nurdaulet Aidarkhan",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas feels confident due to his endurance and ability to slow down Nurdaulet's speed. He believes Nurdaulet is not as versatile as Daniel and will have to attack in a top roll way, which Mindaugas feels comfortable defending.",
+          "predicted_duration": null,
+          "style_conflict": "Mindaugas expects a top roll battle with Nurdaulet focusing on speed and side pressure."
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Doug Erlich",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas thinks Raimonds has more experience and recent power improvements, giving him the edge over Doug.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Oleg Petrenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas is impressed by Muratov's recent performances but acknowledges Petrenko's strength. He leans towards Muratov due to speed and explosiveness.",
+          "predicted_duration": null,
+          "style_conflict": "Muratov's speed vs. Petrenko's horsepower."
+        },
+        {
+          "match": [
+            "Barbora Bajciova",
+            "Gabriela Vasconcelos"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Gabriela Vasconcelos",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas favors Gabriela due to her experience and recent dominance, despite Barbora's size advantage.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Corey West",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas believes Corey's recent improvements and strength give him the edge over Arif.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Rustam Babayev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Rustam Babayev",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas thinks Rustam's strength and defensive skills will overcome Paul's initial surge.",
+          "predicted_duration": null,
+          "style_conflict": "Paul's speed vs. Rustam's defensive strength."
+        },
+        {
+          "match": [
+            "David Samushia",
+            "Craig Tullier"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "David Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas gives the edge to Samushia due to his current form and ability to handle Craig's explosive style.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas believes Ongarbaev's endurance and smart pulling can outlast Michael, though the press is a concern.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Ongarbaev's endurance vs. Todd's press."
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas finds it hard to bet against Brzenk after his recent performances, despite Irakli's strength.",
+          "predicted_duration": null,
+          "style_conflict": "Irakli's power vs. Brzenk's experience."
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas sees Jerry's style as a bad matchup for Georgi and expects a comfortable win for Jerry.",
+          "predicted_duration": "Later rounds easier for Jerry",
+          "style_conflict": "Jerry's press vs. Georgi's back pressure."
+        }
+      ],
+      "opinion_about_athletes": {
+        "Nurdaulet Aidarkhan": {
+          "strength": "Explosive, versatile, good endurance",
+          "health": null,
+          "previous_match_summary": "Multiple WAF medals across weight classes, but lacks super match experience."
+        },
+        "John Brzenk": {
+          "strength": "Legendary experience, pronator strength",
+          "health": null,
+          "previous_match_summary": "Recent win over Petrenko shows he's still competitive."
+        },
+        "Kydyrgali Ongarbaev": {
+          "strength": "Smart, endurance, joint strength",
+          "health": null,
+          "previous_match_summary": "Impressive comeback against Alex Kurdecha."
+        }
+      }
+    },
+    {
+      "speaker": "Nurdaulet Aidarkhan",
+      "self_predictions": [
+        {
+          "match": [
+            "Nurdaulet Aidarkhan",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet is confident but humble, stating only God knows the outcome. He emphasizes hard training and patience.",
+          "predicted_duration": null,
+          "style_conflict": null
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Oleg Petrenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet favors Muratov due to his recent WAF performance and shape.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Barbora Bajciova",
+            "Gabriela Vasconcelos"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Gabriela Vasconcelos",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet picks Gabriela due to her multiple world titles and experience.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Rustam Babayev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Rustam Babayev",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet believes Rustam's confidence and preparation will lead to victory.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet supports his teammate Ongarbaev, citing his current shape and training.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Nurdaulet sees it as an even match, respecting both athletes.",
+          "predicted_duration": null,
+          "style_conflict": null
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet thinks Georgi's strength and speed will overcome Jerry.",
+          "predicted_duration": null,
+          "style_conflict": null
+        }
+      ],
+      "opinion_about_athletes": {
+        "Mindaugas Tarasaitis": {
+          "strength": "Top roller, endurance",
+          "health": null,
+          "previous_match_summary": "Respects Mindaugas as a world-class competitor."
+        },
+        "John Brzenk": {
+          "strength": "Legendary, multiple world titles",
+          "health": null,
+          "previous_match_summary": "Considers Brzenk a foundational figure in armwrestling."
+        }
+      }
+    }
+  ]
+}

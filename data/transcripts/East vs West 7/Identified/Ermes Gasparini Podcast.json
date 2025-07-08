@@ -1,0 +1,76 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Ermes Gasparini",
+    "SPEAKER_02": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Ermes Gasparini",
+      "self_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon will win because he is very smart to block his movement and has good endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's shoulder pressure and blocking movement will be key.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "High endurance and strategic blocking",
+              "health": null,
+              "previous_match_summary": "Devon is known for his smart techniques and endurance in matches."
+            },
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": null,
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": null,
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        }
+      ]
+    }
+  ]
+}

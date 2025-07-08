@@ -1,0 +1,221 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_04": "John Brzenk"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "John Brzenk",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Corey West",
+            "Ferit Osmanli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Ferit Osmanli",
+          "predicted_score": null,
+          "prediction_summary": "John thinks Ferit Osmanli is favored due to his experience and versatility, despite Corey West's rapid improvement.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Rapidly improving, strong outside hit",
+              "health": null,
+              "previous_match_summary": "Has been performing well in recent matches"
+            },
+            "Ferit Osmanli": {
+              "strength": "Better top roller and hooker, good endurance",
+              "health": "Looks extremely healthy, weighing 308 lbs now",
+              "previous_match_summary": "Dominant in recent matches, built good side pressure"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Ferit Osmanli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Ferit Osmanli",
+          "predicted_score": null,
+          "prediction_summary": "John believes Ferit is favored due to his versatility and better top roll, though Genadi is strong.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong arm, good top roll",
+              "health": "Has had injuries in the past",
+              "previous_match_summary": "Lost to Jerry Cadorette but was competitive"
+            },
+            "Ferit Osmanli": {
+              "strength": "Better top roller and hooker",
+              "health": "Extremely healthy, weighing 308 lbs",
+              "previous_match_summary": "Dominant in recent matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "John thinks Michael Todd is favored due to his pronation and back pressure, though Ongarbaev is explosive.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. king's move",
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Explosive, good hand advantage",
+              "health": null,
+              "previous_match_summary": "Beat Kurdecha with a shoulder press"
+            },
+            "Michael Todd": {
+              "strength": "Strong pronation and back pressure",
+              "health": "Losing some weight but still effective",
+              "previous_match_summary": "Known for his king's move"
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Rustam Babayev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Rustam Babayev",
+          "predicted_score": null,
+          "prediction_summary": "John believes Rustam is favored due to his explosiveness and ability to set up high, though Paul is strong.",
+          "predicted_duration": null,
+          "style_conflict": "Explosive hit vs. hook",
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Strong, good hook",
+              "health": null,
+              "previous_match_summary": "Beat Gamtenadze recently"
+            },
+            "Rustam Babayev": {
+              "strength": "Explosive, effective at setting up high",
+              "health": "May not be in super shape but still very good",
+              "previous_match_summary": "Dominant in recent matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Curtis Cameron"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "John thinks Zurab is favored due to his hook strength, though Curtis is strong.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. power drag",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong hook, tough to beat inside",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            },
+            "Curtis Cameron": {
+              "strength": "Strong, underrated",
+              "health": null,
+              "previous_match_summary": "Under the radar but improving"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes John will win if the match goes outside with flat wrist, as his side pressure is stronger.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. side pressure",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Confident, strong top roll",
+              "health": null,
+              "previous_match_summary": "Training partner of Levan and directly"
+            },
+            "John Brzenk": {
+              "strength": "Strong side pressure, experienced",
+              "health": "Shoulder issues but managing",
+              "previous_match_summary": "Recently beat Oleg Petrenko"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Oleg Petrenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Alizhan is favored due to his dominance in recent matches and left arm strength.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Dominant left arm, world champion",
+              "health": null,
+              "previous_match_summary": "Won super heavyweight at Worlds"
+            },
+            "Oleg Petrenko": {
+              "strength": "Strong left arm, beat Daddycat",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Arabuli",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Chance Shaw",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Chance is underrated and can be dangerous if he fixes his wrist position.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. top roll",
+          "opinion_about_athletes": {
+            "Davit Arabuli": {
+              "strength": "Strong, training partner of Levan",
+              "health": null,
+              "previous_match_summary": "Under the radar"
+            },
+            "Chance Shaw": {
+              "strength": "Underrated, strong pronator",
+              "health": null,
+              "previous_match_summary": "Beat some world-level guys"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

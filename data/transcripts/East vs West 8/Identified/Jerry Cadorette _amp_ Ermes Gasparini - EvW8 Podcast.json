@@ -1,0 +1,213 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Ermes Gasparini",
+    "SPEAKER_02": "Unknown",
+    "SPEAKER_03": "Jerry Cadorette"
+  },
+  "date": null,
+  "self_predictions": {
+    "Ermes Gasparini": [
+      {
+        "match": [
+          "Ermes Gasparini",
+          "Jerry Cadorette"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Ermes Gasparini",
+        "predicted_score": "3-0",
+        "prediction_summary": "Ermes believes he will dominate Jerry quickly, finishing each round within seconds.",
+        "predicted_duration": "Short (seconds per round)",
+        "style_conflict": "Top roll vs press",
+        "opinion_about_athletes": {
+          "Jerry Cadorette": {
+            "strength": "Strong but not as technical",
+            "health": "Healthy",
+            "previous_match_summary": "Jerry has a history of strong performances but Ermes believes his technique will prevail."
+          }
+        }
+      }
+    ],
+    "Jerry Cadorette": [
+      {
+        "match": [
+          "Jerry Cadorette",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Jerry Cadorette",
+        "predicted_score": "3-0",
+        "prediction_summary": "Jerry is confident in his strength and experience, believing Ermes has never faced someone like him.",
+        "predicted_duration": "Short to medium",
+        "style_conflict": "Press vs top roll",
+        "opinion_about_athletes": {
+          "Ermes Gasparini": {
+            "strength": "Strong but overconfident",
+            "health": "Healthy",
+            "previous_match_summary": "Ermes is a top competitor but Jerry believes his unique style will be the difference."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Ermes Gasparini": [
+      {
+        "match": [
+          "Gennady Kvikvinia",
+          "Artyom Morozov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "50-50",
+        "predicted_score": "Unknown",
+        "prediction_summary": "Ermes thinks it's a close match, with Morozov likely to top roll and Gennady to use multiple techniques.",
+        "predicted_duration": "Unknown",
+        "style_conflict": "Top roll vs versatility",
+        "opinion_about_athletes": {
+          "Gennady Kvikvinia": {
+            "strength": "Very technical",
+            "health": "Healthy",
+            "previous_match_summary": "Gennady is known for his endurance and versatility."
+          },
+          "Artyom Morozov": {
+            "strength": "Young and powerful",
+            "health": "Healthy",
+            "previous_match_summary": "Morozov is rising quickly but lacks Gennady's experience."
+          }
+        }
+      },
+      {
+        "match": [
+          "Sandris Sedis",
+          "Pavlo Derbedyenyev"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Sandris Sedis",
+        "predicted_score": "Unknown",
+        "prediction_summary": "Ermes favors Sandris due to his longer arm and top rolling ability.",
+        "predicted_duration": "Unknown",
+        "style_conflict": "Top roll vs inside",
+        "opinion_about_athletes": {
+          "Sandris Sedis": {
+            "strength": "Strong top roller",
+            "health": "Healthy",
+            "previous_match_summary": "Sandris has shown dominance in recent matches."
+          },
+          "Pavlo Derbedyenyev": {
+            "strength": "Improving",
+            "health": "Healthy",
+            "previous_match_summary": "Pavlo is getting better but may lack the experience against top rollers."
+          }
+        }
+      }
+    ],
+    "Jerry Cadorette": [
+      {
+        "match": [
+          "Gennady Kvikvinia",
+          "Artyom Morozov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Gennady Kvikvinia",
+        "predicted_score": "55-45",
+        "prediction_summary": "Jerry believes Gennady's technical skills and endurance will give him the edge over Morozov.",
+        "predicted_duration": "Unknown",
+        "style_conflict": "Versatility vs power",
+        "opinion_about_athletes": {
+          "Gennady Kvikvinia": {
+            "strength": "Technical and enduring",
+            "health": "Healthy",
+            "previous_match_summary": "Gennady has a history of outlasting opponents."
+          },
+          "Artyom Morozov": {
+            "strength": "Powerful but less experienced",
+            "health": "Healthy",
+            "previous_match_summary": "Morozov is strong but may struggle with Gennady's techniques."
+          }
+        }
+      },
+      {
+        "match": [
+          "Wagner Bortolato",
+          "Ferit Osmanli"
+        ],
+        "arm": "Left",
+        "event": "East vs West 8",
+        "predicted_winner": "Wagner Bortolato",
+        "predicted_score": "Unknown",
+        "prediction_summary": "Jerry favors Wagner due to his strength and fun-to-watch style.",
+        "predicted_duration": "Unknown",
+        "style_conflict": "Shoulder pressure vs inside",
+        "opinion_about_athletes": {
+          "Wagner Bortolato": {
+            "strength": "Strong and animated",
+            "health": "Healthy",
+            "previous_match_summary": "Wagner is known for his shoulder pressure."
+          },
+          "Ferit Osmanli": {
+            "strength": "Competitive but returning from break",
+            "health": "Healthy",
+            "previous_match_summary": "Ferit has impressed recently but may lack consistency."
+          }
+        }
+      }
+    ],
+    "Engin Terzi": [
+      {
+        "match": [
+          "Oleg Petrenko",
+          "Chance Shaw"
+        ],
+        "arm": "Right",
+        "event": "East vs West 8",
+        "predicted_winner": "Oleg Petrenko",
+        "predicted_score": "55-45",
+        "prediction_summary": "Engin slightly favors Petrenko over Shaw.",
+        "predicted_duration": "Unknown",
+        "style_conflict": "Unknown",
+        "opinion_about_athletes": {
+          "Oleg Petrenko": {
+            "strength": "Strong",
+            "health": "Healthy",
+            "previous_match_summary": "Petrenko has shown good form."
+          },
+          "Chance Shaw": {
+            "strength": "Competitive",
+            "health": "Healthy",
+            "previous_match_summary": "Shaw is a solid competitor but may lack Petrenko's edge."
+          }
+        }
+      },
+      {
+        "match": [
+          "Wagner Bortolato",
+          "Ferit Osmanli"
+        ],
+        "arm": "Left",
+        "event": "East vs West 8",
+        "predicted_winner": "Wagner Bortolato",
+        "predicted_score": "65-35",
+        "prediction_summary": "Engin believes Wagner's shoulder pressure will be too much for Ferit.",
+        "predicted_duration": "Unknown",
+        "style_conflict": "Shoulder pressure vs inside",
+        "opinion_about_athletes": {
+          "Wagner Bortolato": {
+            "strength": "Strong shoulder pressure",
+            "health": "Healthy",
+            "previous_match_summary": "Wagner is dominant when he gets his shoulder into the match."
+          },
+          "Ferit Osmanli": {
+            "strength": "Good inside puller",
+            "health": "Healthy",
+            "previous_match_summary": "Ferit needs to take Wagner to his side to win."
+          }
+        }
+      }
+    ]
+  }
+}

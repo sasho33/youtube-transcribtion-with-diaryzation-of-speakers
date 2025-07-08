@@ -1,0 +1,118 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi"
+  },
+  "date": null,
+  "self_predictions": [],
+  "third_party_predictions": [
+    {
+      "match": [
+        "Raimonds Liepiņš",
+        "Ryan Bowen"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "No specific prediction, but mentioned Ryan Bowen will pull against Raimonds Liepiņš.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {}
+    },
+    {
+      "match": [
+        "Davit Samushia",
+        "Bozhidar Simeonov"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Mentioned Bozhidar Simeonov will pull against Davit Samushia.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {}
+    },
+    {
+      "match": [
+        "Daniel Procopciuc",
+        "Corey Miller"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Mentioned Daniel Procopciuc will pull against Corey Miller.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {}
+    },
+    {
+      "match": [
+        "Gabriela Vasconcelos",
+        "Egle Vaitkute"
+      ],
+      "arm": "Left",
+      "event": "East vs West 4",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Described the match as 'God versus God' due to both athletes having over 20 world titles.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Gabriela Vasconcelos": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": "Multiple world titles holder."
+        },
+        "Egle Vaitkute": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": "Multiple world titles holder."
+        }
+      }
+    },
+    {
+      "match": [
+        "Kydyrgali Ongarbaev",
+        "John Brzenk"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Mentioned Kydyrgali Ongarbaev will pull against John Brzenk.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {}
+    },
+    {
+      "match": [
+        "Artyom Morozov",
+        "Kody Merritt"
+      ],
+      "arm": "Left",
+      "event": "East vs West 4",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Mentioned Ermes Gasparini is ready to pull the winner of this match in November for the title.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {}
+    },
+    {
+      "match": [
+        "Jerry Cadorette",
+        "Genadi Kvikvinia"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Mentioned Ermes Gasparini is ready to pull the winner of this match in November for the title.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {}
+    }
+  ]
+}

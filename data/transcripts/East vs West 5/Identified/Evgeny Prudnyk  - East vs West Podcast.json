@@ -1,0 +1,263 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Paulo",
+    "SPEAKER_01": "Evgeny Prudnik",
+    "SPEAKER_02": "Unknown",
+    "SPEAKER_03": "Engin Terzi"
+  },
+  "date": null,
+  "Evgeny Prudnik": {
+    "self_predictions": [
+      {
+        "match": [
+          "Evgeny Prudnik",
+          "Michael Todd"
+        ],
+        "arm": "Right",
+        "event": "East vs West 5",
+        "predicted_winner": "Evgeny Prudnik",
+        "predicted_score": null,
+        "prediction_summary": "Prudnik believes it will be a very difficult fight, especially if he cannot prepare well for Michael Todd's style. He thinks his side pressure and top roll are strong for his weight, but Michael's experience and style make it a 50-50 match.",
+        "predicted_duration": null,
+        "style_conflict": "Michael Todd's open arm top roll vs Prudnik's side pressure and top roll.",
+        "opinion_about_athletes": {
+          "Michael Todd": {
+            "strength": "Very experienced with a unique and effective style.",
+            "health": null,
+            "previous_match_summary": "Michael has stopped strong opponents like Pushkar in the past."
+          }
+        }
+      },
+      {
+        "match": [
+          "Evgeny Prudnik",
+          "Devon Larratt"
+        ],
+        "arm": "Right",
+        "event": "East vs West 5",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Prudnik is open to pulling Devon Larratt after beating Michael Todd, but no specific predictions were made about the outcome.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ],
+    "third_party_predictions": [
+      {
+        "match": [
+          "Artyom Morozov",
+          "Revaz Lutidze"
+        ],
+        "arm": "Right",
+        "event": "East vs West 5",
+        "predicted_winner": "Artyom Morozov",
+        "predicted_score": null,
+        "prediction_summary": "Prudnik thinks Morozov has a slight chance to win, especially if he can hook Lutidze quickly. He believes Lutidze has strong side pressure but weak points in his wrist and fingers.",
+        "predicted_duration": null,
+        "style_conflict": "Morozov's hook vs Lutidze's side pressure.",
+        "opinion_about_athletes": {
+          "Artyom Morozov": {
+            "strength": "Getting stronger and improving.",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Revaz Lutidze": {
+            "strength": "Strong side pressure but weak wrist and fingers.",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Oleg Petrenko",
+          "John Brzenk"
+        ],
+        "arm": "Right",
+        "event": "East vs West 5",
+        "predicted_winner": "John Brzenk",
+        "predicted_score": null,
+        "prediction_summary": "Prudnik thinks if Petrenko comes in very good shape, it could be a 50-50 match, but he believes John Brzenk has the edge due to his power and experience.",
+        "predicted_duration": null,
+        "style_conflict": "Petrenko's quick start vs Brzenk's power and slow start.",
+        "opinion_about_athletes": {
+          "Oleg Petrenko": {
+            "strength": "Quick start but lacks endurance.",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "John Brzenk": {
+            "strength": "Powerful and experienced.",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Rustam Babaev",
+          "lrakli Gamtenadze"
+        ],
+        "arm": "Right",
+        "event": "East vs West 5",
+        "predicted_winner": "Rustam Babaev",
+        "predicted_score": null,
+        "prediction_summary": "Prudnik believes Rustam Babaev will win if he is in good shape, due to his strong hand and good position.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Rustam Babaev": {
+            "strength": "Strong hand and good position.",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "lrakli Gamtenadze": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Tobias Sporrong",
+          "Georgii Dzeranov"
+        ],
+        "arm": "Right",
+        "event": "East vs West 5",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Prudnik thinks it will be an interesting fight but is unsure about the outcome, especially if Tobias is stronger than last time.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Tobias Sporrong": {
+            "strength": "Quick and strong, especially on the left.",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Georgii Dzeranov": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Ongarbaev",
+          "Todd Hutchings"
+        ],
+        "arm": "Right",
+        "event": "East vs West 5",
+        "predicted_winner": "Ongarbaev",
+        "predicted_score": null,
+        "prediction_summary": "Prudnik believes Ongarbaev can beat Todd Hutchings due to his quick start and experience.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Ongarbaev": {
+            "strength": "Quick start and experienced.",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Todd Hutchings": {
+            "strength": null,
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ]
+  },
+  "Engin Terzi": {
+    "third_party_predictions": [
+      {
+        "match": [
+          "Artyom Morozov",
+          "Revaz Lutidze"
+        ],
+        "arm": "Right",
+        "event": "East vs West 5",
+        "predicted_winner": "Artyom Morozov",
+        "predicted_score": null,
+        "prediction_summary": "Engin agrees with Prudnik that Morozov has a slight chance to win, especially if he can hook Lutidze quickly.",
+        "predicted_duration": null,
+        "style_conflict": "Morozov's hook vs Lutidze's side pressure.",
+        "opinion_about_athletes": {
+          "Artyom Morozov": {
+            "strength": "Getting stronger and improving.",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "Revaz Lutidze": {
+            "strength": "Strong side pressure but weak wrist and fingers.",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      },
+      {
+        "match": [
+          "Oleg Petrenko",
+          "John Brzenk"
+        ],
+        "arm": "Right",
+        "event": "East vs West 5",
+        "predicted_winner": "John Brzenk",
+        "predicted_score": null,
+        "prediction_summary": "Engin thinks John Brzenk will win due to his power and experience, even if Petrenko comes in good shape.",
+        "predicted_duration": null,
+        "style_conflict": "Petrenko's quick start vs Brzenk's power and slow start.",
+        "opinion_about_athletes": {
+          "Oleg Petrenko": {
+            "strength": "Quick start but lacks endurance.",
+            "health": null,
+            "previous_match_summary": null
+          },
+          "John Brzenk": {
+            "strength": "Powerful and experienced.",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ]
+  },
+  "Paulo": {
+    "third_party_predictions": [
+      {
+        "match": [
+          "Evgeny Prudnik",
+          "Michael Todd"
+        ],
+        "arm": "Right",
+        "event": "East vs West 5",
+        "predicted_winner": "Evgeny Prudnik",
+        "predicted_score": null,
+        "prediction_summary": "Paulo thinks Prudnik is a slight favorite but warns not to underestimate Michael Todd's experience and unique style.",
+        "predicted_duration": null,
+        "style_conflict": "Michael Todd's king's move vs Prudnik's side pressure and top roll.",
+        "opinion_about_athletes": {
+          "Michael Todd": {
+            "strength": "Very experienced with a unique and effective style.",
+            "health": null,
+            "previous_match_summary": "Michael has stopped strong opponents like Pushkar in the past."
+          },
+          "Evgeny Prudnik": {
+            "strength": "Strong side pressure and top roll.",
+            "health": null,
+            "previous_match_summary": null
+          }
+        }
+      }
+    ]
+  }
+}

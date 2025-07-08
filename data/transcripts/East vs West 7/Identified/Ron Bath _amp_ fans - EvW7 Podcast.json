@@ -1,0 +1,478 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Ron Bath",
+    "SPEAKER_01": "Mert (Lagia)",
+    "SPEAKER_02": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Ron Bath",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Sasho Andreev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Ron roots for Paul Linn due to patriotism and believes it will be a good war, though he acknowledges Sasho's experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Technical on the table",
+              "health": null,
+              "previous_match_summary": "Recently active and improving"
+            },
+            "Sasho Andreev": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": "Less active recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "60-40",
+          "prediction_summary": "Ron leans towards Daniel due to experience and activity, though Doug has shown resilience in the past.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Active and experienced",
+              "health": null,
+              "previous_match_summary": "Recent matches show good form"
+            },
+            "Doug Erlich": {
+              "strength": "Resilient in tough matches",
+              "health": null,
+              "previous_match_summary": "Known for surprising performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Ron believes experience will win, though Brandon is hungry and could surprise if the match goes long.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": "Strong at WAF"
+            },
+            "Brandon Ellsessor": {
+              "strength": "Hungry and improving",
+              "health": null,
+              "previous_match_summary": "Local tournaments and super matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Rob Vigeant Jr.",
+          "predicted_score": null,
+          "prediction_summary": "Ron leans towards Rob due to his big hand and potential comeback, though Zurab is powerful.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Powerful",
+              "health": null,
+              "previous_match_summary": "Recent matches show strength"
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Big hand, experienced",
+              "health": null,
+              "previous_match_summary": "Coming back after time off"
+            }
+          }
+        },
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Adam Wawrzynski",
+          "predicted_score": null,
+          "prediction_summary": "Ron roots for Adam due to his endurance and dedication, though Bacho is highly regarded.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bacho Saginashvili": {
+              "strength": "Young and highly regarded",
+              "health": null,
+              "previous_match_summary": "Won WAF subjuniors in 2019"
+            },
+            "Adam Wawrzynski": {
+              "strength": "Dedicated, can hold forever in a hook",
+              "health": null,
+              "previous_match_summary": "Recent war with Robbie Russell"
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Ron roots for Dave due to friendship and country, believes Dave has something to prove.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Tall, strong",
+              "health": null,
+              "previous_match_summary": "Lost to Morozov"
+            },
+            "Dave Chaffee": {
+              "strength": "Strong side pressure",
+              "health": null,
+              "previous_match_summary": "Needs a good win after recent outings"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Ron believes Devon's endurance and recent level-up will be key, though Genadi is strong.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Endurance, strong pronator",
+              "health": null,
+              "previous_match_summary": "Recent level-up in performance"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Strong, explosive",
+              "health": null,
+              "previous_match_summary": "Fired up after Devon's comments"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Mert (Lagia)",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Mert bets on Davit due to his consistency at 85 kg, unless it's someone like Zola or Engin.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Consistent at 85 kg",
+              "health": null,
+              "previous_match_summary": "Strong at WAF"
+            },
+            "Brandon Ellsessor": {
+              "strength": "Motivated",
+              "health": null,
+              "previous_match_summary": "Could surprise if Davit can't hook him"
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "60-40",
+          "prediction_summary": "Mert favors Dave due to his side pressure, though Revaz could shine in a top roll battle.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Tall, strong",
+              "health": null,
+              "previous_match_summary": "Lost to Morozov"
+            },
+            "Dave Chaffee": {
+              "strength": "Strong side pressure",
+              "health": null,
+              "previous_match_summary": "Needs a good win"
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": "3-0",
+          "prediction_summary": "Mert believes Ongarbaev could win decisively due to better hand control and endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Better hand control, endurance",
+              "health": null,
+              "previous_match_summary": "Beat John Brzenk"
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Powerful",
+              "health": null,
+              "previous_match_summary": "Has a surprising flop press"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Tobias Sporrong",
+          "predicted_score": null,
+          "prediction_summary": "Mert thinks Tobias' dominant hand and explosivity will give him the edge over Laletin.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Strong side pressure",
+              "health": "Healthy on left arm",
+              "previous_match_summary": "Lost to Morozov"
+            },
+            "Tobias Sporrong": {
+              "strength": "Explosive, dominant hand",
+              "health": null,
+              "previous_match_summary": "Recent strong performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Mert believes Genadi's explosiveness and stamina could overcome Devon's pronation.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong pronator, endurance",
+              "health": null,
+              "previous_match_summary": "Recent level-up"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Explosive, good stamina",
+              "health": null,
+              "previous_match_summary": "Fired up after Devon's comments"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Sasho Andreev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": "70-30",
+          "prediction_summary": "Engin favors Sasho due to experience, though Paul is mentally dangerous.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": "Pulled five months ago"
+            },
+            "Paul Linn": {
+              "strength": "Mentally dangerous, professional",
+              "health": null,
+              "previous_match_summary": "Recent strong performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "60-40",
+          "prediction_summary": "Engin agrees with Ron that Daniel is more active and has the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Active, awkward sticking point",
+              "health": null,
+              "previous_match_summary": "Recent matches show form"
+            },
+            "Doug Erlich": {
+              "strength": "Dangerous in wars",
+              "health": null,
+              "previous_match_summary": "Shocked Coach Ray"
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Engin sees it as a toss-up, with both wanting respect and motivated.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Powerful",
+              "health": null,
+              "previous_match_summary": "Recent strong performances"
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Motivated, big hand",
+              "health": null,
+              "previous_match_summary": "Coming back after time off"
+            }
+          }
+        },
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Bacho Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Engin is impressed by Bacho's youth and Georgian hype, though Adam is dangerous.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bacho Saginashvili": {
+              "strength": "Young, highly regarded",
+              "health": null,
+              "previous_match_summary": "Won WAF subjuniors in 2019"
+            },
+            "Adam Wawrzynski": {
+              "strength": "Dedicated, can hold in a hook",
+              "health": null,
+              "previous_match_summary": "Recent war with Robbie Russell"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Tobias Sporrong",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Tobias' dominant hand and explosivity will be key, though Laletin is healthy.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Strong side pressure",
+              "health": "Healthy on left arm",
+              "previous_match_summary": "Lost to Morozov"
+            },
+            "Tobias Sporrong": {
+              "strength": "Explosive, dominant hand",
+              "health": null,
+              "previous_match_summary": "Recent strong performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Genadi's explosiveness and spirit will overcome Devon's pronation.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong pronator, endurance",
+              "health": null,
+              "previous_match_summary": "Recent level-up"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Explosive, unrelenting spirit",
+              "health": null,
+              "previous_match_summary": "Fired up after Devon's comments"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

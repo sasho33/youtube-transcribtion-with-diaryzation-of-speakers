@@ -1,0 +1,243 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Unknown",
+    "SPEAKER_01": "Raimonds Liepiņš",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Doug Erlich",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": {
+    "Doug Erlich": {
+      "self_predictions": [
+        {
+          "match": [
+            "Doug Erlich",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Doug Erlich",
+          "predicted_score": "3-0",
+          "prediction_summary": "Confident in his strength and technique, believes he will dominate Raimonds.",
+          "predicted_duration": "Short",
+          "style_conflict": "Inside pull",
+          "opinion_about_athletes": {
+            "Raimonds Liepiņš": {
+              "strength": "Respects his strength but believes he can overpower him",
+              "health": "No specific comments",
+              "previous_match_summary": "Mentions Raimonds' wins but questions the level of competition"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Efe Kömek",
+            "Beket Aitbek"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Efe Kömek",
+          "predicted_score": "3-0",
+          "prediction_summary": "Believes Efe is stronger and more experienced.",
+          "predicted_duration": "Medium",
+          "style_conflict": "Hook",
+          "opinion_about_athletes": {
+            "Efe Kömek": {
+              "strength": "Strong and versatile",
+              "health": "No specific comments",
+              "previous_match_summary": "Has seen him perform well in past matches"
+            },
+            "Beket Aitbek": {
+              "strength": "Respects his strength but questions his technique",
+              "health": "No specific comments",
+              "previous_match_summary": "Fouled out in previous matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Curtis Cameron"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": "3-2",
+          "prediction_summary": "Thinks Zurab's strength and technique will edge out Curtis.",
+          "predicted_duration": "Long",
+          "style_conflict": "Inside pull",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Very strong, especially in hook",
+              "health": "No specific comments",
+              "previous_match_summary": "Has seen him dominate in past matches"
+            },
+            "Curtis Cameron": {
+              "strength": "Strong but may lack endurance",
+              "health": "No specific comments",
+              "previous_match_summary": "Has seen him struggle in long matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ahmet Yenerer",
+            "Robert Baxter"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Robert Baxter",
+          "predicted_score": "3-2",
+          "prediction_summary": "Believes Robert's experience and technique will give him the edge.",
+          "predicted_duration": "Long",
+          "style_conflict": "Top roll",
+          "opinion_about_athletes": {
+            "Ahmet Yenerer": {
+              "strength": "Strong but less experienced",
+              "health": "No specific comments",
+              "previous_match_summary": "Won in Grand Masters but less known internationally"
+            },
+            "Robert Baxter": {
+              "strength": "Very strong and technical",
+              "health": "No specific comments",
+              "previous_match_summary": "Has seen him perform well in past matches"
+            }
+          }
+        }
+      ]
+    },
+    "Raimonds Liepiņš": {
+      "self_predictions": [
+        {
+          "match": [
+            "Raimonds Liepiņš",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": "3-0",
+          "prediction_summary": "Confident in his strength and technique, believes he will dominate Doug.",
+          "predicted_duration": "Short",
+          "style_conflict": "Inside pull",
+          "opinion_about_athletes": {
+            "Doug Erlich": {
+              "strength": "Respects his strength but believes he can overpower him",
+              "health": "No specific comments",
+              "previous_match_summary": "Mentions Doug's wins but questions the level of competition"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Davit Arabuli",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Davit Arabuli",
+          "predicted_score": "3-0",
+          "prediction_summary": "Believes Davit's strength and technique will give him the edge.",
+          "predicted_duration": "Medium",
+          "style_conflict": "Hook",
+          "opinion_about_athletes": {
+            "Davit Arabuli": {
+              "strength": "Very strong and technical",
+              "health": "No specific comments",
+              "previous_match_summary": "Has seen him perform well in past matches"
+            },
+            "Chance Shaw": {
+              "strength": "Strong but less experienced",
+              "health": "No specific comments",
+              "previous_match_summary": "Has seen him struggle in long matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Barbora Bajciova",
+            "Gabriela Vasconcelos"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Barbora Bajciova",
+          "predicted_score": "3-0",
+          "prediction_summary": "Thinks Barbora's strength and frame will dominate Gabriela.",
+          "predicted_duration": "Short",
+          "style_conflict": "Top roll",
+          "opinion_about_athletes": {
+            "Barbora Bajciova": {
+              "strength": "Very strong and dominant",
+              "health": "No specific comments",
+              "previous_match_summary": "Has seen her dominate in past matches"
+            },
+            "Gabriela Vasconcelos": {
+              "strength": "Strong but less dominant",
+              "health": "No specific comments",
+              "previous_match_summary": "Has seen her struggle in past matches"
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Corey West",
+            "Ferit Osmanli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Corey West",
+          "predicted_score": "3-2",
+          "prediction_summary": "Believes Corey's explosiveness will give him the edge.",
+          "predicted_duration": "Long",
+          "style_conflict": "Top roll",
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Very strong and explosive",
+              "health": "No specific comments",
+              "previous_match_summary": "Has seen him perform well in past matches"
+            },
+            "Ferit Osmanli": {
+              "strength": "Strong but may lack explosiveness",
+              "health": "No specific comments",
+              "previous_match_summary": "Has seen him struggle in explosive matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Oleg Petrenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": "3-2",
+          "prediction_summary": "Thinks Alizhan's strength and versatility will edge out Oleg.",
+          "predicted_duration": "Long",
+          "style_conflict": "Hook",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Very strong and versatile",
+              "health": "No specific comments",
+              "previous_match_summary": "Has seen him dominate in past matches"
+            },
+            "Oleg Petrenko": {
+              "strength": "Strong but less versatile",
+              "health": "No specific comments",
+              "previous_match_summary": "Has seen him struggle in versatile matches"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

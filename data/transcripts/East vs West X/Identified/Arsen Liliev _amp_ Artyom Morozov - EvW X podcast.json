@@ -1,0 +1,335 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Artem Morozov",
+    "SPEAKER_01": "Paulo",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Arsen Liliev"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Artem Morozov",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Frank Lamparelli",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": "Not 3-0, but win",
+          "prediction_summary": "Likes Matt Mask's current form and performance in recent matches.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "High energy, good performance lately",
+              "health": null,
+              "previous_match_summary": "Great matches with Kalinichenko and Ron Abbott"
+            },
+            "Frank Lamparelli": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artem Taynov",
+            "Sasho Andreev"
+          ],
+          "arm": "Left",
+          "event": "East vs West X",
+          "predicted_winner": "Artem Taynov",
+          "predicted_score": "Not easy, but win",
+          "prediction_summary": "Believes Sasho's vegetarianism may affect performance, Artem is very technical.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artem Taynov": {
+              "strength": "Very technical, can transition smoothly",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Sasho Andreev": {
+              "strength": null,
+              "health": "Vegetarianism may affect performance",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": null,
+          "prediction_summary": "Kamil is young and has potential, but Ivan's experience will prevail.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": "Experienced, fast wrist",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kamil Jablonski": {
+              "strength": "Young, has potential",
+              "health": null,
+              "previous_match_summary": "Just started, everything ahead"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "Domination",
+          "prediction_summary": "Sasho's right arm injury and longer angle may hinder performance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Dominant top roll and back pressure",
+              "health": null,
+              "previous_match_summary": "Beat Alexey Voivodamesh"
+            },
+            "Sasho Andreev": {
+              "strength": null,
+              "health": "Right arm injury, longer angle",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Denis Cyplenkov",
+          "predicted_score": "80-20",
+          "prediction_summary": "Denis's huge arms and peak preparation will give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Denis Cyplenkov": {
+              "strength": "Huge arms, peak preparation",
+              "health": null,
+              "previous_match_summary": "Gained a lot of strength over summer"
+            },
+            "Devon Larratt": {
+              "strength": "Strong, but has issues",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Arsen Liliev",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Artem Taynov",
+            "Sasho Andreev"
+          ],
+          "arm": "Left",
+          "event": "East vs West X",
+          "predicted_winner": "Artem Taynov",
+          "predicted_score": "Dominant win",
+          "prediction_summary": "Artem looks incredible, different muscles, can pull in all styles.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artem Taynov": {
+              "strength": "Different muscles, can pull in all styles",
+              "health": null,
+              "previous_match_summary": "Saw him in July, looked incredible"
+            },
+            "Sasho Andreev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": "Convincingly",
+          "prediction_summary": "Ivan's experience and strength are at a different level.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": "Experienced, strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kamil Jablonski": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Defeated Dave Chaffee 3-0"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": "3-0",
+          "prediction_summary": "Todd lacks technique against top rollers like Ongarbaev.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong in hook, lacks technique against top rollers",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Smart, proven against top opponents",
+              "health": null,
+              "previous_match_summary": "Beat John Brzenk and Irakli Zirakashvili"
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Zaur Paizulaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Zaur Paizulaev",
+          "predicted_score": "70-30",
+          "prediction_summary": "If Zaur is fully recovered, he will dominate.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zaur Paizulaev": {
+              "strength": "Huge power, fully recovered",
+              "health": "Recovered from injury",
+              "previous_match_summary": "Dominant before injury"
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Experienced, heavy",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Denis Cyplenkov",
+          "predicted_score": "100%",
+          "prediction_summary": "Denis will be at 200% for the match, Devon has no chance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Denis Cyplenkov": {
+              "strength": "Incredible preparation, 200% for match",
+              "health": null,
+              "previous_match_summary": "Prime Denis was unbeatable"
+            },
+            "Devon Larratt": {
+              "strength": "Media personality, strong but not enough",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Engin Terzi"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Engin Terzi",
+          "predicted_score": "60-40",
+          "prediction_summary": "Engin's top roll will be key, toughest part is starting position.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Engin Terzi": {
+              "strength": "Strong top roll, constant finger pressure",
+              "health": "Injuries better, hoping for 90-95% form",
+              "previous_match_summary": null
+            },
+            "Davit Samushia": {
+              "strength": "Strong wrist",
+              "health": null,
+              "previous_match_summary": "Struggled in first round with Daniel Prokopchuk"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Paulo",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Denis Cyplenkov",
+          "predicted_score": "55-45",
+          "prediction_summary": "Denis's overall body power gives him a slight edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Denis Cyplenkov": {
+              "strength": "15-20% stronger overall",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": "Strong arm, wrist control",
+              "health": null,
+              "previous_match_summary": "Dominant against Hermes"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

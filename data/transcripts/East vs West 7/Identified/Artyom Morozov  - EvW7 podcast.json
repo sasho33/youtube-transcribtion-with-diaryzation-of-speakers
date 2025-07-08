@@ -1,0 +1,227 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": null,
+    "SPEAKER_01": "Artyom Morozov",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Pavlo",
+    "SPEAKER_04": null
+  },
+  "date": null,
+  "predictions": {
+    "Artyom Morozov": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": "90% Alizhan",
+          "prediction_summary": "Speed and strength on Alizhan's side, but Kody is very uncomfortable with his twisting style.",
+          "predicted_duration": null,
+          "style_conflict": "Kody's twisting style vs Alizhan's speed and strength",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "High",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kody Merritt": {
+              "strength": "Uncomfortable hand style",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "60-40 Dave",
+          "prediction_summary": "Dave is favored, but if Revaz goes into the hook, it could be an endurance war.",
+          "predicted_duration": null,
+          "style_conflict": "Dave's back pressure vs Revaz's hook",
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Strong back pressure and side pressure",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Revaz Lutidze": {
+              "strength": "Good endurance in hook",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": "60-40 Ongarbaev",
+          "prediction_summary": "Ongarbaev is very smart and can control the match, but Irakli has strong back pressure.",
+          "predicted_duration": null,
+          "style_conflict": "Ongarbaev's control vs Irakli's back pressure",
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Smart puller, good control",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Strong back pressure",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Genadi is very clever and strong, and will not give up like Prudnik. Devon is a cheater but Genadi can match him.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's psychological tactics vs Genadi's toughness",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong and clever",
+              "health": null,
+              "previous_match_summary": "Will not give up like Prudnik"
+            },
+            "Devon Larratt": {
+              "strength": "Psychological tactics",
+              "health": null,
+              "previous_match_summary": "Known for making opponents quit"
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "55-45 or 60-40 Vitalii",
+          "prediction_summary": "Vitalii is favored but Tobias is young and growing fast. It could be closer than expected.",
+          "predicted_duration": null,
+          "style_conflict": "Vitalii's strong fingers vs Tobias's grip",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Strong fingers and side pressure",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Tobias Sporrong": {
+              "strength": "Strong grip",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": "65-35 Sasho",
+          "prediction_summary": "Sasho is favored but Paul is a real deal and should not be underestimated.",
+          "predicted_duration": null,
+          "style_conflict": "Sasho's side pressure vs Paul's versatility",
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Strong side pressure",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Paul Linn": {
+              "strength": "Versatile and tough",
+              "health": null,
+              "previous_match_summary": "Gave John Brzenk a hard time"
+            }
+          }
+        }
+      ]
+    },
+    "Pavlo": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "55-45 Daniel",
+          "prediction_summary": "Daniel is slightly favored but Doug is no joke. It will be a close match.",
+          "predicted_duration": null,
+          "style_conflict": "Daniel's strength vs Doug's experience",
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Comeback match"
+            },
+            "Doug Erlich": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": "Never lost against a dead risk guy"
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": "65-35 Zurab",
+          "prediction_summary": "Zurab is favored but Rob is smart and has genetic gifts. It could be closer if Rob is in top form.",
+          "predicted_duration": null,
+          "style_conflict": "Zurab's endurance vs Rob's smart pulling",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Endurance",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Smart puller",
+              "health": null,
+              "previous_match_summary": "Comeback match"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

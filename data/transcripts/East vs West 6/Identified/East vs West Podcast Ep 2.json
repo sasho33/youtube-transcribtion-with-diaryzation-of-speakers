@@ -1,0 +1,721 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Paul Linn",
+    "SPEAKER_02": "Artem Taranov"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Paul Linn",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Efe Kömek",
+            "Beket Aitbek"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Efe Kömek",
+          "predicted_score": null,
+          "prediction_summary": "Paul favors Efe Kömek due to his known quantity and competitive level.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Efe Kömek": {
+              "strength": "Competitive at world level",
+              "health": null,
+              "previous_match_summary": "Impressive left-handed showings at worlds"
+            },
+            "Beket Aitbek": {
+              "strength": "Respected level from Kazakhstan",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Robert Baxter",
+            "Ahmet Yenerer"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Robert Baxter",
+          "predicted_score": null,
+          "prediction_summary": "Paul supports Robert Baxter due to his experience and recent stem cell treatment.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Robert Baxter": {
+              "strength": "Experienced at world level",
+              "health": "Recently underwent stem cell treatment",
+              "previous_match_summary": "Competes in Masters category"
+            },
+            "Ahmet Yenerer": {
+              "strength": "Unknown",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Doug Erlich",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Doug Erlich",
+          "predicted_score": null,
+          "prediction_summary": "Paul picks Doug Erlich despite Raimonds being the clear favorite, based on Doug's potential and training.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Doug Erlich": {
+              "strength": "Potential to compete at high level",
+              "health": "No recent injuries",
+              "previous_match_summary": "Off since last WAL season"
+            },
+            "Raimonds Liepiņš": {
+              "strength": "Improving level",
+              "health": "Active and in good shape",
+              "previous_match_summary": "16-0 record"
+            }
+          }
+        },
+        {
+          "match": [
+            "Nurdaulet Aidarkhan",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": "3-2",
+          "prediction_summary": "Paul favors Mindaugas due to his craftiness in setup and adjustments.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Nurdaulet Aidarkhan": {
+              "strength": "Strong top roll and pronation",
+              "health": null,
+              "previous_match_summary": "Recent winner at worlds"
+            },
+            "Mindaugas Tarasaitis": {
+              "strength": "Crafty in setup",
+              "health": null,
+              "previous_match_summary": "Impressive against Justin Bishop"
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Arabuli",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Chance Shaw",
+          "predicted_score": "3-0",
+          "prediction_summary": "Paul thinks Chance Shaw will win if he can prevent a stop and maintain clean hook setup.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Arabuli": {
+              "strength": "Strong in deep hook",
+              "health": null,
+              "previous_match_summary": "Top finisher at 110kg"
+            },
+            "Chance Shaw": {
+              "strength": "Strong back pressure and lock pronation",
+              "health": null,
+              "previous_match_summary": "Difficult to hook cleanly"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Oleg Petrenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Paul picks Alizhan Muratov due to his savage nature and recent performance at worlds.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Strong performer at worlds",
+              "health": "Recently back from ban",
+              "previous_match_summary": "Destroyed everybody at worlds"
+            },
+            "Oleg Petrenko": {
+              "strength": "Strong left arm",
+              "health": null,
+              "previous_match_summary": "Performed well recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey West",
+            "Ferit Osmanli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Paul believes Corey West is hitting a new level and will dominate.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Rising to new level",
+              "health": "No injuries",
+              "previous_match_summary": "Recently dominated Cody Merritt"
+            },
+            "Ferit Osmanli": {
+              "strength": "Experienced",
+              "health": "Recently back from break",
+              "previous_match_summary": "Former champion"
+            }
+          }
+        },
+        {
+          "match": [
+            "David Samushia",
+            "Craig Tullier"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Craig Tullier",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "Paul thinks Craig Tullier will win if he can position correctly in setup.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "David Samushia": {
+              "strength": "Potential to be best Georgian arm wrestler",
+              "health": "Trimming down and getting stronger",
+              "previous_match_summary": "Overcame early scare in recent match"
+            },
+            "Craig Tullier": {
+              "strength": "Strong surges and skill set",
+              "health": null,
+              "previous_match_summary": "Smoking everybody at his weight"
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Curtis Cameron"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": "3-0",
+          "prediction_summary": "Paul believes Zurab Tavberidze is the favorite but hopes for a close match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong rotation inside",
+              "health": null,
+              "previous_match_summary": "Crazy training mentality"
+            },
+            "Curtis Cameron": {
+              "strength": "Strong side pressure",
+              "health": null,
+              "previous_match_summary": "Impressive in practice"
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babayev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Rustam Babayev",
+          "predicted_score": "3-0",
+          "prediction_summary": "Paul acknowledges Rustam as the favorite but hopes for a competitive match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rustam Babayev": {
+              "strength": "Legendary status",
+              "health": "Active and training hard",
+              "previous_match_summary": "Masterful setup against Todd Hutchings"
+            },
+            "Paul Linn": {
+              "strength": "Underdog",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Ferit Osmanli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Paul roots for Genadi due to his heart and recent performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Huge heart",
+              "health": null,
+              "previous_match_summary": "Savage in recent matches"
+            },
+            "Ferit Osmanli": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "Paul favors Michael Todd due to his heart and the extra centimeter on the pad.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Known quantity",
+              "health": null,
+              "previous_match_summary": "Competitive against John Brzenk"
+            },
+            "Michael Todd": {
+              "strength": "Master of King's Move",
+              "health": "Recently lost weight",
+              "previous_match_summary": "Coming off bicep injury"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "Paul believes John Brzenk will win due to his experience and recent form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Strong hand and back pressure",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "John Brzenk": {
+              "strength": "Legendary status",
+              "health": "Getting better",
+              "previous_match_summary": "Comeback tour"
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "Paul thinks Jerry Cadorette will win due to his tricky style.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Tricky style",
+              "health": "Over injury",
+              "previous_match_summary": null
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Active and in good shape",
+              "health": null,
+              "previous_match_summary": "Recent world champion"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Artem Taranov",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Efe Kömek",
+            "Beket Aitbek"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Beket Aitbek",
+          "predicted_score": null,
+          "prediction_summary": "Artem picks Beket Aitbek based on his left-handed showings at worlds.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Efe Kömek": {
+              "strength": "Competitive at world level",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Beket Aitbek": {
+              "strength": "Impressive left-handed showings",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Robert Baxter",
+            "Ahmet Yenerer"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Ahmet Yenerer",
+          "predicted_score": null,
+          "prediction_summary": "Artem picks Ahmet Yenerer due to lack of information about him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Robert Baxter": {
+              "strength": "Experienced at world level",
+              "health": "Recently underwent stem cell treatment",
+              "previous_match_summary": "Competes in Masters category"
+            },
+            "Ahmet Yenerer": {
+              "strength": "Unknown",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Doug Erlich",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": "3-0",
+          "prediction_summary": "Artem favors Raimonds Liepiņš due to his activity and recent form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Doug Erlich": {
+              "strength": "Potential to compete at high level",
+              "health": "No recent injuries",
+              "previous_match_summary": "Off since last WAL season"
+            },
+            "Raimonds Liepiņš": {
+              "strength": "Improving level",
+              "health": "Active and in good shape",
+              "previous_match_summary": "16-0 record"
+            }
+          }
+        },
+        {
+          "match": [
+            "Nurdaulet Aidarkhan",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Nurdaulet Aidarkhan",
+          "predicted_score": "3-0",
+          "prediction_summary": "Artem thinks Nurdaulet Aidarkhan will win due to his recent world championship.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Nurdaulet Aidarkhan": {
+              "strength": "Strong top roll and pronation",
+              "health": null,
+              "previous_match_summary": "Recent winner at worlds"
+            },
+            "Mindaugas Tarasaitis": {
+              "strength": "Crafty in setup",
+              "health": null,
+              "previous_match_summary": "Impressive against Justin Bishop"
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Arabuli",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Davit Arabuli",
+          "predicted_score": null,
+          "prediction_summary": "Artem picks Davit Arabuli based on his top finish at 110kg.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Arabuli": {
+              "strength": "Strong in deep hook",
+              "health": null,
+              "previous_match_summary": "Top finisher at 110kg"
+            },
+            "Chance Shaw": {
+              "strength": "Strong back pressure and lock pronation",
+              "health": null,
+              "previous_match_summary": "Difficult to hook cleanly"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Oleg Petrenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Artem favors Oleg Petrenko due to his recent performance and frame.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Strong performer at worlds",
+              "health": "Recently back from ban",
+              "previous_match_summary": "Destroyed everybody at worlds"
+            },
+            "Oleg Petrenko": {
+              "strength": "Strong left arm",
+              "health": null,
+              "previous_match_summary": "Performed well recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey West",
+            "Ferit Osmanli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Ferit Osmanli",
+          "predicted_score": "3-0",
+          "prediction_summary": "Artem thinks Ferit Osmanli will win due to his experience and recent shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": "Rising to new level",
+              "health": "No injuries",
+              "previous_match_summary": "Recently dominated Cody Merritt"
+            },
+            "Ferit Osmanli": {
+              "strength": "Experienced",
+              "health": "Recently back from break",
+              "previous_match_summary": "Former champion"
+            }
+          }
+        },
+        {
+          "match": [
+            "David Samushia",
+            "Craig Tullier"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "David Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Artem picks David Samushia for the sake of argument.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "David Samushia": {
+              "strength": "Potential to be best Georgian arm wrestler",
+              "health": "Trimming down and getting stronger",
+              "previous_match_summary": "Overcame early scare in recent match"
+            },
+            "Craig Tullier": {
+              "strength": "Strong surges and skill set",
+              "health": null,
+              "previous_match_summary": "Smoking everybody at his weight"
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Curtis Cameron"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": "3-0",
+          "prediction_summary": "Artem believes Zurab Tavberidze will win decisively.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong rotation inside",
+              "health": null,
+              "previous_match_summary": "Crazy training mentality"
+            },
+            "Curtis Cameron": {
+              "strength": "Strong side pressure",
+              "health": null,
+              "previous_match_summary": "Impressive in practice"
+            }
+          }
+        },
+        {
+          "match": [
+            "Rustam Babayev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Rustam Babayev",
+          "predicted_score": "3-0",
+          "prediction_summary": "Artem thinks Rustam Babayev will win due to his legendary status.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rustam Babayev": {
+              "strength": "Legendary status",
+              "health": "Active and training hard",
+              "previous_match_summary": "Masterful setup against Todd Hutchings"
+            },
+            "Paul Linn": {
+              "strength": "Underdog",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Ferit Osmanli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Ferit Osmanli",
+          "predicted_score": null,
+          "prediction_summary": "Artem picks Ferit Osmanli as a fan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Huge heart",
+              "health": null,
+              "previous_match_summary": "Savage in recent matches"
+            },
+            "Ferit Osmanli": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": "3-0",
+          "prediction_summary": "Artem favors Kydyrgali Ongarbaev due to his known quantity and recent form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Known quantity",
+              "health": null,
+              "previous_match_summary": "Competitive against John Brzenk"
+            },
+            "Michael Todd": {
+              "strength": "Master of King's Move",
+              "health": "Recently lost weight",
+              "previous_match_summary": "Coming off bicep injury"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "3-0",
+          "prediction_summary": "Artem believes John Brzenk will win decisively.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Strong hand and back pressure",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "John Brzenk": {
+              "strength": "Legendary status",
+              "health": "Getting better",
+              "previous_match_summary": "Comeback tour"
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "Artem picks Georgi Tsvetkov for the sake of argument.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Tricky style",
+              "health": "Over injury",
+              "previous_match_summary": null
+            },
+            "Georgi Tsvetkov": {
+              "strength": "Active and in good shape",
+              "health": null,
+              "previous_match_summary": "Recent world champion"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

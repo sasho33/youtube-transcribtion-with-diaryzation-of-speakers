@@ -1,0 +1,133 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Roman (Translator)",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Artyom Morozov",
+    "SPEAKER_03": "Gennadi Kvikvinia",
+    "SPEAKER_04": "Unknown (Closing remarks)"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Gennadi Kvikvinia",
+      "self_predictions": [
+        {
+          "match": [
+            "Gennadi Kvikvinia",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Gennadi Kvikvinia",
+          "predicted_score": "3-0",
+          "prediction_summary": "Gennadi believes he will dominate Morozov from the first round, citing his experience and preparation.",
+          "predicted_duration": "Short (early rounds)",
+          "style_conflict": "Gennadi's endurance vs Morozov's power"
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "3-0 (if Ermes maintains center)",
+          "prediction_summary": "Gennadi thinks Ermes will win if he doesn't lose the center, but Jerry could take rounds if Ermes's endurance falters.",
+          "predicted_duration": "Competitive (depends on Ermes's endurance)",
+          "style_conflict": "Ermes's center control vs Jerry's power"
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Vitaly Laletin"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Revaz Lutidze",
+          "predicted_score": null,
+          "prediction_summary": "Gennadi believes Revaz will be the toughest opponent of his career if they face each other.",
+          "predicted_duration": null,
+          "style_conflict": null
+        }
+      ],
+      "opinion_about_athletes": {
+        "Artyom Morozov": {
+          "strength": "Powerful but lacks joint strength for extreme weights",
+          "health": "Young and durable, but Gennadi jokes about needing better supplements",
+          "previous_match_summary": "Struggled against Dave Chaffee, but Gennadi thinks he's improved since then."
+        },
+        "Ermes Gasparini": {
+          "strength": "Impressive backpressure (92 kg exercise), but not all translates to the table",
+          "health": null,
+          "previous_match_summary": "Dominant against Dave Chaffee, but endurance is a question mark."
+        },
+        "Jerry Cadorette": {
+          "strength": "Strong but relies on center control",
+          "health": null,
+          "previous_match_summary": "Lost to Gennadi in their match."
+        }
+      }
+    },
+    {
+      "speaker": "Artyom Morozov",
+      "self_predictions": [
+        {
+          "match": [
+            "Artyom Morozov",
+            "Gennadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "3-0",
+          "prediction_summary": "Morozov claims he will win decisively, citing his youth and preparation. Respectfully says 50-50 but privately believes 100%.",
+          "predicted_duration": "Early rounds",
+          "style_conflict": "Morozov's power vs Gennadi's endurance"
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Morozov thinks Ermes will win if he maintains center control.",
+          "predicted_duration": null,
+          "style_conflict": "Ermes's center vs Jerry's power"
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Vitaly Laletin"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Morozov believes Laletin will win due to Revaz's discomfort in the match.",
+          "predicted_duration": null,
+          "style_conflict": null
+        }
+      ],
+      "opinion_about_athletes": {
+        "Gennadi Kvikvinia": {
+          "strength": "Experienced but older",
+          "health": null,
+          "previous_match_summary": "Gennadi lost to Devon but has beaten other top opponents."
+        },
+        "Ermes Gasparini": {
+          "strength": "Strong but overrated in exercises (92 kg backpressure not fully translatable)",
+          "health": null,
+          "previous_match_summary": "Dominant against Dave Chaffee."
+        }
+      }
+    }
+  ]
+}

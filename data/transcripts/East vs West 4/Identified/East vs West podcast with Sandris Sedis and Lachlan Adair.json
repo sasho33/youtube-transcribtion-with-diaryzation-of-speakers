@@ -1,0 +1,512 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Sandris Sedis",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_04": "Lachlan Adair"
+  },
+  "date": null,
+  "predictions": {
+    "Sandris Sedis": {
+      "self_predictions": [
+        {
+          "match": [
+            "Sandris Sedis",
+            "Lachlan Adair"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Sandris Sedis",
+          "predicted_score": null,
+          "prediction_summary": "Sandris believes he is much stronger than before and can pull anywhere, finding a way to beat Lachlan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Lachlan Adair": {
+              "strength": "Acknowledges Lachlan's strength but believes his own strength is superior.",
+              "health": null,
+              "previous_match_summary": "Mentions Lachlan's performance against Todd Hutchings and Tonev."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Raimonds Liepiņš",
+            "Ryan Bowen"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": null,
+          "prediction_summary": "Believes Ray can exploit Ryan's hand and win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Raimonds Liepiņš": {
+              "strength": "Ray is in good shape and can pull anywhere.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ryan Bowen": {
+              "strength": "Ryan has one lane where he pushes sideways.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "3-1",
+          "prediction_summary": "Irakli is a slight favorite due to his strong dominant hand and recent form.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Very strong dominant hand.",
+              "health": null,
+              "previous_match_summary": "Felt like a brick wall in previous encounters."
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Dominant at his weight but struggles above it.",
+              "health": null,
+              "previous_match_summary": "Lost to Barboza, whom Irakli beat."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John's hand control, especially in the straps, will play a big role.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Very fast and explosive.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "John Brzenk": {
+              "strength": "Still has impressive hand control and inside strength.",
+              "health": null,
+              "previous_match_summary": "Looked good against Corey West."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik is more versatile and can top roll Todd.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Very quick, can top roll.",
+              "health": null,
+              "previous_match_summary": "Looked impressive in last appearance."
+            },
+            "Todd Hutchings": {
+              "strength": "Gains mass but may lose some angles.",
+              "health": null,
+              "previous_match_summary": "On the rise, looking amazing."
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Genadi is more active, younger, and explosive. Jerry hasn't pulled in three years.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "If he can get past the center, he has a chance.",
+              "health": null,
+              "previous_match_summary": "Inactive for three years."
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Very good, very active lately.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave has the experience and power. Artyom's right arm hasn't looked as dominant lately.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Not as dominant lately.",
+              "health": null,
+              "previous_match_summary": "Pulled Derek and Prudnik."
+            },
+            "Dave Chaffee": {
+              "strength": "Very strong hand, powerful side pressure.",
+              "health": null,
+              "previous_match_summary": "Active, taken some losses and wins."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Bozhidar Simeonov",
+          "predicted_score": null,
+          "prediction_summary": "Bozhidar has been looking amazing. Samushia hasn't been as active or strong as before.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Not as active or strong lately.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Bozhidar Simeonov": {
+              "strength": "Powerful inside and top roll.",
+              "health": null,
+              "previous_match_summary": "Looking amazing lately."
+            }
+          }
+        },
+        {
+          "match": [
+            "Chance Shaw",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Sees it as a 50-50 match. Zurab has power inside, Chance has dominant hand outside.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Chance Shaw": {
+              "strength": "Dominant hand outside, height advantage.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Zurab Tavberidze": {
+              "strength": "Powerful inside.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Gabriela Vasconcelos",
+            "Egle Vaitkute"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Gabriela Vasconcelos",
+          "predicted_score": null,
+          "prediction_summary": "Gabi has been very active and strong lately. Egle may not be in her prime anymore.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Gabriela Vasconcelos": {
+              "strength": "Very active and strong lately.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Egle Vaitkute": {
+              "strength": "Best in Europe in her weight class but may not be in prime.",
+              "health": null,
+              "previous_match_summary": "Has winning record against Gabi."
+            }
+          }
+        }
+      ]
+    },
+    "Lachlan Adair": {
+      "self_predictions": [
+        {
+          "match": [
+            "Sandris Sedis",
+            "Lachlan Adair"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Lachlan Adair",
+          "predicted_score": null,
+          "prediction_summary": "Lachlan is confident due to improved table IQ and ability to transfer gym strength to the table.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": "Acknowledges Sandris's strength but believes his own table IQ and frame will prevail.",
+              "health": null,
+              "previous_match_summary": "Mentions Sandris's performance against Chance Shaw."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Raimonds Liepiņš",
+            "Ryan Bowen"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Ryan Bowen",
+          "predicted_score": null,
+          "prediction_summary": "Ryan is faster and more intelligent, can think on the fly. Ray is too small to top roll Ryan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Raimonds Liepiņš": {
+              "strength": "Excellent with match reflection.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ryan Bowen": {
+              "strength": "Very fast, intelligent, big frame.",
+              "health": null,
+              "previous_match_summary": "Has more than one lane to exert force."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli is in excellent form and dealt well with Barboza.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "In excellent form.",
+              "health": null,
+              "previous_match_summary": "Dealt well with Barboza."
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Dominant at his weight but struggles above it.",
+              "health": null,
+              "previous_match_summary": "Lost to Barboza."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Ongarbaev is something special, but acknowledges John's legacy.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Dynamite, something special.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "John Brzenk": {
+              "strength": "Legendary, but lost to Corey West.",
+              "health": null,
+              "previous_match_summary": "Lost rounds to Corey West."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Wants Todd to win after being beaten by him. Todd is on the rise.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Looked impressive in last appearance.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Todd Hutchings": {
+              "strength": "On the rise, looking amazing.",
+              "health": null,
+              "previous_match_summary": "Gave Lachlan tips after their match."
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Genadi is more versatile and explosive. Jerry's style is hard to counter.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Fantastic guy but inactive.",
+              "health": null,
+              "previous_match_summary": "Arm wrestling for 25-30 years."
+            },
+            "Genadi Kvikvinia": {
+              "strength": "More active, younger, explosive.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave is too big and active. Artyom is young and not in his prime yet.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Young, not in prime yet.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": "Too big, active.",
+              "health": null,
+              "previous_match_summary": "Taken some losses and wins."
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 4",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "David has been in really good form. Oleg is coming back but may not be enough.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "In really good form, training with top Russians.",
+              "health": null,
+              "previous_match_summary": "Killing everybody in training."
+            },
+            "Oleg Zhokh": {
+              "strength": "Motivated to come back but unknown form.",
+              "health": null,
+              "previous_match_summary": "Coming back from accidents."
+            }
+          }
+        },
+        {
+          "match": [
+            "Chance Shaw",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Chance Shaw",
+          "predicted_score": null,
+          "prediction_summary": "Chance is a much bigger human being. Not a mismatch.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Chance Shaw": {
+              "strength": "Much bigger human being.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Zurab Tavberidze": {
+              "strength": "Short, around 5'8\".",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Gabriela Vasconcelos",
+            "Egle Vaitkute"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Depends on how Egle approaches tactically. Gabi has holes in her game that can be exploited.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Gabriela Vasconcelos": {
+              "strength": "Has holes in her game.",
+              "health": null,
+              "previous_match_summary": "Fatigued in last matches."
+            },
+            "Egle Vaitkute": {
+              "strength": "Unknown, but can exploit Gabi's weaknesses.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

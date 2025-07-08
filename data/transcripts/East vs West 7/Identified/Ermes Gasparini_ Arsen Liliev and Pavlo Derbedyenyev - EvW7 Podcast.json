@@ -1,0 +1,430 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Devon Larratt",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Arsen Liliev",
+    "SPEAKER_03": "Pavlo Derbedyenyev",
+    "SPEAKER_04": "Ermes Gasparini"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Arsen Liliev",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Adam Wawrzynski",
+          "predicted_score": "50-50",
+          "prediction_summary": "Adam has more experience and might handle the pressure better, but it's uncertain due to Bacho's genetic power.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bacho Saginashvili": {
+              "strength": "Super genetic power",
+              "health": null,
+              "previous_match_summary": "Impressive in left arm matches"
+            },
+            "Adam Wawrzynski": {
+              "strength": "Super strong",
+              "health": null,
+              "previous_match_summary": "Impressive against Bojidar"
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": "3-0",
+          "prediction_summary": "Zurab is in great form and will dominate the match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Adding from competition to competition",
+              "health": null,
+              "previous_match_summary": "Won 95kg category in Russia easily"
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Naturally gifted",
+              "health": null,
+              "previous_match_summary": "Has not pulled for years"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Super speed and power, likely to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Super speed, super power",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kody Merritt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Arif is very fast for a heavyweight and can surprise.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Can always be surprised",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Arif Ertem": {
+              "strength": "Very fast for heavyweight",
+              "health": null,
+              "previous_match_summary": "Always wins even when expected to lose"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Very interesting match, could go either way. Tobias is fast-growing, Vitalii has more experience.",
+          "predicted_duration": "Fast matches, winner known after first round",
+          "style_conflict": "Vitalii not used to pulling opponents with same arm length",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "More experience",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Tobias Sporrong": {
+              "strength": "Fast-growing",
+              "health": null,
+              "previous_match_summary": "Impressive progress"
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": "3-0",
+          "prediction_summary": "Sasho will dominate every match.",
+          "predicted_duration": null,
+          "style_conflict": "Paul Linn may not stop Sasho's deep hook",
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Dominant in hook",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Paul Linn": {
+              "strength": "May separate angles on start",
+              "health": null,
+              "previous_match_summary": "Locked Rustam in neutral position"
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": "51-49",
+          "prediction_summary": "Ongarbaev has better endurance and technique, may win after initial rounds.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs technique",
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Technique, endurance",
+              "health": null,
+              "previous_match_summary": "Heart of a warrior, never gives up"
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Huge strength for weight class",
+              "health": null,
+              "previous_match_summary": "Super fast, improving quickly"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon has better endurance, may win after initial rounds.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs power",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "More power, never gives up",
+              "health": null,
+              "previous_match_summary": "In great shape, ready"
+            },
+            "Devon Larratt": {
+              "strength": "Better endurance",
+              "health": null,
+              "previous_match_summary": "Biggest Devon seen, taking match seriously"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Pavlo Derbedyenyev",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Adam Wawrzynski",
+          "predicted_score": null,
+          "prediction_summary": "Adam has more endurance, may win if match stops.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs endurance",
+          "opinion_about_athletes": {
+            "Bacho Saginashvili": {
+              "strength": "Huge power on ready go",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Adam Wawrzynski": {
+              "strength": "More endurance",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": "65-35",
+          "prediction_summary": "Alizhan is more impressive, likely to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "More impressive",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kody Merritt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Ongarbaev has more tools, but Irakli is improving fast.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "More tools",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Improving fast",
+              "health": null,
+              "previous_match_summary": "Super fast, impressing every time"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon has more endurance, likely to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": "More endurance",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Ermes Gasparini",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab will win for sure, impressive in Russian tournament.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Impressive form",
+              "health": null,
+              "previous_match_summary": "Won 95kg category in Russia"
+            },
+            "Rob Vigeant Jr.": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Super strong, likely to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Super strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kody Merritt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Same as Arsen, comfortable with style.",
+          "predicted_duration": null,
+          "style_conflict": "Comfortable with top-roller style",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Tobias Sporrong": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon will win due to endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": "Better endurance",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

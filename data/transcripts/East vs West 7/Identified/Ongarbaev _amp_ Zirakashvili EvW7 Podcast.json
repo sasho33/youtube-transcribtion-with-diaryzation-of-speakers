@@ -1,0 +1,416 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Roman",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Irakli Zirakashvili",
+    "SPEAKER_03": "Sultan (Translator for Kydyrgali Ongarbaev)",
+    "SPEAKER_04": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Irakli Zirakashvili",
+      "self_predictions": [
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli believes it will be a hard match but is confident in his power and technical improvements.",
+          "predicted_duration": null,
+          "style_conflict": "Control vs Power",
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Impressive performance against Michael Todd"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Rob Vigeant Jr.",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Rob's physical gifts and strength will give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Strength",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Strong performance in Russia"
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Very High",
+              "health": "Good",
+              "previous_match_summary": "Known for his hand size and strength"
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Irakli favors Daniel due to his wrist strength and technical skills.",
+          "predicted_duration": null,
+          "style_conflict": "Inside Pulling",
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Strong inside puller"
+            },
+            "Doug Erlich": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "Pulled against Coach Ray"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Irakli believes Muratov's left hand is insanely strong.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs Technique",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Very High",
+              "health": "Good",
+              "previous_match_summary": "Strong left hand"
+            },
+            "Kody Merritt": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "Unknown"
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Arif has the stylistic upper hand.",
+          "predicted_duration": null,
+          "style_conflict": "Control vs Power",
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Strong training videos"
+            },
+            "Arif Ertem": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Stylistically favorable"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Irakli sees Laletin as the undoubtable favorite.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs Technique",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Very High",
+              "health": "Good",
+              "previous_match_summary": "Many years of experience"
+            },
+            "Tobias Sporrong": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "Unknown"
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Revaz Lutidze (if 100% shape)",
+          "predicted_score": null,
+          "prediction_summary": "Irakli thinks Revaz could win if he delivers his current shape to the match.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs Power",
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Very High",
+              "health": "Good",
+              "previous_match_summary": "Gained from last East vs West appearance"
+            },
+            "Dave Chaffee": {
+              "strength": "Very High",
+              "health": "Good",
+              "previous_match_summary": "Known for his strength"
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": null,
+          "prediction_summary": "Irakli favors Sasho.",
+          "predicted_duration": null,
+          "style_conflict": "Technique vs Power",
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Strong player"
+            },
+            "Paul Linn": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "Pulled against Rustam"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": "60-40",
+          "prediction_summary": "Irakli thinks Genadi's power gap is sufficient to win.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs Stamina",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Very High",
+              "health": "Good",
+              "previous_match_summary": "Stronger now"
+            },
+            "Devon Larratt": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Great stamina and smart puller"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Kydyrgali Ongarbaev",
+      "self_predictions": [
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Kydyrgali is in good shape and training hard for the title.",
+          "predicted_duration": null,
+          "style_conflict": "Control vs Power",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Very High",
+              "health": "Good",
+              "previous_match_summary": "Warrior mentality"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Kydyrgali was impressed with Zurab's performance in Russia.",
+          "predicted_duration": null,
+          "style_conflict": "Technique vs Strength",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Strong performance in Russia"
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Unknown"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Kydyrgali believes Muratov is a very strong athlete.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs Technique",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Very High",
+              "health": "Good",
+              "previous_match_summary": "Strong left hand"
+            },
+            "Kody Merritt": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "Unknown"
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Kydyrgali thinks Dzeranov's preparation will be better.",
+          "predicted_duration": null,
+          "style_conflict": "Preparation vs Technique",
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Strong training videos"
+            },
+            "Arif Ertem": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Stylistically favorable"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Kydyrgali sees Laletin as the favorite due to his experience.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs Technique",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Very High",
+              "health": "Good",
+              "previous_match_summary": "Many years of experience"
+            },
+            "Tobias Sporrong": {
+              "strength": "Good",
+              "health": "Good",
+              "previous_match_summary": "Unknown"
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Kydyrgali thinks both are equally strong.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs Power",
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Very High",
+              "health": "Good",
+              "previous_match_summary": "Gained from last East vs West appearance"
+            },
+            "Dave Chaffee": {
+              "strength": "Very High",
+              "health": "Good",
+              "previous_match_summary": "Known for his strength"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Kydyrgali thinks it's a balanced match.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs Stamina",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Very High",
+              "health": "Good",
+              "previous_match_summary": "Strong Georgii athlete"
+            },
+            "Devon Larratt": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Great stamina and smart puller"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

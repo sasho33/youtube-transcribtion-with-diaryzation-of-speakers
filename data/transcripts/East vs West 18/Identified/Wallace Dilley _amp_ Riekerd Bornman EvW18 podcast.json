@@ -1,0 +1,265 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Riekerd Bornman",
+    "SPEAKER_05": "Wallace Dilley",
+    "SPEAKER_06": "Ryan Bowen"
+  },
+  "date": null,
+  "self_predictions": {
+    "Riekerd Bornman": [
+      {
+        "match": [
+          "Riekerd Bornman",
+          "Wallace Dilley"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Riekerd Bornman",
+        "predicted_score": null,
+        "prediction_summary": "Riekerd believes he is much quicker and will expose Wallace's pronator and bicep, leading to his victory.",
+        "predicted_duration": null,
+        "style_conflict": "Riekerd plans to attack aggressively from the start, not giving Wallace any room to defend.",
+        "opinion_about_athletes": {
+          "Wallace Dilley": {
+            "strength": "Strong, but Riekerd believes he can expose his pronator and bicep.",
+            "health": null,
+            "previous_match_summary": "Wallace has shown rapid progress, beating Marcio Barbosa in recent matches."
+          }
+        }
+      }
+    ],
+    "Wallace Dilley": [
+      {
+        "match": [
+          "Riekerd Bornman",
+          "Wallace Dilley"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Wallace Dilley",
+        "predicted_score": null,
+        "prediction_summary": "Wallace is confident in his strength and believes he is the 'here and now,' while Riekerd is the future.",
+        "predicted_duration": null,
+        "style_conflict": "Wallace plans to use his side pressure and overall strength to dominate the match.",
+        "opinion_about_athletes": {
+          "Riekerd Bornman": {
+            "strength": "Strong and quick, but Wallace believes his experience and strength will prevail.",
+            "health": null,
+            "previous_match_summary": "Riekerd has shown rapid progress and is considered a rising star."
+          }
+        }
+      }
+    ]
+  },
+  "third_party_predictions": {
+    "Engin Terzi": [
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Engin believes Levan is the strongest armwrestler ever but acknowledges Ermes' potential to cause an upset.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Levan Saginashvili": {
+            "strength": "Strongest armwrestler ever, well-rounded.",
+            "health": null,
+            "previous_match_summary": "Undefeated for years, dominant in all matches."
+          },
+          "Ermes Gasparini": {
+            "strength": "Strong riser and back pressure, potential to beat Levan.",
+            "health": null,
+            "previous_match_summary": "Rapid progress, strong performances recently."
+          }
+        }
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Alex Kurdecha"
+        ],
+        "arm": "Left",
+        "event": "East vs West 18",
+        "predicted_winner": null,
+        "predicted_score": null,
+        "prediction_summary": "Engin thinks Alex has burned his bridges and will come in with unmatched determination, making the match unpredictable.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Strong pronation and leverage.",
+            "health": null,
+            "previous_match_summary": "Consistent performer, known for his technique."
+          },
+          "Alex Kurdecha": {
+            "strength": "Monstrous strength, especially in side pressure.",
+            "health": null,
+            "previous_match_summary": "Lost recent matches but is highly motivated."
+          }
+        }
+      }
+    ],
+    "Ryan Bowen": [
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Ermes Gasparini",
+        "predicted_score": null,
+        "prediction_summary": "Ryan believes Ermes' wrist rise will get the job done, but Levan is still the overall stronger man.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Levan Saginashvili": {
+            "strength": "Overall stronger, well-rounded.",
+            "health": null,
+            "previous_match_summary": "Dominant in all matches."
+          },
+          "Ermes Gasparini": {
+            "strength": "Exceptional wrist rise, focused on beating Levan.",
+            "health": null,
+            "previous_match_summary": "Rapid progress, strong performances."
+          }
+        }
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Alex Kurdecha"
+        ],
+        "arm": "Left",
+        "event": "East vs West 18",
+        "predicted_winner": "Devon Larratt",
+        "predicted_score": "3-2",
+        "prediction_summary": "Ryan thinks Alex will be forced to flop press early, but Devon will ultimately win the match.",
+        "predicted_duration": null,
+        "style_conflict": "Alex may try to flop press, but Devon's pronation will be too strong.",
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Strongest pronation in the world, difficult to unwind.",
+            "health": null,
+            "previous_match_summary": "Consistent performer, known for his technique."
+          },
+          "Alex Kurdecha": {
+            "strength": "Strong side pressure, tall with good leverage.",
+            "health": null,
+            "previous_match_summary": "Lost recent matches but is highly motivated."
+          }
+        }
+      }
+    ],
+    "Wallace Dilley": [
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Levan Saginashvili",
+        "predicted_score": null,
+        "prediction_summary": "Wallace believes Levan is still the king, but Ermes might get a pin.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Levan Saginashvili": {
+            "strength": "Genetically gifted, dominant.",
+            "health": null,
+            "previous_match_summary": "Undefeated for years."
+          },
+          "Ermes Gasparini": {
+            "strength": "Strong riser and back pressure, but not enough to beat Levan.",
+            "health": null,
+            "previous_match_summary": "Rapid progress, strong performances."
+          }
+        }
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Alex Kurdecha"
+        ],
+        "arm": "Left",
+        "event": "East vs West 18",
+        "predicted_winner": null,
+        "predicted_score": "50-50",
+        "prediction_summary": "Wallace thinks it's a tough match, with Devon's left arm improving but Alex being a monster.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Improving left arm, technical.",
+            "health": null,
+            "previous_match_summary": "Consistent performer."
+          },
+          "Alex Kurdecha": {
+            "strength": "Monstrous, less technical but very strong.",
+            "health": null,
+            "previous_match_summary": "Lost recent matches but highly motivated."
+          }
+        }
+      }
+    ],
+    "Riekerd Bornman": [
+      {
+        "match": [
+          "Levan Saginashvili",
+          "Ermes Gasparini"
+        ],
+        "arm": "Right",
+        "event": "East vs West 18",
+        "predicted_winner": "Levan Saginashvili",
+        "predicted_score": null,
+        "prediction_summary": "Riekerd believes Levan is the strongest ever but wants Ermes to win.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Levan Saginashvili": {
+            "strength": "Strongest ever, built for armwrestling.",
+            "health": null,
+            "previous_match_summary": "Undefeated for years."
+          },
+          "Ermes Gasparini": {
+            "strength": "Incredible athlete, but not enough to beat Levan yet.",
+            "health": null,
+            "previous_match_summary": "Rapid progress, strong performances."
+          }
+        }
+      },
+      {
+        "match": [
+          "Devon Larratt",
+          "Alex Kurdecha"
+        ],
+        "arm": "Left",
+        "event": "East vs West 18",
+        "predicted_winner": "Devon Larratt",
+        "predicted_score": "3-2",
+        "prediction_summary": "Riekerd thinks Alex will flash the first two rounds, but Devon will adapt and win.",
+        "predicted_duration": null,
+        "style_conflict": null,
+        "opinion_about_athletes": {
+          "Devon Larratt": {
+            "strength": "Adaptable, strong technique.",
+            "health": null,
+            "previous_match_summary": "Consistent performer."
+          },
+          "Alex Kurdecha": {
+            "strength": "Monstrous, but may lack the technique to finish.",
+            "health": null,
+            "previous_match_summary": "Lost recent matches but highly motivated."
+          }
+        }
+      }
+    ]
+  }
+}

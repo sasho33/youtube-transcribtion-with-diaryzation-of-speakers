@@ -1,0 +1,162 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_01": "Unknown",
+    "SPEAKER_02": "Roman (Translator)",
+    "SPEAKER_03": "Engin Terzi",
+    "SPEAKER_04": "Devon Larratt"
+  },
+  "date": null,
+  "athletes": {
+    "Devon Larratt": {
+      "self_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon believes it will be a very close and hard fight, potentially the hardest of his career. He thinks he will win but does not expect it to be easy.",
+          "predicted_duration": null,
+          "style_conflict": "Devon expects Genadi to be versatile and resilient, capable of adapting during the match.",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Genadi is strong and versatile.",
+              "health": "Devon warns Genadi not to overtrain or hurt himself in preparation.",
+              "previous_match_summary": "Devon acknowledges Genadi's resilience and endurance in past matches."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": []
+    },
+    "Genadi Kvikvinia": {
+      "self_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Genadi is highly motivated and believes he is in the best shape of his life. He plans to crush Devon and make him regret the match.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi expects to outlast Devon and dominate him physically.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Devon is strong but Genadi believes he can overpower him.",
+              "health": null,
+              "previous_match_summary": "Genadi references Devon's past matches, suggesting Devon has not faced a super heavyweight Eastern European like him."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "60-40",
+          "prediction_summary": "Genadi thinks Laletin is slightly favored due to his experience and level, but is unsure about Laletin's left arm.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Experienced and high-level.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Tobias Sporrong": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Genadi believes Samushia is mentally and physically prepared and is the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Strong and motivated.",
+              "health": null,
+              "previous_match_summary": "Samushia is in his best shape ever."
+            },
+            "Brandon Ellsessor": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Bacho Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Genadi thinks Bacho is stronger and will win, despite Adam's strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bacho Saginashvili": {
+              "strength": "Very strong.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Adam Wawrzynski": {
+              "strength": "Strong but not as strong as Bacho.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Arif Ertem",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Genadi believes Arif is the clear favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arif Ertem": {
+              "strength": "Stronger than Georgii.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

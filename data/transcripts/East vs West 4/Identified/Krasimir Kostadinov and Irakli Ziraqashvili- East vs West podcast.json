@@ -1,0 +1,520 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Irakli Zirakashvili",
+    "SPEAKER_01": "Krasimir Kostadinov",
+    "SPEAKER_02": "Roman (Translator)"
+  },
+  "date": null,
+  "self_predictions": {
+    "Krasimir Kostadinov": {
+      "match": [
+        "Krasimir Kostadinov",
+        "Irakli Zirakashvili"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Krasimir Kostadinov",
+      "predicted_score": null,
+      "prediction_summary": "Krasimir is confident in his wrist and pronator strength, especially in the straps, and believes he can handle Irakli's style.",
+      "predicted_duration": null,
+      "style_conflict": "Krasimir expects to control the match with his pronator and wrist strength.",
+      "opinion_about_athletes": {
+        "Irakli Zirakashvili": {
+          "strength": "Strong wrist and hand dominance, especially without straps.",
+          "health": "Recently dropped weight for endurance and comfort.",
+          "previous_match_summary": "Dominant win against Marcio Barboza, but lost to Todd Hutchings due to lack of table time and preparation."
+        }
+      }
+    },
+    "Irakli Zirakashvili": {
+      "match": [
+        "Irakli Zirakashvili",
+        "Krasimir Kostadinov"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Irakli Zirakashvili",
+      "predicted_score": null,
+      "prediction_summary": "Irakli is confident after his dominant win against Marcio Barboza and believes his wrist dominance and preparation will secure a win.",
+      "predicted_duration": null,
+      "style_conflict": "Irakli expects to dominate with his wrist control and side pressure.",
+      "opinion_about_athletes": {
+        "Krasimir Kostadinov": {
+          "strength": "Strong wrist and pronator, especially in the straps.",
+          "health": "In good shape, training hard.",
+          "previous_match_summary": "Experienced puller with a history of dominating in his weight class."
+        }
+      }
+    }
+  },
+  "third_party_predictions": [
+    {
+      "speaker": "Krasimir Kostadinov",
+      "match": [
+        "Sandris Sedis",
+        "Lachlan Adair"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Sandris Sedis",
+      "predicted_score": null,
+      "prediction_summary": "Sandris is the better puller overall, despite Lachlan's strength.",
+      "predicted_duration": null,
+      "style_conflict": "Sandris's technique will overcome Lachlan's strength.",
+      "opinion_about_athletes": {
+        "Sandris Sedis": {
+          "strength": "Better puller technically.",
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Lachlan Adair": {
+          "strength": "Very strong biceps.",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Irakli Zirakashvili",
+      "match": [
+        "Sandris Sedis",
+        "Lachlan Adair"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Sandris Sedis",
+      "predicted_score": null,
+      "prediction_summary": "Sandris will top roll and be victorious.",
+      "predicted_duration": null,
+      "style_conflict": "Sandris's top roll will dominate.",
+      "opinion_about_athletes": {
+        "Sandris Sedis": {
+          "strength": "Technical top roller.",
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Lachlan Adair": {
+          "strength": "Strong but less technical.",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Krasimir Kostadinov",
+      "match": [
+        "Davit Samushia",
+        "Bozhidar Simeonov"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Bozhidar Simeonov",
+      "predicted_score": null,
+      "prediction_summary": "Bozhidar will win in a close war.",
+      "predicted_duration": null,
+      "style_conflict": "Close match but Bozhidar has the edge.",
+      "opinion_about_athletes": {
+        "Davit Samushia": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Bozhidar Simeonov": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Irakli Zirakashvili",
+      "match": [
+        "Davit Samushia",
+        "Bozhidar Simeonov"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Davit Samushia",
+      "predicted_score": null,
+      "prediction_summary": "Samushia will win in a close war.",
+      "predicted_duration": null,
+      "style_conflict": "Close match but Samushia has the edge.",
+      "opinion_about_athletes": {
+        "Davit Samushia": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Bozhidar Simeonov": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Krasimir Kostadinov",
+      "match": [
+        "Gabriela Vasconcelos",
+        "Egle Vaitkute"
+      ],
+      "arm": "Left",
+      "event": "East vs West 4",
+      "predicted_winner": "Gabriela Vasconcelos",
+      "predicted_score": null,
+      "prediction_summary": "Gabriela is the stronger puller.",
+      "predicted_duration": null,
+      "style_conflict": "Gabriela's strength will dominate.",
+      "opinion_about_athletes": {
+        "Gabriela Vasconcelos": {
+          "strength": "Powerhouse.",
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Egle Vaitkute": {
+          "strength": "More technical.",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Irakli Zirakashvili",
+      "match": [
+        "Gabriela Vasconcelos",
+        "Egle Vaitkute"
+      ],
+      "arm": "Left",
+      "event": "East vs West 4",
+      "predicted_winner": "Gabriela Vasconcelos",
+      "predicted_score": null,
+      "prediction_summary": "Gabriela will win on both hands.",
+      "predicted_duration": null,
+      "style_conflict": "Gabriela's strength will dominate.",
+      "opinion_about_athletes": {
+        "Gabriela Vasconcelos": {
+          "strength": "Stronger currently.",
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Egle Vaitkute": {
+          "strength": "Technical but less strong.",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Krasimir Kostadinov",
+      "match": [
+        "Chance Shaw",
+        "Zurab Tavberidze"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Chance Shaw",
+      "predicted_score": null,
+      "prediction_summary": "Chance's style will be difficult for Zurab.",
+      "predicted_duration": null,
+      "style_conflict": "Chance's pronator control will be key.",
+      "opinion_about_athletes": {
+        "Chance Shaw": {
+          "strength": "Strong pronator.",
+          "health": null,
+          "previous_match_summary": "Improved since last matches."
+        },
+        "Zurab Tavberidze": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Irakli Zirakashvili",
+      "match": [
+        "Chance Shaw",
+        "Zurab Tavberidze"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Zurab Tavberidze",
+      "predicted_score": null,
+      "prediction_summary": "Zurab will win based on last matches.",
+      "predicted_duration": null,
+      "style_conflict": "Zurab's experience will prevail.",
+      "opinion_about_athletes": {
+        "Chance Shaw": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Zurab Tavberidze": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Krasimir Kostadinov",
+      "match": [
+        "Jerry Cadorette",
+        "Genadi Kvikvinia"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Genadi Kvikvinia",
+      "predicted_score": "6-0",
+      "prediction_summary": "Genadi will dominate due to his strong biceps and style.",
+      "predicted_duration": null,
+      "style_conflict": "Genadi's biceps strength will counter Jerry's press.",
+      "opinion_about_athletes": {
+        "Jerry Cadorette": {
+          "strength": "Strong press.",
+          "health": null,
+          "previous_match_summary": "Not proven against European pullers recently."
+        },
+        "Genadi Kvikvinia": {
+          "strength": "Very strong biceps.",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Irakli Zirakashvili",
+      "match": [
+        "Jerry Cadorette",
+        "Genadi Kvikvinia"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Genadi Kvikvinia",
+      "predicted_score": null,
+      "prediction_summary": "Genadi's style is hard for Jerry to pin.",
+      "predicted_duration": null,
+      "style_conflict": "Genadi's biceps strength will counter Jerry's press.",
+      "opinion_about_athletes": {
+        "Jerry Cadorette": {
+          "strength": "Strong press.",
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Genadi Kvikvinia": {
+          "strength": "Very strong biceps.",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Krasimir Kostadinov",
+      "match": [
+        "Todd Hutchings",
+        "Evgeny Prudnik"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "50-50",
+      "predicted_score": null,
+      "prediction_summary": "Too close to call, depends on how the match progresses.",
+      "predicted_duration": null,
+      "style_conflict": "If Prudnik wins fast, he will; if it goes long, Hutchings has the advantage.",
+      "opinion_about_athletes": {
+        "Todd Hutchings": {
+          "strength": "Strong side pressure.",
+          "health": null,
+          "previous_match_summary": "Beat Irakli recently."
+        },
+        "Evgeny Prudnik": {
+          "strength": "Versatile puller.",
+          "health": null,
+          "previous_match_summary": "Beat Hutchings in 2018."
+        }
+      }
+    },
+    {
+      "speaker": "Irakli Zirakashvili",
+      "match": [
+        "Todd Hutchings",
+        "Evgeny Prudnik"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Evgeny Prudnik",
+      "predicted_score": null,
+      "prediction_summary": "Prudnik will manage the match.",
+      "predicted_duration": null,
+      "style_conflict": "Prudnik's versatility will prevail.",
+      "opinion_about_athletes": {
+        "Todd Hutchings": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Evgeny Prudnik": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Krasimir Kostadinov",
+      "match": [
+        "Raimonds Liepiņš",
+        "Ryan Bowen"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Ryan Bowen",
+      "predicted_score": null,
+      "prediction_summary": "Ryan is more well-rounded and has a stronger pronator.",
+      "predicted_duration": null,
+      "style_conflict": "Ryan's pronator strength will give him the advantage.",
+      "opinion_about_athletes": {
+        "Raimonds Liepiņš": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Ryan Bowen": {
+          "strength": "Stronger pronator.",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Krasimir Kostadinov",
+      "match": [
+        "Artyom Morozov",
+        "Dave Chaffee"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Dave Chaffee",
+      "predicted_score": null,
+      "prediction_summary": "Dave Chaffee will win.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Artyom Morozov": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Dave Chaffee": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Irakli Zirakashvili",
+      "match": [
+        "Artyom Morozov",
+        "Dave Chaffee"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Artyom Morozov",
+      "predicted_score": "3-2",
+      "prediction_summary": "Morozov will surprise with his youth and rising form.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Artyom Morozov": {
+          "strength": "Young and rising.",
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Dave Chaffee": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "speaker": "Krasimir Kostadinov",
+      "match": [
+        "David Dadikyan",
+        "Oleg Zhokh"
+      ],
+      "arm": "Left",
+      "event": "East vs West 4",
+      "predicted_winner": "50-50",
+      "predicted_score": null,
+      "prediction_summary": "Too close to call, depends on Dadikyan's weight cut.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "David Dadikyan": {
+          "strength": null,
+          "health": "Dropping weight from 110kg to 102kg.",
+          "previous_match_summary": null
+        },
+        "Oleg Zhokh": {
+          "strength": "Rising form.",
+          "health": null,
+          "previous_match_summary": "Improved since last match."
+        }
+      }
+    },
+    {
+      "speaker": "Irakli Zirakashvili",
+      "match": [
+        "David Dadikyan",
+        "Oleg Zhokh"
+      ],
+      "arm": "Left",
+      "event": "East vs West 4",
+      "predicted_winner": "David Dadikyan",
+      "predicted_score": null,
+      "prediction_summary": "Dadikyan will win if he maintains his strength after weight cut.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "David Dadikyan": {
+          "strength": null,
+          "health": "Dropping weight from 110kg to 102kg.",
+          "previous_match_summary": null
+        },
+        "Oleg Zhokh": {
+          "strength": "Rising form.",
+          "health": null,
+          "previous_match_summary": "Improved since last match."
+        }
+      }
+    },
+    {
+      "speaker": "Irakli Zirakashvili",
+      "match": [
+        "Revaz Lutidze",
+        "Derek Smith"
+      ],
+      "arm": "Right",
+      "event": "East vs West 4",
+      "predicted_winner": "Revaz Lutidze",
+      "predicted_score": null,
+      "prediction_summary": "90% of knowledgeable fans would pick Revaz.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Revaz Lutidze": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        },
+        "Derek Smith": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    }
+  ]
+}

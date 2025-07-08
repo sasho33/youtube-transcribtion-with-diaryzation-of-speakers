@@ -28,7 +28,6 @@ def extract_predictions_as_json(event_title: str, filename: str):
         print(f"⏭️ Skipping {filename} — JSON already exists.")
         return output_json_path
 
-
     if not normalized_path.exists():
         raise FileNotFoundError(f"Transcript file not found: {normalized_path}")
 
@@ -49,7 +48,7 @@ def extract_predictions_as_json(event_title: str, filename: str):
             for m in matches
         ]
     )
-    
+
     # Prompt for structured JSON response
     system_prompt = f"""
 You are an expert assistant in analyzing armwrestling podcasts.
@@ -64,7 +63,7 @@ You will receive a transcript and metadata. Your task is to:
      - self_predictions: list of predictions about their own match
      - third_party_predictions: list of predictions about other matches, using:
          * match: [participant1, participant2]
-         * arm: "Left" or "Right"
+         * arm: \"Left\" or \"Right\"
          * event: name of the event (e.g., {event_title})
          * predicted_winner
          * predicted_score
@@ -107,14 +106,19 @@ Filename: {filename}
         try:
             raw = response_data['choices'][0]['message']['content']
             cleaned = re.sub(r'^```(?:json)?|```$', '', raw.strip(), flags=re.MULTILINE).strip()
+            cleaned = re.sub(r'\"{2,}', '\"', cleaned)  # collapse double quotes
+            cleaned = re.sub(r',\\s*}', '}', cleaned)   # remove trailing commas
             structured_json = json.loads(cleaned)
+
             with output_json_path.open("w", encoding="utf-8") as f:
                 json.dump(structured_json, f, indent=2, ensure_ascii=False)
             print(f"✅ Saved structured predictions to: {output_json_path}")
             return output_json_path
-        except Exception as e:
+        except json.JSONDecodeError as decode_err:
             print("❌ Failed to parse AI response as JSON")
-            print(response_data['choices'][0]['message']['content'])
+            raise decode_err
+        except Exception as e:
+            print("❌ Unexpected error during parsing")
             raise e
 
     raise Exception("❌ DeepSeek API call failed:\n" + json.dumps(response_data, indent=2))
@@ -122,8 +126,8 @@ Filename: {filename}
 # Example usage
 if __name__ == "__main__":
     try:
-        event = "East vs West 17"
-        file = "Corey West _amp_ Devon Larratt EvW17 Podcast.txt"
+        event = "East vs West 7"
+        file = "EvW7 Podcast with Paul Linn and Fans.txt"
         extract_predictions_as_json(event, file)
     except Exception as e:
         print(f"Error: {str(e)}")

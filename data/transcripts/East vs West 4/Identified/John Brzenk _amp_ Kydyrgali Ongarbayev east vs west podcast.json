@@ -1,0 +1,263 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "John Brzenk",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Kydyrgali Ongarbaev",
+    "SPEAKER_03": "Interpreter"
+  },
+  "date": null,
+  "predictions": {
+    "John Brzenk": {
+      "self_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "John expects a tough match, hoping to slow down Ongarbaev's explosive style and extend the match duration.",
+          "predicted_duration": "Long",
+          "style_conflict": "Top roll vs explosive hits",
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Explosive, strong, young",
+              "health": "Recovered from shoulder injury",
+              "previous_match_summary": "Performed well against top heavyweights, similar style to John's younger self"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Artyom Morozov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "John believes Morozov has improved significantly and can give Dave trouble, especially with his hand control.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs power",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Big frame, big hands, improved",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches but faded mid-match"
+            },
+            "Dave Chaffee": {
+              "strength": "Powerful, tough to top roll",
+              "health": "Hand has been suspect",
+              "previous_match_summary": "Strong but endurance questioned"
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "John thinks Genadi should stay in a hook and avoid top-rolling Jerry to win.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs shoulder roll",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Strong shoulder roll",
+              "health": null,
+              "previous_match_summary": "Explosive but may be fatigued from recent match"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Super strong on hook",
+              "health": null,
+              "previous_match_summary": "Proven against top competitors"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "John favors Irakli due to his impressive performance against Marcio, but notes Krasimir's recent outings haven't been as strong.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Strong arm, impressive against Marcio",
+              "health": null,
+              "previous_match_summary": "Looked good against Marcio but not as much against Hutchings"
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Not as impressive recently",
+              "health": null,
+              "previous_match_summary": "Last few outings not as strong"
+            }
+          }
+        },
+        {
+          "match": [
+            "Chance Shaw",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Chance Shaw",
+          "predicted_score": "3-0",
+          "prediction_summary": "John predicts Chance will win 3-0 if he avoids top-rolling too hard and focuses on side pressure.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs side pressure",
+          "opinion_about_athletes": {
+            "Chance Shaw": {
+              "strength": "Stronger, improved",
+              "health": "May be fatigued from recent match",
+              "previous_match_summary": "Impressive against top competitors"
+            },
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Raimonds Liepiņš",
+            "Ryan Bowen"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Ryan Bowen",
+          "predicted_score": null,
+          "prediction_summary": "John thinks Ryan will win if the match goes to straps due to his endurance and ability to stop matches.",
+          "predicted_duration": null,
+          "style_conflict": "Explosive vs endurance",
+          "opinion_about_athletes": {
+            "Raimonds Liepiņš": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ryan Bowen": {
+              "strength": "Great endurance",
+              "health": null,
+              "previous_match_summary": "Impressive in practice matches"
+            }
+          }
+        }
+      ]
+    },
+    "Kydyrgali Ongarbaev": {
+      "self_predictions": [
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Ongarbaev respects John and expects a tough match, aiming to do his best.",
+          "predicted_duration": "War",
+          "style_conflict": "Explosive vs experience",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary, experienced, skilled in every position",
+              "health": "Recovering from bug and previous match",
+              "previous_match_summary": "Warrior, doesn't give up"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Artyom Morozov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Ongarbaev thinks both are strong and wishes them good luck, no clear prediction.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Good shape",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": "Excellent shape",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Ongarbaev sees Prudnik as the favorite but expects a tough match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Favorite",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Krasimir Kostadinov",
+          "predicted_score": null,
+          "prediction_summary": "Ongarbaev gives higher chance to Krasimir due to his hooking ability.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Hooking ability",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}

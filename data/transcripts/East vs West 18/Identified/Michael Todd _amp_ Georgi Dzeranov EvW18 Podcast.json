@@ -1,0 +1,420 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Georgii Dzeranov",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_03": "Michael Todd",
+    "SPEAKER_04": "Ivan Matushenko"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Michael Todd",
+      "self_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "3-2 or better",
+          "prediction_summary": "Michael believes he is the favorite but expects a tough fight. He thinks his pronation engaged back pressure will be key to stopping Georgii.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Georgii may try flop press or top roll with side pressure.",
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Scary strong, big frame, big bone, lot of heart",
+              "health": "Healthy now, had past issues with brachialis",
+              "previous_match_summary": "Lost to Vitaly Laletin but thinks he could have lasted longer without injury."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Michael thinks Alex is the stronger arm wrestler but bets on Devon due to his mental game and ability to fatigue opponents.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Devon's technical prowess vs Alex's strength.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Technical, less horsepower than Alex",
+              "health": "Not specified",
+              "previous_match_summary": "Lost to Dadikyan but round one was competitive."
+            },
+            "Alex Kurdecha": {
+              "strength": "Stronger arm wrestler",
+              "health": "Not specified",
+              "previous_match_summary": "Burning the ships, strongest version yet."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "4-0",
+          "prediction_summary": "Michael gives Levan a 75% chance to win but thinks Ermes has a 25% chance if he pins Levan once, which could shift momentum.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Ermes' riser curl and back pressure vs Levan's overall strength.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strongest hammer curl and riser curl in the world",
+              "health": "Not specified",
+              "previous_match_summary": "Went to Dubai to lose, now going to Chicago to win."
+            },
+            "Levan Saginashvili": {
+              "strength": "Unbeatable mountain, strongest ever",
+              "health": "Not specified",
+              "previous_match_summary": "Preparing better than ever for Ermes."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ryan Belanger",
+            "Allen Ford"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Ryan Belanger",
+          "predicted_score": "3-2",
+          "prediction_summary": "Michael thinks Ryan's arm power will be decisive, though Allen might get a couple of fast pins.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Alan's hand and wrist vs Ryan's arm power.",
+          "opinion_about_athletes": {
+            "Allen Ford": {
+              "strength": "Good hand and wrist",
+              "health": "Not specified",
+              "previous_match_summary": "Not specified"
+            },
+            "Ryan Belanger": {
+              "strength": "Strong arm power",
+              "health": "Not specified",
+              "previous_match_summary": "Not specified"
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisek",
+            "Elin Janeheim"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Fia Reisek",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Michael can't bet against Fia after her performance against Malin.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Fia Reisek": {
+              "strength": "Badass",
+              "health": "Not specified",
+              "previous_match_summary": "Impressive performance against Malin."
+            },
+            "Elin Janeheim": {
+              "strength": "Not specified",
+              "health": "Not specified",
+              "previous_match_summary": "Not specified"
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Arsen Khachatryan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Michael thinks Paul is a level above Arsen.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Strong",
+              "health": "Not specified",
+              "previous_match_summary": "Not specified"
+            },
+            "Arsen Khachatryan": {
+              "strength": "Versatile in chopper and hook",
+              "health": "Not specified",
+              "previous_match_summary": "Not seen lately."
+            }
+          }
+        },
+        {
+          "match": [
+            "Riekerd Bornman",
+            "Wallace Dilley"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Riekerd Bornman",
+          "predicted_score": "Not 3-0",
+          "prediction_summary": "Michael thinks it's a 50-50 match but slightly favors Riekerd due to his youth and power.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Riekerd Bornman": {
+              "strength": "Young and powerful",
+              "health": "Not specified",
+              "previous_match_summary": "Impressive specimen."
+            },
+            "Wallace Dilley": {
+              "strength": "Big, thick dude",
+              "health": "Not specified",
+              "previous_match_summary": "Good performance vs Marsau Barbosa."
+            }
+          }
+        },
+        {
+          "match": [
+            "Wagner Bortalato",
+            "Pavlo Derbedyenyev"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "50-50",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Michael thinks it's a 50-50 match; if Pavlo gets the outside move, he wins, but if Wagner gets inside, it's over.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Pavlo's top roll vs Wagner's inside power.",
+          "opinion_about_athletes": {
+            "Wagner Bortalato": {
+              "strength": "Big dude, strong arm",
+              "health": "Recovered from injury",
+              "previous_match_summary": "Not the best performances lately."
+            },
+            "Pavlo Derbedyenyev": {
+              "strength": "Better top roll",
+              "health": "Not specified",
+              "previous_match_summary": "Left arm world champion."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Georgii Dzeranov",
+      "self_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Georgii thinks Michael is the favorite but believes he has a 40-45% chance and will give his maximum.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Georgii may try flop press or top roll with side pressure.",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Strong pronation and back pressure",
+              "health": "Not specified",
+              "previous_match_summary": "Stopped Vitaly in the center."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Georgii thinks Alex is stronger but gives Devon a 55-45 edge due to his endurance and technical skills.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Devon's endurance vs Alex's strength.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "More technical, better endurance",
+              "health": "Not specified",
+              "previous_match_summary": "Not specified"
+            },
+            "Alex Kurdecha": {
+              "strength": "Stronger",
+              "health": "Not specified",
+              "previous_match_summary": "Friends with Georgii."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Georgii thinks Morozov will win because Alex will be tired from pulling Devon first.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Morozov's hook vs Alex's top roll.",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Intimidating, strong",
+              "health": "Not specified",
+              "previous_match_summary": "Not specified"
+            },
+            "Alex Kurdecha": {
+              "strength": "Not specified",
+              "health": "Not specified",
+              "previous_match_summary": "Will be tired from pulling Devon."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Georgii wants Ermes to win but thinks Levan will be too prepared and motivated.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Ermes' strength vs Levan's preparation.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Not specified",
+              "health": "Not specified",
+              "previous_match_summary": "Went to Dubai to lose, now going to Chicago to win."
+            },
+            "Levan Saginashvili": {
+              "strength": "Unbeatable",
+              "health": "Not specified",
+              "previous_match_summary": "Preparing better than ever."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Georgii gives Vitaly a 51-49 edge due to his big hand and start, though Devon is more technical.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Vitaly's start vs Devon's endurance.",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Big hand, strong grip, strong fingers",
+              "health": "Needs to prepare well",
+              "previous_match_summary": "Beat Georgii but could have been closer without injury."
+            },
+            "Devon Larratt": {
+              "strength": "More technical, better endurance",
+              "health": "Not specified",
+              "previous_match_summary": "Not specified"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Ivan Matushenko",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Artyom Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Ivan thinks Morozov is the favorite; Alex may try to top roll but Morozov will hook or stop him with a straight wrist.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Morozov's hook vs Alex's top roll.",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Strong hook",
+              "health": "Not specified",
+              "previous_match_summary": "Not specified"
+            },
+            "Alex Kurdecha": {
+              "strength": "Not specified",
+              "health": "Not specified",
+              "previous_match_summary": "Not specified"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Ivan gives Levan a 55-45 edge; thinks Ermes has a chance if he pins Levan once.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Ermes' strength vs Levan's preparation.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Not specified",
+              "health": "Not specified",
+              "previous_match_summary": "Changed mindset from Dubai to Chicago."
+            },
+            "Levan Saginashvili": {
+              "strength": "Strongest ever",
+              "health": "Not specified",
+              "previous_match_summary": "Preparing better than ever."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Ivan gives Vitaly a 51-49 edge due to his floor press and strength.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Vitaly's floor press vs Devon's endurance.",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Good floor press",
+              "health": "Not specified",
+              "previous_match_summary": "Surprised by his performance against Michael."
+            },
+            "Devon Larratt": {
+              "strength": "Not specified",
+              "health": "Not specified",
+              "previous_match_summary": "Not specified"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

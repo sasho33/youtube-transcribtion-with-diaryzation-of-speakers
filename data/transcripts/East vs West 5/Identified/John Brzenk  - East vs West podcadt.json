@@ -1,0 +1,169 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Unknown",
+    "SPEAKER_02": "Joshua",
+    "SPEAKER_03": "John Brzenk"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "John Brzenk",
+      "self_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John feels healthy and well-rested, focusing on maintaining his health and avoiding inflammation. He believes his experience and technique will give him an edge over Petrenko.",
+          "predicted_duration": null,
+          "style_conflict": "John plans to keep the match outside to avoid Petrenko's inside control.",
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": "Strong but not as technical as Ongarbaev",
+              "health": null,
+              "previous_match_summary": "Petrenko has shown strong performances but struggles with wrist control against top rollers."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "John believes Ermes has the speed and side pressure to control the match if he avoids getting into a defensive position.",
+          "predicted_duration": null,
+          "style_conflict": "Ermes needs to avoid letting Chaffee get behind his arm and focus on aggressive top rolling.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Explosive and strong side pressure",
+              "health": null,
+              "previous_match_summary": "Ermes has shown improvement and adaptability in recent matches."
+            },
+            "Dave Chaffee": {
+              "strength": "Strong inside puller",
+              "health": null,
+              "previous_match_summary": "Chaffee is known for his endurance and power but can be vulnerable to quick hits."
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "John thinks Jerry's endurance and side pressure will be too much for Ermes unless Ermes can maintain an aggressive top roll.",
+          "predicted_duration": null,
+          "style_conflict": "Ermes needs to avoid running away and stand tall to fight Jerry's pressure.",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Strong side pressure and endurance",
+              "health": null,
+              "previous_match_summary": "Jerry has been dominant in recent matches, showing improved endurance."
+            },
+            "Ermes Gasparini": {
+              "strength": "Explosive and strong side pressure",
+              "health": null,
+              "previous_match_summary": "Ermes has shown adaptability but struggles against strong inside pullers."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "John believes Michael's experience and resilience will give him the edge, especially if Prudnik can't finish him quickly.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik needs to be patient and avoid burning out trying to finish Michael early.",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Strong hand and wrist control",
+              "health": null,
+              "previous_match_summary": "Prudnik is dominant but can struggle against unorthodox styles."
+            },
+            "Michael Todd": {
+              "strength": "Resilient and strong in defensive positions",
+              "health": null,
+              "previous_match_summary": "Michael has shown improved endurance and adaptability in recent matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Ryan Bowen"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "John thinks Zurab's strength and technique will be too much for Ryan, but Ryan might make it a competitive match.",
+          "predicted_duration": null,
+          "style_conflict": "Ryan needs to use his back pressure to negate Zurab's side pressure.",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong inside puller",
+              "health": null,
+              "previous_match_summary": "Zurab has shown dominance in recent matches but can struggle against top rollers."
+            },
+            "Ryan Bowen": {
+              "strength": "Resilient with good back pressure",
+              "health": null,
+              "previous_match_summary": "Ryan has improved but still lacks the explosiveness to challenge top-tier pullers."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Devon's experience and endurance will give him the edge, especially if he can avoid Prudnik's explosive hits.",
+          "predicted_duration": null,
+          "style_conflict": "Devon needs to control the setup and avoid getting caught in Prudnik's quick hits.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Endurance and strategic pulling",
+              "health": null,
+              "previous_match_summary": "Devon has shown dominance in super matches, especially with his endurance."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Explosive and strong hand control",
+              "health": null,
+              "previous_match_summary": "Prudnik is dominant but can struggle against strategic pullers."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

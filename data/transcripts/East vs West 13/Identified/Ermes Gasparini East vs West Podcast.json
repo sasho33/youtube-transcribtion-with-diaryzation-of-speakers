@@ -1,0 +1,170 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Ermes Gasparini",
+    "SPEAKER_01": "Engin Terzi",
+    "SPEAKER_02": "Unknown"
+  },
+  "date": null,
+  "predictions": {
+    "Ermes Gasparini": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Petro Marharint",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Petro Marharint",
+          "predicted_score": null,
+          "prediction_summary": "Petro is very strong here, but maybe Zurab is in favour. It's 50-50, but a little bit maybe because they have a lot of power here.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "After his first loss, he won right, left, all matches."
+            },
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Had the title three times and then lost against Tata Ashings."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Very difficult to hook Laletin. Very difficult to top roll him. Morozov has better endurance, but in a bad position, he might spend more energy.",
+          "predicted_duration": "Five rounds",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Super strong in side pressure and hook",
+              "health": null,
+              "previous_match_summary": "After his Dubai match, he is very difficult to open."
+            },
+            "Artyom Morozov": {
+              "strength": "Very strong, in top shape",
+              "health": null,
+              "previous_match_summary": "Huge and in top shape, one more month to prepare."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "51-49",
+          "prediction_summary": "Prudnik is a little bit more favourite because he has more competition, more active, but Irakli's hooking ability is super strong.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Super strong in hooking",
+              "health": null,
+              "previous_match_summary": "Improved a lot with the hooker."
+            },
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": "Not in good shape one month ago",
+              "previous_match_summary": "More active in competition."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": null,
+          "prediction_summary": "Sasho has a lot of endurance, the hook is amazing. If Sasho comes prepared, in good shape, he will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Won Worlds, Europeans, Zloty Tur, and eight matches in a row."
+            },
+            "Sasho Andreev": {
+              "strength": "Amazing hook ability",
+              "health": null,
+              "previous_match_summary": "Needs to lose 3-4 kilos for the match."
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Tom Rozits",
+            "Artem Taranenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Tom Rozits",
+          "predicted_score": null,
+          "prediction_summary": "Tom is very strong. He dominated everyone at the Europeans.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Tom Rozits": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Beat Oleg Zok with right arm, dominated at Europeans."
+            },
+            "Artem Taranenko": {
+              "strength": "Very dangerous with left arm",
+              "health": null,
+              "previous_match_summary": "Beat many heavier guys, won with Todd Akin."
+            }
+          }
+        },
+        {
+          "match": [
+            "Carolina Pettersson",
+            "Olga Terpelova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Carolina Pettersson",
+          "predicted_score": null,
+          "prediction_summary": "Carolina did very well at the Europeans. Olga is the current champion of the Russian Nationals at 60 kilos.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Carolina Pettersson": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Did very well at the Europeans."
+            },
+            "Olga Terpelova": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Current champion of the Russian Nationals at 60 kilos."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Pradeep",
+    "SPEAKER_01": "Ermes Gasparini",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Ermes Gasparini",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Artyom Morozov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "5-0",
+          "prediction_summary": "Ermes believes Dave Chaffee will dominate Morozov easily.",
+          "predicted_duration": null,
+          "style_conflict": "Dave's strength and experience will be too much for Morozov.",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Strong but not enough for Dave Chaffee",
+              "health": null,
+              "previous_match_summary": "Lost to Prudnik recently"
+            },
+            "Dave Chaffee": {
+              "strength": "Extremely strong, top-level",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks Genadi is stronger and will win, possibly with many fouls from Jerry.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi's strength and technique will prevail.",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Very strong, confident",
+              "health": null,
+              "previous_match_summary": "Beat Dave Chaffee recently"
+            },
+            "Jerry Cadorette": {
+              "strength": "Strong but may foul early",
+              "health": null,
+              "previous_match_summary": "Tends to start aggressively"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "3-0",
+          "prediction_summary": "Ermes predicts Irakli will win easily.",
+          "predicted_duration": null,
+          "style_conflict": "Irakli's strength and technique will be too much for Krasimir.",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Beat Marcio recently"
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Strong but not at Irakli's level",
+              "health": null,
+              "previous_match_summary": "Lost to top rollers in the past"
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks Zurab will win, possibly with endurance playing a key role.",
+          "predicted_duration": null,
+          "style_conflict": "Zurab's endurance will be the difference.",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong, good endurance",
+              "health": null,
+              "previous_match_summary": "Has shown good endurance in past matches"
+            },
+            "Chance Shaw": {
+              "strength": "Strong but may fade",
+              "health": null,
+              "previous_match_summary": "Can start strong but may not last"
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Lachlan Adair"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Sandris Sedis",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes Sandris will win due to more experience and technique.",
+          "predicted_duration": null,
+          "style_conflict": "Sandris' experience and style will be too much for Lachlan.",
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": "Experienced, technical",
+              "health": null,
+              "previous_match_summary": "Has beaten strong opponents"
+            },
+            "Lachlan Adair": {
+              "strength": "Strong but less experienced",
+              "health": null,
+              "previous_match_summary": "Less experience at this level"
+            }
+          }
+        },
+        {
+          "match": [
+            "Gabriela Vasconcelos",
+            "Egle Vaitkute"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Gabriela Vasconcelos",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks Gabriela is the best female arm wrestler currently and will win.",
+          "predicted_duration": null,
+          "style_conflict": "Gabriela's top roll and strength will be decisive.",
+          "opinion_about_athletes": {
+            "Gabriela Vasconcelos": {
+              "strength": "Best top roller in women's division",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            },
+            "Egle Vaitkute": {
+              "strength": "Strong but not at Gabriela's level",
+              "health": null,
+              "previous_match_summary": "Has shown improvement but not enough"
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Derek Smith"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Revaz Lutidze",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes Revaz has more chance to win.",
+          "predicted_duration": null,
+          "style_conflict": "Revaz's top roll and strength will be key.",
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Strong top roller",
+              "health": "60% recovered",
+              "previous_match_summary": "Has shown strength in past matches"
+            },
+            "Derek Smith": {
+              "strength": "Strong but may not match Revaz",
+              "health": null,
+              "previous_match_summary": "Has had tough matches recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks John will win, possibly due to his experience and ability to stop speed.",
+          "predicted_duration": null,
+          "style_conflict": "John's experience and ability to control the match will be decisive.",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary, experienced",
+              "health": null,
+              "previous_match_summary": "Recently beat Corey West"
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Strong but may not match John's experience",
+              "health": "Recovered from surgery",
+              "previous_match_summary": "Has shown good form recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 4",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes Dadikyan can hook Oleg and win.",
+          "predicted_duration": null,
+          "style_conflict": "Dadikyan's strength and technique will be key.",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Very strong, especially in hook",
+              "health": null,
+              "previous_match_summary": "Has shown strength in recent matches"
+            },
+            "Oleg Zhokh": {
+              "strength": "Strong but may not match Dadikyan",
+              "health": null,
+              "previous_match_summary": "Has had tough matches recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey Miller",
+            "Daniel Procopciuc"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks Procopciuc will win, possibly due to his strength and technique.",
+          "predicted_duration": null,
+          "style_conflict": "Procopciuc's strength and technique will be too much for Corey.",
+          "opinion_about_athletes": {
+            "Corey Miller": {
+              "strength": "Strong but may not match Procopciuc",
+              "health": null,
+              "previous_match_summary": "Has had tough matches recently"
+            },
+            "Daniel Procopciuc": {
+              "strength": "Very strong, technical",
+              "health": null,
+              "previous_match_summary": "Has shown strength in recent matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Bozhidar Simeonov",
+            "Davit Samushia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes Samushia will win due to his strength and recent form.",
+          "predicted_duration": null,
+          "style_conflict": "Samushia's strength and recent form will be decisive.",
+          "opinion_about_athletes": {
+            "Bozhidar Simeonov": {
+              "strength": "Strong but may not match Samushia",
+              "health": null,
+              "previous_match_summary": "Lost to Samushia in 2019"
+            },
+            "Davit Samushia": {
+              "strength": "Very strong, in good form",
+              "health": null,
+              "previous_match_summary": "Has shown strength in recent matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 4",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "3-0",
+          "prediction_summary": "Ermes predicts Morozov will win easily.",
+          "predicted_duration": null,
+          "style_conflict": "Morozov's strength and technique will be too much for Kody.",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Has shown strength in recent matches"
+            },
+            "Kody Merritt": {
+              "strength": "Strong but not at Morozov's level",
+              "health": null,
+              "previous_match_summary": "Has had tough matches recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes Prudnik will win, possibly due to his speed and technique.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik's speed and technique will be key.",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Very strong, fast",
+              "health": null,
+              "previous_match_summary": "Has shown strength in recent matches"
+            },
+            "Todd Hutchings": {
+              "strength": "Strong but may not match Prudnik's speed",
+              "health": null,
+              "previous_match_summary": "Has had tough matches recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Raimonds Liepiņš",
+            "Ryan Bowen"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Ryan Bowen",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks Ryan will win due to his size and natural strength.",
+          "predicted_duration": null,
+          "style_conflict": "Ryan's size and strength will be decisive.",
+          "opinion_about_athletes": {
+            "Raimonds Liepiņš": {
+              "strength": "Strong but smaller",
+              "health": null,
+              "previous_match_summary": "Has shown strength in past matches"
+            },
+            "Ryan Bowen": {
+              "strength": "Bigger, naturally stronger",
+              "health": null,
+              "previous_match_summary": "Has shown strength in recent matches"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Artyom Morozov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Dave Chaffee will win, possibly due to his strength and experience.",
+          "predicted_duration": null,
+          "style_conflict": "Dave's strength and experience will be too much for Morozov.",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Strong but not enough for Dave",
+              "health": null,
+              "previous_match_summary": "Lost to Prudnik recently"
+            },
+            "Dave Chaffee": {
+              "strength": "Extremely strong, top-level",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks John will win due to his experience and ability to control the match.",
+          "predicted_duration": null,
+          "style_conflict": "John's experience and ability to stop speed will be key.",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary, experienced",
+              "health": null,
+              "previous_match_summary": "Recently beat Corey West"
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Strong but may not match John's experience",
+              "health": "Recovered from surgery",
+              "previous_match_summary": "Has shown good form recently"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Pradeep",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Artyom Morozov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Pradeep believes Dave Chaffee will win, possibly due to his strength and experience.",
+          "predicted_duration": null,
+          "style_conflict": "Dave's strength and experience will be too much for Morozov.",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Strong but not enough for Dave",
+              "health": null,
+              "previous_match_summary": "Lost to Prudnik recently"
+            },
+            "Dave Chaffee": {
+              "strength": "Extremely strong, top-level",
+              "health": null,
+              "previous_match_summary": "Dominant in recent matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Pradeep thinks John will win due to his experience and ability to control the match.",
+          "predicted_duration": null,
+          "style_conflict": "John's experience and ability to stop speed will be key.",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary, experienced",
+              "health": null,
+              "previous_match_summary": "Recently beat Corey West"
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Strong but may not match John's experience",
+              "health": "Recovered from surgery",
+              "previous_match_summary": "Has shown good form recently"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Travis Bagent"
+  },
+  "date": null,
+  "self_predictions": [],
+  "third_party_predictions": [
+    {
+      "match": [
+        "Davit Arabuli",
+        "Chance Shaw"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Travis Bagent mentions that Davit Arabuli is around Sandri's level and jokes about being in his corner against Chance Shaw.",
+      "predicted_duration": null,
+      "style_conflict": null,
+      "opinion_about_athletes": {
+        "Chance Shaw": {
+          "strength": "Travis acknowledges Chance as a rising star and part of the future of American heavyweight arm wrestling.",
+          "health": null,
+          "previous_match_summary": "Mentions Chance's victories over high-level athletes like Zurab and BJ."
+        },
+        "Davit Arabuli": {
+          "strength": "Compares Davit Arabuli to Sandri's level.",
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    },
+    {
+      "match": [
+        "Jerry Cadorette",
+        "Georgi Tsvetkov"
+      ],
+      "arm": "Right",
+      "event": "East vs West 6",
+      "predicted_winner": null,
+      "predicted_score": null,
+      "prediction_summary": "Travis Bagent discusses Georgi Tsvetkov's strength and past performances, noting his impressive wins over high-level athletes like Ferit Osmanli and John Brzenk.",
+      "predicted_duration": null,
+      "style_conflict": "Travis mentions that stylistically, the match is bad for Georgi.",
+      "opinion_about_athletes": {
+        "Georgi Tsvetkov": {
+          "strength": "Travis considers Georgi's left hand the second best in the building during a past event.",
+          "health": null,
+          "previous_match_summary": "Highlights Georgi's victories over Ferit Osmanli and John Brzenk."
+        },
+        "Jerry Cadorette": {
+          "strength": null,
+          "health": null,
+          "previous_match_summary": null
+        }
+      }
+    }
+  ]
+}

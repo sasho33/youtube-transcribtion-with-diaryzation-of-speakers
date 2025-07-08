@@ -1,0 +1,142 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "John Brzenk",
+    "SPEAKER_02": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "John Brzenk",
+      "self_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Alexei Voevoda"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "John is as prepared as he can be but is unsure of Alexei's condition. He hopes to neutralize Alexei's wrist control and use his own strengths.",
+          "predicted_duration": null,
+          "style_conflict": "Neutralizing Alexei's wrist control",
+          "opinion_about_athletes": {
+            "Alexei Voevoda": {
+              "strength": "Incredible hand and wrist, explosive, possibly stronger and faster than John",
+              "health": "Appears to be in great condition, agile despite being over 40",
+              "previous_match_summary": "Alexei's last comeback was not embarrassing but he didn't like losing. Expected to be better prepared this time."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Frank Lamparelli",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Frank Lamparelli",
+          "predicted_score": null,
+          "prediction_summary": "If Frank can maintain hand and wrist position, he is likely the stronger arm. Age might be a factor.",
+          "predicted_duration": null,
+          "style_conflict": "Hand and wrist control vs side pressure",
+          "opinion_about_athletes": {
+            "Frank Lamparelli": {
+              "strength": "Strong arm, good side pressure",
+              "health": "Getting older but still capable",
+              "previous_match_summary": "Has beaten Matt Mask before with dead wrist and side pressure."
+            },
+            "Matt Mask": {
+              "strength": "Good hand control",
+              "health": "Not a spring chicken but younger than Frank",
+              "previous_match_summary": "Usually loses to Frank but can be competitive."
+            }
+          }
+        },
+        {
+          "match": [
+            "Lachlan Adair",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Lachlan Adair",
+          "predicted_score": null,
+          "prediction_summary": "Lachlan needs to be explosive and dominate early. If the match goes longer, Krasimir's endurance and defensive hook could prevail.",
+          "predicted_duration": "Short match favors Lachlan, longer match favors Krasimir",
+          "style_conflict": "Explosiveness vs endurance",
+          "opinion_about_athletes": {
+            "Lachlan Adair": {
+              "strength": "Explosive, getting stronger",
+              "health": null,
+              "previous_match_summary": "Has been improving and getting bigger."
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Defensive hook, great endurance",
+              "health": null,
+              "previous_match_summary": "Known for his stopping power and endurance."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Engin Terzi",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Alexei Voevoda"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin believes the match is historically significant and hopes for a good match. He doesn't care who wins but appreciates the legends meeting.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Strong hand, short forearm for leverage",
+              "health": "Dealing with some injuries but prepared",
+              "previous_match_summary": "Still competitive at his weight class."
+            },
+            "Alexei Voevoda": {
+              "strength": "Gifted athlete, explosive, strong hand and wrist",
+              "health": "Appears to be in great condition",
+              "previous_match_summary": "Made a big impact in a short time."
+            }
+          }
+        },
+        {
+          "match": [
+            "Frank Lamparelli",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": "51-49 or 52-48",
+          "prediction_summary": "Engin gives a slight edge to Matt Mask but wouldn't be surprised if Frank wins. It's a close match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Frank Lamparelli": {
+              "strength": "Strong side pressure",
+              "health": "Older but still capable",
+              "previous_match_summary": "Has beaten Matt before."
+            },
+            "Matt Mask": {
+              "strength": "Good hand control",
+              "health": "In good shape",
+              "previous_match_summary": "Usually loses to Frank but can be competitive."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

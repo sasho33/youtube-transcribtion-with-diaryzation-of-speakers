@@ -1,0 +1,146 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Ermes Gasparini",
+    "SPEAKER_02": "Engin Terzi",
+    "SPEAKER_03": "Unknown",
+    "SPEAKER_04": "Raimonds Liepiņš"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "Ermes Gasparini",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "3-0",
+          "prediction_summary": "Ermes believes Michael Todd will win easily due to his experience and current form.",
+          "predicted_duration": null,
+          "style_conflict": "Michael's endurance and experience vs Kamil's power",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "High",
+              "health": "Recovering from injury",
+              "previous_match_summary": "Strong performance against Lars"
+            },
+            "Kamil Jablonski": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Strong press power"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Leonidas Arkona"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Leonidas Arkona",
+          "predicted_score": null,
+          "prediction_summary": "Ermes hopes John wins but believes Leonidas is stronger and more focused now.",
+          "predicted_duration": null,
+          "style_conflict": "Leonidas' strength and endurance vs John's experience",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Legendary endurance and technique"
+            },
+            "Leonidas Arkona": {
+              "strength": "Very high",
+              "health": "Good",
+              "previous_match_summary": "Super strong bicep and endurance"
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Frank Lampirelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks it will be a tough match but Dave's power and endurance will prevail.",
+          "predicted_duration": null,
+          "style_conflict": "Dave's power vs Frank's wrist control",
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Very high",
+              "health": "Good",
+              "previous_match_summary": "Strong performances recently"
+            },
+            "Frank Lampirelli": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Good wrist control and endurance"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Vitaly Laletin"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes Laletin's leverage and side pressure will be too much for Devon.",
+          "predicted_duration": null,
+          "style_conflict": "Laletin's leverage vs Devon's endurance",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Strong endurance but may lack power against Laletin"
+            },
+            "Vitaly Laletin": {
+              "strength": "Very high",
+              "health": "Good",
+              "previous_match_summary": "Explosive power and strong side pressure"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Raimonds Liepiņš",
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ryan Belanger",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Ryan Belanger",
+          "predicted_score": "3-0",
+          "prediction_summary": "Raimonds believes Ryan is the real deal with strong wrist and endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Ryan's wrist control vs Raimonds' experience",
+          "opinion_about_athletes": {
+            "Ryan Belanger": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Strong wrist and fast movements"
+            },
+            "Raimonds Liepiņš": {
+              "strength": "High",
+              "health": "Good",
+              "previous_match_summary": "Experienced but may be outmatched"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_02": "John Brzenk",
+    "SPEAKER_01": "Ermes Gasparini",
+    "SPEAKER_03": "Unknown"
+  },
+  "date": null,
+  "predictions": [
+    {
+      "speaker": "John Brzenk",
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes is strong enough and mentally prepared to handle Jerry's unique style, but if he makes a mistake, Jerry could capitalize.",
+          "predicted_duration": null,
+          "style_conflict": "Jerry's flop wrist pressure vs Ermes' top roll and side pressure",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Very strong, well-rounded",
+              "health": "Good",
+              "previous_match_summary": "Emerging star, recent performances show high level of preparation"
+            },
+            "Jerry Cadorette": {
+              "strength": "Unique flop wrist pressure, extremely strong in his style",
+              "health": "Good",
+              "previous_match_summary": "Known for his unique style and ability to trap opponents"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Revaz Lutidze",
+          "predicted_score": null,
+          "prediction_summary": "Revaz is currently one of the best in the world, and Vitaly may struggle to stop his aggressive style.",
+          "predicted_duration": null,
+          "style_conflict": "Revaz's hand and wrist control vs Vitaly's outside pull",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Strong outside pull, good endurance",
+              "health": "Good",
+              "previous_match_summary": "Known for his endurance and outside pulling style"
+            },
+            "Revaz Lutidze": {
+              "strength": "Extremely strong hand and wrist, aggressive",
+              "health": "Good",
+              "previous_match_summary": "Recent matches show decisive and nasty aggression"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "speaker": "Ermes Gasparini",
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Prepared mentally and physically, knows the dangers of Jerry's style.",
+          "predicted_duration": null,
+          "style_conflict": "Jerry's flop wrist pressure vs Ermes' top roll and side pressure",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Unique flop wrist pressure, extremely strong in his style",
+              "health": "Good",
+              "previous_match_summary": "Known for his unique style and ability to trap opponents"
+            }
+          }
+        }
+      ],
+      "third_party_predictions": []
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Ermes Gasparini",
+    "SPEAKER_01": "Unknown",
+    "SPEAKER_02": "Engin Terzi"
+  },
+  "date": null,
+  "predictions": {
+    "Ermes Gasparini": {
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes he can beat Jerry even at 85% of his best shape. He thinks his current form is sufficient to win.",
+          "predicted_duration": null,
+          "style_conflict": "Ermes plans to take Jerry's wrist and use his strength to dominate.",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Acknowledges Jerry's unique technique and pressure.",
+              "health": null,
+              "previous_match_summary": "Noted Jerry's endurance and style from his match with Gennady Kvikvinia."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 5",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Ermes admits it's very difficult and he's not as confident with his left arm. He thinks Morozov has a higher chance.",
+          "predicted_duration": null,
+          "style_conflict": "Top-roll battle expected.",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Very strong, especially in top-roll.",
+              "health": null,
+              "previous_match_summary": "Noted Morozov's performance in previous matches."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Sergey Kalinichenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Ermes mentioned Dzeranov's performance but didn't make a clear prediction.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Young and strong, but needs time to reach top shape.",
+              "health": null,
+              "previous_match_summary": "Lost recently in a tournament."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "3-2",
+          "prediction_summary": "Ermes thinks Michael Todd will win due to his endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik's pressure vs Todd's endurance.",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Endurance is key.",
+              "health": null,
+              "previous_match_summary": "Noted Todd's past victories."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Dangerous but may struggle against Todd's endurance.",
+              "health": null,
+              "previous_match_summary": "Strong but may not handle Todd's style."
+            }
+          }
+        }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin acknowledges Jerry's unique technique and warns Ermes not to underestimate him.",
+          "predicted_duration": null,
+          "style_conflict": "Jerry's pressure vs Ermes' wrist control.",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Unique technique, best in history for his style.",
+              "health": null,
+              "previous_match_summary": "Noted Jerry's performance against Gennady Kvikvinia."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks it's a tough match but notes Todd's ability to stop Prudnik's pressure.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik's pressure vs Todd's endurance.",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Endurance and ability to stop pressure.",
+              "health": null,
+              "previous_match_summary": "Noted Todd's past victories."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Dangerous but may struggle against Todd's endurance.",
+              "health": null,
+              "previous_match_summary": "Strong but may not handle Todd's style."
+            }
+          }
+        }
+      ]
+    }
+  }
+}
