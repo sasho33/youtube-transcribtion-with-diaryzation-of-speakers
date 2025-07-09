@@ -2,43 +2,29 @@ import re
 import json
 from datetime import datetime
 from pathlib import Path
-from googleapiclient.discovery import build
 import sys
 
+# Set up paths
 sys.path.append(str(Path(__file__).resolve().parents[1]))
-from pipeline.config import YOUTUBE_API_KEY, TRANSCRIPT_DIR
+from pipeline.config import TRANSCRIPT_DIR, YOUTUBE_DATA
 
-channels = [
-    {
-        "label": "East vs West Main",
-        "channel_id": "UC3Dw8OYsWmZqrM1qBBZUMhQ"
-    },
-    {
-        "label": "Engin Terzi Enigma of rage",
-        "channel_id": "UCMzpyrvO3yUeGDclgjixSoA"
-    },
-]
 
-def get_video_publish_date(youtube, video_title):
-    for ch in channels:
-        request = youtube.search().list(
-            part="snippet",
-            channelId=ch["channel_id"],
-            maxResults=50,
-            q=video_title.replace("_amp_", "&"),
-            type="video"
-        )
-        response = request.execute()
-        for item in response.get("items", []):
-            title = item["snippet"]["title"].lower()
-            if all(word in title for word in video_title.replace("_amp_", "&").lower().split()):
-                return item["snippet"]["publishedAt"]
+
+# Load local YouTube data
+with open(YOUTUBE_DATA, "r", encoding="utf-8") as f:
+    youtube_db = json.load(f)
+
+def match_video_date(video_title: str):
+    cleaned_title = video_title.replace("_amp_", "&").lower()
+    for channel_videos in youtube_db.values():
+        for entry in channel_videos:
+            yt_title = entry["title"].replace("&amp;", "&").lower()
+            if all(word in yt_title for word in cleaned_title.split()):
+                return entry["publishedAt"]
     return None
 
 def update_json_with_date(event_name: str, video_title: str):
-    youtube = build('youtube', 'v3', developerKey=YOUTUBE_API_KEY)
-
-    published_at = get_video_publish_date(youtube, video_title)
+    published_at = match_video_date(video_title)
     if not published_at:
         print(f"❌ Could not find publish date for video: {video_title}")
         return
@@ -79,6 +65,6 @@ def populate_all():
 
 # Example usage
 if __name__ == "__main__":
-    # update_json_with_date("East vs West 17", "Artyom Morozov - East vs West Podcast")
     # populate_event("East vs West 17")
     populate_all()
+    # update_json_with_date("East vs West 17", "Cody Wood _amp_ Joseph Meranto EvW17 Podcast")
