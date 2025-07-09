@@ -205,11 +205,11 @@
       },
       {
         "winner": "Jocelyne Brisson",
-        "loser": "Sarah Backman",
+        "loser": "Sarah Bäckman",
         "score": "3-0",
         "participants": [
           "Jocelyne Brisson",
-          "Sarah Backman"
+          "Sarah Bäckman"
         ],
         "arm": "Right",
         "weight_category": "Openweight",
@@ -543,11 +543,11 @@
       },
       {
         "winner": "Irakli Zirakashvili",
-        "loser": "Georgy Tautiev",
+        "loser": "Georgii Tautiev",
         "score": "4-0",
         "participants": [
           "Irakli Zirakashvili",
-          "Georgy Tautiev"
+          "Georgii Tautiev"
         ],
         "arm": "Right",
         "weight_category": "Middleweight",
@@ -682,11 +682,11 @@
       },
       {
         "winner": "Matt Mask",
-        "loser": "Lars Rorbakken",
+        "loser": "Lars Rørbakken",
         "score": "3-1",
         "participants": [
           "Matt Mask",
-          "Lars Rorbakken"
+          "Lars Rørbakken"
         ],
         "arm": "Right",
         "weight_category": "Heavyweight",
@@ -765,11 +765,11 @@
         "is_title": false
       },
       {
-        "winner": "Rustam Babayev",
+        "winner": "Rustam Babaiev",
         "loser": "Paul Linn",
         "score": "3-0",
         "participants": [
-          "Rustam Babayev",
+          "Rustam Babaiev",
           "Paul Linn"
         ],
         "arm": "Right",
@@ -904,11 +904,11 @@
         "is_title": true
       },
       {
-        "winner": "Barbora Bajciova",
+        "winner": "Barbora Bajčiová",
         "loser": "Egle Vaitkute",
         "score": "4-0",
         "participants": [
-          "Barbora Bajciova",
+          "Barbora Bajčiová",
           "Egle Vaitkute"
         ],
         "arm": "Right",
@@ -1116,11 +1116,11 @@
       },
       {
         "winner": "Davit Samushia",
-        "loser": "Nurdalet Aidarkhan",
+        "loser": "Nurdaulet Aidarkhan",
         "score": "4-3",
         "participants": [
           "Davit Samushia",
-          "Nurdalet Aidarkhan"
+          "Nurdaulet Aidarkhan"
         ],
         "arm": "Right",
         "weight_category": "Welterweight",
@@ -1418,11 +1418,11 @@
       },
       {
         "winner": "Irakli Zirakashvili",
-        "loser": "Rustam Babayev",
+        "loser": "Rustam Babaiev",
         "score": "3-2",
         "participants": [
           "Irakli Zirakashvili",
-          "Rustam Babayev"
+          "Rustam Babaiev"
         ],
         "arm": "Right",
         "weight_category": "Unknown",
@@ -1533,11 +1533,11 @@
       },
       {
         "winner": "Evgeny Prudnyk",
-        "loser": "David Dadikyan",
+        "loser": "Davit Dadikyan",
         "score": "3-2",
         "participants": [
           "Evgeny Prudnyk",
-          "David Dadikyan"
+          "Davit Dadikyan"
         ],
         "arm": "Left",
         "weight_category": "Unknown",
@@ -2009,11 +2009,11 @@
         "is_title": false
       },
       {
-        "winner": "Nurdalet Aidarkhan",
+        "winner": "Nurdaulet Aidarkhan",
         "loser": "Mindaugas Tarasaitis",
         "score": "3-0",
         "participants": [
-          "Nurdalet Aidarkhan",
+          "Nurdaulet Aidarkhan",
           "Mindaugas Tarasaitis"
         ],
         "arm": "Right",
@@ -2057,11 +2057,11 @@
         "is_title": false
       },
       {
-        "winner": "Davit Samushia",
+        "winner": "David Samushia",
         "loser": "Craig Tullier",
         "score": "3-0",
         "participants": [
-          "Davit Samushia",
+          "David Samushia",
           "Craig Tullier"
         ],
         "arm": "Right",
@@ -2920,11 +2920,11 @@
         "is_title": false
       },
       {
-        "winner": "Sarah Backman",
+        "winner": "Sarah Bäckman",
         "loser": "İrina Drieva",
         "score": "5-0",
         "participants": [
-          "Sarah Backman",
+          "Sarah Bäckman",
           "İrina Drieva"
         ],
         "arm": "Left",
@@ -2944,11 +2944,11 @@
         "is_title": false
       },
       {
-        "winner": "Sarah Backman",
+        "winner": "Sarah Bäckman",
         "loser": "İrina Drieva",
         "score": "4-1",
         "participants": [
-          "Sarah Backman",
+          "Sarah Bäckman",
           "İrina Drieva"
         ],
         "arm": "Right",

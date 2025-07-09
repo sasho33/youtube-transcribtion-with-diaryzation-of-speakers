@@ -104,11 +104,11 @@
       },
       {
         "winner": "Gabriela Vasconcelos",
-        "loser": "Sarah Bäckman",
+        "loser": "Sarah Backman",
         "score": "4-0",
         "participants": [
           "Gabriela Vasconcelos",
-          "Sarah Bäckman"
+          "Sarah Backman"
         ],
         "arm": "Right",
         "weight_category": "Unknown",
@@ -225,11 +225,11 @@
         "is_title": true
       },
       {
-        "winner": "Davit Dadikyan",
+        "winner": "David Dadikyan",
         "loser": "Vitaly Laletin",
         "score": "4-3",
         "participants": [
-          "Davit Dadikyan",
+          "David Dadikyan",
           "Vitaly Laletin"
         ],
         "arm": "Right",
@@ -330,11 +330,11 @@
     "event_location": "Dubai, United Arab Emirates",
     "matches": [
       {
-        "winner": "Lars Rørbakken",
+        "winner": "Lars Rorbakken",
         "loser": "Maateiwarangi Heta-Morris",
         "score": "5-1",
         "participants": [
-          "Lars Rørbakken",
+          "Lars Rorbakken",
           "Maateiwarangi Heta-Morris"
         ],
         "arm": "Right",
@@ -397,11 +397,11 @@
         "is_title": true
       },
       {
-        "winner": "Lars Rørbakken",
+        "winner": "Lars Rorbakken",
         "loser": "Valera Chubotaru",
         "score": "4-3",
         "participants": [
-          "Lars Rørbakken",
+          "Lars Rorbakken",
           "Valera Chubotaru"
         ],
         "arm": "Right",
@@ -507,11 +507,11 @@
         "is_title": true
       },
       {
-        "winner": "Georgi Dzeranov",
+        "winner": "Georgii Dzeranov",
         "loser": "Revaz Lutidze",
         "score": "4-0",
         "participants": [
-          "Georgi Dzeranov",
+          "Georgii Dzeranov",
           "Revaz Lutidze"
         ],
         "arm": "Right",
@@ -690,11 +690,11 @@
       },
       {
         "winner": "Lachlan Adair",
-        "loser": "Lars Rørbakken",
+        "loser": "Lars Rorbakken",
         "score": "4-1",
         "participants": [
           "Lachlan Adair",
-          "Lars Rørbakken"
+          "Lars Rorbakken"
         ],
         "arm": "Right",
         "weight_category": "Unknown",
@@ -725,11 +725,11 @@
         "is_title": true
       },
       {
-        "winner": "Rustam Babaiev",
+        "winner": "Rustam Babayev",
         "loser": "Sandris Šedis",
         "score": "4-0",
         "participants": [
-          "Rustam Babaiev",
+          "Rustam Babayev",
           "Sandris Šedis"
         ],
         "arm": "Right",
@@ -829,11 +829,11 @@
       },
       {
         "winner": "Kamil Jablonski",
-        "loser": "Georgi Dzeranov",
+        "loser": "Georgii Dzeranov",
         "score": "3-0",
         "participants": [
           "Kamil Jablonski",
-          "Georgi Dzeranov"
+          "Georgii Dzeranov"
         ],
         "arm": "Left",
         "weight_category": "Unknown",
@@ -925,11 +925,11 @@
       },
       {
         "winner": "Todd Hutchings",
-        "loser": "Rustam Babaiev",
+        "loser": "Rustam Babayev",
         "score": "4-2",
         "participants": [
           "Todd Hutchings",
-          "Rustam Babaiev"
+          "Rustam Babayev"
         ],
         "arm": "Right",
         "weight_category": "Unknown",

@@ -1,0 +1,44 @@
+{
+  "name": "Devon Larratt",
+  "country": "Canada",
+  "age": 48,
+  "height_cm": 196,
+  "weight_kg": 124.7,
+  "bicep_cm": 48.2,
+  "forearm_cm": 40.6,
+  "dominant_arm": "Right",
+  "pulling_style": ["Toproll", "Kings Move"],
+
+  "win_loss_record": {
+    "right": {"wins": 3, "losses": 1},
+    "left": {"wins": 2, "losses": 2}
+  },
+
+  "titles": ["WAL Heavyweight Champion", "World Armwrestling League Champion"],
+  "recent_opponents": ["Genadi Kvikvinia", "Vitalii Laletin"],
+  "notable_victories": ["John Brzenk", "Jerry Cadorette"],
+  "injuries": [
+    {
+      "type": "Elbow Tendonitis",
+      "arm": "Right",
+      "date": "2023-04-10",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Ottawa, Canada",
+  "coach": "Self-trained",
+  "preferred_start_position": "Strap",
+  "strength_metrics": {
+    "bench_press_kg": 160,
+    "curl_kg": 70,
+    "wrist_curl_kg": 80
+  },
+  "hand_size_cm": 24.5,
+  "wingspan_cm": 210,
+  "grip_strength_kg": 75,
+  "career_highlights": [
+    "Beat John Brzenk 6–0 in 2008",
+    "First WAL heavyweight world champion"
+  ],
+  "last_updated": "2025-07-09"
+}
