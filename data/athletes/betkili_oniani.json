@@ -1,0 +1,82 @@
+{
+  "name": "Betkili Oniani",
+  "country": "Georgia",
+  "age": 28,
+  "date_of_birth": "1996-02-01",
+  "professional_expirience_years": 12,
+  "height_cm": 180,
+  "weight_kg": 80,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "High Hook"
+  ],
+  "titles": [
+    "WAF World Champion (80kg Right, 2019, 2022, 2023)",
+    "European Armwrestling Champion (80kg Right)",
+    "Georgian National Champion (Multiple times)"
+  ],
+  "recent_opponents": [
+    "Irakli Zirakashvili",
+    "Arif Ertem",
+    "Davit Samushia"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Davit Samushia",
+    "Oleg Petrenko",
+    "Todd Hutchings"
+  ],
+  "injuries": [],
+  "training_location": "Tbilisi, Georgia",
+  "coach": "Vakhtang Oniani (Father)",
+  "preferred_start_position": "High Grip",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Three-time WAF World Champion (2019, 2022, 2023)",
+    "Defeated Todd Hutchings at East vs West 9 (2023)",
+    "Won European Championship in 80kg category",
+    "Known for explosive toproll technique"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 0
+    },
+    "left": {
+      "wins": 3,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Oleg Zhokh": {
+      "arm": "Left",
+      "date": "February 12, 2022",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Artem Taynov": {
+      "arm": "Left",
+      "date": "July 6, 2024",
+      "result": "Win",
+      "score": "4-1"
+    },
+    "Talgat Aktaev": {
+      "arm": "Left",
+      "date": "April 20, 2024",
+      "result": "Win",
+      "score": "3-0"
+    }
+  }
+}

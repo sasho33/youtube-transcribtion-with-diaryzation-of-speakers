@@ -1,0 +1,74 @@
+{
+  "name": "Jonathan Breda",
+  "country": "Canada",
+  "age": 29,
+  "date_of_birth": null,
+  "professional_expirience_years": 8,
+  "height_cm": 185,
+  "weight_kg": 105,
+  "bicep_cm": null,
+  "forearm_cm": 40,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Press"
+  ],
+  "titles": [
+    "Canadian National Champion (2018, 2019, 2021, 2022, 2023)",
+    "Arnold Classic Canada Champion (2019)"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Kamil Jablonski",
+    "Daniel Procopciuc"
+  ],
+  "notable_victories": [
+    "Corey Miller",
+    "Daniel Procopciuc",
+    "Jordan Sill"
+  ],
+  "injuries": null,
+  "training_location": "Ontario, Canada",
+  "coach": null,
+  "preferred_start_position": "Low hand",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "5-time Canadian National Champion (105kg class)",
+    "Competed in East vs West multiple times",
+    "Featured in King of the Table 8 undercard",
+    "Known for explosive hook and press technique"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 2
+    }
+  },
+  "matches": {
+    "Aymeric Pradines": {
+      "arm": "Left",
+      "date": "August 10, 2024",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Zurab Tavberidze": {
+      "arm": "Left",
+      "date": "February 12, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Kacper Sinica",
+  "country": "Poland",
+  "age": 26,
+  "date_of_birth": "1998-05-05",
+  "professional_expirience_years": 7,
+  "height_cm": 192,
+  "weight_kg": 115,
+  "bicep_cm": null,
+  "forearm_cm": 43,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "Polish National Champion (2022)",
+    "Zloty Tur Cup Winner (2022)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Arif Ertem",
+    "Daniel Procopciuc"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Rino Masic",
+    "Daniel Procopciuc"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow injury",
+      "arm": "Right",
+      "date": "2023-10-28",
+      "status": "Recovering"
+    }
+  ],
+  "training_location": "Poland",
+  "coach": null,
+  "preferred_start_position": "Open",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Winning Zloty Tur Cup 2022 in 110kg category",
+    "Competing in East vs West 10 against Arif Ertem",
+    "Defeating Rino Masic at Zloty Tur 2022"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Nedalin Hristov": {
+      "arm": "Right",
+      "date": "September 28, 2024",
+      "result": "Win",
+      "score": "5-0"
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Dave Chaffee",
+  "country": "USA",
+  "age": 41,
+  "date_of_birth": "1983-03-10",
+  "professional_expirience_years": 19,
+  "height_cm": 190.5,
+  "weight_kg": 122,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Press",
+    "Hook",
+    "Side Pressure"
+  ],
+  "titles": [
+    "WAL Heavyweight Champion (2017, 2018, 2019)",
+    "IFA World Champion (2015, 2016, 2017)",
+    "Arnold Classic Champion (multiple years)"
+  ],
+  "recent_opponents": [
+    "Ermes Gasparini",
+    "Levan Saginashvili",
+    "Georgi Tsvetkov"
+  ],
+  "notable_victories": [
+    "Denis Cyplenkov",
+    "Michael Todd",
+    "Jerry Cadorette",
+    "Ermes Gasparini"
+  ],
+  "injuries": [
+    {
+      "type": "Bicep Tear",
+      "arm": "Right",
+      "date": "2020-10-10",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Pennsylvania, USA",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": 226,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Three-time consecutive WAL Heavyweight Champion (2017-2019)",
+    "Defeated Denis Cyplenkov in 2016 ending his 8-year unbeaten streak",
+    "Multiple-time Arnold Classic Champion",
+    "Victory over #1 ranked Ermes Gasparini at KOTT 12 (2024)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 3,
+      "losses": 6
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Georgi Tsvetkov": {
+      "arm": "Right",
+      "date": "March 29, 2025",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Frank Lampirelli": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Revaz Lutidze": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Ermes Gasparini": {
+      "arm": "Right",
+      "date": "November 19, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Artyom Morozov": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Genadi Kvikvinia": {
+      "arm": "Right",
+      "date": "May 21, 2022",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Alex Kurdecha": {
+      "arm": "Right",
+      "date": "April 2, 2022",
+      "result": "Win",
+      "score": "5-1"
+    },
+    "Devon Larratt": {
+      "arm": "Right",
+      "date": "June 24, 2023",
+      "result": "Lost",
+      "score": "6-0"
+    },
+    "Gabor Botta Dukat": {
+      "arm": "Right",
+      "date": "Unknown",
+      "result": "Win",
+      "score": "4-0"
+    }
+  }
+}

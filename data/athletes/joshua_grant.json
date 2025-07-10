@@ -1,0 +1,67 @@
+{
+  "name": "Joshua Grant",
+  "country": "Canada",
+  "age": 32,
+  "date_of_birth": "1991-01-01",
+  "professional_expirience_years": 13,
+  "height_cm": 185,
+  "weight_kg": 102,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "Canadian National Champion (95kg Right)",
+    "Canadian National Champion (95kg Left)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Georgi Tautiev",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Corey Miller",
+    "Jason Nadeau",
+    "Jason Neron"
+  ],
+  "injuries": [],
+  "training_location": "Ontario, Canada",
+  "coach": null,
+  "preferred_start_position": "High Grip",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "2021 Canadian National Champion (Right & Left 95kg)",
+    "Competed at East vs West 6 & 7 (2023)",
+    "Multiple Ontario Provincial Championships"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Erkan Damar": {
+      "arm": "Right",
+      "date": "June 12, 2021",
+      "result": "Win",
+      "score": "4-1"
+    }
+  }
+}

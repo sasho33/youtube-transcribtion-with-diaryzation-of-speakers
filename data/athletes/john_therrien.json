@@ -1,0 +1,82 @@
+{
+  "name": "John Therrien",
+  "country": "Canada",
+  "age": 39,
+  "date_of_birth": "1985-05-15",
+  "professional_expirience_years": 12,
+  "height_cm": 188,
+  "weight_kg": 115,
+  "bicep_cm": 48,
+  "forearm_cm": 45,
+  "hand_size_cm": 23,
+  "wingspan_cm": 198,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Side Pressure"
+  ],
+  "titles": [
+    "Canadian National Armwrestling Champion (Super Heavyweight Right)",
+    "Canadian National Armwrestling Champion (Super Heavyweight Left)",
+    "Arnold Classic Champion"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Dave Chaffee",
+    "Todd Hutchings"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Craig Tullier",
+    "Brock Weinzierl"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow Strain",
+      "arm": "Right",
+      "date": "2022-11-01",
+      "status": "Recovered"
+    },
+    {
+      "type": "Shoulder Tendonitis",
+      "arm": "Left",
+      "date": "2023-03-15",
+      "status": "Managed"
+    }
+  ],
+  "training_location": "Ottawa, Canada",
+  "coach": "Ottawa Armwrestling Club",
+  "preferred_start_position": "Low Hand",
+  "strength_metrics": {
+    "bench_press_kg": 205,
+    "curl_kg": 90,
+    "wrist_curl_kg": 95,
+    "backpressure_kg": 85,
+    "sidepressure_kg": 140
+  },
+  "career_highlights": [
+    "Defeated Arif Ertem at East vs West 11 (2024)",
+    "Canadian National Champion in both arms (2023)",
+    "Competed against Dave Chaffee at East vs West 9",
+    "Arnold Classic Professional Armwrestling Champion"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Craig Tullier": {
+      "arm": "Right",
+      "date": "March 29, 2025",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

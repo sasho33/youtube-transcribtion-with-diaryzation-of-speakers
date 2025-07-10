@@ -1,0 +1,93 @@
+{
+  "name": "Lars Rorbakken",
+  "country": "Norway",
+  "age": 30,
+  "date_of_birth": null,
+  "professional_expirience_years": 15,
+  "height_cm": 188,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Side Pressure"
+  ],
+  "titles": [
+    "European Armwrestling Champion (2019, 2021)",
+    "Norwegian National Champion (Multiple years)",
+    "WAF World Championship Silver Medalist"
+  ],
+  "recent_opponents": [
+    "Kydyrgali Ongarbaev",
+    "Davit Samushia",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Tobias Sporrong",
+    "Ferit Osmanli",
+    "Mindaugas Tarasaitis"
+  ],
+  "injuries": [],
+  "training_location": "Oslo, Norway",
+  "coach": null,
+  "preferred_start_position": "High Grip",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Silver medal at 2022 WAF World Championships (95kg)",
+    "Gold at 2021 European Armwrestling Championship",
+    "Competed in East vs West 10, 11 & 12 events",
+    "Victory over Tobias Sporrong at Arnold Classic 2020"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 3
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Matt Mask": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Maateiwarangi Heta-Morris": {
+      "arm": "Right",
+      "date": "September 23, 2023",
+      "result": "Win",
+      "score": "5-1"
+    },
+    "Valera Chubotaru": {
+      "arm": "Right",
+      "date": "December 9, 2023",
+      "result": "Win",
+      "score": "4-3"
+    },
+    "Michael Todd": {
+      "arm": "Right",
+      "date": "June 1, 2024",
+      "result": "Lost",
+      "score": "6-0"
+    },
+    "Lachlan Adair": {
+      "arm": "Right",
+      "date": "Unknown",
+      "result": "Lost",
+      "score": "4-1"
+    }
+  }
+}

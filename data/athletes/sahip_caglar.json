@@ -1,0 +1,70 @@
+{
+  "name": "Sahip Çağlar",
+  "country": "Turkey",
+  "age": 30,
+  "date_of_birth": "1994-07-25",
+  "professional_expirience_years": 9,
+  "height_cm": 180,
+  "weight_kg": 95,
+  "bicep_cm": 45,
+  "forearm_cm": 40,
+  "hand_size_cm": 20,
+  "wingspan_cm": 185,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "matches": {
+    "Marcio Barboza": {
+      "arm": "Left",
+      "date": "May 21, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "titles": [
+    "2017 World Armwrestling Championship (90kg Right)",
+    "2018 World Armwrestling Championship (90kg Right)",
+    "2019 World Armwrestling Championship (90kg Right)",
+    "Multiple European Armwrestling Championships"
+  ],
+  "recent_opponents": [
+    "Revaz Lutidze",
+    "Irakli Zirakashvili",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Ferit Osmanlı",
+    "Ruslan Isaev"
+  ],
+  "injuries": null,
+  "training_location": "Istanbul, Turkey",
+  "coach": "Turkish National Team",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": 150,
+    "curl_kg": 60,
+    "wrist_curl_kg": 70,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "3x World Armwrestling Champion (2017, 2018, 2019)",
+    "Represented Turkey at East vs West 9 and East vs West 10",
+    "Multiple-time Turkish National Champion",
+    "European Armwrestling Championship medalist"
+  ]
+}

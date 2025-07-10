@@ -1,0 +1,137 @@
+{
+  "name": "Todd Hutchings",
+  "country": "USA",
+  "age": 53,
+  "date_of_birth": null,
+  "professional_expirience_years": 30,
+  "height_cm": 183,
+  "weight_kg": 105,
+  "bicep_cm": 47.0,
+  "forearm_cm": 43.2,
+  "hand_size_cm": 21.6,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Inside Game"
+  ],
+  "titles": [
+    "WAF World Champion (95kg, 2011)",
+    "WAL 205lb Champion (2017, 2019)",
+    "Arnold Classic Champion (Multiple)"
+  ],
+  "recent_opponents": [
+    "Artyom Morozov",
+    "Georgi Dzeranov",
+    "Davit Samushia"
+  ],
+  "notable_victories": [
+    "John Brzenk",
+    "Dave Chaffee",
+    "Michael Todd",
+    "Jerry Cadorette"
+  ],
+  "injuries": [
+    {
+      "type": "Bicep Tear",
+      "arm": "Right",
+      "date": "2020",
+      "status": "Recovered"
+    },
+    {
+      "type": "Bicep Tear",
+      "arm": "Right",
+      "date": "2023-12",
+      "status": "Recovering"
+    }
+  ],
+  "training_location": "Grants Pass, Oregon",
+  "coach": null,
+  "preferred_start_position": "Center Hook",
+  "strength_metrics": {
+    "bench_press_kg": 183.7,
+    "curl_kg": null,
+    "wrist_curl_kg": 102,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated John Brzenk in 2019 WAL Finals",
+    "Won WAF World Championship against European dominance (2011)",
+    "Multiple-time Arnold Classic Champion",
+    "Competed in East vs West supermatches until 2023"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 9,
+      "losses": 3
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Irakli Zirakashvili": {
+      "arm": "Right",
+      "date": "May 21, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Yoshinobu Kanai": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Evgeny Prudnik": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Krasimir Kostadinov": {
+      "arm": "Right",
+      "date": "July 6, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "David Dadikyan": {
+      "arm": "Right",
+      "date": "January 20, 2024",
+      "result": "Lost",
+      "score": "4-1"
+    },
+    "Kydyrgali Ongarbaev": {
+      "arm": "Right",
+      "date": "November 11, 2023",
+      "result": "Win",
+      "score": "5-0"
+    },
+    "Ibragim Sagov": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Yordan Tsonev": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Khadzimurat Zoloev": {
+      "arm": "Right",
+      "date": "June 12, 2021",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Rustam Babayev": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Win",
+      "score": "4-2"
+    }
+  }
+}

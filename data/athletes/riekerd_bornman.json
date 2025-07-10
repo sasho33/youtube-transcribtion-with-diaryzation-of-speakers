@@ -1,0 +1,74 @@
+{
+  "name": "Riekerd Bornman",
+  "country": "South Africa",
+  "age": 29,
+  "date_of_birth": "1995-01-01",
+  "professional_expirience_years": 8,
+  "height_cm": 185,
+  "weight_kg": 105,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "South African National Armwrestling Champion",
+    "African Armwrestling Champion"
+  ],
+  "recent_opponents": [
+    "Oleg Petrenko",
+    "Davit Samushia",
+    "Evgeny Prudnik"
+  ],
+  "notable_victories": [
+    "Daniel Procopciuc",
+    "Craig Tullier"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow hyperextension",
+      "arm": "Right",
+      "date": "2023-11-18",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Pretoria, South Africa",
+  "coach": null,
+  "preferred_start_position": "Center setup",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Competed in East vs West 12 against Oleg Petrenko (May 2024)",
+    "Featured in East vs West 10 supermatch vs Evgeny Prudnik (2023)",
+    "Defeated Daniel Procopciuc at East vs West 9 (2023)",
+    "African Armwrestling Championship gold medalist"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Wallace Dilley": {
+      "arm": "Right",
+      "date": "June 21, 2025",
+      "result": "Win",
+      "score": "3-1"
+    }
+  }
+}

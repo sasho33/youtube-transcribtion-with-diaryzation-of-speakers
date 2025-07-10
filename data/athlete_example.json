@@ -2,16 +2,32 @@
   "name": "Devon Larratt",
   "country": "Canada",
   "age": 48,
+  "date_of_birth": "1975-04-24",
+  "professional_expirience_years": 30,
   "height_cm": 196,
   "weight_kg": 124.7,
   "bicep_cm": 48.2,
   "forearm_cm": 40.6,
   "dominant_arm": "Right",
   "pulling_style": ["Toproll", "Kings Move"],
+  "matches": {
+    "Genady Kvikvinia": {
+      "arm": "Right",
+      "date": "2023-10-01",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Evgeny Prudnik": {
+      "arm": "Right",
+      "date": "2023-09-15",
+      "result": "Win",
+      "score": "5-0"
+    }
+  },
 
   "win_loss_record": {
-    "right": {"wins": 3, "losses": 1},
-    "left": {"wins": 2, "losses": 2}
+    "right": {"wins": 9, "losses": 1},
+    "left": {"wins": 1, "losses": 0}
   },
 
   "titles": ["WAL Heavyweight Champion", "World Armwrestling League Champion"],
@@ -31,14 +47,16 @@
   "strength_metrics": {
     "bench_press_kg": 160,
     "curl_kg": 70,
-    "wrist_curl_kg": 80
+    "wrist_curl_kg": 80,
+    "backpressure_kg": 72,
+    "sidepressure_kg": 130
   },
   "hand_size_cm": 24.5,
   "wingspan_cm": 210,
   "grip_strength_kg": 75,
   "career_highlights": [
-    "Beat John Brzenk 6–0 in 2008",
+    "Beat John Brzenk 6-0 in 2008",
     "First WAL heavyweight world champion"
-  ],
-  "last_updated": "2025-07-09"
+  ]
+ 
 }

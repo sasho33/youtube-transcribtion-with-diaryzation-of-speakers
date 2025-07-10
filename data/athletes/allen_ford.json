@@ -1,0 +1,74 @@
+{
+  "name": "Allen Ford",
+  "country": "United Kingdom",
+  "age": 41,
+  "date_of_birth": "1983",
+  "professional_expirience_years": 15,
+  "height_cm": 185,
+  "weight_kg": 98,
+  "bicep_cm": 43,
+  "forearm_cm": 40,
+  "hand_size_cm": 20,
+  "wingspan_cm": null,
+  "grip_strength_kg": 75,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "British National Armwrestling Champion (2013-2019)",
+    "World Armwrestling Championship 3rd Place (2018, 2019)"
+  ],
+  "recent_opponents": [
+    "Craig Underwood",
+    "Ryan Bowen",
+    "Matt Mask"
+  ],
+  "notable_victories": [
+    "Matt Mask",
+    "Craig Underwood",
+    "Ryan Bowen"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow strain",
+      "arm": "Right",
+      "date": "2022-07-15",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "London, UK",
+  "coach": null,
+  "preferred_start_position": "Center table",
+  "strength_metrics": {
+    "bench_press_kg": 140,
+    "curl_kg": 60,
+    "wrist_curl_kg": 70,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "7-time consecutive British National Champion (2013-2019)",
+    "Podium finish at World Armwrestling Championship (2018, 2019)",
+    "Defeated Matt Mask at UK Armwrestling Open 2021"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Ryan Belanger": {
+      "arm": "Right",
+      "date": "June 21, 2025",
+      "result": "Lost",
+      "score": "3-2"
+    }
+  }
+}

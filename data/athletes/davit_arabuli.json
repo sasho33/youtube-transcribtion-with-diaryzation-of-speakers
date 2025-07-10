@@ -1,0 +1,75 @@
+{
+  "name": "Davit Arabuli",
+  "country": "Georgia",
+  "age": 26,
+  "date_of_birth": "1997-10-15",
+  "professional_expirience_years": 12,
+  "height_cm": 185,
+  "weight_kg": 105,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2023 East vs West 12 -95kg Right Hand Champion",
+    "2022 World Armwrestling Championship (IFA) -95kg Right Hand Champion",
+    "Multiple Georgian National Championships"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Rino Masic",
+    "Sandris Sedis"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Rino Masic",
+    "Oleg Petrenko"
+  ],
+  "injuries": [],
+  "training_location": "Tbilisi, Georgia",
+  "coach": "His father (Giorgi Arabuli)",
+  "preferred_start_position": "High grip",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won -95kg right hand gold at East vs West 12 (2023) against Arif Ertem",
+    "Crowned IFA World Champion in 95kg class (2022)",
+    "Undefeated Georgian national champion (multiple years)",
+    "Known for explosive toproll technique and fast setups"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Ivan Matyushenko": {
+      "arm": "Left",
+      "date": "August 26, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Chance Shaw": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Win",
+      "score": "3-1"
+    }
+  }
+}

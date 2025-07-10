@@ -1,0 +1,70 @@
+{
+  "name": "Rosa Acosta (Boltadano)",
+  "country": "Dominican Republic",
+  "age": 42,
+  "date_of_birth": "1982-03-27",
+  "professional_expirience_years": 5,
+  "height_cm": 168,
+  "weight_kg": 64,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Speed toproll",
+    "Wrist control"
+  ],
+  "titles": [
+    "2022 Caribbean Armwrestling Champion"
+  ],
+  "recent_opponents": [
+    "Sarah Bäckman",
+    "Gabriela Vasconcelos"
+  ],
+  "notable_victories": [
+    "Irina Makeeva",
+    "Linda Lam"
+  ],
+  "injuries": [
+    {
+      "type": "Wrist sprain",
+      "arm": "Right",
+      "date": "2023-08-12",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Santo Domingo, Dominican Republic",
+  "coach": "Juan Martinez",
+  "preferred_start_position": "Center table",
+  "strength_metrics": {
+    "bench_press_kg": 65,
+    "curl_kg": 28,
+    "wrist_curl_kg": 42,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Silver medalist at 2023 Latin American Armwrestling Championship",
+    "Featured competitor in East vs West 14 (2023)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Fia Reisek": {
+      "arm": "Right",
+      "date": "November 11, 2023",
+      "result": "Lost",
+      "score": "3-1"
+    }
+  }
+}

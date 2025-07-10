@@ -1,0 +1,106 @@
+{
+  "name": "Krasimir Kostadinov",
+  "country": "Bulgaria",
+  "age": 35,
+  "date_of_birth": "1989-08-08",
+  "professional_expirience_years": 16,
+  "height_cm": 188,
+  "weight_kg": 105,
+  "bicep_cm": 46,
+  "forearm_cm": 43,
+  "hand_size_cm": 21,
+  "wingspan_cm": 193,
+  "grip_strength_kg": 95,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Toproll"
+  ],
+  "matches": {
+    "Todd Hutchings": {
+      "arm": "Right",
+      "date": "July 6, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "John Brzenk": {
+      "arm": "Right",
+      "date": "January 20, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Irakli Zirakashvili": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Arif Ertem": {
+      "arm": "Right",
+      "date": "May 21, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Lachlan Adair": {
+      "arm": "Right",
+      "date": "September 23, 2023",
+      "result": "Win",
+      "score": "5-1"
+    },
+    "Paul Linn": {
+      "arm": "Right",
+      "date": "Unknown",
+      "result": "Win",
+      "score": "4-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 3,
+      "losses": 3
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "World Armwrestling Champion (95kg Right) - 2017, 2018, 2019, 2021",
+    "European Armwrestling Champion",
+    "Multiple Bulgarian National Championships"
+  ],
+  "recent_opponents": [
+    "Artyom Morozov",
+    "Davit Samushia",
+    "Zurab Tavberidze"
+  ],
+  "notable_victories": [
+    "Oleg Zhokh",
+    "Davit Samushia",
+    "Zurab Tavberidze"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow ligament strain",
+      "arm": "Right",
+      "date": "2022-11-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Sofia, Bulgaria",
+  "coach": "Ivan Kostadinov",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": 180,
+    "curl_kg": 70,
+    "wrist_curl_kg": 90,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "4-time World Armwrestling Champion (2017-2019, 2021)",
+    "Undefeated in world championship matches from 2017-2021",
+    "Featured in East vs West Armwrestling supermatches",
+    "Known for explosive hook technique and forearm strength"
+  ]
+}

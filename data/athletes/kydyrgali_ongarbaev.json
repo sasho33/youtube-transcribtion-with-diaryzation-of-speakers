@@ -1,0 +1,102 @@
+{
+  "name": "Kydyrgali Ongarbaev",
+  "country": "Kazakhstan",
+  "age": 30,
+  "date_of_birth": "1994-01-01",
+  "professional_expirience_years": 12,
+  "height_cm": 180,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Defensive"
+  ],
+  "titles": [
+    "WAF World Champion (90kg) - 2017",
+    "WAF World Champion (90kg) - 2018",
+    "WAF World Champion (90kg) - 2019",
+    "WAF World Champion (95kg) - 2021",
+    "WAF World Champion (95kg) - 2022"
+  ],
+  "recent_opponents": [
+    "Dave Chaffee",
+    "Ermes Gasparini",
+    "Artyom Morozov"
+  ],
+  "notable_victories": [
+    "Vitaly Laletin",
+    "Artyom Morozov",
+    "Tobias Sporrong",
+    "Davit Samushia"
+  ],
+  "injuries": null,
+  "training_location": "Aktobe, Kazakhstan",
+  "coach": "Kazakhstan National Team Coaches",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "5-time WAF World Champion across weight classes",
+    "Undefeated in WAF competition from 2017-2022",
+    "Defeated Vitaly Laletin at East vs West 9 (2023)",
+    "Multiple victories over Artyom Morozov in professional matches"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 3,
+      "losses": 3
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Matt Mask": {
+      "arm": "Right",
+      "date": "March 29, 2025",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Todd Hutchings": {
+      "arm": "Right",
+      "date": "November 11, 2023",
+      "result": "Lost",
+      "score": "5-0"
+    },
+    "Irakli Zirakashvili": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Michael Todd": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "John Brzenk": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Oleg Petrenko": {
+      "arm": "Right",
+      "date": "June 1, 2024",
+      "result": "Lost",
+      "score": "4-0"
+    }
+  }
+}

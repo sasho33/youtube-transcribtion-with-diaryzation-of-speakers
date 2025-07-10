@@ -1,0 +1,76 @@
+{
+  "name": "Mazahir Saidu",
+  "country": "Azerbaijan",
+  "age": 31,
+  "date_of_birth": "1993-03-15",
+  "professional_expirience_years": 10,
+  "height_cm": 185,
+  "weight_kg": 108,
+  "bicep_cm": 45.0,
+  "forearm_cm": 38.0,
+  "hand_size_cm": 21.5,
+  "wingspan_cm": 193,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "WAF World Champion (2018, 110kg)",
+    "WAF World Champion (2019, 110kg)",
+    "European Armwrestling Champion (multiple categories)"
+  ],
+  "recent_opponents": [
+    "Todd Hutchings",
+    "Artyom Morozov",
+    "Evgeny Prudnyk"
+  ],
+  "notable_victories": [
+    "Vitaly Laletin",
+    "Arif Ertem",
+    "Irakli Zirakashvili"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder strain",
+      "arm": "Right",
+      "date": "2022-09-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Baku, Azerbaijan",
+  "coach": "National Team Azerbaijan",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": 90,
+    "backpressure_kg": null,
+    "sidepressure_kg": 110
+  },
+  "career_highlights": [
+    "Back-to-back WAF World Championships (2018-2019)",
+    "Defeated #1 ranked Vitaly Laletin in 2019 World Championship finals",
+    "Multiple European Championship titles",
+    "Represented Azerbaijan in East vs West events"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Raimonds Liepiņš": {
+      "arm": "Right",
+      "date": "May 28, 2021",
+      "result": "Lost",
+      "score": "3-2"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Tom Holland",
+  "country": "United Kingdom",
+  "nickname": "The Machine",
+  "age": null,
+  "weight_kg": 78.0,
+  "height_cm": 188.0,
+  "occupation": "Landscape Gardener",
+  "bicep_cm": 41.0,
+  "forearm_cm": 41.0,
+  "wrist_cm": null
+}

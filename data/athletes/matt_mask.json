@@ -1,0 +1,147 @@
+{
+  "name": "Matt Mask",
+  "country": "Canada",
+  "age": 38,
+  "date_of_birth": null,
+  "professional_expirience_years": 20,
+  "height_cm": 188,
+  "weight_kg": 105,
+  "bicep_cm": null,
+  "forearm_cm": 39,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "matches": {
+    "Irakli Zirakashvili": {
+      "arm": "Left",
+      "date": "June 21, 2025",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Kydyrgali Ongarbaev": {
+      "arm": "Right",
+      "date": "March 29, 2025",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Lars Rorbakken": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Wagner Bortolato": {
+      "arm": "Right",
+      "date": "January 20, 2024",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Frank Lamparelli": {
+      "arm": "Right",
+      "date": "November 11, 2023",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Sandris Sedis": {
+      "arm": "Right",
+      "date": "November 19, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Artyom Morozov": {
+      "arm": "Left",
+      "date": "May 21, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Evgeny Prudnik": {
+      "arm": "Right",
+      "date": "May 21, 2022",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Ermes Gasparini": {
+      "arm": "Right",
+      "date": "June 12, 2021",
+      "result": "Lost",
+      "score": "4-1"
+    },
+    "Ron Bath": {
+      "arm": "Right",
+      "date": "September 23, 2023",
+      "result": "Win",
+      "score": "6-0"
+    },
+    "Derek Smith": {
+      "arm": "Right",
+      "date": "February 24, 2024",
+      "result": "Win",
+      "score": "6-0"
+    },
+    "Marcio Barboza": {
+      "arm": "Right",
+      "date": "Unknown",
+      "result": "Win",
+      "score": "5-1"
+    },
+    "Nugzari Chikadze": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Lost",
+      "score": "3-1"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 6,
+      "losses": 5
+    },
+    "left": {
+      "wins": 1,
+      "losses": 1
+    }
+  },
+  "titles": [
+    "WAL 205lb Champion (2019)",
+    "Canadian National Champion (multiple times)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Arif Ertem",
+    "Evgeny Prudnik"
+  ],
+  "notable_victories": [
+    "Todd Hutchings",
+    "Derek Smith",
+    "Schoolboy"
+  ],
+  "injuries": [
+    {
+      "type": "Bicep tear",
+      "arm": "Right",
+      "date": "2022",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Leduc, Alberta, Canada",
+  "coach": "Self-trained",
+  "preferred_start_position": "Versatile (adapts to opponent)",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Winning WAL 205lb Championship against Derek Smith (2019)",
+    "Victory over 7x world champion Todd Hutchings at WAL 2018",
+    "Multiple Canadian national championship titles",
+    "Featured supermatch competitor in East vs West events"
+  ]
+}

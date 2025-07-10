@@ -1,0 +1,68 @@
+{
+  "name": "Robbie Karstendiek",
+  "country": "Germany",
+  "age": 30,
+  "date_of_birth": "1994-09-08",
+  "professional_expirience_years": 14,
+  "height_cm": 180,
+  "weight_kg": 105,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2019 World Armwrestling Champion (95kg right hand)",
+    "2018 European Armwrestling Champion (95kg right hand)",
+    "Multiple German National Championships"
+  ],
+  "recent_opponents": [
+    "Ermes Gasparini",
+    "Arif Ertem",
+    "Ferit Osmanli"
+  ],
+  "notable_victories": [
+    "Ferit Osmanli",
+    "Georgi Tsvetkov",
+    "Davit Samushia"
+  ],
+  "injuries": [],
+  "training_location": "Gelsenkirchen, Germany",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Winning 2019 World Armwrestling Championship in Romania",
+    "Victory over Davit Samushia at A1 German Open 2022",
+    "Multiple European Championship medals across weight classes"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Raimonds Liepins": {
+      "arm": "Right",
+      "date": "February 24, 2024",
+      "result": "Lost",
+      "score": "5-1"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Artur Makarov",
+  "country": "Russia",
+  "age": 24,
+  "date_of_birth": "2000-01-01",
+  "professional_expirience_years": 7,
+  "height_cm": 190,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Side Pressure"
+  ],
+  "titles": [
+    "WAL 205 lb Champion (2021)"
+  ],
+  "recent_opponents": [
+    "Dave Chaffee",
+    "Tobias Sporrong",
+    "Daniel Procopciuc"
+  ],
+  "notable_victories": [
+    "Tobias Sporrong",
+    "Chance Shaw",
+    "Daniel Procopciuc"
+  ],
+  "injuries": [],
+  "training_location": "Russia",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won WAL 205 lb Championship (2021)",
+    "Represented Russia at World Armwrestling Championships",
+    "Competed in East vs West multiple times (EvW 7, EvW 12, EvW 14)",
+    "Victory over Tobias Sporrong at EvW 7 (2022)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 3,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Ömer Kozakoğlu": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Mindaugus Tarasaitis": {
+      "arm": "Right",
+      "date": "April 20, 2024",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Adam Wawrzynski": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Daniel Procopciuc": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Win",
+      "score": "4-1"
+    }
+  }
+}

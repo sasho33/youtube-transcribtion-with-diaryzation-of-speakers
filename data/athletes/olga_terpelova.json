@@ -1,0 +1,63 @@
+{
+  "name": "Olga Terpelova",
+  "country": "Ukraine",
+  "age": null,
+  "date_of_birth": null,
+  "professional_expirience_years": null,
+  "height_cm": null,
+  "weight_kg": null,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll"
+  ],
+  "matches": {
+    "Carolina Pettersson": {
+      "arm": "Right",
+      "date": "July 6, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "2021 World Armwrestling Championship Gold (70kg Right)",
+    "2022 European Armwrestling Championship Gold (70kg Right)"
+  ],
+  "recent_opponents": [
+    "Oksana Horodkova",
+    "Sashka Ivaylova"
+  ],
+  "notable_victories": [
+    "Olena Semerenko"
+  ],
+  "injuries": [],
+  "training_location": null,
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "World Armwrestling Champion (2021, 70kg Right-hand)",
+    "European Armwrestling Champion (2022, 70kg Right-hand)",
+    "Multiple Ukrainian National Championships titles"
+  ]
+}

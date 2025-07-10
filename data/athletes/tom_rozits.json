@@ -1,0 +1,76 @@
+{
+  "name": "Tom Rozits",
+  "country": "Canada",
+  "age": 35,
+  "date_of_birth": "1989-06-15",
+  "professional_expirience_years": 8,
+  "height_cm": 185,
+  "weight_kg": 95,
+  "bicep_cm": 43,
+  "forearm_cm": 39,
+  "hand_size_cm": 21,
+  "wingspan_cm": 193,
+  "grip_strength_kg": 82,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Low Hand Toproll"
+  ],
+  "titles": [
+    "2021 Canadian National Armwrestling Champion (95kg)",
+    "2022 Canadian National Armwrestling Champion (95kg)",
+    "Arnold Classic USA Champion (2023)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Arif Ertem",
+    "Paul Linn"
+  ],
+  "notable_victories": [
+    "Paul Linn",
+    "John Yves Thériault",
+    "Derek Smith"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow ligament strain",
+      "arm": "Right",
+      "date": "2022-09-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Toronto, Ontario, Canada",
+  "coach": "Self-trained (Ontario Armwrestling Association)",
+  "preferred_start_position": "Low hand",
+  "strength_metrics": {
+    "bench_press_kg": 140,
+    "curl_kg": 55,
+    "wrist_curl_kg": 75,
+    "backpressure_kg": 68,
+    "sidepressure_kg": 115
+  },
+  "career_highlights": [
+    "Defeated Paul Linn at East vs West 9 (2022)",
+    "Gold medal at 2023 Arnold Classic USA (95kg)",
+    "Back-to-back Canadian National Championships (2021-2022)",
+    "Featured in East vs West 10 against Davit Samushia (2023)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 0
+    },
+    "left": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Artem Taranenko": {
+      "arm": "Left",
+      "date": "July 6, 2024",
+      "result": "Win",
+      "score": "3-0"
+    }
+  }
+}

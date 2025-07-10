@@ -1,0 +1,76 @@
+{
+  "name": "Brigitta Ivánfi",
+  "country": "Hungary",
+  "age": 29,
+  "date_of_birth": "1994-10-12",
+  "professional_expirience_years": 8,
+  "height_cm": 170,
+  "weight_kg": 70,
+  "bicep_cm": null,
+  "forearm_cm": 29,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Press"
+  ],
+  "titles": [
+    "WAF World Champion (2021, 2022)",
+    "European Armwrestling Champion",
+    "Hungarian National Champion"
+  ],
+  "recent_opponents": [
+    "Olesya Semenova",
+    "Hannah Grace",
+    "Sashka Dobreva"
+  ],
+  "notable_victories": [
+    "Olesya Semenova",
+    "Hannah Grace",
+    "Cynthia Yerby"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder strain",
+      "arm": "Right",
+      "date": "2022-07",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Budapest, Hungary",
+  "coach": "Attila Csősz",
+  "preferred_start_position": "Center table",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Back-to-back WAF World Championships (2021-2022)",
+    "Gold medal at European Armwrestling Championship",
+    "Featured athlete at East vs West 10 & 11",
+    "Undefeated in international competitions 2021-2022"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Irina Gladkaya": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Win",
+      "score": "3-2"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Ivan Matyushenko",
+  "country": "Ukraine",
+  "age": 34,
+  "date_of_birth": "1990-01-01",
+  "professional_expirience_years": 12,
+  "height_cm": 185,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "WAF World Champion (95kg RH, 2019)",
+    "WAF World Champion (95kg RH, 2021)",
+    "WAF World Champion (95kg RH, 2023)",
+    "European Champion (95kg RH, 2022)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Daniel Procopciuc",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Daniel Procopciuc",
+    "Arif Ertem",
+    "Rustam Babayev"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder injury",
+      "arm": "Right",
+      "date": "2022-03-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Kyiv, Ukraine",
+  "coach": null,
+  "preferred_start_position": "Center setup",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "3x consecutive WAF World Champion (2019, 2021, 2023)",
+    "European Champion 2022",
+    "Multiple Ukrainian national championships",
+    "Featured athlete at East vs West 10-12 events"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 0
+    },
+    "left": {
+      "wins": 2,
+      "losses": 2
+    }
+  },
+  "matches": {
+    "Alizhan Muratov": {
+      "arm": "Left",
+      "date": "November 2, 2024",
+      "result": "Lost",
+      "score": "4-0"
+    },
+    "Rino Mašić": {
+      "arm": "Left",
+      "date": "January 20, 2024",
+      "result": "Win",
+      "score": "4-1"
+    },
+    "Kamil Jablonski": {
+      "arm": "Right",
+      "date": "November 11, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Davit Arabuli": {
+      "arm": "Left",
+      "date": "August 26, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Artyom Morozov": {
+      "arm": "Left",
+      "date": "June 1, 2024",
+      "result": "Lost",
+      "score": "4-1"
+    },
+    "Serhii Kalinichenko": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Win",
+      "score": "3-1"
+    }
+  }
+}

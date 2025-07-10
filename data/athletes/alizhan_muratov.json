@@ -1,0 +1,99 @@
+{
+  "name": "Alizhan Muratov",
+  "country": "Kazakhstan",
+  "age": 23,
+  "date_of_birth": "2001-01-01",
+  "professional_expirience_years": 5,
+  "height_cm": 180,
+  "weight_kg": 85,
+  "bicep_cm": null,
+  "forearm_cm": 38,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Explosive Hook"
+  ],
+  "titles": [
+    "2021 WAF World Championship - 85kg Right Gold",
+    "2022 European Championship - 85kg Right Gold",
+    "2022 East vs West 85kg Champion"
+  ],
+  "recent_opponents": [
+    "Bacho Kacharava",
+    "Davit Samushia",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Davit Samushia",
+    "Arif Ertem",
+    "Rustam Babayev"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder strain",
+      "arm": "Right",
+      "date": "2022-08-00",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Almaty, Kazakhstan",
+  "coach": "Kazakhstan National Team Coaches",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Youngest ever WAF World Champion at age 20 (2021)",
+    "Undefeated at East vs West events (2022-2023)",
+    "Named 'Future of Armwrestling' by Engin Terzi"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 0
+    },
+    "left": {
+      "wins": 5,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Ivan Matyushenko": {
+      "arm": "Left",
+      "date": "November 2, 2024",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Ermes Gasparini": {
+      "arm": "Left",
+      "date": "April 20, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Evgeny Prudnik": {
+      "arm": "Left",
+      "date": "January 20, 2024",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Kody Merritt": {
+      "arm": "Left",
+      "date": "May 6, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Oleg Petrenko": {
+      "arm": "Left",
+      "date": "January 21, 2023",
+      "result": "Win",
+      "score": "3-0"
+    }
+  }
+}

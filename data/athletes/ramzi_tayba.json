@@ -1,0 +1,63 @@
+{
+  "name": "Ramzi Tayba",
+  "country": "Ukraine",
+  "age": 33,
+  "date_of_birth": null,
+  "professional_expirience_years": 10,
+  "height_cm": 175,
+  "weight_kg": 80,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Left",
+  "pulling_style": [
+    "Toproll"
+  ],
+  "titles": [
+    "European Armwrestling Champion (2019, Left, 80kg)",
+    "World Armwrestling Championship Silver (2019, Left, 80kg)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Daniel Procopciuc"
+  ],
+  "notable_victories": [
+    "Daniel Procopciuc"
+  ],
+  "injuries": [],
+  "training_location": "Ukraine",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "European Armwrestling Champion (2019, Left, 80kg)",
+    "Silver medal at World Armwrestling Championship (2019, Left, 80kg)",
+    "Competed at East vs West 8 and 9"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Vlad Dzisiak": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

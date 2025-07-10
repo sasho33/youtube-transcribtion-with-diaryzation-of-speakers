@@ -1,0 +1,105 @@
+{
+  "name": "Raimonds Liepins",
+  "country": "Latvia",
+  "age": 31,
+  "date_of_birth": "1993-07-12",
+  "professional_expirience_years": 13,
+  "height_cm": 193,
+  "weight_kg": 165,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Power Hook",
+    "Press"
+  ],
+  "titles": [
+    "2021 World Armwrestling Champion (110+ kg, Right Hand)",
+    "2019 European Armwrestling Champion (110+ kg, Right Hand)",
+    "2019 Latvian National Champion (110+ kg)"
+  ],
+  "recent_opponents": [
+    "Levan Saginashvili",
+    "Ermes Gasparini",
+    "Artyom Morozov"
+  ],
+  "notable_victories": [
+    "Alex Kurdecha",
+    "Artyom Morozov",
+    "Tim Bresnan"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder Injury",
+      "arm": "Right",
+      "date": "2022-08-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Riga, Latvia",
+  "coach": null,
+  "preferred_start_position": "Low Hand",
+  "strength_metrics": {
+    "bench_press_kg": 300,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Alex Kurdecha to win 2021 World Championship",
+    "Competed against Levan Saginashvili at East vs West 12",
+    "Known for world-record raw bench press strength (300 kg)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 3,
+      "losses": 3
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Ryan Belanger": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Doug Erlich": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Ryan Bowen": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Mazahir Saidu": {
+      "arm": "Right",
+      "date": "May 28, 2021",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Engin Terzi": {
+      "arm": "Right",
+      "date": "June 24, 2023",
+      "result": "Lost",
+      "score": "5-1"
+    },
+    "Robbie Karstendiek": {
+      "arm": "Right",
+      "date": "February 24, 2024",
+      "result": "Win",
+      "score": "5-1"
+    }
+  }
+}

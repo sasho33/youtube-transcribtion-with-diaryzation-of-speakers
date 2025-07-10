@@ -1,0 +1,84 @@
+{
+  "name": "Ryan Belanger",
+  "country": "Canada",
+  "age": null,
+  "date_of_birth": null,
+  "professional_expirience_years": 13,
+  "height_cm": 183,
+  "weight_kg": 102,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Press"
+  ],
+  "titles": [
+    "2019 Canadian National Armwrestling Champion (Right Hand)",
+    "2019 Canadian National Armwrestling Champion (Left Hand)",
+    "2021 Canadian National Armwrestling Champion (Right Hand)",
+    "2022 Canadian National Armwrestling Champion (Right Hand)",
+    "2022 Canadian National Armwrestling Champion (Left Hand)"
+  ],
+  "recent_opponents": [
+    "Evgeny Prudnik",
+    "Davit Samushia",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Davit Samushia",
+    "Arif Ertem",
+    "Brock Weinzierl"
+  ],
+  "injuries": [
+    {
+      "type": "Bicep tear",
+      "arm": "Right",
+      "date": "2020",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Quebec, Canada",
+  "coach": null,
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Multiple Canadian National Championships across weight classes (2019-2022)",
+    "Victory over Davit Samushia at East vs West 10 (2023)",
+    "Win against Arif Ertem at King of the Table 6 (2023)",
+    "Represented Canada at World Armwrestling Championships"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Allen Ford": {
+      "arm": "Right",
+      "date": "June 21, 2025",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Raimonds Liepiņš": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Win",
+      "score": "3-0"
+    }
+  }
+}

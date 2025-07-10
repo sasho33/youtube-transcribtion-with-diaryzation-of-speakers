@@ -1,0 +1,63 @@
+{
+  "name": "Terence Opperman",
+  "country": "South Africa",
+  "age": 33,
+  "date_of_birth": "1991",
+  "professional_expirience_years": 5,
+  "height_cm": null,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll"
+  ],
+  "titles": [
+    "Multiple-time South African National Champion"
+  ],
+  "recent_opponents": [
+    "Kydyrgali Ongarbaev",
+    "Daniel Procopciuc",
+    "Ivan Matyushenko"
+  ],
+  "notable_victories": [
+    "Ivan Matyushenko"
+  ],
+  "injuries": [],
+  "training_location": "South Africa",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Multiple-time South African National Champion",
+    "Competed at East vs West 9 (2023), East vs West 10 (2023), and East vs West 11 (2024)",
+    "Featured in 95kg category at premier international events"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Rino Mašić": {
+      "arm": "Right",
+      "date": "July 29, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Brandon Ellsessor",
+  "country": "USA",
+  "age": 29,
+  "date_of_birth": null,
+  "professional_expirience_years": 6,
+  "height_cm": 183,
+  "weight_kg": 105,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Toproll"
+  ],
+  "titles": [
+    "2023 WAF World Champion (95kg, Right)",
+    "2023 US National Champion (95kg)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Davit Arabuli",
+    "Kydyrgali Ongarbaev"
+  ],
+  "notable_victories": [
+    "Davit Arabuli",
+    "Sasho Andreev",
+    "Zaur Paizulaev"
+  ],
+  "injuries": [],
+  "training_location": "Texas, USA",
+  "coach": null,
+  "preferred_start_position": "Hook",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won WAF World Championship in 2023",
+    "Defeated Davit Arabuli at East vs West 9 (2023)",
+    "US National Championship victory (2023)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 2
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Stoyan Golemanov": {
+      "arm": "Right",
+      "date": "April 20, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Davit Samushia": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

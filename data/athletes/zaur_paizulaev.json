@@ -1,0 +1,73 @@
+{
+  "name": "Zaur Paizulaev",
+  "country": "Russia",
+  "age": 30,
+  "date_of_birth": "1994-01-01",
+  "professional_expirience_years": 10,
+  "height_cm": 180,
+  "weight_kg": 105,
+  "bicep_cm": 45,
+  "forearm_cm": 41,
+  "hand_size_cm": 20,
+  "wingspan_cm": 185,
+  "grip_strength_kg": 75,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "Russian National Champion",
+    "East vs West 105kg Champion (2023)"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Daniel Procopciuc",
+    "Davit Samushia"
+  ],
+  "notable_victories": [
+    "Davit Samushia",
+    "Rinat Kiramov"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow strain",
+      "arm": "Right",
+      "date": "2022-08-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Moscow, Russia",
+  "coach": "Russian National Team Coaches",
+  "preferred_start_position": "High hook",
+  "strength_metrics": {
+    "bench_press_kg": 150,
+    "curl_kg": 60,
+    "wrist_curl_kg": 70,
+    "backpressure_kg": 60,
+    "sidepressure_kg": 100
+  },
+  "career_highlights": [
+    "Won 105kg category at East vs West 11 (2023)",
+    "Multiple-time Russian National Champion",
+    "Victory over #2 ranked 105kg puller Davit Samushia"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Georgi Tsvetkov": {
+      "arm": "Right",
+      "date": "November 11, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

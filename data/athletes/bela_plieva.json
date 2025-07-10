@@ -1,0 +1,72 @@
+{
+  "name": "Bela Plieva",
+  "country": "Russia",
+  "age": null,
+  "date_of_birth": null,
+  "professional_expirience_years": 3,
+  "height_cm": null,
+  "weight_kg": 55.0,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "Russian National Armwrestling Champion"
+  ],
+  "recent_opponents": [
+    "Svetlana Tsvetkova",
+    "Irakli Zirakashvili",
+    "Natalia Grigorieva"
+  ],
+  "notable_victories": [
+    "Irina Makeeva",
+    "Ekaterina Tsekunova"
+  ],
+  "injuries": [
+    {
+      "type": "Wrist tendonitis",
+      "arm": "Right",
+      "date": "2023-08-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Vladikavkaz, Russia",
+  "coach": "Alan Zaseev",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Competed in East vs West 11 (May 2023) in 55kg category",
+    "Russian National Championships gold medalist (2022)",
+    "Featured in ARMFIGHT Pro Series tournaments"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Esra Kiraz": {
+      "arm": "Right",
+      "date": "June 12, 2021",
+      "result": "Win",
+      "score": "5-0"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Egle Vaitkute",
+  "country": "Lithuania",
+  "age": 28,
+  "date_of_birth": null,
+  "professional_expirience_years": 9,
+  "height_cm": 170,
+  "weight_kg": 70,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "matches": {
+    "Barbora Bajciova": {
+      "arm": "Right",
+      "date": "July 6, 2024",
+      "result": "Lost",
+      "score": "4-0"
+    },
+    "Sarah Backman": {
+      "arm": "Right",
+      "date": "November 11, 2023",
+      "result": "Win",
+      "score": "5-0"
+    },
+    "Gabriela Vasconcelos": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Jocelyne Brisson": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Win",
+      "score": "3-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 2
+    },
+    "left": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "titles": [
+    "World Armwrestling Champion (2021, 65kg right)",
+    "World Armwrestling Champion (2023, 70kg right)",
+    "European Armwrestling Champion (2022, 70kg right)",
+    "Lithuanian National Champion (multiple years)"
+  ],
+  "recent_opponents": [
+    "Gabriela Vasconcelos",
+    "Maryna Cherednyk",
+    "Oksana Kolesnikova"
+  ],
+  "notable_victories": [
+    "Maryna Cherednyk",
+    "Gabriela Vasconcelos",
+    "Oksana Kolesnikova"
+  ],
+  "injuries": [],
+  "training_location": "Lithuania",
+  "coach": "Arvydas Vaitkus",
+  "preferred_start_position": "High grip",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won back-to-back World Armwrestling Championships (2021 & 2023)",
+    "Undefeated European Champion in 2022",
+    "Featured athlete in East vs West 13 (February 2024)",
+    "Represented Lithuania in over 15 international championships"
+  ]
+}

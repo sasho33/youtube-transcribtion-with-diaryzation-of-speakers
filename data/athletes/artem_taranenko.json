@@ -1,0 +1,72 @@
+{
+  "name": "Artem Taranenko",
+  "country": "Ukraine",
+  "age": 23,
+  "date_of_birth": "2001-03-25",
+  "professional_expirience_years": 5,
+  "height_cm": 190,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "East vs West 12 (2023) 95kg Right-Hand Champion",
+    "World Armwrestling Championship (Junior 75kg) - 2019"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Davit Samushia",
+    "Kamil Jablonski"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Davit Samushia"
+  ],
+  "injuries": [],
+  "training_location": "Kyiv, Ukraine",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Arif Ertem 3-0 to win 95kg right-hand title at East vs West 12 (2023)",
+    "Youngest Ukrainian champion in professional armwrestling history",
+    "Junior World Champion at age 18 (2019)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Mindaugas Tarasaitis": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Tom Rozits": {
+      "arm": "Left",
+      "date": "July 6, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Hristo Delidzhakov",
+  "country": "Bulgaria",
+  "age": 25,
+  "date_of_birth": "1999-08-16",
+  "professional_expirience_years": 7,
+  "height_cm": 180,
+  "weight_kg": 85,
+  "bicep_cm": 40,
+  "forearm_cm": 39,
+  "hand_size_cm": 20,
+  "wingspan_cm": 185,
+  "grip_strength_kg": 65,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2023 European Armwrestling Champion (Left Hand)",
+    "2022 Balkan Armwrestling Champion",
+    "Bulgarian National Champion (Multiple years)"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Artyom Morozov",
+    "Davit Samushia"
+  ],
+  "notable_victories": [
+    "Davit Samushia",
+    "Krasimir Kostadinov",
+    "Plamen Dimitrov"
+  ],
+  "injuries": [
+    {
+      "type": "Wrist tendon inflammation",
+      "arm": "Right",
+      "date": "2022-11-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Sofia, Bulgaria",
+  "coach": "Bulgarian National Team Coaches",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": 120,
+    "curl_kg": 50,
+    "wrist_curl_kg": 60,
+    "backpressure_kg": 55,
+    "sidepressure_kg": 70
+  },
+  "career_highlights": [
+    "Gold medal at 2023 European Armwrestling Championship (Left Hand)",
+    "Competed at East vs West 12 (2024) against top international pullers",
+    "Multiple-time Bulgarian national champion across weight classes",
+    "Represented Bulgaria at World Armwrestling Championships"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Mindaugas Tarasaitis": {
+      "arm": "Right",
+      "date": "July 29, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

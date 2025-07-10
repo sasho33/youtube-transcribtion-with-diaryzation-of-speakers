@@ -1,0 +1,77 @@
+{
+  "name": "Brandon Allen",
+  "country": "USA",
+  "age": 30,
+  "date_of_birth": "1993-10-15",
+  "professional_expirience_years": 8,
+  "height_cm": 185,
+  "weight_kg": 105,
+  "bicep_cm": 43.0,
+  "forearm_cm": 38.0,
+  "hand_size_cm": 22.0,
+  "wingspan_cm": 193,
+  "grip_strength_kg": 70,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Toproll"
+  ],
+  "titles": [
+    "2019 WAF World Champion (95kg Right)",
+    "2021 WAF World Champion (95kg Right)",
+    "2022 WAF World Champion (95kg Right)",
+    "2021 US National Champion"
+  ],
+  "recent_opponents": [
+    "Evgeny Prudnyk",
+    "Levan Saginashvili",
+    "Dave Chaffee"
+  ],
+  "notable_victories": [
+    "Todd Hutchings",
+    "Derek Smith",
+    "Irakli Zirakashvili"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder tendonitis",
+      "arm": "Right",
+      "date": "2022-08-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Dallas, Texas",
+  "coach": "Self-trained (Arm Farm Texas)",
+  "preferred_start_position": "Center table",
+  "strength_metrics": {
+    "bench_press_kg": 170,
+    "curl_kg": 65,
+    "wrist_curl_kg": 75,
+    "backpressure_kg": 68,
+    "sidepressure_kg": 125
+  },
+  "career_highlights": [
+    "3-time consecutive WAF World Champion (2019, 2021, 2022)",
+    "Defeated #1 ranked Irakli Zirakashvili at 2022 WAF Worlds",
+    "Featured in King of the Table 7 supermatch against Levan Saginashvili",
+    "East vs West 10 main card competitor against Evgeny Prudnyk"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Larry Wheels": {
+      "arm": "Right",
+      "date": "December 11, 2021",
+      "result": "Win",
+      "score": "4-2"
+    }
+  }
+}

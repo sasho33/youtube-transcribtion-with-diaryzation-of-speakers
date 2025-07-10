@@ -1,0 +1,98 @@
+{
+  "name": "Larry Wheels",
+  "country": "USA",
+  "age": 29,
+  "date_of_birth": "1994-12-03",
+  "professional_expirience_years": 5,
+  "height_cm": 185,
+  "weight_kg": 118,
+  "bicep_cm": 50,
+  "forearm_cm": 43,
+  "hand_size_cm": 21.6,
+  "wingspan_cm": 193,
+  "grip_strength_kg": 120,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Side Pressure",
+    "Toproll"
+  ],
+  "titles": [
+    "2021 WAL Super Heavyweight Championship"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Ermes Gasparini",
+    "Revaz Lutidze"
+  ],
+  "notable_victories": [
+    "Matt Mask",
+    "Corey West",
+    "Chance Shaw"
+  ],
+  "injuries": [
+    {
+      "type": "Torn bicep tendon",
+      "arm": "Left",
+      "date": "2020-08",
+      "status": "Recovered"
+    },
+    {
+      "type": "Bicep tendonitis",
+      "arm": "Right",
+      "date": "2022",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Dubai, UAE",
+  "coach": "Various (Self-trained with elite pullers)",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": 300,
+    "curl_kg": 100,
+    "wrist_curl_kg": 140,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Winning 2021 WAL Super Heavyweight Championship",
+    "Competing in King of the Table 8 against Arif Ertem",
+    "Facing top-10 ranked Ermes Gasparini at East vs West 7",
+    "Defeating former WAL champion Matt Mask"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 4
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Aleksandr \"Schoolboy\" Beziazykov": {
+      "arm": "Right",
+      "date": "May 28, 2021",
+      "result": "Lost",
+      "score": "5-0"
+    },
+    "Brandon Allen": {
+      "arm": "Right",
+      "date": "December 11, 2021",
+      "result": "Lost",
+      "score": "4-2"
+    },
+    "Khaled Jashell": {
+      "arm": "Right",
+      "date": "April 2, 2022",
+      "result": "Lost",
+      "score": "4-1"
+    },
+    "Leonidas Arkona": {
+      "arm": "Right",
+      "date": "December 9, 2023",
+      "result": "Lost",
+      "score": "6-0"
+    }
+  }
+}

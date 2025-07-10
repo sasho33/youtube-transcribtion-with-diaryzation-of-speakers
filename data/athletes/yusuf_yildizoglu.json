@@ -1,0 +1,81 @@
+{
+  "name": "Yusuf Yıldızoğlu",
+  "country": "Turkey",
+  "age": 30,
+  "date_of_birth": "1994-01-01",
+  "professional_expirience_years": 12,
+  "height_cm": 178,
+  "weight_kg": 95,
+  "bicep_cm": 42,
+  "forearm_cm": 39,
+  "hand_size_cm": 21,
+  "wingspan_cm": 185,
+  "grip_strength_kg": 82,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Explosive Toproll",
+    "Hook"
+  ],
+  "matches": {
+    "Yerdaulet Sarybay": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Oleg Cherkasov": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Lost",
+      "score": "3-1"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 2
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "2023 European Armwrestling Champion (95kg RH)",
+    "2023 East vs West 10 Champion (95kg RH)",
+    "Multiple Turkish National Championships"
+  ],
+  "recent_opponents": [
+    "Davit Arabuli",
+    "Badu Mtsariashvili",
+    "Artur Makarov"
+  ],
+  "notable_victories": [
+    "Artur Makarov",
+    "Oleg Petrenko",
+    "Ferit Osmanli"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow ligament strain",
+      "arm": "Right",
+      "date": "2022-08-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Istanbul, Turkey",
+  "coach": "Self-trained",
+  "preferred_start_position": "High grip",
+  "strength_metrics": {
+    "bench_press_kg": 160,
+    "curl_kg": 60,
+    "wrist_curl_kg": 95,
+    "backpressure_kg": 85,
+    "sidepressure_kg": 110
+  },
+  "career_highlights": [
+    "Won gold at 2023 European Armwrestling Championship",
+    "Undefeated 95kg champion at East vs West 10 (2023)",
+    "Multiple-time Turkish national champion across weight classes"
+  ]
+}

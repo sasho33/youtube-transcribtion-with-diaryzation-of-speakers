@@ -1,0 +1,64 @@
+{
+  "name": "Paul Talbott",
+  "country": "Canada",
+  "age": null,
+  "date_of_birth": null,
+  "professional_expirience_years": 20,
+  "height_cm": 185.4,
+  "weight_kg": 108.9,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Side Pressure"
+  ],
+  "titles": [
+    "Canadian National Armwrestling Champion (multiple times)"
+  ],
+  "recent_opponents": [
+    "Georgi Tsvetkov",
+    "Arif Ertem",
+    "Davit Samushia"
+  ],
+  "notable_victories": [
+    "Davit Samushia"
+  ],
+  "injuries": null,
+  "training_location": "Vancouver, British Columbia, Canada",
+  "coach": "Self-trained",
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": 183.7,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Multiple-time Canadian National Armwrestling Champion",
+    "Competed in East vs West Armwrestling events",
+    "Featured in King of the Table 9 against Arif Ertem"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Vrezh Sedrakyan": {
+      "arm": "Left",
+      "date": "August 10, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

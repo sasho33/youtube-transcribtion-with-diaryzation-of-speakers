@@ -1,0 +1,75 @@
+{
+  "name": "Ivan Portela",
+  "country": "Brazil",
+  "age": 33,
+  "date_of_birth": null,
+  "professional_expirience_years": 14,
+  "height_cm": 180,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": 40,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "World Armwrestling Champion (95kg Right Hand - 2021, 2022)",
+    "Brazilian National Champion (Multiple)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Artyom Morozov",
+    "Daniel Procopciuc"
+  ],
+  "notable_victories": [
+    "Artyom Morozov",
+    "Daniel Procopciuc",
+    "Rustam Babayev"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow tendon injury",
+      "arm": "Right",
+      "date": "2022-08",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "São Paulo, Brazil",
+  "coach": "Portela Armwrestling Club",
+  "preferred_start_position": "High hook",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Back-to-back World Armwrestling Champion (2021-2022)",
+    "Gold medalist at World Armwrestling Championship in Turkey (2022)",
+    "Featured athlete at East vs West 5-7 events",
+    "Founded Portela Armwrestling Club in São Paulo"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Joseph Meranto": {
+      "arm": "Right",
+      "date": "June 21, 2025",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

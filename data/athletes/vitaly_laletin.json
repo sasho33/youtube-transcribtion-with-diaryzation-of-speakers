@@ -1,0 +1,89 @@
+{
+  "name": "Vitaly Laletin",
+  "country": "Russia",
+  "age": 29,
+  "date_of_birth": "1995-07-15",
+  "professional_expirience_years": 13,
+  "height_cm": 205,
+  "weight_kg": 140,
+  "bicep_cm": 50,
+  "forearm_cm": 45,
+  "hand_size_cm": 22,
+  "wingspan_cm": 220,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "High Hook"
+  ],
+  "titles": [
+    "A1 Russian Open Champion (2019, 2020)",
+    "East vs West 7 Champion (2022)",
+    "Russian National Champion (Multiple)"
+  ],
+  "recent_opponents": [
+    "Ermes Gasparini",
+    "Devon Larratt",
+    "Georgi Tsvetkov"
+  ],
+  "notable_victories": [
+    "Dave Chaffee",
+    "Michael Todd",
+    "Artyom Morozov",
+    "Krasimir Kostadinov"
+  ],
+  "injuries": [
+    {
+      "type": "Bicep Tear",
+      "arm": "Right",
+      "date": "2022-09-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Novosibirsk, Russia",
+  "coach": "Self-trained",
+  "preferred_start_position": "High Grip",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Dave Chaffee twice at East vs West events (2021 & 2022)",
+    "Beat Michael Todd at East vs West 7 (2022) to win championship",
+    "Set world record for fastest pin at professional event (0.8 seconds)",
+    "Ranked #2 in world at 115kg+ category (ArmwrestlingRankings.com)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 1
+    },
+    "left": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "David Dadikyan": {
+      "arm": "Right",
+      "date": "October 1, 2022",
+      "result": "Lost",
+      "score": "4-3"
+    },
+    "Kamil Jablonski": {
+      "arm": "Left",
+      "date": "June 1, 2024",
+      "result": "Win",
+      "score": "4-2"
+    },
+    "Michael Todd": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Win",
+      "score": "3-0"
+    }
+  }
+}

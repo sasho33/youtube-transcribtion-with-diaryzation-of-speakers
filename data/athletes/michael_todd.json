@@ -1,0 +1,137 @@
+{
+  "name": "Michael Todd",
+  "country": "USA",
+  "age": 42,
+  "date_of_birth": "1982-01-03",
+  "professional_expirience_years": 22,
+  "height_cm": 190.5,
+  "weight_kg": 130,
+  "bicep_cm": null,
+  "forearm_cm": 44.5,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "King's Move",
+    "Low-Hand Toproll"
+  ],
+  "titles": [
+    "WAL Heavyweight Champion (2017, 2018)",
+    "Arnold Classic Champion (2010, 2011)",
+    "IFA World Champion"
+  ],
+  "recent_opponents": [
+    "Ermes Gasparini",
+    "Levan Saginashvili",
+    "Dave Chaffee"
+  ],
+  "notable_victories": [
+    "Denis Cyplenkov",
+    "John Brzenk",
+    "Tim Bresnan",
+    "Dave Chaffee"
+  ],
+  "injuries": [
+    {
+      "type": "Torn Bicep",
+      "arm": "Right",
+      "date": "2018-06-01",
+      "status": "Recovered"
+    },
+    {
+      "type": "Elbow Tendonitis",
+      "arm": "Right",
+      "date": "2020-10-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Missouri, USA",
+  "coach": "Self-trained",
+  "preferred_start_position": "Inside",
+  "strength_metrics": {
+    "bench_press_kg": 183.7,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Denis Cyplenkov at Arnold Classic 2010",
+    "WAL Heavyweight Champion (back-to-back 2017-2018)",
+    "First armwrestler to successfully use King's Move at elite level",
+    "Multiple Top 8 finishes at World Championships"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 5,
+      "losses": 6
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Georgii Dzeranov": {
+      "arm": "Right",
+      "date": "June 21, 2025",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Ermes Gasparini": {
+      "arm": "Right",
+      "date": "February 15, 2025",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Genadi Kvikvinia": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Kamil Jablonski": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Frank Lamparelli": {
+      "arm": "Right",
+      "date": "April 20, 2024",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Kydyrgali Ongarbaev": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Revaz Lutidze": {
+      "arm": "Right",
+      "date": "May 21, 2022",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Devon Larratt": {
+      "arm": "Right",
+      "date": "May 28, 2021",
+      "result": "Lost",
+      "score": "5-0"
+    },
+    "Lars Rørbakken": {
+      "arm": "Right",
+      "date": "June 1, 2024",
+      "result": "Win",
+      "score": "6-0"
+    },
+    "Vitaly Laletin": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

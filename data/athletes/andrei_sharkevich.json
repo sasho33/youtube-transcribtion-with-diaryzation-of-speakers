@@ -1,0 +1,71 @@
+{
+  "name": "Andrei Sharkevich",
+  "country": "Belarus",
+  "age": 32,
+  "date_of_birth": "1992-01-01",
+  "professional_expirience_years": 10,
+  "height_cm": 183,
+  "weight_kg": 105,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Side Pressure"
+  ],
+  "titles": [
+    "World Armwrestling Champion (WAF) 2016 (90 kg)",
+    "World Armwrestling Champion (WAF) 2018 (100 kg)",
+    "European Armwrestling Champion",
+    "Multiple Belarus National Champion"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Arif Ertem",
+    "Kydyrgali Ongarbaev"
+  ],
+  "notable_victories": [
+    "Kydyrgali Ongarbaev",
+    "Davit Samushia",
+    "Arif Ertem"
+  ],
+  "injuries": [],
+  "training_location": "Minsk, Belarus",
+  "coach": null,
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won World Armwrestling Championship (WAF) in 2016 (90 kg, right hand)",
+    "Won World Armwrestling Championship (WAF) in 2018 (100 kg, right hand)",
+    "Defeated Kydyrgali Ongarbaev at East vs West 12 (2023)",
+    "Victory over Davit Samushia at East vs West 14 (2024)",
+    "Multiple European Championship titles"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Arsen Khachatryan": {
+      "arm": "Right",
+      "date": "March 29, 2025",
+      "result": "Lost",
+      "score": "3-1"
+    }
+  }
+}

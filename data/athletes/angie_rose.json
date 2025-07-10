@@ -1,0 +1,67 @@
+{
+  "name": "Angie Rose",
+  "country": "Philippines",
+  "age": 23,
+  "date_of_birth": "2001-08-14",
+  "professional_expirience_years": 5,
+  "height_cm": 157.5,
+  "weight_kg": 55,
+  "bicep_cm": null,
+  "forearm_cm": 30,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "East vs West 7 Women's 55kg Champion",
+    "Asia Pacific Armwrestling Champion (2019)",
+    "Philippine National Armwrestling Champion"
+  ],
+  "recent_opponents": [
+    "Taisiia Hut",
+    "Katarzyna Kosinska",
+    "Kseniia Kurachkina"
+  ],
+  "notable_victories": [
+    "Kseniia Kurachkina",
+    "Taisiia Hut"
+  ],
+  "injuries": [],
+  "training_location": "Cagayan de Oro, Philippines",
+  "coach": null,
+  "preferred_start_position": "Referee's Grip",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won East vs West 7 in Dubai (2022) against Kseniia Kurachkina",
+    "Youngest Filipino gold medalist at Asia Pacific Armwrestling Championship",
+    "Featured athlete on 'Armwrestler' YouTube channel documentary"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Anna Grönlund": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Win",
+      "score": "3-1"
+    }
+  }
+}

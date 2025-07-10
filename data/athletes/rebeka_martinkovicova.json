@@ -1,0 +1,76 @@
+{
+  "name": "Rebeka Martinkovicova",
+  "country": "Slovakia",
+  "age": 23,
+  "date_of_birth": "2001-03-28",
+  "professional_expirience_years": 8,
+  "height_cm": 172,
+  "weight_kg": 70,
+  "bicep_cm": 34,
+  "forearm_cm": 30,
+  "hand_size_cm": 18,
+  "wingspan_cm": 178,
+  "grip_strength_kg": 60,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "WAF World Champion (2021, 2022, 2023)",
+    "European Armwrestling Champion (2022, 2023)",
+    "Nemiroff World Cup Champion (2023)"
+  ],
+  "recent_opponents": [
+    "Gabriela Vasconcelos",
+    "Egle Vaitkute",
+    "Oksana Ionenko"
+  ],
+  "notable_victories": [
+    "Egle Vaitkute",
+    "Oksana Ionenko",
+    "Anastasiia Novikova"
+  ],
+  "injuries": [
+    {
+      "type": "Wrist tendonitis",
+      "arm": "Right",
+      "date": "2022-10-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Bratislava, Slovakia",
+  "coach": "Jozef Martinkovic",
+  "preferred_start_position": "High grip toproll",
+  "strength_metrics": {
+    "bench_press_kg": 80,
+    "curl_kg": 35,
+    "wrist_curl_kg": 45,
+    "backpressure_kg": 55,
+    "sidepressure_kg": 65
+  },
+  "career_highlights": [
+    "Three-time consecutive WAF World Champion (2021-2023)",
+    "Youngest female world champion in armwrestling history (2021)",
+    "Undefeated in European Championships (2022-2023)",
+    "Featured athlete at East vs West 12 (2024)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Fia Reisek": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

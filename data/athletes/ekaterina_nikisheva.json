@@ -1,0 +1,71 @@
+{
+  "name": "Ekaterina Nikisheva",
+  "country": "Russia",
+  "age": 26,
+  "date_of_birth": null,
+  "professional_expirience_years": 7,
+  "height_cm": 175,
+  "weight_kg": 70,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "World Armwrestling Champion (70kg Left) - 2021",
+    "World Armwrestling Champion (70kg Left) - 2022",
+    "World Armwrestling Champion (70kg Left) - 2023",
+    "European Armwrestling Champion",
+    "Multiple Russian National Championships"
+  ],
+  "recent_opponents": [
+    "Sashka Georgieva",
+    "Irina Makeeva",
+    "Olesya Krasilnikova"
+  ],
+  "notable_victories": [
+    "Olesya Krasilnikova",
+    "Sashka Georgieva",
+    "Irina Makeeva"
+  ],
+  "injuries": [],
+  "training_location": "St. Petersburg, Russia",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "3x consecutive World Armwrestling Champion (2021-2023)",
+    "Undefeated in international competition since 2021",
+    "Featured athlete at East vs West Armwrestling events",
+    "Dominant left-arm specialist in 70kg weight class"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Fia Reisik": {
+      "arm": "Left",
+      "date": "April 20, 2024",
+      "result": "Lost",
+      "score": "4-0"
+    }
+  }
+}

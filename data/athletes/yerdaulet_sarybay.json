@@ -1,0 +1,72 @@
+{
+  "name": "Yerdaulet Sarybay",
+  "country": "Kazakhstan",
+  "age": 28,
+  "date_of_birth": null,
+  "professional_expirience_years": 7,
+  "height_cm": 183,
+  "weight_kg": 105,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Toproll"
+  ],
+  "titles": [
+    "2017 World Armwrestling Champion (90kg Right)",
+    "5-time Kazakhstan National Champion"
+  ],
+  "recent_opponents": [
+    "Evgeny Prudnik",
+    "Arif Ertem",
+    "Dave Chaffee"
+  ],
+  "notable_victories": [
+    "Kydyrgali Ongarbaev"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder injury",
+      "arm": "Right",
+      "date": "2023-06-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Almaty, Kazakhstan",
+  "coach": null,
+  "preferred_start_position": "Center table",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated reigning world champion Kydyrgali Ongarbaev at KOTT: Heavy Hitters (2022)",
+    "Competed in East vs West 11 & 12 against top-ranked pullers",
+    "Won World Armwrestling Championship at age 21"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Yusuf Yıldızoğlu": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Win",
+      "score": "3-0"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Haydar Gildil",
+  "country": "Turkey",
+  "age": 33,
+  "date_of_birth": "1991-04-15",
+  "professional_expirience_years": 14,
+  "height_cm": 185,
+  "weight_kg": 105,
+  "bicep_cm": 45,
+  "forearm_cm": 41,
+  "hand_size_cm": 22,
+  "wingspan_cm": 190,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "WAF World Champion (2017, 95kg Right)",
+    "WAF World Champion (2018, 95kg Right)",
+    "European Armwrestling Champion",
+    "Turkish National Champion (multiple years)"
+  ],
+  "recent_opponents": [
+    "Todd Hutchings",
+    "Dave Chaffee",
+    "Ermes Gasparini"
+  ],
+  "notable_victories": [
+    "Michael Todd",
+    "Oleg Zhokh",
+    "Arif Ertem"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder Dislocation",
+      "arm": "Right",
+      "date": "2021-01-01",
+      "status": "Recovered"
+    },
+    {
+      "type": "Elbow Tendonitis",
+      "arm": "Right",
+      "date": "2023-07-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Istanbul, Turkey",
+  "coach": "Turkish National Team Coaching Staff",
+  "preferred_start_position": "High Hook",
+  "strength_metrics": {
+    "bench_press_kg": 180,
+    "curl_kg": 65,
+    "wrist_curl_kg": 100,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won back-to-back WAF World Championships (2017-2018)",
+    "Defeated Michael Todd at 2018 World Championship finals",
+    "Multiple European Championship titles across weight classes",
+    "Undefeated in Turkish national competitions for 5 consecutive years"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Cobra Rhodes": {
+      "arm": "Right",
+      "date": "November 19, 2022",
+      "result": "Win",
+      "score": "3-0"
+    }
+  }
+}

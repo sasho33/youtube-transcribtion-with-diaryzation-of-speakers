@@ -1,0 +1,73 @@
+{
+  "name": "Aymeric Pradines",
+  "country": "France",
+  "age": 26,
+  "date_of_birth": null,
+  "professional_expirience_years": 7,
+  "height_cm": 183,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "French National Champion (Left Arm 2018)",
+    "French National Champion (Right Arm 95kg 2020)",
+    "French National Champion (Right Arm 95kg 2022)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Daniel Procopciuc",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Ivan Matyushenko",
+    "Arif Ertem"
+  ],
+  "injuries": null,
+  "training_location": "Paris, France",
+  "coach": null,
+  "preferred_start_position": "High Grip",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Competed in East vs West 11 (2023) and East vs West 12 (2024)",
+    "Three-time French National Champion across weight classes",
+    "Top-10 ranked European armwrestler in 95kg category"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 0
+    },
+    "left": {
+      "wins": 2,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Jonathan Breda": {
+      "arm": "Left",
+      "date": "August 10, 2024",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Robbie Topie": {
+      "arm": "Left",
+      "date": "January 20, 2024",
+      "result": "Win",
+      "score": "3-1"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Adam Wawrzynski",
+  "country": "Poland",
+  "age": 32,
+  "date_of_birth": "1992",
+  "professional_expirience_years": 8,
+  "height_cm": 185,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "East vs West 95kg Champion (2023)",
+    "Polish National Champion (Multiple titles)",
+    "European Armwrestling Championship Medalist"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Krasimir Kostadinov",
+    "Davit Arabuli"
+  ],
+  "notable_victories": [
+    "Evgeny Prudnyk",
+    "Krasimir Kostadinov",
+    "Davit Samushia"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder injury",
+      "arm": "Right",
+      "date": "2022",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Poland",
+  "coach": null,
+  "preferred_start_position": "High grip",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated #1 ranked Evgeny Prudnyk at East vs West 9 (2023)",
+    "Won East vs West 95kg Gold Medal in dominant 3-0 finals victory",
+    "Multiple-time Polish National Champion across weight classes"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 2
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Vladimir Maiorov": {
+      "arm": "Right",
+      "date": "July 6, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Artur Makarov": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Bacho Saginashvili": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Bozhidar Simeonov": {
+      "arm": "Right",
+      "date": "November 19, 2022",
+      "result": "Win",
+      "score": "3-0"
+    }
+  }
+}

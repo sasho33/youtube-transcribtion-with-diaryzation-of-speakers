@@ -1,0 +1,69 @@
+{
+  "name": "Oguzhan Koçak",
+  "country": "Turkey",
+  "age": 22,
+  "date_of_birth": null,
+  "professional_expirience_years": 7,
+  "height_cm": 180,
+  "weight_kg": 105,
+  "bicep_cm": 45,
+  "forearm_cm": 40,
+  "hand_size_cm": 21,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2021 WAF World Junior Champion (100kg, Right)",
+    "2022 WAF European Senior Champion (100kg, Right)",
+    "2023 WAF World Senior Champion (100kg, Right)",
+    "2023 East vs West 12 Champion (100kg, Right)"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Davit Samushia",
+    "Daniel Procopciuc"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Davit Samushia",
+    "Daniel Procopciuc"
+  ],
+  "injuries": [],
+  "training_location": "Istanbul, Turkey",
+  "coach": "Engin Terzi",
+  "preferred_start_position": "High Hand",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Youngest Turkish athlete to win WAF Senior World Championship (2023)",
+    "Undefeated championship run at East vs West 12 (2023)",
+    "Transitioned from junior to senior champion within 2 years"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0, 
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Nugzari Chikadze": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

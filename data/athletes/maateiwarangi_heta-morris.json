@@ -1,0 +1,84 @@
+{
+  "name": "Maateiwarangi Heta-Morris",
+  "country": "New Zealand",
+  "age": 34,
+  "date_of_birth": "1990-06-15",
+  "professional_expirience_years": 12,
+  "height_cm": 188,
+  "weight_kg": 130,
+  "bicep_cm": 52,
+  "forearm_cm": 45,
+  "hand_size_cm": 23,
+  "wingspan_cm": 200,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Toproll",
+    "Pressure Fighting"
+  ],
+  "matches": {
+    "Lars Rorbakken": {
+      "arm": "Right",
+      "date": "September 23, 2023",
+      "result": "Lost",
+      "score": "5-1"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "Arnold Classic USA Pro Champion (2019, 2020)",
+    "Arnold Classic Australia Pro Champion (2018, 2019, 2020)",
+    "New Zealand National Champion (multiple)",
+    "Oceania Armwrestling Champion"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Daniel Procopciuc",
+    "Vitaly Laletin"
+  ],
+  "notable_victories": [
+    "Dave Chaffee",
+    "Todd Hutchings",
+    "Michael Todd"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder Injury",
+      "arm": "Right",
+      "date": "2022-05-01",
+      "status": "Recovered"
+    },
+    {
+      "type": "Bicep Tear",
+      "arm": "Right",
+      "date": "2023-07-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Auckland, New Zealand",
+  "coach": "Self-trained",
+  "preferred_start_position": "Strap",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Dave Chaffee at East vs West 9 (2022)",
+    "Victory over Todd Hutchings at East vs West 10 (2022)",
+    "Three-time Arnold Classic Australia Pro Champion",
+    "First Pacific Islander to compete in King of the Table events"
+  ]
+}

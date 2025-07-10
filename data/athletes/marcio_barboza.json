@@ -1,0 +1,92 @@
+{
+  "name": "Marcio Barboza",
+  "country": "Brazil",
+  "age": 33,
+  "date_of_birth": "1991-06-01",
+  "professional_expirience_years": 14,
+  "height_cm": 180,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2x Brazilian National Champion",
+    "East vs West 95kg Champion (2021)",
+    "East vs West 95kg Champion (2022)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Daniel Procopciuc",
+    "Paul Linn"
+  ],
+  "notable_victories": [
+    "Evgeny Prudnik",
+    "Paul Linn",
+    "Daniel Procopciuc"
+  ],
+  "injuries": [],
+  "training_location": "São Paulo, Brazil",
+  "coach": null,
+  "preferred_start_position": "Neutral",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Evgeny Prudnik to win East vs West 95kg title (2021)",
+    "Successfully defended East vs West 95kg title against Paul Linn (2022)",
+    "Multiple-time Brazilian national champion"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 3
+    },
+    "left": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Oleg Petrenko": {
+      "arm": "Right",
+      "date": "January 20, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Sahip Çağlar": {
+      "arm": "Left",
+      "date": "May 21, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Tobias Sporrong": {
+      "arm": "Right",
+      "date": "May 21, 2022",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Irakli Zirakashvili": {
+      "arm": "Right",
+      "date": "June 25, 2022",
+      "result": "Lost",
+      "score": "4-0"
+    },
+    "Matt Mask": {
+      "arm": "Right",
+      "date": "Unknown",
+      "result": "Lost",
+      "score": "5-1"
+    }
+  }
+}

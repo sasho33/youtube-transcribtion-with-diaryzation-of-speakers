@@ -1,0 +1,115 @@
+{
+  "name": "David Dadikyan",
+  "country": "Armenia",
+  "age": 31,
+  "date_of_birth": "1993-06-06",
+  "professional_expirience_years": 16,
+  "height_cm": 185,
+  "weight_kg": 105,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "World Armwrestling Champion (2017, 2018, 2019, 2021, 2022, 2023)",
+    "European Armwrestling Champion (multiple)",
+    "A1 Russian Open Champion",
+    "Zloty Tur Poland Champion"
+  ],
+  "recent_opponents": [
+    "Levan Saginashvili",
+    "Arif Ertem",
+    "Tobias Sporrong"
+  ],
+  "notable_victories": [
+    "Oleg Petrenko",
+    "Revaz Lutidze",
+    "Arif Ertem",
+    "Tobias Sporrong",
+    "Georgi Tsvetkov"
+  ],
+  "injuries": [],
+  "training_location": "Yerevan, Armenia",
+  "coach": "Armenian National Team Coaches",
+  "preferred_start_position": "High hook setup",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "6-time World Armwrestling Champion (95kg class)",
+    "Remained undefeated in world championships from 2017-2023",
+    "Competed against Levan Saginashvili at EvW 12 (2023)",
+    "Known for defeating heavier opponents in open-weight competitions",
+    "Dominant force in 95kg category for over half a decade"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 3,
+      "losses": 1
+    },
+    "left": {
+      "wins": 3,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Alex Kurdecha": {
+      "arm": "Left",
+      "date": "February 15, 2025",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Oleg Petrenko": {
+      "arm": "Right",
+      "date": "July 6, 2024",
+      "result": "Lost",
+      "score": "4-0"
+    },
+    "Todd Hutchings": {
+      "arm": "Right",
+      "date": "January 20, 2024",
+      "result": "Win",
+      "score": "4-1"
+    },
+    "Evgeny Prudnyk": {
+      "arm": "Left",
+      "date": "August 26, 2023",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Irakli Zirakashvili": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Oleg Zhokh": {
+      "arm": "Left",
+      "date": "August 6, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Vitaly Laletin": {
+      "arm": "Right",
+      "date": "October 1, 2022",
+      "result": "Win",
+      "score": "4-3"
+    },
+    "Georgi Tsvetkov": {
+      "arm": "Left",
+      "date": "May 10, 2025",
+      "result": "Win",
+      "score": "3-0"
+    }
+  }
+}

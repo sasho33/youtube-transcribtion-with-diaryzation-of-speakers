@@ -1,0 +1,143 @@
+{
+  "name": "Zurab Tavberidze",
+  "country": "Georgia",
+  "age": 28,
+  "date_of_birth": "1996-01-01",
+  "professional_expirience_years": 10,
+  "height_cm": 180,
+  "weight_kg": 105,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2023 European Armwrestling Champion (105kg Right)",
+    "Georgian National Champion (Multiple years)",
+    "East vs West 8 Winner (105kg)"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Oleg Petrenko",
+    "Daniel Procopciuc"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Oleg Petrenko",
+    "Daniel Procopciuc",
+    "Rustam Babayev"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder strain",
+      "arm": "Right",
+      "date": "2022-08-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Tbilisi, Georgia",
+  "coach": "Georgian National Team Coaches",
+  "preferred_start_position": "Center table",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won against Arif Ertem 3-0 at East vs West 8 (2023)",
+    "European Championship gold medalist (2023)",
+    "Undefeated run in 105kg category during 2022-2023 season",
+    "Represented Georgia in World Armwrestling Championships"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 4,
+      "losses": 4
+    },
+    "left": {
+      "wins": 2,
+      "losses": 2
+    }
+  },
+  "matches": {
+    "Petro Marharint": {
+      "arm": "Right",
+      "date": "July 6, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Artem Taynov": {
+      "arm": "Left",
+      "date": "January 20, 2024",
+      "result": "Lost",
+      "score": "4-0"
+    },
+    "Rob Vigeant Jr.": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Curtis Cameron": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Ryan Bowen": {
+      "arm": "Right",
+      "date": "November 19, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Oleg Petrenko": {
+      "arm": "Left",
+      "date": "November 19, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Chance Shaw": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Efe Kömek": {
+      "arm": "Left",
+      "date": "May 21, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "John Brzenk": {
+      "arm": "Right",
+      "date": "May 21, 2022",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Jonathan Breda": {
+      "arm": "Left",
+      "date": "February 12, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Ron Bath": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Georgy Tautiev": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

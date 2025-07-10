@@ -1,0 +1,81 @@
+{
+  "name": "Khaled Jashell",
+  "country": "Syria",
+  "age": 30,
+  "date_of_birth": "1994",
+  "professional_expirience_years": 11,
+  "height_cm": 188,
+  "weight_kg": 105,
+  "bicep_cm": 46,
+  "forearm_cm": 41,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook"
+  ],
+  "titles": [
+    "World Armwrestling Champion (-80kg, 2021, 2022)",
+    "Asian Armwrestling Champion (-80kg, 2014-2022)",
+    "Arab Armwrestling Champion (-80kg, 2014-2022)",
+    "Syrian National Champion (-80kg, 2013-2022)"
+  ],
+  "recent_opponents": [
+    "Daniel Procopciuc",
+    "Arif Ertem",
+    "Krasimir Kostadinov"
+  ],
+  "notable_victories": [
+    "Oleg Petrenko",
+    "Sasho Andreev",
+    "Daniel Procopciuc"
+  ],
+  "injuries": [],
+  "training_location": "Syria",
+  "coach": "Self-trained",
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Undefeated in Asian Championships for 9 consecutive years (2014-2022)",
+    "First Syrian to win World Armwrestling Championship (2021)",
+    "Defended World Championship title successfully in 2022",
+    "Holds record for most consecutive national titles in Syria (10 years)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Larry Wheels": {
+      "arm": "Right",
+      "date": "April 2, 2022",
+      "result": "Win",
+      "score": "4-1"
+    },
+    "Aleksandr \"Schoolboy\" Beziazykov": {
+      "arm": "Right",
+      "date": "October 1, 2022",
+      "result": "Win",
+      "score": "4-1"
+    },
+    "Ryan Bowen": {
+      "arm": "Right",
+      "date": "October 1, 2022",
+      "result": "Lost",
+      "score": "4-0"
+    }
+  }
+}

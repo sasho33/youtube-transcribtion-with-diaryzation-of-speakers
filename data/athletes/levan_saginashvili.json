@@ -1,0 +1,100 @@
+{
+  "name": "Levan Saginashvili",
+  "country": "Georgia",
+  "age": 36,
+  "date_of_birth": "1988-09-15",
+  "professional_expirience_years": 18,
+  "height_cm": 196,
+  "weight_kg": 175,
+  "bicep_cm": 58,
+  "forearm_cm": 50,
+  "hand_size_cm": 24,
+  "wingspan_cm": 208,
+  "grip_strength_kg": 120,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Top Roll",
+    "Press",
+    "Hook"
+  ],
+  "titles": [
+    "World Armwrestling Champion (Multiple times)",
+    "European Armwrestling Champion (Multiple times)",
+    "East vs West Champion (Multiple events)",
+    "King of the Table 5 Champion",
+    "King of the Table 8 Champion"
+  ],
+  "recent_opponents": [
+    "Ermes Gasparini",
+    "Devon Larratt",
+    "Vitaly Laletin"
+  ],
+  "notable_victories": [
+    "Denis Cyplenkov",
+    "Dave Chaffee",
+    "Tim Bresnan",
+    "Michael Todd",
+    "Jerry Cadorette"
+  ],
+  "injuries": [
+    {
+      "type": "Hand ligament tear",
+      "arm": "Right",
+      "date": "2020-02",
+      "status": "Recovered"
+    },
+    {
+      "type": "Bicep strain",
+      "arm": "Right",
+      "date": "2023-06",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Tbilisi, Georgia",
+  "coach": "Irakli Zirakashvili",
+  "preferred_start_position": "Center of the table",
+  "strength_metrics": {
+    "bench_press_kg": 260,
+    "curl_kg": 120,
+    "wrist_curl_kg": 150,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Undefeated professional streak from 2018-2023",
+    "Defeated Devon Larratt 6-0 at East vs West 11 (2023)",
+    "Set record for heaviest armwrestling athlete (175kg+)",
+    "First to pin Denis Cyplenkov in professional competition",
+    "King of the Table 5 champion with 4-0 victory over Dave Chaffee"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 5,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Ermes Gasparini": {
+      "arm": "Right",
+      "date": "February 25, 2023",
+      "result": "Win",
+      "score": "4-2"
+    },
+    "Devon Larratt": {
+      "arm": "Right",
+      "date": "June 25, 2022",
+      "result": "Win",
+      "score": "6-0"
+    },
+    "Jerry Cadorette": {
+      "arm": "Right",
+      "date": "Unknown",
+      "result": "Win",
+      "score": "4-0"
+    }
+  }
+}

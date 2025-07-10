@@ -1,0 +1,67 @@
+{
+  "name": "Leonidas Arkona",
+  "country": null,
+  "age": null,
+  "date_of_birth": null,
+  "professional_expirience_years": null,
+  "height_cm": null,
+  "weight_kg": null,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": null,
+  "pulling_style": [],
+  "matches": {
+    "John Brzenk": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Alexsandr Beziazykov": {
+      "arm": "Right",
+      "date": "April 20, 2024",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Larry Wheels": {
+      "arm": "Right",
+      "date": "December 9, 2023",
+      "result": "Win",
+      "score": "6-0"
+    },
+    "Devon Larratt": {
+      "arm": "Left",
+      "date": "September 28, 2024",
+      "result": "Lost",
+      "score": "4-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "titles": [],
+  "recent_opponents": [],
+  "notable_victories": [],
+  "injuries": [],
+  "training_location": null,
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": []
+}

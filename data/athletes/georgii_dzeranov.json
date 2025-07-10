@@ -1,0 +1,118 @@
+{
+  "name": "Georgii Dzeranov",
+  "country": "Russia",
+  "age": 26,
+  "date_of_birth": "1998-01-01",
+  "professional_expirience_years": 8,
+  "height_cm": 186,
+  "weight_kg": 95,
+  "bicep_cm": 42,
+  "forearm_cm": 38,
+  "hand_size_cm": 19.5,
+  "wingspan_cm": 195,
+  "grip_strength_kg": 85,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2022 Russian National Armwrestling Champion (95kg)",
+    "2023 European Armwrestling Champion (95kg)",
+    "Zloty Tur 2023 - 95kg Silver Medalist"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Ivan Matyushenko",
+    "Daniel Procopciuc"
+  ],
+  "notable_victories": [
+    "Ivan Matyushenko",
+    "Daniel Procopciuc",
+    "David Samushia"
+  ],
+  "injuries": [
+    {
+      "type": "Wrist ligament strain",
+      "arm": "Right",
+      "date": "2022-11-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Moscow, Russia",
+  "coach": "Russian National Team Coaches",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": 170,
+    "curl_kg": 65,
+    "wrist_curl_kg": 90,
+    "backpressure_kg": 85,
+    "sidepressure_kg": 110
+  },
+  "career_highlights": [
+    "Defeated Ivan Matyushenko 3-1 at East vs West 11",
+    "European Championship gold medalist in 2023",
+    "Russian national champion in 2022",
+    "Competed in King of the Table 9 undercard"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 4,
+      "losses": 2
+    },
+    "left": {
+      "wins": 1,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Michael Todd": {
+      "arm": "Right",
+      "date": "June 21, 2025",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Vitalii Laletin": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Ferit Osmanli": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Arif Ertem": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Sergey Kalinichenko": {
+      "arm": "Right",
+      "date": "November 19, 2022",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Wagner Bortolato": {
+      "arm": "Left",
+      "date": "November 19, 2022",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Revaz Lutidze": {
+      "arm": "Right",
+      "date": "June 1, 2024",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Kamil Jablonski": {
+      "arm": "Left",
+      "date": "May 10, 2025",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

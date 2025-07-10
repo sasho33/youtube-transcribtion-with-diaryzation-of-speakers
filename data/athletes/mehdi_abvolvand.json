@@ -1,0 +1,68 @@
+{
+  "name": "Mehdi Abvolvand",
+  "country": "Iran",
+  "age": 26,
+  "date_of_birth": "1998-01-01",
+  "professional_expirience_years": 8,
+  "height_cm": 188,
+  "weight_kg": 120,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Press"
+  ],
+  "matches": {
+    "Derek Smith": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Lost",
+      "score": "3-1"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "2018 World Armwrestling Championship (110+ kg, Right)",
+    "2019 World Armwrestling Championship (110+ kg, Right)",
+    "2021 World Armwrestling Championship (110+ kg, Right)",
+    "2022 World Armwrestling Championship (110+ kg, Right)"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Artyom Morozov",
+    "Ermes Gasparini"
+  ],
+  "notable_victories": [
+    "Artyom Morozov",
+    "Rustam Babayev"
+  ],
+  "injuries": [],
+  "training_location": "Tehran, Iran",
+  "coach": null,
+  "preferred_start_position": "Low hand, Inside",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "4-time World Armwrestling Champion (2018, 2019, 2021, 2022)",
+    "Represented Iran in East vs West 9 and 11 (2023-2024)",
+    "Super Heavyweight division specialist"
+  ]
+}

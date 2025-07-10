@@ -1,0 +1,68 @@
+{
+  "name": "Cody Wood",
+  "country": "Canada",
+  "age": 23,
+  "date_of_birth": "2000-01-01",
+  "professional_expirience_years": 5,
+  "height_cm": 185,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll"
+  ],
+  "titles": [
+    "2021 Canadian National Armwrestling Champion (90kg RH)",
+    "2022 Canadian National Armwrestling Champion (90kg RH)",
+    "2022 Canadian National Armwrestling Champion (100kg RH)",
+    "2023 Canadian National Armwrestling Champion (100kg RH)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Paul Linn",
+    "Todd Hutchings"
+  ],
+  "notable_victories": [
+    "Paul Linn",
+    "Todd Hutchings"
+  ],
+  "injuries": [],
+  "training_location": "British Columbia, Canada",
+  "coach": null,
+  "preferred_start_position": "Strap",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Youngest Canadian National Champion in history (age 21)",
+    "Defeated veteran Paul Linn at 2022 Canadian Nationals",
+    "Competed in East vs West Armwrestling events",
+    "Multiple weight class champion at Canadian Nationals"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Joseph Meranto": {
+      "arm": "Right",
+      "date": "March 29, 2025",
+      "result": "Lost",
+      "score": "3-2"
+    }
+  }
+}

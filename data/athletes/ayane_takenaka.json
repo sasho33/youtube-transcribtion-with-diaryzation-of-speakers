@@ -1,0 +1,68 @@
+{
+  "name": "Ayane Takenaka",
+  "country": "Japan",
+  "age": 31,
+  "date_of_birth": "1993-01-01",
+  "professional_expirience_years": 8,
+  "height_cm": 165,
+  "weight_kg": 65,
+  "bicep_cm": 33,
+  "forearm_cm": 28,
+  "hand_size_cm": 18,
+  "wingspan_cm": 170,
+  "grip_strength_kg": 42,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Speed Hook"
+  ],
+  "titles": [
+    "2021 World Armwrestling Championship (WAF) - Gold (65kg)",
+    "2019 World Armwrestling Championship (WAF) - Gold (65kg)",
+    "Multiple Japan National Championships"
+  ],
+  "recent_opponents": [
+    "Oksana Horban",
+    "Svetlana Tsvetkova",
+    "Anita Makowska"
+  ],
+  "notable_victories": [
+    "Oksana Horban",
+    "Svetlana Tsvetkova",
+    "Anita Makowska"
+  ],
+  "injuries": null,
+  "training_location": "Tokyo, Japan",
+  "coach": null,
+  "preferred_start_position": "Neutral grip",
+  "strength_metrics": {
+    "bench_press_kg": 60,
+    "curl_kg": 30,
+    "wrist_curl_kg": 40,
+    "backpressure_kg": 35,
+    "sidepressure_kg": 45
+  },
+  "career_highlights": [
+    "Back-to-back WAF World Champion (2019 & 2021)",
+    "Undefeated at East vs West 11 (2023) with dominant performances",
+    "Pioneer of Japanese women's professional armwrestling"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Dimitrina Petrova": {
+      "arm": "Right",
+      "date": "July 6, 2024",
+      "result": "Lost",
+      "score": "4-2"
+    }
+  }
+}

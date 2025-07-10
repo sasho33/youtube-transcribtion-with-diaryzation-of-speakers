@@ -1,0 +1,86 @@
+{
+  "name": "Ferit Osmanli",
+  "country": "Turkey",
+  "age": 26,
+  "date_of_birth": null,
+  "professional_expirience_years": 7,
+  "height_cm": 183,
+  "weight_kg": 90,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "matches": {
+    "Georgii Dzeranov": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Wagner Bortolato": {
+      "arm": "Left",
+      "date": "July 29, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Corey West": {
+      "arm": "Left",
+      "date": "January 21, 2023",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Genadi Kvikvinia": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 2
+    },
+    "left": {
+      "wins": 0,
+      "losses": 2
+    }
+  },
+  "titles": [
+    "2019 WAF World Champion (85kg Right)",
+    "2021 European Armwrestling Champion (85kg Right)",
+    "2022 WAF World Champion (85kg Right)"
+  ],
+  "recent_opponents": [
+    "Daniel Procopciuc",
+    "Arif Ertem",
+    "Davit Samushia"
+  ],
+  "notable_victories": [
+    "Davit Samushia",
+    "Arif Ertem"
+  ],
+  "injuries": [],
+  "training_location": "Istanbul, Turkey",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won WAF World Championship at age 21 (2019)",
+    "Undefeated Turkish national champion (2018-2022)",
+    "Defeated world #3 ranked Davit Samushia at East vs West 11 (2023)",
+    "Represented Turkey in 5 consecutive World Armwrestling Championships"
+  ]
+}

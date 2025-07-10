@@ -1,0 +1,75 @@
+{
+  "name": "Erkan Damar",
+  "country": "Turkey",
+  "age": 34,
+  "date_of_birth": "1990-01-01",
+  "professional_expirience_years": 15,
+  "height_cm": 180,
+  "weight_kg": 105,
+  "bicep_cm": 43,
+  "forearm_cm": 40,
+  "hand_size_cm": 22,
+  "wingspan_cm": 185,
+  "grip_strength_kg": 85,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Low-Hand Toproll"
+  ],
+  "titles": [
+    "2018 World Armwrestling Champion (105kg)",
+    "Multiple European Armwrestling Champion",
+    "Turkish National Champion"
+  ],
+  "recent_opponents": [
+    "Georgi Tsvetkov",
+    "Levan Saginashvili",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Alex Kurdecha",
+    "Evgeny Prudnik",
+    "Todd Hutchings"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder injury",
+      "arm": "Right",
+      "date": "2021-08-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Istanbul, Turkey",
+  "coach": "Turkish National Team Coaches",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": 170,
+    "curl_kg": 60,
+    "wrist_curl_kg": 95,
+    "backpressure_kg": 80,
+    "sidepressure_kg": 125
+  },
+  "career_highlights": [
+    "Winning World Championship against Alex Kurdecha in 2018",
+    "Defeated Evgeny Prudnik at 2019 World Cup",
+    "Competed in main event at King of the Table 7 against Levan Saginashvili (2023)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Joshua Grant": {
+      "arm": "Right",
+      "date": "June 12, 2021",
+      "result": "Lost",
+      "score": "4-1"
+    }
+  }
+}

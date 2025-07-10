@@ -1,0 +1,92 @@
+{
+  "name": "Ibragim Sagov",
+  "country": "Russia",
+  "age": 28,
+  "date_of_birth": null,
+  "professional_expirience_years": 10,
+  "height_cm": 185,
+  "weight_kg": 105,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Toproll"
+  ],
+  "titles": [
+    "Russian National Champion (2021, 2022, 2023)",
+    "Nemiroff World Cup Champion (2019, 2021)",
+    "A1 Russian Open Champion"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Kydyrgali Ongarbaev",
+    "Evgeny Prudnik"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Kydyrgali Ongarbaev",
+    "David Samushia"
+  ],
+  "injuries": null,
+  "training_location": "Kabardino-Balkaria, Russia",
+  "coach": null,
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Victory over Kydyrgali Ongarbaev at East vs West 16 (2024)",
+    "Multiple-time Russian National Champion across weight classes",
+    "Nemiroff World Cup titles in 95kg category"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 3,
+      "losses": 2
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Rino Mašić": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Lost",
+      "score": "4-3"
+    },
+    "Chance Shaw": {
+      "arm": "Right",
+      "date": "July 6, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Sandris Šedis": {
+      "arm": "Right",
+      "date": "April 20, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Todd Hutchings": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Genadi Kvikvinia": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Win",
+      "score": "4-0"
+    }
+  }
+}

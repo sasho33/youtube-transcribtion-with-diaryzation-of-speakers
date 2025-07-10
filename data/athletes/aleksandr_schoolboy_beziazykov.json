@@ -1,0 +1,96 @@
+{
+  "name": "Aleksandr Beziazykov",
+  "country": "Ukraine",
+  "age": 29,
+  "date_of_birth": "1995-03-15",
+  "professional_expirience_years": 16,
+  "height_cm": 180,
+  "weight_kg": 90,
+  "bicep_cm": 42.0,
+  "forearm_cm": 40.0,
+  "hand_size_cm": 20.5,
+  "wingspan_cm": 185,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "WAF World Champion (Junior)",
+    "WAF World Champion (Senior 75kg)",
+    "WAF World Champion (Senior 90kg)",
+    "WAF World Champion (Senior Left Hand)",
+    "East vs West 9 Champion"
+  ],
+  "recent_opponents": [
+    "Dave Chaffee",
+    "Georgi Tsvetkov",
+    "John Brzenk"
+  ],
+  "notable_victories": [
+    "John Brzenk",
+    "Todd Hutchings",
+    "Genadi Kvikvinia"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder injury",
+      "arm": "Right",
+      "date": "2023-07-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Kyiv, Ukraine",
+  "coach": "Vladimir Beziazykov",
+  "preferred_start_position": "Neutral",
+  "strength_metrics": {
+    "bench_press_kg": 165,
+    "curl_kg": 60,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Youngest ever WAF World Champion at age 15",
+    "Defeated legendary John Brzenk at East vs West 10 (2023)",
+    "First athlete to win WAF World Championships in both junior and senior divisions",
+    "Won WAF World Championships in three different weight classes"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 3,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Herman Stevens": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Larry Wheels": {
+      "arm": "Right",
+      "date": "May 28, 2021",
+      "result": "Win",
+      "score": "5-0"
+    },
+    "Khaled Jashell": {
+      "arm": "Right",
+      "date": "October 1, 2022",
+      "result": "Lost",
+      "score": "4-1"
+    },
+    "Ryan Bowen": {
+      "arm": "Right",
+      "date": "June 1, 2024",
+      "result": "Win",
+      "score": "6-0"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Robert Baxter",
+  "country": "Canada",
+  "age": 35,
+  "date_of_birth": null,
+  "professional_expirience_years": 14,
+  "height_cm": 185,
+  "weight_kg": 105,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Toproll"
+  ],
+  "titles": [
+    "WAL 105kg North American Champion (2019)",
+    "WAL 105kg World Champion (2021)",
+    "Multiple Ontario Provincial Championships"
+  ],
+  "recent_opponents": [
+    "Corey Miller",
+    "Jordan Sill"
+  ],
+  "notable_victories": [
+    "Corey Miller",
+    "Jordan Sill"
+  ],
+  "injuries": [],
+  "training_location": "St. Catharines, Ontario, Canada",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won WAL 105kg World Championship (2021)",
+    "Won WAL North American Championship (2019)",
+    "Competed at Arnold Classic Armwrestling events",
+    "Multiple-time Ontario Provincial Champion"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Ahmet Yenerer": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

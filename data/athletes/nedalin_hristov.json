@@ -1,0 +1,75 @@
+{
+  "name": "Nedalin Hristov",
+  "country": "Bulgaria",
+  "age": 26,
+  "date_of_birth": "1997-11-23",
+  "professional_expirience_years": 8,
+  "height_cm": 183,
+  "weight_kg": 105,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "High Hook",
+    "Hook"
+  ],
+  "titles": [
+    "2021 World Armwrestling Champion (110kg, Right)",
+    "2021 European Armwrestling Champion (110kg, Right)",
+    "2023 East vs West Champion (105kg)"
+  ],
+  "recent_opponents": [
+    "Krasimir Kostadinov",
+    "Georgi Tsvetkov",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Krasimir Kostadinov",
+    "Arif Ertem",
+    "Toms Rozits"
+  ],
+  "injuries": [
+    {
+      "type": "Wrist injury",
+      "arm": "Right",
+      "date": "2022-10-15",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Sofia, Bulgaria",
+  "coach": null,
+  "preferred_start_position": "Low Hand",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Winning the 2021 World Armwrestling Championship at age 23",
+    "Undefeated run at East vs West 10 (2023)",
+    "Beating Krasimir Kostadinov in a supermatch at East vs West 12 (2023)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Kacper Sinica": {
+      "arm": "Right",
+      "date": "September 28, 2024",
+      "result": "Lost",
+      "score": "5-0"
+    }
+  }
+}

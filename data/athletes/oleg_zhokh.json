@@ -1,0 +1,98 @@
+{
+  "name": "Oleg Zhokh",
+  "country": "Ukraine",
+  "age": 34,
+  "date_of_birth": "1990-01-01",
+  "professional_expirience_years": 18,
+  "height_cm": 190,
+  "weight_kg": 95,
+  "bicep_cm": 50,
+  "forearm_cm": 48,
+  "hand_size_cm": 22,
+  "wingspan_cm": 200,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "World Armwrestling Champion (10+ times)",
+    "European Armwrestling Champion",
+    "Ukrainian National Champion",
+    "Zloty Tur Cup Champion",
+    "Nemiroff World Cup Champion"
+  ],
+  "recent_opponents": [
+    "Georgi Tsvetkov",
+    "Davit Samushia",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Todd Hutchings",
+    "Davit Samushia",
+    "Arif Ertem",
+    "Krasimir Kostadinov"
+  ],
+  "injuries": [
+    {
+      "type": "Bicep Rupture",
+      "arm": "Right",
+      "date": "2020-07-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Ivano-Frankivsk, Ukraine",
+  "coach": "Self-trained / Brother (Igor Mazurenko)",
+  "preferred_start_position": "High Hook",
+  "strength_metrics": {
+    "bench_press_kg": 180,
+    "curl_kg": 80,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Dominating 95kg division for over a decade",
+    "Overcame congenital limb difference to become world champion",
+    "Set record for most consecutive world titles in his weight class",
+    "Featured in East vs West 9, 11, and 12 events",
+    "Known for exceptional forearm strength despite physical challenges"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 0
+    },
+    "left": {
+      "wins": 3,
+      "losses": 2
+    }
+  },
+  "matches": {
+    "Daniel Procopciuc": {
+      "arm": "Left",
+      "date": "February 15, 2025",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Betkili Oniani": {
+      "arm": "Left",
+      "date": "February 12, 2022",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Avtandil Tutberidze": {
+      "arm": "Left",
+      "date": "January 20, 2024",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "David Dadikyan": {
+      "arm": "Left",
+      "date": "August 6, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

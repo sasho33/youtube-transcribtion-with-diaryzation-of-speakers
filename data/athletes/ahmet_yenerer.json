@@ -1,0 +1,67 @@
+{
+  "name": "Ahmet Yenerer",
+  "country": "Turkey",
+  "age": 29,
+  "date_of_birth": null,
+  "professional_expirience_years": 7,
+  "height_cm": 178,
+  "weight_kg": 105,
+  "bicep_cm": 45,
+  "forearm_cm": 42,
+  "hand_size_cm": 21,
+  "wingspan_cm": 180,
+  "grip_strength_kg": 85,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Side Pressure",
+    "Hook"
+  ],
+  "titles": [
+    "European Armwrestling Champion (2019, 2021, 2023)",
+    "Turkish National Champion (multiple years)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Ferit Osmanli",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Georgi Tautiev",
+    "Ferit Osmanli"
+  ],
+  "injuries": [],
+  "training_location": "Istanbul, Turkey",
+  "coach": "Turkish National Team Coaches",
+  "preferred_start_position": "Inside Position",
+  "strength_metrics": {
+    "bench_press_kg": 180,
+    "curl_kg": 60,
+    "wrist_curl_kg": 90,
+    "backpressure_kg": 70,
+    "sidepressure_kg": 140
+  },
+  "career_highlights": [
+    "Three-time European Armwrestling Champion (105kg class)",
+    "Defeated Arif Ertem at King of the Table 12",
+    "Top 5 ranked super middleweight in 2023"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Robert Baxter": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Win",
+      "score": "3-0"
+    }
+  }
+}

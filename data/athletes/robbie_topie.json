@@ -1,0 +1,62 @@
+{
+  "name": "Robbie Topie",
+  "country": "Australia",
+  "age": null,
+  "date_of_birth": null,
+  "professional_expirience_years": null,
+  "height_cm": 185,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2022 Australian National Armwrestling Champion (95kg)"
+  ],
+  "recent_opponents": [
+    "Giorgi Samushia",
+    "Arif Ertem",
+    "Davit Samushia"
+  ],
+  "notable_victories": [],
+  "injuries": [],
+  "training_location": "Sydney, Australia",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Competed at East vs West 8 (2023) against Arif Ertem",
+    "Faced Giorgi Samushia at East vs West 9 (2024)",
+    "2022 Australian National Champion in 95kg category"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Aymeric Pradines": {
+      "arm": "Left",
+      "date": "January 20, 2024",
+      "result": "Lost",
+      "score": "3-1"
+    }
+  }
+}

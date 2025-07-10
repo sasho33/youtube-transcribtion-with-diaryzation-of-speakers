@@ -1,0 +1,71 @@
+{
+  "name": "Azat Srapyan",
+  "country": "Armenia",
+  "age": 27,
+  "date_of_birth": "1997",
+  "professional_expirience_years": 8,
+  "height_cm": 180,
+  "weight_kg": 100,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Both",
+  "pulling_style": [
+    "Hook",
+    "Press",
+    "Side Pressure"
+  ],
+  "titles": [
+    "2018 WAF World Champion (Left Hand, 100kg)",
+    "2021 WAF World Champion (Left Hand, 100kg)",
+    "2021 WAF World Silver Medalist (Right Hand, 100kg)",
+    "2023 European Champion (Left Hand, 100kg)"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Artur Makarov",
+    "Krasimir Kostadinov"
+  ],
+  "notable_victories": [
+    "Krasimir Kostadinov",
+    "Davit Samushia",
+    "Artyom Morozov"
+  ],
+  "injuries": [],
+  "training_location": "Yerevan, Armenia",
+  "coach": "Armenian National Team Coaches",
+  "preferred_start_position": "Inside",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won back-to-back WAF World Championships (2018, 2021)",
+    "Defeated Krasimir Kostadinov at East vs West 10 (2023)",
+    "European Championship gold medalist (2023)",
+    "Multiple Armenian National Championships titles"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Danil Ustinov": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Lost",
+      "score": "4-3"
+    }
+  }
+}

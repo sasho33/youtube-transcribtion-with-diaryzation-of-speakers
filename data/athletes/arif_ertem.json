@@ -1,0 +1,100 @@
+{
+  "name": "Arif Ertem",
+  "country": "Turkey",
+  "age": 37,
+  "date_of_birth": "1987-06-15",
+  "professional_expirience_years": 15,
+  "height_cm": 180,
+  "weight_kg": 80,
+  "bicep_cm": 42,
+  "forearm_cm": 38,
+  "hand_size_cm": 20,
+  "wingspan_cm": 185,
+  "grip_strength_kg": 70,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Defensive Hook"
+  ],
+  "titles": [
+    "2021 European Armwrestling Champion (80kg Right)",
+    "2019 World Armwrestling Champion (80kg Right)",
+    "Multiple Turkish National Championships"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Daniel Procopciuc",
+    "Sasho Andreev"
+  ],
+  "notable_victories": [
+    "Oleg Petrenko",
+    "Zoltan Csoka",
+    "Sasho Andreev"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow ligament strain",
+      "arm": "Right",
+      "date": "2022-03-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Istanbul, Turkey",
+  "coach": "Turkish National Team Coaches",
+  "preferred_start_position": "High Grip",
+  "strength_metrics": {
+    "bench_press_kg": 140,
+    "curl_kg": 65,
+    "wrist_curl_kg": 75,
+    "backpressure_kg": 68,
+    "sidepressure_kg": 120
+  },
+  "career_highlights": [
+    "Gold medal at 2019 World Armwrestling Championship in Romania",
+    "European Championship victory in 2021",
+    "Consistent top-3 finishes in East vs West tournaments",
+    "Multiple national championships in Turkey"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 3
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Georgii Dzeranov": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Corey West": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Krasimir Kostadinov": {
+      "arm": "Right",
+      "date": "May 21, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Ermes Gasparini": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Serhii Kalinichenko": {
+      "arm": "Right",
+      "date": "December 9, 2023",
+      "result": "Lost",
+      "score": "4-1"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Vrezh Sedrakyan",
+  "country": "Armenia",
+  "age": 27,
+  "date_of_birth": "1997-01-01",
+  "professional_expirience_years": 8,
+  "height_cm": 180,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Toproll"
+  ],
+  "titles": [
+    "2023 A1 Armenian Open 95kg Champion (Right Hand)",
+    "2023 A1 Armenian Open 95kg Champion (Left Hand)",
+    "2023 European Armwrestling Championship 95kg Silver Medalist (Right Hand)",
+    "2023 European Armwrestling Championship 95kg Bronze Medalist (Left Hand)",
+    "2022 World Armwrestling Championship 90kg Bronze Medalist (Right Hand)"
+  ],
+  "recent_opponents": [
+    "Oleg Petrenko",
+    "Davit Arabuli",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Davit Arabuli",
+    "Arif Ertem",
+    "Rustam Babayev"
+  ],
+  "injuries": null,
+  "training_location": "Yerevan, Armenia",
+  "coach": "Artur Sedrakyan (Father)",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Double gold medalist at 2023 A1 Armenian Open (both arms)",
+    "Bronze medal at 2022 World Armwrestling Championship",
+    "Featured athlete at East vs West 13 (2024)",
+    "European Championship medalist in both right and left arm divisions (2023)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 0
+    },
+    "left": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Paul Talbott": {
+      "arm": "Left",
+      "date": "August 10, 2024",
+      "result": "Win",
+      "score": "3-0"
+    }
+  }
+}

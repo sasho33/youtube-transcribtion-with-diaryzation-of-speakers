@@ -1,0 +1,103 @@
+{
+  "name": "Chance Shaw",
+  "country": "USA",
+  "age": null,
+  "date_of_birth": null,
+  "professional_expirience_years": 9,
+  "height_cm": 188,
+  "weight_kg": 100,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Posting Toproll"
+  ],
+  "titles": [
+    "2021 Texas State Armwrestling Champion",
+    "2019 WAL Championships Light Heavyweight 3rd Place",
+    "2018 WAL Championships Light Heavyweight 4th Place"
+  ],
+  "recent_opponents": [
+    "Ivan Matyushenko",
+    "Kody Merritt",
+    "Corey Miller"
+  ],
+  "notable_victories": [
+    "Corey Miller",
+    "Kody Merritt"
+  ],
+  "injuries": null,
+  "training_location": "Texas, USA",
+  "coach": null,
+  "preferred_start_position": "Hook",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Competed at East vs West 10 (2023) against Ivan Matyushenko",
+    "Multiple-time Texas state champion",
+    "Consistent top-5 finisher in WAL Light Heavyweight division"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 6
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Devon Larratt": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Ibragim Sagov": {
+      "arm": "Right",
+      "date": "July 6, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Oleg Petrenko": {
+      "arm": "Right",
+      "date": "July 29, 2023",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Davit Arabuli": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Zurab Tavberidze": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Sandris Šedis": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Serhii Kalinichenko": {
+      "arm": "Right",
+      "date": "September 23, 2023",
+      "result": "Lost",
+      "score": "4-2"
+    }
+  }
+}

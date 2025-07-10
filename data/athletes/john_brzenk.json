@@ -1,0 +1,147 @@
+{
+  "name": "John Brzenk",
+  "country": "USA",
+  "age": 60,
+  "date_of_birth": "1964-07-15",
+  "professional_expirience_years": 41,
+  "height_cm": 185,
+  "weight_kg": 104,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Top Roll",
+    "Hook",
+    "Versatile"
+  ],
+  "matches": {
+    "Yoshinobu Kanai": {
+      "arm": "Right",
+      "date": "March 29, 2025",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Leonidas Arkona": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Krasimir Kostadinov": {
+      "arm": "Right",
+      "date": "January 20, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Sasho Andreev": {
+      "arm": "Right",
+      "date": "November 11, 2023",
+      "result": "Lost",
+      "score": "5-0"
+    },
+    "Irakli Zirakashvili": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Oleg Petrenko": {
+      "arm": "Right",
+      "date": "November 19, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Kydyrgali Ongarbaev": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Zurab Tavberidze": {
+      "arm": "Right",
+      "date": "May 21, 2022",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Khadzimurat Zoloev": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Devon Larratt": {
+      "arm": "Right",
+      "date": "December 11, 2021",
+      "result": "Lost",
+      "score": "4-0"
+    },
+    "Denis Cyplenkov": {
+      "arm": "Right",
+      "date": "February 25, 2023",
+      "result": "Lost",
+      "score": "6-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 4,
+      "losses": 7
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "Over 25 World Armwrestling Championships",
+    "PAL World Champion (multiple times)",
+    "Arnold Classic Champion (multiple times)",
+    "WAF World Champion"
+  ],
+  "recent_opponents": [
+    "Todd Hutchings",
+    "Dave Chaffee",
+    "Ferit Osmanli"
+  ],
+  "notable_victories": [
+    "Denis Cyplenkov",
+    "Devon Larratt",
+    "Travis Bagent",
+    "Allen Fisher",
+    "Ron Bath"
+  ],
+  "injuries": [
+    {
+      "type": "Torn bicep tendon",
+      "arm": "Left",
+      "date": "2014",
+      "status": "Recovered"
+    },
+    {
+      "type": "Elbow injury",
+      "arm": "Right",
+      "date": "2022-06",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Arizona, USA",
+  "coach": "Self-trained",
+  "preferred_start_position": "Neutral",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won first world title at age 18 (1983)",
+    "Considered the G.O.A.T. of armwrestling",
+    "Featured in 'Pulling John' documentary",
+    "Defeated heavier opponents across weight classes for decades",
+    "Maintained elite performance into his 50s"
+  ]
+}

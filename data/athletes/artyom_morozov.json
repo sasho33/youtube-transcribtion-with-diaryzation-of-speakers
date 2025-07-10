@@ -1,0 +1,156 @@
+{
+  "name": "Artyom Morozov",
+  "country": "Russia",
+  "age": 23,
+  "date_of_birth": "2001-02-13",
+  "professional_expirience_years": 7,
+  "height_cm": 188,
+  "weight_kg": 105,
+  "bicep_cm": 45,
+  "forearm_cm": 40,
+  "hand_size_cm": 20,
+  "wingspan_cm": 195,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "High Hook"
+  ],
+  "titles": [
+    "WAF World Champion (95kg, 2021)",
+    "WAF World Champion (95kg, 2022)",
+    "WAF World Champion (95kg, 2023)",
+    "East vs West Champion (2023)"
+  ],
+  "recent_opponents": [
+    "Vitaly Laletin",
+    "Ermes Gasparini",
+    "Dave Chaffee"
+  ],
+  "notable_victories": [
+    "Dave Chaffee",
+    "Vitaly Laletin",
+    "Georgi Tsvetkov",
+    "Ivan Matyushenko"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow Tendonitis",
+      "arm": "Right",
+      "date": "2022-08-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Moscow, Russia",
+  "coach": "Alexander Morozov (father)",
+  "preferred_start_position": "High grip toproll",
+  "strength_metrics": {
+    "bench_press_kg": 180,
+    "curl_kg": 60,
+    "wrist_curl_kg": 90,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Youngest ever WAF World Champion at age 20 (2021)",
+    "First athlete to defeat Dave Chaffee via stoppage at EvW 11 (2023)",
+    "Three consecutive WAF world titles (2021-2023)",
+    "Undefeated streak of 18 professional matches (2021-2023)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 5,
+      "losses": 3
+    },
+    "left": {
+      "wins": 7,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Alex Kurdecha": {
+      "arm": "Left",
+      "date": "January 20, 2024",
+      "result": "Win",
+      "score": "4-2"
+    },
+    "Vitalii Laletin": {
+      "arm": "Right",
+      "date": "July 6, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Georgi Tsvetkov": {
+      "arm": "Right",
+      "date": "July 29, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Revaz Lutidze": {
+      "arm": "Right",
+      "date": "November 19, 2022",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Ermes Gasparini": {
+      "arm": "Left",
+      "date": "November 19, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Dave Chaffee": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Kody Merritt": {
+      "arm": "Left",
+      "date": "August 6, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Derek Smith": {
+      "arm": "Right",
+      "date": "May 21, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Matt Mask": {
+      "arm": "Left",
+      "date": "May 21, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Tobias Sporrong": {
+      "arm": "Left",
+      "date": "February 12, 2022",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Evgeny Prudnik": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Corey West": {
+      "arm": "Left",
+      "date": "June 24, 2023",
+      "result": "Win",
+      "score": "6-0"
+    },
+    "Ivan Matyushenko": {
+      "arm": "Left",
+      "date": "June 1, 2024",
+      "result": "Win",
+      "score": "4-1"
+    },
+    "Kamil Jablonski": {
+      "arm": "Right",
+      "date": "September 28, 2024",
+      "result": "Win",
+      "score": "5-1"
+    }
+  }
+}

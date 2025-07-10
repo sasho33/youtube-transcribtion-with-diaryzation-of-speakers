@@ -1,0 +1,82 @@
+{
+  "name": "Oleg Cherkasov",
+  "country": "Ukraine",
+  "age": 32,
+  "date_of_birth": "1992-01-01",
+  "professional_expirience_years": 12,
+  "height_cm": 180,
+  "weight_kg": 105,
+  "bicep_cm": 45,
+  "forearm_cm": 38,
+  "hand_size_cm": 20,
+  "wingspan_cm": 185,
+  "grip_strength_kg": 95,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "matches": {
+    "Mindaugas Tarasaitis": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Yusuf Yıldızoğlu": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Win",
+      "score": "3-1"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "World Armwrestling Champion (105kg Right Hand) 2018",
+    "European Armwrestling Champion (105kg Right Hand) 2017",
+    "Ukrainian National Champion (Multiple years)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Arif Ertem",
+    "Irakli Zirakashvili"
+  ],
+  "notable_victories": [
+    "Rino Masic",
+    "Rustam Babayev",
+    "Daniel Procopciuc"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow strain",
+      "arm": "Right",
+      "date": "2022-08-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Kyiv, Ukraine",
+  "coach": "Vladimir Oliynyk",
+  "preferred_start_position": "Center table",
+  "strength_metrics": {
+    "bench_press_kg": 180,
+    "curl_kg": 65,
+    "wrist_curl_kg": 85,
+    "backpressure_kg": 75,
+    "sidepressure_kg": 110
+  },
+  "career_highlights": [
+    "Gold medal at 2018 World Armwrestling Championship in Antalya",
+    "Defeated reigning champion Rino Masic in 2018 World Championship finals",
+    "Multiple-time East vs West competitor (EvW 8, 10, 11, 12)",
+    "Set Ukrainian national armwrestling records in side pressure"
+  ]
+}

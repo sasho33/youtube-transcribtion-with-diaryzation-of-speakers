@@ -1,0 +1,91 @@
+{
+  "name": "Denis Cyplenkov",
+  "country": "Ukraine",
+  "age": 42,
+  "date_of_birth": "1982-07-15",
+  "professional_expirience_years": 18,
+  "height_cm": 186,
+  "weight_kg": 138,
+  "bicep_cm": 60,
+  "forearm_cm": 50,
+  "hand_size_cm": 25,
+  "wingspan_cm": 195,
+  "grip_strength_kg": 115,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Side Pressure",
+    "Press"
+  ],
+  "matches": {
+    "Devon Larratt": {
+      "arm": "Right",
+      "date": "November 11, 2023",
+      "result": "Lost",
+      "score": "5-0"
+    },
+    "John Brzenk": {
+      "arm": "Right",
+      "date": "February 25, 2023",
+      "result": "Win",
+      "score": "6-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "World Champion (WAF)",
+    "European Champion",
+    "Nemiroff World Cup Champion",
+    "A1 Russian Open Champion"
+  ],
+  "recent_opponents": [
+    "Michael Todd",
+    "Levan Saginashvili",
+    "Andrey Pushkar"
+  ],
+  "notable_victories": [
+    "John Brzenk",
+    "Alexey Voevoda",
+    "Richard Lupkes",
+    "Jerry Cadorette"
+  ],
+  "injuries": [
+    {
+      "type": "Kidney Failure",
+      "arm": null,
+      "date": "2019-12-01",
+      "status": "Recovering"
+    },
+    {
+      "type": "Bicep Tear",
+      "arm": "Right",
+      "date": "2018-11-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Krasnodar, Russia",
+  "coach": null,
+  "preferred_start_position": "Inside",
+  "strength_metrics": {
+    "bench_press_kg": 240,
+    "curl_kg": 70,
+    "wrist_curl_kg": 140,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated John Brzenk at Zloty Tur 2011",
+    "Multiple-time World Armwrestling Champion (left & right arm)",
+    "Set world record in grip strength (115 kg)",
+    "Longest undefeated streak in super heavyweight division (2009-2018)"
+  ]
+}

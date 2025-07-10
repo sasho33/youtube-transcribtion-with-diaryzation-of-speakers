@@ -1,0 +1,73 @@
+{
+  "name": "Vladimir Maiorov",
+  "country": "Russia",
+  "age": 30,
+  "date_of_birth": "1994-01-01",
+  "professional_expirience_years": 12,
+  "height_cm": 186,
+  "weight_kg": 103,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "matches": {
+    "Davit Samushia": {
+      "arm": "Right",
+      "date": "January 20, 2024",
+      "result": "Lost",
+      "score": "4-1"
+    },
+    "Adam Wawrzynski": {
+      "arm": "Right",
+      "date": "July 6, 2024",
+      "result": "Win",
+      "score": "3-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 2
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "Russian National Champion (2021, 2022, 2023)",
+    "European Armwrestling Champion (2021)"
+  ],
+  "recent_opponents": [
+    "Revaz Lutidze",
+    "Georgi Tautiev",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Georgi Tautiev",
+    "Arif Ertem",
+    "Davit Samushia"
+  ],
+  "injuries": [],
+  "training_location": "Ufa, Russia",
+  "coach": null,
+  "preferred_start_position": "High Grip",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Davit Samushia at Russian Open Championship 2022",
+    "European Championship gold medalist (2021)",
+    "Multiple-time Russian National Champion"
+  ]
+}

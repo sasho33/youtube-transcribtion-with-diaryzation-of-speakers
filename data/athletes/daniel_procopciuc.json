@@ -1,0 +1,112 @@
+{
+  "name": "Daniel Procopciuc",
+  "country": "Moldova",
+  "age": 25,
+  "date_of_birth": "1999-06-29",
+  "professional_expirience_years": 8,
+  "height_cm": 186,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": 42,
+  "hand_size_cm": 21,
+  "wingspan_cm": 192,
+  "grip_strength_kg": 85,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll"
+  ],
+  "matches": {
+    "Oleg Zhokh": {
+      "arm": "Left",
+      "date": "February 15, 2025",
+      "result": "Lost",
+      "score": "4-0"
+    },
+    "Bozhidar Simeonov": {
+      "arm": "Left",
+      "date": "July 6, 2024",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Mindaugas Tarasaitis": {
+      "arm": "Right",
+      "date": "January 20, 2024",
+      "result": "Lost",
+      "score": "4-2"
+    },
+    "Emil Amirshadyan": {
+      "arm": "Left",
+      "date": "July 29, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Doug Erlich": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Davit Samushia": {
+      "arm": "Right",
+      "date": "November 19, 2022",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Corey Miller": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Artur Makarov": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Lost",
+      "score": "4-1"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 3
+    },
+    "left": {
+      "wins": 2,
+      "losses": 1
+    }
+  },
+  "titles": [
+    "2022 World Armwrestling Championship 95kg Right Gold",
+    "2023 World Armwrestling Championship 95kg Right Gold",
+    "2022 European Armwrestling Championship 95kg Right Gold",
+    "2023 European Armwrestling Championship 95kg Right Gold"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Krasimir Kostadinov",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Davit Samushia",
+    "Krasimir Kostadinov",
+    "Oleg Petrenko",
+    "Arif Ertem"
+  ],
+  "injuries": [],
+  "training_location": "Chișinău, Moldova",
+  "coach": null,
+  "preferred_start_position": "Loose",
+  "strength_metrics": {
+    "bench_press_kg": 150,
+    "curl_kg": 60,
+    "wrist_curl_kg": 70,
+    "backpressure_kg": 65,
+    "sidepressure_kg": 100
+  },
+  "career_highlights": [
+    "Undefeated international record in 2022-2023",
+    "Double gold medalist (right hand) at 2023 World Armwrestling Championship",
+    "Youngest Moldovan world champion in armwrestling history",
+    "East vs West 9 main card victory over Davit Samushia (2023)"
+  ]
+}

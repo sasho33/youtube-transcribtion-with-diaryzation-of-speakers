@@ -1,0 +1,58 @@
+{
+  "name": "Brian Shaw",
+  "country": "USA",
+  "age": 42,
+  "date_of_birth": "1982-02-26",
+  "professional_expirience_years": 2,
+  "height_cm": 203,
+  "weight_kg": 190.5,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": 31.75,
+  "wingspan_cm": null,
+  "grip_strength_kg": 128,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Power Press",
+    "Raw Strength"
+  ],
+  "titles": [],
+  "recent_opponents": [
+    "Levan Saginashvili",
+    "Devon Larratt"
+  ],
+  "notable_victories": [],
+  "injuries": [],
+  "training_location": "Fort Lupton, Colorado",
+  "coach": "Self-trained",
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": 250,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Professional armwrestling debut against Devon Larratt at King of the Table 5 (2022)",
+    "Super match against Levan Saginashvili at East vs West 9 (2023)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Eddie Hall": {
+      "arm": "Right",
+      "date": "Unknown",
+      "result": "Win",
+      "score": "4-2"
+    }
+  }
+}

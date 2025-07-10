@@ -1,0 +1,76 @@
+{
+  "name": "Herman Stevens",
+  "country": "Netherlands",
+  "age": 42,
+  "date_of_birth": null,
+  "professional_expirience_years": 18,
+  "height_cm": 195,
+  "weight_kg": 125,
+  "bicep_cm": 49,
+  "forearm_cm": 43,
+  "hand_size_cm": 22,
+  "wingspan_cm": 200,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2018 World Armwrestling Champion (110+ kg)",
+    "2021 World Armwrestling Champion (110+ kg)",
+    "2019 European Armwrestling Champion",
+    "Multiple Dutch National Champion"
+  ],
+  "recent_opponents": [
+    "Davit Arabuli",
+    "Krasimir Kostadinov",
+    "Evgeny Prudnik"
+  ],
+  "notable_victories": [
+    "Ferit Osmanli",
+    "Rustam Babayev",
+    "Davit Arabuli"
+  ],
+  "injuries": [],
+  "training_location": "Rotterdam, Netherlands",
+  "coach": "Dutch National Team",
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Back-to-back World Armwrestling Championships (2018, 2021)",
+    "European Championship title (2019)",
+    "Defeated Rustam Babayev in World Championship finals",
+    "Represented Netherlands in 10+ international championships"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 2
+    },
+    "left": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Aleksandr “Schoolboy” Beziazykov": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Efe Kömek": {
+      "arm": "Left",
+      "date": "June 12, 2021",
+      "result": "Lost",
+      "score": "5-0"
+    }
+  }
+}

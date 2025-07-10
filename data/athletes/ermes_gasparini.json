@@ -1,0 +1,150 @@
+{
+  "name": "Ermes Gasparini",
+  "country": "Italy",
+  "age": 30,
+  "date_of_birth": "1994-05-17",
+  "professional_expirience_years": 12,
+  "height_cm": 190,
+  "weight_kg": 118,
+  "bicep_cm": 50,
+  "forearm_cm": 45,
+  "hand_size_cm": 21,
+  "wingspan_cm": 200,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Inside Hook",
+    "Side Pressure",
+    "Power Strap"
+  ],
+  "titles": [
+    "2022 WAF World Champion (110+ kg)",
+    "2022 European Armwrestling Champion",
+    "2023 East vs West Champion (vs Dave Chaffee)"
+  ],
+  "recent_opponents": [
+    "Levan Saginashvili",
+    "Dave Chaffee",
+    "Genadi Kvikvinia"
+  ],
+  "notable_victories": [
+    "Dave Chaffee",
+    "Genadi Kvikvinia",
+    "Alex Kurdecha",
+    "Arif Ertem"
+  ],
+  "injuries": [
+    {
+      "type": "Triceps Tear",
+      "arm": "Right",
+      "date": "2023-11-18",
+      "status": "Recovered"
+    },
+    {
+      "type": "Shoulder Injury",
+      "arm": "Right",
+      "date": "2021-07",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Lombardy, Italy",
+  "coach": "Michele Folli",
+  "preferred_start_position": "Deep Hook",
+  "strength_metrics": {
+    "bench_press_kg": 180,
+    "curl_kg": 70,
+    "wrist_curl_kg": 100,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Dave Chaffee 3-0 at East vs West 11 (2023)",
+    "World #2 ranked armwrestler (2023)",
+    "First athlete to pin Genadi Kvikvinia at East vs West 10 (2023)",
+    "European Championship gold medalist (2022)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 7,
+      "losses": 3
+    },
+    "left": {
+      "wins": 1,
+      "losses": 2
+    }
+  },
+  "matches": {
+    "Levan Saginashvili": {
+      "arm": "Right",
+      "date": "February 25, 2023",
+      "result": "Lost",
+      "score": "4-2"
+    },
+    "Michael Todd": {
+      "arm": "Right",
+      "date": "February 15, 2025",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Alizhan Muratov": {
+      "arm": "Left",
+      "date": "April 20, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Devon Larratt": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Jerry Cadorette": {
+      "arm": "Right",
+      "date": "July 29, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Dave Chaffee": {
+      "arm": "Right",
+      "date": "November 19, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Artyom Morozov": {
+      "arm": "Left",
+      "date": "November 19, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Arif Ertem": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Matt Mask": {
+      "arm": "Right",
+      "date": "June 12, 2021",
+      "result": "Win",
+      "score": "4-1"
+    },
+    "Genadi Kvikvinia": {
+      "arm": "Right",
+      "date": "December 11, 2021",
+      "result": "Win",
+      "score": "4-2"
+    },
+    "Wagner Bortolato": {
+      "arm": "Left",
+      "date": "April 2, 2022",
+      "result": "Win",
+      "score": "4-1"
+    },
+    "Georgi Tsvetkov": {
+      "arm": "Right",
+      "date": "December 9, 2023",
+      "result": "Win",
+      "score": "4-2"
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "Devon Larratt",
+  "country": "Canada",
+  "age": 49,
+  "date_of_birth": "1975-04-24",
+  "professional_expirience_years": 25,
+  "height_cm": 196,
+  "weight_kg": 115.5,
+  "bicep_cm": 48.3,
+  "forearm_cm": 40.6,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Kings Move"
+  ],
+  "matches": {
+    "Alex Kurdecha": {
+      "arm": "Left",
+      "date": "June 21, 2025",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Corey West": {
+      "arm": "Left",
+      "date": "March 29, 2025",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Genadi Kvikvinia": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Oleg Petrenko": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Chance Shaw": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Levan Saginashvili": {
+      "arm": "Right",
+      "date": "June 25, 2022",
+      "result": "Lost",
+      "score": "6-0"
+    },
+    "Denis Cyplenkov": {
+      "arm": "Right",
+      "date": "November 11, 2023",
+      "result": "Win",
+      "score": "5-0"
+    },
+    "Ermes Gasparini": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Evgeny Prudnik": {
+      "arm": "Right",
+      "date": "November 19, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Michael Todd": {
+      "arm": "Right",
+      "date": "May 28, 2021",
+      "result": "Win",
+      "score": "5-0"
+    },
+    "John Brzenk": {
+      "arm": "Right",
+      "date": "December 11, 2021",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Dave Chaffee": {
+      "arm": "Right",
+      "date": "June 24, 2023",
+      "result": "Win",
+      "score": "6-0"
+    },
+    "Leonidas Arkona": {
+      "arm": "Left",
+      "date": "September 28, 2024",
+      "result": "Win",
+      "score": "4-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 9,
+      "losses": 3
+    },
+    "left": {
+      "wins": 3,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "WAL Heavyweight Champion (2015, 2017, 2018)",
+    "Arnold Classic Absolute Champion (2010-2015)",
+    "PAL World Superheavyweight Champion (2009, 2011-2018)",
+    "PAL World Middleweight Champion (2008)",
+    "World Armwrestling League Champion"
+  ],
+  "recent_opponents": [
+    "Georgi Tsvetkov",
+    "Ermes Gasparini",
+    "Genadi Kvikvinia"
+  ],
+  "notable_victories": [
+    "John Brzenk",
+    "Denis Cyplenkov",
+    "Michael Todd",
+    "Jerry Cadorette"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow Tendonitis",
+      "arm": "Right",
+      "date": "2023-05-06",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Ottawa, Canada",
+  "coach": "Self-trained",
+  "preferred_start_position": "Strap",
+  "strength_metrics": {
+    "bench_press_kg": 143,
+    "curl_kg": 70,
+    "wrist_curl_kg": 80,
+    "backpressure_kg": 73,
+    "sidepressure_kg": 130
+  },
+  "hand_size_cm": 24.5,
+  "wingspan_cm": 210,
+  "grip_strength_kg": 75,
+  "career_highlights": [
+    "Beat John Brzenk 6-0 in 2008",
+    "Defeated Denis Cyplenkov in 2011",
+    "First WAL heavyweight world champion (2015)",
+    "Arnold Classic Absolute Champion (2010-2015)",
+    "PAL World Superheavyweight Champion (2009, 2011-2018)"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Bozhidar Simeonov",
+  "country": "Bulgaria",
+  "age": 25,
+  "date_of_birth": "1999-04-15",
+  "professional_expirience_years": 7,
+  "height_cm": 190,
+  "weight_kg": 105,
+  "bicep_cm": 45.0,
+  "forearm_cm": 38.5,
+  "hand_size_cm": 21.0,
+  "wingspan_cm": 200,
+  "grip_strength_kg": 70,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Side Pressure"
+  ],
+  "titles": [
+    "2021 European Armwrestling Champion (100kg RH)",
+    "2022 World Armwrestling Championship Silver Medalist (100kg RH)",
+    "Bulgarian National Champion (Multiple years)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Arif Ertem",
+    "Oleg Petrenko"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Tsvetomir Georgiev",
+    "Plamen Dimitrov"
+  ],
+  "injuries": [
+    {
+      "type": "Wrist tendon inflammation",
+      "arm": "Right",
+      "date": "2022-09-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Sofia, Bulgaria",
+  "coach": "National Team Coaches (Bulgaria)",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": 160,
+    "curl_kg": 65,
+    "wrist_curl_kg": 75,
+    "backpressure_kg": 68,
+    "sidepressure_kg": 125
+  },
+  "career_highlights": [
+    "Silver medal at 2022 World Armwrestling Championships",
+    "Gold medal at 2021 European Armwrestling Championships",
+    "Featured athlete at East vs West 12 (2023)",
+    "Undefeated in Bulgarian national competitions 2019-2021"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 2
+    },
+    "left": {
+      "wins": 1,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Daniel Procopciuc": {
+      "arm": "Left",
+      "date": "July 6, 2024",
+      "result": "Lost",
+      "score": "4-0"
+    },
+    "Adam Wawrzynski": {
+      "arm": "Right",
+      "date": "November 19, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Davit Samushia": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Tony Kitowski": {
+      "arm": "Left",
+      "date": "June 12, 2021",
+      "result": "Win",
+      "score": "5-0"
+    }
+  }
+}

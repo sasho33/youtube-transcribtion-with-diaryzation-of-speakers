@@ -1,0 +1,146 @@
+{
+  "name": "Irakli Zirakashvili",
+  "country": "Georgia",
+  "age": 34,
+  "date_of_birth": "1989",
+  "professional_expirience_years": 16,
+  "height_cm": 190,
+  "weight_kg": 125,
+  "bicep_cm": 50,
+  "forearm_cm": 45,
+  "hand_size_cm": null,
+  "wingspan_cm": 200,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Press"
+  ],
+  "titles": [
+    "2x World Armwrestling Champion",
+    "3x European Armwrestling Champion"
+  ],
+  "recent_opponents": [
+    "Vitaly Laletin",
+    "Ermes Gasparini",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Oleg Petrenko",
+    "Krasimir Kostadinov"
+  ],
+  "injuries": [
+    {
+      "type": "Bicep Tear",
+      "arm": "Right",
+      "date": "2021",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Tbilisi, Georgia",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Winning World Armwrestling Championship (2019, 2021)",
+    "3 consecutive European Armwrestling Championships (2017-2019)",
+    "Victory over Arif Ertem at East vs West 10 (2023)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 9,
+      "losses": 4
+    },
+    "left": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Matt Mask": {
+      "arm": "Left",
+      "date": "June 21, 2025",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Todd Hutchings": {
+      "arm": "Right",
+      "date": "May 21, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Georgy Tautiev": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Evgeny Prudnik": {
+      "arm": "Right",
+      "date": "July 6, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Sasho Andreev": {
+      "arm": "Right",
+      "date": "April 20, 2024",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Paul Linn": {
+      "arm": "Right",
+      "date": "January 20, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Rustam Babayev": {
+      "arm": "Right",
+      "date": "November 11, 2023",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "David Dadikyan": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Kydyrgali Ongarbaev": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "John Brzenk": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Krasimir Kostadinov": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Marcio Barboza": {
+      "arm": "Right",
+      "date": "June 25, 2022",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Lachlan Adair": {
+      "arm": "Right",
+      "date": "October 1, 2022",
+      "result": "Win",
+      "score": "6-0"
+    }
+  }
+}

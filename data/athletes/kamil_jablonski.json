@@ -1,0 +1,104 @@
+{
+  "name": "Kamil Jablonski",
+  "country": "Poland",
+  "age": 27,
+  "date_of_birth": "1997-01-01",
+  "professional_expirience_years": 10,
+  "height_cm": 185,
+  "weight_kg": 105,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Toproll"
+  ],
+  "matches": {
+    "Michael Todd": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Tobias Sporrong": {
+      "arm": "Left",
+      "date": "April 20, 2024",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Ivan Matyushenko": {
+      "arm": "Right",
+      "date": "November 11, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Vitaly Laletin": {
+      "arm": "Left",
+      "date": "June 1, 2024",
+      "result": "Lost",
+      "score": "4-2"
+    },
+    "Artyom Morozov": {
+      "arm": "Right",
+      "date": "September 28, 2024",
+      "result": "Lost",
+      "score": "5-1"
+    },
+    "Corey West": {
+      "arm": "Left",
+      "date": "September 28, 2024",
+      "result": "Win",
+      "score": "4-1"
+    },
+    "Georgii Dzeranov": {
+      "arm": "Left",
+      "date": "May 10, 2025",
+      "result": "Win",
+      "score": "3-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 3
+    },
+    "left": {
+      "wins": 3,
+      "losses": 1
+    }
+  },
+  "titles": [
+    "2023 European Armwrestling Champion (105kg Right)",
+    "2023 Polish National Champion (105kg Right)",
+    "2022 Polish National Champion (105kg Right)"
+  ],
+  "recent_opponents": [
+    "Irakli Zirakashvili",
+    "Davit Samushia",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Irakli Zirakashvili",
+    "Arif Ertem",
+    "Mindaugas Tarasaitis"
+  ],
+  "injuries": [],
+  "training_location": "Warsaw, Poland",
+  "coach": null,
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Irakli Zirakashvili at East vs West 12 (2023)",
+    "European Armwrestling Championship gold medalist (2023)",
+    "Multiple-time Polish National Champion"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Aleksandra Ozerova",
+  "country": "Russia",
+  "age": 23,
+  "date_of_birth": "2000-01-01",
+  "professional_expirience_years": 5,
+  "height_cm": 170,
+  "weight_kg": 65,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2021 WAF World Champion (65kg Right)",
+    "2022 WAF European Champion (65kg Right)"
+  ],
+  "recent_opponents": [
+    "Sasho Andreev",
+    "Irina Makeeva",
+    "Gabriela Vasconcelos"
+  ],
+  "notable_victories": [
+    "Irina Makeeva",
+    "Gabriela Vasconcelos"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder strain",
+      "arm": "Right",
+      "date": "2022-11-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Moscow, Russia",
+  "coach": "Unknown",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won WAF World Championship at age 21",
+    "Featured in East vs West 7 (2023) supermatch",
+    "Undefeated European championship run in 2022"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Elizabeth Mocek": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

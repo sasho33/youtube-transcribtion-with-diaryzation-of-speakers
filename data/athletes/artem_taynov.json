@@ -1,0 +1,90 @@
+{
+  "name": "Artem Taynov",
+  "country": "Ukraine",
+  "age": 30,
+  "date_of_birth": "1994-10-04",
+  "professional_expirience_years": 12,
+  "height_cm": 185,
+  "weight_kg": 115,
+  "bicep_cm": null,
+  "forearm_cm": 45,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Press"
+  ],
+  "titles": [
+    "World Armwrestling Champion (2018, 2019, 2021)",
+    "European Armwrestling Champion",
+    "Zloty Tur 115kg Champion (2022)",
+    "A1 Ukrainian Open Champion"
+  ],
+  "recent_opponents": [
+    "Revaz Lutidze",
+    "Arif Ertem",
+    "Ermes Gasparini"
+  ],
+  "notable_victories": [
+    "Ermes Gasparini",
+    "Alex Kurdecha",
+    "Arif Ertem",
+    "Revaz Lutidze"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder injury",
+      "arm": "Right",
+      "date": "2023-10",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Kharkiv, Ukraine",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": 220,
+    "curl_kg": 100,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Ermes Gasparini 3-0 at East vs West 10 (2023)",
+    "Three-time World Armwrestling Champion (2018, 2019, 2021)",
+    "Victory over Alex Kurdecha at East vs West 6 (2022)",
+    "Gold medal at Zloty Tur Nemiroff 2022 (115kg)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 0
+    },
+    "left": {
+      "wins": 2,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Betkili Oniani": {
+      "arm": "Left",
+      "date": "July 6, 2024",
+      "result": "Lost",
+      "score": "4-1"
+    },
+    "Zurab Tavberidze": {
+      "arm": "Left",
+      "date": "January 20, 2024",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Sasho Andreev": {
+      "arm": "Left",
+      "date": "November 11, 2023",
+      "result": "Win",
+      "score": "3-2"
+    }
+  }
+}

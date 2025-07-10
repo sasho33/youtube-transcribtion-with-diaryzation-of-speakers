@@ -1,0 +1,115 @@
+{
+  "name": "Genadi Kvikvinia",
+  "country": "Georgia",
+  "age": 34,
+  "date_of_birth": null,
+  "professional_expirience_years": 15,
+  "height_cm": 185,
+  "weight_kg": 115,
+  "bicep_cm": 46,
+  "forearm_cm": 42,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Press",
+    "Toproll"
+  ],
+  "titles": [
+    "World Armwrestling Champion (2019, 2021)",
+    "European Armwrestling Champion (2018, 2019, 2020, 2021)",
+    "Georgian National Champion (Multiple)"
+  ],
+  "recent_opponents": [
+    "Ermes Gasparini",
+    "Dave Chaffee",
+    "Devon Larratt"
+  ],
+  "notable_victories": [
+    "Devon Larratt",
+    "Michael Todd",
+    "Arif Ertem",
+    "Dave Chaffee"
+  ],
+  "injuries": [
+    {
+      "type": "Bicep tear",
+      "arm": "Right",
+      "date": "2022-12-10",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Tbilisi, Georgia",
+  "coach": "Georgian National Team",
+  "preferred_start_position": "Inside",
+  "strength_metrics": {
+    "bench_press_kg": 200,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Devon Larratt at East vs West 7 (2022)",
+    "Won World Championship in 2019 and 2021",
+    "4-time consecutive European Champion (2018-2021)",
+    "Victory over Michael Todd at East vs West 6 (2022)",
+    "Defeated Dave Chaffee at East vs West 9 (2023)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 4,
+      "losses": 5
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Devon Larratt": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Michael Todd": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Ferit Osmanli": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Jerry Cadorette": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Dave Chaffee": {
+      "arm": "Right",
+      "date": "May 21, 2022",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Ermes Gasparini": {
+      "arm": "Right",
+      "date": "December 11, 2021",
+      "result": "Lost",
+      "score": "4-2"
+    },
+    "Ibragim Sagov": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Lost",
+      "score": "4-0"
+    }
+  }
+}

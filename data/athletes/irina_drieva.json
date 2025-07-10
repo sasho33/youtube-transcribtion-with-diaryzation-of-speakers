@@ -1,0 +1,68 @@
+{
+  "name": "İrina Drieva",
+  "country": "Russia",
+  "age": null,
+  "date_of_birth": null,
+  "professional_expirience_years": 5,
+  "height_cm": 175,
+  "weight_kg": 75,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Ambidextrous",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2022 World Armwrestling Champion (75kg Right & Left Arm)",
+    "2023 East vs West 9 Champion (75kg Right Arm)",
+    "2023 East vs West 10 Champion (75kg Left Arm)"
+  ],
+  "recent_opponents": [
+    "Sarah Bäckman",
+    "Merritt Johnson"
+  ],
+  "notable_victories": [
+    "Sarah Bäckman",
+    "Merritt Johnson",
+    "Heidi Andersson"
+  ],
+  "injuries": null,
+  "training_location": "Russia",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Double gold medalist at 2022 World Armwrestling Championships (both arms)",
+    "Undefeated champion at East vs West 9 & 10 (2023)",
+    "Defeated 10x World Champion Sarah Bäckman 3-0 at EvW 10",
+    "Ranked #1 in 75kg women's division worldwide (2023)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Sarah Backman": {
+      "arm": "Right",
+      "date": "June 12, 2021",
+      "result": "Lost",
+      "score": "4-1"
+    }
+  }
+}

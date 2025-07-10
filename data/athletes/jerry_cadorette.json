@@ -1,0 +1,107 @@
+{
+  "name": "Jerry Cadorette",
+  "country": "USA",
+  "age": 39,
+  "date_of_birth": "1985-01-01",
+  "professional_expirience_years": 19,
+  "height_cm": 188,
+  "weight_kg": 127,
+  "bicep_cm": 50.8,
+  "forearm_cm": 47,
+  "hand_size_cm": 21.6,
+  "wingspan_cm": 193,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Press"
+  ],
+  "titles": [
+    "WAL Super Heavyweight Champion (2016, 2017, 2018)",
+    "Arnold Classic Champion (2016, 2017, 2018, 2019, 2020, 2022, 2023)",
+    "Monster Factory Invitational Champion"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Ermes Gasparini",
+    "Georgi Tsvetkov"
+  ],
+  "notable_victories": [
+    "Devon Larratt",
+    "Michael Todd",
+    "Dave Chaffee",
+    "Todd Hutchings"
+  ],
+  "injuries": [
+    {
+      "type": "Torn Labrum",
+      "arm": "Right",
+      "date": "2019",
+      "status": "Recovered"
+    },
+    {
+      "type": "Bicep Tear",
+      "arm": "Right",
+      "date": "2020",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Massachusetts, USA",
+  "coach": "Self-trained",
+  "preferred_start_position": "Inside Position",
+  "strength_metrics": {
+    "bench_press_kg": 226.8,
+    "curl_kg": 102,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Three-time consecutive WAL Super Heavyweight Champion (2016-2018)",
+    "Seven-time Arnold Classic Champion",
+    "Defeated Devon Larratt twice in WAL championship matches",
+    "Known for explosive power and hook technique"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 3,
+      "losses": 2
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Alex Kurdecha": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Ermes Gasparini": {
+      "arm": "Right",
+      "date": "July 29, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Georgi Tsvetkov": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Genadi Kvikvinia": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Levan Saginashvili": {
+      "arm": "Right",
+      "date": "Unknown",
+      "result": "Lost",
+      "score": "4-0"
+    }
+  }
+}

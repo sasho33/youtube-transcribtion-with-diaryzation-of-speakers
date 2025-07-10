@@ -1,0 +1,77 @@
+{
+  "name": "Hunter Noffz",
+  "country": "USA",
+  "age": 25,
+  "date_of_birth": "1999-01-01",
+  "professional_expirience_years": 4,
+  "height_cm": 188,
+  "weight_kg": 105,
+  "bicep_cm": 46,
+  "forearm_cm": 39,
+  "hand_size_cm": 21,
+  "wingspan_cm": 193,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Side Pressure"
+  ],
+  "titles": [
+    "2021 California State Armwrestling Champion (231 lbs)"
+  ],
+  "recent_opponents": [
+    "Sasho Andreev",
+    "Daniel Procopciuc",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Arif Ertem"
+  ],
+  "injuries": [],
+  "training_location": "West Coast Armwrestling, California",
+  "coach": "Matt Rhodes",
+  "preferred_start_position": "Hook",
+  "strength_metrics": {
+    "bench_press_kg": 227,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Competed in King of the Table 10 (2024)",
+    "Fought Sasho Andreev at East vs West 12 (2024)",
+    "Defeated Arif Ertem at East vs West 11 (2024)",
+    "California State Championship victory (2021)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Valen Low": {
+      "arm": "Right",
+      "date": "March 29, 2025",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Mindaugas Tarasaitis": {
+      "arm": "Left",
+      "date": "March 29, 2025",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Doug Erlich": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Win",
+      "score": "3-1"
+    }
+  }
+}

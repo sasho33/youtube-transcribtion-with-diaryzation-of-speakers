@@ -1,0 +1,88 @@
+{
+  "name": "Nugzari Chikadze",
+  "country": "Georgia",
+  "age": 26,
+  "date_of_birth": "1998-01-28",
+  "professional_expirience_years": 6,
+  "height_cm": 175,
+  "weight_kg": 85,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Left",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "matches": {
+    "Oguzhan Koçak": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Petro Marharint": {
+      "arm": "Right",
+      "date": "April 20, 2024",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Matt Mask": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Rob Vigeant Jr.": {
+      "arm": "Right",
+      "date": "September 28, 2024",
+      "result": "Win",
+      "score": "4-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 3,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "WAF World Champion (85kg Left) - 2018",
+    "WAF World Champion (85kg Left) - 2019",
+    "WAF World Champion (85kg Left) - 2021",
+    "WAF World Champion (85kg Left) - 2022",
+    "European Armwrestling Champion"
+  ],
+  "recent_opponents": [
+    "Kydyrgali Ongarbaev",
+    "Arif Ertem",
+    "Daniel Procopciuc"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Daniel Procopciuc",
+    "Oleg Petrenko"
+  ],
+  "injuries": [],
+  "training_location": "Tbilisi, Georgia",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "4-time consecutive WAF World Champion (2018, 2019, 2021, 2022) in 85kg left",
+    "Won European Armwrestling Championship multiple times",
+    "Known for explosive left-hand toproll technique"
+  ]
+}

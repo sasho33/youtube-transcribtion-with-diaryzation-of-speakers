@@ -1,0 +1,12 @@
+{
+  "name": "Larry Wheels",
+  "country": "United States Of America",
+  "nickname": null,
+  "age": 31,
+  "weight_kg": 127.0,
+  "height_cm": 185.0,
+  "occupation": "Power Lifter",
+  "bicep_cm": 51.0,
+  "forearm_cm": 40.0,
+  "wrist_cm": 22.0
+}

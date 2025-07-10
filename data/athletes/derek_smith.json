@@ -1,0 +1,93 @@
+{
+  "name": "Derek Smith",
+  "country": "USA",
+  "age": 32,
+  "date_of_birth": "1991-01-10",
+  "professional_expirience_years": 13,
+  "height_cm": 185,
+  "weight_kg": 102,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Toproll"
+  ],
+  "matches": {
+    "Mehdi Abvolvand": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Revaz Lutidze": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Artyom Morozov": {
+      "arm": "Right",
+      "date": "May 21, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Matt Mask": {
+      "arm": "Right",
+      "date": "February 24, 2024",
+      "result": "Lost",
+      "score": "6-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 3
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "WAL 205 lb Champion (2017)",
+    "WAL 205 lb Champion (2018)",
+    "WAL 205 lb Champion (2020)"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Ferit Osmanli",
+    "Kydyrgali Ongarbaev"
+  ],
+  "notable_victories": [
+    "Chance Shaw",
+    "Mike Ayello",
+    "Arif Ertem"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder injury",
+      "arm": "Right",
+      "date": "2021",
+      "status": "Recovered after surgery"
+    }
+  ],
+  "training_location": "Texas, USA",
+  "coach": "Self-trained",
+  "preferred_start_position": "Strap",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Three-time WAL 205 lb Champion (2017, 2018, 2020)",
+    "Competed in East vs West 8 (2023) against Arif Ertem",
+    "Featured in King of the Table 6 (2022) supermatch"
+  ]
+}

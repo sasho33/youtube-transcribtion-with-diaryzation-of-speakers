@@ -1,0 +1,69 @@
+{
+  "name": "Irina Gladkaya",
+  "country": "Russia",
+  "age": 34,
+  "date_of_birth": "1990-01-08",
+  "professional_expirience_years": 14,
+  "height_cm": 170,
+  "weight_kg": 78,
+  "bicep_cm": 38,
+  "forearm_cm": 32,
+  "hand_size_cm": 19,
+  "wingspan_cm": 175,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "WAF World Champion",
+    "European Armwrestling Champion",
+    "Russian National Champion",
+    "East vs West 12 Champion (2024)"
+  ],
+  "recent_opponents": [
+    "Gabriela Vasconcelos",
+    "Oksana Pashkova",
+    "Sarah Bäckman"
+  ],
+  "notable_victories": [
+    "Gabriela Vasconcelos",
+    "Sarah Bäckman",
+    "Oksana Pashkova"
+  ],
+  "injuries": [],
+  "training_location": "Moscow, Russia",
+  "coach": "Unknown",
+  "preferred_start_position": "High grip",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Gabriela Vasconcelos 3-1 at East vs West 12 (2024)",
+    "Multiple WAF World Championship titles",
+    "Undefeated streak in Russian national competitions (2018-2022)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Brigitta Ivánfi": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Lost",
+      "score": "3-2"
+    }
+  }
+}

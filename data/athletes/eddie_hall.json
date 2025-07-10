@@ -1,0 +1,78 @@
+{
+  "name": "Eddie Hall",
+  "country": "United Kingdom",
+  "age": 36,
+  "date_of_birth": "1988-01-15",
+  "professional_expirience_years": 3,
+  "height_cm": 190,
+  "weight_kg": 145,
+  "bicep_cm": 50,
+  "forearm_cm": 48,
+  "hand_size_cm": 24.5,
+  "wingspan_cm": 198,
+  "grip_strength_kg": 110,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Power Hook",
+    "Side Pressure"
+  ],
+  "matches": {
+    "Brian Shaw": {
+      "arm": "Right",
+      "date": "Unknown",
+      "result": "Lost",
+      "score": "4-2"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "Giants Live World Open Arm Wrestling Champion (2021) - Right Hand",
+    "Giants Live World Open Arm Wrestling Champion (2021) - Left Hand"
+  ],
+  "recent_opponents": [
+    "Mitchell Hooper",
+    "Devon Larratt",
+    "Hafthor Bjornsson"
+  ],
+  "notable_victories": [
+    "Hafthor Bjornsson (2022)"
+  ],
+  "injuries": [
+    {
+      "type": "Torn Bicep",
+      "arm": "Right",
+      "date": "2022-09-01",
+      "status": "Recovered"
+    },
+    {
+      "type": "Partial Bicep Tear",
+      "arm": "Right",
+      "date": "2023-02-25",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Newcastle-under-Lyme, United Kingdom",
+  "coach": "Neil Pickard",
+  "preferred_start_position": "Deep Grip",
+  "strength_metrics": {
+    "bench_press_kg": 300,
+    "curl_kg": 100,
+    "wrist_curl_kg": 90,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Transitioned from World's Strongest Man (2017) to professional armwrestling",
+    "Defeated Hafthor Bjornsson in high-profile rematch (2022)",
+    "Won both right and left hand divisions at Giants Live World Open (2021)"
+  ]
+}

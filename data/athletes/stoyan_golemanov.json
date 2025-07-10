@@ -1,0 +1,83 @@
+{
+  "name": "Stoyan Golemanov",
+  "country": "Bulgaria",
+  "age": 30,
+  "date_of_birth": "1994-07-14",
+  "professional_expirience_years": 14,
+  "height_cm": 182,
+  "weight_kg": 95,
+  "bicep_cm": 44,
+  "forearm_cm": 42,
+  "hand_size_cm": 20,
+  "wingspan_cm": 188,
+  "grip_strength_kg": 85,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "matches": {
+    "Vasily Dautashvili": {
+      "arm": "Right",
+      "date": "February 15, 2025",
+      "result": "Win",
+      "score": "3-1"
+    },
+    "Brandon Ellsessor": {
+      "arm": "Right",
+      "date": "April 20, 2024",
+      "result": "Win",
+      "score": "3-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "4-time World Armwrestling Champion",
+    "5-time European Armwrestling Champion",
+    "East vs West Champion"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Todd Hutchings",
+    "Denis Maskov"
+  ],
+  "notable_victories": [
+    "Dave Chaffee",
+    "Vitaly Laletin",
+    "Michael Todd"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow injury",
+      "arm": "Right",
+      "date": "2023-06-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Sofia, Bulgaria",
+  "coach": null,
+  "preferred_start_position": "High grip",
+  "strength_metrics": {
+    "bench_press_kg": 170,
+    "curl_kg": 70,
+    "wrist_curl_kg": 90,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Dave Chaffee at East vs West 8 (2022)",
+    "Beat Vitaly Laletin at East vs West 7 (2021)",
+    "Won against Michael Todd at East vs West 6 (2021)",
+    "Multiple European Championship titles",
+    "Known for explosive toproll technique"
+  ]
+}

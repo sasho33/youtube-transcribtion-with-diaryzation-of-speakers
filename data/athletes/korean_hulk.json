@@ -1,0 +1,72 @@
+{
+  "name": "Korean Hulk",
+  "country": "South Korea",
+  "age": 30,
+  "date_of_birth": "1993-10-24",
+  "professional_expirience_years": 6,
+  "height_cm": 180,
+  "weight_kg": 115,
+  "bicep_cm": null,
+  "forearm_cm": 42,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Explosive Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "Asia Pacific Armwrestling Champion (2019, 100kg)",
+    "Asia Pacific Armwrestling Overall Champion (2019)",
+    "Asia Pacific Armwrestling Champion (2021, 100kg)",
+    "Asia Pacific Armwrestling Overall Champion (2021)",
+    "Asia Pacific Armwrestling Champion (2022, 105kg)",
+    "Asia Pacific Armwrestling Overall Champion (2022)"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Khadzimurad Zoloev",
+    "Artyom Morozov"
+  ],
+  "notable_victories": [
+    "Khadzimurad Zoloev",
+    "Arif Ertem",
+    "Dmitry Silaev"
+  ],
+  "injuries": [],
+  "training_location": "Seoul, South Korea",
+  "coach": null,
+  "preferred_start_position": "High grip",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "3-time Asia Pacific Armwrestling Overall Champion (2019, 2021, 2022)",
+    "Victory over Khadzimurad Zoloev at East vs West 12",
+    "Victory over Arif Ertem at East vs West 14",
+    "Undefeated Asian championship run (2019-2022)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Auden Larratt": {
+      "arm": "Right",
+      "date": "September 28, 2024",
+      "result": "Lost",
+      "score": "4-0"
+    }
+  }
+}

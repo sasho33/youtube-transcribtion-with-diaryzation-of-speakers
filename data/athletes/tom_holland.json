@@ -1,0 +1,65 @@
+{
+  "name": "Tom Holland",
+  "country": "United Kingdom",
+  "age": 25,
+  "date_of_birth": "1998-01-01",
+  "professional_expirience_years": 4,
+  "height_cm": 183,
+  "weight_kg": 85,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll"
+  ],
+  "titles": [
+    "2022 UK National Armwrestling Champion (Right Hand, 80kg)",
+    "2022 UK National Armwrestling Champion (Left Hand, 80kg)",
+    "2022 UK National Overall Champion"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Artur Makarov",
+    "Irakli Zirakashvili"
+  ],
+  "notable_victories": [
+    "UK National Championship Finals (2022)"
+  ],
+  "injuries": [],
+  "training_location": "United Kingdom",
+  "coach": null,
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Double gold medalist (right/left) at 2022 UK Nationals",
+    "Competed in East vs West 11 (2023)",
+    "Represented UK at European Armwrestling Championship (2023)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Craig Tullier": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

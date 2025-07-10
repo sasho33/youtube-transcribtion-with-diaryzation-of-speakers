@@ -1,0 +1,64 @@
+{
+  "name": "Anna Grönlund",
+  "country": "Sweden",
+  "age": null,
+  "date_of_birth": null,
+  "professional_expirience_years": null,
+  "height_cm": 170,
+  "weight_kg": 70,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll"
+  ],
+  "titles": [
+    "Swedish National Champion",
+    "European Championships Medalist"
+  ],
+  "recent_opponents": [
+    "Irina Makeeva",
+    "Katarzyna Kosowska",
+    "Egle Vaitkute"
+  ],
+  "notable_victories": [
+    "Katarzyna Kosowska"
+  ],
+  "injuries": [],
+  "training_location": "Sweden",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Bronze medal at World Armwrestling Championships",
+    "Competed in East vs West 9 (2023)",
+    "Multiple Swedish national championships"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Angie Rose": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Lost",
+      "score": "3-1"
+    }
+  }
+}

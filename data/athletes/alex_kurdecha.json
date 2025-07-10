@@ -1,0 +1,106 @@
+{
+  "name": "Alex Kurdecha",
+  "country": "Poland",
+  "age": 27,
+  "date_of_birth": null,
+  "professional_expirience_years": 10,
+  "height_cm": 196,
+  "weight_kg": 130,
+  "bicep_cm": 50,
+  "forearm_cm": 45,
+  "hand_size_cm": 22,
+  "wingspan_cm": 210,
+  "grip_strength_kg": 100,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Press"
+  ],
+  "matches": {
+    "Devon Larratt": {
+      "arm": "Left",
+      "date": "June 21, 2025",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Artyom Morozov": {
+      "arm": "Left",
+      "date": "January 20, 2024",
+      "result": "Lost",
+      "score": "4-2"
+    },
+    "David Dadikyan": {
+      "arm": "Left",
+      "date": "February 15, 2025",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Jerry Cadorette": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Georgi Tsvetkov": {
+      "arm": "Right",
+      "date": "April 20, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Dave Chaffee": {
+      "arm": "Right",
+      "date": "April 2, 2022",
+      "result": "Lost",
+      "score": "5-1"
+    },
+    "Corey West": {
+      "arm": "Right",
+      "date": "June 25, 2022",
+      "result": "Win",
+      "score": "3-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 3
+    },
+    "left": {
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  "titles": [
+    "World Armwrestling Champion (110+ kg, right hand) 2022",
+    "East vs West 12 Champion 2023",
+    "Polish National Champion (multiple years)"
+  ],
+  "recent_opponents": [
+    "Devon Larratt",
+    "Levan Saginashvili",
+    "Ermes Gasparini"
+  ],
+  "notable_victories": [
+    "Ermes Gasparini",
+    "Vitaly Laletin",
+    "Michael Todd",
+    "Arif Ertem"
+  ],
+  "injuries": null,
+  "training_location": "Gdansk, Poland (SWS Club)",
+  "coach": "Artur Makarov",
+  "preferred_start_position": "High grip",
+  "strength_metrics": {
+    "bench_press_kg": 200,
+    "curl_kg": 100,
+    "wrist_curl_kg": 100,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Ermes Gasparini at East vs West 12 (2023)",
+    "Won World Armwrestling Championship in Turkey (2022)",
+    "Became youngest super heavyweight champion in European history",
+    "Multiple victories over Top 10 ranked pullers"
+  ]
+}

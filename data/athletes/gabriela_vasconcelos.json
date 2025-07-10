@@ -1,0 +1,95 @@
+{
+  "name": "Gabriela Vasconcelos",
+  "country": "Brazil",
+  "age": 27,
+  "date_of_birth": "1997-05-15",
+  "professional_expirience_years": 7,
+  "height_cm": 170,
+  "weight_kg": 70,
+  "bicep_cm": 36,
+  "forearm_cm": 31,
+  "hand_size_cm": 18.5,
+  "wingspan_cm": 175,
+  "grip_strength_kg": 55,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2023 WAF World Champion (70kg Right)",
+    "2022 WAF World Champion (70kg Right)",
+    "2021 European Armwrestling Champion",
+    "Brazilian National Champion (Multiple years)"
+  ],
+  "recent_opponents": [
+    "Irina Makeeva",
+    "Oksana Semeniuk",
+    "Anna Smirnova"
+  ],
+  "notable_victories": [
+    "Irina Makeeva (WAF Finals)",
+    "Oksana Semeniuk",
+    "Adriana Cehic"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow Tendonitis",
+      "arm": "Right",
+      "date": "2022-11-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "São Paulo, Brazil",
+  "coach": "Brazilian National Team Coaches",
+  "preferred_start_position": "Center table",
+  "strength_metrics": {
+    "bench_press_kg": 85,
+    "curl_kg": 42,
+    "wrist_curl_kg": 50,
+    "backpressure_kg": 65,
+    "sidepressure_kg": 75
+  },
+  "career_highlights": [
+    "Back-to-back WAF World Championships (2022-2023)",
+    "Undefeated in international competition during 2023 season",
+    "Featured competitor at East vs West 12 (2024)",
+    "Holds fastest pin record at Brazilian Nationals (1.2 seconds)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 2
+    },
+    "left": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Barbora Bajciova": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Egle Vaitkute": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Sarah Backman": {
+      "arm": "Right",
+      "date": "April 2, 2022",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Barbora Bajčíová": {
+      "arm": "Right",
+      "date": "Unknown",
+      "result": "Lost",
+      "score": "4-2"
+    }
+  }
+}
