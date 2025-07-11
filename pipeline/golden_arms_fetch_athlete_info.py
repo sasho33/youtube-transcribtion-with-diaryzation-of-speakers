@@ -113,7 +113,7 @@ def fetch_athlete_list():
 # Test it
 # scrape_athlete_data("Alex Kurdecha")
 if __name__ == "__main__":
-    # fetch_athlete_list()
-    names = [  "Rob Vigeant Jr",]
-    for name in names:
-        scrape_athlete_data(name)
+    fetch_athlete_list()
+    # names = [  "Rob Vigeant Jr",]
+    # for name in names:
+    #     scrape_athlete_data(name)

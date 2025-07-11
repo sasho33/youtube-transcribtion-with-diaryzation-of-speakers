@@ -1,13 +1,13 @@
 {
-  "name": "Yusuf Yıldızoğlu",
+  "name": "Yusuf Ziya Yildizoglu",
   "country": "Turkey",
   "age": 30,
   "date_of_birth": "1994-01-01",
   "professional_expirience_years": 12,
-  "height_cm": 178,
-  "weight_kg": 95,
+  "height_cm": 180.0,
+  "weight_kg": 72.0,
   "bicep_cm": 42,
-  "forearm_cm": 39,
+  "forearm_cm": 37.0,
   "hand_size_cm": 21,
   "wingspan_cm": 185,
   "grip_strength_kg": 82,
@@ -77,5 +77,8 @@
     "Won gold at 2023 European Armwrestling Championship",
     "Undefeated 95kg champion at East vs West 10 (2023)",
     "Multiple-time Turkish national champion across weight classes"
-  ]
+  ],
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": 18.0
 }

@@ -1,13 +1,13 @@
 {
   "name": "Eddie Hall",
   "country": "United Kingdom",
-  "age": 36,
+  "age": 37,
   "date_of_birth": "1988-01-15",
   "professional_expirience_years": 3,
-  "height_cm": 190,
-  "weight_kg": 145,
-  "bicep_cm": 50,
-  "forearm_cm": 48,
+  "height_cm": 189.0,
+  "weight_kg": 160.0,
+  "bicep_cm": 59.0,
+  "forearm_cm": 45.0,
   "hand_size_cm": 24.5,
   "wingspan_cm": 198,
   "grip_strength_kg": 110,
@@ -74,5 +74,8 @@
     "Transitioned from World's Strongest Man (2017) to professional armwrestling",
     "Defeated Hafthor Bjornsson in high-profile rematch (2022)",
     "Won both right and left hand divisions at Giants Live World Open (2021)"
-  ]
+  ],
+  "nickname": "The Beast",
+  "occupation": null,
+  "wrist_cm": 22.0
 }

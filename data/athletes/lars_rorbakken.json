@@ -1,13 +1,13 @@
 {
   "name": "Lars Rorbakken",
   "country": "Norway",
-  "age": 30,
+  "age": 46,
   "date_of_birth": null,
   "professional_expirience_years": 15,
-  "height_cm": 188,
-  "weight_kg": 95,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "height_cm": 190.0,
+  "weight_kg": 107.0,
+  "bicep_cm": 48.0,
+  "forearm_cm": 43.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -89,5 +89,8 @@
       "result": "Lost",
       "score": "4-1"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

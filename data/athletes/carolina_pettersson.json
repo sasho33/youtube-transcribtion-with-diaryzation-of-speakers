@@ -1,13 +1,13 @@
 {
   "name": "Carolina Pettersson",
   "country": "Sweden",
-  "age": 29,
+  "age": 34,
   "date_of_birth": "1994-01-01",
   "professional_expirience_years": 8,
-  "height_cm": 170,
-  "weight_kg": 70,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "height_cm": 166.0,
+  "weight_kg": 60.0,
+  "bicep_cm": 32.0,
+  "forearm_cm": 28.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -83,5 +83,8 @@
       "result": "Win",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

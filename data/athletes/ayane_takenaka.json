@@ -1,13 +1,13 @@
 {
   "name": "Ayane Takenaka",
   "country": "Japan",
-  "age": 31,
+  "age": 25,
   "date_of_birth": "1993-01-01",
   "professional_expirience_years": 8,
-  "height_cm": 165,
-  "weight_kg": 65,
-  "bicep_cm": 33,
-  "forearm_cm": 28,
+  "height_cm": 156.0,
+  "weight_kg": 58.0,
+  "bicep_cm": 35.0,
+  "forearm_cm": 29.0,
   "hand_size_cm": 18,
   "wingspan_cm": 170,
   "grip_strength_kg": 42,
@@ -64,5 +64,8 @@
       "result": "Lost",
       "score": "4-2"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": "personal trainer",
+  "wrist_cm": null
 }

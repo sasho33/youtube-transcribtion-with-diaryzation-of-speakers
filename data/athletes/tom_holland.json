@@ -1,13 +1,13 @@
 {
   "name": "Tom Holland",
   "country": "United Kingdom",
-  "age": 25,
+  "age": null,
   "date_of_birth": "1998-01-01",
   "professional_expirience_years": 4,
-  "height_cm": 183,
-  "weight_kg": 85,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "height_cm": 188.0,
+  "weight_kg": 78.0,
+  "bicep_cm": 41.0,
+  "forearm_cm": 41.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -61,5 +61,8 @@
       "result": "Lost",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": "The Machine",
+  "occupation": "Landscape Gardener",
+  "wrist_cm": null
 }

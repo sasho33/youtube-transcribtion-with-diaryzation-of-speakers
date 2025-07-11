@@ -1,13 +1,13 @@
 {
   "name": "Stoyan Golemanov",
   "country": "Bulgaria",
-  "age": 30,
+  "age": null,
   "date_of_birth": "1994-07-14",
   "professional_expirience_years": 14,
-  "height_cm": 182,
-  "weight_kg": 95,
-  "bicep_cm": 44,
-  "forearm_cm": 42,
+  "height_cm": null,
+  "weight_kg": null,
+  "bicep_cm": null,
+  "forearm_cm": null,
   "hand_size_cm": 20,
   "wingspan_cm": 188,
   "grip_strength_kg": 85,
@@ -79,5 +79,8 @@
     "Won against Michael Todd at East vs West 6 (2021)",
     "Multiple European Championship titles",
     "Known for explosive toproll technique"
-  ]
+  ],
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

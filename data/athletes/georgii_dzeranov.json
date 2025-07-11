@@ -1,13 +1,13 @@
 {
   "name": "Georgii Dzeranov",
-  "country": "Russia",
-  "age": 26,
+  "country": "Kazakhstan",
+  "age": 38,
   "date_of_birth": "1998-01-01",
   "professional_expirience_years": 8,
-  "height_cm": 186,
-  "weight_kg": 95,
-  "bicep_cm": 42,
-  "forearm_cm": 38,
+  "height_cm": 190.0,
+  "weight_kg": 123.0,
+  "bicep_cm": 55.0,
+  "forearm_cm": 51.0,
   "hand_size_cm": 19.5,
   "wingspan_cm": 195,
   "grip_strength_kg": 85,
@@ -114,5 +114,8 @@
       "result": "Lost",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

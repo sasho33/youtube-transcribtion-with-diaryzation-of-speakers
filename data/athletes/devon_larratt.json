@@ -1,13 +1,13 @@
 {
   "name": "Devon Larratt",
   "country": "Canada",
-  "age": 49,
+  "age": 50,
   "date_of_birth": "1975-04-24",
   "professional_expirience_years": 25,
   "height_cm": 196,
-  "weight_kg": 115.5,
-  "bicep_cm": 48.3,
-  "forearm_cm": 40.6,
+  "weight_kg": 120.0,
+  "bicep_cm": 47.0,
+  "forearm_cm": 42.0,
   "dominant_arm": "Right",
   "pulling_style": [
     "Toproll",
@@ -148,5 +148,8 @@
     "First WAL heavyweight world champion (2015)",
     "Arnold Classic Absolute Champion (2010-2015)",
     "PAL World Superheavyweight Champion (2009, 2011-2018)"
-  ]
+  ],
+  "nickname": "No Limits",
+  "occupation": "Professional armwrestler",
+  "wrist_cm": 22.0
 }

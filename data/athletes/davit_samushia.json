@@ -1,13 +1,13 @@
 {
   "name": "Davit Samushia",
   "country": "Georgia",
-  "age": 29,
+  "age": 33,
   "date_of_birth": "1995-01-01",
   "professional_expirience_years": 8,
-  "height_cm": 180,
-  "weight_kg": 104,
-  "bicep_cm": null,
-  "forearm_cm": 38,
+  "height_cm": 178.0,
+  "weight_kg": 85.0,
+  "bicep_cm": 45.0,
+  "forearm_cm": 44.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -119,5 +119,8 @@
       "result": "Lost",
       "score": "3-1"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

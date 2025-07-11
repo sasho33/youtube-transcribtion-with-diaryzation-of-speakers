@@ -1,13 +1,13 @@
 {
   "name": "Thomas Manghi",
   "country": "Italy",
-  "age": 33,
+  "age": null,
   "date_of_birth": "1991-04-10",
   "professional_expirience_years": 15,
-  "height_cm": 178,
-  "weight_kg": 90,
-  "bicep_cm": 41,
-  "forearm_cm": 39,
+  "height_cm": null,
+  "weight_kg": null,
+  "bicep_cm": null,
+  "forearm_cm": null,
   "hand_size_cm": 20,
   "wingspan_cm": 185,
   "grip_strength_kg": null,
@@ -72,5 +72,8 @@
       "result": "Win",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

@@ -1,13 +1,13 @@
 {
   "name": "Allen Ford",
-  "country": "United Kingdom",
-  "age": 41,
+  "country": "Canada",
+  "age": 48,
   "date_of_birth": "1983",
   "professional_expirience_years": 15,
-  "height_cm": 185,
+  "height_cm": 189.0,
   "weight_kg": 98,
-  "bicep_cm": 43,
-  "forearm_cm": 40,
+  "bicep_cm": 42.0,
+  "forearm_cm": 38.0,
   "hand_size_cm": 20,
   "wingspan_cm": null,
   "grip_strength_kg": 75,
@@ -70,5 +70,8 @@
       "result": "Lost",
       "score": "3-2"
     }
-  }
+  },
+  "nickname": "The Hitman",
+  "occupation": null,
+  "wrist_cm": 20.0
 }

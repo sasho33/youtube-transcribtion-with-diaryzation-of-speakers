@@ -1,13 +1,13 @@
 {
   "name": "Travis Bagent",
-  "country": "USA",
-  "age": 47,
+  "country": "United States Of America",
+  "age": 49,
   "date_of_birth": "1976-08-14",
   "professional_expirience_years": 30,
-  "height_cm": 190.5,
-  "weight_kg": 127.0,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "height_cm": 191.0,
+  "weight_kg": 125.0,
+  "bicep_cm": 45.0,
+  "forearm_cm": 39.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -87,5 +87,8 @@
       "result": "Lost",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": "The Beast",
+  "occupation": "Crossfit Fitness Owner",
+  "wrist_cm": null
 }

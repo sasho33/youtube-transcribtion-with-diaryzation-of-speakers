@@ -1,6 +1,6 @@
 {
   "name": "Wallace Dilley",
-  "country": null,
+  "country": "United States Of America",
   "age": null,
   "date_of_birth": null,
   "professional_expirience_years": null,
@@ -45,5 +45,8 @@
       "result": "Lost",
       "score": "3-1"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

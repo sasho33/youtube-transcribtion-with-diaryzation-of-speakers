@@ -1,13 +1,13 @@
 {
   "name": "John Therrien",
   "country": "Canada",
-  "age": 39,
+  "age": 29,
   "date_of_birth": "1985-05-15",
   "professional_expirience_years": 12,
-  "height_cm": 188,
-  "weight_kg": 115,
-  "bicep_cm": 48,
-  "forearm_cm": 45,
+  "height_cm": 178.0,
+  "weight_kg": 95.0,
+  "bicep_cm": 43.0,
+  "forearm_cm": 42.0,
   "hand_size_cm": 23,
   "wingspan_cm": 198,
   "grip_strength_kg": null,
@@ -78,5 +78,8 @@
       "result": "Lost",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": 20.0
 }

@@ -1,13 +1,13 @@
 {
   "name": "Irina Gladkaya",
   "country": "Russia",
-  "age": 34,
+  "age": 41,
   "date_of_birth": "1990-01-08",
   "professional_expirience_years": 14,
   "height_cm": 170,
-  "weight_kg": 78,
-  "bicep_cm": 38,
-  "forearm_cm": 32,
+  "weight_kg": 67.0,
+  "bicep_cm": 33.0,
+  "forearm_cm": 28.0,
   "hand_size_cm": 19,
   "wingspan_cm": 175,
   "grip_strength_kg": null,
@@ -25,11 +25,11 @@
   "recent_opponents": [
     "Gabriela Vasconcelos",
     "Oksana Pashkova",
-    "Sarah B√§ckman"
+    "Sarah B‰ckman"
   ],
   "notable_victories": [
     "Gabriela Vasconcelos",
-    "Sarah B√§ckman",
+    "Sarah B‰ckman",
     "Oksana Pashkova"
   ],
   "injuries": [],
@@ -59,11 +59,14 @@
     }
   },
   "matches": {
-    "Brigitta Iv√°nfi": {
+    "Brigitta Iv·nfi": {
       "arm": "Right",
       "date": "November 2, 2024",
       "result": "Lost",
       "score": "3-2"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

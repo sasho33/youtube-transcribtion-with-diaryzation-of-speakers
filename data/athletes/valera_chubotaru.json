@@ -1,13 +1,13 @@
 {
   "name": "Valera Chubotaru",
-  "country": "Moldova",
-  "age": 30,
+  "country": "Russia",
+  "age": 40,
   "date_of_birth": null,
   "professional_expirience_years": 15,
-  "height_cm": 190,
-  "weight_kg": 110,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "height_cm": 188.0,
+  "weight_kg": 132.0,
+  "bicep_cm": 55.0,
+  "forearm_cm": 46.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -59,11 +59,14 @@
     }
   },
   "matches": {
-    "LarsÂ Rorbakken": {
+    "Lars Rorbakken": {
       "arm": "Right",
       "date": "December 9, 2023",
       "result": "Lost",
       "score": "4-3"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

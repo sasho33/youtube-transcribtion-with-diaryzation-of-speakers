@@ -1,13 +1,13 @@
 {
   "name": "Sasho Andreev",
   "country": "Bulgaria",
-  "age": 38,
+  "age": 28,
   "date_of_birth": "1985-10-13",
   "professional_expirience_years": 12,
-  "height_cm": 188,
-  "weight_kg": 105,
+  "height_cm": 169.0,
+  "weight_kg": 88.0,
   "bicep_cm": 46,
-  "forearm_cm": 44,
+  "forearm_cm": 42.0,
   "hand_size_cm": 22,
   "wingspan_cm": 193,
   "grip_strength_kg": 85,
@@ -88,5 +88,8 @@
       "result": "Win",
       "score": "3-2"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

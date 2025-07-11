@@ -1,13 +1,13 @@
 {
   "name": "Irakli Zirakashvili",
   "country": "Georgia",
-  "age": 34,
+  "age": 27,
   "date_of_birth": "1989",
   "professional_expirience_years": 16,
   "height_cm": 190,
-  "weight_kg": 125,
-  "bicep_cm": 50,
-  "forearm_cm": 45,
+  "weight_kg": 95.0,
+  "bicep_cm": 47.0,
+  "forearm_cm": 44.0,
   "hand_size_cm": null,
   "wingspan_cm": 200,
   "grip_strength_kg": null,
@@ -142,5 +142,8 @@
       "result": "Win",
       "score": "6-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": 21.0
 }

@@ -1,13 +1,13 @@
 {
   "name": "Khaled Jashell",
-  "country": "Syria",
-  "age": 30,
+  "country": "Cameroon",
+  "age": 29,
   "date_of_birth": "1994",
   "professional_expirience_years": 11,
-  "height_cm": 188,
-  "weight_kg": 105,
-  "bicep_cm": 46,
-  "forearm_cm": 41,
+  "height_cm": 183.0,
+  "weight_kg": 116.0,
+  "bicep_cm": 44.0,
+  "forearm_cm": 40.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -77,5 +77,8 @@
       "result": "Lost",
       "score": "4-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": 22.0
 }

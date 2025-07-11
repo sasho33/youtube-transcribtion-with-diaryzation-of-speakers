@@ -4,8 +4,8 @@
   "age": null,
   "date_of_birth": null,
   "professional_expirience_years": null,
-  "height_cm": 200,
-  "weight_kg": 120,
+  "height_cm": null,
+  "weight_kg": null,
   "bicep_cm": null,
   "forearm_cm": null,
   "hand_size_cm": null,
@@ -61,5 +61,8 @@
       "result": "Lost",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

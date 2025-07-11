@@ -1,13 +1,13 @@
 {
   "name": "Ron Bath",
-  "country": "USA",
-  "age": 55,
+  "country": "United States Of America",
+  "age": 63,
   "date_of_birth": "1968-08-07",
   "professional_expirience_years": 30,
-  "height_cm": 183,
-  "weight_kg": 125,
-  "bicep_cm": null,
-  "forearm_cm": 45.7,
+  "height_cm": 191.0,
+  "weight_kg": 113.0,
+  "bicep_cm": 49.0,
+  "forearm_cm": 40.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -75,7 +75,7 @@
     }
   },
   "matches": {
-    "Efe KÃ¶mek": {
+    "Efe Kömek": {
       "arm": "Left",
       "date": "February 12, 2022",
       "result": "Lost",
@@ -93,5 +93,8 @@
       "result": "Lost",
       "score": "6-0"
     }
-  }
+  },
+  "nickname": "The Legend",
+  "occupation": "Bath Enterprises Inc.",
+  "wrist_cm": 24.0
 }

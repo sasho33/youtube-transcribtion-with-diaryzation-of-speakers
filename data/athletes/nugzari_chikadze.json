@@ -1,13 +1,13 @@
 {
   "name": "Nugzari Chikadze",
   "country": "Georgia",
-  "age": 26,
+  "age": 27,
   "date_of_birth": "1998-01-28",
   "professional_expirience_years": 6,
-  "height_cm": 175,
-  "weight_kg": 85,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "height_cm": 173.0,
+  "weight_kg": 105.0,
+  "bicep_cm": 47.0,
+  "forearm_cm": 42.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -17,7 +17,7 @@
     "Hook"
   ],
   "matches": {
-    "Oguzhan KoÃ§ak": {
+    "Oguzhan Koçak": {
       "arm": "Right",
       "date": "November 2, 2024",
       "result": "Win",
@@ -84,5 +84,8 @@
     "4-time consecutive WAF World Champion (2018, 2019, 2021, 2022) in 85kg left",
     "Won European Armwrestling Championship multiple times",
     "Known for explosive left-hand toproll technique"
-  ]
+  ],
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

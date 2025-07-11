@@ -1,13 +1,13 @@
 {
   "name": "Sabin Badulescu",
   "country": "Romania",
-  "age": 32,
+  "age": 40,
   "date_of_birth": null,
   "professional_expirience_years": 8,
-  "height_cm": 178,
-  "weight_kg": 80,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "height_cm": 188.0,
+  "weight_kg": 129.0,
+  "bicep_cm": 50.0,
+  "forearm_cm": 46.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -66,5 +66,8 @@
     "Back-to-back European Champion (2021 & 2023)",
     "Competed in East vs West 10 against Kydyrgali Ongarbaev (2023)",
     "Featured in Top 8 at Zloty Tur Poland (2023)"
-  ]
+  ],
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

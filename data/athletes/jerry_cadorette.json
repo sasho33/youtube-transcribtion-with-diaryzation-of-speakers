@@ -1,13 +1,13 @@
 {
   "name": "Jerry Cadorette",
-  "country": "USA",
-  "age": 39,
+  "country": "United States Of America",
+  "age": 52,
   "date_of_birth": "1985-01-01",
   "professional_expirience_years": 19,
-  "height_cm": 188,
-  "weight_kg": 127,
-  "bicep_cm": 50.8,
-  "forearm_cm": 47,
+  "height_cm": 187.0,
+  "weight_kg": 147.0,
+  "bicep_cm": 53.0,
+  "forearm_cm": 50.0,
   "hand_size_cm": 21.6,
   "wingspan_cm": 193,
   "grip_strength_kg": null,
@@ -103,5 +103,8 @@
       "result": "Lost",
       "score": "4-0"
     }
-  }
+  },
+  "nickname": "Big Daddy",
+  "occupation": "Car Dealership owner",
+  "wrist_cm": null
 }

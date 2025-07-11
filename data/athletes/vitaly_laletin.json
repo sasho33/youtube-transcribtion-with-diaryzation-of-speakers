@@ -1,13 +1,13 @@
 {
   "name": "Vitaly Laletin",
   "country": "Russia",
-  "age": 29,
-  "date_of_birth": "1995-07-15",
+  "age": 35,
+  "date_of_birth": "1990-07-15",
   "professional_expirience_years": 13,
   "height_cm": 205,
   "weight_kg": 140,
-  "bicep_cm": 50,
-  "forearm_cm": 45,
+  "bicep_cm": 48.0,
+  "forearm_cm": 48.0,
   "hand_size_cm": 22,
   "wingspan_cm": 220,
   "grip_strength_kg": null,
@@ -85,5 +85,8 @@
       "result": "Win",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

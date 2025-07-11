@@ -1,13 +1,13 @@
 {
   "name": "Genadi Kvikvinia",
   "country": "Georgia",
-  "age": 34,
+  "age": 40,
   "date_of_birth": null,
   "professional_expirience_years": 15,
   "height_cm": 185,
-  "weight_kg": 115,
-  "bicep_cm": 46,
-  "forearm_cm": 42,
+  "weight_kg": 140.0,
+  "bicep_cm": 53.0,
+  "forearm_cm": 47.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -111,5 +111,8 @@
       "result": "Lost",
       "score": "4-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": 23.0
 }

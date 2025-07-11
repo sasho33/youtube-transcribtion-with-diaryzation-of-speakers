@@ -1,13 +1,13 @@
 {
   "name": "Ivan Portela",
-  "country": "Brazil",
-  "age": 33,
+  "country": "Spain",
+  "age": null,
   "date_of_birth": null,
   "professional_expirience_years": 14,
-  "height_cm": 180,
-  "weight_kg": 95,
+  "height_cm": null,
+  "weight_kg": null,
   "bicep_cm": null,
-  "forearm_cm": 40,
+  "forearm_cm": null,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -38,7 +38,7 @@
       "status": "Recovered"
     }
   ],
-  "training_location": "SÃ£o Paulo, Brazil",
+  "training_location": "São Paulo, Brazil",
   "coach": "Portela Armwrestling Club",
   "preferred_start_position": "High hook",
   "strength_metrics": {
@@ -52,7 +52,7 @@
     "Back-to-back World Armwrestling Champion (2021-2022)",
     "Gold medalist at World Armwrestling Championship in Turkey (2022)",
     "Featured athlete at East vs West 5-7 events",
-    "Founded Portela Armwrestling Club in SÃ£o Paulo"
+    "Founded Portela Armwrestling Club in São Paulo"
   ],
   "win_loss_record": {
     "right": {
@@ -71,5 +71,8 @@
       "result": "Lost",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

@@ -1,13 +1,13 @@
 {
   "name": "Larry Wheels",
-  "country": "USA",
-  "age": 29,
+  "country": "United States Of America",
+  "age": 31,
   "date_of_birth": "1994-12-03",
   "professional_expirience_years": 5,
   "height_cm": 185,
-  "weight_kg": 118,
-  "bicep_cm": 50,
-  "forearm_cm": 43,
+  "weight_kg": 127.0,
+  "bicep_cm": 51.0,
+  "forearm_cm": 40.0,
   "hand_size_cm": 21.6,
   "wingspan_cm": 193,
   "grip_strength_kg": 120,
@@ -94,5 +94,8 @@
       "result": "Lost",
       "score": "6-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": "Power Lifter",
+  "wrist_cm": 22.0
 }

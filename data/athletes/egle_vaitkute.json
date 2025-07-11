@@ -1,13 +1,13 @@
 {
   "name": "Egle Vaitkute",
   "country": "Lithuania",
-  "age": 28,
+  "age": 40,
   "date_of_birth": null,
   "professional_expirience_years": 9,
-  "height_cm": 170,
-  "weight_kg": 70,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "height_cm": 180.0,
+  "weight_kg": 80.0,
+  "bicep_cm": 41.0,
+  "forearm_cm": 34.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -84,5 +84,8 @@
     "Undefeated European Champion in 2022",
     "Featured athlete in East vs West 13 (February 2024)",
     "Represented Lithuania in over 15 international championships"
-  ]
+  ],
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

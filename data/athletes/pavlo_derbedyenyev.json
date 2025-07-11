@@ -1,13 +1,13 @@
 {
   "name": "Pavlo Derbedyenyev",
   "country": "Ukraine",
-  "age": 30,
+  "age": 44,
   "date_of_birth": "1994-07-18",
   "professional_expirience_years": 9,
-  "height_cm": 178,
-  "weight_kg": 90,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "height_cm": 185.0,
+  "weight_kg": 120.0,
+  "bicep_cm": 52.0,
+  "forearm_cm": 43.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -78,5 +78,8 @@
       "result": "Lost",
       "score": "4-2"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

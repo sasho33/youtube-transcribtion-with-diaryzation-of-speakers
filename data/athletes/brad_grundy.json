@@ -1,13 +1,13 @@
 {
   "name": "Brad Grundy",
-  "country": "Australia",
-  "age": null,
+  "country": "United States Of America",
+  "age": 27,
   "date_of_birth": null,
   "professional_expirience_years": null,
-  "height_cm": null,
-  "weight_kg": null,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "height_cm": 183.0,
+  "weight_kg": 114.0,
+  "bicep_cm": 45.0,
+  "forearm_cm": 41.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -57,5 +57,8 @@
       "result": "Win",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": 22.0
 }

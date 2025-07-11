@@ -1,13 +1,14 @@
 {
   "name": "David Dadikyan",
   "country": "Armenia",
-  "age": 31,
+  
+  "age": 26,
   "date_of_birth": "1993-06-06",
   "professional_expirience_years": 16,
   "height_cm": 185,
-  "weight_kg": 105,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "weight_kg": 115.0,
+  "bicep_cm": 48.0,
+  "forearm_cm": 44.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -111,5 +112,8 @@
       "result": "Win",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

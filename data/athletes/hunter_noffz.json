@@ -1,13 +1,13 @@
 {
   "name": "Hunter Noffz",
-  "country": "USA",
-  "age": 25,
+  "country": "United States Of America",
+  "age": null,
   "date_of_birth": "1999-01-01",
   "professional_expirience_years": 4,
-  "height_cm": 188,
-  "weight_kg": 105,
-  "bicep_cm": 46,
-  "forearm_cm": 39,
+  "height_cm": 175.0,
+  "weight_kg": 77.0,
+  "bicep_cm": 41.0,
+  "forearm_cm": 36.0,
   "hand_size_cm": 21,
   "wingspan_cm": 193,
   "grip_strength_kg": null,
@@ -73,5 +73,8 @@
       "result": "Win",
       "score": "3-1"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

@@ -1,11 +1,11 @@
 {
   "name": "Aleksandra Ozerova",
   "country": "Russia",
-  "age": 23,
+  "age": null,
   "date_of_birth": "2000-01-01",
   "professional_expirience_years": 5,
-  "height_cm": 170,
-  "weight_kg": 65,
+  "height_cm": null,
+  "weight_kg": null,
   "bicep_cm": null,
   "forearm_cm": null,
   "hand_size_cm": null,
@@ -69,5 +69,8 @@
       "result": "Lost",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

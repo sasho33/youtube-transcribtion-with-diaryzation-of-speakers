@@ -1,13 +1,13 @@
 {
   "name": "Maateiwarangi Heta-Morris",
   "country": "New Zealand",
-  "age": 34,
+  "age": 35,
   "date_of_birth": "1990-06-15",
   "professional_expirience_years": 12,
-  "height_cm": 188,
-  "weight_kg": 130,
-  "bicep_cm": 52,
-  "forearm_cm": 45,
+  "height_cm": 191.0,
+  "weight_kg": 172.0,
+  "bicep_cm": 58.0,
+  "forearm_cm": 46.0,
   "hand_size_cm": 23,
   "wingspan_cm": 200,
   "grip_strength_kg": null,
@@ -18,7 +18,7 @@
     "Pressure Fighting"
   ],
   "matches": {
-    "LarsÂ Rorbakken": {
+    "Lars Rorbakken": {
       "arm": "Right",
       "date": "September 23, 2023",
       "result": "Lost",
@@ -80,5 +80,8 @@
     "Victory over Todd Hutchings at East vs West 10 (2022)",
     "Three-time Arnold Classic Australia Pro Champion",
     "First Pacific Islander to compete in King of the Table events"
-  ]
+  ],
+  "nickname": "THE BEAST",
+  "occupation": null,
+  "wrist_cm": null
 }

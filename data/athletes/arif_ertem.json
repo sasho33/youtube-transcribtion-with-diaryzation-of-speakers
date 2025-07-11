@@ -1,13 +1,13 @@
 {
   "name": "Arif Ertem",
   "country": "Turkey",
-  "age": 37,
+  "age": 34,
   "date_of_birth": "1987-06-15",
   "professional_expirience_years": 15,
-  "height_cm": 180,
-  "weight_kg": 80,
-  "bicep_cm": 42,
-  "forearm_cm": 38,
+  "height_cm": 186.0,
+  "weight_kg": 150.0,
+  "bicep_cm": 52.0,
+  "forearm_cm": 48.0,
   "hand_size_cm": 20,
   "wingspan_cm": 185,
   "grip_strength_kg": 70,
@@ -96,5 +96,8 @@
       "result": "Lost",
       "score": "4-1"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": 22.0
 }

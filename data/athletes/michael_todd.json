@@ -1,13 +1,13 @@
 {
   "name": "Michael Todd",
-  "country": "USA",
-  "age": 42,
+  "country": "United States Of America",
+  "age": 51,
   "date_of_birth": "1982-01-03",
   "professional_expirience_years": 22,
-  "height_cm": 190.5,
-  "weight_kg": 130,
-  "bicep_cm": null,
-  "forearm_cm": 44.5,
+  "height_cm": 191.0,
+  "weight_kg": 105.0,
+  "bicep_cm": 52.0,
+  "forearm_cm": 45.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -121,7 +121,7 @@
       "result": "Lost",
       "score": "5-0"
     },
-    "LarsÂ RÃ¸rbakken": {
+    "Lars Rørbakken": {
       "arm": "Right",
       "date": "June 1, 2024",
       "result": "Win",
@@ -133,5 +133,8 @@
       "result": "Lost",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": "Monster",
+  "occupation": "Body Transformation Specialist",
+  "wrist_cm": 24.0
 }

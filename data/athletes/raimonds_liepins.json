@@ -1,13 +1,13 @@
 {
   "name": "Raimonds Liepins",
   "country": "Latvia",
-  "age": 31,
+  "age": 34,
   "date_of_birth": "1993-07-12",
   "professional_expirience_years": 13,
-  "height_cm": 193,
-  "weight_kg": 165,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "height_cm": 170.0,
+  "weight_kg": 83.0,
+  "bicep_cm": 43.0,
+  "forearm_cm": 41.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -101,5 +101,8 @@
       "result": "Win",
       "score": "5-1"
     }
-  }
+  },
+  "nickname": "Coach Ray",
+  "occupation": null,
+  "wrist_cm": 20.0
 }

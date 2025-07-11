@@ -1,11 +1,11 @@
 {
-  "name": "Elizabeth Mocek",
-  "country": "USA",
+  "name": "Elizabeth Rae Mocek",
+  "country": "United States Of America",
   "age": null,
   "date_of_birth": null,
   "professional_expirience_years": 6,
-  "height_cm": 178,
-  "weight_kg": 70,
+  "height_cm": null,
+  "weight_kg": null,
   "bicep_cm": null,
   "forearm_cm": null,
   "hand_size_cm": null,
@@ -61,5 +61,8 @@
       "result": "Win",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": "The Reaper",
+  "occupation": null,
+  "wrist_cm": null
 }

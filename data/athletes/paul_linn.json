@@ -1,13 +1,13 @@
 {
   "name": "Paul Linn",
-  "country": "USA",
-  "age": 49,
+  "country": "United States Of America",
+  "age": 44,
   "date_of_birth": "1975-01-01",
   "professional_expirience_years": 25,
-  "height_cm": 175,
-  "weight_kg": 75,
-  "bicep_cm": 40.0,
-  "forearm_cm": 40.6,
+  "height_cm": 183.0,
+  "weight_kg": 95.0,
+  "bicep_cm": 48.0,
+  "forearm_cm": 42.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -123,5 +123,8 @@
       "result": "Lost",
       "score": "4-0"
     }
-  }
+  },
+  "nickname": "The White Orc",
+  "occupation": "High School Football Coach",
+  "wrist_cm": null
 }

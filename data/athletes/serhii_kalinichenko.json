@@ -1,13 +1,13 @@
 {
-  "name": "Serhii Kalinichenko",
+  "name": "Sergei Kalinichenko",
   "country": "Ukraine",
-  "age": 28,
+  "age": 32,
   "date_of_birth": "1996-01-01",
   "professional_expirience_years": 11,
-  "height_cm": 186,
-  "weight_kg": 105,
-  "bicep_cm": 45,
-  "forearm_cm": 42,
+  "height_cm": 187.0,
+  "weight_kg": 118.0,
+  "bicep_cm": 50.0,
+  "forearm_cm": 48.0,
   "hand_size_cm": 21,
   "wingspan_cm": 192,
   "grip_strength_kg": 85,
@@ -94,5 +94,8 @@
       "result": "Lost",
       "score": "3-1"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

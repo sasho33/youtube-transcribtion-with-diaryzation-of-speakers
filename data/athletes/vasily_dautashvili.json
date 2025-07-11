@@ -1,11 +1,11 @@
 {
-  "name": "Vasily Dautashvili",
+  "name": "Vaso Dautashvili",
   "country": "Georgia",
-  "age": 24,
+  "age": null,
   "date_of_birth": "1999",
   "professional_expirience_years": 5,
-  "height_cm": 175,
-  "weight_kg": 85,
+  "height_cm": null,
+  "weight_kg": null,
   "bicep_cm": null,
   "forearm_cm": null,
   "hand_size_cm": null,
@@ -56,5 +56,8 @@
       "result": "Lost",
       "score": "3-1"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Tom Rozits",
-  "country": "Canada",
-  "age": 35,
+  "name": "Toms Rozits",
+  "country": "Latvia",
+  "age": 32,
   "date_of_birth": "1989-06-15",
   "professional_expirience_years": 8,
-  "height_cm": 185,
-  "weight_kg": 95,
-  "bicep_cm": 43,
+  "height_cm": 184.0,
+  "weight_kg": 85.0,
+  "bicep_cm": 45.0,
   "forearm_cm": 39,
   "hand_size_cm": 21,
   "wingspan_cm": 193,
@@ -28,7 +28,7 @@
   ],
   "notable_victories": [
     "Paul Linn",
-    "John Yves ThÃ©riault",
+    "John Yves Thériault",
     "Derek Smith"
   ],
   "injuries": [
@@ -72,5 +72,8 @@
       "result": "Win",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

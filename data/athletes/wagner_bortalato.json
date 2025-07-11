@@ -1,13 +1,13 @@
 {
-  "name": "Wagner Bortalato",
+  "name": "Wagner Bortolato",
   "country": "Brazil",
-  "age": 34,
+  "age": 44,
   "date_of_birth": null,
   "professional_expirience_years": 12,
   "height_cm": 188,
-  "weight_kg": 95,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "weight_kg": 151.0,
+  "bicep_cm": 53.0,
+  "forearm_cm": 49.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -32,7 +32,7 @@
     "Krasimir Kostadinov"
   ],
   "injuries": [],
-  "training_location": "SÃ£o Paulo, Brazil",
+  "training_location": "São Paulo, Brazil",
   "coach": null,
   "preferred_start_position": "Hook Setup",
   "strength_metrics": {
@@ -65,5 +65,8 @@
       "result": "Lost",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": "Big Head Bortalato",
+  "occupation": "Personal Trainer",
+  "wrist_cm": 23.0
 }

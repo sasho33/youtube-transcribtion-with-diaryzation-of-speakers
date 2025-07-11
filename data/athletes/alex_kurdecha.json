@@ -1,12 +1,12 @@
 {
   "name": "Alex Kurdecha",
   "country": "Poland",
-  "age": 27,
+  "age": 36,
   "date_of_birth": null,
   "professional_expirience_years": 10,
-  "height_cm": 196,
-  "weight_kg": 130,
-  "bicep_cm": 50,
+  "height_cm": 201.0,
+  "weight_kg": 150.0,
+  "bicep_cm": 54.0,
   "forearm_cm": 45,
   "hand_size_cm": 22,
   "wingspan_cm": 210,
@@ -102,5 +102,8 @@
     "Won World Armwrestling Championship in Turkey (2022)",
     "Became youngest super heavyweight champion in European history",
     "Multiple victories over Top 10 ranked pullers"
-  ]
+  ],
+  "nickname": null,
+  "occupation": "Branch Manager at Sport World Entertainment",
+  "wrist_cm": 23.0
 }

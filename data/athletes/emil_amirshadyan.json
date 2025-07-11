@@ -1,11 +1,11 @@
 {
   "name": "Emil Amirshadyan",
   "country": "Armenia",
-  "age": 22,
+  "age": null,
   "date_of_birth": null,
   "professional_expirience_years": 3,
-  "height_cm": 180,
-  "weight_kg": 85,
+  "height_cm": null,
+  "weight_kg": null,
   "bicep_cm": null,
   "forearm_cm": null,
   "hand_size_cm": null,
@@ -64,5 +64,8 @@
       "result": "Lost",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

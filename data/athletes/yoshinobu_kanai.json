@@ -1,13 +1,13 @@
 {
   "name": "Yoshinobu Kanai",
   "country": "Japan",
-  "age": 35,
+  "age": 49,
   "date_of_birth": "1989",
   "professional_expirience_years": 10,
-  "height_cm": 170,
-  "weight_kg": 75,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "height_cm": 173.0,
+  "weight_kg": 101.0,
+  "bicep_cm": 47.0,
+  "forearm_cm": 40.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -69,5 +69,8 @@
       "result": "Lost",
       "score": "3-2"
     }
-  }
+  },
+  "nickname": "The warlord",
+  "occupation": null,
+  "wrist_cm": null
 }

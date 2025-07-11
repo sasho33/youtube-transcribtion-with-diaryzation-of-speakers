@@ -1,11 +1,11 @@
 {
   "name": "Arsen Khachatryan",
   "country": "Armenia",
-  "age": 29,
+  "age": 22,
   "date_of_birth": "1995-01-01",
   "professional_expirience_years": 6,
-  "height_cm": 185,
-  "weight_kg": 95,
+  "height_cm": null,
+  "weight_kg": null,
   "bicep_cm": null,
   "forearm_cm": null,
   "hand_size_cm": null,
@@ -64,5 +64,8 @@
       "result": "Win",
       "score": "3-1"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

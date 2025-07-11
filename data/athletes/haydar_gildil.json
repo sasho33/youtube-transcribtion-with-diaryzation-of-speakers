@@ -1,13 +1,13 @@
 {
   "name": "Haydar Gildil",
   "country": "Turkey",
-  "age": 33,
+  "age": 59,
   "date_of_birth": "1991-04-15",
   "professional_expirience_years": 14,
-  "height_cm": 185,
-  "weight_kg": 105,
-  "bicep_cm": 45,
-  "forearm_cm": 41,
+  "height_cm": 177.0,
+  "weight_kg": 73.0,
+  "bicep_cm": 53.0,
+  "forearm_cm": 48.0,
   "hand_size_cm": 22,
   "wingspan_cm": 190,
   "grip_strength_kg": null,
@@ -79,5 +79,8 @@
       "result": "Win",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

@@ -1,13 +1,13 @@
 {
   "name": "Fia Reisek",
   "country": "Sweden",
-  "age": null,
+  "age": 40,
   "date_of_birth": null,
   "professional_expirience_years": null,
-  "height_cm": null,
-  "weight_kg": null,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "height_cm": 170.0,
+  "weight_kg": 69.0,
+  "bicep_cm": 36.0,
+  "forearm_cm": 33.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -20,7 +20,7 @@
       "result": "Win",
       "score": "4-0"
     },
-    "Malin BergstrÃ¶m": {
+    "Malin Bergström": {
       "arm": "Right",
       "date": "February 15, 2025",
       "result": "Win",
@@ -63,5 +63,8 @@
     "backpressure_kg": null,
     "sidepressure_kg": null
   },
-  "career_highlights": []
+  "career_highlights": [],
+  "nickname": "Fia",
+  "occupation": "Gym Owner",
+  "wrist_cm": 18.0
 }

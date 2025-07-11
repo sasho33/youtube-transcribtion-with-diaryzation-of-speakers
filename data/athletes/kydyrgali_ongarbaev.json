@@ -4,10 +4,10 @@
   "age": 30,
   "date_of_birth": "1994-01-01",
   "professional_expirience_years": 12,
-  "height_cm": 180,
-  "weight_kg": 95,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "height_cm": 186.0,
+  "weight_kg": 105.0,
+  "bicep_cm": 45.0,
+  "forearm_cm": 42.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -98,5 +98,8 @@
       "result": "Lost",
       "score": "4-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

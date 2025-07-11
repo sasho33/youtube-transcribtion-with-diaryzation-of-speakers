@@ -1,13 +1,13 @@
 {
   "name": "Ramzi Tayba",
-  "country": "Ukraine",
-  "age": 33,
+  "country": "Qatar",
+  "age": 38,
   "date_of_birth": null,
   "professional_expirience_years": 10,
   "height_cm": 175,
-  "weight_kg": 80,
-  "bicep_cm": null,
-  "forearm_cm": null,
+  "weight_kg": 79.0,
+  "bicep_cm": 41.0,
+  "forearm_cm": 39.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -59,5 +59,8 @@
       "result": "Lost",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": 20.0
 }

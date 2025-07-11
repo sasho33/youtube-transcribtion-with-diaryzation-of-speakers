@@ -1,13 +1,13 @@
 {
   "name": "Alizhan Muratov",
   "country": "Kazakhstan",
-  "age": 23,
+  "age": 27,
   "date_of_birth": "2001-01-01",
   "professional_expirience_years": 5,
   "height_cm": 180,
-  "weight_kg": 85,
-  "bicep_cm": null,
-  "forearm_cm": 38,
+  "weight_kg": 104.0,
+  "bicep_cm": 46.0,
+  "forearm_cm": 45.0,
   "hand_size_cm": null,
   "wingspan_cm": null,
   "grip_strength_kg": null,
@@ -95,5 +95,8 @@
       "result": "Win",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }

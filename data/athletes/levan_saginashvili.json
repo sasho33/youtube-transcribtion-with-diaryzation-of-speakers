@@ -4,10 +4,10 @@
   "age": 36,
   "date_of_birth": "1988-09-15",
   "professional_expirience_years": 18,
-  "height_cm": 196,
-  "weight_kg": 175,
-  "bicep_cm": 58,
-  "forearm_cm": 50,
+  "height_cm": 193.0,
+  "weight_kg": 178.0,
+  "bicep_cm": 61.0,
+  "forearm_cm": 52.0,
   "hand_size_cm": 24,
   "wingspan_cm": 208,
   "grip_strength_kg": 120,
@@ -96,5 +96,8 @@
       "result": "Win",
       "score": "4-0"
     }
-  }
+  },
+  "nickname": "Georgian Hulk",
+  "occupation": "SR Fabrication",
+  "wrist_cm": 28.0
 }

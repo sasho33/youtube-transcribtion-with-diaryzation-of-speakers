@@ -1,11 +1,11 @@
 {
   "name": "Jocelyne Brisson",
   "country": "Canada",
-  "age": 53,
+  "age": null,
   "date_of_birth": null,
   "professional_expirience_years": 30,
-  "height_cm": 170,
-  "weight_kg": 72,
+  "height_cm": null,
+  "weight_kg": null,
   "bicep_cm": null,
   "forearm_cm": null,
   "hand_size_cm": null,
@@ -25,10 +25,10 @@
   "recent_opponents": [
     "Gabriela Vasconcelos",
     "Irina Makeeva",
-    "Sarah BÃ¤ckman"
+    "Sarah Bäckman"
   ],
   "notable_victories": [
-    "Sarah BÃ¤ckman",
+    "Sarah Bäckman",
     "Gabriela Vasconcelos",
     "Heidi Andersson"
   ],
@@ -46,7 +46,7 @@
   "career_highlights": [
     "Won first world title in 1998 (WAF)",
     "Competed professionally for over three decades",
-    "Defeated Sarah BÃ¤ckman at 2019 World Championships",
+    "Defeated Sarah Bäckman at 2019 World Championships",
     "Won East vs West 12 (2023) women's category",
     "Holds record for most Canadian national titles"
   ],
@@ -73,5 +73,8 @@
       "result": "Lost",
       "score": "3-0"
     }
-  }
+  },
+  "nickname": null,
+  "occupation": null,
+  "wrist_cm": null
 }
