@@ -1,0 +1,71 @@
+{
+  "name": "Brigitta Ivánfi",
+  "country": "Hungary",
+  "nickname": "Brigi",
+  "age": 47,
+  "date_of_birth": "1995-05-31",
+  "professional_expirience_years": 8,
+  "weight_kg": 70.0,
+  "height_cm": 168.0,
+  "occupation": "soldier",
+  "bicep_cm": 39.0,
+  "forearm_cm": 32.0,
+  "wrist_cm": 17.0,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll"
+  ],
+  "titles": [
+    "WAF World Champion (2017, 2018, 2021, 2022, 2023)",
+    "European Armwrestling Champion (2019)",
+    "Hungarian National Champion (Multiple years)"
+  ],
+  "recent_opponents": [
+    "Sarah Bäckman",
+    "Egle Vaitkute",
+    "Barbora Bajciova"
+  ],
+  "notable_victories": [
+    "Oksana Semerenko",
+    "Egle Vaitkute",
+    "Barbora Bajciova"
+  ],
+  "injuries": [],
+  "training_location": "Budapest, Hungary",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "5-time WAF World Champion (65kg Right)",
+    "Undefeated at World Championships from 2021-2023",
+    "Featured athlete in East vs West Armwrestling events",
+    "Multiple European Championship medals"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Irina Gladkaya": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Win",
+      "score": "3-2"
+    }
+  }
+}

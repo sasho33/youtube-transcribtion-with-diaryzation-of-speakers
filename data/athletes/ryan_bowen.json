@@ -1,0 +1,97 @@
+{
+  "name": "Ryan Bowen",
+  "country": "Australia",
+  "nickname": "Blue",
+  "date_of_birth": "1986-07-13",
+  "professional_expirience_years": 12,
+  "weight_kg": 91.0,
+  "height_cm": 185.0,
+  "occupation": "Former Australian Army. Now Armwrestling Podcast Host and Producer",
+  "bicep_cm": 43.0,
+  "forearm_cm": 39.0,
+  "wrist_cm": null,
+  "hand_size_cm": 21.6,
+  "wingspan_cm": 193,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "King's Move",
+    "Toproll"
+  ],
+  "titles": [
+    "7-time WAF World Champion (2016-2019, 2021-2023)",
+    "9-time European Armwrestling Champion",
+    "12-time UK National Champion (2012-2019, 2021-2023)"
+  ],
+  "recent_opponents": [
+    "Evgeny Prudnik",
+    "Georgi Tsvetkov",
+    "Davit Samushia"
+  ],
+  "notable_victories": [
+    "Dave Chaffee",
+    "Michael Todd",
+    "Todd Hutchings",
+    "Arif Ertem"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow ligament tear",
+      "arm": "Right",
+      "date": "2022-06-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "London, UK",
+  "coach": null,
+  "preferred_start_position": "Versatile (adapts to opponent)",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Dave Chaffee 3-0 at WAL 2018",
+    "7 consecutive WAF World Championships (100kg class)",
+    "Longest-reigning UK national champion in history",
+    "First athlete to defeat Michael Todd using King's Move counter"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 3
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Zurab Tavberidze": {
+      "arm": "Right",
+      "date": "November 19, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Raimonds Liepiņš": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Khaled Jashell": {
+      "arm": "Right",
+      "date": "October 1, 2022",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Aleksandr \"Schoolboy\" Beziazykov": {
+      "arm": "Right",
+      "date": "June 1, 2024",
+      "result": "Lost",
+      "score": "6-0"
+    }
+  }
+}

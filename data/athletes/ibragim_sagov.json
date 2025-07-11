@@ -1,0 +1,95 @@
+{
+  "name": "Ibragim Sagov",
+  "country": "Russia",
+  "age": 35,
+  "date_of_birth": null,
+  "professional_expirience_years": 10,
+  "weight_kg": 115.0,
+  "height_cm": 192.0,
+  "occupation": null,
+  "bicep_cm": 51.0,
+  "forearm_cm": 46.0,
+  "wrist_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Side Pressure",
+    "Hook"
+  ],
+  "matches": {
+    "Rino Mašić": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Lost",
+      "score": "4-3"
+    },
+    "Chance Shaw": {
+      "arm": "Right",
+      "date": "July 6, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Sandris Šedis": {
+      "arm": "Right",
+      "date": "April 20, 2024",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Todd Hutchings": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Genadi Kvikvinia": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Win",
+      "score": "4-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 3,
+      "losses": 2
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "WAF World Champion (Left Hand, +100kg, 2019)",
+    "WAF World Silver Medalist (Right Hand, +100kg, 2019)",
+    "Multiple Russian National Championships"
+  ],
+  "recent_opponents": [
+    "Dave Chaffee",
+    "Ermes Gasparini",
+    "Vitaly Laletin"
+  ],
+  "notable_victories": [
+    "Artyom Morozov",
+    "Tobias Sporrong",
+    "Krasimir Kostadinov"
+  ],
+  "injuries": [],
+  "training_location": "Kabardino-Balkaria, Russia",
+  "coach": null,
+  "preferred_start_position": "Hook",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Competed in King of the Table 9 (2024) against Ermes Gasparini",
+    "Featured in East vs West 12 (2023) supermatch against Vitaly Laletin",
+    "Gold medal at 2019 World Armwrestling Federation Championships (left hand)",
+    "Elite top-10 ranked SHW armwrestler since 2019"
+  ]
+}

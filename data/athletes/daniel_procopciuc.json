@@ -1,0 +1,114 @@
+{
+  "name": "Daniel Procopciuc",
+  "country": "Moldova",
+  "age": 24,
+  "date_of_birth": null,
+  "professional_expirience_years": 8,
+  "weight_kg": 78.0,
+  "height_cm": 171.0,
+  "occupation": null,
+  "bicep_cm": 40.0,
+  "forearm_cm": 39.0,
+  "wrist_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2021 WAF World Champion (Left 90kg)",
+    "2022 WAF World Champion (Left 90kg)",
+    "2023 WAF World Champion (Left 93kg)",
+    "2023 European Champion (Left 93kg)"
+  ],
+  "recent_opponents": [
+    "Vitaly Laletin",
+    "Georgi Tsvetkov",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Oleg Petrenko",
+    "Rustam Babayev"
+  ],
+  "injuries": [],
+  "training_location": "Chișinău, Moldova",
+  "coach": "Moldovan National Team Coaches",
+  "preferred_start_position": "High Hand",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Three consecutive WAF World Championships (2021-2023)",
+    "Gold medal at 2023 European Armwrestling Championship",
+    "East vs West debut against #1 ranked Vitaly Laletin (2023)",
+    "Youngest world champion in Moldovan armwrestling history"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 3
+    },
+    "left": {
+      "wins": 2,
+      "losses": 1
+    }
+  },
+  "matches": {
+    "Oleg Zhokh": {
+      "arm": "Left",
+      "date": "February 15, 2025",
+      "result": "Lost",
+      "score": "4-0"
+    },
+    "Bozhidar Simeonov": {
+      "arm": "Left",
+      "date": "July 6, 2024",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Mindaugas Tarasaitis": {
+      "arm": "Right",
+      "date": "January 20, 2024",
+      "result": "Lost",
+      "score": "4-2"
+    },
+    "Emil Amirshadyan": {
+      "arm": "Left",
+      "date": "July 29, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Doug Erlich": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Davit Samushia": {
+      "arm": "Right",
+      "date": "November 19, 2022",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Corey Miller": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Artur Makarov": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Lost",
+      "score": "4-1"
+    }
+  }
+}

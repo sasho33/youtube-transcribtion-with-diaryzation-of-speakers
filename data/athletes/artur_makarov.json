@@ -1,0 +1,86 @@
+{
+  "name": "Artur Makarov",
+  "country": "Russia",
+  "age": 31,
+  "date_of_birth": null,
+  "professional_expirience_years": 10,
+  "weight_kg": 77.0,
+  "height_cm": 174.0,
+  "occupation": null,
+  "bicep_cm": 44.0,
+  "forearm_cm": 44.0,
+  "wrist_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "East vs West 6 (2022) 95kg Champion"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Ferit Osmanli",
+    "Kydyrgali Ongarbaev"
+  ],
+  "notable_victories": [
+    "Kydyrgali Ongarbaev",
+    "Revaz Lutidze",
+    "Ferit Osmanli"
+  ],
+  "injuries": [],
+  "training_location": "Russia",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won the 95kg tournament at East vs West 6 (2022)",
+    "Defeated reigning champion Kydyrgali Ongarbaev at EvW6",
+    "Competed in multiple East vs West main cards (EvW6, EvW8)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 3,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Ömer Kozakoğlu": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Mindaugus Tarasaitis": {
+      "arm": "Right",
+      "date": "April 20, 2024",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Adam Wawrzynski": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Daniel Procopciuc": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Win",
+      "score": "4-1"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Mazahir Saidu",
+  "country": "India",
+  "age": 23,
+  "date_of_birth": "2001-01-01",
+  "professional_expirience_years": 5,
+  "weight_kg": 104.0,
+  "height_cm": 183.0,
+  "occupation": null,
+  "bicep_cm": 46.0,
+  "forearm_cm": 41.0,
+  "wrist_cm": 20.0,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Left",
+  "pulling_style": [
+    "Toproll",
+    "Speed-focused"
+  ],
+  "titles": [
+    "2023 IFA World Champion (60kg LH)",
+    "East vs West 12 Champion (60kg LH)"
+  ],
+  "recent_opponents": [
+    "Davit Samushia",
+    "Kydyrgali Ongarbaev",
+    "Irakli Zirakashvili"
+  ],
+  "notable_victories": [
+    "Davit Samushia",
+    "Irakli Zirakashvili"
+  ],
+  "injuries": [],
+  "training_location": "Turkey",
+  "coach": "Turkish National Team Coaches",
+  "preferred_start_position": "High Grip",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Davit Samushia to win 60kg LH title at East vs West 12 (2023)",
+    "Won IFA World Championship in 60kg left-hand division (2023)",
+    "Rapid rise from junior divisions to world champion in 5 years"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Raimonds Liepiņš": {
+      "arm": "Right",
+      "date": "May 28, 2021",
+      "result": "Lost",
+      "score": "3-2"
+    }
+  }
+}

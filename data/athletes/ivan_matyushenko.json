@@ -1,0 +1,109 @@
+{
+  "name": "Ivan Matyushenko",
+  "country": "Russia",
+  "nickname": null,
+  "age": 40,
+  "date_of_birth": "1985-05-05",
+  "professional_expirience_years": 8,
+  "weight_kg": 114.0,
+  "height_cm": 192.0,
+  "occupation": null,
+  "bicep_cm": 48.0,
+  "forearm_cm": 43.0,
+  "wrist_cm": null,
+  "wingspan_cm": 183,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook",
+    "Press"
+  ],
+  "titles": [
+    "European Armwrestling Champion (Junior)",
+    "Ukrainian National Champion",
+    "Zloty Tur Cup Winner"
+  ],
+  "recent_opponents": [
+    "Sasho Andreev",
+    "Davit Samushia",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Davit Samushia",
+    "Arif Ertem",
+    "Maksym Prokopchuk"
+  ],
+  "injuries": [
+    {
+      "type": "Elbow ligament strain",
+      "arm": "Right",
+      "date": "2022-08-00",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Kyiv, Ukraine",
+  "coach": "Oleksandr Prokopenko",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": 140,
+    "curl_kg": 55,
+    "wrist_curl_kg": 65,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Gold medal at European Junior Championships (2018)",
+    "Victory over #1 ranked Davit Samushia at East vs West 13 (2024)",
+    "Multiple Ukrainian National Championship titles",
+    "Competed in top professional leagues: East vs West, Zloty Tur"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 0
+    },
+    "left": {
+      "wins": 2,
+      "losses": 2
+    }
+  },
+  "matches": {
+    "Alizhan Muratov": {
+      "arm": "Left",
+      "date": "November 2, 2024",
+      "result": "Lost",
+      "score": "4-0"
+    },
+    "Rino Mašić": {
+      "arm": "Left",
+      "date": "January 20, 2024",
+      "result": "Win",
+      "score": "4-1"
+    },
+    "Kamil Jablonski": {
+      "arm": "Right",
+      "date": "November 11, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Davit Arabuli": {
+      "arm": "Left",
+      "date": "August 26, 2023",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Artyom Morozov": {
+      "arm": "Left",
+      "date": "June 1, 2024",
+      "result": "Lost",
+      "score": "4-1"
+    },
+    "Serhii Kalinichenko": {
+      "arm": "Right",
+      "date": "May 10, 2025",
+      "result": "Win",
+      "score": "3-1"
+    }
+  }
+}

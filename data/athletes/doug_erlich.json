@@ -1,0 +1,85 @@
+{
+  "name": "Doug Erlich",
+  "country": "United States",
+  "age": 42,
+  "nickname": "The Animal",
+  "date_of_birth": "1982-01-01",
+  "professional_expirience_years": 20,
+  "weight_kg": 77.0,
+  "height_cm": 185.0,
+  "occupation": "Civil Engineer at the Department of Defense",
+  "bicep_cm": 43.0,
+  "forearm_cm": 39.0,
+  "wrist_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Press",
+    "Inside Game"
+  ],
+  "matches": {
+    "Hunter Noffz": {
+      "arm": "Right",
+      "date": "August 10, 2024",
+      "result": "Lost",
+      "score": "3-1"
+    },
+    "Daniel Procopciuc": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Raimonds Liepiņš": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Win",
+      "score": "3-0"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 2
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "7-time National Armwrestling Champion",
+    "2013 WAF World Champion (90kg)",
+    "Arnold Classic Champion"
+  ],
+  "recent_opponents": [
+    "Lachlan Adair",
+    "Irakli Zirakashvili",
+    "Derek Smith"
+  ],
+  "notable_victories": [
+    "Dave Chaffee",
+    "Todd Hutchings",
+    "Matt Mask"
+  ],
+  "injuries": [],
+  "training_location": "California, USA",
+  "coach": null,
+  "preferred_start_position": "Low Hand",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Winning WAF World Championship in 2013",
+    "Defeating Dave Chaffee at Arnold Classic 2012",
+    "7 consecutive national championships",
+    "Competing in East vs West supermatches"
+  ]
+}

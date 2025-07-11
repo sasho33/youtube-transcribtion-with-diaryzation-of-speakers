@@ -1,0 +1,89 @@
+{
+  "name": "Gabriela Vasconcelos",
+  "country": "Brazil",
+  "nickname": "Iron Angel",
+  "age": 37,
+  "date_of_birth": "1993-07-01",
+  "professional_expirience_years": 13,
+  "weight_kg": 80.0,
+  "height_cm": 157.0,
+  "occupation": "Gymnastic Coach",
+  "bicep_cm": 41.0,
+  "forearm_cm": 37.0,
+  "wrist_cm": 17.0,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "WAF World Champion (2015, 2016, 2017, 2018, 2019, 2021)",
+    "European Armwrestling Champion",
+    "Brazilian National Champion (multiple categories)"
+  ],
+  "recent_opponents": [
+    "Sarah Bäckman",
+    "Oksana Semenova",
+    "Irina Makeeva"
+  ],
+  "notable_victories": [
+    "Sarah Bäckman",
+    "Oksana Semenova",
+    "Irina Makeeva"
+  ],
+  "injuries": [],
+  "training_location": "São Paulo, Brazil",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "6-time WAF World Champion across weight classes",
+    "Undefeated streak in international competition (2015-2019)",
+    "Pioneer of Brazilian women's armwrestling"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 2,
+      "losses": 2
+    },
+    "left": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Barbora Bajciova": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Lost",
+      "score": "3-2"
+    },
+    "Egle Vaitkute": {
+      "arm": "Right",
+      "date": "August 6, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Sarah Backman": {
+      "arm": "Right",
+      "date": "April 2, 2022",
+      "result": "Win",
+      "score": "4-0"
+    },
+    "Barbora Bajčíová": {
+      "arm": "Right",
+      "date": "Unknown",
+      "result": "Lost",
+      "score": "4-2"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Marcio Barboza",
+  "country": "Brazil",
+  "nickname": "Phenom",
+  "age": 52,
+  "date_of_birth": "1972-08-15",
+  "professional_expirience_years": 8,
+  "weight_kg": 111.0,
+  "height_cm": 183.0,
+  "occupation": "Iron Worker",
+  "bicep_cm": 50.0,
+  "forearm_cm": 45.0,
+  "wrist_cm": 20.0,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2023 East vs West 105kg Champion",
+    "2022 World Armwrestling Championship Silver Medalist"
+  ],
+  "recent_opponents": [
+    "Ermes Gasparini",
+    "Davit Samushia",
+    "Artem Tainov"
+  ],
+  "notable_victories": [
+    "Davit Samushia",
+    "Artem Tainov",
+    "Rustam Babayev"
+  ],
+  "injuries": null,
+  "training_location": "São Paulo, Brazil",
+  "coach": null,
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Defeated Davit Samushia twice to win 105kg title at East vs West 12 (2023)",
+    "Silver medal in 95kg class at 2022 World Armwrestling Championship",
+    "Victory over Rustam Babayev at A1 Russian Open 2023"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 3
+    },
+    "left": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Oleg Petrenko": {
+      "arm": "Right",
+      "date": "January 20, 2024",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Sahip Çağlar": {
+      "arm": "Left",
+      "date": "May 21, 2022",
+      "result": "Win",
+      "score": "3-0"
+    },
+    "Tobias Sporrong": {
+      "arm": "Right",
+      "date": "May 21, 2022",
+      "result": "Win",
+      "score": "3-2"
+    },
+    "Irakli Zirakashvili": {
+      "arm": "Right",
+      "date": "June 25, 2022",
+      "result": "Lost",
+      "score": "4-0"
+    },
+    "Matt Mask": {
+      "arm": "Right",
+      "date": "Unknown",
+      "result": "Lost",
+      "score": "5-1"
+    }
+  }
+}

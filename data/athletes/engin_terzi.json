@@ -1,0 +1,70 @@
+{
+  "name": "Engin Terzi",
+  "country": "Turkey",
+  "nickname": "The Angry Turk",
+  "age": 50,
+  "date_of_birth": "1975-01-01",
+  "professional_expirience_years": 15,
+  "weight_kg": 76.0,
+  "height_cm": 177.0,
+  "occupation": null,
+  "bicep_cm": 40.0,
+  "forearm_cm": 38.0,
+  "wrist_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "High Hook"
+  ],
+  "matches": {
+    "Raimonds Liepiņš": {
+      "arm": "Right",
+      "date": "June 24, 2023",
+      "result": "Win",
+      "score": "5-1"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 0
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "WAF World Champion (95kg Right Hand - 2009-2019)",
+    "European Armwrestling Champion",
+    "Turkish National Champion (multiple times)"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Oleg Petrenko",
+    "Daniel Procopciuc"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Oleg Petrenko",
+    "Daniel Procopciuc"
+  ],
+  "injuries": [],
+  "training_location": "Istanbul, Turkey",
+  "coach": null,
+  "preferred_start_position": "High Hand",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "11 consecutive WAF World Championships (2009-2019) in 95kg right-hand division",
+    "Undefeated in world championships for a decade",
+    "Featured in East vs West Armwrestling events"
+  ]
+}

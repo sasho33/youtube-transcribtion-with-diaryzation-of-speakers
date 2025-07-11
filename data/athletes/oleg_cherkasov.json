@@ -1,0 +1,71 @@
+{
+  "name": "Oleg Cherkasov",
+  "country": "Russia",
+  "age": 34,
+  "date_of_birth": "1991",
+  "professional_expirience_years": 20,
+  "weight_kg": 70.0,
+  "height_cm": 182.0,
+  "occupation": null,
+  "bicep_cm": 42.0,
+  "forearm_cm": 37.0,
+  "wrist_cm": 20.0,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "matches": {
+    "Mindaugas Tarasaitis": {
+      "arm": "Right",
+      "date": "May 6, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Yusuf Yıldızoğlu": {
+      "arm": "Right",
+      "date": "February 12, 2022",
+      "result": "Win",
+      "score": "3-1"
+    }
+  },
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "titles": [
+    "East vs West 85kg Champion (2022)",
+    "Russian National Champion"
+  ],
+  "recent_opponents": [
+    "Rino Masic",
+    "Artur Makarov"
+  ],
+  "notable_victories": [
+    "Artur Makarov"
+  ],
+  "injuries": [],
+  "training_location": "Russia",
+  "coach": null,
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won 85kg category at East vs West 7 (2022)",
+    "Multiple Russian national championships"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Arsen Khachatryan",
+  "country": "Russia",
+  "age": 27,
+  "date_of_birth": "1997-02-10",
+  "professional_expirience_years": 10,
+  "height_cm": 185,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Hook"
+  ],
+  "titles": [
+    "2021 World Armwrestling Champion (95kg, Right Hand)",
+    "Russian National Champion (Multiple Years)"
+  ],
+  "recent_opponents": [
+    "Davit Dadikyan",
+    "Davit Samushia",
+    "Oleg Petrenko"
+  ],
+  "notable_victories": [
+    "Rustam Babayev",
+    "Taras Ivakin",
+    "Oleg Petrenko"
+  ],
+  "injuries": [],
+  "training_location": "Moscow, Russia",
+  "coach": null,
+  "preferred_start_position": "High Grip",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won World Armwrestling Championship in Turkey (2021)",
+    "Defeated Rustam Babayev in Russian Nationals finals",
+    "Competed in East vs West Armwrestling events (EvW 11, EvW 12, EvW 15)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Paul Linn": {
+      "arm": "Right",
+      "date": "June 21, 2025",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Andrei Sharkevich": {
+      "arm": "Right",
+      "date": "March 29, 2025",
+      "result": "Win",
+      "score": "3-1"
+    }
+  }
+}

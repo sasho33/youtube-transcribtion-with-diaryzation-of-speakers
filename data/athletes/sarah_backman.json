@@ -1,0 +1,96 @@
+{
+  "name": "Sarah Backman",
+  "country": "United States Of America",
+  "age": 33,
+  "date_of_birth": "1991-12-13",
+  "professional_expirience_years": 15,
+  "weight_kg": 80.0,
+  "height_cm": 174.0,
+  "occupation": "Real Estate Broker",
+  "bicep_cm": 36.0,
+  "forearm_cm": 34.0,
+  "wrist_cm": 17.0,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Speed Dominance"
+  ],
+  "titles": [
+    "9x World Armwrestling Champion",
+    "11x European Armwrestling Champion",
+    "WAF World Champion (Multiple Categories)",
+    "Zloty Tur Champion"
+  ],
+  "recent_opponents": [
+    "Irina Makeeva",
+    "Gabriela Vasconcelos",
+    "Egle Vaitkute"
+  ],
+  "notable_victories": [
+    "Heidi Andersson",
+    "Gabriela Vasconcelos",
+    "Svetlana Tsvetkova"
+  ],
+  "injuries": [
+    {
+      "type": "Shoulder Injury",
+      "arm": "Right",
+      "date": "2022-05-01",
+      "status": "Recovered"
+    }
+  ],
+  "training_location": "Stockholm, Sweden",
+  "coach": "Lars Backman (Father)",
+  "preferred_start_position": "High Hand Toproll",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Became youngest female world armwrestling champion at age 16 (2008)",
+    "First female armwrestler featured in East vs West supermatches",
+    "Holds record for most European championship titles in women's division",
+    "Transitioned to mixed martial arts while maintaining elite armwrestling career"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 1,
+      "losses": 3
+    },
+    "left": {
+      "wins": 1,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Jocelyne Brisson": {
+      "arm": "Right",
+      "date": "March 29, 2025",
+      "result": "Lost",
+      "score": "3-0"
+    },
+    "Egle Vaitkute": {
+      "arm": "Right",
+      "date": "November 11, 2023",
+      "result": "Lost",
+      "score": "5-0"
+    },
+    "İrina Drieva": {
+      "arm": "Right",
+      "date": "June 12, 2021",
+      "result": "Win",
+      "score": "4-1"
+    },
+    "Gabriela Vasconcelos": {
+      "arm": "Right",
+      "date": "April 2, 2022",
+      "result": "Lost",
+      "score": "4-0"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Ömer Kozakoğlu",
+  "country": "Turkey",
+  "age": 22,
+  "date_of_birth": "2002-08-15",
+  "professional_expirience_years": 10,
+  "weight_kg": 77.0,
+  "height_cm": 192.0,
+  "occupation": null,
+  "bicep_cm": 44.0,
+  "forearm_cm": 41.0,
+  "wrist_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Speed-focused"
+  ],
+  "titles": [
+    "2022 World Armwrestling Champion (80kg Right)",
+    "2019 World Armwrestling Champion (80kg Right)",
+    "European Armwrestling Champion (Multiple)"
+  ],
+  "recent_opponents": [
+    "Davit Arabuli",
+    "Daniel Procopciuc",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Arif Ertem",
+    "Kydyrgali Ongarbaev",
+    "Sasho Andreev"
+  ],
+  "injuries": [],
+  "training_location": "Istanbul, Turkey",
+  "coach": null,
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Won back-to-back World Armwrestling Championships (2019 & 2022)",
+    "Competed in East vs West Armwrestling events",
+    "Known for explosive pulling style and technical proficiency"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Artur Makarov": {
+      "arm": "Right",
+      "date": "November 2, 2024",
+      "result": "Lost",
+      "score": "4-0"
+    }
+  }
+}

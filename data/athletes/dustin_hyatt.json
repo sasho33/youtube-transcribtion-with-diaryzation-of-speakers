@@ -1,0 +1,65 @@
+{
+  "name": "Dustin Hyatt",
+  "country": "USA",
+  "age": 28,
+  "date_of_birth": null,
+  "professional_expirience_years": 8,
+  "height_cm": 185,
+  "weight_kg": 102,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Toproll",
+    "Explosive Starter"
+  ],
+  "titles": [
+    "2023 USA National Armwrestling Champion (105kg right hand)"
+  ],
+  "recent_opponents": [
+    "Paul Linn",
+    "Irakli Zirakashvili",
+    "Davit Samushia"
+  ],
+  "notable_victories": [
+    "Corey West",
+    "Chance Shaw"
+  ],
+  "injuries": [],
+  "training_location": "Arm Farm, Texas",
+  "coach": "Arm Farm Team",
+  "preferred_start_position": null,
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Winning 105kg right-hand national title at 2023 USA Armwrestling Nationals",
+    "Featured supermatch competitor at King of the Table 5 and East vs West 7-8",
+    "Known for explosive starting power and technical toproll game"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Thomas Manghi": {
+      "arm": "Right",
+      "date": "August 26, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

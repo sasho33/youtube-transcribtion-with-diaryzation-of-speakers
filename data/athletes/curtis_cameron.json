@@ -1,0 +1,67 @@
+{
+  "name": "Curtis Cameron",
+   "country": "Canada",
+  "nickname": "pork chop",
+  "age": 39,
+  "date_of_birth": "1986-01-01",
+  "professional_expirience_years": 15,
+  "weight_kg": 115.0,
+  "height_cm": 175.0,
+  "occupation": null,
+  "bicep_cm": 51.0,
+  "forearm_cm": 46.0,
+  "wrist_cm": 23.0,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Left",
+  "pulling_style": [
+    "Toproll",
+    "Speed-focused"
+  ],
+  "titles": [
+    "2023 Canadian National Armwrestling Champion (70kg Left)",
+    "2023 Alberta Provincial Champion"
+  ],
+  "recent_opponents": [
+    "Kydyrgali Ongarbaev",
+    "Arif Ertem"
+  ],
+  "notable_victories": [
+    "Jake Jones"
+  ],
+  "injuries": [],
+  "training_location": "Calgary, Alberta, Canada",
+  "coach": "Ryan Bowen",
+  "preferred_start_position": "Center table",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "Competed in East vs West 13 (March 2024) against Kydyrgali Ongarbaev",
+    "Competed in East vs West 12 (November 2023) against Arif Ertem",
+    "Won Canadian Nationals in 70kg left-hand division (2023)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Zurab Tavberidze": {
+      "arm": "Right",
+      "date": "January 21, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}

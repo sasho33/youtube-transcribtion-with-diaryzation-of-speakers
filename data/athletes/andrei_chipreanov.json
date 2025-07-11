@@ -1,0 +1,72 @@
+{
+  "name": "Andrei Chipreanov",
+  "country": "Moldova",
+  "age": 28,
+  "date_of_birth": "1996-08-10",
+  "professional_expirience_years": 12,
+  "height_cm": 180,
+  "weight_kg": 95,
+  "bicep_cm": null,
+  "forearm_cm": null,
+  "hand_size_cm": null,
+  "wingspan_cm": null,
+  "grip_strength_kg": null,
+  "dominant_arm": "Right",
+  "pulling_style": [
+    "Hook",
+    "Toproll",
+    "Side Pressure"
+  ],
+  "titles": [
+    "World Armwrestling Champion (95kg RH - 2019, 2021, 2022, 2023)",
+    "European Armwrestling Champion (95kg RH - 2023)",
+    "Moldovan National Champion (Multiple years)"
+  ],
+  "recent_opponents": [
+    "Arif Ertem",
+    "Davit Samushia",
+    "Raimonds Liepins"
+  ],
+  "notable_victories": [
+    "Artyom Morozov",
+    "Tobias Sporrong",
+    "Davit Samushia",
+    "Raimonds Liepins"
+  ],
+  "injuries": [],
+  "training_location": "Chișinău, Moldova",
+  "coach": "Ion Chipreanov (father)",
+  "preferred_start_position": "Center",
+  "strength_metrics": {
+    "bench_press_kg": null,
+    "curl_kg": null,
+    "wrist_curl_kg": null,
+    "backpressure_kg": null,
+    "sidepressure_kg": null
+  },
+  "career_highlights": [
+    "4-time consecutive World Armwrestling Champion (2019-2023)",
+    "European Armwrestling Champion 2023",
+    "Victory over Artyom Morozov at 2021 World Championships",
+    "Undefeated at 2022 World Armwrestling Championships",
+    "Multiple East vs West appearances (EvW 14, EvW 15)"
+  ],
+  "win_loss_record": {
+    "right": {
+      "wins": 0,
+      "losses": 1
+    },
+    "left": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "matches": {
+    "Lachlan Adair": {
+      "arm": "Right",
+      "date": "July 29, 2023",
+      "result": "Lost",
+      "score": "3-0"
+    }
+  }
+}
