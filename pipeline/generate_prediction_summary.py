@@ -7,8 +7,8 @@ import sys
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 from pipeline.config import TRANSCRIPT_DIR, EVW_EVENTS_FILE
 
-DATA_DIR = Path("data")
-DATA_DIR.mkdir(exist_ok=True)
+OUTPUT_PATH = Path("data/predictor_summary.json")
+OUTPUT_PATH.parent.mkdir(exist_ok=True)
 
 def load_event_results():
     with open(EVW_EVENTS_FILE, "r", encoding="utf-8") as f:
@@ -26,7 +26,7 @@ def normalize_name(name: str):
     return name.strip().lower()
 
 def evaluate_predictions(results):
-    predictor_stats = defaultdict(lambda: {"total": 0, "correct": 0})
+    predictor_stats = defaultdict(lambda: {"total_predictions": 0, "correct_predictions": 0})
 
     for event_dir in TRANSCRIPT_DIR.iterdir():
         identified_dir = event_dir / "Identified"
@@ -34,12 +34,12 @@ def evaluate_predictions(results):
             continue
 
         for json_file in identified_dir.glob("*.json"):
-            with open(json_file, "r", encoding="utf-8") as f:
-                try:
+            try:
+                with open(json_file, "r", encoding="utf-8") as f:
                     data = json.load(f)
-                except Exception as e:
-                    print(f"❌ Skipping invalid JSON file: {json_file}")
-                    continue
+            except Exception as e:
+                print(f"❌ Skipping invalid JSON file: {json_file}")
+                continue
 
             predictions = data.get("predictions", {})
             for speaker, blocks in predictions.items():
@@ -56,28 +56,22 @@ def evaluate_predictions(results):
                         actual = results.get(key)
 
                         if actual:
-                            predictor_stats[speaker]["total"] += 1
+                            predictor_stats[speaker]["total_predictions"] += 1
                             if normalize_name(predicted) == normalize_name(actual):
-                                predictor_stats[speaker]["correct"] += 1
+                                predictor_stats[speaker]["correct_predictions"] += 1
 
     return predictor_stats
 
-def save_predictor_stats(stats):
-    for speaker, counts in stats.items():
-        out_path = DATA_DIR / f"{speaker.replace(' ', '_')}.json"
-        with open(out_path, "w", encoding="utf-8") as f:
-            json.dump({
-                "predictor": speaker,
-                "total_predictions": counts["total"],
-                "correct_predictions": counts["correct"]
-            }, f, indent=2, ensure_ascii=False)
-        print(f"✅ Saved summary for {speaker} → {out_path.name}")
+def save_summary(stats: dict):
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+        json.dump(stats, f, indent=2, ensure_ascii=False)
+    print(f"✅ Saved summary to: {OUTPUT_PATH}")
 
 if __name__ == "__main__":
     print("📥 Loading event results...")
     result_map = load_event_results()
     print("🔍 Evaluating predictions...")
     stats = evaluate_predictions(result_map)
-    print("📤 Saving summaries...")
-    save_predictor_stats(stats)
-    print("✅ All predictor summaries saved.")
+    print("📤 Saving summary...")
+    save_summary(stats)
+    print("🎉 Done.")
