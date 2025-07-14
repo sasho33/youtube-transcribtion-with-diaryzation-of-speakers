@@ -7,9 +7,8 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "November 09, 2022",
-  "predictions": [
-    {
-      "speaker": "Georgii Dzeranov",
+  "predictions": {
+    "Georgii Dzeranov": {
       "self_predictions": [
         {
           "match": [
@@ -19,7 +18,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Georgii Dzeranov",
-          "prediction_summary": "Georgii thinks he has a better chance against Sergey than Wagner Bortolato due to experience and weight difference."
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks he has a better chance against Sergey than Wagner Bortolato due to experience and weight difference.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Sergey Kalinichenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ],
       "third_party_predictions": [
@@ -31,7 +45,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Evgeny Prudnik",
-          "prediction_summary": "Georgii supports Prudnik but acknowledges Devon's endurance and king move could be decisive."
+          "predicted_score": null,
+          "prediction_summary": "Georgii supports Prudnik but acknowledges Devon's endurance and king move could be decisive.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -41,7 +70,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Dave Chaffee",
-          "prediction_summary": "Georgii respects Chaffee's experience and versatility."
+          "predicted_score": null,
+          "prediction_summary": "Georgii respects Chaffee's experience and versatility.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -51,7 +95,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Oleg Petrenko",
-          "prediction_summary": "Georgii cheers for John but thinks Petrenko's youth will give him the edge."
+          "predicted_score": null,
+          "prediction_summary": "Georgii cheers for John but thinks Petrenko's youth will give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -61,7 +120,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Artyom Morozov",
-          "prediction_summary": "Georgii believes Morozov will win due to his strength and form."
+          "predicted_score": null,
+          "prediction_summary": "Georgii believes Morozov will win due to his strength and form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Revaz Lutidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -71,7 +145,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Irakli Gamtenadze",
-          "prediction_summary": "Georgii thinks Gamtenadze will win."
+          "predicted_score": null,
+          "prediction_summary": "Georgii thinks Gamtenadze will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Gamtenadze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -81,7 +170,22 @@
           "arm": "Left",
           "event": "East vs West 5",
           "predicted_winner": "Oleg Petrenko",
-          "prediction_summary": "Georgii predicts Petrenko will win 5-0."
+          "predicted_score": "5-0",
+          "prediction_summary": "Georgii predicts Petrenko will win 5-0.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -91,12 +195,26 @@
           "arm": "Left",
           "event": "East vs West 5",
           "predicted_winner": "Wagner Bortolato",
-          "prediction_summary": "Georgii is unsure due to Bortolato's weight and experience but hopes to win if not intimidated."
+          "predicted_score": null,
+          "prediction_summary": "Georgii is unsure due to Bortolato's weight and experience but hopes to win if not intimidated.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Wagner Bortolato": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ]
     },
-    {
-      "speaker": "Sergey Kalinichenko",
+    "Sergey Kalinichenko": {
       "self_predictions": [
         {
           "match": [
@@ -106,7 +224,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Sergey Kalinichenko",
-          "prediction_summary": "Sergey is confident in his training and dedication, believing he will win."
+          "predicted_score": null,
+          "prediction_summary": "Sergey is confident in his training and dedication, believing he will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Sergey Kalinichenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ],
       "third_party_predictions": [
@@ -118,7 +251,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Devon Larratt",
-          "prediction_summary": "Sergey fears Prudnik may lose due to Devon's strength and positioning."
+          "predicted_score": null,
+          "prediction_summary": "Sergey fears Prudnik may lose due to Devon's strength and positioning.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -128,7 +276,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Dave Chaffee",
-          "prediction_summary": "Sergey thinks Chaffee is the closest to beating Levan and is progressing well."
+          "predicted_score": null,
+          "prediction_summary": "Sergey thinks Chaffee is the closest to beating Levan and is progressing well.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -138,7 +301,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Daniel Procopciuc",
-          "prediction_summary": "Sergey believes Daniel will win if he gains weight to reduce the gap."
+          "predicted_score": null,
+          "prediction_summary": "Sergey believes Daniel will win if he gains weight to reduce the gap.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Daniel Procopciuc": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -148,7 +326,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Bozhidar Simeonov",
-          "prediction_summary": "Sergey thinks Bozhidar will win due to his recent training improvements."
+          "predicted_score": null,
+          "prediction_summary": "Sergey thinks Bozhidar will win due to his recent training improvements.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Bozhidar Simeonov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -158,7 +351,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Irakli Gamtenadze",
-          "prediction_summary": "Sergey predicts Gamtenadze will win."
+          "predicted_score": null,
+          "prediction_summary": "Sergey predicts Gamtenadze will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Gamtenadze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -168,7 +376,22 @@
           "arm": "Left",
           "event": "East vs West 5",
           "predicted_winner": "Oleg Petrenko",
-          "prediction_summary": "Sergey thinks Petrenko will win."
+          "predicted_score": null,
+          "prediction_summary": "Sergey thinks Petrenko will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -178,7 +401,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Mindaugas Tarasaitis",
-          "prediction_summary": "Sergey is unsure but leans towards Mindaugas."
+          "predicted_score": null,
+          "prediction_summary": "Sergey is unsure but leans towards Mindaugas.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Justin Bishop": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -188,7 +426,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Matt Mask",
-          "prediction_summary": "Sergey thinks Matt Mask will win."
+          "predicted_score": null,
+          "prediction_summary": "Sergey thinks Matt Mask will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -198,12 +451,27 @@
           "arm": "Left",
           "event": "East vs West 5",
           "predicted_winner": "Artyom Morozov",
-          "prediction_summary": "Sergey believes Morozov's left arm is stronger."
+          "predicted_score": null,
+          "prediction_summary": "Sergey believes Morozov's left arm is stronger.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -213,7 +481,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "John Brzenk",
-          "prediction_summary": "Engin believes John will find a way to control Petrenko's hand and win."
+          "predicted_score": null,
+          "prediction_summary": "Engin believes John will find a way to control Petrenko's hand and win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -223,7 +506,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Mindaugas Tarasaitis",
-          "prediction_summary": "Engin loves Mindaugas and thinks he will win."
+          "predicted_score": null,
+          "prediction_summary": "Engin loves Mindaugas and thinks he will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Justin Bishop": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -233,7 +531,22 @@
           "arm": "Left",
           "event": "East vs West 5",
           "predicted_winner": "Wagner Bortolato",
-          "prediction_summary": "Engin thinks Wagner will overpower Georgii due to his size and power."
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Wagner will overpower Georgii due to his size and power.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Wagner Bortolato": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -243,7 +556,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Paul Linn",
-          "prediction_summary": "Engin wants Paul to win but thinks it's a close match."
+          "predicted_score": null,
+          "prediction_summary": "Engin wants Paul to win but thinks it's a close match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Gamtenadze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -253,7 +581,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Bozhidar Simeonov",
-          "prediction_summary": "Engin thinks Bozhidar will win but acknowledges Adam's potential."
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Bozhidar will win but acknowledges Adam's potential.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Bozhidar Simeonov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -263,7 +606,22 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Sandris Sedis",
-          "prediction_summary": "Engin is unsure about Matt's current form and leans towards Sandris."
+          "predicted_score": null,
+          "prediction_summary": "Engin is unsure about Matt's current form and leans towards Sandris.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -273,9 +631,24 @@
           "arm": "Right",
           "event": "East vs West 5",
           "predicted_winner": "Cobra Rhodes",
-          "prediction_summary": "Engin thinks Cobra will win if he's in good shape."
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Cobra will win if he's in good shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Haydar Gildil": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Cobra Rhodes": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ]
     }
-  ]
+  }
 }

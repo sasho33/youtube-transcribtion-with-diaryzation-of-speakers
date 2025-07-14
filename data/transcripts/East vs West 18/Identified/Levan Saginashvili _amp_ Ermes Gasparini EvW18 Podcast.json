@@ -6,9 +6,8 @@
     "SPEAKER_07": "Engin Terzi"
   },
   "date": "June 06, 2025",
-  "predictions": [
-    {
-      "speaker": "Levan Saginashvili",
+  "predictions": {
+    "Levan Saginashvili": {
       "self_predictions": [
         {
           "match": [
@@ -21,13 +20,24 @@
           "predicted_score": "6-0",
           "prediction_summary": "Levan believes he will win decisively, stating Ermes has no chance unless unforeseen circumstances occur.",
           "predicted_duration": "Short",
-          "style_conflict": "Levan expects to dominate with his strength and technique."
+          "style_conflict": "Levan expects to dominate with his strength and technique.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Unmatched",
+              "health": "Good",
+              "previous_match_summary": "Dominant in all recent matches."
+            },
+            "Ermes Gasparini": {
+              "strength": "Strong but not enough",
+              "health": "Good",
+              "previous_match_summary": "Improved but still not at Levan's level."
+            }
+          }
         }
       ],
       "third_party_predictions": []
     },
-    {
-      "speaker": "Ermes Gasparini",
+    "Ermes Gasparini": {
       "self_predictions": [
         {
           "match": [
@@ -40,13 +50,24 @@
           "predicted_score": null,
           "prediction_summary": "Ermes believes he has improved significantly and can win, especially if the match goes long.",
           "predicted_duration": "Long",
-          "style_conflict": "Ermes plans to use his improved wrist strength and endurance to challenge Levan."
+          "style_conflict": "Ermes plans to use his improved wrist strength and endurance to challenge Levan.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Very strong in wrist and pronation",
+              "health": "Good",
+              "previous_match_summary": "Significant improvement shown in recent matches."
+            },
+            "Levan Saginashvili": {
+              "strength": "Dominant but can tire",
+              "health": "Good but past issues with oxygen and weight",
+              "previous_match_summary": "Struggles in long matches."
+            }
+          }
         }
       ],
       "third_party_predictions": []
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -76,5 +97,5 @@
         }
       ]
     }
-  ]
+  }
 }

@@ -3,220 +3,224 @@
     "SPEAKER_00": "Engin Terzi"
   },
   "date": "March 26, 2025",
-  "self_predictions": [],
-  "third_party_predictions": [
-    {
-      "match": [
-        "Devon Larratt",
-        "Corey West"
-      ],
-      "arm": "Left",
-      "event": "East vs West 17",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "I don't think it will be an easy match. I won't be surprised if it will be a very, very tough one.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Devon Larratt": {
-          "strength": "Devon said he plans to reach 330 pounds. Possible. 330 pounds is 150 kilo for his height.",
-          "health": null,
-          "previous_match_summary": null
+  "predictions": {
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "I don't think it will be an easy match. I won't be surprised if it will be a very, very tough one.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Devon said he plans to reach 330 pounds. Possible. 330 pounds is 150 kilo for his height.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Corey West": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
-        "Corey West": {
-          "strength": null,
-          "health": null,
-          "previous_match_summary": null
-        }
-      }
-    },
-    {
-      "match": [
-        "Georgi Tsvetkov",
-        "Dave Chaffee"
-      ],
-      "arm": "Right",
-      "event": "East vs West 17",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "I would say that Georgi would be favorite if Dave Chaffee wasn't healthy, but Dave says that he's not the same guy that we have seen. We had seen, like in last a few years, he said he's healthy now.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Dave Chaffee": {
-          "strength": null,
-          "health": "Dave says that he's healthy now.",
-          "previous_match_summary": "Not the same guy that we have seen in the last few years."
-        }
-      }
-    },
-    {
-      "match": [
-        "John Brzenk",
-        "Yoshinobu Kanai"
-      ],
-      "arm": "Right",
-      "event": "East vs West 17",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "John versus Yoshi is very close match. Both has chance to win.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "John Brzenk": {
-          "strength": null,
-          "health": null,
-          "previous_match_summary": "He's 60 years old, and I have witnessed his prime, and to me, he will always be the gold."
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "I would say that Georgi would be favorite if Dave Chaffee wasn't healthy, but Dave says that he's not the same guy that we have seen. We had seen, like in last a few years, he said he's healthy now.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": null,
+              "health": "Dave says that he's healthy now.",
+              "previous_match_summary": "Not the same guy that we have seen in the last few years."
+            }
+          }
         },
-        "Yoshinobu Kanai": {
-          "strength": "He's another legend.",
-          "health": null,
-          "previous_match_summary": "He just came out of nowhere and suddenly gave the toughest match to Todd Hutchings."
-        }
-      }
-    },
-    {
-      "match": [
-        "Mindaugas Tarasaitis",
-        "Janis Amolins"
-      ],
-      "arm": "Right",
-      "event": "East vs West 17",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "I can't wait for like all of them. But Janis versus Mindaugas...",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {}
-    },
-    {
-      "match": [
-        "Matt Mask",
-        "Kydyrgali Ongarbaev"
-      ],
-      "arm": "Right",
-      "event": "East vs West 17",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Ongarbaev is pulling Matt Mask, as you know. This Saturday.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {}
-    },
-    {
-      "match": [
-        "Jocelyne Brisson",
-        "Sarah Bäckman"
-      ],
-      "arm": "Right",
-      "event": "East vs West 17",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "We have Sarah vs. Jocelyne.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {}
-    },
-    {
-      "match": [
-        "Evgeny Prudnik",
-        "Kody Merritt"
-      ],
-      "arm": "Left",
-      "event": "East vs West 17",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Prudnik versus Cody Merritt, yeah. It's incredible also, yeah.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {}
-    },
-    {
-      "match": [
-        "Mindaugas Tarasaitis",
-        "Hunter Noffz"
-      ],
-      "arm": "Left",
-      "event": "East vs West 17",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "We have Hunter vs. Mindaugas left arm.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {}
-    },
-    {
-      "match": [
-        "Hunter Noffz",
-        "Valen Low"
-      ],
-      "arm": "Right",
-      "event": "East vs West 17",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Hunter vs. Wallen with right arm.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {}
-    },
-    {
-      "match": [
-        "Joseph Meranto",
-        "Cody Wood"
-      ],
-      "arm": "Right",
-      "event": "East vs West 17",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "We have Cody versus Joseph.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {}
-    },
-    {
-      "match": [
-        "Craig Tullier",
-        "John Therrien"
-      ],
-      "arm": "Right",
-      "event": "East vs West 17",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Craig versus John, I don't know my friend. Craig is a legend. He's a very dangerous guy. But people also talk about John very highly and so I'm not sure about that either.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Craig Tullier": {
-          "strength": "He's a legend. He's a very dangerous guy.",
-          "health": null,
-          "previous_match_summary": null
+        {
+          "match": [
+            "John Brzenk",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "John versus Yoshi is very close match. Both has chance to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "He's 60 years old, and I have witnessed his prime, and to me, he will always be the gold."
+            },
+            "Yoshinobu Kanai": {
+              "strength": "He's another legend.",
+              "health": null,
+              "previous_match_summary": "He just came out of nowhere and suddenly gave the toughest match to Todd Hutchings."
+            }
+          }
         },
-        "John Therrien": {
-          "strength": null,
-          "health": null,
-          "previous_match_summary": "People talk about John very highly."
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Janis Amolins"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "I can't wait for like all of them. But Janis versus Mindaugas...",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Ongarbaev is pulling Matt Mask, as you know. This Saturday.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Jocelyne Brisson",
+            "Sarah Bäckman"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "We have Sarah vs. Jocelyne.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Prudnik versus Cody Merritt, yeah. It's incredible also, yeah.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Hunter Noffz"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "We have Hunter vs. Mindaugas left arm.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Hunter Noffz",
+            "Valen Low"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Hunter vs. Wallen with right arm.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Joseph Meranto",
+            "Cody Wood"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "We have Cody versus Joseph.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Craig Tullier",
+            "John Therrien"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Craig versus John, I don't know my friend. Craig is a legend. He's a very dangerous guy. But people also talk about John very highly and so I'm not sure about that either.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Craig Tullier": {
+              "strength": "He's a legend. He's a very dangerous guy.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "John Therrien": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "People talk about John very highly."
+            }
+          }
+        },
+        {
+          "match": [
+            "Arsen Khachatryan",
+            "Andrei Sharkevich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": null,
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arsen Khachatryan": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Arsen is not motivated to come back."
+            }
+          }
         }
-      }
-    },
-    {
-      "match": [
-        "Arsen Khachatryan",
-        "Andrei Sharkevich"
-      ],
-      "arm": "Right",
-      "event": "East vs West 17",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": null,
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Arsen Khachatryan": {
-          "strength": null,
-          "health": null,
-          "previous_match_summary": "Arsen is not motivated to come back."
-        }
-      }
+      ]
     }
-  ]
+  }
 }

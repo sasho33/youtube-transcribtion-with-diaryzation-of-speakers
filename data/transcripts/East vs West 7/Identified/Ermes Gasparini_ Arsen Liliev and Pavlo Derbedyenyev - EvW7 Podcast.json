@@ -7,9 +7,8 @@
     "SPEAKER_04": "Ermes Gasparini"
   },
   "date": "April 18, 2023",
-  "predictions": [
-    {
-      "speaker": "Arsen Liliev",
+  "predictions": {
+    "Arsen Liliev": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -214,8 +213,7 @@
         }
       ]
     },
-    {
-      "speaker": "Pavlo Derbedyenyev",
+    "Pavlo Derbedyenyev": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -320,8 +318,7 @@
         }
       ]
     },
-    {
-      "speaker": "Ermes Gasparini",
+    "Ermes Gasparini": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -426,5 +423,5 @@
         }
       ]
     }
-  ]
+  }
 }

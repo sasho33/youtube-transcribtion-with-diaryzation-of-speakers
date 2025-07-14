@@ -7,9 +7,8 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "December 27, 2023",
-  "predictions": [
-    {
-      "athlete": "Mindaugas Tarasaitis",
+  "predictions": {
+    "Mindaugas Tarasaitis": {
       "self_predictions": [
         {
           "match": [
@@ -22,7 +21,24 @@
           "predicted_score": "55-45",
           "prediction_summary": "Feels confident with a slight edge due to improved form and strategy.",
           "predicted_duration": null,
-          "style_conflict": "Plan to use more shoulder and sideways pressure to outlast Daniel."
+          "style_conflict": "Plan to use more shoulder and sideways pressure to outlast Daniel.",
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Very strong, especially in hook positions.",
+              "health": "Generally healthy, trains continuously.",
+              "previous_match_summary": "Has a winning record against Mindaugas but matches are often close."
+            },
+            "Vala Ichqiti": {
+              "strength": "Strong and confident, allows opponents into positions.",
+              "health": null,
+              "previous_match_summary": "Impressive recent performances."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Strong left arm, good against hookers.",
+              "health": "Recovering from previous injuries.",
+              "previous_match_summary": "Lost to Sasho but has shown resilience."
+            }
+          }
         }
       ],
       "third_party_predictions": [
@@ -37,7 +53,8 @@
           "predicted_score": null,
           "prediction_summary": "Believes Aymeric is slightly favored due to recent performances.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -50,7 +67,8 @@
           "predicted_score": null,
           "prediction_summary": "Difficult to predict due to both athletes' strength and endurance.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -63,7 +81,8 @@
           "predicted_score": null,
           "prediction_summary": "Thinks Taynov will top roll Zurab in later rounds.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -76,7 +95,8 @@
           "predicted_score": null,
           "prediction_summary": "Technically superior and can handle Paul's drag.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -89,7 +109,8 @@
           "predicted_score": null,
           "prediction_summary": "Not impressed by Mask's recent performance.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -102,7 +123,8 @@
           "predicted_score": null,
           "prediction_summary": "Samushia's consistency and title defenses give him the edge.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -115,7 +137,8 @@
           "predicted_score": null,
           "prediction_summary": "Matyushenko's technical superiority and experience.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -128,7 +151,8 @@
           "predicted_score": null,
           "prediction_summary": "Stylistic advantage and power level.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -141,7 +165,8 @@
           "predicted_score": null,
           "prediction_summary": "Hopes Alizhan wins but sees it as a close match.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -154,7 +179,8 @@
           "predicted_score": null,
           "prediction_summary": "Thinks Todd's endurance and strength will prevail.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -167,29 +193,12 @@
           "predicted_score": null,
           "prediction_summary": "Morozov's smart table strategy and recent form.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         }
-      ],
-      "opinion_about_athletes": {
-        "Daniel Procopciuc": {
-          "strength": "Very strong, especially in hook positions.",
-          "health": "Generally healthy, trains continuously.",
-          "previous_match_summary": "Has a winning record against Mindaugas but matches are often close."
-        },
-        "Vala Ichqiti": {
-          "strength": "Strong and confident, allows opponents into positions.",
-          "health": null,
-          "previous_match_summary": "Impressive recent performances."
-        },
-        "Evgeny Prudnik": {
-          "strength": "Strong left arm, good against hookers.",
-          "health": "Recovering from previous injuries.",
-          "previous_match_summary": "Lost to Sasho but has shown resilience."
-        }
-      }
+      ]
     },
-    {
-      "athlete": "Daniel Procopciuc",
+    "Daniel Procopciuc": {
       "self_predictions": [
         {
           "match": [
@@ -202,7 +211,24 @@
           "predicted_score": null,
           "prediction_summary": "Believes it's a close match due to both athletes' progress.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Smart and technical, uncomfortable opponent.",
+              "health": "Good form, peaking at the right time.",
+              "previous_match_summary": "Close matches, often decided by small details."
+            },
+            "John Brzenk": {
+              "strength": "Legendary, still capable at his age.",
+              "health": null,
+              "previous_match_summary": "Inspired many, still competitive."
+            },
+            "Todd Hutchings": {
+              "strength": "Strong pronation and endurance.",
+              "health": null,
+              "previous_match_summary": "Difficult to beat in a slow hook."
+            }
+          }
         }
       ],
       "third_party_predictions": [
@@ -217,7 +243,8 @@
           "predicted_score": null,
           "prediction_summary": "Nurdalet's explosiveness gives him a chance.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -230,7 +257,8 @@
           "predicted_score": null,
           "prediction_summary": "If Oleg is in good form, he will win.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -243,7 +271,8 @@
           "predicted_score": null,
           "prediction_summary": "Zurab's injury may affect his performance.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -256,7 +285,8 @@
           "predicted_score": null,
           "prediction_summary": "Matt Mask is favored on right arm.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -269,7 +299,8 @@
           "predicted_score": null,
           "prediction_summary": "Paul is very strong and has improved technically.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -282,7 +313,8 @@
           "predicted_score": null,
           "prediction_summary": "Oleg's hand control is superior.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -295,7 +327,8 @@
           "predicted_score": null,
           "prediction_summary": "Samushia's consistency and title defenses.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -308,7 +341,8 @@
           "predicted_score": null,
           "prediction_summary": "If Prudnik is in good shape, he will win.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -321,7 +355,8 @@
           "predicted_score": null,
           "prediction_summary": "Todd's pronation and endurance will prevail.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -334,29 +369,12 @@
           "predicted_score": null,
           "prediction_summary": "Morozov's youth and progression.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         }
-      ],
-      "opinion_about_athletes": {
-        "Mindaugas Tarasaitis": {
-          "strength": "Smart and technical, uncomfortable opponent.",
-          "health": "Good form, peaking at the right time.",
-          "previous_match_summary": "Close matches, often decided by small details."
-        },
-        "John Brzenk": {
-          "strength": "Legendary, still capable at his age.",
-          "health": null,
-          "previous_match_summary": "Inspired many, still competitive."
-        },
-        "Todd Hutchings": {
-          "strength": "Strong pronation and endurance.",
-          "health": null,
-          "previous_match_summary": "Difficult to beat in a slow hook."
-        }
-      }
+      ]
     },
-    {
-      "athlete": "Yanis",
+    "Yanis": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -370,7 +388,8 @@
           "predicted_score": null,
           "prediction_summary": "Nurdalet's explosiveness vs Vala's strength.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -383,7 +402,8 @@
           "predicted_score": null,
           "prediction_summary": "Marcio's experience and technical advantage.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -396,7 +416,8 @@
           "predicted_score": null,
           "prediction_summary": "Taynov's recent form and explosiveness.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -409,7 +430,8 @@
           "predicted_score": null,
           "prediction_summary": "Matt Mask is a great arm wrestler on right arm.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -422,7 +444,8 @@
           "predicted_score": null,
           "prediction_summary": "Paul's strength and recent improvements.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -435,7 +458,8 @@
           "predicted_score": null,
           "prediction_summary": "Oleg's hand control is superior.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -448,7 +472,8 @@
           "predicted_score": null,
           "prediction_summary": "Maiorov's strength vs Samushia's consistency.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -461,7 +486,8 @@
           "predicted_score": null,
           "prediction_summary": "Matyushenko's experience and technical edge.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -474,7 +500,8 @@
           "predicted_score": null,
           "prediction_summary": "John's experience and ability to adapt.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -487,7 +514,8 @@
           "predicted_score": null,
           "prediction_summary": "Alizhan's endurance and versatility.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -500,7 +528,8 @@
           "predicted_score": null,
           "prediction_summary": "Todd's endurance and strength in long matches.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -513,26 +542,10 @@
           "predicted_score": null,
           "prediction_summary": "Morozov's tactical advantage and recent form.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         }
-      ],
-      "opinion_about_athletes": {
-        "Mindaugas Tarasaitis": {
-          "strength": "Improved arm strength, smart at the table.",
-          "health": null,
-          "previous_match_summary": "Uncomfortable opponent for many."
-        },
-        "Daniel Procopciuc": {
-          "strength": "Very strong, especially in hook positions.",
-          "health": null,
-          "previous_match_summary": "Consistent performer."
-        },
-        "John Brzenk": {
-          "strength": "Legendary, still competitive.",
-          "health": null,
-          "previous_match_summary": "Inspired generations."
-        }
-      }
+      ]
     }
-  ]
+  }
 }

@@ -5,9 +5,8 @@
     "SPEAKER_02": "Ermes Gasparini"
   },
   "date": "December 30, 2022",
-  "predictions": [
-    {
-      "speaker": "Ermes Gasparini",
+  "predictions": {
+    "Ermes Gasparini": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -262,8 +261,7 @@
         }
       ]
     },
-    {
-      "speaker": "Levan Saginashvili",
+    "Levan Saginashvili": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -343,8 +341,7 @@
         }
       ]
     },
-    {
-      "speaker": "Zaur Payzulaev",
+    "Zaur Payzulaev": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -399,5 +396,5 @@
         }
       ]
     }
-  ]
+  }
 }

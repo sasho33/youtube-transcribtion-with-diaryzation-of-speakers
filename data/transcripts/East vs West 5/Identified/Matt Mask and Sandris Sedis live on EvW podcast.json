@@ -5,183 +5,188 @@
     "SPEAKER_04": "Engin Terzi"
   },
   "date": "September 15, 2022",
-  "self_predictions": {
-    "Matt Mask": [
-      {
-        "match": [
-          "Matt Mask",
-          "Sandris Sedis"
-        ],
-        "arm": "Right",
-        "event": "East vs West 5",
-        "predicted_winner": "Matt Mask",
-        "predicted_score": "3-0",
-        "prediction_summary": "Matt believes he is in much better shape now compared to his previous performance and is confident in defeating Sandris.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs top roll",
-        "opinion_about_athletes": {
-          "Sandris Sedis": {
-            "strength": "Respects Sandris's progression and strength",
-            "health": null,
-            "previous_match_summary": "Noted Sandris's calm demeanor but expects intensity during the match."
+  "predictions": {
+    "Matt Mask": {
+      "self_predictions": [
+        {
+          "match": [
+            "Matt Mask",
+            "Sandris Sedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": "3-0",
+          "prediction_summary": "Matt believes he is in much better shape now compared to his previous performance and is confident in defeating Sandris.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs top roll",
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": "Respects Sandris's progression and strength",
+              "health": null,
+              "previous_match_summary": "Noted Sandris's calm demeanor but expects intensity during the match."
+            }
           }
         }
-      }
-    ],
-    "Sandris Sedis": [
-      {
-        "match": [
-          "Sandris Sedis",
-          "Matt Mask"
-        ],
-        "arm": "Right",
-        "event": "East vs West 5",
-        "predicted_winner": "Sandris Sedis",
-        "predicted_score": "3-0",
-        "prediction_summary": "Sandris acknowledges Matt's strength but believes his own current shape and preparation will lead him to victory.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs top roll",
-        "opinion_about_athletes": {
-          "Matt Mask": {
-            "strength": "Acknowledges Matt's improved strength and intensity",
-            "health": null,
-            "previous_match_summary": "Noted Matt's dominant performance against Krasimir."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Believes Ermes can win if he keeps his hand in front of his shoulder and transitions quickly.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs press",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong hand control and versatility",
+              "health": null,
+              "previous_match_summary": "Noted Ermes's ability to transition from top roll to press."
+            },
+            "Dave Chaffee": {
+              "strength": "Strong inside pressure",
+              "health": null,
+              "previous_match_summary": "Acknowledges Dave's strength but believes Ermes can outmaneuver him."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Morozov's progression and potential make him the favorite, though Revaz could surprise if he improves quickly.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs top roll",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Sees Morozov reaching a different level soon",
+              "health": null,
+              "previous_match_summary": "Noted Morozov's ability to pull both inside and outside."
+            },
+            "Revaz Lutidze": {
+              "strength": "Impressive comeback but needs more time",
+              "health": null,
+              "previous_match_summary": "Acknowledges Revaz's potential but questions his current level."
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Matt Mask": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Dave Chaffee"
-        ],
-        "arm": "Right",
-        "event": "East vs West 5",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": null,
-        "prediction_summary": "Believes Ermes can win if he keeps his hand in front of his shoulder and transitions quickly.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs press",
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Strong hand control and versatility",
-            "health": null,
-            "previous_match_summary": "Noted Ermes's ability to transition from top roll to press."
-          },
-          "Dave Chaffee": {
-            "strength": "Strong inside pressure",
-            "health": null,
-            "previous_match_summary": "Acknowledges Dave's strength but believes Ermes can outmaneuver him."
+      ]
+    },
+    "Sandris Sedis": {
+      "self_predictions": [
+        {
+          "match": [
+            "Sandris Sedis",
+            "Matt Mask"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Sandris Sedis",
+          "predicted_score": "3-0",
+          "prediction_summary": "Sandris acknowledges Matt's strength but believes his own current shape and preparation will lead him to victory.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs top roll",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Acknowledges Matt's improved strength and intensity",
+              "health": null,
+              "previous_match_summary": "Noted Matt's dominant performance against Krasimir."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Artyom Morozov",
-          "Revaz Lutidze"
-        ],
-        "arm": "Right",
-        "event": "East vs West 5",
-        "predicted_winner": "Artyom Morozov",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Morozov's progression and potential make him the favorite, though Revaz could surprise if he improves quickly.",
-        "predicted_duration": null,
-        "style_conflict": "Hook vs top roll",
-        "opinion_about_athletes": {
-          "Artyom Morozov": {
-            "strength": "Sees Morozov reaching a different level soon",
-            "health": null,
-            "previous_match_summary": "Noted Morozov's ability to pull both inside and outside."
-          },
-          "Revaz Lutidze": {
-            "strength": "Impressive comeback but needs more time",
-            "health": null,
-            "previous_match_summary": "Acknowledges Revaz's potential but questions his current level."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Agrees with Matt but notes Ermes is nervous as he hasn't pulled anyone like Jerry before.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs press",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong pronation and hand control",
+              "health": null,
+              "previous_match_summary": "Noted Ermes's nervousness about the match."
+            },
+            "Dave Chaffee": {
+              "strength": "Strong inside pressure",
+              "health": null,
+              "previous_match_summary": "Believes Ermes can take Jerry's hand easily."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Thinks it's a close match but gives Morozov the edge due to his recent performance against Dave.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs top roll",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Very strong hand and fingers",
+              "health": null,
+              "previous_match_summary": "Noted Morozov's dominance in recent matches."
+            },
+            "Revaz Lutidze": {
+              "strength": "Potential to improve quickly",
+              "health": null,
+              "previous_match_summary": "Acknowledges Revaz's potential but questions his current level."
+            }
           }
         }
-      }
-    ],
-    "Sandris Sedis": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Dave Chaffee"
-        ],
-        "arm": "Right",
-        "event": "East vs West 5",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": null,
-        "prediction_summary": "Agrees with Matt but notes Ermes is nervous as he hasn't pulled anyone like Jerry before.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs press",
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Strong pronation and hand control",
-            "health": null,
-            "previous_match_summary": "Noted Ermes's nervousness about the match."
-          },
-          "Dave Chaffee": {
-            "strength": "Strong inside pressure",
-            "health": null,
-            "previous_match_summary": "Believes Ermes can take Jerry's hand easily."
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Believes John will win if Petrenko is in the same shape as against Raimonds.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Has the tools to win",
+              "health": null,
+              "previous_match_summary": "Noted John's experience and skill."
+            },
+            "Oleg Petrenko": {
+              "strength": "Strong hand and fingers",
+              "health": null,
+              "previous_match_summary": "Believes Petrenko may have underestimated Raimonds."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Artyom Morozov",
-          "Revaz Lutidze"
-        ],
-        "arm": "Right",
-        "event": "East vs West 5",
-        "predicted_winner": "Artyom Morozov",
-        "predicted_score": null,
-        "prediction_summary": "Thinks it's a close match but gives Morozov the edge due to his recent performance against Dave.",
-        "predicted_duration": null,
-        "style_conflict": "Hook vs top roll",
-        "opinion_about_athletes": {
-          "Artyom Morozov": {
-            "strength": "Very strong hand and fingers",
-            "health": null,
-            "previous_match_summary": "Noted Morozov's dominance in recent matches."
-          },
-          "Revaz Lutidze": {
-            "strength": "Potential to improve quickly",
-            "health": null,
-            "previous_match_summary": "Acknowledges Revaz's potential but questions his current level."
-          }
-        }
-      }
-    ],
-    "Engin Terzi": [
-      {
-        "match": [
-          "John Brzenk",
-          "Oleg Petrenko"
-        ],
-        "arm": "Right",
-        "event": "East vs West 5",
-        "predicted_winner": "John Brzenk",
-        "predicted_score": null,
-        "prediction_summary": "Believes John will win if Petrenko is in the same shape as against Raimonds.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "John Brzenk": {
-            "strength": "Has the tools to win",
-            "health": null,
-            "previous_match_summary": "Noted John's experience and skill."
-          },
-          "Oleg Petrenko": {
-            "strength": "Strong hand and fingers",
-            "health": null,
-            "previous_match_summary": "Believes Petrenko may have underestimated Raimonds."
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

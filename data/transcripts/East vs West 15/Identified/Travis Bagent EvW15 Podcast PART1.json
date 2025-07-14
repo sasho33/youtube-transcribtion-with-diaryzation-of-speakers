@@ -5,611 +5,616 @@
     "SPEAKER_03": "Engin Terzi"
   },
   "date": "October 17, 2024",
-  "self_predictions": {},
-  "third_party_predictions": {
-    "Travis Bagent": [
-      {
-        "match": [
-          "Brigitta Ivánfi",
-          "Irina Gladkaya"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Not familiar enough with both athletes to make a prediction.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Brigitta Ivánfi": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "World champion armwrestler."
-          },
-          "Irina Gladkaya": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "World champion armwrestler."
+  "predictions": {
+    "Travis Bagent": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Brigitta Ivánfi",
+            "Irina Gladkaya"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Not familiar enough with both athletes to make a prediction.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Brigitta Ivánfi": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "World champion armwrestler."
+            },
+            "Irina Gladkaya": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "World champion armwrestler."
+            }
+          }
+        },
+        {
+          "match": [
+            "Danil Ustinov",
+            "Azat Srapyan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Not familiar with both athletes but thinks Hunter would have had a good chance if he hooked.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Danil Ustinov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Current 70kg world champion."
+            },
+            "Azat Srapyan": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "First-time world title winner."
+            }
+          }
+        },
+        {
+          "match": [
+            "Nugzari Chikadze",
+            "Oguzhan Koçak"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Excited about the match due to Nugzari's passion and Oguzhan's potential.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Nugzari Chikadze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Has beaten Rabidjian in Dubai."
+            },
+            "Oguzhan Koçak": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "World champion in multiple weight classes."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Ömer Kozakoğlu"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Artur looks dominant early but may have vulnerabilities in finishing.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Many times world champion, current East vs West World Champion."
+            },
+            "Ömer Kozakoğlu": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Current 80kg world champion."
+            }
+          }
+        },
+        {
+          "match": [
+            "Dimitrina Petrova",
+            "Carolina Pettersson"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Dimitrina Petrova",
+          "predicted_score": "3-0",
+          "prediction_summary": "Thinks Dimitrina could dominate but acknowledges Carolina's potential to surprise.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dimitrina Petrova": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "World champion."
+            },
+            "Carolina Pettersson": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "MVP of East vs West, wholesome competitor."
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Believes Betkili will win unless he gets injured, describes him as aggressive and dominant.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "High",
+              "health": null,
+              "previous_match_summary": "Aggressive and dominant, thinks he's the best in his country."
+            },
+            "Oleg Zhokh": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Known for awkward connections."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Thinks the match could be long and drawn out, acknowledges Kanai's resistance.",
+          "predicted_duration": "Long",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Has shown periods of being unbeatable but stumbles occasionally."
+            },
+            "Yoshinobu Kanai": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Known for resistance and slow starts."
+            }
+          }
+        },
+        {
+          "match": [
+            "Rino Mašić",
+            "Ibragim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "Believes Ibragim Sagov will win and continue winning, describes him as tough to beat.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rino Mašić": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Destined to be a title holder, crazy talented."
+            },
+            "Ibragim Sagov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Has had losses but is a bad dude."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "3-0",
+          "prediction_summary": "Thinks Vitalii will crush Georgii and is the number one contender to beat Levan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "High",
+              "health": null,
+              "previous_match_summary": "Bigger, stronger, more confident, more explosive."
+            },
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Biggest rising star in super heavyweights."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Georgii Tautiev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Believes Irakli is on an upward momentum and has been super impressive.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "On a winning streak, beat Prudnik."
+            },
+            "Georgii Tautiev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Tall, one of the best top rollers in the world."
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Michael Todd is at his strongest and will win, despite Genadi's versatility.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "High",
+              "health": null,
+              "previous_match_summary": "Physically and mentally strong, believes he can win the super heavyweight belt."
+            },
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Versatile with no weaknesses if 100%."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "49-51",
+          "prediction_summary": "Thinks the match will be very close, early rounds could be tough for Samushia.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Champ, shows up every time."
+            },
+            "Vladimir Maiorov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Danil Ustinov",
-          "Azat Srapyan"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Not familiar with both athletes but thinks Hunter would have had a good chance if he hooked.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Danil Ustinov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Current 70kg world champion."
-          },
-          "Azat Srapyan": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "First-time world title winner."
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Brigitta Ivánfi",
+            "Irina Gladkaya"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Not familiar enough with both athletes to make a prediction.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Brigitta Ivánfi": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "World champion armwrestler."
+            },
+            "Irina Gladkaya": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "World champion armwrestler."
+            }
+          }
+        },
+        {
+          "match": [
+            "Danil Ustinov",
+            "Azat Srapyan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Hunter would have had a good chance if he hooked.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Danil Ustinov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Current 70kg world champion."
+            },
+            "Azat Srapyan": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "First-time world title winner."
+            }
+          }
+        },
+        {
+          "match": [
+            "Nugzari Chikadze",
+            "Oguzhan Koçak"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Excited about the match due to Nugzari's passion and Oguzhan's potential.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Nugzari Chikadze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Has beaten Rabidjian in Dubai."
+            },
+            "Oguzhan Koçak": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "World champion in multiple weight classes."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Ömer Kozakoğlu"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Artur needs to hook or flash pin to win, otherwise may lose his wrist.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Many times world champion, current East vs West World Champion."
+            },
+            "Ömer Kozakoğlu": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Current 80kg world champion."
+            }
+          }
+        },
+        {
+          "match": [
+            "Dimitrina Petrova",
+            "Carolina Pettersson"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Thinks the match could be one-sided or highly competitive.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dimitrina Petrova": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "World champion."
+            },
+            "Carolina Pettersson": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "MVP of East vs West, wholesome competitor."
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Describes Betkili as aggressive but passive-aggressive in appearance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Aggressive and dominant."
+            },
+            "Oleg Zhokh": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Known for awkward connections."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Thinks the match could be long and drawn out, acknowledges Kanai's resistance.",
+          "predicted_duration": "Long",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Has shown periods of being unbeatable but stumbles occasionally."
+            },
+            "Yoshinobu Kanai": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Known for resistance and slow starts."
+            }
+          }
+        },
+        {
+          "match": [
+            "Rino Mašić",
+            "Ibragim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Believes Rino will gain experience from the match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rino Mašić": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Destined to be a title holder, crazy talented."
+            },
+            "Ibragim Sagov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Has had losses but is a bad dude."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Thinks Vitalii is favored but won't be surprised if Georgii wins.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Most explosive super heavyweight."
+            },
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Biggest rising star in super heavyweights."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Georgii Tautiev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Believes Irakli needs to dominate to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "On a winning streak, beat Prudnik."
+            },
+            "Georgii Tautiev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Tall, one of the best top rollers in the world."
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Thinks Michael Todd is at his strongest and this is the best match of the event.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "High",
+              "health": null,
+              "previous_match_summary": "Physically and mentally strong."
+            },
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Versatile with no weaknesses if 100%."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Thinks the match will be very close, early rounds could be tough for Samushia.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Champ, shows up every time."
+            },
+            "Vladimir Maiorov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Nugzari Chikadze",
-          "Oguzhan Koçak"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Excited about the match due to Nugzari's passion and Oguzhan's potential.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Nugzari Chikadze": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Has beaten Rabidjian in Dubai."
-          },
-          "Oguzhan Koçak": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "World champion in multiple weight classes."
-          }
-        }
-      },
-      {
-        "match": [
-          "Artur Makarov",
-          "Ömer Kozakoğlu"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Artur looks dominant early but may have vulnerabilities in finishing.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Artur Makarov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Many times world champion, current East vs West World Champion."
-          },
-          "Ömer Kozakoğlu": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Current 80kg world champion."
-          }
-        }
-      },
-      {
-        "match": [
-          "Dimitrina Petrova",
-          "Carolina Pettersson"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Dimitrina Petrova",
-        "predicted_score": "3-0",
-        "prediction_summary": "Thinks Dimitrina could dominate but acknowledges Carolina's potential to surprise.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Dimitrina Petrova": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "World champion."
-          },
-          "Carolina Pettersson": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "MVP of East vs West, wholesome competitor."
-          }
-        }
-      },
-      {
-        "match": [
-          "Betkili Oniani",
-          "Oleg Zhokh"
-        ],
-        "arm": "Left",
-        "event": "East vs West 15",
-        "predicted_winner": "Betkili Oniani",
-        "predicted_score": null,
-        "prediction_summary": "Believes Betkili will win unless he gets injured, describes him as aggressive and dominant.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Betkili Oniani": {
-            "strength": "High",
-            "health": null,
-            "previous_match_summary": "Aggressive and dominant, thinks he's the best in his country."
-          },
-          "Oleg Zhokh": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Known for awkward connections."
-          }
-        }
-      },
-      {
-        "match": [
-          "Todd Hutchings",
-          "Yoshinobu Kanai"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Thinks the match could be long and drawn out, acknowledges Kanai's resistance.",
-        "predicted_duration": "Long",
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Todd Hutchings": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Has shown periods of being unbeatable but stumbles occasionally."
-          },
-          "Yoshinobu Kanai": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Known for resistance and slow starts."
-          }
-        }
-      },
-      {
-        "match": [
-          "Rino Mašić",
-          "Ibragim Sagov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Ibragim Sagov",
-        "predicted_score": null,
-        "prediction_summary": "Believes Ibragim Sagov will win and continue winning, describes him as tough to beat.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Rino Mašić": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Destined to be a title holder, crazy talented."
-          },
-          "Ibragim Sagov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Has had losses but is a bad dude."
-          }
-        }
-      },
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Georgii Dzeranov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Vitalii Laletin",
-        "predicted_score": "3-0",
-        "prediction_summary": "Thinks Vitalii will crush Georgii and is the number one contender to beat Levan.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "High",
-            "health": null,
-            "previous_match_summary": "Bigger, stronger, more confident, more explosive."
-          },
-          "Georgii Dzeranov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Biggest rising star in super heavyweights."
-          }
-        }
-      },
-      {
-        "match": [
-          "Irakli Zirakashvili",
-          "Georgii Tautiev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Irakli Zirakashvili",
-        "predicted_score": null,
-        "prediction_summary": "Believes Irakli is on an upward momentum and has been super impressive.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Irakli Zirakashvili": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "On a winning streak, beat Prudnik."
-          },
-          "Georgii Tautiev": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Tall, one of the best top rollers in the world."
-          }
-        }
-      },
-      {
-        "match": [
-          "Michael Todd",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Michael Todd",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Michael Todd is at his strongest and will win, despite Genadi's versatility.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Michael Todd": {
-            "strength": "High",
-            "health": null,
-            "previous_match_summary": "Physically and mentally strong, believes he can win the super heavyweight belt."
-          },
-          "Genadi Kvikvinia": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Versatile with no weaknesses if 100%."
-          }
-        }
-      },
-      {
-        "match": [
-          "Davit Samushia",
-          "Vladimir Maiorov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": "49-51",
-        "prediction_summary": "Thinks the match will be very close, early rounds could be tough for Samushia.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Davit Samushia": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Champ, shows up every time."
-          },
-          "Vladimir Maiorov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      }
-    ],
-    "Engin Terzi": [
-      {
-        "match": [
-          "Brigitta Ivánfi",
-          "Irina Gladkaya"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Not familiar enough with both athletes to make a prediction.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Brigitta Ivánfi": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "World champion armwrestler."
-          },
-          "Irina Gladkaya": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "World champion armwrestler."
-          }
-        }
-      },
-      {
-        "match": [
-          "Danil Ustinov",
-          "Azat Srapyan"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Hunter would have had a good chance if he hooked.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Danil Ustinov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Current 70kg world champion."
-          },
-          "Azat Srapyan": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "First-time world title winner."
-          }
-        }
-      },
-      {
-        "match": [
-          "Nugzari Chikadze",
-          "Oguzhan Koçak"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Excited about the match due to Nugzari's passion and Oguzhan's potential.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Nugzari Chikadze": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Has beaten Rabidjian in Dubai."
-          },
-          "Oguzhan Koçak": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "World champion in multiple weight classes."
-          }
-        }
-      },
-      {
-        "match": [
-          "Artur Makarov",
-          "Ömer Kozakoğlu"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Artur needs to hook or flash pin to win, otherwise may lose his wrist.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Artur Makarov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Many times world champion, current East vs West World Champion."
-          },
-          "Ömer Kozakoğlu": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Current 80kg world champion."
-          }
-        }
-      },
-      {
-        "match": [
-          "Dimitrina Petrova",
-          "Carolina Pettersson"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Thinks the match could be one-sided or highly competitive.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Dimitrina Petrova": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "World champion."
-          },
-          "Carolina Pettersson": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "MVP of East vs West, wholesome competitor."
-          }
-        }
-      },
-      {
-        "match": [
-          "Betkili Oniani",
-          "Oleg Zhokh"
-        ],
-        "arm": "Left",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Describes Betkili as aggressive but passive-aggressive in appearance.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Betkili Oniani": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Aggressive and dominant."
-          },
-          "Oleg Zhokh": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Known for awkward connections."
-          }
-        }
-      },
-      {
-        "match": [
-          "Todd Hutchings",
-          "Yoshinobu Kanai"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Thinks the match could be long and drawn out, acknowledges Kanai's resistance.",
-        "predicted_duration": "Long",
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Todd Hutchings": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Has shown periods of being unbeatable but stumbles occasionally."
-          },
-          "Yoshinobu Kanai": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Known for resistance and slow starts."
-          }
-        }
-      },
-      {
-        "match": [
-          "Rino Mašić",
-          "Ibragim Sagov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Believes Rino will gain experience from the match.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Rino Mašić": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Destined to be a title holder, crazy talented."
-          },
-          "Ibragim Sagov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Has had losses but is a bad dude."
-          }
-        }
-      },
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Georgii Dzeranov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Thinks Vitalii is favored but won't be surprised if Georgii wins.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Most explosive super heavyweight."
-          },
-          "Georgii Dzeranov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Biggest rising star in super heavyweights."
-          }
-        }
-      },
-      {
-        "match": [
-          "Irakli Zirakashvili",
-          "Georgii Tautiev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Believes Irakli needs to dominate to win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Irakli Zirakashvili": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "On a winning streak, beat Prudnik."
-          },
-          "Georgii Tautiev": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Tall, one of the best top rollers in the world."
-          }
-        }
-      },
-      {
-        "match": [
-          "Michael Todd",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Thinks Michael Todd is at his strongest and this is the best match of the event.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Michael Todd": {
-            "strength": "High",
-            "health": null,
-            "previous_match_summary": "Physically and mentally strong."
-          },
-          "Genadi Kvikvinia": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Versatile with no weaknesses if 100%."
-          }
-        }
-      },
-      {
-        "match": [
-          "Davit Samushia",
-          "Vladimir Maiorov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Thinks the match will be very close, early rounds could be tough for Samushia.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Davit Samushia": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Champ, shows up every time."
-          },
-          "Vladimir Maiorov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

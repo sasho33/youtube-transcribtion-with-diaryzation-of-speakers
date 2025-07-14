@@ -5,9 +5,8 @@
     "SPEAKER_03": "Mindaugas"
   },
   "date": "May 24, 2025",
-  "predictions": [
-    {
-      "speaker": "Auden",
+  "predictions": {
+    "Auden": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -37,8 +36,7 @@
         }
       ]
     },
-    {
-      "speaker": "Ryan Bowen",
+    "Ryan Bowen": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -93,8 +91,7 @@
         }
       ]
     },
-    {
-      "speaker": "Mindaugas",
+    "Mindaugas": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -149,5 +146,5 @@
         }
       ]
     }
-  ]
+  }
 }

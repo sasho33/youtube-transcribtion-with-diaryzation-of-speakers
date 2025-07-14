@@ -5,256 +5,258 @@
     "SPEAKER_02": "Engin Terzi"
   },
   "date": "July 04, 2023",
-  "self_predictions": {
-    "Rino Mašić": [
-      {
-        "match": [
-          "Rino Mašić",
-          "Terence Opperman"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Rino Mašić",
-        "predicted_score": null,
-        "prediction_summary": "Rino believes he is the favorite due to his current form and versatility, but acknowledges Terence's experience and strength.",
-        "predicted_duration": null,
-        "style_conflict": "Versatile vs. Experienced",
-        "opinion_about_athletes": {
-          "Terence Opperman": {
-            "strength": "Strong and experienced",
-            "health": "In good shape, no recent injuries",
-            "previous_match_summary": "Terence has a history of strong performances but has been away from international competitions for a while."
+  "predictions": {
+    "Rino Mašić": {
+      "self_predictions": [
+        {
+          "match": [
+            "Rino Mašić",
+            "Terence Opperman"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Rino Mašić",
+          "predicted_score": null,
+          "prediction_summary": "Rino believes he is the favorite due to his current form and versatility, but acknowledges Terence's experience and strength.",
+          "predicted_duration": null,
+          "style_conflict": "Versatile vs. Experienced",
+          "opinion_about_athletes": {
+            "Terence Opperman": {
+              "strength": "Strong and experienced",
+              "health": "In good shape, no recent injuries",
+              "previous_match_summary": "Terence has a history of strong performances but has been away from international competitions for a while."
+            }
           }
         }
-      }
-    ],
-    "Terence Opperman": [
-      {
-        "match": [
-          "Rino Mašić",
-          "Terence Opperman"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Terence Opperman",
-        "predicted_score": "3-0",
-        "prediction_summary": "Terence is confident in his preparation and experience, believing he can dominate Rino.",
-        "predicted_duration": null,
-        "style_conflict": "Experience vs. Youth",
-        "opinion_about_athletes": {
-          "Rino Mašić": {
-            "strength": "Strong and versatile",
-            "health": "Recovering from minor injuries",
-            "previous_match_summary": "Rino has been dominant in recent competitions but is relatively new to the international scene."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Rino believes Ermes has a better chance due to his versatility and ability to transition from top roll to press.",
+          "predicted_duration": null,
+          "style_conflict": "Top Roll vs. Flop Wrist Press",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong pronator and versatile",
+              "health": null,
+              "previous_match_summary": "Ermes has shown impressive performances, including against Levan."
+            },
+            "Jerry Cadorette": {
+              "strength": "Strong inside game",
+              "health": null,
+              "previous_match_summary": "Jerry is experienced but may struggle if Ermes controls the match."
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Rino favors Morozov due to his versatility and ability to switch styles during the match.",
+          "predicted_duration": null,
+          "style_conflict": "Versatile vs. Strong Inside",
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Strong inside game",
+              "health": null,
+              "previous_match_summary": "Gennady has shown endurance but may struggle with wrist control."
+            },
+            "Artyom Morozov": {
+              "strength": "Versatile and strong",
+              "health": null,
+              "previous_match_summary": "Morozov has shown ability to adapt and win from losing positions."
+            }
+          }
+        },
+        {
+          "match": [
+            "Wagner Bortolato",
+            "Ferit Osmanli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 8",
+          "predicted_winner": "Wagner Bortolato",
+          "predicted_score": null,
+          "prediction_summary": "Rino thinks Bortolato has a good chance if he can press through Farid's arm.",
+          "predicted_duration": null,
+          "style_conflict": "Press vs. Inside Game",
+          "opinion_about_athletes": {
+            "Wagner Bortolato": {
+              "strength": "Strong press",
+              "health": null,
+              "previous_match_summary": "Bortolato has shown strong performances but may not be at his peak."
+            },
+            "Ferit Osmanli": {
+              "strength": "Strong inside",
+              "health": null,
+              "previous_match_summary": "Farid is experienced but may struggle if Bortolato controls the center."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Pavlo Derbedyenyev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Sandris Sedis",
+          "predicted_score": null,
+          "prediction_summary": "Rino favors Sandris due to his versatility and ability to counter Pavlo's hook.",
+          "predicted_duration": null,
+          "style_conflict": "Versatile vs. Hook",
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": "Versatile and strong",
+              "health": null,
+              "previous_match_summary": "Sandris is undefeated at East vs West and has shown strong performances."
+            },
+            "Pavlo Derbedyenyev": {
+              "strength": "Strong hook",
+              "health": null,
+              "previous_match_summary": "Pavlo is explosive but may struggle with endurance."
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Rino Mašić": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Jerry Cadorette"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": null,
-        "prediction_summary": "Rino believes Ermes has a better chance due to his versatility and ability to transition from top roll to press.",
-        "predicted_duration": null,
-        "style_conflict": "Top Roll vs. Flop Wrist Press",
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Strong pronator and versatile",
-            "health": null,
-            "previous_match_summary": "Ermes has shown impressive performances, including against Levan."
-          },
-          "Jerry Cadorette": {
-            "strength": "Strong inside game",
-            "health": null,
-            "previous_match_summary": "Jerry is experienced but may struggle if Ermes controls the match."
+      ]
+    },
+    "Terence Opperman": {
+      "self_predictions": [
+        {
+          "match": [
+            "Rino Mašić",
+            "Terence Opperman"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Terence Opperman",
+          "predicted_score": "3-0",
+          "prediction_summary": "Terence is confident in his preparation and experience, believing he can dominate Rino.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs. Youth",
+          "opinion_about_athletes": {
+            "Rino Mašić": {
+              "strength": "Strong and versatile",
+              "health": "Recovering from minor injuries",
+              "previous_match_summary": "Rino has been dominant in recent competitions but is relatively new to the international scene."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Georgi Tsvetkov",
-          "Artyom Morozov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Artyom Morozov",
-        "predicted_score": null,
-        "prediction_summary": "Rino favors Morozov due to his versatility and ability to switch styles during the match.",
-        "predicted_duration": null,
-        "style_conflict": "Versatile vs. Strong Inside",
-        "opinion_about_athletes": {
-          "Georgi Tsvetkov": {
-            "strength": "Strong inside game",
-            "health": null,
-            "previous_match_summary": "Gennady has shown endurance but may struggle with wrist control."
-          },
-          "Artyom Morozov": {
-            "strength": "Versatile and strong",
-            "health": null,
-            "previous_match_summary": "Morozov has shown ability to adapt and win from losing positions."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Terence believes Jerry can tire out Ermes' pronator in a strap match.",
+          "predicted_duration": null,
+          "style_conflict": "Flop Wrist Press vs. Top Roll",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong pronator",
+              "health": null,
+              "previous_match_summary": "Ermes is versatile but may tire in longer matches."
+            },
+            "Jerry Cadorette": {
+              "strength": "Strong inside game",
+              "health": null,
+              "previous_match_summary": "Jerry is experienced and can dominate if the match stops."
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "Terence favors Gennady due to his experience and respect for his past performances.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs. Versatility",
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Strong and experienced",
+              "health": null,
+              "previous_match_summary": "Gennady has shown resilience and endurance."
+            },
+            "Artyom Morozov": {
+              "strength": "Versatile and strong",
+              "health": null,
+              "previous_match_summary": "Morozov is a rising star but may lack experience against Gennady."
+            }
+          }
+        },
+        {
+          "match": [
+            "Wagner Bortolato",
+            "Ferit Osmanli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 8",
+          "predicted_winner": "Ferit Osmanli",
+          "predicted_score": null,
+          "prediction_summary": "Terence thinks Farid is stronger and more experienced, giving him the edge.",
+          "predicted_duration": null,
+          "style_conflict": "Inside Game vs. Press",
+          "opinion_about_athletes": {
+            "Wagner Bortolato": {
+              "strength": "Strong press",
+              "health": null,
+              "previous_match_summary": "Bortolato is strong but may not be at his peak."
+            },
+            "Ferit Osmanli": {
+              "strength": "Strong inside",
+              "health": null,
+              "previous_match_summary": "Farid is experienced and has a strong inside game."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Pavlo Derbedyenyev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Sandris Sedis",
+          "predicted_score": null,
+          "prediction_summary": "Terence agrees with Rino that Sandris is the favorite due to his versatility.",
+          "predicted_duration": null,
+          "style_conflict": "Versatile vs. Hook",
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": "Versatile and strong",
+              "health": null,
+              "previous_match_summary": "Sandris has shown dominance in previous matches."
+            },
+            "Pavlo Derbedyenyev": {
+              "strength": "Explosive hook",
+              "health": null,
+              "previous_match_summary": "Pavlo is strong but may struggle with endurance."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Wagner Bortolato",
-          "Ferit Osmanli"
-        ],
-        "arm": "Left",
-        "event": "East vs West 8",
-        "predicted_winner": "Wagner Bortolato",
-        "predicted_score": null,
-        "prediction_summary": "Rino thinks Bortolato has a good chance if he can press through Farid's arm.",
-        "predicted_duration": null,
-        "style_conflict": "Press vs. Inside Game",
-        "opinion_about_athletes": {
-          "Wagner Bortolato": {
-            "strength": "Strong press",
-            "health": null,
-            "previous_match_summary": "Bortolato has shown strong performances but may not be at his peak."
-          },
-          "Ferit Osmanli": {
-            "strength": "Strong inside",
-            "health": null,
-            "previous_match_summary": "Farid is experienced but may struggle if Bortolato controls the center."
-          }
-        }
-      },
-      {
-        "match": [
-          "Sandris Sedis",
-          "Pavlo Derbedyenyev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Sandris Sedis",
-        "predicted_score": null,
-        "prediction_summary": "Rino favors Sandris due to his versatility and ability to counter Pavlo's hook.",
-        "predicted_duration": null,
-        "style_conflict": "Versatile vs. Hook",
-        "opinion_about_athletes": {
-          "Sandris Sedis": {
-            "strength": "Versatile and strong",
-            "health": null,
-            "previous_match_summary": "Sandris is undefeated at East vs West and has shown strong performances."
-          },
-          "Pavlo Derbedyenyev": {
-            "strength": "Strong hook",
-            "health": null,
-            "previous_match_summary": "Pavlo is explosive but may struggle with endurance."
-          }
-        }
-      }
-    ],
-    "Terence Opperman": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Jerry Cadorette"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Jerry Cadorette",
-        "predicted_score": null,
-        "prediction_summary": "Terence believes Jerry can tire out Ermes' pronator in a strap match.",
-        "predicted_duration": null,
-        "style_conflict": "Flop Wrist Press vs. Top Roll",
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Strong pronator",
-            "health": null,
-            "previous_match_summary": "Ermes is versatile but may tire in longer matches."
-          },
-          "Jerry Cadorette": {
-            "strength": "Strong inside game",
-            "health": null,
-            "previous_match_summary": "Jerry is experienced and can dominate if the match stops."
-          }
-        }
-      },
-      {
-        "match": [
-          "Georgi Tsvetkov",
-          "Artyom Morozov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Georgi Tsvetkov",
-        "predicted_score": null,
-        "prediction_summary": "Terence favors Gennady due to his experience and respect for his past performances.",
-        "predicted_duration": null,
-        "style_conflict": "Experience vs. Versatility",
-        "opinion_about_athletes": {
-          "Georgi Tsvetkov": {
-            "strength": "Strong and experienced",
-            "health": null,
-            "previous_match_summary": "Gennady has shown resilience and endurance."
-          },
-          "Artyom Morozov": {
-            "strength": "Versatile and strong",
-            "health": null,
-            "previous_match_summary": "Morozov is a rising star but may lack experience against Gennady."
-          }
-        }
-      },
-      {
-        "match": [
-          "Wagner Bortolato",
-          "Ferit Osmanli"
-        ],
-        "arm": "Left",
-        "event": "East vs West 8",
-        "predicted_winner": "Ferit Osmanli",
-        "predicted_score": null,
-        "prediction_summary": "Terence thinks Farid is stronger and more experienced, giving him the edge.",
-        "predicted_duration": null,
-        "style_conflict": "Inside Game vs. Press",
-        "opinion_about_athletes": {
-          "Wagner Bortolato": {
-            "strength": "Strong press",
-            "health": null,
-            "previous_match_summary": "Bortolato is strong but may not be at his peak."
-          },
-          "Ferit Osmanli": {
-            "strength": "Strong inside",
-            "health": null,
-            "previous_match_summary": "Farid is experienced and has a strong inside game."
-          }
-        }
-      },
-      {
-        "match": [
-          "Sandris Sedis",
-          "Pavlo Derbedyenyev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Sandris Sedis",
-        "predicted_score": null,
-        "prediction_summary": "Terence agrees with Rino that Sandris is the favorite due to his versatility.",
-        "predicted_duration": null,
-        "style_conflict": "Versatile vs. Hook",
-        "opinion_about_athletes": {
-          "Sandris Sedis": {
-            "strength": "Versatile and strong",
-            "health": null,
-            "previous_match_summary": "Sandris has shown dominance in previous matches."
-          },
-          "Pavlo Derbedyenyev": {
-            "strength": "Explosive hook",
-            "health": null,
-            "previous_match_summary": "Pavlo is strong but may struggle with endurance."
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

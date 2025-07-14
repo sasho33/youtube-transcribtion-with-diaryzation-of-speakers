@@ -7,9 +7,8 @@
     "SPEAKER_04": "Host (Engin Terzi)"
   },
   "date": "March 21, 2023",
-  "predictions": [
-    {
-      "speaker": "Levan Saginashvili",
+  "predictions": {
+    "Levan Saginashvili": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -264,5 +263,5 @@
         }
       ]
     }
-  ]
+  }
 }

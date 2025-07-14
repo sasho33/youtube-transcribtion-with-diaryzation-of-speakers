@@ -7,9 +7,8 @@
     "SPEAKER_01": "Michael Todd"
   },
   "date": "May 27, 2025",
-  "predictions": [
-    {
-      "speaker": "Matt Mask",
+  "predictions": {
+    "Matt Mask": {
       "self_predictions": [
         {
           "match": [
@@ -153,8 +152,7 @@
         }
       ]
     },
-    {
-      "speaker": "Irakli Zirakashvili",
+    "Irakli Zirakashvili": {
       "self_predictions": [
         {
           "match": [
@@ -273,5 +271,5 @@
         }
       ]
     }
-  ]
+  }
 }

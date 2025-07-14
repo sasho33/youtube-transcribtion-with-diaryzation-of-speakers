@@ -4,82 +4,86 @@
     "SPEAKER_01": "Robbie Karstendiak"
   },
   "date": "October 27, 2023",
-  "self_predictions": [],
-  "third_party_predictions": [
-    {
-      "match": [
-        "Devon Larratt",
-        "Denis Cyplenkov"
-      ],
-      "arm": "Right",
-      "event": "East vs West X",
-      "predicted_winner": "Devon Larratt",
-      "predicted_score": "3-0",
-      "prediction_summary": "Robbie predicts Devon will win 3-0 but thinks it might be tougher than people expect. He believes Devon's endurance and ability to tire Denis out will be key factors.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Devon Larratt": {
-          "strength": "High endurance, strategic",
-          "health": null,
-          "previous_match_summary": null
+  "predictions": {
+    "Robbie Karstendiak": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "3-0",
+          "prediction_summary": "Robbie predicts Devon will win 3-0 but thinks it might be tougher than people expect. He believes Devon's endurance and ability to tire Denis out will be key factors.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "High endurance, strategic",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Denis Cyplenkov": {
+              "strength": "Strong, good endurance",
+              "health": null,
+              "previous_match_summary": "Returning after a long break, improving"
+            }
+          }
         },
-        "Denis Cyplenkov": {
-          "strength": "Strong, good endurance",
-          "health": null,
-          "previous_match_summary": "Returning after a long break, improving"
-        }
-      }
-    },
-    {
-      "match": [
-        "Todd Hutchings",
-        "Kydyrgali Ongarbaev"
-      ],
-      "arm": "Right",
-      "event": "East vs West X",
-      "predicted_winner": "Kydyrgali Ongarbaev",
-      "predicted_score": "3-2",
-      "prediction_summary": "Robbie thinks Ongarbaev has the edge due to his technical skills, despite wanting Todd to win. He expects a war.",
-      "predicted_duration": null,
-      "style_conflict": "Technical vs horsepower",
-      "opinion_about_athletes": {
-        "Todd Hutchings": {
-          "strength": "Pure horsepower, strong side pressure",
-          "health": null,
-          "previous_match_summary": "Beat Corey West"
+        {
+          "match": [
+            "Todd Hutchings",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": "3-2",
+          "prediction_summary": "Robbie thinks Ongarbaev has the edge due to his technical skills, despite wanting Todd to win. He expects a war.",
+          "predicted_duration": null,
+          "style_conflict": "Technical vs horsepower",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Pure horsepower, strong side pressure",
+              "health": null,
+              "previous_match_summary": "Beat Corey West"
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Tactician, wizard-like skills",
+              "health": null,
+              "previous_match_summary": "Impressive performance against Irakli"
+            }
+          }
         },
-        "Kydyrgali Ongarbaev": {
-          "strength": "Tactician, wizard-like skills",
-          "health": null,
-          "previous_match_summary": "Impressive performance against Irakli"
+        {
+          "match": [
+            "John Brzenk",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "3-2",
+          "prediction_summary": "Robbie predicts John will win but expects a close match, similar to Sasho's previous war with Paulina.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary, experienced",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Sasho Andreev": {
+              "strength": "Strong, resilient",
+              "health": null,
+              "previous_match_summary": "Came back from 0-2 against Paulina to win 3-2"
+            }
+          }
         }
-      }
-    },
-    {
-      "match": [
-        "John Brzenk",
-        "Sasho Andreev"
-      ],
-      "arm": "Right",
-      "event": "East vs West X",
-      "predicted_winner": "John Brzenk",
-      "predicted_score": "3-2",
-      "prediction_summary": "Robbie predicts John will win but expects a close match, similar to Sasho's previous war with Paulina.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "John Brzenk": {
-          "strength": "Legendary, experienced",
-          "health": null,
-          "previous_match_summary": null
-        },
-        "Sasho Andreev": {
-          "strength": "Strong, resilient",
-          "health": null,
-          "previous_match_summary": "Came back from 0-2 against Paulina to win 3-2"
-        }
-      }
+      ]
     }
-  ]
+  }
 }

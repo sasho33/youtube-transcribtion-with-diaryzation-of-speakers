@@ -4,226 +4,226 @@
     "SPEAKER_04": "Todd Hutchings"
   },
   "date": "October 22, 2024",
-  "self_predictions": {
-    "Todd Hutchings": [
-      {
-        "match": [
-          "Todd Hutchings",
-          "Yoshinobu Kanai"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Todd Hutchings",
-        "predicted_score": "3-0 or 3-1",
-        "prediction_summary": "Todd believes he can neutralize Kanai's pronation and prevent him from getting his shoulder in, focusing on back pressure and top roll.",
-        "predicted_duration": "Quick finishes if successful",
-        "style_conflict": "Back pressure top roll vs Kanai's pronation and side pressure",
-        "opinion_about_athletes": {
-          "Yoshinobu Kanai": {
-            "strength": "Brute power in pronation and side pressure",
-            "health": "Returning after a long break, potential freshness issue",
-            "previous_match_summary": "Historically strong when wrist is high and shoulder is engaged"
+  "predictions": {
+    "Todd Hutchings": {
+      "self_predictions": [
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": "3-0 or 3-1",
+          "prediction_summary": "Todd believes he can neutralize Kanai's pronation and prevent him from getting his shoulder in, focusing on back pressure and top roll.",
+          "predicted_duration": "Quick finishes if successful",
+          "style_conflict": "Back pressure top roll vs Kanai's pronation and side pressure",
+          "opinion_about_athletes": {
+            "Yoshinobu Kanai": {
+              "strength": "Brute power in pronation and side pressure",
+              "health": "Returning after a long break, potential freshness issue",
+              "previous_match_summary": "Historically strong when wrist is high and shoulder is engaged"
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Todd Hutchings": [
-      {
-        "match": [
-          "Brigitta Ivánfi",
-          "Irina Gladkaya"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "No clear prediction",
-        "predicted_score": null,
-        "prediction_summary": "Todd admits difficulty judging female armwrestlers due to lack of consistency in their performances.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {}
-      },
-      {
-        "match": [
-          "Dimitrina Petrova",
-          "Carolina Pettersson"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Carolina Pettersson",
-        "predicted_score": null,
-        "prediction_summary": "Todd thinks Carolina will figure out how to win despite Dimitrina being stronger and more accomplished.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Dimitrina Petrova": {
-            "strength": "Stronger",
-            "health": null,
-            "previous_match_summary": "More accomplished arm wrestler"
-          },
-          "Carolina Pettersson": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Capable of figuring out how to win"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Brigitta Ivánfi",
+            "Irina Gladkaya"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "No clear prediction",
+          "predicted_score": null,
+          "prediction_summary": "Todd admits difficulty judging female armwrestlers due to lack of consistency in their performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
+        },
+        {
+          "match": [
+            "Dimitrina Petrova",
+            "Carolina Pettersson"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Carolina Pettersson",
+          "predicted_score": null,
+          "prediction_summary": "Todd thinks Carolina will figure out how to win despite Dimitrina being stronger and more accomplished.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dimitrina Petrova": {
+              "strength": "Stronger",
+              "health": null,
+              "previous_match_summary": "More accomplished arm wrestler"
+            },
+            "Carolina Pettersson": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Capable of figuring out how to win"
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": null,
+          "prediction_summary": "Todd doesn't bet against Oleg Zhokh, citing a mix of personal liking and belief in his strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Respected and favored by Todd"
+            }
+          }
+        },
+        {
+          "match": [
+            "Rino Mašić",
+            "Ibragim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": "3-0",
+          "prediction_summary": "Todd believes Sagov's press is phenomenal and will win convincingly, possibly all rounds.",
+          "predicted_duration": null,
+          "style_conflict": "Shoulder press vs shoulder press",
+          "opinion_about_athletes": {
+            "Ibragim Sagov": {
+              "strength": "Phenomenal press",
+              "health": "Now heavier, possibly more natural at current weight",
+              "previous_match_summary": "Strong performances in East vs West events"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": "Convincing win",
+          "prediction_summary": "Todd thinks Vitalii underperforms relative to his potential and Georgii will win convincingly.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Has untapped potential",
+              "health": null,
+              "previous_match_summary": "Does not arm wrestle as good as he should"
+            },
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Expected to win convincingly"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Georgii Tautiev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Todd believes Irakli is firmly established in his weight class and will be hard to displace.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Built a nest in his weight class"
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Todd thinks Genadi is a heavy favorite unless Michael Todd changes his strategy significantly from their last match.",
+          "predicted_duration": null,
+          "style_conflict": "King's move vs high top roll",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "King's move was ineffective against Genadi last time"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Good hand, good high top roll",
+              "health": "Returning from bicep tear, claims 85%",
+              "previous_match_summary": "Comfortable against Michael's King's move"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ivan Matyushenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Todd considers Alizhan the favorite, likening him to the dominant left-arm version of Davit Samushia.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Dominant in left arm, likened to Samushia"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "3-1 or 3-2",
+          "prediction_summary": "Todd predicts Oleg will win the first match due to Devon's slow starts, but Devon will adjust and win the series.",
+          "predicted_duration": "Long matches after first round",
+          "style_conflict": "Position and control vs aggressive attack",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Position and control, phenomenal hand",
+              "health": "Cutting weight but expected to maintain strength",
+              "previous_match_summary": "Typically loses first match then adjusts"
+            },
+            "Oleg Petrenko": {
+              "strength": "Smart, technical",
+              "health": null,
+              "previous_match_summary": "Impressive performances, including against Ongarbaev"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Betkili Oniani",
-          "Oleg Zhokh"
-        ],
-        "arm": "Left",
-        "event": "East vs West 15",
-        "predicted_winner": "Oleg Zhokh",
-        "predicted_score": null,
-        "prediction_summary": "Todd doesn't bet against Oleg Zhokh, citing a mix of personal liking and belief in his strength.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Oleg Zhokh": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Respected and favored by Todd"
-          }
-        }
-      },
-      {
-        "match": [
-          "Rino Mašić",
-          "Ibragim Sagov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Ibragim Sagov",
-        "predicted_score": "3-0",
-        "prediction_summary": "Todd believes Sagov's press is phenomenal and will win convincingly, possibly all rounds.",
-        "predicted_duration": null,
-        "style_conflict": "Shoulder press vs shoulder press",
-        "opinion_about_athletes": {
-          "Ibragim Sagov": {
-            "strength": "Phenomenal press",
-            "health": "Now heavier, possibly more natural at current weight",
-            "previous_match_summary": "Strong performances in East vs West events"
-          }
-        }
-      },
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Georgii Dzeranov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Georgii Dzeranov",
-        "predicted_score": "Convincing win",
-        "prediction_summary": "Todd thinks Vitalii underperforms relative to his potential and Georgii will win convincingly.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "Has untapped potential",
-            "health": null,
-            "previous_match_summary": "Does not arm wrestle as good as he should"
-          },
-          "Georgii Dzeranov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Expected to win convincingly"
-          }
-        }
-      },
-      {
-        "match": [
-          "Irakli Zirakashvili",
-          "Georgii Tautiev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Irakli Zirakashvili",
-        "predicted_score": null,
-        "prediction_summary": "Todd believes Irakli is firmly established in his weight class and will be hard to displace.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Irakli Zirakashvili": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Built a nest in his weight class"
-          }
-        }
-      },
-      {
-        "match": [
-          "Michael Todd",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Genadi Kvikvinia",
-        "predicted_score": null,
-        "prediction_summary": "Todd thinks Genadi is a heavy favorite unless Michael Todd changes his strategy significantly from their last match.",
-        "predicted_duration": null,
-        "style_conflict": "King's move vs high top roll",
-        "opinion_about_athletes": {
-          "Michael Todd": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "King's move was ineffective against Genadi last time"
-          },
-          "Genadi Kvikvinia": {
-            "strength": "Good hand, good high top roll",
-            "health": "Returning from bicep tear, claims 85%",
-            "previous_match_summary": "Comfortable against Michael's King's move"
-          }
-        }
-      },
-      {
-        "match": [
-          "Alizhan Muratov",
-          "Ivan Matyushenko"
-        ],
-        "arm": "Left",
-        "event": "East vs West 15",
-        "predicted_winner": "Alizhan Muratov",
-        "predicted_score": null,
-        "prediction_summary": "Todd considers Alizhan the favorite, likening him to the dominant left-arm version of Davit Samushia.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Alizhan Muratov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Dominant in left arm, likened to Samushia"
-          }
-        }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Oleg Petrenko"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": "3-1 or 3-2",
-        "prediction_summary": "Todd predicts Oleg will win the first match due to Devon's slow starts, but Devon will adjust and win the series.",
-        "predicted_duration": "Long matches after first round",
-        "style_conflict": "Position and control vs aggressive attack",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Position and control, phenomenal hand",
-            "health": "Cutting weight but expected to maintain strength",
-            "previous_match_summary": "Typically loses first match then adjusts"
-          },
-          "Oleg Petrenko": {
-            "strength": "Smart, technical",
-            "health": null,
-            "previous_match_summary": "Impressive performances, including against Ongarbaev"
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

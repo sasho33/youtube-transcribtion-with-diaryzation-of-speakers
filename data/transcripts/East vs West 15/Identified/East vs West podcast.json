@@ -3,132 +3,136 @@
     "SPEAKER_00": "Engin Terzi"
   },
   "date": "March 03, 2025",
-  "self_predictions": [],
-  "third_party_predictions": [
-    {
-      "match": [
-        "Rino Mašić",
-        "Ibragim Sagov"
-      ],
-      "arm": "Right",
-      "event": "East vs West 15",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Rino Masic versus Ibragim Sagov will be the 115 kilo world title match.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Rino Mašić": {
-          "strength": "Rino Masic is the very best of the young talent currently on the rise.",
-          "health": null,
-          "previous_match_summary": null
+  "predictions": {
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Rino Mašić",
+            "Ibragim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Rino Masic versus Ibragim Sagov will be the 115 kilo world title match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rino Mašić": {
+              "strength": "Rino Masic is the very best of the young talent currently on the rise.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ibragim Sagov": {
+              "strength": "Sagov is rock strong, tremendously talented.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
-        "Ibragim Sagov": {
-          "strength": "Sagov is rock strong, tremendously talented.",
-          "health": null,
-          "previous_match_summary": null
-        }
-      }
-    },
-    {
-      "match": [
-        "Betkili Oniani",
-        "Oleg Zhokh"
-      ],
-      "arm": "Left",
-      "event": "East vs West 15",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Betkili Oniani could pull off the upset versus the truly amazing Oleg Zhokh.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Betkili Oniani": {
-          "strength": "Betkili is incredible. Last match, he versus Artem Taino, he was incredible. His arm is very big now.",
-          "health": null,
-          "previous_match_summary": null
+        {
+          "match": [
+            "Betkili Oniani",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Betkili Oniani could pull off the upset versus the truly amazing Oleg Zhokh.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Betkili is incredible. Last match, he versus Artem Taino, he was incredible. His arm is very big now.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Oleg Zhokh": {
+              "strength": "Oleg Zhokh is truly amazing.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
-        "Oleg Zhokh": {
-          "strength": "Oleg Zhokh is truly amazing.",
-          "health": null,
-          "previous_match_summary": null
-        }
-      }
-    },
-    {
-      "match": [
-        "Alizhan Muratov",
-        "Ivan Matyushenko"
-      ],
-      "arm": "Left",
-      "event": "East vs West 15",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Alizhan versus Matyushenko is literally as good as armwrestling headliners get. It is ultra intriguing.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Alizhan Muratov": {
-          "strength": "Alizhan is already very strong for his category.",
-          "health": null,
-          "previous_match_summary": null
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ivan Matyushenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Alizhan versus Matyushenko is literally as good as armwrestling headliners get. It is ultra intriguing.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Alizhan is already very strong for his category.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ivan Matyushenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
-        "Ivan Matyushenko": {
-          "strength": null,
-          "health": null,
-          "previous_match_summary": null
-        }
-      }
-    },
-    {
-      "match": [
-        "Davit Samushia",
-        "Vladimir Maiorov"
-      ],
-      "arm": "Right",
-      "event": "East vs West 15",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Vladimir said he feels much confident to win this time. It will be a very hard match for Samushia.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Davit Samushia": {
-          "strength": null,
-          "health": null,
-          "previous_match_summary": "They pulled before, but this one will be harder."
+        {
+          "match": [
+            "Davit Samushia",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Vladimir said he feels much confident to win this time. It will be a very hard match for Samushia.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "They pulled before, but this one will be harder."
+            },
+            "Vladimir Maiorov": {
+              "strength": "Vladimir feels much confident to win this time.",
+              "health": null,
+              "previous_match_summary": "He was out from competition for five years and trained two months."
+            }
+          }
         },
-        "Vladimir Maiorov": {
-          "strength": "Vladimir feels much confident to win this time.",
-          "health": null,
-          "previous_match_summary": "He was out from competition for five years and trained two months."
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Do you guys want Devon versus Petrenko at the East versus West 15?",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Devon is a favorite.",
+              "health": "For Devon to stay in the super heavyweight category is very hard. The guy has problems to gain weight.",
+              "previous_match_summary": null
+            },
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
-      }
-    },
-    {
-      "match": [
-        "Devon Larratt",
-        "Oleg Petrenko"
-      ],
-      "arm": "Right",
-      "event": "East vs West 15",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Do you guys want Devon versus Petrenko at the East versus West 15?",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Devon Larratt": {
-          "strength": "Devon is a favorite.",
-          "health": "For Devon to stay in the super heavyweight category is very hard. The guy has problems to gain weight.",
-          "previous_match_summary": null
-        },
-        "Oleg Petrenko": {
-          "strength": null,
-          "health": null,
-          "previous_match_summary": null
-        }
-      }
+      ]
     }
-  ]
+  }
 }

@@ -7,7 +7,7 @@
     "SPEAKER_04": "Dave Chaffee"
   },
   "date": "July 07, 2022",
-  "self_predictions": {
+  "predictions": {
     "Artyom Morozov": {
       "self_predictions": [
         {
@@ -27,6 +27,108 @@
               "strength": "Very strong, pure strength",
               "health": null,
               "previous_match_summary": "Dominant in past matches but can run out of gas."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Believes Prudnik has more technical arsenal and can adapt to different styles.",
+          "predicted_duration": null,
+          "style_conflict": "Prudnik can pull outside, inside, or press.",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Strong, technical, mobile",
+              "health": null,
+              "previous_match_summary": "Took third place in top 8, only lost to Vitaly Laletin."
+            },
+            "Todd Hutchings": {
+              "strength": "Crazy power in side movement",
+              "health": null,
+              "previous_match_summary": "Known for inside strength."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Roots for Ongarbaev but hopes for a close match with John winning some rounds.",
+          "predicted_duration": null,
+          "style_conflict": "Ongarbaev's top roll is his main weapon.",
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Technical, versatile",
+              "health": null,
+              "previous_match_summary": "Kazakhstan's version of John Brzenk."
+            },
+            "John Brzenk": {
+              "strength": "Legendary, technical",
+              "health": null,
+              "previous_match_summary": "Still competitive at older age."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Believes Irakli can exploit Krasimir's limited arm bending.",
+          "predicted_duration": null,
+          "style_conflict": "Irakli can open fists and beat Krasimir.",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Strong hand",
+              "health": null,
+              "previous_match_summary": "Looking good recently."
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Strong biceps but limited arm bending",
+              "health": null,
+              "previous_match_summary": "Struggles with close-range fights."
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 4",
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "Favors Dadikyan due to speed and Oleg's training difficulties.",
+          "predicted_duration": null,
+          "style_conflict": "Dadikyan is very fast.",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Fast, strong",
+              "health": null,
+              "previous_match_summary": "Beat Morozov in 2018."
+            },
+            "Oleg Zhokh": {
+              "strength": "Strong top, uncomfortable hand",
+              "health": null,
+              "previous_match_summary": "Past dominance but current training issues."
             }
           }
         }
@@ -54,188 +156,84 @@
             }
           }
         }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Believes Todd's strength and power will prevail.",
+          "predicted_duration": null,
+          "style_conflict": "Inside battle expected.",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Strong, can top roll",
+              "health": null,
+              "previous_match_summary": "Technical and versatile."
+            },
+            "Todd Hutchings": {
+              "strength": "Powerful inside puller",
+              "health": null,
+              "previous_match_summary": "Can pull without hand control."
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": "3-0",
+          "prediction_summary": "Expects John to contain Ongarbaev and win decisively.",
+          "predicted_duration": null,
+          "style_conflict": "Match may end in straps.",
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Explosive, fast top roller",
+              "health": null,
+              "previous_match_summary": "Not seen much recently."
+            },
+            "John Brzenk": {
+              "strength": "Legendary control",
+              "health": null,
+              "previous_match_summary": "Still competitive."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Irakli's hand strength will be too much for Krasimir.",
+          "predicted_duration": null,
+          "style_conflict": "Irakli can exploit Krasimir's limitations.",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Strong hand",
+              "health": null,
+              "previous_match_summary": "Looking good recently."
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Strong inside but limited",
+              "health": null,
+              "previous_match_summary": "Struggles with close-range fights."
+            }
+          }
+        }
       ]
     }
-  },
-  "third_party_predictions": {
-    "Artyom Morozov": [
-      {
-        "match": [
-          "Evgeny Prudnik",
-          "Todd Hutchings"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "Evgeny Prudnik",
-        "predicted_score": null,
-        "prediction_summary": "Believes Prudnik has more technical arsenal and can adapt to different styles.",
-        "predicted_duration": null,
-        "style_conflict": "Prudnik can pull outside, inside, or press.",
-        "opinion_about_athletes": {
-          "Evgeny Prudnik": {
-            "strength": "Strong, technical, mobile",
-            "health": null,
-            "previous_match_summary": "Took third place in top 8, only lost to Vitaly Laletin."
-          },
-          "Todd Hutchings": {
-            "strength": "Crazy power in side movement",
-            "health": null,
-            "previous_match_summary": "Known for inside strength."
-          }
-        }
-      },
-      {
-        "match": [
-          "Kydyrgali Ongarbaev",
-          "John Brzenk"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "Kydyrgali Ongarbaev",
-        "predicted_score": null,
-        "prediction_summary": "Roots for Ongarbaev but hopes for a close match with John winning some rounds.",
-        "predicted_duration": null,
-        "style_conflict": "Ongarbaev's top roll is his main weapon.",
-        "opinion_about_athletes": {
-          "Kydyrgali Ongarbaev": {
-            "strength": "Technical, versatile",
-            "health": null,
-            "previous_match_summary": "Kazakhstan's version of John Brzenk."
-          },
-          "John Brzenk": {
-            "strength": "Legendary, technical",
-            "health": null,
-            "previous_match_summary": "Still competitive at older age."
-          }
-        }
-      },
-      {
-        "match": [
-          "Irakli Zirakashvili",
-          "Krasimir Kostadinov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "Irakli Zirakashvili",
-        "predicted_score": null,
-        "prediction_summary": "Believes Irakli can exploit Krasimir's limited arm bending.",
-        "predicted_duration": null,
-        "style_conflict": "Irakli can open fists and beat Krasimir.",
-        "opinion_about_athletes": {
-          "Irakli Zirakashvili": {
-            "strength": "Strong hand",
-            "health": null,
-            "previous_match_summary": "Looking good recently."
-          },
-          "Krasimir Kostadinov": {
-            "strength": "Strong biceps but limited arm bending",
-            "health": null,
-            "previous_match_summary": "Struggles with close-range fights."
-          }
-        }
-      },
-      {
-        "match": [
-          "David Dadikyan",
-          "Oleg Zhokh"
-        ],
-        "arm": "Left",
-        "event": "East vs West 4",
-        "predicted_winner": "David Dadikyan",
-        "predicted_score": null,
-        "prediction_summary": "Favors Dadikyan due to speed and Oleg's training difficulties.",
-        "predicted_duration": null,
-        "style_conflict": "Dadikyan is very fast.",
-        "opinion_about_athletes": {
-          "David Dadikyan": {
-            "strength": "Fast, strong",
-            "health": null,
-            "previous_match_summary": "Beat Morozov in 2018."
-          },
-          "Oleg Zhokh": {
-            "strength": "Strong top, uncomfortable hand",
-            "health": null,
-            "previous_match_summary": "Past dominance but current training issues."
-          }
-        }
-      }
-    ],
-    "Dave Chaffee": [
-      {
-        "match": [
-          "Evgeny Prudnik",
-          "Todd Hutchings"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "Todd Hutchings",
-        "predicted_score": null,
-        "prediction_summary": "Believes Todd's strength and power will prevail.",
-        "predicted_duration": null,
-        "style_conflict": "Inside battle expected.",
-        "opinion_about_athletes": {
-          "Evgeny Prudnik": {
-            "strength": "Strong, can top roll",
-            "health": null,
-            "previous_match_summary": "Technical and versatile."
-          },
-          "Todd Hutchings": {
-            "strength": "Powerful inside puller",
-            "health": null,
-            "previous_match_summary": "Can pull without hand control."
-          }
-        }
-      },
-      {
-        "match": [
-          "Kydyrgali Ongarbaev",
-          "John Brzenk"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "John Brzenk",
-        "predicted_score": "3-0",
-        "prediction_summary": "Expects John to contain Ongarbaev and win decisively.",
-        "predicted_duration": null,
-        "style_conflict": "Match may end in straps.",
-        "opinion_about_athletes": {
-          "Kydyrgali Ongarbaev": {
-            "strength": "Explosive, fast top roller",
-            "health": null,
-            "previous_match_summary": "Not seen much recently."
-          },
-          "John Brzenk": {
-            "strength": "Legendary control",
-            "health": null,
-            "previous_match_summary": "Still competitive."
-          }
-        }
-      },
-      {
-        "match": [
-          "Irakli Zirakashvili",
-          "Krasimir Kostadinov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "Irakli Zirakashvili",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Irakli's hand strength will be too much for Krasimir.",
-        "predicted_duration": null,
-        "style_conflict": "Irakli can exploit Krasimir's limitations.",
-        "opinion_about_athletes": {
-          "Irakli Zirakashvili": {
-            "strength": "Strong hand",
-            "health": null,
-            "previous_match_summary": "Looking good recently."
-          },
-          "Krasimir Kostadinov": {
-            "strength": "Strong inside but limited",
-            "health": null,
-            "previous_match_summary": "Struggles with close-range fights."
-          }
-        }
-      }
-    ]
   }
 }

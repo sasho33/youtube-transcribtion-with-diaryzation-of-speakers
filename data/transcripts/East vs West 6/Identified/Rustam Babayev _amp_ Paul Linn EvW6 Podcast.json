@@ -6,9 +6,8 @@
     "SPEAKER_04": "Paul Linn"
   },
   "date": "December 28, 2022",
-  "predictions": [
-    {
-      "speaker": "Paul Linn",
+  "predictions": {
+    "Paul Linn": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -213,8 +212,7 @@
         }
       ]
     },
-    {
-      "speaker": "Rustam Babayev",
+    "Rustam Babayev": {
       "self_predictions": [
         {
           "match": [
@@ -290,8 +288,7 @@
         }
       ]
     },
-    {
-      "speaker": "Paolo",
+    "Paolo": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -346,5 +343,5 @@
         }
       ]
     }
-  ]
+  }
 }

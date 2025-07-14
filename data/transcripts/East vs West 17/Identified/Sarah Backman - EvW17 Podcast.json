@@ -4,182 +4,182 @@
     "SPEAKER_02": "Sarah Bäckman"
   },
   "date": "March 06, 2025",
-  "self_predictions": {
-    "Sarah Bäckman": [
-      {
-        "match": [
-          "Jocelyne Brisson",
-          "Sarah Bäckman"
-        ],
-        "arm": "Right",
-        "event": "East vs West 17",
-        "predicted_winner": "Sarah Bäckman",
-        "predicted_score": "100% confidence",
-        "prediction_summary": "Sarah believes she is stronger now than when she lost to Jocelyne previously and is confident in her victory.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Jocelyne Brisson": {
-            "strength": "Very strong inside game, powerful",
-            "health": null,
-            "previous_match_summary": "Beat Sarah fair and square in their last encounter, has won every match since then"
+  "predictions": {
+    "Sarah Bäckman": {
+      "self_predictions": [
+        {
+          "match": [
+            "Jocelyne Brisson",
+            "Sarah Bäckman"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Sarah Bäckman",
+          "predicted_score": "100% confidence",
+          "prediction_summary": "Sarah believes she is stronger now than when she lost to Jocelyne previously and is confident in her victory.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jocelyne Brisson": {
+              "strength": "Very strong inside game, powerful",
+              "health": null,
+              "previous_match_summary": "Beat Sarah fair and square in their last encounter, has won every match since then"
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Sarah Bäckman": [
-      {
-        "match": [
-          "Janis Amolins",
-          "Mindaugas Tarasaitis"
-        ],
-        "arm": "Right",
-        "event": "East vs West 17",
-        "predicted_winner": "Janis Amolins",
-        "predicted_score": null,
-        "prediction_summary": "Sarah believes Janis will win due to his experience and readiness, though she acknowledges Mindaugas is a strong contender.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Janis Amolins": {
-            "strength": "Master at the table, knows his limits",
-            "health": "Feels good and ready",
-            "previous_match_summary": "Has a history of strong performances"
-          },
-          "Mindaugas Tarasaitis": {
-            "strength": "Young and ready all the time",
-            "health": null,
-            "previous_match_summary": "Strong contender, but Sarah favors Janis"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Janis Amolins",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Janis Amolins",
+          "predicted_score": null,
+          "prediction_summary": "Sarah believes Janis will win due to his experience and readiness, though she acknowledges Mindaugas is a strong contender.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Janis Amolins": {
+              "strength": "Master at the table, knows his limits",
+              "health": "Feels good and ready",
+              "previous_match_summary": "Has a history of strong performances"
+            },
+            "Mindaugas Tarasaitis": {
+              "strength": "Young and ready all the time",
+              "health": null,
+              "previous_match_summary": "Strong contender, but Sarah favors Janis"
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": "Close match",
+          "prediction_summary": "Sarah thinks it's a very close match, with Matt having the advantage of being in North America.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Passionate, flips the switch when competing",
+              "health": null,
+              "previous_match_summary": "Known for his competitive spirit"
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Strong, but traveling might affect him",
+              "health": null,
+              "previous_match_summary": "Doing everything to prepare back home"
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Kody Merritt",
+          "predicted_score": null,
+          "prediction_summary": "Sarah thinks Kody will win due to his strong left arm and Prudnik's recent losing streak.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Master if in good shape",
+              "health": "Recent losing streak",
+              "previous_match_summary": "Lost to Ali Can, Irakli Zerakashvili, and Tata Sings recently"
+            },
+            "Kody Merritt": {
+              "strength": "Super strong left arm",
+              "health": null,
+              "previous_match_summary": "Left arm is his stronger arm"
+            }
+          }
+        },
+        {
+          "match": [
+            "Craig Tullier",
+            "John Therrien"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Craig Tullier",
+          "predicted_score": null,
+          "prediction_summary": "Sarah thinks Craig will win despite shoulder issues, as he always finds a way to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Craig Tullier": {
+              "strength": "Strong, but dealing with shoulder pain",
+              "health": "Shoulder issues",
+              "previous_match_summary": "Always wins despite pain"
+            },
+            "John Therrien": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Sarah thinks Corey might win the first round due to horsepower, but Devon will tire him out and win later rounds.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Endurance, strategic",
+              "health": null,
+              "previous_match_summary": "Known for his endurance and strategy"
+            },
+            "Corey West": {
+              "strength": "Horsepower, lacks endurance",
+              "health": null,
+              "previous_match_summary": "Strong but may tire out"
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Sarah has faith in Dave Chaffee if he's healthy, as he looked strong in December.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Strong when healthy",
+              "health": "Elbow and neck better",
+              "previous_match_summary": "Looked strong in December"
+            },
+            "Georgi Tsvetkov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Matt Mask",
-          "Kydyrgali Ongarbaev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 17",
-        "predicted_winner": null,
-        "predicted_score": "Close match",
-        "prediction_summary": "Sarah thinks it's a very close match, with Matt having the advantage of being in North America.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Matt Mask": {
-            "strength": "Passionate, flips the switch when competing",
-            "health": null,
-            "previous_match_summary": "Known for his competitive spirit"
-          },
-          "Kydyrgali Ongarbaev": {
-            "strength": "Strong, but traveling might affect him",
-            "health": null,
-            "previous_match_summary": "Doing everything to prepare back home"
-          }
-        }
-      },
-      {
-        "match": [
-          "Evgeny Prudnik",
-          "Kody Merritt"
-        ],
-        "arm": "Left",
-        "event": "East vs West 17",
-        "predicted_winner": "Kody Merritt",
-        "predicted_score": null,
-        "prediction_summary": "Sarah thinks Kody will win due to his strong left arm and Prudnik's recent losing streak.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Evgeny Prudnik": {
-            "strength": "Master if in good shape",
-            "health": "Recent losing streak",
-            "previous_match_summary": "Lost to Ali Can, Irakli Zerakashvili, and Tata Sings recently"
-          },
-          "Kody Merritt": {
-            "strength": "Super strong left arm",
-            "health": null,
-            "previous_match_summary": "Left arm is his stronger arm"
-          }
-        }
-      },
-      {
-        "match": [
-          "Craig Tullier",
-          "John Therrien"
-        ],
-        "arm": "Right",
-        "event": "East vs West 17",
-        "predicted_winner": "Craig Tullier",
-        "predicted_score": null,
-        "prediction_summary": "Sarah thinks Craig will win despite shoulder issues, as he always finds a way to win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Craig Tullier": {
-            "strength": "Strong, but dealing with shoulder pain",
-            "health": "Shoulder issues",
-            "previous_match_summary": "Always wins despite pain"
-          },
-          "John Therrien": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Corey West"
-        ],
-        "arm": "Left",
-        "event": "East vs West 17",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "Sarah thinks Corey might win the first round due to horsepower, but Devon will tire him out and win later rounds.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Endurance, strategic",
-            "health": null,
-            "previous_match_summary": "Known for his endurance and strategy"
-          },
-          "Corey West": {
-            "strength": "Horsepower, lacks endurance",
-            "health": null,
-            "previous_match_summary": "Strong but may tire out"
-          }
-        }
-      },
-      {
-        "match": [
-          "Dave Chaffee",
-          "Georgi Tsvetkov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 17",
-        "predicted_winner": "Dave Chaffee",
-        "predicted_score": null,
-        "prediction_summary": "Sarah has faith in Dave Chaffee if he's healthy, as he looked strong in December.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Dave Chaffee": {
-            "strength": "Strong when healthy",
-            "health": "Elbow and neck better",
-            "previous_match_summary": "Looked strong in December"
-          },
-          "Georgi Tsvetkov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

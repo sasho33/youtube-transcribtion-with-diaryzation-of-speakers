@@ -5,9 +5,8 @@
     "SPEAKER_04": "Neil Pickup"
   },
   "date": "September 09, 2024",
-  "predictions": [
-    {
-      "speaker": "Neil Pickup",
+  "predictions": {
+    "Neil Pickup": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -187,8 +186,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -268,5 +266,5 @@
         }
       ]
     }
-  ]
+  }
 }

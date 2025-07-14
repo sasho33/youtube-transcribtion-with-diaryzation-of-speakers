@@ -3,10 +3,10 @@
     "SPEAKER_00": "Engin Terzi",
     "SPEAKER_03": "Devon Larratt"
   },
-  "date": "June 01, 2025",
-  "predictions": [
-    {
-      "speaker": "Devon Larratt",
+  "date": "February 21, 2025",
+  "predictions": {
+    "Devon Larratt": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -17,19 +17,19 @@
           "event": "East vs West 13",
           "predicted_winner": "Travis Bagent",
           "predicted_score": null,
-          "prediction_summary": "Devon believes Travis Bagent will win if he comes in fully prepared and motivated, but acknowledges it's a tough match against Kalinichenko.",
+          "prediction_summary": "Devon believes Travis Bagent will win if he comes in fully prepared and motivated, but acknowledges Sergey Kalinichenko is a tough opponent.",
           "predicted_duration": null,
           "style_conflict": "Top roll vs. Press",
           "opinion_about_athletes": {
             "Travis Bagent": {
-              "strength": "Incredible showman and charisma, historically dominant when motivated.",
-              "health": "Resting period might have helped, but age is a factor.",
-              "previous_match_summary": "Peaked in 2016 with wins over top competitors."
+              "strength": "Incredible showman and charisma, capable of high-level performance when motivated.",
+              "health": "Needs to be fully prepared and training seriously.",
+              "previous_match_summary": "Peak performance in 2016 after personal loss."
             },
             "Serhii Kalinichenko": {
-              "strength": "Top-tier at 115kg, adaptable, and resilient.",
-              "health": "Recovered from past injuries (broken arm/finger).",
-              "previous_match_summary": "Known for overcoming adversity in matches."
+              "strength": "Top-tier at 115 kg, strong and resilient.",
+              "health": "Overcame past injuries (broken arm, finger).",
+              "previous_match_summary": "Known for perseverance and winning despite injuries."
             }
           }
         },
@@ -42,18 +42,18 @@
           "event": "East vs West 13",
           "predicted_winner": "Vitalii Laletin",
           "predicted_score": null,
-          "prediction_summary": "Devon thinks Laletin is the better left-arm wrestler but notes Morozov is the proven champion. The match is highly anticipated.",
+          "prediction_summary": "Devon thinks Vitalii Laletin is the best in the division but acknowledges Morozov's strength and endurance.",
           "predicted_duration": null,
           "style_conflict": "Outside vs. Hook",
           "opinion_about_athletes": {
             "Vitalii Laletin": {
-              "strength": "Elite endurance and technique.",
-              "health": "No major issues reported.",
-              "previous_match_summary": "Dominant in left-arm matches."
+              "strength": "Best in the division, incredible power.",
+              "health": null,
+              "previous_match_summary": "Dominant performances."
             },
             "Artyom Morozov": {
-              "strength": "Well-rounded with high horsepower.",
-              "health": "Recovered from past stomach issues.",
+              "strength": "Strong and well-rounded, good endurance.",
+              "health": null,
               "previous_match_summary": "Defended title multiple times."
             }
           }
@@ -66,54 +66,79 @@
           "arm": "Left",
           "event": "East vs West 13",
           "predicted_winner": "Artyom Morozov",
-          "predicted_score": "60-40",
-          "prediction_summary": "Devon favors Morozov due to horsepower and endurance but acknowledges Matyshenko's elite hook could make it close.",
+          "predicted_score": "60-65% Morozov, 35-40% Matyshenko",
+          "prediction_summary": "Devon favors Morozov due to horsepower and endurance but acknowledges Matyshenko's crisp hook.",
           "predicted_duration": null,
           "style_conflict": "Hook vs. Well-rounded",
           "opinion_about_athletes": {
             "Ivan Matyshenko": {
-              "strength": "Best hook in the sport.",
-              "health": "Shoulder issues but recovering.",
+              "strength": "Best hook in the division.",
+              "health": null,
               "previous_match_summary": "Beat Vitalii Laletin in two rounds with hook."
             },
             "Artyom Morozov": {
-              "strength": "High horsepower and versatility.",
-              "health": "No major issues reported.",
+              "strength": "Well-rounded, high horsepower.",
+              "health": null,
               "previous_match_summary": "Consistent title defenses."
             }
           }
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
-            "Kamil Jablonski",
-            "Vitalii Laletin"
+            "Travis Bagent",
+            "Serhii Kalinichenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Travis Bagent",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Travis will win if he is motivated and prepared, but Sergey is a dangerous opponent.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. Press",
+          "opinion_about_athletes": {
+            "Travis Bagent": {
+              "strength": "Legendary showman, capable of high-level performance.",
+              "health": "Needs to be fully prepared.",
+              "previous_match_summary": "Peak in 2016 after personal loss."
+            },
+            "Serhii Kalinichenko": {
+              "strength": "Strong and resilient.",
+              "health": "Overcame past injuries.",
+              "previous_match_summary": "Known for perseverance."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Kamil Jablonski"
           ],
           "arm": "Left",
           "event": "East vs West 13",
           "predicted_winner": "Kamil Jablonski",
           "predicted_score": null,
-          "prediction_summary": "Engin believes Kamil's shoulder pressure and pronator control make him a bad matchup for Laletin.",
+          "prediction_summary": "Engin thinks Kamil's press is a bad matchup for Vitalii due to pronator control issues.",
           "predicted_duration": null,
           "style_conflict": "Press vs. Outside",
           "opinion_about_athletes": {
-            "Kamil Jablonski": {
-              "strength": "Devastating press and shoulder pressure.",
-              "health": "No major issues reported.",
-              "previous_match_summary": "Dominant in press-heavy matches."
-            },
             "Vitalii Laletin": {
-              "strength": "Elite endurance and hand control.",
-              "health": "No major issues reported.",
-              "previous_match_summary": "Top-tier left-arm performances."
+              "strength": "Best in the division.",
+              "health": null,
+              "previous_match_summary": "Dominant performances."
+            },
+            "Kamil Jablonski": {
+              "strength": "Incredible press, better than Jerry Cadorette.",
+              "health": null,
+              "previous_match_summary": "Known for shoulder pressure and press."
             }
           }
         }
       ]
     }
-  ]
+  }
 }

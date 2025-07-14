@@ -6,10 +6,9 @@
     "SPEAKER_03": "Engin Terzi",
     "SPEAKER_04": "Unknown"
   },
-  "date": "January 4, 2022",
-  "predictions": [
-    {
-      "speaker": "Sandris Šedis",
+  "date": "2022-01-04",
+  "predictions": {
+    "Sandris Šedis": {
       "self_predictions": [
         {
           "match": [
@@ -185,8 +184,7 @@
         }
       ]
     },
-    {
-      "speaker": "Chance Shaw",
+    "Chance Shaw": {
       "self_predictions": [
         {
           "match": [
@@ -337,8 +335,8 @@
         }
       ]
     },
-    {
-      "speaker": "Pradeep Singh",
+    "Pradeep Singh": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -417,5 +415,5 @@
         }
       ]
     }
-  ]
+  }
 }

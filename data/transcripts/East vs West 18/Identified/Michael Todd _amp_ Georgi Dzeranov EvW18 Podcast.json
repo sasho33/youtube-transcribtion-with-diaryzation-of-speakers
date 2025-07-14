@@ -6,9 +6,8 @@
     "SPEAKER_04": "Ivan Matushenko"
   },
   "date": "June 14, 2025",
-  "predictions": [
-    {
-      "speaker": "Michael Todd",
+  "predictions": {
+    "Michael Todd": {
       "self_predictions": [
         {
           "match": [
@@ -209,8 +208,7 @@
         }
       ]
     },
-    {
-      "speaker": "Georgii Dzeranov",
+    "Georgii Dzeranov": {
       "self_predictions": [
         {
           "match": [
@@ -336,8 +334,8 @@
         }
       ]
     },
-    {
-      "speaker": "Ivan Matushenko",
+    "Ivan Matushenko": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -416,5 +414,5 @@
         }
       ]
     }
-  ]
+  }
 }

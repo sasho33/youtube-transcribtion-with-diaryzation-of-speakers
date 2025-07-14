@@ -4,357 +4,357 @@
     "SPEAKER_02": "Nisa Camadan"
   },
   "date": "March 29, 2024",
-  "self_predictions": {
-    "Nisa Camadan": [
-      {
-        "match": [
-          "Nisa Camadan",
-          "Karolina Pettersson"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Nisa Camadan",
-        "predicted_score": null,
-        "prediction_summary": "Nisa is confident about winning the match, but unsure about how. She believes she has more ability on the table and can win convincingly, though she acknowledges Karolina's strength and experience.",
-        "predicted_duration": null,
-        "style_conflict": "Nisa believes she can handle both strap and no-strap scenarios, but thinks strap might favor her slightly.",
-        "opinion_about_athletes": {
-          "Karolina Pettersson": {
-            "strength": "Very strong and experienced",
-            "health": null,
-            "previous_match_summary": "European and world title holder with a long career in armwrestling."
+  "predictions": {
+    "Nisa Camadan": {
+      "self_predictions": [
+        {
+          "match": [
+            "Nisa Camadan",
+            "Karolina Pettersson"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Nisa Camadan",
+          "predicted_score": null,
+          "prediction_summary": "Nisa is confident about winning the match, but unsure about how. She believes she has more ability on the table and can win convincingly, though she acknowledges Karolina's strength and experience.",
+          "predicted_duration": null,
+          "style_conflict": "Nisa believes she can handle both strap and no-strap scenarios, but thinks strap might favor her slightly.",
+          "opinion_about_athletes": {
+            "Karolina Pettersson": {
+              "strength": "Very strong and experienced",
+              "health": null,
+              "previous_match_summary": "European and world title holder with a long career in armwrestling."
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Nisa Camadan": [
-      {
-        "match": [
-          "Petro Marharint",
-          "Nugzari Chikadze"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Petro Marharint",
-        "predicted_score": null,
-        "prediction_summary": "Slight edge to Petro Marharint due to his strong cupping ability and wrist control, especially if the match goes to the strap.",
-        "predicted_duration": null,
-        "style_conflict": "Inside puller vs outside puller.",
-        "opinion_about_athletes": {
-          "Petro Marharint": {
-            "strength": "Strong cupping ability and wrist",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Nugzari Chikadze": {
-            "strength": "Top roller kind of puller",
-            "health": null,
-            "previous_match_summary": null
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Petro Marharint",
+            "Nugzari Chikadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Petro Marharint",
+          "predicted_score": null,
+          "prediction_summary": "Slight edge to Petro Marharint due to his strong cupping ability and wrist control, especially if the match goes to the strap.",
+          "predicted_duration": null,
+          "style_conflict": "Inside puller vs outside puller.",
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Strong cupping ability and wrist",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Nugzari Chikadze": {
+              "strength": "Top roller kind of puller",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Talgat Aktaev"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Talgat Aktaev",
+          "predicted_score": null,
+          "prediction_summary": "Aktaev is favored due to his speed and ability to get the match off the center to his winning side. Nisa is unsure about his endurance if the match goes longer.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Talgat Aktaev": {
+              "strength": "Fast and good at controlling the match",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Betkili Oniani": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Kamil Jablonski",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Kamil Jablonski",
+          "predicted_score": null,
+          "prediction_summary": "Slight edge to Kamil Jablonski if he can take the center before Tobias. The match depends on who can control the center.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kamil Jablonski": {
+              "strength": "Good shoulder movement",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Tobias Sporrong": {
+              "strength": "Good supination ability",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Sandris Šedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "Slight edge to Ibragim Sagov if he can get Sandris into a hook quickly. Sandris has more ways to win if the match is closer.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ibragim Sagov": {
+              "strength": "Good at getting the match into a hook",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Sandris Šedis": {
+              "strength": "Versatile with multiple winning styles",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli is favored because he is good against inside pullers. Sasho is an inside puller, and Irakli is in better shape now.",
+          "predicted_duration": null,
+          "style_conflict": "Inside puller vs Irakli's style",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Good against inside pullers",
+              "health": null,
+              "previous_match_summary": "In better shape than before"
+            },
+            "Sasho Andreev": {
+              "strength": "Inside puller",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Leonidas Arkona",
+            "Alexsandr Beziazykov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Alexsandr Beziazykov",
+          "predicted_score": null,
+          "prediction_summary": "Alexsandr Beziazykov (Skullboy) is favored due to his technical skills and wrist control. Leonidas is strong but new to armwrestling.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alexsandr Beziazykov": {
+              "strength": "Complete armwrestler with good wrist control",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Leonidas Arkona": {
+              "strength": "Strong but new to armwrestling",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisik",
+            "Ekaterina Nikisheva"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Fia Reisik",
+          "predicted_score": null,
+          "prediction_summary": "Fia is favored due to her endurance and control. Ekaterina could be better if the match doesn't go to the straps.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Fia Reisik": {
+              "strength": "Great endurance and control",
+              "health": null,
+              "previous_match_summary": "Legend in the sport"
+            },
+            "Ekaterina Nikisheva": {
+              "strength": "Problematic without straps",
+              "health": null,
+              "previous_match_summary": "Won her class in Romania 2019"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Artur Makarov",
+          "predicted_score": null,
+          "prediction_summary": "Artur Makarov is favored in the first two rounds due to his strength. The later rounds are uncertain.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": "Strong in fresh rounds",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Mindaugus Tarasaitis": {
+              "strength": "Considered the GOAT by many",
+              "health": null,
+              "previous_match_summary": "Very humble and skilled"
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Michael Todd is favored if he is in good shape. Beating him requires everything, including hand control and pressure.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Hard to beat, requires complete control",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Frank Lamparelli": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "Georgi Tsvetkov is favored due to his wrist control, pronator, and general power.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Good wrist control and pronator",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Nurdaulet Aidarkhan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Nurdaulet Aidarkhan",
+          "predicted_score": null,
+          "prediction_summary": "Nurdaulet is favored due to his explosiveness and ability against hook pullers. The match is seen as nearly 50-50.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Nurdaulet Aidarkhan": {
+              "strength": "Explosive and good against hook pullers",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Davit Samushia": {
+              "strength": "Endurance and experience",
+              "health": null,
+              "previous_match_summary": "Seven world title matches in a row"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan is favored due to his great hooking capability. Ermes' left is strong but not as dominant as his right.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Great hooking capability",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ermes Gasparini": {
+              "strength": "Strong left but not as dominant as right",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan is the favorite, but Devon has a chance due to his wrist control and style. The match could be closer if Levan is not at his best.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's wrist control vs Levan's power",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Incredible power, wrist is key",
+              "health": "Recovering from injury",
+              "previous_match_summary": "Dominant in all previous matches"
+            },
+            "Devon Larratt": {
+              "strength": "Excellent wrist control and endurance",
+              "health": "Improved after stem cell treatment",
+              "previous_match_summary": "Cleaned up the Eastern European pullers convincingly"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Betkili Oniani",
-          "Talgat Aktaev"
-        ],
-        "arm": "Left",
-        "event": "East vs West 12",
-        "predicted_winner": "Talgat Aktaev",
-        "predicted_score": null,
-        "prediction_summary": "Aktaev is favored due to his speed and ability to get the match off the center to his winning side. Nisa is unsure about his endurance if the match goes longer.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Talgat Aktaev": {
-            "strength": "Fast and good at controlling the match",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Betkili Oniani": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Kamil Jablonski",
-          "Tobias Sporrong"
-        ],
-        "arm": "Left",
-        "event": "East vs West 12",
-        "predicted_winner": "Kamil Jablonski",
-        "predicted_score": null,
-        "prediction_summary": "Slight edge to Kamil Jablonski if he can take the center before Tobias. The match depends on who can control the center.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Kamil Jablonski": {
-            "strength": "Good shoulder movement",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Tobias Sporrong": {
-            "strength": "Good supination ability",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Ibragim Sagov",
-          "Sandris Šedis"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Ibragim Sagov",
-        "predicted_score": null,
-        "prediction_summary": "Slight edge to Ibragim Sagov if he can get Sandris into a hook quickly. Sandris has more ways to win if the match is closer.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Ibragim Sagov": {
-            "strength": "Good at getting the match into a hook",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Sandris Šedis": {
-            "strength": "Versatile with multiple winning styles",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Sasho Andreev",
-          "Irakli Zirakashvili"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Irakli Zirakashvili",
-        "predicted_score": null,
-        "prediction_summary": "Irakli is favored because he is good against inside pullers. Sasho is an inside puller, and Irakli is in better shape now.",
-        "predicted_duration": null,
-        "style_conflict": "Inside puller vs Irakli's style",
-        "opinion_about_athletes": {
-          "Irakli Zirakashvili": {
-            "strength": "Good against inside pullers",
-            "health": null,
-            "previous_match_summary": "In better shape than before"
-          },
-          "Sasho Andreev": {
-            "strength": "Inside puller",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Leonidas Arkona",
-          "Alexsandr Beziazykov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Alexsandr Beziazykov",
-        "predicted_score": null,
-        "prediction_summary": "Alexsandr Beziazykov (Skullboy) is favored due to his technical skills and wrist control. Leonidas is strong but new to armwrestling.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Alexsandr Beziazykov": {
-            "strength": "Complete armwrestler with good wrist control",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Leonidas Arkona": {
-            "strength": "Strong but new to armwrestling",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Fia Reisik",
-          "Ekaterina Nikisheva"
-        ],
-        "arm": "Left",
-        "event": "East vs West 12",
-        "predicted_winner": "Fia Reisik",
-        "predicted_score": null,
-        "prediction_summary": "Fia is favored due to her endurance and control. Ekaterina could be better if the match doesn't go to the straps.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Fia Reisik": {
-            "strength": "Great endurance and control",
-            "health": null,
-            "previous_match_summary": "Legend in the sport"
-          },
-          "Ekaterina Nikisheva": {
-            "strength": "Problematic without straps",
-            "health": null,
-            "previous_match_summary": "Won her class in Romania 2019"
-          }
-        }
-      },
-      {
-        "match": [
-          "Artur Makarov",
-          "Mindaugus Tarasaitis"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Artur Makarov",
-        "predicted_score": null,
-        "prediction_summary": "Artur Makarov is favored in the first two rounds due to his strength. The later rounds are uncertain.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Artur Makarov": {
-            "strength": "Strong in fresh rounds",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Mindaugus Tarasaitis": {
-            "strength": "Considered the GOAT by many",
-            "health": null,
-            "previous_match_summary": "Very humble and skilled"
-          }
-        }
-      },
-      {
-        "match": [
-          "Michael Todd",
-          "Frank Lamparelli"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Michael Todd",
-        "predicted_score": null,
-        "prediction_summary": "Michael Todd is favored if he is in good shape. Beating him requires everything, including hand control and pressure.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Michael Todd": {
-            "strength": "Hard to beat, requires complete control",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Frank Lamparelli": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Alex Kurdecha",
-          "Georgi Tsvetkov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Georgi Tsvetkov",
-        "predicted_score": null,
-        "prediction_summary": "Georgi Tsvetkov is favored due to his wrist control, pronator, and general power.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Georgi Tsvetkov": {
-            "strength": "Good wrist control and pronator",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Alex Kurdecha": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Davit Samushia",
-          "Nurdaulet Aidarkhan"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Nurdaulet Aidarkhan",
-        "predicted_score": null,
-        "prediction_summary": "Nurdaulet is favored due to his explosiveness and ability against hook pullers. The match is seen as nearly 50-50.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Nurdaulet Aidarkhan": {
-            "strength": "Explosive and good against hook pullers",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Davit Samushia": {
-            "strength": "Endurance and experience",
-            "health": null,
-            "previous_match_summary": "Seven world title matches in a row"
-          }
-        }
-      },
-      {
-        "match": [
-          "Alizhan Muratov",
-          "Ermes Gasparini"
-        ],
-        "arm": "Left",
-        "event": "East vs West 12",
-        "predicted_winner": "Alizhan Muratov",
-        "predicted_score": null,
-        "prediction_summary": "Alizhan is favored due to his great hooking capability. Ermes' left is strong but not as dominant as his right.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Alizhan Muratov": {
-            "strength": "Great hooking capability",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Ermes Gasparini": {
-            "strength": "Strong left but not as dominant as right",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Levan Saginashvili",
-          "Devon Larratt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Levan Saginashvili",
-        "predicted_score": null,
-        "prediction_summary": "Levan is the favorite, but Devon has a chance due to his wrist control and style. The match could be closer if Levan is not at his best.",
-        "predicted_duration": null,
-        "style_conflict": "Devon's wrist control vs Levan's power",
-        "opinion_about_athletes": {
-          "Levan Saginashvili": {
-            "strength": "Incredible power, wrist is key",
-            "health": "Recovering from injury",
-            "previous_match_summary": "Dominant in all previous matches"
-          },
-          "Devon Larratt": {
-            "strength": "Excellent wrist control and endurance",
-            "health": "Improved after stem cell treatment",
-            "previous_match_summary": "Cleaned up the Eastern European pullers convincingly"
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

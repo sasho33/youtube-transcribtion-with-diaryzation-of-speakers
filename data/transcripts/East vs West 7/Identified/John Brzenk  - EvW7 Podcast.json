@@ -7,9 +7,8 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "April 10, 2023",
-  "predictions": [
-    {
-      "speaker": "John Brzenk",
+  "predictions": {
+    "John Brzenk": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -264,8 +263,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -345,8 +343,7 @@
         }
       ]
     },
-    {
-      "speaker": "Doug Erlich",
+    "Doug Erlich": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -476,8 +473,7 @@
         }
       ]
     },
-    {
-      "speaker": "Dung",
+    "Dung": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -582,5 +578,5 @@
         }
       ]
     }
-  ]
+  }
 }

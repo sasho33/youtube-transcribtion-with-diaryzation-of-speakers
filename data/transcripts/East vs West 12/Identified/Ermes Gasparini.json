@@ -4,136 +4,138 @@
     "SPEAKER_03": "Engin Terzi",
     "SPEAKER_04": "Unknown"
   },
-  "date": "June 06, 2025",
-  "Ermes Gasparini": {
-    "self_predictions": [
-      {
-        "match": [
-          "Alizhan Muratov",
-          "Ermes Gasparini"
-        ],
-        "arm": "Left",
-        "event": "East vs West 12",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": "3-0",
-        "prediction_summary": "Ermes believes he will win easily against Alizhan Muratov, especially if Alizhan stays in the 105kg category. He feels confident in his power and technique.",
-        "predicted_duration": null,
-        "style_conflict": "Ermes thinks Alizhan cannot hook him and will struggle against his pronation.",
-        "opinion_about_athletes": {
-          "Alizhan Muratov": {
-            "strength": "Super mega strong, but not enough to hook Ermes",
-            "health": null,
-            "previous_match_summary": "Destroyed Frutnik, but Ermes believes he can dominate him."
+  "date": "February 15, 2024",
+  "predictions": {
+    "Ermes Gasparini": {
+      "self_predictions": [
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "3-0",
+          "prediction_summary": "Ermes believes he will win easily against Alizhan Muratov, especially if Alizhan stays in the 105kg category. He feels confident in his pronation and overall power.",
+          "predicted_duration": null,
+          "style_conflict": "Ermes thinks Alizhan cannot hook him and that his pronation is stronger.",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Super mega strong, but Ermes believes he can handle him.",
+              "health": null,
+              "previous_match_summary": "Destroyed Frutnik, but Ermes thinks he can dominate him."
+            }
           }
         }
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Levan Saginashvili",
-          "Devon Larratt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Levan Saginashvili",
-        "predicted_score": null,
-        "prediction_summary": "Ermes thinks Levan is the favorite due to his size and power, but acknowledges Devon's intelligence and preparation.",
-        "predicted_duration": null,
-        "style_conflict": "Levan's size and power are the main challenges for Devon.",
-        "opinion_about_athletes": {
-          "Levan Saginashvili": {
-            "strength": "Unbelievable power, super big",
-            "health": "Levan complains about pain in his left arm",
-            "previous_match_summary": "Dominant in previous matches, but left arm is untested."
-          },
-          "Devon Larratt": {
-            "strength": "Super smart, best level now",
-            "health": "Was sick recently but recovering",
-            "previous_match_summary": "Learned from past matches, but power difference is significant."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks Levan is more hungry and angry, and will likely win, but acknowledges Devon's confidence and goals.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Super big and strong, difficult to take advantage of.",
+              "health": "Levan claims to always have pain in his left arm.",
+              "previous_match_summary": "Already beat Devon once, and Ermes thinks he will do it again."
+            },
+            "Devon Larratt": {
+              "strength": "Smart and strong, but Ermes thinks Levan is stronger.",
+              "health": null,
+              "previous_match_summary": "Devon is coming to prove something, but Ermes doubts he can beat Levan."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks Vitaly will win 65-70% of the time if he fights like he did against Ermes. He acknowledges Dave's potential surprises but leans towards Vitaly.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Very strong grip and power, close to Ermes's level.",
+              "health": null,
+              "previous_match_summary": "Fought a super hard match against Ermes, showing incredible endurance."
+            },
+            "Dave Chaffee": {
+              "strength": "Strong, but Ermes thinks he is currently more down in shape.",
+              "health": null,
+              "previous_match_summary": "Had some rest, so his current form is unknown."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Vitaly Laletin",
-          "Dave Chaffee"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Vitaly Laletin",
-        "predicted_score": null,
-        "prediction_summary": "Ermes believes Vitaly will win due to his power and endurance, especially if Dave is not in top shape.",
-        "predicted_duration": null,
-        "style_conflict": "Vitaly's grip and endurance are key factors.",
-        "opinion_about_athletes": {
-          "Vitaly Laletin": {
-            "strength": "Crazy power and endurance",
-            "health": null,
-            "previous_match_summary": "Close match with Ermes, very strong."
-          },
-          "Dave Chaffee": {
-            "strength": "Strong but inconsistent",
-            "health": "Has had ups and downs recently",
-            "previous_match_summary": "Needs to be in top shape to compete."
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Levan is more hungry and angry, and will likely win, but acknowledges Devon's confidence and goals.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Super big and strong, difficult to take advantage of.",
+              "health": "Levan claims to always have pain in his left arm.",
+              "previous_match_summary": "Already beat Devon once, and Engin thinks he will do it again."
+            },
+            "Devon Larratt": {
+              "strength": "Smart and strong, but Engin thinks Levan is stronger.",
+              "health": null,
+              "previous_match_summary": "Devon is coming to prove something, but Engin doubts he can beat Levan."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "60-40 (poll result)",
+          "prediction_summary": "Engin notes that 60% of poll voters think Ermes will win, which surprises him as he expected more people to favor Alizhan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Super strong, but Engin thinks Ermes can handle him.",
+              "health": null,
+              "previous_match_summary": "Destroyed Frutnik, but Engin thinks Ermes can dominate him."
+            },
+            "Ermes Gasparini": {
+              "strength": "Very strong pronation and power.",
+              "health": null,
+              "previous_match_summary": "Has been climbing the rankings quickly and is confident."
+            }
           }
         }
-      }
-    ]
-  },
-  "Engin Terzi": {
-    "self_predictions": [],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Alizhan Muratov",
-          "Ermes Gasparini"
-        ],
-        "arm": "Left",
-        "event": "East vs West 12",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": null,
-        "prediction_summary": "Engin agrees with the poll results that Ermes is favored to win, but acknowledges Alizhan's strength.",
-        "predicted_duration": null,
-        "style_conflict": "Ermes' pronation and power are key.",
-        "opinion_about_athletes": {
-          "Alizhan Muratov": {
-            "strength": "Super strong, but may not hook Ermes",
-            "health": null,
-            "previous_match_summary": "Dominant in recent matches."
-          },
-          "Ermes Gasparini": {
-            "strength": "Very powerful, especially in pronation",
-            "health": "Some shoulder pain but manageable",
-            "previous_match_summary": "Climbed rankings quickly, very confident."
-          }
-        }
-      },
-      {
-        "match": [
-          "Levan Saginashvili",
-          "Devon Larratt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Levan Saginashvili",
-        "predicted_score": null,
-        "prediction_summary": "Engin thinks Levan is hungrier and more motivated, but Devon is smart and prepared.",
-        "predicted_duration": null,
-        "style_conflict": "Levan's power vs Devon's technique.",
-        "opinion_about_athletes": {
-          "Levan Saginashvili": {
-            "strength": "Extremely powerful, dominant",
-            "health": null,
-            "previous_match_summary": "Unbeaten in recent matches."
-          },
-          "Devon Larratt": {
-            "strength": "Very smart, best shape of his life",
-            "health": "Recovering from illness",
-            "previous_match_summary": "Learned from past losses, very strategic."
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

@@ -6,629 +6,638 @@
     "SPEAKER_04": "Paulo"
   },
   "date": "October 02, 2024",
-  "self_predictions": {
+  "predictions": {
     "Alizhan Muratov": {
-      "match": [
-        "Alizhan Muratov",
-        "Ivan Matyushenko"
-      ],
-      "arm": "Left",
-      "event": "East vs West 15",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Alizhan believes the match will be very tough and serious, focusing on his training and preparation. He thinks both are fighting hard, making it a great fight.",
-      "predicted_duration": null,
-      "style_conflict": "Inside pullers",
-      "opinion_about_athletes": {
-        "Ivan Matyushenko": {
-          "strength": "High",
-          "health": "Good, better than during Morozov preparation",
-          "previous_match_summary": "Ivan was preparing for Morozov with elbow pain, but now feels better."
+      "self_predictions": [
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ivan Matyushenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Alizhan believes the match will be very tough and serious, focusing on his training and preparation. He thinks both are fighting hard, making it a great fight.",
+          "predicted_duration": null,
+          "style_conflict": "Inside pullers",
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": "High",
+              "health": "Good, better than during Morozov preparation",
+              "previous_match_summary": "Ivan was preparing for Morozov with elbow pain, but now feels better."
+            }
+          }
         }
-      }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Nugzari Chikadze",
+            "Oguzhan Koçak"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Oguzhan Koçak",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan bets on Koçak due to his strong hook, though he doesn't know Chikadze well.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Oguzhan Koçak": {
+              "strength": "Very strong hook",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Nugzari Chikadze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Ömer Kozakoğlu"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Alizhan thinks it's an interesting fight due to anthropometry but believes Makarov might have a slight edge if in better shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": "Upscale",
+              "health": "Not in best shape lately",
+              "previous_match_summary": "Lost to Cherkastov"
+            },
+            "Ömer Kozakoğlu": {
+              "strength": "Big arms",
+              "health": null,
+              "previous_match_summary": "Won against Aydar Khan with fouls"
+            }
+          }
+        },
+        {
+          "match": [
+            "Dimitrina Petrova",
+            "Carolina Pettersson"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Dimitrina Petrova",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan thinks Dimitrina has a slight power advantage but Carolina could tire her out if the match lasts longer.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dimitrina Petrova": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Carolina Pettersson": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Alizhan thinks if Betkili can break Zhokh's wrist, he wins; otherwise, it's 50-50.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Won one round against Oleg Zhokh before"
+            },
+            "Oleg Zhokh": {
+              "strength": "Unorthodox arm",
+              "health": null,
+              "previous_match_summary": "Returning from accident injury"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Alizhan believes the match depends on who brings their best form. He roots for Dzeranov but thinks it's very close.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "High",
+              "health": null,
+              "previous_match_summary": "History of back-and-forth with Dzeranov"
+            },
+            "Georgii Dzeranov": {
+              "strength": "High",
+              "health": null,
+              "previous_match_summary": "Comfortable against Laletin in past matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Georgii Tautiev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Alizhan thinks Zirakashvili is very strong but Tautiev has better anthropometry and technique, making it unpredictable.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgii Tautiev": {
+              "strength": "Good technique",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan thinks if Michael Todd can force his King's Move, he has a good chance to win.",
+          "predicted_duration": null,
+          "style_conflict": "King's Move vs Top Roll",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Strong King's Move",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        }
+      ]
     },
     "Ivan Matyushenko": {
-      "match": [
-        "Alizhan Muratov",
-        "Ivan Matyushenko"
+      "self_predictions": [
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ivan Matyushenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Ivan feels better than during his preparation for Morozov and believes he can bring a better form this time. He thinks the match will be tough and is unsure about the outcome.",
+          "predicted_duration": null,
+          "style_conflict": "Inside pullers",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "High",
+              "health": "Good, focused on training",
+              "previous_match_summary": "Alizhan is very concentrated on his preparation and training regime."
+            }
+          }
+        }
       ],
-      "arm": "Left",
-      "event": "East vs West 15",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Ivan feels better than during his preparation for Morozov and believes he can bring a better form this time. He thinks the match will be tough and is unsure about the outcome.",
-      "predicted_duration": null,
-      "style_conflict": "Inside pullers",
-      "opinion_about_athletes": {
-        "Alizhan Muratov": {
-          "strength": "High",
-          "health": "Good, focused on training",
-          "previous_match_summary": "Alizhan is very concentrated on his preparation and training regime."
+      "third_party_predictions": [
+        {
+          "match": [
+            "Nugzari Chikadze",
+            "Oguzhan Koçak"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Nugzari Chikadze",
+          "predicted_score": null,
+          "prediction_summary": "Ivan thinks Chikadze's ability to set the hook will bring him the win.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Nugzari Chikadze": {
+              "strength": "Good hook setting",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Oguzhan Koçak": {
+              "strength": "Strong wrist",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Dimitrina Petrova",
+            "Carolina Pettersson"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Dimitrina Petrova",
+          "predicted_score": null,
+          "prediction_summary": "Ivan thinks Dimitrina is a slight favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dimitrina Petrova": {
+              "strength": "Slightly stronger",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Carolina Pettersson": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Ivan thinks it will be more difficult for Oleg this time, impressed by Betkili's last performance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Impressive last time",
+              "health": null,
+              "previous_match_summary": "Won one round against Oleg Zhokh before"
+            },
+            "Oleg Zhokh": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Returning from accident injury"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Ivan bets on Todd due to Kanai's inactivity, but thinks Kanai could win if he brings his best level.",
+          "predicted_duration": null,
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Proven",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Yoshinobu Kanai": {
+              "strength": "Incredible endurance",
+              "health": null,
+              "previous_match_summary": "Inactive for a long time"
+            }
+          }
+        },
+        {
+          "match": [
+            "Rino Mašić",
+            "Ibragim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Ivan thinks it's a close match, with Sagov having stronger triceps and shoulder power, but Rino has better defensive hook.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Rino Mašić": {
+              "strength": "Good defensive hook",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ibragim Sagov": {
+              "strength": "Strong triceps and shoulder power",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Vladimir Maiorov",
+          "predicted_score": null,
+          "prediction_summary": "Ivan sees Maiorov as a slight favorite due to better preparation.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Won last time"
+            },
+            "Vladimir Maiorov": {
+              "strength": "Better prepared",
+              "health": null,
+              "previous_match_summary": "Trained only two months last time"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Ivan thinks Laletin has more chances, especially if Dzeranov's top roll isn't strong.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "More chances",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgii Dzeranov": {
+              "strength": "Better in hook lately",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Georgii Tautiev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Georgii Tautiev",
+          "predicted_score": null,
+          "prediction_summary": "Ivan thinks Tautiev's stronger wrist gives him a slight edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgii Tautiev": {
+              "strength": "Stronger wrist",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Ivan thinks it's 50-50, unsure about Genadi's current form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Unknown current form"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Ivan thinks Petrenko has more chances, especially if Devon can't use his open arm top roll in the first round.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Better endurance",
+              "health": null,
+              "previous_match_summary": "Good open arm top roll"
+            },
+            "Oleg Petrenko": {
+              "strength": "Stronger under 105kg",
+              "health": null,
+              "previous_match_summary": "Gained well lately"
+            }
+          }
         }
-      }
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Betkili Oniani",
+            "Oleg Zhokh"
+          ],
+          "arm": "Left",
+          "event": "East vs West 15",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Betkili has a better chance this time, especially in 95kg category.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Big surprise last time",
+              "health": null,
+              "previous_match_summary": "Won one round against Oleg Zhokh before"
+            },
+            "Oleg Zhokh": {
+              "strength": "Unorthodox arm",
+              "health": null,
+              "previous_match_summary": "Returning from accident injury"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Engin gives the edge to Todd due to Kanai's inactivity, but thinks Kanai could surprise if in great shape.",
+          "predicted_duration": null,
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Proven",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Yoshinobu Kanai": {
+              "strength": "Incredible endurance",
+              "health": null,
+              "previous_match_summary": "Inactive for a long time"
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Vladimir Maiorov",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Maiorov may win this time due to better preparation and knowing the situation.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Won last time"
+            },
+            "Vladimir Maiorov": {
+              "strength": "Better prepared",
+              "health": null,
+              "previous_match_summary": "Trained only two months last time"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Laletin has a slight edge but Dzeranov's inside game is strong.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Slight edge",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgii Dzeranov": {
+              "strength": "Strong inside game",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Engin favors Michael Todd due to his preparation and condition, but thinks it will be close.",
+          "predicted_duration": null,
+          "style_conflict": "King's Move vs Top Roll",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Strong King's Move",
+              "health": null,
+              "previous_match_summary": "Put in a lot of work over the last year and a half"
+            },
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "4-3",
+          "prediction_summary": "Engin thinks Devon will win barely, possibly losing the first three rounds but coming back.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Better endurance",
+              "health": null,
+              "previous_match_summary": "Good open arm top roll"
+            },
+            "Oleg Petrenko": {
+              "strength": "Stronger under 105kg",
+              "health": null,
+              "previous_match_summary": "Gained well lately"
+            }
+          }
+        }
+      ]
     }
-  },
-  "third_party_predictions": {
-    "Alizhan Muratov": [
-      {
-        "match": [
-          "Nugzari Chikadze",
-          "Oguzhan Koçak"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Oguzhan Koçak",
-        "predicted_score": null,
-        "prediction_summary": "Alizhan bets on Koçak due to his strong hook, though he doesn't know Chikadze well.",
-        "predicted_duration": null,
-        "style_conflict": "Hook vs Top Roll",
-        "opinion_about_athletes": {
-          "Oguzhan Koçak": {
-            "strength": "Very strong hook",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Nugzari Chikadze": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Artur Makarov",
-          "Ömer Kozakoğlu"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": "50-50",
-        "prediction_summary": "Alizhan thinks it's an interesting fight due to anthropometry but believes Makarov might have a slight edge if in better shape.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Artur Makarov": {
-            "strength": "Upscale",
-            "health": "Not in best shape lately",
-            "previous_match_summary": "Lost to Cherkastov"
-          },
-          "Ömer Kozakoğlu": {
-            "strength": "Big arms",
-            "health": null,
-            "previous_match_summary": "Won against Aydar Khan with fouls"
-          }
-        }
-      },
-      {
-        "match": [
-          "Dimitrina Petrova",
-          "Carolina Pettersson"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Dimitrina Petrova",
-        "predicted_score": null,
-        "prediction_summary": "Alizhan thinks Dimitrina has a slight power advantage but Carolina could tire her out if the match lasts longer.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Dimitrina Petrova": {
-            "strength": "Strong",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Carolina Pettersson": {
-            "strength": "Strong",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Betkili Oniani",
-          "Oleg Zhokh"
-        ],
-        "arm": "Left",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": "50-50",
-        "prediction_summary": "Alizhan thinks if Betkili can break Zhokh's wrist, he wins; otherwise, it's 50-50.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Betkili Oniani": {
-            "strength": "Strong",
-            "health": null,
-            "previous_match_summary": "Won one round against Oleg Zhokh before"
-          },
-          "Oleg Zhokh": {
-            "strength": "Unorthodox arm",
-            "health": null,
-            "previous_match_summary": "Returning from accident injury"
-          }
-        }
-      },
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Georgii Dzeranov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": "50-50",
-        "prediction_summary": "Alizhan believes the match depends on who brings their best form. He roots for Dzeranov but thinks it's very close.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "High",
-            "health": null,
-            "previous_match_summary": "History of back-and-forth with Dzeranov"
-          },
-          "Georgii Dzeranov": {
-            "strength": "High",
-            "health": null,
-            "previous_match_summary": "Comfortable against Laletin in past matches"
-          }
-        }
-      },
-      {
-        "match": [
-          "Irakli Zirakashvili",
-          "Georgii Tautiev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": "50-50",
-        "prediction_summary": "Alizhan thinks Zirakashvili is very strong but Tautiev has better anthropometry and technique, making it unpredictable.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Irakli Zirakashvili": {
-            "strength": "Very strong",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Georgii Tautiev": {
-            "strength": "Good technique",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Michael Todd",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Michael Todd",
-        "predicted_score": null,
-        "prediction_summary": "Alizhan thinks if Michael Todd can force his King's Move, he has a good chance to win.",
-        "predicted_duration": null,
-        "style_conflict": "King's Move vs Top Roll",
-        "opinion_about_athletes": {
-          "Michael Todd": {
-            "strength": "Strong King's Move",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Genadi Kvikvinia": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      }
-    ],
-    "Ivan Matyushenko": [
-      {
-        "match": [
-          "Nugzari Chikadze",
-          "Oguzhan Koçak"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Nugzari Chikadze",
-        "predicted_score": null,
-        "prediction_summary": "Ivan thinks Chikadze's ability to set the hook will bring him the win.",
-        "predicted_duration": null,
-        "style_conflict": "Hook vs Top Roll",
-        "opinion_about_athletes": {
-          "Nugzari Chikadze": {
-            "strength": "Good hook setting",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Oguzhan Koçak": {
-            "strength": "Strong wrist",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Dimitrina Petrova",
-          "Carolina Pettersson"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Dimitrina Petrova",
-        "predicted_score": null,
-        "prediction_summary": "Ivan thinks Dimitrina is a slight favorite.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Dimitrina Petrova": {
-            "strength": "Slightly stronger",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Carolina Pettersson": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Betkili Oniani",
-          "Oleg Zhokh"
-        ],
-        "arm": "Left",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": "50-50",
-        "prediction_summary": "Ivan thinks it will be more difficult for Oleg this time, impressed by Betkili's last performance.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Betkili Oniani": {
-            "strength": "Impressive last time",
-            "health": null,
-            "previous_match_summary": "Won one round against Oleg Zhokh before"
-          },
-          "Oleg Zhokh": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Returning from accident injury"
-          }
-        }
-      },
-      {
-        "match": [
-          "Todd Hutchings",
-          "Yoshinobu Kanai"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Todd Hutchings",
-        "predicted_score": null,
-        "prediction_summary": "Ivan bets on Todd due to Kanai's inactivity, but thinks Kanai could win if he brings his best level.",
-        "predicted_duration": null,
-        "style_conflict": "Top Roll vs Hook",
-        "opinion_about_athletes": {
-          "Todd Hutchings": {
-            "strength": "Proven",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Yoshinobu Kanai": {
-            "strength": "Incredible endurance",
-            "health": null,
-            "previous_match_summary": "Inactive for a long time"
-          }
-        }
-      },
-      {
-        "match": [
-          "Rino Mašić",
-          "Ibragim Sagov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": "50-50",
-        "prediction_summary": "Ivan thinks it's a close match, with Sagov having stronger triceps and shoulder power, but Rino has better defensive hook.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Rino Mašić": {
-            "strength": "Good defensive hook",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Ibragim Sagov": {
-            "strength": "Strong triceps and shoulder power",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Davit Samushia",
-          "Vladimir Maiorov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Vladimir Maiorov",
-        "predicted_score": null,
-        "prediction_summary": "Ivan sees Maiorov as a slight favorite due to better preparation.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Davit Samushia": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Won last time"
-          },
-          "Vladimir Maiorov": {
-            "strength": "Better prepared",
-            "health": null,
-            "previous_match_summary": "Trained only two months last time"
-          }
-        }
-      },
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Georgii Dzeranov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Vitalii Laletin",
-        "predicted_score": null,
-        "prediction_summary": "Ivan thinks Laletin has more chances, especially if Dzeranov's top roll isn't strong.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "More chances",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Georgii Dzeranov": {
-            "strength": "Better in hook lately",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Irakli Zirakashvili",
-          "Georgii Tautiev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Georgii Tautiev",
-        "predicted_score": null,
-        "prediction_summary": "Ivan thinks Tautiev's stronger wrist gives him a slight edge.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Irakli Zirakashvili": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Georgii Tautiev": {
-            "strength": "Stronger wrist",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Michael Todd",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": null,
-        "predicted_score": "50-50",
-        "prediction_summary": "Ivan thinks it's 50-50, unsure about Genadi's current form.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Michael Todd": {
-            "strength": "Very strong",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Genadi Kvikvinia": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Unknown current form"
-          }
-        }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Oleg Petrenko"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Oleg Petrenko",
-        "predicted_score": null,
-        "prediction_summary": "Ivan thinks Petrenko has more chances, especially if Devon can't use his open arm top roll in the first round.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Better endurance",
-            "health": null,
-            "previous_match_summary": "Good open arm top roll"
-          },
-          "Oleg Petrenko": {
-            "strength": "Stronger under 105kg",
-            "health": null,
-            "previous_match_summary": "Gained well lately"
-          }
-        }
-      }
-    ],
-    "Engin Terzi": [
-      {
-        "match": [
-          "Betkili Oniani",
-          "Oleg Zhokh"
-        ],
-        "arm": "Left",
-        "event": "East vs West 15",
-        "predicted_winner": "Betkili Oniani",
-        "predicted_score": null,
-        "prediction_summary": "Engin thinks Betkili has a better chance this time, especially in 95kg category.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Betkili Oniani": {
-            "strength": "Big surprise last time",
-            "health": null,
-            "previous_match_summary": "Won one round against Oleg Zhokh before"
-          },
-          "Oleg Zhokh": {
-            "strength": "Unorthodox arm",
-            "health": null,
-            "previous_match_summary": "Returning from accident injury"
-          }
-        }
-      },
-      {
-        "match": [
-          "Todd Hutchings",
-          "Yoshinobu Kanai"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Todd Hutchings",
-        "predicted_score": null,
-        "prediction_summary": "Engin gives the edge to Todd due to Kanai's inactivity, but thinks Kanai could surprise if in great shape.",
-        "predicted_duration": null,
-        "style_conflict": "Top Roll vs Hook",
-        "opinion_about_athletes": {
-          "Todd Hutchings": {
-            "strength": "Proven",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Yoshinobu Kanai": {
-            "strength": "Incredible endurance",
-            "health": null,
-            "previous_match_summary": "Inactive for a long time"
-          }
-        }
-      },
-      {
-        "match": [
-          "Davit Samushia",
-          "Vladimir Maiorov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Vladimir Maiorov",
-        "predicted_score": null,
-        "prediction_summary": "Engin believes Maiorov may win this time due to better preparation and knowing the situation.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Davit Samushia": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Won last time"
-          },
-          "Vladimir Maiorov": {
-            "strength": "Better prepared",
-            "health": null,
-            "previous_match_summary": "Trained only two months last time"
-          }
-        }
-      },
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Georgii Dzeranov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Vitalii Laletin",
-        "predicted_score": null,
-        "prediction_summary": "Engin thinks Laletin has a slight edge but Dzeranov's inside game is strong.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "Slight edge",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Georgii Dzeranov": {
-            "strength": "Strong inside game",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Michael Todd",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Michael Todd",
-        "predicted_score": null,
-        "prediction_summary": "Engin favors Michael Todd due to his preparation and condition, but thinks it will be close.",
-        "predicted_duration": null,
-        "style_conflict": "King's Move vs Top Roll",
-        "opinion_about_athletes": {
-          "Michael Todd": {
-            "strength": "Strong King's Move",
-            "health": null,
-            "previous_match_summary": "Put in a lot of work over the last year and a half"
-          },
-          "Genadi Kvikvinia": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Oleg Petrenko"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": "4-3",
-        "prediction_summary": "Engin thinks Devon will win barely, possibly losing the first three rounds but coming back.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Better endurance",
-            "health": null,
-            "previous_match_summary": "Good open arm top roll"
-          },
-          "Oleg Petrenko": {
-            "strength": "Stronger under 105kg",
-            "health": null,
-            "previous_match_summary": "Gained well lately"
-          }
-        }
-      }
-    ]
   }
 }

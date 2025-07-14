@@ -5,154 +5,156 @@
     "SPEAKER_03": "Oleg Petrenko"
   },
   "date": "June 25, 2024",
-  "Oleg Petrenko": {
-    "self_predictions": [
-      {
-        "match": [
-          "John Brzenk",
-          "Oleg Petrenko"
-        ],
-        "arm": "Right",
-        "event": "East vs West 5",
-        "predicted_winner": "Oleg Petrenko",
-        "predicted_score": null,
-        "prediction_summary": "Believes he is in his best ever shape, 30% stronger than during Zloty Tour in 2019. Thinks it's a 50-50 match but has faith in his victory.",
-        "predicted_duration": null,
-        "style_conflict": "Believes his chances are better in a hook battle than a top roll battle.",
-        "opinion_about_athletes": {
-          "John Brzenk": {
-            "strength": "Respects John's technical prowess and experience.",
-            "health": null,
-            "previous_match_summary": "Never pulled John before, so unsure what to expect."
+  "predictions": {
+    "Oleg Petrenko": {
+      "self_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Believes he is in his best ever shape, 30% stronger than during Zloty Tour in 2019. Thinks it's a 50-50 match but has faith in his victory.",
+          "predicted_duration": null,
+          "style_conflict": "Believes his chances are better in a hook battle than a top roll battle.",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Respects John's technical prowess and experience.",
+              "health": null,
+              "previous_match_summary": "Never pulled John before, so unsure what to expect."
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Oleg Petrenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 5",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Has fought Zurab before and understands how to pull him. Believes he will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Lost to Zurab in European Championship but won in World Championship a few months later."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Zurab Tavberidze",
-          "Oleg Petrenko"
-        ],
-        "arm": "Left",
-        "event": "East vs West 5",
-        "predicted_winner": "Oleg Petrenko",
-        "predicted_score": null,
-        "prediction_summary": "Has fought Zurab before and understands how to pull him. Believes he will win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Zurab Tavberidze": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Lost to Zurab in European Championship but won in World Championship a few months later."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Thinks it will be a tough match but Ermes will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Part of the new generation of armwrestlers.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Believes Devon won't have enough time to prepare and Prudnik will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Doesn't think Devon is in his best shape currently.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": "Strong and technical.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Morozov will win due to his style and ability to adjust during matches.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Surprised by his progress and strength.",
+              "health": null,
+              "previous_match_summary": "Impressed by his performance against Dave Chaffee and draw with Dadikyan."
+            },
+            "Revaz Lutidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Dave Chaffee"
-        ],
-        "arm": "Right",
-        "event": "East vs West 5",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": null,
-        "prediction_summary": "Thinks it will be a tough match but Ermes will win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Part of the new generation of armwrestlers.",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Dave Chaffee": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
+      ]
+    },
+    "Engin Terzi": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 5",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Believes Petrenko's finger and wrist strength will be enough to hold John's top roll and dominate in the hook.",
+          "predicted_duration": null,
+          "style_conflict": "Thinks Petrenko's chances are better in a hook battle.",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Respects John's technical skills and experience.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Oleg Petrenko": {
+              "strength": "Impressed by his overall power and shape.",
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Evgeny Prudnik"
-        ],
-        "arm": "Right",
-        "event": "East vs West 5",
-        "predicted_winner": "Evgeny Prudnik",
-        "predicted_score": null,
-        "prediction_summary": "Believes Devon won't have enough time to prepare and Prudnik will win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Doesn't think Devon is in his best shape currently.",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Evgeny Prudnik": {
-            "strength": "Strong and technical.",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Artyom Morozov",
-          "Revaz Lutidze"
-        ],
-        "arm": "Right",
-        "event": "East vs West 5",
-        "predicted_winner": "Artyom Morozov",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Morozov will win due to his style and ability to adjust during matches.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Artyom Morozov": {
-            "strength": "Surprised by his progress and strength.",
-            "health": null,
-            "previous_match_summary": "Impressed by his performance against Dave Chaffee and draw with Dadikyan."
-          },
-          "Revaz Lutidze": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      }
-    ]
-  },
-  "Engin Terzi": {
-    "third_party_predictions": [
-      {
-        "match": [
-          "John Brzenk",
-          "Oleg Petrenko"
-        ],
-        "arm": "Right",
-        "event": "East vs West 5",
-        "predicted_winner": "Oleg Petrenko",
-        "predicted_score": null,
-        "prediction_summary": "Believes Petrenko's finger and wrist strength will be enough to hold John's top roll and dominate in the hook.",
-        "predicted_duration": null,
-        "style_conflict": "Thinks Petrenko's chances are better in a hook battle.",
-        "opinion_about_athletes": {
-          "John Brzenk": {
-            "strength": "Respects John's technical skills and experience.",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Oleg Petrenko": {
-            "strength": "Impressed by his overall power and shape.",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

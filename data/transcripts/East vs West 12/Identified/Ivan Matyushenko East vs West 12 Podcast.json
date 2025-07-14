@@ -4,9 +4,8 @@
     "SPEAKER_04": "Host"
   },
   "date": "March 23, 2024",
-  "predictions": [
-    {
-      "speaker": "Ivan Matyushenko",
+  "predictions": {
+    "Ivan Matyushenko": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -61,5 +60,5 @@
         }
       ]
     }
-  ]
+  }
 }

@@ -5,9 +5,9 @@
     "SPEAKER_02": "Arsen Liliev"
   },
   "date": "July 06, 2022",
-  "predictions": [
-    {
-      "speaker": "Arsen Liliev",
+  "predictions": {
+    "Arsen Liliev": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -200,8 +200,8 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -280,8 +280,8 @@
         }
       ]
     },
-    {
-      "speaker": "Raimonds Liepiņš",
+    "Raimonds Liepiņš": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -310,5 +310,5 @@
         }
       ]
     }
-  ]
+  }
 }

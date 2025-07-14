@@ -6,281 +6,298 @@
     "SPEAKER_04": "Engin Terzi"
   },
   "date": "March 18, 2023",
-  "predictions": [
-    {
-      "match": [
-        "Bacho Saginashvili",
-        "Adam Wawrzynski"
-      ],
-      "arm": "Right",
-      "event": "East vs West 7",
-      "predicted_winner": "Adam Wawrzynski",
-      "predicted_score": "6-4",
-      "prediction_summary": "Adam is favored due to his recent performance and confidence, though Bacho is relatively unknown.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Adam Wawrzynski": {
-          "strength": "Very strong",
-          "health": "Good",
-          "previous_match_summary": "Impressive win against Boadir"
+  "predictions": {
+    "Ted": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Adam Wawrzynski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Adam Wawrzynski",
+          "predicted_score": "6-4",
+          "prediction_summary": "Adam is favored due to his recent performance and confidence, though Bacho is relatively unknown.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": "Very strong",
+              "health": "Good",
+              "previous_match_summary": "Impressive win against Boadir"
+            },
+            "Bacho Saginashvili": {
+              "strength": "Unknown",
+              "health": "Unknown",
+              "previous_match_summary": "Limited exposure"
+            }
+          }
         },
-        "Bacho Saginashvili": {
-          "strength": "Unknown",
-          "health": "Unknown",
-          "previous_match_summary": "Limited exposure"
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Doug Erlich"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": "6-4",
+          "prediction_summary": "Daniel's defensive holds are considered superior, though Doug has potential to surprise.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Excellent defensive holds",
+              "health": "Good",
+              "previous_match_summary": "Strong performances in past matches"
+            },
+            "Doug Erlich": {
+              "strength": "Potential for high performance",
+              "health": "Good",
+              "previous_match_summary": "Showed promise against Ray"
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Rob Vigeant Jr."
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Rob Vigeant Jr.",
+          "predicted_score": "5-5",
+          "prediction_summary": "Close match with Rob slightly favored due to his killer instinct and hand strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong",
+              "health": "Good",
+              "previous_match_summary": "Consistent performer"
+            },
+            "Rob Vigeant Jr.": {
+              "strength": "Hand is a weapon",
+              "health": "Good",
+              "previous_match_summary": "Known for his aggressive style"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": "6-4",
+          "prediction_summary": "Alizhan is favored due to his strength and experience, though Kody is strong.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Freakishly strong",
+              "health": "Good",
+              "previous_match_summary": "Dominant in past matches"
+            },
+            "Kody Merritt": {
+              "strength": "Strong",
+              "health": "Good",
+              "previous_match_summary": "Has potential but may be outmatched"
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": "6-4",
+          "prediction_summary": "Georgii's recent performances make him the favorite over Arif.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Very strong",
+              "health": "Good",
+              "previous_match_summary": "Impressive recent showings"
+            },
+            "Arif Ertem": {
+              "strength": "Strong but past prime",
+              "health": "Good",
+              "previous_match_summary": "Experienced but may be declining"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Tobias Sporrong"
+          ],
+          "arm": "Left",
+          "event": "East vs West 7",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "6-5",
+          "prediction_summary": "Vitalii's height and explosivity give him the edge, though Tobias is strong.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Explosive and tall",
+              "health": "Good",
+              "previous_match_summary": "Warrior mentality, went to hospital after last match"
+            },
+            "Tobias Sporrong": {
+              "strength": "Savage left hand",
+              "health": "Good",
+              "previous_match_summary": "Strong but may be outmatched"
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": "5-5",
+          "prediction_summary": "Close match with Davit slightly favored due to his experience and aggression.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Strong and aggressive",
+              "health": "Good",
+              "previous_match_summary": "Consistent performer"
+            },
+            "Brandon Ellsessor": {
+              "strength": "Strong and motivated",
+              "health": "Good",
+              "previous_match_summary": "On the rise, training hard"
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "5-5",
+          "prediction_summary": "Coin flip match with Dave's raw horsepower slightly favored over Revaz's strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Very strong",
+              "health": "Good",
+              "previous_match_summary": "Recent back step but still a beast"
+            },
+            "Dave Chaffee": {
+              "strength": "Strongest side pressure in the world",
+              "health": "Good",
+              "previous_match_summary": "OG with unmatched power"
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": "7-3",
+          "prediction_summary": "Ongarbaev's technical ability and patience make him the favorite over Irakli.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": "Technically sound",
+              "health": "Good",
+              "previous_match_summary": "Live arm wrestling lesson against Michael Todd"
+            },
+            "Irakli Zirakashvili": {
+              "strength": "World-class back pressure",
+              "health": "Good",
+              "previous_match_summary": "Young and upcoming, room to grow"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "6-5",
+          "prediction_summary": "Devon's technical ability and mindset make him the favorite, though Genadi is a warrior.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Raw horsepower",
+              "health": "Good",
+              "previous_match_summary": "Strong and energetic"
+            },
+            "Devon Larratt": {
+              "strength": "Complete package",
+              "health": "Good",
+              "previous_match_summary": "King of arm wrestling in this generation"
+            }
+          }
+        },
+        {
+          "match": [
+            "Sasho Andreev",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": "6-4",
+          "prediction_summary": "Paul's mental strength and growth make him the favorite, though Sasho is a tough opponent.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": "Speed and power",
+              "health": "Good",
+              "previous_match_summary": "Strong but may be outmatched"
+            },
+            "Paul Linn": {
+              "strength": "Mentally very strong",
+              "health": "Good",
+              "previous_match_summary": "Never gives up, has shown growth"
+            }
+          }
         }
-      }
+      ]
     },
-    {
-      "match": [
-        "Daniel Procopciuc",
-        "Doug Erlich"
-      ],
-      "arm": "Right",
-      "event": "East vs West 7",
-      "predicted_winner": "Daniel Procopciuc",
-      "predicted_score": "6-4",
-      "prediction_summary": "Daniel's defensive holds are considered superior, though Doug has potential to surprise.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Daniel Procopciuc": {
-          "strength": "Excellent defensive holds",
-          "health": "Good",
-          "previous_match_summary": "Strong performances in past matches"
-        },
-        "Doug Erlich": {
-          "strength": "Potential for high performance",
-          "health": "Good",
-          "previous_match_summary": "Showed promise against Ray"
-        }
-      }
+    "Paul Linn": {
+      "self_predictions": [],
+      "third_party_predictions": []
     },
-    {
-      "match": [
-        "Zurab Tavberidze",
-        "Rob Vigeant Jr."
-      ],
-      "arm": "Right",
-      "event": "East vs West 7",
-      "predicted_winner": "Rob Vigeant Jr.",
-      "predicted_score": "5-5",
-      "prediction_summary": "Close match with Rob slightly favored due to his killer instinct and hand strength.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Zurab Tavberidze": {
-          "strength": "Strong",
-          "health": "Good",
-          "previous_match_summary": "Consistent performer"
-        },
-        "Rob Vigeant Jr.": {
-          "strength": "Hand is a weapon",
-          "health": "Good",
-          "previous_match_summary": "Known for his aggressive style"
-        }
-      }
+    "Marco": {
+      "self_predictions": [],
+      "third_party_predictions": []
     },
-    {
-      "match": [
-        "Alizhan Muratov",
-        "Kody Merritt"
-      ],
-      "arm": "Left",
-      "event": "East vs West 7",
-      "predicted_winner": "Alizhan Muratov",
-      "predicted_score": "6-4",
-      "prediction_summary": "Alizhan is favored due to his strength and experience, though Kody is strong.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Alizhan Muratov": {
-          "strength": "Freakishly strong",
-          "health": "Good",
-          "previous_match_summary": "Dominant in past matches"
-        },
-        "Kody Merritt": {
-          "strength": "Strong",
-          "health": "Good",
-          "previous_match_summary": "Has potential but may be outmatched"
-        }
-      }
-    },
-    {
-      "match": [
-        "Georgii Dzeranov",
-        "Arif Ertem"
-      ],
-      "arm": "Right",
-      "event": "East vs West 7",
-      "predicted_winner": "Georgii Dzeranov",
-      "predicted_score": "6-4",
-      "prediction_summary": "Georgii's recent performances make him the favorite over Arif.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Georgii Dzeranov": {
-          "strength": "Very strong",
-          "health": "Good",
-          "previous_match_summary": "Impressive recent showings"
-        },
-        "Arif Ertem": {
-          "strength": "Strong but past prime",
-          "health": "Good",
-          "previous_match_summary": "Experienced but may be declining"
-        }
-      }
-    },
-    {
-      "match": [
-        "Vitalii Laletin",
-        "Tobias Sporrong"
-      ],
-      "arm": "Left",
-      "event": "East vs West 7",
-      "predicted_winner": "Vitalii Laletin",
-      "predicted_score": "6-5",
-      "prediction_summary": "Vitalii's height and explosivity give him the edge, though Tobias is strong.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Vitalii Laletin": {
-          "strength": "Explosive and tall",
-          "health": "Good",
-          "previous_match_summary": "Warrior mentality, went to hospital after last match"
-        },
-        "Tobias Sporrong": {
-          "strength": "Savage left hand",
-          "health": "Good",
-          "previous_match_summary": "Strong but may be outmatched"
-        }
-      }
-    },
-    {
-      "match": [
-        "Davit Samushia",
-        "Brandon Ellsessor"
-      ],
-      "arm": "Right",
-      "event": "East vs West 7",
-      "predicted_winner": "Davit Samushia",
-      "predicted_score": "5-5",
-      "prediction_summary": "Close match with Davit slightly favored due to his experience and aggression.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Davit Samushia": {
-          "strength": "Strong and aggressive",
-          "health": "Good",
-          "previous_match_summary": "Consistent performer"
-        },
-        "Brandon Ellsessor": {
-          "strength": "Strong and motivated",
-          "health": "Good",
-          "previous_match_summary": "On the rise, training hard"
-        }
-      }
-    },
-    {
-      "match": [
-        "Revaz Lutidze",
-        "Dave Chaffee"
-      ],
-      "arm": "Right",
-      "event": "East vs West 7",
-      "predicted_winner": "Dave Chaffee",
-      "predicted_score": "5-5",
-      "prediction_summary": "Coin flip match with Dave's raw horsepower slightly favored over Revaz's strength.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Revaz Lutidze": {
-          "strength": "Very strong",
-          "health": "Good",
-          "previous_match_summary": "Recent back step but still a beast"
-        },
-        "Dave Chaffee": {
-          "strength": "Strongest side pressure in the world",
-          "health": "Good",
-          "previous_match_summary": "OG with unmatched power"
-        }
-      }
-    },
-    {
-      "match": [
-        "Kydyrgali Ongarbaev",
-        "Irakli Zirakashvili"
-      ],
-      "arm": "Right",
-      "event": "East vs West 7",
-      "predicted_winner": "Kydyrgali Ongarbaev",
-      "predicted_score": "7-3",
-      "prediction_summary": "Ongarbaev's technical ability and patience make him the favorite over Irakli.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Kydyrgali Ongarbaev": {
-          "strength": "Technically sound",
-          "health": "Good",
-          "previous_match_summary": "Live arm wrestling lesson against Michael Todd"
-        },
-        "Irakli Zirakashvili": {
-          "strength": "World-class back pressure",
-          "health": "Good",
-          "previous_match_summary": "Young and upcoming, room to grow"
-        }
-      }
-    },
-    {
-      "match": [
-        "Genadi Kvikvinia",
-        "Devon Larratt"
-      ],
-      "arm": "Right",
-      "event": "East vs West 7",
-      "predicted_winner": "Devon Larratt",
-      "predicted_score": "6-5",
-      "prediction_summary": "Devon's technical ability and mindset make him the favorite, though Genadi is a warrior.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Genadi Kvikvinia": {
-          "strength": "Raw horsepower",
-          "health": "Good",
-          "previous_match_summary": "Strong and energetic"
-        },
-        "Devon Larratt": {
-          "strength": "Complete package",
-          "health": "Good",
-          "previous_match_summary": "King of arm wrestling in this generation"
-        }
-      }
-    },
-    {
-      "match": [
-        "Sasho Andreev",
-        "Paul Linn"
-      ],
-      "arm": "Right",
-      "event": "East vs West 7",
-      "predicted_winner": "Paul Linn",
-      "predicted_score": "6-4",
-      "prediction_summary": "Paul's mental strength and growth make him the favorite, though Sasho is a tough opponent.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Sasho Andreev": {
-          "strength": "Speed and power",
-          "health": "Good",
-          "previous_match_summary": "Strong but may be outmatched"
-        },
-        "Paul Linn": {
-          "strength": "Mentally very strong",
-          "health": "Good",
-          "previous_match_summary": "Never gives up, has shown growth"
-        }
-      }
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": []
     }
-  ]
+  }
 }

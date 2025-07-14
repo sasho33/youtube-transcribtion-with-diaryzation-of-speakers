@@ -6,9 +6,8 @@
     "SPEAKER_04": "Host"
   },
   "date": "August 02, 2024",
-  "predictions": [
-    {
-      "speaker": "Dave Chaffee",
+  "predictions": {
+    "Dave Chaffee": {
       "self_predictions": [
         {
           "match": [
@@ -184,8 +183,7 @@
         }
       ]
     },
-    {
-      "speaker": "Frank Lamparell",
+    "Frank Lamparell": {
       "self_predictions": [
         {
           "match": [
@@ -361,5 +359,5 @@
         }
       ]
     }
-  ]
+  }
 }

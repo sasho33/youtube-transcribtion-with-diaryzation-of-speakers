@@ -7,9 +7,9 @@
     "SPEAKER_04": "Angie Rose"
   },
   "date": "January 26, 2022",
-  "predictions": [
-    {
-      "speaker": "Anna Grönlund",
+  "predictions": {
+    "Anna Grönlund": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -88,8 +88,8 @@
         }
       ]
     },
-    {
-      "speaker": "Fia Reisek",
+    "Fia Reisek": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -143,8 +143,8 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -223,5 +223,5 @@
         }
       ]
     }
-  ]
+  }
 }

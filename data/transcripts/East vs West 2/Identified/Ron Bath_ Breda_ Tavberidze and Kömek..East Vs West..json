@@ -7,250 +7,254 @@
     "SPEAKER_04": "Ron Bath"
   },
   "date": "January 8, 2022",
-  "self_predictions": {
-    "Ron Bath": [
-      {
-        "match": [
-          "Ron Bath",
-          "Efe Kömek"
-        ],
-        "arm": "Left",
-        "event": "East vs West 2",
-        "predicted_winner": "Ron Bath",
-        "predicted_score": null,
-        "prediction_summary": "Ron Bath feels very strong and is preparing hard for the match. He acknowledges Efe's strength but believes in his own experience and preparation.",
-        "predicted_duration": null,
-        "style_conflict": "Ron plans to work on his high hook or high top to counter Efe's top rolling.",
-        "opinion_about_athletes": {
-          "Efe Kömek": {
-            "strength": "Very strong, top roller",
-            "health": null,
-            "previous_match_summary": null
+  "predictions": {
+    "Ron Bath": {
+      "self_predictions": [
+        {
+          "match": [
+            "Ron Bath",
+            "Efe Kömek"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Ron Bath",
+          "predicted_score": null,
+          "prediction_summary": "Ron Bath feels very strong and is preparing hard for the match. He acknowledges Efe's strength but believes in his own experience and preparation.",
+          "predicted_duration": null,
+          "style_conflict": "Ron plans to work on his high hook or high top to counter Efe's top rolling.",
+          "opinion_about_athletes": {
+            "Efe Kömek": {
+              "strength": "Very strong, top roller",
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      }
-    ],
-    "Jonathan Breda": [
-      {
-        "match": [
-          "Jonathan Breda",
-          "Zurab Tavberidze"
-        ],
-        "arm": "Left",
-        "event": "East vs West 2",
-        "predicted_winner": "Jonathan Breda",
-        "predicted_score": null,
-        "prediction_summary": "Jonathan is confident in his left arm and believes he has many options to win. He is not afraid to hook if necessary.",
-        "predicted_duration": null,
-        "style_conflict": "Jonathan is prepared to adapt his style based on Zurab's approach.",
-        "opinion_about_athletes": {
-          "Zurab Tavberidze": {
-            "strength": "Strong left arm, world champion at 85 kg",
-            "health": null,
-            "previous_match_summary": null
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Ron believes John's experience and skill will prevail despite the age difference.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary, skilled",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong, younger",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Ron thinks Michael Todd's recent training improvements make him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong, but may struggle with Michael's style",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": "Very strong, improved training",
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      }
-    ],
-    "Zurab Tavberidze": [
-      {
-        "match": [
-          "Zurab Tavberidze",
-          "Jonathan Breda"
-        ],
-        "arm": "Left",
-        "event": "East vs West 2",
-        "predicted_winner": "Zurab Tavberidze",
-        "predicted_score": null,
-        "prediction_summary": "Zurab respects Jonathan but believes he can win, even suggesting he could lose weight and still win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Jonathan Breda": {
-            "strength": "Strong left arm",
-            "health": null,
-            "previous_match_summary": null
+      ]
+    },
+    "Jonathan Breda": {
+      "self_predictions": [
+        {
+          "match": [
+            "Jonathan Breda",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Jonathan Breda",
+          "predicted_score": null,
+          "prediction_summary": "Jonathan is confident in his left arm and believes he has many options to win. He is not afraid to hook if necessary.",
+          "predicted_duration": null,
+          "style_conflict": "Jonathan is prepared to adapt his style based on Zurab's approach.",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strong left arm, world champion at 85 kg",
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Zurab Tavberidze",
-          "Ron Bath"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Zurab Tavberidze",
-        "predicted_score": null,
-        "prediction_summary": "Zurab is confident and motivated to face Ron Bath, respecting his opponent but believing in his own abilities.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Ron Bath": {
-            "strength": "Legendary, experienced",
-            "health": null,
-            "previous_match_summary": null
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Jonathan believes Michael Todd's style is a bad matchup for Genadi.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong, but may struggle with Michael's style",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": "Very strong, improved training",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Jonathan thinks John's wrist strength will be key to defeating Zoloev.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary, skilled",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong, younger",
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Ron Bath": [
-      {
-        "match": [
-          "John Brzenk",
-          "Khadzimurat Zoloev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "John Brzenk",
-        "predicted_score": null,
-        "prediction_summary": "Ron believes John's experience and skill will prevail despite the age difference.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "John Brzenk": {
-            "strength": "Legendary, skilled",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Khadzimurat Zoloev": {
-            "strength": "Strong, younger",
-            "health": null,
-            "previous_match_summary": null
+      ]
+    },
+    "Zurab Tavberidze": {
+      "self_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Jonathan Breda"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab respects Jonathan but believes he can win, even suggesting he could lose weight and still win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jonathan Breda": {
+              "strength": "Strong left arm",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Ron Bath"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab is confident and motivated to face Ron Bath, respecting his opponent but believing in his own abilities.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ron Bath": {
+              "strength": "Legendary, experienced",
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Genadi Kvikvinia",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Michael Todd",
-        "predicted_score": null,
-        "prediction_summary": "Ron thinks Michael Todd's recent training improvements make him the favorite.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Genadi Kvikvinia": {
-            "strength": "Strong, but may struggle with Michael's style",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Michael Todd": {
-            "strength": "Very strong, improved training",
-            "health": null,
-            "previous_match_summary": null
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Zurab believes if John is in good shape, he can beat anyone.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary, skilled",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong, younger",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Zurab thinks the match is evenly balanced due to stylistic challenges.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong, but may struggle with Michael's style",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": "Very strong, improved training",
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      }
-    ],
-    "Jonathan Breda": [
-      {
-        "match": [
-          "Genadi Kvikvinia",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Michael Todd",
-        "predicted_score": null,
-        "prediction_summary": "Jonathan believes Michael Todd's style is a bad matchup for Genadi.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Genadi Kvikvinia": {
-            "strength": "Strong, but may struggle with Michael's style",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Michael Todd": {
-            "strength": "Very strong, improved training",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "John Brzenk",
-          "Khadzimurat Zoloev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "John Brzenk",
-        "predicted_score": null,
-        "prediction_summary": "Jonathan thinks John's wrist strength will be key to defeating Zoloev.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "John Brzenk": {
-            "strength": "Legendary, skilled",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Khadzimurat Zoloev": {
-            "strength": "Strong, younger",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      }
-    ],
-    "Zurab Tavberidze": [
-      {
-        "match": [
-          "John Brzenk",
-          "Khadzimurat Zoloev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "John Brzenk",
-        "predicted_score": null,
-        "prediction_summary": "Zurab believes if John is in good shape, he can beat anyone.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "John Brzenk": {
-            "strength": "Legendary, skilled",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Khadzimurat Zoloev": {
-            "strength": "Strong, younger",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Genadi Kvikvinia",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "50-50",
-        "predicted_score": null,
-        "prediction_summary": "Zurab thinks the match is evenly balanced due to stylistic challenges.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Genadi Kvikvinia": {
-            "strength": "Strong, but may struggle with Michael's style",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Michael Todd": {
-            "strength": "Very strong, improved training",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

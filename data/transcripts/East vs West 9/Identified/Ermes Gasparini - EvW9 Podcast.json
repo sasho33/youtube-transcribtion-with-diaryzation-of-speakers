@@ -6,235 +6,237 @@
     "SPEAKER_03": "Engin Terzi"
   },
   "date": "August 13, 2023",
-  "Ermes Gasparini": {
-    "self_predictions": [
-      {
-        "match": [
-          "Devon Larratt",
-          "Ermes Gasparini"
-        ],
-        "arm": "Right",
-        "event": "East vs West 9",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": "3-0",
-        "prediction_summary": "Ermes believes he will beat Devon very quickly, possibly within seconds each round, and that Devon has only a 1% chance of winning. He also mentions that if Devon tries to cheat in the setup, he will not start the match.",
-        "predicted_duration": "5 seconds per round",
-        "style_conflict": "Ermes predicts a quick victory, possibly via top roll, and doubts Devon's ability to hook him.",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Respects Devon's legacy and contributions to armwrestling but believes his current power is not enough to compete.",
-            "health": "Notes Devon's age (48) as a limiting factor for progression.",
-            "previous_match_summary": "Compares Devon's performance against Dave Chaffee unfavorably to his own past matches."
+  "predictions": {
+    "Ermes Gasparini": {
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "3-0",
+          "prediction_summary": "Ermes believes he will beat Devon very quickly, possibly within seconds each round, and that Devon has only a 1% chance of winning. He also mentions that if Devon tries to cheat in the setup, he will not start the match.",
+          "predicted_duration": "5 seconds per round",
+          "style_conflict": "Ermes predicts a quick victory, possibly via top roll, and doubts Devon's ability to hook him.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Respects Devon's legacy and contributions to armwrestling but believes his current power is not enough to compete.",
+              "health": "Notes Devon's age (48) as a limiting factor for progression.",
+              "previous_match_summary": "Compares Devon's performance against Dave Chaffee unfavorably to his own past matches."
+            }
           }
         }
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Revaz Lutidze"
-        ],
-        "arm": "Right",
-        "event": "East vs West 9",
-        "predicted_winner": "Vitalii Laletin",
-        "predicted_score": null,
-        "prediction_summary": "Ermes thinks the match will be very close (50-50) but gives Laletin a slight edge due to better endurance.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "Has more endurance than Revaz.",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Revaz Lutidze": {
-            "strength": "Has more power than Laletin.",
-            "health": null,
-            "previous_match_summary": null
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Revaz Lutidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks the match will be very close (50-50) but gives Laletin a slight edge due to better endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Has more endurance than Revaz.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Revaz Lutidze": {
+              "strength": "Has more power than Laletin.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnyk",
+            "Davit Dadikyan"
+          ],
+          "arm": "Left",
+          "event": "East vs West 9",
+          "predicted_winner": "Evgeny Prudnyk",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes Prudnyk will stop Dadikyan due to better endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnyk": {
+              "strength": "Has more endurance.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Davit Dadikyan": {
+              "strength": "Very strong hand.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Davit Arabuli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 9",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": null,
+          "prediction_summary": "Ermes favors Matyushenko due to his experience and history of matches.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": "Best hooker in the world.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Davit Arabuli": {
+              "strength": "Left arm is stronger than his right.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Ferit Osmanli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks Dzeranov is the favorite based on recent gym performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "Super strong in the gym.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ferit Osmanli": {
+              "strength": "Not in good shape recently.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Derek Smith",
+            "Mehdi Abvolvand"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Derek Smith",
+          "predicted_score": null,
+          "prediction_summary": "Ermes gives Derek a slight edge (55-45) but notes Mehdi's strength in the hook.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Derek Smith": {
+              "strength": "Slightly favored.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Mehdi Abvolvand": {
+              "strength": "Very strong in the hook.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Thomas Manghi",
+            "Dustin Hyatt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Thomas Manghi",
+          "predicted_score": null,
+          "prediction_summary": "Ermes predicts Thomas will win due to his superior top roll technique.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Thomas Manghi": {
+              "strength": "Very good top roller.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dustin Hyatt": {
+              "strength": "Good hooker.",
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Evgeny Prudnyk",
-          "Davit Dadikyan"
-        ],
-        "arm": "Left",
-        "event": "East vs West 9",
-        "predicted_winner": "Evgeny Prudnyk",
-        "predicted_score": null,
-        "prediction_summary": "Ermes believes Prudnyk will stop Dadikyan due to better endurance.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Evgeny Prudnyk": {
-            "strength": "Has more endurance.",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Davit Dadikyan": {
-            "strength": "Very strong hand.",
-            "health": null,
-            "previous_match_summary": null
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Paul Linn",
+            "Ruslan Babaiev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Engin favors Paul Linn due to his recent activity and training.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "More active recently.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ruslan Babaiev": {
+              "strength": "Hasn't pulled in many years.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Adam Wawrzynski",
+            "Artur Makarov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks the match will be very close but notes the weight class difference.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Adam Wawrzynski": {
+              "strength": "90 kg, can make 85 kg.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artur Makarov": {
+              "strength": "75 kg specialist.",
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Ivan Matyushenko",
-          "Davit Arabuli"
-        ],
-        "arm": "Left",
-        "event": "East vs West 9",
-        "predicted_winner": "Ivan Matyushenko",
-        "predicted_score": null,
-        "prediction_summary": "Ermes favors Matyushenko due to his experience and history of matches.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Ivan Matyushenko": {
-            "strength": "Best hooker in the world.",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Davit Arabuli": {
-            "strength": "Left arm is stronger than his right.",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Georgii Dzeranov",
-          "Ferit Osmanli"
-        ],
-        "arm": "Right",
-        "event": "East vs West 9",
-        "predicted_winner": "Georgii Dzeranov",
-        "predicted_score": null,
-        "prediction_summary": "Ermes thinks Dzeranov is the favorite based on recent gym performances.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Georgii Dzeranov": {
-            "strength": "Super strong in the gym.",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Ferit Osmanli": {
-            "strength": "Not in good shape recently.",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Derek Smith",
-          "Mehdi Abvolvand"
-        ],
-        "arm": "Right",
-        "event": "East vs West 9",
-        "predicted_winner": "Derek Smith",
-        "predicted_score": null,
-        "prediction_summary": "Ermes gives Derek a slight edge (55-45) but notes Mehdi's strength in the hook.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Derek Smith": {
-            "strength": "Slightly favored.",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Mehdi Abvolvand": {
-            "strength": "Very strong in the hook.",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Thomas Manghi",
-          "Dustin Hyatt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 9",
-        "predicted_winner": "Thomas Manghi",
-        "predicted_score": null,
-        "prediction_summary": "Ermes predicts Thomas will win due to his superior top roll technique.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Thomas Manghi": {
-            "strength": "Very good top roller.",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Dustin Hyatt": {
-            "strength": "Good hooker.",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      }
-    ]
-  },
-  "Engin Terzi": {
-    "self_predictions": [],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Paul Linn",
-          "Ruslan Babaiev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 9",
-        "predicted_winner": "Paul Linn",
-        "predicted_score": null,
-        "prediction_summary": "Engin favors Paul Linn due to his recent activity and training.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Paul Linn": {
-            "strength": "More active recently.",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Ruslan Babaiev": {
-            "strength": "Hasn't pulled in many years.",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Adam Wawrzynski",
-          "Artur Makarov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 9",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Engin thinks the match will be very close but notes the weight class difference.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Adam Wawrzynski": {
-            "strength": "90 kg, can make 85 kg.",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Artur Makarov": {
-            "strength": "75 kg specialist.",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

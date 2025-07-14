@@ -6,9 +6,9 @@
     "SPEAKER_04": "Host/Engin Terzi"
   },
   "date": "July 31, 2024",
-  "predictions": [
-    {
-      "speaker": "Denis Cyplenkov",
+  "predictions": {
+    "Denis Cyplenkov": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -137,5 +137,5 @@
         }
       ]
     }
-  ]
+  }
 }

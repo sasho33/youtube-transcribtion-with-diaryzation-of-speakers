@@ -3,13 +3,12 @@
     "SPEAKER_00": "Engin Terzi",
     "SPEAKER_01": "Levan Saginashvili",
     "SPEAKER_02": "Ermes Gasparini",
-    "SPEAKER_03": "Unknown Speaker 1",
-    "SPEAKER_04": "Unknown Speaker 2"
+    "SPEAKER_03": "Artem Taranenko",
+    "SPEAKER_04": "Tornike (Translator)"
   },
-  "date": "June 06, 2025",
-  "predictions": [
-    {
-      "speaker": "Levan Saginashvili",
+  "date": "May 28, 2024",
+  "predictions": {
+    "Levan Saginashvili": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -21,7 +20,7 @@
           "event": "East vs West 13",
           "predicted_winner": "Artyom Morozov",
           "predicted_score": null,
-          "prediction_summary": "Levan believes Morozov is the favorite but Matyushenko is very strong and dangerous.",
+          "prediction_summary": "Morozov is training a lot and is the favorite, but Matyushenko is very strong and dangerous.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
@@ -39,8 +38,7 @@
         }
       ]
     },
-    {
-      "speaker": "Ermes Gasparini",
+    "Ermes Gasparini": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -52,7 +50,7 @@
           "event": "East vs West 13",
           "predicted_winner": "Artyom Morozov",
           "predicted_score": null,
-          "prediction_summary": "Ermes thinks Morozov is too strong left-handed.",
+          "prediction_summary": "Morozov is too strong left-handed, and it might be risky for Laletin.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
@@ -60,10 +58,15 @@
               "strength": "Too strong left-handed",
               "health": null,
               "previous_match_summary": null
+            },
+            "Vitalii Laletin": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
             }
           }
         }
       ]
     }
-  ]
+  }
 }

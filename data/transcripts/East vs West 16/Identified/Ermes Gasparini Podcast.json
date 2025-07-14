@@ -4,90 +4,92 @@
     "SPEAKER_03": "Ermes Gasparini"
   },
   "date": "June 06, 2025",
-  "Ermes Gasparini": {
-    "self_predictions": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": null,
-        "prediction_summary": "Ermes believes he is stronger than Michael Todd but needs to focus on endurance to win the match.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Michael Todd": {
-            "strength": "Ermes thinks he is stronger than Michael Todd.",
-            "health": null,
-            "previous_match_summary": null
+  "predictions": {
+    "Ermes Gasparini": {
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes he is stronger than Michael Todd but needs to focus on endurance to win the match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Ermes thinks he is stronger than Michael Todd.",
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Bacho Saginashvili",
-          "Brad Grundy"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "No specific prediction, but Ermes acknowledges Bacho's strength.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Bacho Saginashvili": {
-            "strength": "Acknowledged as very strong.",
-            "health": null,
-            "previous_match_summary": null
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Brad Grundy"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "No specific prediction, but Ermes acknowledges Bacho's strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bacho Saginashvili": {
+              "strength": "Acknowledged as very strong.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Ermes is curious to see Laletin's performance and mentions the potential for a future match with Devon Larratt.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Mentioned as a strong competitor.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Ermes discusses Devon's legacy and the importance of pulling top Eastern athletes.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Discussed as a key figure in armwrestling.",
+              "health": null,
+              "previous_match_summary": "Highlighted Devon's recent matches against top Eastern athletes."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Artyom Morozov"
-        ],
-        "arm": "Left",
-        "event": "East vs West 16",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Ermes is curious to see Laletin's performance and mentions the potential for a future match with Devon Larratt.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "Mentioned as a strong competitor.",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Ermes discusses Devon's legacy and the importance of pulling top Eastern athletes.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Discussed as a key figure in armwrestling.",
-            "health": null,
-            "previous_match_summary": "Highlighted Devon's recent matches against top Eastern athletes."
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

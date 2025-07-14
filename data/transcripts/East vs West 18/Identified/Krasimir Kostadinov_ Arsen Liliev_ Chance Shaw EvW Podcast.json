@@ -6,9 +6,9 @@
     "SPEAKER_04": "Chance Shaw"
   },
   "date": "April 26, 2025",
-  "predictions": [
-    {
-      "speaker": "Krasimir Kostadinov",
+  "predictions": {
+    "Krasimir Kostadinov": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -37,8 +37,8 @@
         }
       ]
     },
-    {
-      "speaker": "Arsen Liliev",
+    "Arsen Liliev": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -67,8 +67,8 @@
         }
       ]
     },
-    {
-      "speaker": "Chance Shaw",
+    "Chance Shaw": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -97,8 +97,8 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -127,5 +127,5 @@
         }
       ]
     }
-  ]
+  }
 }

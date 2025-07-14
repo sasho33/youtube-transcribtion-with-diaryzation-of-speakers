@@ -7,9 +7,9 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "February 25, 2025",
-  "predictions": [
-    {
-      "speaker": "Engin Terzi",
+  "predictions": {
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -63,8 +63,8 @@
         }
       ]
     },
-    {
-      "speaker": "Herman Stevens",
+    "Herman Stevens": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -93,8 +93,8 @@
         }
       ]
     },
-    {
-      "speaker": "John",
+    "John": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -123,5 +123,5 @@
         }
       ]
     }
-  ]
+  }
 }

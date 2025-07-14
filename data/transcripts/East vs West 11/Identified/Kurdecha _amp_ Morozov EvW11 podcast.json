@@ -6,9 +6,8 @@
     "SPEAKER_04": "Artem Morozov"
   },
   "date": "December 15, 2023",
-  "predictions": [
-    {
-      "speaker": "Alex Kurdecha",
+  "predictions": {
+    "Alex Kurdecha": {
       "self_predictions": [
         {
           "match": [
@@ -18,7 +17,22 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Alex Kurdecha",
-          "prediction_summary": "Alex believes he will win but acknowledges it's a tough match."
+          "predicted_score": null,
+          "prediction_summary": "Alex believes he will win but acknowledges it's a tough match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artem Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ],
       "third_party_predictions": [
@@ -30,7 +44,22 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Todd Hutchings",
-          "prediction_summary": "Slight favorite due to Todd's recent performances."
+          "predicted_score": null,
+          "prediction_summary": "Slight favorite due to Todd's recent performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -40,7 +69,22 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "John Brzenk",
-          "prediction_summary": "Alex cheers for John due to personal admiration."
+          "predicted_score": null,
+          "prediction_summary": "Alex cheers for John due to personal admiration.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Krasimir Kostadinov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -50,7 +94,22 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Evgeny Prudnik",
-          "prediction_summary": "Slight edge to Prudnik due to endurance."
+          "predicted_score": null,
+          "prediction_summary": "Slight edge to Prudnik due to endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -60,7 +119,22 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Matt Mask",
-          "prediction_summary": "51% chance for Matt due to speed."
+          "predicted_score": null,
+          "prediction_summary": "51% chance for Matt due to speed.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Wagner Bortolato": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -70,7 +144,22 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Ivan Matyushenko",
-          "prediction_summary": "Ivan is a favorite due to experience."
+          "predicted_score": null,
+          "prediction_summary": "Ivan is a favorite due to experience.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Rino Mašić": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -80,7 +169,22 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Irakli Zirakashvili",
-          "prediction_summary": "Irakli is favored due to recent shape."
+          "predicted_score": null,
+          "prediction_summary": "Irakli is favored due to recent shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -90,7 +194,22 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Artem Taynov",
-          "prediction_summary": "Slight favorite due to top roll."
+          "predicted_score": null,
+          "prediction_summary": "Slight favorite due to top roll.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artem Taynov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -100,7 +219,22 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Daniel Procopciuc",
-          "prediction_summary": "Daniel is favored due to versatility."
+          "predicted_score": null,
+          "prediction_summary": "Daniel is favored due to versatility.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Mindaugas Tarasaitis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -110,7 +244,22 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Davit Samushia",
-          "prediction_summary": "Davit wants to set a record."
+          "predicted_score": null,
+          "prediction_summary": "Davit wants to set a record.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Vladimir Maiorov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -120,7 +269,22 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Oleg Zhokh",
-          "prediction_summary": "Oleg's anatomy makes him hard to top-roll."
+          "predicted_score": null,
+          "prediction_summary": "Oleg's anatomy makes him hard to top-roll.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Avtandil Tutberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -130,12 +294,26 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Aymeric Pradines",
-          "prediction_summary": "Aymeric is favored if in good shape."
+          "predicted_score": null,
+          "prediction_summary": "Aymeric is favored if in good shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Aymeric Pradines": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Robbie Topie": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ]
     },
-    {
-      "speaker": "Artem Morozov",
+    "Artem Morozov": {
       "self_predictions": [
         {
           "match": [
@@ -145,7 +323,22 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Artem Morozov",
-          "prediction_summary": "Artem believes the strongest will win."
+          "predicted_score": null,
+          "prediction_summary": "Artem believes the strongest will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artem Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ],
       "third_party_predictions": [
@@ -157,7 +350,22 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Davit Samushia",
-          "prediction_summary": "Rooting for David but acknowledges it's tough."
+          "predicted_score": null,
+          "prediction_summary": "Rooting for David but acknowledges it's tough.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -167,7 +375,22 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "John Brzenk",
-          "prediction_summary": "John will win at 105 kg."
+          "predicted_score": null,
+          "prediction_summary": "John will win at 105 kg.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Krasimir Kostadinov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -177,7 +400,22 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Alizhan Muratov",
-          "prediction_summary": "Alizhan's speed and side pressure will win."
+          "predicted_score": null,
+          "prediction_summary": "Alizhan's speed and side pressure will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -187,7 +425,22 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Ivan Matyushenko",
-          "prediction_summary": "Ivan is a heavy favorite due to wrist strength."
+          "predicted_score": null,
+          "prediction_summary": "Ivan is a heavy favorite due to wrist strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Rino Mašić": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -197,7 +450,22 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Irakli Zirakashvili",
-          "prediction_summary": "Irakli is favored."
+          "predicted_score": null,
+          "prediction_summary": "Irakli is favored.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -207,7 +475,22 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "50-50",
-          "prediction_summary": "Depends on Zurab's bicep recovery."
+          "predicted_score": null,
+          "prediction_summary": "Depends on Zurab's bicep recovery.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artem Taynov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -217,7 +500,22 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Daniel Procopciuc",
-          "prediction_summary": "Daniel has more styles."
+          "predicted_score": null,
+          "prediction_summary": "Daniel has more styles.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Mindaugas Tarasaitis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -227,12 +525,27 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Oleg Zhokh",
-          "prediction_summary": "Oleg's anatomy favors him."
+          "predicted_score": null,
+          "prediction_summary": "Oleg's anatomy favors him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Avtandil Tutberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ]
     },
-    {
-      "speaker": "Paulo",
+    "Paulo": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -242,7 +555,22 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Unpredictable",
-          "prediction_summary": "Unpredictable due to both athletes' recent changes."
+          "predicted_score": null,
+          "prediction_summary": "Unpredictable due to both athletes' recent changes.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artem Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -252,7 +580,22 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Evgeny Prudnik",
-          "prediction_summary": "Slight edge due to endurance."
+          "predicted_score": null,
+          "prediction_summary": "Slight edge due to endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -262,7 +605,22 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Matt Mask",
-          "prediction_summary": "Matt's speed will win."
+          "predicted_score": null,
+          "prediction_summary": "Matt's speed will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Wagner Bortolato": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -272,7 +630,22 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Ivan Matyushenko",
-          "prediction_summary": "Heavy favorite but Rino could surprise."
+          "predicted_score": null,
+          "prediction_summary": "Heavy favorite but Rino could surprise.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Rino Mašić": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -282,7 +655,22 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Irakli Zirakashvili",
-          "prediction_summary": "Slight edge to Irakli."
+          "predicted_score": null,
+          "prediction_summary": "Slight edge to Irakli.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -292,7 +680,22 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "50-50",
-          "prediction_summary": "Zurab has leveled up recently."
+          "predicted_score": null,
+          "prediction_summary": "Zurab has leveled up recently.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artem Taynov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -302,7 +705,22 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Daniel Procopciuc",
-          "prediction_summary": "Slight edge to Daniel."
+          "predicted_score": null,
+          "prediction_summary": "Slight edge to Daniel.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Mindaugas Tarasaitis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -312,12 +730,27 @@
           "arm": "Right",
           "event": "Future Match",
           "predicted_winner": "Levan Saginashvili",
-          "prediction_summary": "Levan will add cardio and win again."
+          "predicted_score": null,
+          "prediction_summary": "Levan will add cardio and win again.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -327,7 +760,22 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "War",
-          "prediction_summary": "Expects a long endurance match."
+          "predicted_score": null,
+          "prediction_summary": "Expects a long endurance match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -337,7 +785,22 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Matt Mask",
-          "prediction_summary": "Table might break due to Wagner's power."
+          "predicted_score": null,
+          "prediction_summary": "Table might break due to Wagner's power.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Wagner Bortolato": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
           "match": [
@@ -347,9 +810,24 @@
           "arm": "Right",
           "event": "Future Match",
           "predicted_winner": "Levan Saginashvili",
-          "prediction_summary": "Levan needs to improve to secure win."
+          "predicted_score": null,
+          "prediction_summary": "Levan needs to improve to secure win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ]
     }
-  ]
+  }
 }

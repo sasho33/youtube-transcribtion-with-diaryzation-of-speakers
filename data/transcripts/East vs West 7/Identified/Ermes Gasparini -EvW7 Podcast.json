@@ -6,9 +6,8 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "March 08, 2023",
-  "predictions": [
-    {
-      "speaker": "Ermes Gasparini",
+  "predictions": {
+    "Ermes Gasparini": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -238,8 +237,7 @@
         }
       ]
     },
-    {
-      "speaker": "Jerry Cadorette",
+    "Jerry Cadorette": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -319,5 +317,5 @@
         }
       ]
     }
-  ]
+  }
 }

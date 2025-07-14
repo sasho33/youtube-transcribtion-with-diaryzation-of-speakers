@@ -3,136 +3,138 @@
     "SPEAKER_00": "Michael Todd",
     "SPEAKER_01": "Engin Terzi"
   },
-  "date": "June 14, 2025",
-  "Michael Todd": {
-    "self_predictions": [
-      {
-        "match": [
-          "Michael Todd",
-          "Frank Lamparelli"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Michael Todd",
-        "predicted_score": null,
-        "prediction_summary": "Michael Todd believes he can control Frank Lamparelli with back pressure and improve his cup strength to win the match.",
-        "predicted_duration": null,
-        "style_conflict": "Top roller vs shoulder pressure",
-        "opinion_about_athletes": {
-          "Frank Lamparelli": {
-            "strength": "Technically excellent top roller",
-            "health": null,
-            "previous_match_summary": "Known for cracking wrists and being a tough opponent"
+  "date": "April 01, 2024",
+  "predictions": {
+    "Michael Todd": {
+      "self_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Michael Todd believes that if he focuses on improving his cup strength, he can control Frank Lamparelli with back pressure and eventually fold his wrist. He acknowledges Frank's technical prowess but is confident in his own abilities.",
+          "predicted_duration": null,
+          "style_conflict": "Top roller vs shoulder pressure specialist",
+          "opinion_about_athletes": {
+            "Frank Lamparelli": {
+              "strength": "Technically excellent top roller",
+              "health": null,
+              "previous_match_summary": "Known for his hand control and top-rolling ability, Frank has given trouble to many strong opponents."
+            }
           }
         }
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Levan Saginashvili",
-          "Devon Larratt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Levan Saginashvili",
-        "predicted_score": null,
-        "prediction_summary": "Michael Todd thinks Levan is a 60% favorite due to his strength and wrist control, but Devon has a chance if he can stop Levan's initial hit.",
-        "predicted_duration": null,
-        "style_conflict": "Strength vs endurance",
-        "opinion_about_athletes": {
-          "Levan Saginashvili": {
-            "strength": "Strongest arm wrestler currently",
-            "health": null,
-            "previous_match_summary": "Dominant in previous matches"
-          },
-          "Devon Larratt": {
-            "strength": "Strong but needs to close the strength gap",
-            "health": "Improved with stem cells",
-            "previous_match_summary": "Known for endurance and leverage"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Michael Todd thinks Levan is a 60% favorite due to his strength and wrist control. However, he believes Devon has a chance if he can stop Levan's initial surge and gain psychological momentum.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs endurance and leverage",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Strongest arm wrestler currently",
+              "health": null,
+              "previous_match_summary": "Dominant in previous matches, known for overwhelming strength."
+            },
+            "Devon Larratt": {
+              "strength": "Excellent endurance and leverage",
+              "health": "Improved post-stem cell treatment",
+              "previous_match_summary": "Has made a strong comeback, focusing on stopping opponents' initial surges."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Alizhan Muratov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Michael Todd believes Ermes is not going to lose easily and will be in very good shape for the match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong and prepared",
+              "health": null,
+              "previous_match_summary": "Training seriously for the match."
+            },
+            "Alizhan Muratov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Alizhan Muratov"
-        ],
-        "arm": "Left",
-        "event": "East vs West 12",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": null,
-        "prediction_summary": "Michael Todd believes Ermes is not going to lose easily and will be in great shape for the match.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Very strong and confident",
-            "health": null,
-            "previous_match_summary": "Preparing seriously for the match"
-          },
-          "Alizhan Muratov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks Levan is the favorite but acknowledges Devon's chance if he can stop Levan's initial surge.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs endurance and leverage",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Strongest arm wrestler currently",
+              "health": null,
+              "previous_match_summary": "Dominant in previous matches."
+            },
+            "Devon Larratt": {
+              "strength": "Excellent endurance and leverage",
+              "health": "Improved post-stem cell treatment",
+              "previous_match_summary": "Has made a strong comeback."
+            }
+          }
+        },
+        {
+          "match": [
+            "Fia Reisik",
+            "Ekaterina Nikisheva"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin mentions this as an important match but does not provide a prediction.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Fia Reisik": {
+              "strength": "Legendary arm wrestler",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ekaterina Nikisheva": {
+              "strength": "Very strong lady",
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      }
-    ]
-  },
-  "Engin Terzi": {
-    "self_predictions": [],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Levan Saginashvili",
-          "Devon Larratt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Levan Saginashvili",
-        "predicted_score": null,
-        "prediction_summary": "Engin thinks Levan is favored but acknowledges Devon's chance if he can stop Levan's initial hit.",
-        "predicted_duration": null,
-        "style_conflict": "Strength vs endurance",
-        "opinion_about_athletes": {
-          "Levan Saginashvili": {
-            "strength": "Strongest arm wrestler currently",
-            "health": null,
-            "previous_match_summary": "Dominant in previous matches"
-          },
-          "Devon Larratt": {
-            "strength": "Strong but needs to close the strength gap",
-            "health": "Improved with stem cells",
-            "previous_match_summary": "Known for endurance and leverage"
-          }
-        }
-      },
-      {
-        "match": [
-          "Fia Reisik",
-          "Ekaterina Nikisheva"
-        ],
-        "arm": "Left",
-        "event": "East vs West 12",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Engin mentions it's a really important match but does not give a prediction.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Ekaterina Nikisheva": {
-            "strength": "Very, very strong",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Fia Reisik": {
-            "strength": "Legendary",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

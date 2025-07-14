@@ -5,9 +5,8 @@
     "SPEAKER_02": "Engin Terzi"
   },
   "date": "March 20, 2023",
-  "predictions": [
-    {
-      "speaker": "Ron Bath",
+  "predictions": {
+    "Ron Bath": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -187,8 +186,7 @@
         }
       ]
     },
-    {
-      "speaker": "Mert (Lagia)",
+    "Mert (Lagia)": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -318,8 +316,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -474,5 +471,5 @@
         }
       ]
     }
-  ]
+  }
 }

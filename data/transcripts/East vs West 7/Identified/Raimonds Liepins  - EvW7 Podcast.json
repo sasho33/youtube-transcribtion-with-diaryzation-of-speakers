@@ -4,9 +4,8 @@
     "SPEAKER_03": "Raimonds Liepins"
   },
   "date": "April 20, 2023",
-  "predictions": [
-    {
-      "speaker": "Engin Terzi",
+  "predictions": {
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -261,8 +260,7 @@
         }
       ]
     },
-    {
-      "speaker": "Raimonds Liepins",
+    "Raimonds Liepins": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -367,5 +365,5 @@
         }
       ]
     }
-  ]
+  }
 }

@@ -6,79 +6,86 @@
     "SPEAKER_03": "Oleg Petrenko"
   },
   "date": "October 23, 2024",
-  "self_predictions": {
-    "Devon Larratt": [
-      {
-        "match": [
-          "Devon Larratt",
-          "Oleg Petrenko"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "Devon believes he will win and make Oleg quit, emphasizing his preparation and mental strategy.",
-        "predicted_duration": null,
-        "style_conflict": "Devon anticipates a tough match but believes his experience and strategy will prevail.",
-        "opinion_about_athletes": {
-          "Oleg Petrenko": {
-            "strength": "Respects Oleg's strength and preparation",
-            "health": null,
-            "previous_match_summary": "Notes Oleg's improvements since his match with John"
+  "predictions": {
+    "Devon Larratt": {
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon believes he will win and make Oleg quit, emphasizing his preparation and mental strategy.",
+          "predicted_duration": null,
+          "style_conflict": "Devon anticipates a tough match but believes his experience and strategy will prevail.",
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": "Respects Oleg's strength and preparation",
+              "health": null,
+              "previous_match_summary": "Notes Oleg's improvements since his match with John"
+            }
           }
         }
-      }
-    ],
-    "Oleg Petrenko": [
-      {
-        "match": [
-          "Oleg Petrenko",
-          "Devon Larratt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Oleg Petrenko",
-        "predicted_score": null,
-        "prediction_summary": "Oleg believes he is in his best shape ever and is ready for a tough match, aiming to win the title.",
-        "predicted_duration": null,
-        "style_conflict": "Oleg plans to finish the match quickly but is prepared for a prolonged battle.",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Acknowledges Devon's strength and experience",
-            "health": null,
-            "previous_match_summary": "References Devon's past matches, including his win over Pushkar"
+      ],
+      "third_party_predictions": []
+    },
+    "Oleg Petrenko": {
+      "self_predictions": [
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Oleg believes he is in his best shape ever and is ready for a tough match, aiming to win the title.",
+          "predicted_duration": null,
+          "style_conflict": "Oleg plans to finish the match quickly but is prepared for a prolonged battle.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Acknowledges Devon's strength and experience",
+              "health": null,
+              "previous_match_summary": "References Devon's past matches, including his win over Pushkar"
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Paulo": [
-      {
-        "match": [
-          "Devon Larratt",
-          "Oleg Petrenko"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": "4-3",
-        "prediction_summary": "Paulo predicts a close match with Devon winning due to endurance, but acknowledges Oleg's improved strength.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Recognizes Devon's table feel and strategic approach",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Oleg Petrenko": {
-            "strength": "Notes Oleg's significant strength improvements",
-            "health": null,
-            "previous_match_summary": "Highlights Oleg's growth since his match with John"
+      ],
+      "third_party_predictions": []
+    },
+    "Paulo": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "4-3",
+          "prediction_summary": "Paulo predicts a close match with Devon winning due to endurance, but acknowledges Oleg's improved strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Recognizes Devon's table feel and strategic approach",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Oleg Petrenko": {
+              "strength": "Notes Oleg's significant strength improvements",
+              "health": null,
+              "previous_match_summary": "Highlights Oleg's growth since his match with John"
+            }
           }
         }
-      }
-    ]
+      ]
+    }
   }
 }

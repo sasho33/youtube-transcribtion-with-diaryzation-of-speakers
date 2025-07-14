@@ -6,256 +6,258 @@
     "SPEAKER_04": "Serhii Kalinichenko"
   },
   "date": "January 30, 2025",
-  "self_predictions": {
-    "Frank Lamparelli": [
-      {
-        "match": [
-          "Frank Lamparelli",
-          "Serhii Kalinichenko"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Frank Lamparelli",
-        "predicted_score": null,
-        "prediction_summary": "Frank believes he can top roll Serhii and that Serhii has zero chance of opening his wrist. He feels in good shape and is confident in his top roll technique.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs potential hook or press",
-        "opinion_about_athletes": {
-          "Serhii Kalinichenko": {
-            "strength": "Very strong, fast, and a good presser",
-            "health": null,
-            "previous_match_summary": "Gave a good fight to Georgy Tvetkov, showing endurance and speed."
+  "predictions": {
+    "Frank Lamparelli": {
+      "self_predictions": [
+        {
+          "match": [
+            "Frank Lamparelli",
+            "Serhii Kalinichenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Frank Lamparelli",
+          "predicted_score": null,
+          "prediction_summary": "Frank believes he can top roll Serhii and that Serhii has zero chance of opening his wrist. He feels in good shape and is confident in his top roll technique.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs potential hook or press",
+          "opinion_about_athletes": {
+            "Serhii Kalinichenko": {
+              "strength": "Very strong, fast, and a good presser",
+              "health": null,
+              "previous_match_summary": "Gave a good fight to Georgy Tvetkov, showing endurance and speed."
+            }
           }
         }
-      }
-    ],
-    "Serhii Kalinichenko": [
-      {
-        "match": [
-          "Serhii Kalinichenko",
-          "Frank Lamparelli"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Serhii Kalinichenko",
-        "predicted_score": null,
-        "prediction_summary": "Serhii believes his top roll technique is a counter to Frank's style and that he has improved significantly since his injury. He plans to top roll Frank and feels he is in his best shape.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs top roll",
-        "opinion_about_athletes": {
-          "Frank Lamparelli": {
-            "strength": "Strong wrist and top roll, good hand control",
-            "health": null,
-            "previous_match_summary": "Lost to Georgy Tvetkov but performed well against Dave Chaffee and Michael Todd."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Frank believes Ermes is very strong and will win against Michael Todd. He thinks Ermes has improved in both top roll and press and can switch between techniques effectively.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll/press vs King's move",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Very strong, improved top roll and press",
+              "health": null,
+              "previous_match_summary": "Lost to Devon Larratt due to psychological factors but is in great shape."
+            },
+            "Michael Todd": {
+              "strength": "Improved King's move, gained 20kg",
+              "health": null,
+              "previous_match_summary": "Has changed and improved his technique over the years."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Frank thinks it will be a competitive match with both having strong wrists and pronation. He believes Laletin has better endurance with straps.",
+          "predicted_duration": null,
+          "style_conflict": "Pronation vs pronation",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Long lever, strong pronation",
+              "health": null,
+              "previous_match_summary": "Strong performance in previous matches."
+            },
+            "Artyom Morozov": {
+              "strength": "Strong wrist, monstrous bicep",
+              "health": null,
+              "previous_match_summary": "Undefeated with left arm, stopped many opponents."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Frank wishes Genadi to win and believes he is motivated and at home. He thinks Genadi has recovered 80% of his former shape and has a dangerous press.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook/press",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong top roll, psychological warfare",
+              "health": null,
+              "previous_match_summary": "Won against Ermes Gasparini due to psychological factors."
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Motivated, strong press",
+              "health": "Recovered 80% from surgery",
+              "previous_match_summary": "Close match with Devon last time, now more motivated."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "4-0 or 4-1",
+          "prediction_summary": "Frank thinks Irakli is very prepared and will win convincingly. He likes Irakli's pulling style and believes he has improved since his last match.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Fast start",
+              "health": null,
+              "previous_match_summary": "Strong performer but may be outmatched."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Very prepared, strong wrist",
+              "health": null,
+              "previous_match_summary": "Improved after last fight with Todd."
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Frank Lamparelli": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": null,
-        "prediction_summary": "Frank believes Ermes is very strong and will win against Michael Todd. He thinks Ermes has improved in both top roll and press and can switch between techniques effectively.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll/press vs King's move",
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Very strong, improved top roll and press",
-            "health": null,
-            "previous_match_summary": "Lost to Devon Larratt due to psychological factors but is in great shape."
-          },
-          "Michael Todd": {
-            "strength": "Improved King's move, gained 20kg",
-            "health": null,
-            "previous_match_summary": "Has changed and improved his technique over the years."
+      ]
+    },
+    "Serhii Kalinichenko": {
+      "self_predictions": [
+        {
+          "match": [
+            "Serhii Kalinichenko",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Serhii Kalinichenko",
+          "predicted_score": null,
+          "prediction_summary": "Serhii believes his top roll technique is a counter to Frank's style and that he has improved significantly since his injury. He plans to top roll Frank and feels he is in his best shape.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs top roll",
+          "opinion_about_athletes": {
+            "Frank Lamparelli": {
+              "strength": "Strong wrist and top roll, good hand control",
+              "health": null,
+              "previous_match_summary": "Lost to Georgy Tvetkov but performed well against Dave Chaffee and Michael Todd."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Artyom Morozov"
-        ],
-        "arm": "Left",
-        "event": "East vs West 16",
-        "predicted_winner": "Vitalii Laletin",
-        "predicted_score": null,
-        "prediction_summary": "Frank thinks it will be a competitive match with both having strong wrists and pronation. He believes Laletin has better endurance with straps.",
-        "predicted_duration": null,
-        "style_conflict": "Pronation vs pronation",
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "Long lever, strong pronation",
-            "health": null,
-            "previous_match_summary": "Strong performance in previous matches."
-          },
-          "Artyom Morozov": {
-            "strength": "Strong wrist, monstrous bicep",
-            "health": null,
-            "previous_match_summary": "Undefeated with left arm, stopped many opponents."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Serhii gives Ermes an 85% chance to win, citing his top roll and press techniques. He believes Ermes can control Michael's pronator and press him effectively.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll/press vs King's move",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong top roll and press",
+              "health": null,
+              "previous_match_summary": "Lost to Devon due to bad grip and psychological factors."
+            },
+            "Michael Todd": {
+              "strength": "Improved King's move",
+              "health": null,
+              "previous_match_summary": "Has changed his technique over the years."
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Serhii thinks Morozov has an 80% chance to stop Laletin due to his strong wrist and pronation. He believes Morozov can control the match if he stops Laletin's initial attack.",
+          "predicted_duration": null,
+          "style_conflict": "Pronation vs pronation",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Long lever, strong pronation",
+              "health": null,
+              "previous_match_summary": "Strong performance in previous matches."
+            },
+            "Artyom Morozov": {
+              "strength": "Strong wrist, monstrous bicep",
+              "health": null,
+              "previous_match_summary": "Undefeated with left arm, stopped many opponents."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Serhii thinks Devon has a bigger chance to win because Genadi is still recovering. However, he hopes Genadi will win and believes Genadi is motivated.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook/press",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong top roll, psychological warfare",
+              "health": null,
+              "previous_match_summary": "Won against Ermes Gasparini due to psychological factors."
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Motivated, strong press",
+              "health": "Recovered 80% from surgery",
+              "previous_match_summary": "Close match with Devon last time, now more motivated."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": "3-0 or 3-1",
+          "prediction_summary": "Serhii believes Irakli is much stronger now and will win convincingly. He thinks Irakli's wrist is strong enough to control Todd's pronation.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs hook",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Fast start",
+              "health": null,
+              "previous_match_summary": "Strong performer but may be outmatched."
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Very prepared, strong wrist",
+              "health": null,
+              "previous_match_summary": "Improved after last fight with Todd."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Genadi Kvikvinia",
-        "predicted_score": null,
-        "prediction_summary": "Frank wishes Genadi to win and believes he is motivated and at home. He thinks Genadi has recovered 80% of his former shape and has a dangerous press.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs hook/press",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Strong top roll, psychological warfare",
-            "health": null,
-            "previous_match_summary": "Won against Ermes Gasparini due to psychological factors."
-          },
-          "Genadi Kvikvinia": {
-            "strength": "Motivated, strong press",
-            "health": "Recovered 80% from surgery",
-            "previous_match_summary": "Close match with Devon last time, now more motivated."
-          }
-        }
-      },
-      {
-        "match": [
-          "Todd Hutchings",
-          "Irakli Zirakashvili"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Irakli Zirakashvili",
-        "predicted_score": "4-0 or 4-1",
-        "prediction_summary": "Frank thinks Irakli is very prepared and will win convincingly. He likes Irakli's pulling style and believes he has improved since his last match.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs hook",
-        "opinion_about_athletes": {
-          "Todd Hutchings": {
-            "strength": "Fast start",
-            "health": null,
-            "previous_match_summary": "Strong performer but may be outmatched."
-          },
-          "Irakli Zirakashvili": {
-            "strength": "Very prepared, strong wrist",
-            "health": null,
-            "previous_match_summary": "Improved after last fight with Todd."
-          }
-        }
-      }
-    ],
-    "Serhii Kalinichenko": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": null,
-        "prediction_summary": "Serhii gives Ermes an 85% chance to win, citing his top roll and press techniques. He believes Ermes can control Michael's pronator and press him effectively.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll/press vs King's move",
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Strong top roll and press",
-            "health": null,
-            "previous_match_summary": "Lost to Devon due to bad grip and psychological factors."
-          },
-          "Michael Todd": {
-            "strength": "Improved King's move",
-            "health": null,
-            "previous_match_summary": "Has changed his technique over the years."
-          }
-        }
-      },
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Artyom Morozov"
-        ],
-        "arm": "Left",
-        "event": "East vs West 16",
-        "predicted_winner": "Artyom Morozov",
-        "predicted_score": null,
-        "prediction_summary": "Serhii thinks Morozov has an 80% chance to stop Laletin due to his strong wrist and pronation. He believes Morozov can control the match if he stops Laletin's initial attack.",
-        "predicted_duration": null,
-        "style_conflict": "Pronation vs pronation",
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "Long lever, strong pronation",
-            "health": null,
-            "previous_match_summary": "Strong performance in previous matches."
-          },
-          "Artyom Morozov": {
-            "strength": "Strong wrist, monstrous bicep",
-            "health": null,
-            "previous_match_summary": "Undefeated with left arm, stopped many opponents."
-          }
-        }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "Serhii thinks Devon has a bigger chance to win because Genadi is still recovering. However, he hopes Genadi will win and believes Genadi is motivated.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs hook/press",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Strong top roll, psychological warfare",
-            "health": null,
-            "previous_match_summary": "Won against Ermes Gasparini due to psychological factors."
-          },
-          "Genadi Kvikvinia": {
-            "strength": "Motivated, strong press",
-            "health": "Recovered 80% from surgery",
-            "previous_match_summary": "Close match with Devon last time, now more motivated."
-          }
-        }
-      },
-      {
-        "match": [
-          "Todd Hutchings",
-          "Irakli Zirakashvili"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Irakli Zirakashvili",
-        "predicted_score": "3-0 or 3-1",
-        "prediction_summary": "Serhii believes Irakli is much stronger now and will win convincingly. He thinks Irakli's wrist is strong enough to control Todd's pronation.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs hook",
-        "opinion_about_athletes": {
-          "Todd Hutchings": {
-            "strength": "Fast start",
-            "health": null,
-            "previous_match_summary": "Strong performer but may be outmatched."
-          },
-          "Irakli Zirakashvili": {
-            "strength": "Very prepared, strong wrist",
-            "health": null,
-            "previous_match_summary": "Improved after last fight with Todd."
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

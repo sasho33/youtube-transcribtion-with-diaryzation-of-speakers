@@ -4,236 +4,241 @@
     "SPEAKER_01": "Ivan Matyushenko"
   },
   "date": "April 17, 2025",
-  "self_predictions": {},
-  "third_party_predictions": {
-    "Ivan Matyushenko": [
-      {
-        "match": [
-          "Petro Marharint",
-          "Nugzari Chikadze"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Petro Marharint",
-        "predicted_score": null,
-        "prediction_summary": "Ivan believes Petro Marharint has a stronger wrist and more proven matches, making him the favorite.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Petro Marharint": {
-            "strength": "Extremely strong wrist",
-            "health": null,
-            "previous_match_summary": "Proven strong performances in past matches"
-          },
-          "Nugzari Chikadze": {
-            "strength": "Strong against hook pullers",
-            "health": null,
-            "previous_match_summary": "Beat Krasimir but unsure if Krasimir was at his best"
+  "predictions": {
+    "Ivan Matyushenko": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Petro Marharint",
+            "Nugzari Chikadze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Petro Marharint",
+          "predicted_score": null,
+          "prediction_summary": "Ivan believes Petro Marharint has a stronger wrist and more proven matches, making him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Extremely strong wrist",
+              "health": null,
+              "previous_match_summary": "Proven strong performances in past matches"
+            },
+            "Nugzari Chikadze": {
+              "strength": "Strong against hook pullers",
+              "health": null,
+              "previous_match_summary": "Beat Krasimir but unsure if Krasimir was at his best"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ibragim Sagov",
+            "Sandris Šedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "Ivan thinks Sandris has improved but may not be at 100% due to past injuries, giving Ibragim the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ibragim Sagov": {
+              "strength": "Strong endurance and power",
+              "health": null,
+              "previous_match_summary": "Consistent performer"
+            },
+            "Sandris Šedis": {
+              "strength": "Strong hook",
+              "health": "Had injuries and took time off",
+              "previous_match_summary": "Beat Pavlo but may not be in top form"
+            }
+          }
+        },
+        {
+          "match": [
+            "Talgat Aktaev",
+            "Betkili Oniani"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Talgat Aktaev",
+          "predicted_score": "55-45 or 60-40",
+          "prediction_summary": "Ivan favors Talgat due to his speed, but acknowledges Betkili's ability to stop opponents and win if the match stops.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Talgat Aktaev": {
+              "strength": "Faster",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Betkili Oniani": {
+              "strength": "Good at stopping opponents",
+              "health": null,
+              "previous_match_summary": "Won against Talgat in 2017 by stopping him"
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Artur Makarov",
+          "predicted_score": null,
+          "prediction_summary": "Ivan thinks it will be a close match but leans slightly towards Artur due to his strength and endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": "Strong side pressure",
+              "health": null,
+              "previous_match_summary": "Dominant performances"
+            },
+            "Mindaugus Tarasaitis": {
+              "strength": "Improved recently",
+              "health": null,
+              "previous_match_summary": "Surprised by beating Daniel Prokopcik"
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Frank Lamparelli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Ivan bets on Michael Todd due to his current good shape and power, despite Frank being stylistically uncomfortable for him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "More powerful",
+              "health": "In good shape",
+              "previous_match_summary": null
+            },
+            "Frank Lamparelli": {
+              "strength": "Stylistically uncomfortable for Michael",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Nurdaulet Aidarkhan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Ivan favors Samushia due to his endurance and strength, though Aidarkhan might win some rounds with explosiveness.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Strong endurance",
+              "health": null,
+              "previous_match_summary": "Beat Vala"
+            },
+            "Nurdaulet Aidarkhan": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": "Beat Vala impressively"
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": "50-50",
+          "prediction_summary": "Ivan is unsure but leans slightly towards Georgi due to more recent matches seen, though it could go either way.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Good top roll",
+              "health": null,
+              "previous_match_summary": "Second place to Levan in WAF"
+            },
+            "Alex Kurdecha": {
+              "strength": "Bigger size",
+              "health": null,
+              "previous_match_summary": "Beat Ermes but lost to some in hook"
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": "65-35",
+          "prediction_summary": "Ivan thinks Levan is the favorite if he's ready, though Devon has improved and has some chances, especially in later rounds.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Incredible power",
+              "health": "Ready",
+              "previous_match_summary": "Dominant past performances"
+            },
+            "Devon Larratt": {
+              "strength": "Improved",
+              "health": null,
+              "previous_match_summary": "Proven against top opponents"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Ibragim Sagov",
-          "Sandris Šedis"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Ibragim Sagov",
-        "predicted_score": null,
-        "prediction_summary": "Ivan thinks Sandris has improved but may not be at 100% due to past injuries, giving Ibragim the edge.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Ibragim Sagov": {
-            "strength": "Strong endurance and power",
-            "health": null,
-            "previous_match_summary": "Consistent performer"
-          },
-          "Sandris Šedis": {
-            "strength": "Strong hook",
-            "health": "Had injuries and took time off",
-            "previous_match_summary": "Beat Pavlo but may not be in top form"
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks it's a close match, possibly Ermes winning early rounds but Alizhan in longer matches.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Too strong at lower weights",
+              "health": null,
+              "previous_match_summary": "Dominant performances"
+            },
+            "Ermes Gasparini": {
+              "strength": "Quick and explosive",
+              "health": null,
+              "previous_match_summary": "Had tough matches but showed potential"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Talgat Aktaev",
-          "Betkili Oniani"
-        ],
-        "arm": "Left",
-        "event": "East vs West 12",
-        "predicted_winner": "Talgat Aktaev",
-        "predicted_score": "55-45 or 60-40",
-        "prediction_summary": "Ivan favors Talgat due to his speed, but acknowledges Betkili's ability to stop opponents and win if the match stops.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Talgat Aktaev": {
-            "strength": "Faster",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Betkili Oniani": {
-            "strength": "Good at stopping opponents",
-            "health": null,
-            "previous_match_summary": "Won against Talgat in 2017 by stopping him"
-          }
-        }
-      },
-      {
-        "match": [
-          "Artur Makarov",
-          "Mindaugus Tarasaitis"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Artur Makarov",
-        "predicted_score": null,
-        "prediction_summary": "Ivan thinks it will be a close match but leans slightly towards Artur due to his strength and endurance.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Artur Makarov": {
-            "strength": "Strong side pressure",
-            "health": null,
-            "previous_match_summary": "Dominant performances"
-          },
-          "Mindaugus Tarasaitis": {
-            "strength": "Improved recently",
-            "health": null,
-            "previous_match_summary": "Surprised by beating Daniel Prokopcik"
-          }
-        }
-      },
-      {
-        "match": [
-          "Michael Todd",
-          "Frank Lamparelli"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Michael Todd",
-        "predicted_score": null,
-        "prediction_summary": "Ivan bets on Michael Todd due to his current good shape and power, despite Frank being stylistically uncomfortable for him.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Michael Todd": {
-            "strength": "More powerful",
-            "health": "In good shape",
-            "previous_match_summary": null
-          },
-          "Frank Lamparelli": {
-            "strength": "Stylistically uncomfortable for Michael",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Davit Samushia",
-          "Nurdaulet Aidarkhan"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Davit Samushia",
-        "predicted_score": null,
-        "prediction_summary": "Ivan favors Samushia due to his endurance and strength, though Aidarkhan might win some rounds with explosiveness.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Davit Samushia": {
-            "strength": "Strong endurance",
-            "health": null,
-            "previous_match_summary": "Beat Vala"
-          },
-          "Nurdaulet Aidarkhan": {
-            "strength": "Explosive",
-            "health": null,
-            "previous_match_summary": "Beat Vala impressively"
-          }
-        }
-      },
-      {
-        "match": [
-          "Georgi Tsvetkov",
-          "Alex Kurdecha"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Georgi Tsvetkov",
-        "predicted_score": "50-50",
-        "prediction_summary": "Ivan is unsure but leans slightly towards Georgi due to more recent matches seen, though it could go either way.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Georgi Tsvetkov": {
-            "strength": "Good top roll",
-            "health": null,
-            "previous_match_summary": "Second place to Levan in WAF"
-          },
-          "Alex Kurdecha": {
-            "strength": "Bigger size",
-            "health": null,
-            "previous_match_summary": "Beat Ermes but lost to some in hook"
-          }
-        }
-      },
-      {
-        "match": [
-          "Levan Saginashvili",
-          "Devon Larratt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Levan Saginashvili",
-        "predicted_score": "65-35",
-        "prediction_summary": "Ivan thinks Levan is the favorite if he's ready, though Devon has improved and has some chances, especially in later rounds.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Levan Saginashvili": {
-            "strength": "Incredible power",
-            "health": "Ready",
-            "previous_match_summary": "Dominant past performances"
-          },
-          "Devon Larratt": {
-            "strength": "Improved",
-            "health": null,
-            "previous_match_summary": "Proven against top opponents"
-          }
-        }
-      }
-    ],
-    "Engin Terzi": [
-      {
-        "match": [
-          "Alizhan Muratov",
-          "Ermes Gasparini"
-        ],
-        "arm": "Left",
-        "event": "East vs West 12",
-        "predicted_winner": "50-50",
-        "predicted_score": null,
-        "prediction_summary": "Engin thinks it's a close match, possibly Ermes winning early rounds but Alizhan in longer matches.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Alizhan Muratov": {
-            "strength": "Too strong at lower weights",
-            "health": null,
-            "previous_match_summary": "Dominant performances"
-          },
-          "Ermes Gasparini": {
-            "strength": "Quick and explosive",
-            "health": null,
-            "previous_match_summary": "Had tough matches but showed potential"
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

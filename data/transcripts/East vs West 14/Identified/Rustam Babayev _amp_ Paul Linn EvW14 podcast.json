@@ -6,9 +6,8 @@
     "SPEAKER_03": "Engin Terzi"
   },
   "date": "July 15, 2024",
-  "predictions": [
-    {
-      "speaker": "Rustam Babaiev",
+  "predictions": {
+    "Rustam Babaiev": {
       "self_predictions": [
         {
           "match": [
@@ -78,8 +77,7 @@
         }
       }
     },
-    {
-      "speaker": "Paul Linn",
+    "Paul Linn": {
       "self_predictions": [
         {
           "match": [
@@ -162,8 +160,8 @@
         }
       }
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -205,8 +203,8 @@
         }
       }
     },
-    {
-      "speaker": "Paolo",
+    "Paolo": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -248,5 +246,5 @@
         }
       }
     }
-  ]
+  }
 }

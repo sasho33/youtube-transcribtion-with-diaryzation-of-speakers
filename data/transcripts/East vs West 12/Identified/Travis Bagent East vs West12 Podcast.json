@@ -5,9 +5,8 @@
     "SPEAKER_03": "Engin Terzi"
   },
   "date": "April 03, 2024",
-  "predictions": [
-    {
-      "speaker": "Travis Bagent",
+  "predictions": {
+    "Travis Bagent": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -282,8 +281,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -313,5 +311,5 @@
         }
       ]
     }
-  ]
+  }
 }

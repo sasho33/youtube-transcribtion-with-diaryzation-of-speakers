@@ -7,9 +7,9 @@
     "SPEAKER_04": "Rainis"
   },
   "date": "April 30, 2024",
-  "predictions": [
-    {
-      "speaker": "Engin Terzi",
+  "predictions": {
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -38,8 +38,8 @@
         }
       ]
     },
-    {
-      "speaker": "Henry",
+    "Henry": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -93,8 +93,8 @@
         }
       ]
     },
-    {
-      "speaker": "Skyler",
+    "Skyler": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -123,8 +123,8 @@
         }
       ]
     },
-    {
-      "speaker": "Daniel",
+    "Daniel": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -153,5 +153,5 @@
         }
       ]
     }
-  ]
+  }
 }

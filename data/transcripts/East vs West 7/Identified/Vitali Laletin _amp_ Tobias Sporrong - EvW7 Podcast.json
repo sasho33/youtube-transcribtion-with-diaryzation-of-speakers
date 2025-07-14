@@ -6,9 +6,8 @@
     "SPEAKER_04": "Engin Terzi"
   },
   "date": "March 19, 2023",
-  "predictions": [
-    {
-      "athlete": "Vitalii Laletin",
+  "predictions": {
+    "Vitalii Laletin": {
       "self_predictions": [
         {
           "match": [
@@ -130,8 +129,7 @@
         }
       ]
     },
-    {
-      "athlete": "Tobias Sporrong",
+    "Tobias Sporrong": {
       "self_predictions": [
         {
           "match": [
@@ -257,5 +255,5 @@
         }
       ]
     }
-  ]
+  }
 }

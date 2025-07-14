@@ -6,9 +6,9 @@
     "SPEAKER_03": "Travis Bagent"
   },
   "date": "June 28, 2024",
-  "predictions": [
-    {
-      "speaker": "Levan Saginashvili",
+  "predictions": {
+    "Levan Saginashvili": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -87,8 +87,8 @@
         }
       ]
     },
-    {
-      "speaker": "Devon Larratt",
+    "Devon Larratt": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -142,8 +142,7 @@
         }
       ]
     },
-    {
-      "speaker": "Travis Bagent",
+    "Travis Bagent": {
       "self_predictions": [
         {
           "match": [
@@ -165,7 +164,8 @@
             }
           }
         }
-      ]
+      ],
+      "third_party_predictions": []
     }
-  ]
+  }
 }

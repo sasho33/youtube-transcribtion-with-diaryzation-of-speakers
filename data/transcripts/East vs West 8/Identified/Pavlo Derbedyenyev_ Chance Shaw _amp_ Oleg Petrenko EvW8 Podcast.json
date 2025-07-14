@@ -6,230 +6,234 @@
     "SPEAKER_04": "Oleg Petrenko"
   },
   "date": "July 15, 2023",
-  "self_predictions": {
-    "Pavlo Derbedyenyev": [
-      {
-        "match": [
-          "Sandris Sedis",
-          "Pavlo Derbedyenyev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Pavlo Derbedyenyev",
-        "predicted_score": "60-40",
-        "prediction_summary": "Pavlo believes he is stronger now and has a 60% chance to win against Sandris.",
-        "predicted_duration": null,
-        "style_conflict": "Pavlo thinks his strength will overcome Sandris's technical abilities.",
-        "opinion_about_athletes": {
-          "Sandris Sedis": {
-            "strength": "Technical and experienced",
-            "health": null,
-            "previous_match_summary": "Known for technical prowess and endurance"
+  "predictions": {
+    "Pavlo Derbedyenyev": {
+      "self_predictions": [
+        {
+          "match": [
+            "Sandris Sedis",
+            "Pavlo Derbedyenyev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Pavlo Derbedyenyev",
+          "predicted_score": "60-40",
+          "prediction_summary": "Pavlo believes he is stronger now and has a 60% chance to win against Sandris.",
+          "predicted_duration": null,
+          "style_conflict": "Pavlo thinks his strength will overcome Sandris's technical abilities.",
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": "Technical and experienced",
+              "health": null,
+              "previous_match_summary": "Known for technical prowess and endurance"
+            }
           }
         }
-      }
-    ],
-    "Oleg Petrenko": [
-      {
-        "match": [
-          "Oleg Petrenko",
-          "Chance Shaw"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Oleg Petrenko",
-        "predicted_score": "80-20",
-        "prediction_summary": "Oleg believes he has an 80% chance to win, citing his improved strength and form.",
-        "predicted_duration": null,
-        "style_conflict": "Oleg thinks his power will be decisive.",
-        "opinion_about_athletes": {
-          "Chance Shaw": {
-            "strength": "Fast and technical",
-            "health": null,
-            "previous_match_summary": "Known for endurance and outside pulling"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Pavlo thinks the match is close, depending on who can control the setup.",
+          "predicted_duration": null,
+          "style_conflict": "Speed vs power",
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": "Very powerful",
+              "health": null,
+              "previous_match_summary": "Gaining form after a break"
+            },
+            "Chance Shaw": {
+              "strength": "Fast and technical",
+              "health": null,
+              "previous_match_summary": "Known for endurance"
+            }
+          }
+        },
+        {
+          "match": [
+            "Wagner Bortolato",
+            "Ferit Osmanli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 8",
+          "predicted_winner": "Ferit Osmanli",
+          "predicted_score": null,
+          "prediction_summary": "Pavlo thinks Ferit will win if he can stop Wagner early.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs power",
+          "opinion_about_athletes": {
+            "Wagner Bortolato": {
+              "strength": "Very strong",
+              "health": "Endurance issues",
+              "previous_match_summary": "Struggles with endurance in long matches"
+            },
+            "Ferit Osmanli": {
+              "strength": "Technical",
+              "health": null,
+              "previous_match_summary": "Known for speed and technique"
+            }
           }
         }
-      }
-    ],
-    "Chance Shaw": [
-      {
-        "match": [
-          "Oleg Petrenko",
-          "Chance Shaw"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Chance Shaw",
-        "predicted_score": "92-8",
-        "prediction_summary": "Chance jokes about having a 92% chance but believes his style favors him against Oleg.",
-        "predicted_duration": null,
-        "style_conflict": "Chance thinks he can control Oleg's power with his technique.",
-        "opinion_about_athletes": {
-          "Oleg Petrenko": {
-            "strength": "Very powerful",
-            "health": null,
-            "previous_match_summary": "Known for his hooking ability and strength"
+      ]
+    },
+    "Oleg Petrenko": {
+      "self_predictions": [
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": "80-20",
+          "prediction_summary": "Oleg believes he has an 80% chance to win, citing his improved strength and form.",
+          "predicted_duration": null,
+          "style_conflict": "Oleg thinks his power will be decisive.",
+          "opinion_about_athletes": {
+            "Chance Shaw": {
+              "strength": "Fast and technical",
+              "health": null,
+              "previous_match_summary": "Known for endurance and outside pulling"
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Pavlo Derbedyenyev": [
-      {
-        "match": [
-          "Oleg Petrenko",
-          "Chance Shaw"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "50-50",
-        "predicted_score": null,
-        "prediction_summary": "Pavlo thinks the match is close, depending on who can control the setup.",
-        "predicted_duration": null,
-        "style_conflict": "Speed vs power",
-        "opinion_about_athletes": {
-          "Oleg Petrenko": {
-            "strength": "Very powerful",
-            "health": null,
-            "previous_match_summary": "Gaining form after a break"
-          },
-          "Chance Shaw": {
-            "strength": "Fast and technical",
-            "health": null,
-            "previous_match_summary": "Known for endurance"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Toms Rozits",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Toms Rozits",
+          "predicted_score": "Easy win",
+          "prediction_summary": "Oleg thinks Toms will win relatively easily due to his confident style.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Toms Rozits": {
+              "strength": "Confident style",
+              "health": null,
+              "previous_match_summary": "Recent European champion"
+            },
+            "Justin Bishop": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Hristo Delidzhakov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": "Easy win",
+          "prediction_summary": "Oleg favors Mindaugas due to his control and top roll.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Control and top roll",
+              "health": null,
+              "previous_match_summary": "Impressive control in matches"
+            },
+            "Hristo Delidzhakov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Wagner Bortolato",
-          "Ferit Osmanli"
-        ],
-        "arm": "Left",
-        "event": "East vs West 8",
-        "predicted_winner": "Ferit Osmanli",
-        "predicted_score": null,
-        "prediction_summary": "Pavlo thinks Ferit will win if he can stop Wagner early.",
-        "predicted_duration": null,
-        "style_conflict": "Endurance vs power",
-        "opinion_about_athletes": {
-          "Wagner Bortolato": {
-            "strength": "Very strong",
-            "health": "Endurance issues",
-            "previous_match_summary": "Struggles with endurance in long matches"
-          },
-          "Ferit Osmanli": {
-            "strength": "Technical",
-            "health": null,
-            "previous_match_summary": "Known for speed and technique"
+      ]
+    },
+    "Chance Shaw": {
+      "self_predictions": [
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Chance Shaw",
+          "predicted_score": "92-8",
+          "prediction_summary": "Chance jokes about having a 92% chance but believes his style favors him against Oleg.",
+          "predicted_duration": null,
+          "style_conflict": "Chance thinks he can control Oleg's power with his technique.",
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": "Very powerful",
+              "health": null,
+              "previous_match_summary": "Known for his hooking ability and strength"
+            }
           }
         }
-      }
-    ],
-    "Chance Shaw": [
-      {
-        "match": [
-          "Lachlan Adair",
-          "Andrei Chipreanov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Andrei Chipreanov",
-        "predicted_score": "75-25",
-        "prediction_summary": "Chance favors Andrei due to his technical abilities and speed.",
-        "predicted_duration": null,
-        "style_conflict": "Power vs technique",
-        "opinion_about_athletes": {
-          "Lachlan Adair": {
-            "strength": "Strong",
-            "health": null,
-            "previous_match_summary": "Known for horsepower"
-          },
-          "Andrei Chipreanov": {
-            "strength": "Technical and fast",
-            "health": null,
-            "previous_match_summary": "Former European champion"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Lachlan Adair",
+            "Andrei Chipreanov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Andrei Chipreanov",
+          "predicted_score": "75-25",
+          "prediction_summary": "Chance favors Andrei due to his technical abilities and speed.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs technique",
+          "opinion_about_athletes": {
+            "Lachlan Adair": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Known for horsepower"
+            },
+            "Andrei Chipreanov": {
+              "strength": "Technical and fast",
+              "health": null,
+              "previous_match_summary": "Former European champion"
+            }
+          }
+        },
+        {
+          "match": [
+            "Toms Rozits",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Chance thinks it's a close match, depending on Justin's preparation.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs youth",
+          "opinion_about_athletes": {
+            "Toms Rozits": {
+              "strength": "Strong hand",
+              "health": null,
+              "previous_match_summary": "Relatively new to high-level competition"
+            },
+            "Justin Bishop": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": "Known for endurance"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Toms Rozits",
-          "Justin Bishop"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "50-50",
-        "predicted_score": null,
-        "prediction_summary": "Chance thinks it's a close match, depending on Justin's preparation.",
-        "predicted_duration": null,
-        "style_conflict": "Experience vs youth",
-        "opinion_about_athletes": {
-          "Toms Rozits": {
-            "strength": "Strong hand",
-            "health": null,
-            "previous_match_summary": "Relatively new to high-level competition"
-          },
-          "Justin Bishop": {
-            "strength": "Experienced",
-            "health": null,
-            "previous_match_summary": "Known for endurance"
-          }
-        }
-      }
-    ],
-    "Oleg Petrenko": [
-      {
-        "match": [
-          "Toms Rozits",
-          "Justin Bishop"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Toms Rozits",
-        "predicted_score": "Easy win",
-        "prediction_summary": "Oleg thinks Toms will win relatively easily due to his confident style.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Toms Rozits": {
-            "strength": "Confident style",
-            "health": null,
-            "previous_match_summary": "Recent European champion"
-          },
-          "Justin Bishop": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Mindaugas Tarasaitis",
-          "Hristo Delidzhakov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Mindaugas Tarasaitis",
-        "predicted_score": "Easy win",
-        "prediction_summary": "Oleg favors Mindaugas due to his control and top roll.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Mindaugas Tarasaitis": {
-            "strength": "Control and top roll",
-            "health": null,
-            "previous_match_summary": "Impressive control in matches"
-          },
-          "Hristo Delidzhakov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

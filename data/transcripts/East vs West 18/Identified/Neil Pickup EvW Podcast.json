@@ -5,9 +5,8 @@
     "SPEAKER_02": "Engin Terzi"
   },
   "date": "April 24, 2025",
-  "predictions": [
-    {
-      "speaker": "Neil Pickup",
+  "predictions": {
+    "Neil Pickup": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -337,8 +336,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -568,5 +566,5 @@
         }
       ]
     }
-  ]
+  }
 }

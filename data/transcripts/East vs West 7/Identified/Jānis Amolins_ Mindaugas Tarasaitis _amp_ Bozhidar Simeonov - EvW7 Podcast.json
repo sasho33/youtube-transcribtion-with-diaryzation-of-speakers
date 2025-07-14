@@ -6,9 +6,8 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "April 24, 2023",
-  "predictions": [
-    {
-      "speaker": "Jānis Amolins",
+  "predictions": {
+    "Jānis Amolins": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -263,8 +262,7 @@
         }
       ]
     },
-    {
-      "speaker": "Mindaugas Tarasaitis",
+    "Mindaugas Tarasaitis": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -294,8 +292,7 @@
         }
       ]
     },
-    {
-      "speaker": "Bozhidar Simeonov",
+    "Bozhidar Simeonov": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -325,5 +322,5 @@
         }
       ]
     }
-  ]
+  }
 }

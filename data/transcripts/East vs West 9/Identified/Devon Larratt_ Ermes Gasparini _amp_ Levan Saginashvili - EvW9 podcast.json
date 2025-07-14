@@ -6,106 +6,116 @@
     "SPEAKER_04": "Ermes Gasparini"
   },
   "date": "August 10, 2023",
-  "self_predictions": {
-    "Devon Larratt": [
-      {
-        "match": [
-          "Devon Larratt",
-          "Ermes Gasparini"
-        ],
-        "arm": "Right",
-        "event": "East vs West 9",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": "3-0",
-        "prediction_summary": "Devon believes he will stop Ermes and win quickly, possibly due to Ermes crying or fouling.",
-        "predicted_duration": "Short, possibly one round",
-        "style_conflict": "Devon predicts Ermes will cry and foul, leading to his victory.",
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Strong but prone to crying and fouling",
-            "health": "Good",
-            "previous_match_summary": "Ermes has shown strength but also a tendency to complain during matches."
+  "predictions": {
+    "Devon Larratt": {
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "3-0",
+          "prediction_summary": "Devon believes he will stop Ermes and win quickly, possibly due to Ermes crying or fouling.",
+          "predicted_duration": "Short, possibly one round",
+          "style_conflict": "Devon predicts Ermes will cry and foul, leading to his victory.",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong but prone to crying and fouling",
+              "health": "Good",
+              "previous_match_summary": "Ermes has shown strength but also a tendency to complain during matches."
+            }
           }
         }
-      }
-    ],
-    "Ermes Gasparini": [
-      {
-        "match": [
-          "Devon Larratt",
-          "Ermes Gasparini"
-        ],
-        "arm": "Right",
-        "event": "East vs West 9",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": "3-0",
-        "prediction_summary": "Ermes believes he is stronger and will dominate Devon, possibly breaking his arm.",
-        "predicted_duration": "Short, possibly one round",
-        "style_conflict": "Ermes thinks Devon will try to cheat or cry, but he will overpower him.",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Strong but older",
-            "health": "Good",
-            "previous_match_summary": "Devon has shown resilience but Ermes believes he is stronger now."
+      ],
+      "third_party_predictions": []
+    },
+    "Ermes Gasparini": {
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "3-0",
+          "prediction_summary": "Ermes believes he is stronger and will dominate Devon, possibly breaking his arm.",
+          "predicted_duration": "Short, possibly one round",
+          "style_conflict": "Ermes thinks Devon will try to cheat or cry, but he will overpower him.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong but older",
+              "health": "Good",
+              "previous_match_summary": "Devon has shown resilience but Ermes believes he is stronger now."
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Levan Saginashvili": [
-      {
-        "match": [
-          "Devon Larratt",
-          "Ermes Gasparini"
-        ],
-        "arm": "Right",
-        "event": "East vs West 9",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": "Unknown",
-        "prediction_summary": "Levan initially thought it was 50-50 but now leans towards Ermes due to his youth and speed.",
-        "predicted_duration": "Unknown",
-        "style_conflict": "Levan believes Ermes is stronger and faster now.",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Dangerous and strong",
-            "health": "Good",
-            "previous_match_summary": "Devon is a dangerous opponent with a strong heart and physicality."
-          },
-          "Ermes Gasparini": {
-            "strength": "Stronger now after recent matches",
-            "health": "Good",
-            "previous_match_summary": "Ermes has improved and is now stronger."
+      ],
+      "third_party_predictions": []
+    },
+    "Levan Saginashvili": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "Unknown",
+          "prediction_summary": "Levan initially thought it was 50-50 but now leans towards Ermes due to his youth and speed.",
+          "predicted_duration": "Unknown",
+          "style_conflict": "Levan believes Ermes is stronger and faster now.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Dangerous and strong",
+              "health": "Good",
+              "previous_match_summary": "Devon is a dangerous opponent with a strong heart and physicality."
+            },
+            "Ermes Gasparini": {
+              "strength": "Stronger now after recent matches",
+              "health": "Good",
+              "previous_match_summary": "Ermes has improved and is now stronger."
+            }
           }
         }
-      }
-    ],
-    "Engin Terzi": [
-      {
-        "match": [
-          "Devon Larratt",
-          "Ermes Gasparini"
-        ],
-        "arm": "Right",
-        "event": "East vs West 9",
-        "predicted_winner": "Unknown",
-        "predicted_score": "Unknown",
-        "prediction_summary": "Engin thinks it could go either way, with Devon possibly stopping Ermes or Ermes dominating.",
-        "predicted_duration": "Unknown",
-        "style_conflict": "Engin believes the match could be decided by positioning and style.",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Very dangerous if he gets his position",
-            "health": "Good",
-            "previous_match_summary": "Devon is known for his resilience and strategic approach."
-          },
-          "Ermes Gasparini": {
-            "strength": "Strong and fast",
-            "health": "Good",
-            "previous_match_summary": "Ermes has shown dominance in recent matches."
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 9",
+          "predicted_winner": "Unknown",
+          "predicted_score": "Unknown",
+          "prediction_summary": "Engin thinks it could go either way, with Devon possibly stopping Ermes or Ermes dominating.",
+          "predicted_duration": "Unknown",
+          "style_conflict": "Engin believes the match could be decided by positioning and style.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Very dangerous if he gets his position",
+              "health": "Good",
+              "previous_match_summary": "Devon is known for his resilience and strategic approach."
+            },
+            "Ermes Gasparini": {
+              "strength": "Strong and fast",
+              "health": "Good",
+              "previous_match_summary": "Ermes has shown dominance in recent matches."
+            }
           }
         }
-      }
-    ]
+      ]
+    }
   }
 }

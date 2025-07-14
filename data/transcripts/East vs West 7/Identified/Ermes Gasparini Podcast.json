@@ -4,10 +4,9 @@
     "SPEAKER_01": "Ermes Gasparini",
     "SPEAKER_02": "Unknown"
   },
-  "date": "June 06, 2025",
-  "predictions": [
-    {
-      "speaker": "Ermes Gasparini",
+  "date": "April 16, 2023",
+  "predictions": {
+    "Ermes Gasparini": {
       "self_predictions": [
         {
           "match": [
@@ -23,9 +22,9 @@
           "style_conflict": "Devon's shoulder pressure and blocking movement will be key.",
           "opinion_about_athletes": {
             "Devon Larratt": {
-              "strength": "High endurance and strategic blocking",
-              "health": null,
-              "previous_match_summary": "Devon is known for his smart techniques and endurance in matches."
+              "strength": "High intelligence in blocking movements",
+              "health": "Good endurance",
+              "previous_match_summary": "Devon is known for his strategic approach and endurance."
             },
             "Genadi Kvikvinia": {
               "strength": null,
@@ -38,39 +37,85 @@
       "third_party_predictions": [
         {
           "match": [
-            "Daniel Procopciuc",
-            "Doug Erlich"
+            "Jerry Cadorette",
+            "Devon Larratt"
           ],
           "arm": "Right",
           "event": "East vs West 7",
-          "predicted_winner": null,
+          "predicted_winner": "Devon Larratt",
           "predicted_score": null,
-          "prediction_summary": null,
+          "prediction_summary": "Devon will win because he can block Jerry's movements and has better endurance.",
           "predicted_duration": null,
-          "style_conflict": null,
-          "opinion_about_athletes": {}
+          "style_conflict": "Devon's shoulder pressure will neutralize Jerry's side pressure.",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Strong side pressure",
+              "health": null,
+              "previous_match_summary": "Jerry has good endurance but may struggle against Devon's style."
+            },
+            "Devon Larratt": {
+              "strength": "High intelligence in blocking movements",
+              "health": "Good endurance",
+              "previous_match_summary": "Devon is known for his strategic approach and endurance."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Genadi will win because he is very prepared and has good aim.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi's control and preparation will be key.",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Good aim and control",
+              "health": null,
+              "previous_match_summary": "Genadi has shown strong performances in recent matches."
+            },
+            "Morozov": {
+              "strength": "Strong top roll",
+              "health": null,
+              "previous_match_summary": "Morozov is a tough opponent but may struggle against Genadi's control."
+            }
+          }
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
-            "Bacho Saginashvili",
-            "Adam Wawrzynski"
+            "Sandris Sedis",
+            "Devon Larratt"
           ],
           "arm": "Right",
           "event": "East vs West 7",
-          "predicted_winner": null,
+          "predicted_winner": "Devon Larratt",
           "predicted_score": null,
-          "prediction_summary": null,
+          "prediction_summary": "Devon will win, but it will be a tough match.",
           "predicted_duration": null,
-          "style_conflict": null,
-          "opinion_about_athletes": {}
+          "style_conflict": "Devon's endurance and strategy will be key.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "High intelligence in blocking movements",
+              "health": "Good endurance",
+              "previous_match_summary": "Devon is known for his strategic approach and endurance."
+            },
+            "Sandris Sedis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Sandris is a strong opponent but may struggle against Devon's style."
+            }
+          }
         }
       ]
     }
-  ]
+  }
 }

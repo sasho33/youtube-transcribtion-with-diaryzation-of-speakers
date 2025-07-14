@@ -5,9 +5,8 @@
     "SPEAKER_04": "Ermes Gasparini"
   },
   "date": "November 03, 2022",
-  "predictions": [
-    {
-      "speaker": "Ermes Gasparini",
+  "predictions": {
+    "Ermes Gasparini": {
       "self_predictions": [
         {
           "match": [
@@ -83,8 +82,7 @@
         }
       ]
     },
-    {
-      "speaker": "Dave Chaffee",
+    "Dave Chaffee": {
       "self_predictions": [
         {
           "match": [
@@ -160,5 +158,5 @@
         }
       ]
     }
-  ]
+  }
 }

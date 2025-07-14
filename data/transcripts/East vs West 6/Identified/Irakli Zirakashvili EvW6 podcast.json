@@ -5,9 +5,8 @@
     "SPEAKER_02": "Irakli Zirakashvili"
   },
   "date": "December 11, 2022",
-  "predictions": [
-    {
-      "speaker": "Irakli Zirakashvili",
+  "predictions": {
+    "Irakli Zirakashvili": {
       "self_predictions": [
         {
           "match": [
@@ -258,8 +257,7 @@
         }
       ]
     },
-    {
-      "speaker": "David Arabuli",
+    "David Arabuli": {
       "self_predictions": [
         {
           "match": [
@@ -284,5 +282,5 @@
       ],
       "third_party_predictions": []
     }
-  ]
+  }
 }

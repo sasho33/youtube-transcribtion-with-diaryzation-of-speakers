@@ -6,431 +6,433 @@
     "SPEAKER_03": "Davit Samushia"
   },
   "date": "July 02, 2022",
-  "self_predictions": {
-    "Bozhidar Simeonov": [
-      {
-        "match": [
-          "Davit Samushia",
-          "Bozhidar Simeonov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Expects a very close match, possibly a long war in deep hook. Believes it's 50-50 and that neither can flash pin the other.",
-        "predicted_duration": "Long match",
-        "style_conflict": "Deep hook",
-        "opinion_about_athletes": {
-          "Davit Samushia": {
-            "strength": "Incredible cup and wrist strength",
-            "health": null,
-            "previous_match_summary": "Performed well against top rollers and has incredible endurance."
+  "predictions": {
+    "Bozhidar Simeonov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Expects a very close match, possibly a long war in deep hook. Believes it's 50-50 and that neither can flash pin the other.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Deep hook",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Incredible cup and wrist strength",
+              "health": null,
+              "previous_match_summary": "Performed well against top rollers and has incredible endurance."
+            }
           }
         }
-      }
-    ],
-    "Davit Samushia": [
-      {
-        "match": [
-          "Davit Samushia",
-          "Bozhidar Simeonov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Expects a tough match, ready for anything Bozhidar brings. Believes Bozhidar is a well-rounded elite athlete.",
-        "predicted_duration": "Long match",
-        "style_conflict": "Versatile",
-        "opinion_about_athletes": {
-          "Bozhidar Simeonov": {
-            "strength": "Elite level, well-rounded",
-            "health": null,
-            "previous_match_summary": "Strong performances in past events, known for endurance."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Oleg Zhokh",
+            "David Dadikyan"
+          ],
+          "arm": "Left",
+          "event": "East vs West 4",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": "70-30",
+          "prediction_summary": "Believes Oleg will win due to his strength and recent form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Recent good form."
+            },
+            "David Dadikyan": {
+              "strength": "Strong but may not be enough",
+              "health": null,
+              "previous_match_summary": "Has been performing well but may struggle against Oleg."
+            }
+          }
+        },
+        {
+          "match": [
+            "Egle Vaitkute",
+            "Gabriela Vasconcelos"
+          ],
+          "arm": "Left",
+          "event": "East vs West 4",
+          "predicted_winner": "Egle Vaitkute",
+          "predicted_score": "70-30",
+          "prediction_summary": "Thinks Egle will win based on past performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Egle Vaitkute": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Beat Gabriela last time."
+            },
+            "Gabriela Vasconcelos": {
+              "strength": "Strong but may not be enough",
+              "health": null,
+              "previous_match_summary": "Unfinished business from last match."
+            }
+          }
+        },
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Believes Zurab is in tremendous form and will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Strongest under 110kg",
+              "health": null,
+              "previous_match_summary": "Preparing well, recent good form."
+            },
+            "Chance Shaw": {
+              "strength": "Depends on how he plays his cards",
+              "health": null,
+              "previous_match_summary": "Unpredictable."
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "60-40",
+          "prediction_summary": "Thinks Dave will win despite Morozov's recent form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Could have done better in recent matches."
+            },
+            "Artyom Morozov": {
+              "strength": "Good form",
+              "health": null,
+              "previous_match_summary": "Recent good performances."
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John is the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary",
+              "health": null,
+              "previous_match_summary": "Consistent performer."
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Strong but not enough",
+              "health": null,
+              "previous_match_summary": "Good but may not match John."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "80-20",
+          "prediction_summary": "Believes Prudnik will win decisively, possibly in hook.",
+          "predicted_duration": null,
+          "style_conflict": "Hook",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Will not let the match go long."
+            },
+            "Todd Hutchings": {
+              "strength": "Strong but may not stop Prudnik",
+              "health": null,
+              "previous_match_summary": "Could stop the match if it goes to strap."
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Genadi is more hungry and prepared.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "More prepared",
+              "health": null,
+              "previous_match_summary": "Recent good form."
+            },
+            "Jerry Cadorette": {
+              "strength": "Not seen recently",
+              "health": null,
+              "previous_match_summary": "Unknown recent form."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Krasimir Kostadinov",
+          "predicted_score": null,
+          "prediction_summary": "Believes Krasimir cannot afford to lose this one.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Good form",
+              "health": null,
+              "previous_match_summary": "Performed well against Barbosa."
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Needs to win",
+              "health": null,
+              "previous_match_summary": "In his weight class, no excuses."
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Lachlan Adair"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Sandris Sedis",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Sandris has more weapons and can win even if Lachlan takes early rounds.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": "More versatile",
+              "health": null,
+              "previous_match_summary": "Good performances."
+            },
+            "Lachlan Adair": {
+              "strength": "Unknown",
+              "health": null,
+              "previous_match_summary": "Not well-known."
+            }
+          }
+        },
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Derek Smith"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Revaz Lutidze",
+          "predicted_score": null,
+          "prediction_summary": "Believes Revaz will dominate due to his recent improvements.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Improved recently",
+              "health": null,
+              "previous_match_summary": "Good form."
+            },
+            "Derek Smith": {
+              "strength": "Not enough",
+              "health": null,
+              "previous_match_summary": "Recent win but may not match Revaz."
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Corey Miller"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Corey may start strong but Daniel will adapt and win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "Full arsenal",
+              "health": null,
+              "previous_match_summary": "Good tactician."
+            },
+            "Corey Miller": {
+              "strength": "Fast start",
+              "health": null,
+              "previous_match_summary": "May run out of gas."
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Bozhidar Simeonov": [
-      {
-        "match": [
-          "Oleg Zhokh",
-          "David Dadikyan"
-        ],
-        "arm": "Left",
-        "event": "East vs West 4",
-        "predicted_winner": "Oleg Zhokh",
-        "predicted_score": "70-30",
-        "prediction_summary": "Believes Oleg will win due to his strength and recent form.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Oleg Zhokh": {
-            "strength": "Very strong",
-            "health": null,
-            "previous_match_summary": "Recent good form."
-          },
-          "David Dadikyan": {
-            "strength": "Strong but may not be enough",
-            "health": null,
-            "previous_match_summary": "Has been performing well but may struggle against Oleg."
+      ]
+    },
+    "Davit Samushia": {
+      "self_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Bozhidar Simeonov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Expects a tough match, ready for anything Bozhidar brings. Believes Bozhidar is a well-rounded elite athlete.",
+          "predicted_duration": "Long match",
+          "style_conflict": "Versatile",
+          "opinion_about_athletes": {
+            "Bozhidar Simeonov": {
+              "strength": "Elite level, well-rounded",
+              "health": null,
+              "previous_match_summary": "Strong performances in past events, known for endurance."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Egle Vaitkute",
-          "Gabriela Vasconcelos"
-        ],
-        "arm": "Left",
-        "event": "East vs West 4",
-        "predicted_winner": "Egle Vaitkute",
-        "predicted_score": "70-30",
-        "prediction_summary": "Thinks Egle will win based on past performances.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Egle Vaitkute": {
-            "strength": "Strong",
-            "health": null,
-            "previous_match_summary": "Beat Gabriela last time."
-          },
-          "Gabriela Vasconcelos": {
-            "strength": "Strong but may not be enough",
-            "health": null,
-            "previous_match_summary": "Unfinished business from last match."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Oleg Zhokh",
+            "David Dadikyan"
+          ],
+          "arm": "Left",
+          "event": "East vs West 4",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": "70-30",
+          "prediction_summary": "Thinks Oleg will win due to his strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Recent good form."
+            },
+            "David Dadikyan": {
+              "strength": "Strong but may not be enough",
+              "health": null,
+              "previous_match_summary": "Performing well but may struggle."
+            }
+          }
+        },
+        {
+          "match": [
+            "Egle Vaitkute",
+            "Gabriela Vasconcelos"
+          ],
+          "arm": "Left",
+          "event": "East vs West 4",
+          "predicted_winner": "Egle Vaitkute",
+          "predicted_score": "70-30",
+          "prediction_summary": "Believes Egle will win based on past performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Egle Vaitkute": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Beat Gabriela last time."
+            },
+            "Gabriela Vasconcelos": {
+              "strength": "Strong but may not be enough",
+              "health": null,
+              "previous_match_summary": "Unfinished business."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "80-20",
+          "prediction_summary": "Believes Prudnik will win decisively, possibly in hook.",
+          "predicted_duration": null,
+          "style_conflict": "Hook",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Will not let the match go long."
+            },
+            "Todd Hutchings": {
+              "strength": "Strong but may not stop Prudnik",
+              "health": null,
+              "previous_match_summary": "Could stop the match if it goes to strap."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 4",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "Thinks it's a 50-50 match, cheering for Irakli but acknowledges Krasimir's strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Good form",
+              "health": null,
+              "previous_match_summary": "Performed well against Barbosa."
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Strong in his weight class",
+              "health": null,
+              "previous_match_summary": "No excuses this time."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Zurab Tavberidze",
-          "Chance Shaw"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "Zurab Tavberidze",
-        "predicted_score": null,
-        "prediction_summary": "Believes Zurab is in tremendous form and will win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Zurab Tavberidze": {
-            "strength": "Strongest under 110kg",
-            "health": null,
-            "previous_match_summary": "Preparing well, recent good form."
-          },
-          "Chance Shaw": {
-            "strength": "Depends on how he plays his cards",
-            "health": null,
-            "previous_match_summary": "Unpredictable."
-          }
-        }
-      },
-      {
-        "match": [
-          "Dave Chaffee",
-          "Artyom Morozov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "Dave Chaffee",
-        "predicted_score": "60-40",
-        "prediction_summary": "Thinks Dave will win despite Morozov's recent form.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Dave Chaffee": {
-            "strength": "Strong",
-            "health": null,
-            "previous_match_summary": "Could have done better in recent matches."
-          },
-          "Artyom Morozov": {
-            "strength": "Good form",
-            "health": null,
-            "previous_match_summary": "Recent good performances."
-          }
-        }
-      },
-      {
-        "match": [
-          "John Brzenk",
-          "Kydyrgali Ongarbaev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "John Brzenk",
-        "predicted_score": null,
-        "prediction_summary": "John is the favorite.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "John Brzenk": {
-            "strength": "Legendary",
-            "health": null,
-            "previous_match_summary": "Consistent performer."
-          },
-          "Kydyrgali Ongarbaev": {
-            "strength": "Strong but not enough",
-            "health": null,
-            "previous_match_summary": "Good but may not match John."
-          }
-        }
-      },
-      {
-        "match": [
-          "Evgeny Prudnik",
-          "Todd Hutchings"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "Evgeny Prudnik",
-        "predicted_score": "80-20",
-        "prediction_summary": "Believes Prudnik will win decisively, possibly in hook.",
-        "predicted_duration": null,
-        "style_conflict": "Hook",
-        "opinion_about_athletes": {
-          "Evgeny Prudnik": {
-            "strength": "Very strong",
-            "health": null,
-            "previous_match_summary": "Will not let the match go long."
-          },
-          "Todd Hutchings": {
-            "strength": "Strong but may not stop Prudnik",
-            "health": null,
-            "previous_match_summary": "Could stop the match if it goes to strap."
-          }
-        }
-      },
-      {
-        "match": [
-          "Genadi Kvikvinia",
-          "Jerry Cadorette"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "Genadi Kvikvinia",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Genadi is more hungry and prepared.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Genadi Kvikvinia": {
-            "strength": "More prepared",
-            "health": null,
-            "previous_match_summary": "Recent good form."
-          },
-          "Jerry Cadorette": {
-            "strength": "Not seen recently",
-            "health": null,
-            "previous_match_summary": "Unknown recent form."
-          }
-        }
-      },
-      {
-        "match": [
-          "Irakli Zirakashvili",
-          "Krasimir Kostadinov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "Krasimir Kostadinov",
-        "predicted_score": null,
-        "prediction_summary": "Believes Krasimir cannot afford to lose this one.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Irakli Zirakashvili": {
-            "strength": "Good form",
-            "health": null,
-            "previous_match_summary": "Performed well against Barbosa."
-          },
-          "Krasimir Kostadinov": {
-            "strength": "Needs to win",
-            "health": null,
-            "previous_match_summary": "In his weight class, no excuses."
-          }
-        }
-      },
-      {
-        "match": [
-          "Sandris Sedis",
-          "Lachlan Adair"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "Sandris Sedis",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Sandris has more weapons and can win even if Lachlan takes early rounds.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Sandris Sedis": {
-            "strength": "More versatile",
-            "health": null,
-            "previous_match_summary": "Good performances."
-          },
-          "Lachlan Adair": {
-            "strength": "Unknown",
-            "health": null,
-            "previous_match_summary": "Not well-known."
-          }
-        }
-      },
-      {
-        "match": [
-          "Revaz Lutidze",
-          "Derek Smith"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "Revaz Lutidze",
-        "predicted_score": null,
-        "prediction_summary": "Believes Revaz will dominate due to his recent improvements.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Revaz Lutidze": {
-            "strength": "Improved recently",
-            "health": null,
-            "previous_match_summary": "Good form."
-          },
-          "Derek Smith": {
-            "strength": "Not enough",
-            "health": null,
-            "previous_match_summary": "Recent win but may not match Revaz."
-          }
-        }
-      },
-      {
-        "match": [
-          "Daniel Procopciuc",
-          "Corey Miller"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "Daniel Procopciuc",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Corey may start strong but Daniel will adapt and win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Daniel Procopciuc": {
-            "strength": "Full arsenal",
-            "health": null,
-            "previous_match_summary": "Good tactician."
-          },
-          "Corey Miller": {
-            "strength": "Fast start",
-            "health": null,
-            "previous_match_summary": "May run out of gas."
-          }
-        }
-      }
-    ],
-    "Davit Samushia": [
-      {
-        "match": [
-          "Oleg Zhokh",
-          "David Dadikyan"
-        ],
-        "arm": "Left",
-        "event": "East vs West 4",
-        "predicted_winner": "Oleg Zhokh",
-        "predicted_score": "70-30",
-        "prediction_summary": "Thinks Oleg will win due to his strength.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Oleg Zhokh": {
-            "strength": "Very strong",
-            "health": null,
-            "previous_match_summary": "Recent good form."
-          },
-          "David Dadikyan": {
-            "strength": "Strong but may not be enough",
-            "health": null,
-            "previous_match_summary": "Performing well but may struggle."
-          }
-        }
-      },
-      {
-        "match": [
-          "Egle Vaitkute",
-          "Gabriela Vasconcelos"
-        ],
-        "arm": "Left",
-        "event": "East vs West 4",
-        "predicted_winner": "Egle Vaitkute",
-        "predicted_score": "70-30",
-        "prediction_summary": "Believes Egle will win based on past performances.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Egle Vaitkute": {
-            "strength": "Strong",
-            "health": null,
-            "previous_match_summary": "Beat Gabriela last time."
-          },
-          "Gabriela Vasconcelos": {
-            "strength": "Strong but may not be enough",
-            "health": null,
-            "previous_match_summary": "Unfinished business."
-          }
-        }
-      },
-      {
-        "match": [
-          "Evgeny Prudnik",
-          "Todd Hutchings"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": "Evgeny Prudnik",
-        "predicted_score": "80-20",
-        "prediction_summary": "Believes Prudnik will win decisively, possibly in hook.",
-        "predicted_duration": null,
-        "style_conflict": "Hook",
-        "opinion_about_athletes": {
-          "Evgeny Prudnik": {
-            "strength": "Very strong",
-            "health": null,
-            "previous_match_summary": "Will not let the match go long."
-          },
-          "Todd Hutchings": {
-            "strength": "Strong but may not stop Prudnik",
-            "health": null,
-            "previous_match_summary": "Could stop the match if it goes to strap."
-          }
-        }
-      },
-      {
-        "match": [
-          "Irakli Zirakashvili",
-          "Krasimir Kostadinov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 4",
-        "predicted_winner": null,
-        "predicted_score": "50-50",
-        "prediction_summary": "Thinks it's a 50-50 match, cheering for Irakli but acknowledges Krasimir's strength.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Irakli Zirakashvili": {
-            "strength": "Good form",
-            "health": null,
-            "previous_match_summary": "Performed well against Barbosa."
-          },
-          "Krasimir Kostadinov": {
-            "strength": "Strong in his weight class",
-            "health": null,
-            "previous_match_summary": "No excuses this time."
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

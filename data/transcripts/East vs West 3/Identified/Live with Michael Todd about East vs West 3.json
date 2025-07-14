@@ -5,9 +5,8 @@
     "SPEAKER_03": "Unknown"
   },
   "date": "May 12, 2022",
-  "predictions": [
-    {
-      "speaker": "Michael Todd",
+  "predictions": {
+    "Michael Todd": {
       "self_predictions": [
         {
           "match": [
@@ -183,8 +182,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -214,5 +212,5 @@
         }
       ]
     }
-  ]
+  }
 }

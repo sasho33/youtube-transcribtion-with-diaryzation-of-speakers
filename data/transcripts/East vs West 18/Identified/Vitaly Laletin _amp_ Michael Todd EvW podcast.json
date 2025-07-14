@@ -5,107 +5,149 @@
     "SPEAKER_03": "Ivan Matyushenko",
     "SPEAKER_04": "Michael Todd"
   },
-  "date": "April 25, 2025",
-  "self_predictions": {
-    "Vitaly Laletin": [
-      {
-        "match": [
-          "Vitaly Laletin",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 18",
-        "predicted_winner": "Vitaly Laletin",
-        "predicted_score": null,
-        "prediction_summary": "Vitaly believes he is the favorite due to his leverage, explosiveness, and hand size. He thinks he can flash pin Michael outside the straps.",
-        "predicted_duration": null,
-        "style_conflict": "Vitaly's offensive style vs Michael's defensive style",
-        "opinion_about_athletes": {
-          "Michael Todd": {
-            "strength": "Strong defensive athlete",
-            "health": "In best shape",
-            "previous_match_summary": "Known for his defensive prowess and endurance"
+  "date": "April 24, 2025",
+  "predictions": {
+    "Vitaly Laletin": {
+      "self_predictions": [
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly believes he is the favorite due to his leverage, explosiveness, and hand size. He thinks he can flash pin Michael outside the straps.",
+          "predicted_duration": null,
+          "style_conflict": "Vitaly's offensive style vs Michael's defensive style",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      }
-    ],
-    "Michael Todd": [
-      {
-        "match": [
-          "Michael Todd",
-          "Vitaly Laletin"
-        ],
-        "arm": "Right",
-        "event": "East vs West 18",
-        "predicted_winner": "Vitaly Laletin",
-        "predicted_score": null,
-        "prediction_summary": "Michael acknowledges Vitaly as the favorite due to size, leverage, and strength but believes he can win if he stops Vitaly's flash pin attempt.",
-        "predicted_duration": null,
-        "style_conflict": "Michael's defensive style vs Vitaly's offensive style",
-        "opinion_about_athletes": {
-          "Vitaly Laletin": {
-            "strength": "Very strong and explosive",
-            "health": "In best shape",
-            "previous_match_summary": "Improved significantly since 2019"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "David Dadikyan",
+            "Alizhan Muratov"
+          ],
+          "arm": "Left",
+          "event": null,
+          "predicted_winner": "David Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "Vitaly thinks David has a good chance against Alizhan.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Competitive",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Alizhan Muratov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Engin Terzi": [
-      {
-        "match": [
-          "Vitaly Laletin",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 18",
-        "predicted_winner": "Vitaly Laletin",
-        "predicted_score": null,
-        "prediction_summary": "Engin sees Vitaly as the favorite due to his leverage and explosiveness but acknowledges Michael's defensive strength.",
-        "predicted_duration": null,
-        "style_conflict": "Vitaly's offensive style vs Michael's defensive style",
-        "opinion_about_athletes": {
-          "Vitaly Laletin": {
-            "strength": "Very strong and explosive",
-            "health": "In best shape",
-            "previous_match_summary": "Improved significantly since 2019"
-          },
-          "Michael Todd": {
-            "strength": "Strong defensive athlete",
-            "health": "In best shape",
-            "previous_match_summary": "Known for his defensive prowess and endurance"
+      ]
+    },
+    "Michael Todd": {
+      "self_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Vitaly Laletin"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Michael acknowledges Vitaly as the favorite due to size, leverage, and strength but believes he can win if he stops Vitaly's flash pin attempt.",
+          "predicted_duration": null,
+          "style_conflict": "Michael's defensive style vs Vitaly's offensive style",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Vitaly Laletin": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      }
-    ],
-    "Ivan Matyushenko": [
-      {
-        "match": [
-          "Vitaly Laletin",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 18",
-        "predicted_winner": "Vitaly Laletin",
-        "predicted_score": null,
-        "prediction_summary": "Ivan sees Vitaly as the favorite due to his leverage and explosiveness but acknowledges Michael's defensive strength.",
-        "predicted_duration": null,
-        "style_conflict": "Vitaly's offensive style vs Michael's defensive style",
-        "opinion_about_athletes": {
-          "Vitaly Laletin": {
-            "strength": "Very strong and explosive",
-            "health": "In best shape",
-            "previous_match_summary": "Improved significantly since 2019"
-          },
-          "Michael Todd": {
-            "strength": "Strong defensive athlete",
-            "health": "In best shape",
-            "previous_match_summary": "Known for his defensive prowess and endurance"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Michael is focused on the winner of Levan vs Ermes after his match with Vitaly.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Extremely strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ermes Gasparini": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Ermes did not try to flash pin Michael, focused on control."
+            }
           }
         }
-      }
-    ]
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitaly Laletin",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Vitaly Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Engin sees Vitaly as the favorite due to his leverage and explosiveness but acknowledges Michael's defensive strength.",
+          "predicted_duration": null,
+          "style_conflict": "Vitaly's offensive style vs Michael's defensive style",
+          "opinion_about_athletes": {
+            "Vitaly Laletin": {
+              "strength": "Improved significantly since 2019",
+              "health": "Good",
+              "previous_match_summary": "Stronger now compared to his match with Levan in 2019."
+            },
+            "Michael Todd": {
+              "strength": "Strong riser and defensive techniques",
+              "health": "Good",
+              "previous_match_summary": "Hard to flash pin outside straps; strong in defensive positions."
+            }
+          }
+        }
+      ]
+    }
   }
 }

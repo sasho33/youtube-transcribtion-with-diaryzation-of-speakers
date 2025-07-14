@@ -5,9 +5,8 @@
     "SPEAKER_04": "Moderator/Translator"
   },
   "date": "January 08, 2023",
-  "predictions": [
-    {
-      "speaker": "Mindaugas Tarasaitis",
+  "predictions": {
+    "Mindaugas Tarasaitis": {
       "self_predictions": [
         {
           "match": [
@@ -160,8 +159,7 @@
         }
       }
     },
-    {
-      "speaker": "Nurdaulet Aidarkhan",
+    "Nurdaulet Aidarkhan": {
       "self_predictions": [
         {
           "match": [
@@ -270,5 +268,5 @@
         }
       }
     }
-  ]
+  }
 }

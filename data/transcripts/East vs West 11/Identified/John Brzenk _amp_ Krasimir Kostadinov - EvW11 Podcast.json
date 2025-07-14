@@ -6,9 +6,8 @@
     "SPEAKER_04": "John Brzenk"
   },
   "date": "December 23, 2023",
-  "predictions": [
-    {
-      "speaker": "John Brzenk",
+  "predictions": {
+    "John Brzenk": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -208,8 +207,7 @@
         }
       ]
     },
-    {
-      "speaker": "Krasimir Kostadinov",
+    "Krasimir Kostadinov": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -339,5 +337,5 @@
         }
       ]
     }
-  ]
+  }
 }

@@ -4,9 +4,8 @@
     "SPEAKER_03": "Todd Hutchings"
   },
   "date": "October 31, 2022",
-  "predictions": [
-    {
-      "speaker": "Todd Hutchings",
+  "predictions": {
+    "Todd Hutchings": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -186,5 +185,5 @@
         }
       ]
     }
-  ]
+  }
 }

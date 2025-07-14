@@ -5,9 +5,8 @@
     "SPEAKER_02": "Engin Terzi"
   },
   "date": "May 9, 2022",
-  "predictions": [
-    {
-      "speaker": "Evgeny Prudnik",
+  "predictions": {
+    "Evgeny Prudnik": {
       "self_predictions": [
         {
           "match": [
@@ -153,8 +152,7 @@
         }
       ]
     },
-    {
-      "speaker": "Ermes Gasparini",
+    "Ermes Gasparini": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -284,8 +282,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -365,5 +362,5 @@
         }
       ]
     }
-  ]
+  }
 }

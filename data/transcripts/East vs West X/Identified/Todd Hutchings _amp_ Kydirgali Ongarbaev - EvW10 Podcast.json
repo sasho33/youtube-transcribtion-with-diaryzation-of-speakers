@@ -6,9 +6,8 @@
     "SPEAKER_04": "Sultan"
   },
   "date": "October 22, 2023",
-  "predictions": [
-    {
-      "speaker": "Todd Hutchings",
+  "predictions": {
+    "Todd Hutchings": {
       "self_predictions": [
         {
           "match": [
@@ -109,8 +108,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -135,8 +133,7 @@
         }
       ]
     },
-    {
-      "speaker": "Sultan",
+    "Sultan": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -191,5 +188,5 @@
         }
       ]
     }
-  ]
+  }
 }

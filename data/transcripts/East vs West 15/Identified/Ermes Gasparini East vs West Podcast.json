@@ -5,139 +5,142 @@
     "SPEAKER_02": "Unknown"
   },
   "date": "February 25, 2025",
-  "self_predictions": {
-    "Ermes Gasparini": [
-      {
-        "match": [
-          "Devon Larratt",
-          "Oleg Petrenko"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "Devon will win if he comes in better shape than his match with Chance.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Strong but needs to be in better shape",
-            "health": null,
-            "previous_match_summary": "Struggled in Orlando match due to short preparation time"
-          },
-          "Oleg Petrenko": {
-            "strength": "Super strong, can beat some super heavyweights",
-            "health": null,
-            "previous_match_summary": "Gave trouble to Samushia despite not training for years"
+  "predictions": {
+    "Ermes Gasparini": {
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Oleg Petrenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon will win if he comes in better shape than his match with Chance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Strong but needs to be in better shape",
+              "health": null,
+              "previous_match_summary": "Struggled in Orlando match due to short preparation time"
+            },
+            "Oleg Petrenko": {
+              "strength": "Super strong, can beat some super heavyweights",
+              "health": null,
+              "previous_match_summary": "Gave trouble to Samushia despite not training for years"
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Ermes Gasparini": [
-      {
-        "match": [
-          "Michael Todd",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Close match",
-        "predicted_score": "50-50",
-        "prediction_summary": "Genadi may not be 100% but it will be a very long match.",
-        "predicted_duration": "Very long",
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Michael Todd": {
-            "strength": "In his best shape ever",
-            "health": null,
-            "previous_match_summary": "Very strong and experienced"
-          },
-          "Genadi Kvikvinia": {
-            "strength": "Strong but recovering",
-            "health": "Not 100%",
-            "previous_match_summary": "Will come back strong but not at full capacity"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Close match",
+          "predicted_score": "50-50",
+          "prediction_summary": "Genadi may not be 100% but it will be a very long match.",
+          "predicted_duration": "Very long",
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "In his best shape ever",
+              "health": null,
+              "previous_match_summary": "Very strong and experienced"
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Strong but recovering",
+              "health": "Not 100%",
+              "previous_match_summary": "Will come back strong but not at full capacity"
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Tautiev",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Georgii Tautiev",
+          "predicted_score": null,
+          "prediction_summary": "Georgii has more power but needs to control his wrist.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs leverage",
+          "opinion_about_athletes": {
+            "Georgii Tautiev": {
+              "strength": "Incredibly strong",
+              "health": null,
+              "previous_match_summary": "Big and strong, seen in Moldova"
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Strong but struggles with top roll",
+              "health": null,
+              "previous_match_summary": "Lost to Aydar Khan on fouls"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Georgii Tautiev",
-          "Irakli Zirakashvili"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Georgii Tautiev",
-        "predicted_score": null,
-        "prediction_summary": "Georgii has more power but needs to control his wrist.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs leverage",
-        "opinion_about_athletes": {
-          "Georgii Tautiev": {
-            "strength": "Incredibly strong",
-            "health": null,
-            "previous_match_summary": "Big and strong, seen in Moldova"
-          },
-          "Irakli Zirakashvili": {
-            "strength": "Strong but struggles with top roll",
-            "health": null,
-            "previous_match_summary": "Lost to Aydar Khan on fouls"
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Vitalii is very strong but may struggle with endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Very strong hands",
+              "health": null,
+              "previous_match_summary": "Flash pin potential but struggles with endurance"
+            },
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Samushia is getting stronger and harder to beat.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs pronation",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Very strong, especially in hook",
+              "health": null,
+              "previous_match_summary": "Beat Aydar Khan and others"
+            },
+            "Vladimir Maiorov": {
+              "strength": "Strong but not training consistently",
+              "health": null,
+              "previous_match_summary": "Gave trouble to Samushia despite lack of training"
+            }
           }
         }
-      }
-    ],
-    "Engin Terzi": [
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Georgii Dzeranov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Vitalii Laletin",
-        "predicted_score": null,
-        "prediction_summary": "Vitalii is very strong but may struggle with endurance.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "Very strong hands",
-            "health": null,
-            "previous_match_summary": "Flash pin potential but struggles with endurance"
-          },
-          "Georgii Dzeranov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Davit Samushia",
-          "Vladimir Maiorov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Davit Samushia",
-        "predicted_score": null,
-        "prediction_summary": "Samushia is getting stronger and harder to beat.",
-        "predicted_duration": null,
-        "style_conflict": "Hook vs pronation",
-        "opinion_about_athletes": {
-          "Davit Samushia": {
-            "strength": "Very strong, especially in hook",
-            "health": null,
-            "previous_match_summary": "Beat Aydar Khan and others"
-          },
-          "Vladimir Maiorov": {
-            "strength": "Strong but not training consistently",
-            "health": null,
-            "previous_match_summary": "Gave trouble to Samushia despite lack of training"
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

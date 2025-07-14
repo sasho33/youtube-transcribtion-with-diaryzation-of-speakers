@@ -6,9 +6,8 @@
     "SPEAKER_04": "Kamil Jablonski"
   },
   "date": "March 24, 2024",
-  "predictions": [
-    {
-      "athlete": "Tobias Sporrong",
+  "predictions": {
+    "Tobias Sporrong": {
       "self_predictions": [
         {
           "match": [
@@ -284,8 +283,7 @@
         }
       ]
     },
-    {
-      "athlete": "Kamil Jablonski",
+    "Kamil Jablonski": {
       "self_predictions": [
         {
           "match": [
@@ -586,5 +584,5 @@
         }
       ]
     }
-  ]
+  }
 }

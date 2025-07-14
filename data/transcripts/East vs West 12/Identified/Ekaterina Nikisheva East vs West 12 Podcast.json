@@ -5,206 +5,208 @@
     "SPEAKER_02": "Engin Terzi",
     "SPEAKER_03": "Unknown"
   },
-  "date": "March 11, 2024",
-  "Ekaterina Nikisheva": {
-    "self_predictions": [
-      {
-        "match": [
-          "Fia Reisik",
-          "Ekaterina Nikisheva"
-        ],
-        "arm": "Left",
-        "event": "East vs West 12",
-        "predicted_winner": "Ekaterina Nikisheva",
-        "predicted_score": null,
-        "prediction_summary": "She thinks it will be a spectacular and difficult fight for both of them. She has analyzed Fia's videos and has a strategy.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Fia Reisik": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Lost to Fia in previous encounters long ago."
+  "date": "February 22, 2024",
+  "predictions": {
+    "Ekaterina Nikisheva": {
+      "self_predictions": [
+        {
+          "match": [
+            "Fia Reisik",
+            "Ekaterina Nikisheva"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Ekaterina Nikisheva",
+          "predicted_score": null,
+          "prediction_summary": "She thinks it will be a spectacular and difficult fight for both of them. She has analyzed Fia's videos and has a strategy.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Fia Reisik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Fia was her toughest opponent in the past."
+            }
           }
         }
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Sandris Šedis",
-          "Ibragim Sagov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Ibragim Sagov",
-        "predicted_score": null,
-        "prediction_summary": "She bets on Sagov due to his strong performance at AMC and doesn't know much about Sandris.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Ibragim Sagov": {
-            "strength": "Strong",
-            "health": null,
-            "previous_match_summary": "Performed well at AMC."
-          },
-          "Sandris Šedis": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Not well known to her."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Sandris Šedis",
+            "Ibragim Sagov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Ibragim Sagov",
+          "predicted_score": null,
+          "prediction_summary": "She bets on Sagov because she liked his performance at AMC and doesn't know much about Sandris.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ibragim Sagov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Performed well at AMC."
+            },
+            "Sandris Šedis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Not well known to her."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artur Makarov",
+            "Mindaugus Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Artur Makarov",
+          "predicted_score": null,
+          "prediction_summary": "She knows Mindaugus is strong but bets on Makarov.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artur Makarov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Mindaugus Tarasaitis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Known to be strong."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": null,
+          "prediction_summary": "She thinks Sasho would win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sasho Andreev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Irakli Zirakashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Good against hook pullers."
+            }
+          }
+        },
+        {
+          "match": [
+            "Arsen Liliev",
+            "Brandon Ellsessor"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Arsen Liliev",
+          "predicted_score": null,
+          "prediction_summary": "She thinks Arsen will be very motivated and will do everything to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arsen Liliev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Not the kind to agree to lose."
+            },
+            "Brandon Ellsessor": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "She bets on Tsvetkov.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Alex Kurdecha": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Ermes Gasparini"
+          ],
+          "arm": "Left",
+          "event": "East vs West 12",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "She thinks Alizhan will win with ease, especially since Ermes is not on his strong hand.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Fights great, especially in smaller categories."
+            },
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Not on his strong hand."
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 12",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "She hopes Devon can surprise Levan with his techniques and endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Can fight in different ways, has endurance."
+            },
+            "Levan Saginashvili": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Very big and strong."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Artur Makarov",
-          "Mindaugus Tarasaitis"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Artur Makarov",
-        "predicted_score": null,
-        "prediction_summary": "She knows Mindaugus is strong but bets on Makarov.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Artur Makarov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Mindaugus Tarasaitis": {
-            "strength": "Strong",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Irakli Zirakashvili",
-          "Sasho Andreev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Sasho Andreev",
-        "predicted_score": null,
-        "prediction_summary": "She thinks Sasho would win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Sasho Andreev": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Irakli Zirakashvili": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Lost against Kedirgade but was an easy match."
-          }
-        }
-      },
-      {
-        "match": [
-          "Arsen Liliev",
-          "Brandon Ellsessor"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Arsen Liliev",
-        "predicted_score": null,
-        "prediction_summary": "She thinks Arsen will be very motivated and do everything to win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Arsen Liliev": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Not the kind of athlete who would agree to lose."
-          },
-          "Brandon Ellsessor": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Alex Kurdecha",
-          "Georgi Tsvetkov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Georgi Tsvetkov",
-        "predicted_score": null,
-        "prediction_summary": "She bets on Tsvetkov.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Georgi Tsvetkov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Alex Kurdecha": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Alizhan Muratov",
-          "Ermes Gasparini"
-        ],
-        "arm": "Left",
-        "event": "East vs West 12",
-        "predicted_winner": "Alizhan Muratov",
-        "predicted_score": null,
-        "prediction_summary": "She thinks Alizhan will win with ease, especially since Ermes is not on his strong hand.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Alizhan Muratov": {
-            "strength": "Very strong",
-            "health": null,
-            "previous_match_summary": "Fought great in small category first."
-          },
-          "Ermes Gasparini": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Not on his strong hand."
-          }
-        }
-      },
-      {
-        "match": [
-          "Levan Saginashvili",
-          "Devon Larratt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 12",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "She hopes Devon can surprise Levan with his techniques and endurance.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Can fight in different ways and surprise."
-          },
-          "Levan Saginashvili": {
-            "strength": "Very big",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

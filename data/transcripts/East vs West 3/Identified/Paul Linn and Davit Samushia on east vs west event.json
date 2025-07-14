@@ -6,9 +6,8 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "May 01, 2022",
-  "predictions": [
-    {
-      "speaker": "Paul Linn",
+  "predictions": {
+    "Paul Linn": {
       "self_predictions": [
         {
           "match": [
@@ -209,8 +208,7 @@
         }
       ]
     },
-    {
-      "speaker": "Davit Samushia",
+    "Davit Samushia": {
       "self_predictions": [
         {
           "match": [
@@ -411,5 +409,5 @@
         }
       ]
     }
-  ]
+  }
 }

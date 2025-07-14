@@ -5,107 +5,107 @@
     "SPEAKER_04": "Jocelyne Brisson"
   },
   "date": "March 09, 2025",
-  "self_predictions": {
-    "Jocelyne Brisson": [
-      {
-        "match": [
-          "Jocelyne Brisson",
-          "Sarah Bäckman"
-        ],
-        "arm": "Right",
-        "event": "East vs West 17",
-        "predicted_winner": "Jocelyne Brisson",
-        "predicted_score": "50-50 (publicly), but confident in private",
-        "prediction_summary": "Jocelyne believes she has improved significantly (40%) since their last match and is confident she can handle Sarah's adjustments. She expects Sarah to avoid her hook this time but is prepared for any strategy.",
-        "predicted_duration": null,
-        "style_conflict": "Sarah may try to top roll this time, but Jocelyne is confident in her top roll and setup improvements.",
-        "opinion_about_athletes": {
-          "Sarah Bäckman": {
-            "strength": "Strong, especially in top roll",
-            "health": null,
-            "previous_match_summary": "Sarah lost to Jocelyne in their last match inside but had success in after-pulls with top roll."
+  "predictions": {
+    "Jocelyne Brisson": {
+      "self_predictions": [
+        {
+          "match": [
+            "Jocelyne Brisson",
+            "Sarah Bäckman"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Jocelyne Brisson",
+          "predicted_score": "50-50 (publicly), but confident in private",
+          "prediction_summary": "Jocelyne believes she has improved significantly (40%) since their last match and is confident she can handle Sarah's adjustments. She expects Sarah to avoid her hook this time but is prepared for any strategy.",
+          "predicted_duration": null,
+          "style_conflict": "Sarah may try to top roll this time, but Jocelyne is confident in her top roll and setup improvements.",
+          "opinion_about_athletes": {
+            "Sarah Bäckman": {
+              "strength": "Strong, especially in top roll",
+              "health": null,
+              "previous_match_summary": "Sarah lost to Jocelyne in their last match inside but had success in after-pulls with top roll."
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Jocelyne Brisson": [
-      {
-        "match": [
-          "John Therrien",
-          "Craig Tullier"
-        ],
-        "arm": "Right",
-        "event": "East vs West 17",
-        "predicted_winner": "Craig Tullier",
-        "predicted_score": "Close match, slight edge to Tullier",
-        "prediction_summary": "Jocelyne thinks experience favors Tullier but acknowledges John's heart and endurance. Expects a close match with pins from both.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "John Therrien": {
-            "strength": "Heart and endurance",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Craig Tullier": {
-            "strength": "Experience",
-            "health": null,
-            "previous_match_summary": null
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Therrien",
+            "Craig Tullier"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Craig Tullier",
+          "predicted_score": "Close match, slight edge to Tullier",
+          "prediction_summary": "Jocelyne thinks experience favors Tullier but acknowledges John's heart and endurance. Expects a close match with pins from both.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Therrien": {
+              "strength": "Heart and endurance",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Craig Tullier": {
+              "strength": "Experience",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Jocelyne believes Devon is the favorite in this match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Corey West": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Jocelyne gives the edge to Ongarbaev but expects good battles and entertainment.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Incredible puller",
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Corey West"
-        ],
-        "arm": "Left",
-        "event": "East vs West 17",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "Jocelyne believes Devon is the favorite in this match.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Corey West": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Matt Mask",
-          "Kydyrgali Ongarbaev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 17",
-        "predicted_winner": "Kydyrgali Ongarbaev",
-        "predicted_score": null,
-        "prediction_summary": "Jocelyne gives the edge to Ongarbaev but expects good battles and entertainment.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Matt Mask": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Kydyrgali Ongarbaev": {
-            "strength": "Incredible puller",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

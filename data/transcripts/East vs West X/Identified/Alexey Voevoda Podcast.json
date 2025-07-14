@@ -2,35 +2,55 @@
   "speaker_mapping": {
     "SPEAKER_00": "Alexey Voevoda",
     "SPEAKER_01": "Engin Terzi",
-    "SPEAKER_02": "Paulo (Translator)",
+    "SPEAKER_02": "Paolo (Translator)",
     "SPEAKER_03": "Host"
   },
-  "date": "September 11, 2023",
-  "predictions": [
-    {
-      "speaker": "Alexey Voevoda",
-      "self_predictions": [],
-      "third_party_predictions": [
+  "date": "September 24, 2023",
+  "predictions": {
+    "Alexey Voevoda": {
+      "self_predictions": [
         {
           "match": [
-            "Devon Larratt",
-            "Denis Cyplenkov"
+            "Alexey Voevoda",
+            "John Brzenk"
           ],
           "arm": "Right",
           "event": "East vs West X",
-          "predicted_winner": "Friendship will win",
+          "predicted_winner": null,
           "predicted_score": null,
-          "prediction_summary": "Devon is very good, but sometimes he loses to a guy and then prepares specifically to win. Knowing Denis's fingers, wrist, and ability to withstand long loads, it will be a good fight.",
+          "prediction_summary": "Alexey expresses deep respect for John Brzenk and emphasizes the honor of competing against him rather than focusing on winning. He aims to enjoy the process and showcase a beautiful fight.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
-            "Devon Larratt": {
-              "strength": "Very good, adapts and prepares specifically after losses",
+            "John Brzenk": {
+              "strength": "Highly respected, smart, and professional",
               "health": null,
-              "previous_match_summary": "Loses once, then prepares specifically to win"
-            },
+              "previous_match_summary": "They met once before in a match that ended in a tie, with neither fully understanding the dynamics at the time."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Denis Cyplenkov",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West X",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Alexey acknowledges Devon's ability to adapt and win rematches but highlights Denis's finger and wrist strength and endurance. He hopes 'friendship will win,' indicating a diplomatic stance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
             "Denis Cyplenkov": {
               "strength": "Strong fingers and wrist, can withstand long loads",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Devon Larratt": {
+              "strength": "Good at adapting and winning rematches",
               "health": null,
               "previous_match_summary": null
             }
@@ -38,5 +58,5 @@
         }
       ]
     }
-  ]
+  }
 }

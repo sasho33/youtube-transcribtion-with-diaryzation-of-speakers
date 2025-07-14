@@ -6,60 +6,58 @@
     "SPEAKER_04": "Genadi Kvikvinia",
     "SPEAKER_01": "Translator"
   },
-  "date": "April 01, 2023",
-  "Genadi Kvikvinia": {
-    "self_predictions": [
-      {
-        "match": [
-          "Genadi Kvikvinia",
-          "Devon Larratt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 7",
-        "predicted_winner": "Genadi Kvikvinia",
-        "predicted_score": "3-2",
-        "prediction_summary": "Genadi believes it will be a tough match but he will win in the end, similar to his comeback against Dave Chaffee.",
-        "predicted_duration": "All five rounds",
-        "style_conflict": "Genadi claims to be stronger, faster, and more versatile than Devon, with better surges and endurance.",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Devon is slower and less strong than Genadi.",
-            "health": "Genadi dismisses Devon's thumb injury as an excuse.",
-            "previous_match_summary": "Genadi references Devon's matches, particularly against Michael Todd, to highlight Devon's limitations."
+  "date": "April 22, 2023",
+  "predictions": {
+    "Genadi Kvikvinia": {
+      "self_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": "3-2",
+          "prediction_summary": "Genadi believes it will be a tough match but he will win in the end, possibly going all five rounds. He compares it to his match against Dave Chaffee where he came back from 0-2.",
+          "predicted_duration": "Full match (5 rounds)",
+          "style_conflict": "Genadi claims to be stronger, faster, and more versatile than Devon. He also believes his endurance is on par with Devon's.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Genadi believes he is stronger than Devon.",
+              "health": "Genadi dismisses Devon's thumb injury claims, suggesting they might be excuses.",
+              "previous_match_summary": "Genadi references Devon's matches, particularly against Michael Todd, to highlight Devon's reliance on endurance and king's move."
+            }
           }
         }
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Revaz Lutidze",
-          "Dave Chaffee"
-        ],
-        "arm": "Right",
-        "event": "East vs West 7",
-        "predicted_winner": "Revaz Lutidze",
-        "predicted_score": null,
-        "prediction_summary": "Genadi believes Revaz is currently stronger than when he lost to Morozov and gives him a 60-40 chance against Dave Chaffee.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Revaz Lutidze": {
-            "strength": "Revaz is currently in his best shape, stronger than ever.",
-            "health": null,
-            "previous_match_summary": "Revaz made a mistake in his preparation against Morozov by lifting extremely heavy weights too close to the match."
-          },
-          "Dave Chaffee": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Genadi compares his own progress since his match with Dave Chaffee, noting he is now stronger."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Revaz Lutidze",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Revaz Lutidze",
+          "predicted_score": null,
+          "prediction_summary": "Genadi believes Revaz is currently stronger than when he lost to Morozov and gives him a 60-40 chance against Dave Chaffee, provided Revaz delivers his current form to the table.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi notes Revaz's improved strength and experience with heavy weightlifting compared to his previous match.",
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": "Revaz is currently at his strongest, with significant improvements in weightlifting.",
+              "health": "Revaz is in good health and highly motivated.",
+              "previous_match_summary": "Revaz lost to Morozov due to insufficient rest after heavy weightlifting before the match."
+            },
+            "Dave Chaffee": {
+              "strength": "Genadi compares Dave's strength to his own past performance, suggesting Revaz is now stronger.",
+              "health": null,
+              "previous_match_summary": "Genadi references his own match against Dave Chaffee where he came back from 0-2."
+            }
           }
         }
-      }
-    ]
-  },
-  "Engin Terzi": {
-    "self_predictions": [],
-    "third_party_predictions": []
+      ]
+    }
   }
 }

@@ -4,9 +4,8 @@
     "SPEAKER_04": "Travis Bagent"
   },
   "date": "July 22, 2024",
-  "predictions": [
-    {
-      "speaker": "Travis Bagent",
+  "predictions": {
+    "Travis Bagent": {
       "self_predictions": [
         {
           "match": [
@@ -125,8 +124,7 @@
         }
       }
     },
-    {
-      "speaker": "Corey West",
+    "Corey West": {
       "self_predictions": [
         {
           "match": [
@@ -232,5 +230,5 @@
         }
       }
     }
-  ]
+  }
 }

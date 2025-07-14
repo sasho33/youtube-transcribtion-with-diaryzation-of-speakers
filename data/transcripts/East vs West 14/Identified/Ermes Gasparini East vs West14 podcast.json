@@ -6,9 +6,9 @@
     "SPEAKER_04": "Raimonds Liepiņš"
   },
   "date": "July 29, 2024",
-  "predictions": [
-    {
-      "speaker": "Ermes Gasparini",
+  "predictions": {
+    "Ermes Gasparini": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -112,8 +112,8 @@
         }
       ]
     },
-    {
-      "speaker": "Raimonds Liepiņš",
+    "Raimonds Liepiņš": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -142,5 +142,5 @@
         }
       ]
     }
-  ]
+  }
 }

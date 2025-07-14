@@ -6,107 +6,116 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "January 28, 2025",
-  "self_predictions": [],
-  "third_party_predictions": [
-    {
-      "match": [
-        "Genadi Kvikvinia",
-        "Devon Larratt"
-      ],
-      "arm": "Right",
-      "event": "East vs West 7",
-      "predicted_winner": "Devon Larratt",
-      "predicted_score": null,
-      "prediction_summary": "Devon Larratt is expected to win due to changes in his training camp and preparation system, making him much stronger.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Devon Larratt": {
-          "strength": "Improved significantly due to changes in training",
-          "health": null,
-          "previous_match_summary": "Different from years before, now much stronger"
-        },
-        "Genadi Kvikvinia": {
-          "strength": null,
-          "health": null,
-          "previous_match_summary": null
+  "predictions": {
+    "Denis Cyplenkov": {
+      "self_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Denis Cyplenkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Denis feels he is at 70% now and hopes to be at 75% by the match day. He is concerned about John's endurance and ability to attack his hand and wrist.",
+          "predicted_duration": null,
+          "style_conflict": "Denis plans to focus on top roll and pronation control rather than his old hook style.",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Dangerous, can shock the arm wrestling world",
+              "health": "Around 85-90% of his prime",
+              "previous_match_summary": "Lost to Irakli but showed strength in wrist control"
+            },
+            "Denis Cyplenkov": {
+              "strength": "70% now, hopes to be 75% by match day",
+              "health": "Feeling better after adjusting to Dubai",
+              "previous_match_summary": "Last match was in 2018 against Devon Larratt"
+            }
+          }
         }
-      }
+      ],
+      "third_party_predictions": []
     },
-    {
-      "match": [
-        "Kydyrgali Ongarbaev",
-        "Devon Larratt"
-      ],
-      "arm": "Right",
-      "event": "East vs West 7",
-      "predicted_winner": "Devon Larratt",
-      "predicted_score": null,
-      "prediction_summary": "Devon Larratt has better endurance and is expected to win, though Ongarbaev is disciplined and has a chance if he starts well.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Devon Larratt": {
-          "strength": "Better endurance",
-          "health": null,
-          "previous_match_summary": null
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon Larratt is expected to win due to changes in his training camp and preparation system, making him much stronger.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Improved significantly due to changes in training",
+              "health": null,
+              "previous_match_summary": "Different from years before, now much stronger"
+            },
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
-        "Kydyrgali Ongarbaev": {
-          "strength": "Disciplined and can show many styles",
-          "health": null,
-          "previous_match_summary": "Impressive performance against Michael Todd"
-        }
-      }
-    },
-    {
-      "match": [
-        "John Brzenk",
-        "Denis Cyplenkov"
-      ],
-      "arm": "Right",
-      "event": "East vs West 7",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Denis feels he is at 70% now and hopes to be at 75% by the match day. He is concerned about John's endurance and ability to attack his hand and wrist.",
-      "predicted_duration": null,
-      "style_conflict": "Denis plans to focus on top roll and pronation control rather than his old hook style.",
-      "opinion_about_athletes": {
-        "John Brzenk": {
-          "strength": "Dangerous, can shock the arm wrestling world",
-          "health": "Around 85-90% of his prime",
-          "previous_match_summary": "Lost to Irakli but showed strength in wrist control"
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon Larratt has better endurance and is expected to win, though Ongarbaev is disciplined and has a chance if he starts well.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Better endurance",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Disciplined and can show many styles",
+              "health": null,
+              "previous_match_summary": "Impressive performance against Michael Todd"
+            }
+          }
         },
-        "Denis Cyplenkov": {
-          "strength": "70% now, hopes to be 75% by match day",
-          "health": "Feeling better after adjusting to Dubai",
-          "previous_match_summary": "Last match was in 2018 against Devon Larratt"
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 7",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan is heavily favored due to his size and strength, but Ermes has a chance if he can control the wrist.",
+          "predicted_duration": null,
+          "style_conflict": "Levan's size and weight make it difficult for Ermes to change angles.",
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Extremely strong due to his size (approximately 200 kg)",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ermes Gasparini": {
+              "strength": "Strong wrist moments and top-level control",
+              "health": null,
+              "previous_match_summary": "Proven by beating Dave Chaffee 3-0"
+            }
+          }
         }
-      }
-    },
-    {
-      "match": [
-        "Levan Saginashvili",
-        "Ermes Gasparini"
-      ],
-      "arm": "Right",
-      "event": "East vs West 7",
-      "predicted_winner": "Levan Saginashvili",
-      "predicted_score": null,
-      "prediction_summary": "Levan is heavily favored due to his size and strength, but Ermes has a chance if he can control the wrist.",
-      "predicted_duration": null,
-      "style_conflict": "Levan's size and weight make it difficult for Ermes to change angles.",
-      "opinion_about_athletes": {
-        "Levan Saginashvili": {
-          "strength": "Extremely strong due to his size (approximately 200 kg)",
-          "health": null,
-          "previous_match_summary": null
-        },
-        "Ermes Gasparini": {
-          "strength": "Strong wrist moments and top-level control",
-          "health": null,
-          "previous_match_summary": "Proven by beating Dave Chaffee 3-0"
-        }
-      }
+      ]
     }
-  ]
+  }
 }

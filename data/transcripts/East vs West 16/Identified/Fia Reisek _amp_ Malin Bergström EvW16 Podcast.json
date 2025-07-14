@@ -5,194 +5,196 @@
     "SPEAKER_00": "Neil Pickup"
   },
   "date": "January 13, 2025",
-  "Fia Reisek": {
-    "self_predictions": [],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Devon Larratt",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "Devon will win this time, but it will be a tough match.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Super strong, especially with weight gain.",
-            "health": null,
-            "previous_match_summary": "Devon has beaten many top pullers like Ermes and Denis Siplenko."
-          },
-          "Genadi Kvikvinia": {
-            "strength": "Cannot be intimidated, very tough mentally.",
-            "health": null,
-            "previous_match_summary": "Genadi is not someone to intimidate, no matter who you are."
+  "predictions": {
+    "Fia Reisek": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon will win this time, but it will be a tough match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Super strong, especially with weight gain.",
+              "health": null,
+              "previous_match_summary": "Devon has beaten many top pullers like Ermes and Denis Siplenko."
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Cannot be intimidated, very tough mentally.",
+              "health": null,
+              "previous_match_summary": "Genadi is not someone to intimidate, no matter who you are."
+            }
+          }
+        },
+        {
+          "match": [
+            "Bacho Saginashvili",
+            "Brad Grundy"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Bacho Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Bacho is very strong, but Brad is not someone to underestimate.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bacho Saginashvili": {
+              "strength": "Very strong guy.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Brad Grundy": {
+              "strength": "Not someone to underestimate.",
+              "health": "Had some health problems.",
+              "previous_match_summary": "Beat Paolo and Matt Mask confidently."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes is explosive and will win, but Michael will put up a war.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Explosive and in good shape.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": "Good endurance and mental strength.",
+              "health": null,
+              "previous_match_summary": "Has improved in recent matches."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Bacho Saginashvili",
-          "Brad Grundy"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Bacho Saginashvili",
-        "predicted_score": null,
-        "prediction_summary": "Bacho is very strong, but Brad is not someone to underestimate.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Bacho Saginashvili": {
-            "strength": "Very strong guy.",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Brad Grundy": {
-            "strength": "Not someone to underestimate.",
-            "health": "Had some health problems.",
-            "previous_match_summary": "Beat Paolo and Matt Mask confidently."
+      ]
+    },
+    "Malin Bergström": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon will win, but it will be a tough match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Super strong with weight gain.",
+              "health": null,
+              "previous_match_summary": "Has beaten many top pullers."
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Cannot be intimidated.",
+              "health": null,
+              "previous_match_summary": "Very tough mentally."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Michael has improved and has good endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Explosive.",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Michael Todd": {
+              "strength": "Good endurance and mental strength.",
+              "health": null,
+              "previous_match_summary": "Has improved in recent matches."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": null,
-        "prediction_summary": "Ermes is explosive and will win, but Michael will put up a war.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Explosive and in good shape.",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Michael Todd": {
-            "strength": "Good endurance and mental strength.",
-            "health": null,
-            "previous_match_summary": "Has improved in recent matches."
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Fia Reisek",
+            "Malin Bergström"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Malin Bergström",
+          "predicted_score": null,
+          "prediction_summary": "Malin's explosiveness against Fia's strength. Malin will flash pin Fia three times.",
+          "predicted_duration": null,
+          "style_conflict": "Explosiveness vs strength.",
+          "opinion_about_athletes": {
+            "Fia Reisek": {
+              "strength": "Very strong, especially with weight gain.",
+              "health": null,
+              "previous_match_summary": "Dominant in her category."
+            },
+            "Malin Bergström": {
+              "strength": "Explosive and dominant.",
+              "health": null,
+              "previous_match_summary": "Won Europeans in dominant fashion."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon will win, but it will be a tough match. Genadi cannot be intimidated.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Super strong with weight gain.",
+              "health": null,
+              "previous_match_summary": "Has beaten many top pullers."
+            },
+            "Genadi Kvikvinia": {
+              "strength": "Cannot be intimidated.",
+              "health": null,
+              "previous_match_summary": "Very tough mentally."
+            }
           }
         }
-      }
-    ]
-  },
-  "Malin Bergström": {
-    "self_predictions": [],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Devon Larratt",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "Devon will win, but it will be a tough match.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Super strong with weight gain.",
-            "health": null,
-            "previous_match_summary": "Has beaten many top pullers."
-          },
-          "Genadi Kvikvinia": {
-            "strength": "Cannot be intimidated.",
-            "health": null,
-            "previous_match_summary": "Very tough mentally."
-          }
-        }
-      },
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Michael Todd",
-        "predicted_score": null,
-        "prediction_summary": "Michael has improved and has good endurance.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Explosive.",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Michael Todd": {
-            "strength": "Good endurance and mental strength.",
-            "health": null,
-            "previous_match_summary": "Has improved in recent matches."
-          }
-        }
-      }
-    ]
-  },
-  "Engin Terzi": {
-    "self_predictions": [],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Fia Reisek",
-          "Malin Bergström"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Malin Bergström",
-        "predicted_score": null,
-        "prediction_summary": "Malin's explosiveness against Fia's strength. Malin will flash pin Fia three times.",
-        "predicted_duration": null,
-        "style_conflict": "Explosiveness vs strength.",
-        "opinion_about_athletes": {
-          "Fia Reisek": {
-            "strength": "Very strong, especially with weight gain.",
-            "health": null,
-            "previous_match_summary": "Dominant in her category."
-          },
-          "Malin Bergström": {
-            "strength": "Explosive and dominant.",
-            "health": null,
-            "previous_match_summary": "Won Europeans in dominant fashion."
-          }
-        }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "Devon will win, but it will be a tough match. Genadi cannot be intimidated.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Super strong with weight gain.",
-            "health": null,
-            "previous_match_summary": "Has beaten many top pullers."
-          },
-          "Genadi Kvikvinia": {
-            "strength": "Cannot be intimidated.",
-            "health": null,
-            "previous_match_summary": "Very tough mentally."
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

@@ -20,7 +20,19 @@
           "predicted_score": null,
           "prediction_summary": "Matt feels confident and in the best shape in years, expecting a tough match but believes he can win.",
           "predicted_duration": "Complete war",
-          "style_conflict": "Ongarbaev can transition quickly; Matt plans to adjust based on the situation."
+          "style_conflict": "Ongarbaev can transition quickly; Matt plans to adjust based on the situation.",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ],
       "third_party_predictions": [
@@ -264,7 +276,19 @@
           "predicted_score": null,
           "prediction_summary": "Feels 100% healthy and ready to win.",
           "predicted_duration": null,
-          "style_conflict": null
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Kydyrgali Ongarbaev": {
+              "strength": null,
+              "health": "100% healthy",
+              "previous_match_summary": null
+            },
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ],
       "third_party_predictions": [

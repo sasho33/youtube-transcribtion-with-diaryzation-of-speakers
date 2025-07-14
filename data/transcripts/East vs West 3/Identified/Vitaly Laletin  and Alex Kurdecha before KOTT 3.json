@@ -6,9 +6,9 @@
     "SPEAKER_04": "Vitaly Laletin"
   },
   "date": "February 22, 2022",
-  "predictions": [
-    {
-      "speaker": "Vitaly Laletin",
+  "predictions": {
+    "Vitaly Laletin": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -112,8 +112,8 @@
         }
       ]
     },
-    {
-      "speaker": "Alex Kurdecha",
+    "Alex Kurdecha": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -217,5 +217,5 @@
         }
       ]
     }
-  ]
+  }
 }

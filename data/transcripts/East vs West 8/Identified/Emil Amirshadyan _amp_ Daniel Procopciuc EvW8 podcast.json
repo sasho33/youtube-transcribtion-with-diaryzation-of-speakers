@@ -17,7 +17,9 @@
           "arm": "Left",
           "event": "East vs West 8",
           "predicted_winner": "50-50",
+          "predicted_score": null,
           "prediction_summary": "Daniel feels it's a balanced match, unsure of his current level as he hasn't lost since 2020.",
+          "predicted_duration": null,
           "style_conflict": "Inside pull expected, Daniel's left arm is dominant but Emil's left is healthy."
         }
       ],
@@ -30,7 +32,10 @@
           "arm": "Left",
           "event": "East vs West 8",
           "predicted_winner": "Ferit Osmanli",
-          "prediction_summary": "Ferit's left is fresher and he's fighting at home, but Wagner's press is dangerous."
+          "predicted_score": null,
+          "prediction_summary": "Ferit's left is fresher and he's fighting at home, but Wagner's press is dangerous.",
+          "predicted_duration": null,
+          "style_conflict": null
         },
         {
           "match": [
@@ -40,7 +45,10 @@
           "arm": "Right",
           "event": "East vs West 8",
           "predicted_winner": "Toms Rozits",
-          "prediction_summary": "Slightly favors Toms based on recent European Championship performance."
+          "predicted_score": null,
+          "prediction_summary": "Slightly favors Toms based on recent European Championship performance.",
+          "predicted_duration": null,
+          "style_conflict": null
         },
         {
           "match": [
@@ -50,7 +58,10 @@
           "arm": "Right",
           "event": "East vs West 8",
           "predicted_winner": "Oleg Petrenko",
-          "prediction_summary": "Impressed by Petrenko's strength from side table pulls."
+          "predicted_score": null,
+          "prediction_summary": "Impressed by Petrenko's strength from side table pulls.",
+          "predicted_duration": null,
+          "style_conflict": null
         },
         {
           "match": [
@@ -60,7 +71,10 @@
           "arm": "Right",
           "event": "East vs West 8",
           "predicted_winner": "Rino Mašić",
-          "prediction_summary": "Rino is on a roll, Terence's current form unknown."
+          "predicted_score": null,
+          "prediction_summary": "Rino is on a roll, Terence's current form unknown.",
+          "predicted_duration": null,
+          "style_conflict": null
         },
         {
           "match": [
@@ -70,7 +84,10 @@
           "arm": "Right",
           "event": "East vs West 8",
           "predicted_winner": "Pavlo Derbedyenyev",
-          "prediction_summary": "If Pavlo is in the same shape as against Sabine, he can win."
+          "predicted_score": null,
+          "prediction_summary": "If Pavlo is in the same shape as against Sabine, he can win.",
+          "predicted_duration": null,
+          "style_conflict": null
         },
         {
           "match": [
@@ -80,7 +97,10 @@
           "arm": "Right",
           "event": "East vs West 8",
           "predicted_winner": "Artyom Morozov",
-          "prediction_summary": "60-40 Morozov if outside, 50-50 if hook inside."
+          "predicted_score": null,
+          "prediction_summary": "60-40 Morozov if outside, 50-50 if hook inside.",
+          "predicted_duration": null,
+          "style_conflict": null
         },
         {
           "match": [
@@ -90,7 +110,10 @@
           "arm": "Right",
           "event": "East vs West 8",
           "predicted_winner": "Ermes Gasparini",
-          "prediction_summary": "55-45 Ermes, needs to avoid Jerry's position to win."
+          "predicted_score": null,
+          "prediction_summary": "55-45 Ermes, needs to avoid Jerry's position to win.",
+          "predicted_duration": null,
+          "style_conflict": null
         }
       ],
       "opinion_about_athletes": {
@@ -121,7 +144,9 @@
           "arm": "Left",
           "event": "East vs West 8",
           "predicted_winner": "Not at peak but confident",
+          "predicted_score": null,
           "prediction_summary": "Emil is not at peak condition but is not afraid and will try everything to win.",
+          "predicted_duration": null,
           "style_conflict": "Left arm is healthier, expects a tough match."
         }
       ],
@@ -134,7 +159,10 @@
           "arm": "Right",
           "event": "East vs West 8",
           "predicted_winner": "No clear favorite",
-          "prediction_summary": "Expects a hard match based on endurance."
+          "predicted_score": null,
+          "prediction_summary": "Expects a hard match based on endurance.",
+          "predicted_duration": null,
+          "style_conflict": null
         },
         {
           "match": [
@@ -144,7 +172,10 @@
           "arm": "Right",
           "event": "East vs West 8",
           "predicted_winner": "Artyom Morozov",
-          "prediction_summary": "55-45 Morozov, slightly favored."
+          "predicted_score": null,
+          "prediction_summary": "55-45 Morozov, slightly favored.",
+          "predicted_duration": null,
+          "style_conflict": null
         },
         {
           "match": [
@@ -154,7 +185,10 @@
           "arm": "Right",
           "event": "East vs West 8",
           "predicted_winner": "Ermes Gasparini",
-          "prediction_summary": "Ermes' triceps and top roll can counter Jerry's press."
+          "predicted_score": null,
+          "prediction_summary": "Ermes' triceps and top roll can counter Jerry's press.",
+          "predicted_duration": null,
+          "style_conflict": null
         }
       ],
       "opinion_about_athletes": {

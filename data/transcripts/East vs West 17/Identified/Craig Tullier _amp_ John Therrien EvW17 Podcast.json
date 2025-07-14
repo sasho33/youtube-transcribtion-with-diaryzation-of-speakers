@@ -6,9 +6,8 @@
     "SPEAKER_04": "Craig Tullier"
   },
   "date": "March 03, 2025",
-  "predictions": [
-    {
-      "speaker": "John Therrien",
+  "predictions": {
+    "John Therrien": {
       "self_predictions": [
         {
           "match": [
@@ -109,8 +108,7 @@
         }
       ]
     },
-    {
-      "speaker": "Craig Tullier",
+    "Craig Tullier": {
       "self_predictions": [
         {
           "match": [
@@ -211,8 +209,7 @@
         }
       ]
     },
-    {
-      "speaker": "Paul Linn",
+    "Paul Linn": {
       "third_party_predictions": [
         {
           "match": [
@@ -316,5 +313,5 @@
         }
       ]
     }
-  ]
+  }
 }

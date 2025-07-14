@@ -7,9 +7,8 @@
     "SPEAKER_04": "Olga Terpelova"
   },
   "date": "June 09, 2024",
-  "predictions": [
-    {
-      "speaker": "Carolina Pettersson",
+  "predictions": {
+    "Carolina Pettersson": {
       "self_predictions": [
         {
           "match": [
@@ -295,8 +294,7 @@
         }
       ]
     },
-    {
-      "speaker": "Olga Terpelova",
+    "Olga Terpelova": {
       "self_predictions": [
         {
           "match": [
@@ -482,8 +480,8 @@
         }
       ]
     },
-    {
-      "speaker": "Ivan Matushenko",
+    "Ivan Matushenko": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -527,5 +525,5 @@
         }
       ]
     }
-  ]
+  }
 }

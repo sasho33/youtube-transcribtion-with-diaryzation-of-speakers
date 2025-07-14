@@ -5,9 +5,8 @@
     "SPEAKER_04": "Joshua Grant"
   },
   "date": "November 11, 2022",
-  "predictions": [
-    {
-      "speaker": "Janis Amolins",
+  "predictions": {
+    "Janis Amolins": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -362,8 +361,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -493,8 +491,7 @@
         }
       ]
     },
-    {
-      "speaker": "Joshua Grant",
+    "Joshua Grant": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -599,5 +596,5 @@
         }
       ]
     }
-  ]
+  }
 }

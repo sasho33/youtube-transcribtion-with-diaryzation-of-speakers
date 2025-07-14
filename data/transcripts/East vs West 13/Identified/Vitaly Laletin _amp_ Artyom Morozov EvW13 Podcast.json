@@ -6,9 +6,8 @@
     "SPEAKER_03": "Artem Morozov"
   },
   "date": "June 05, 2024",
-  "predictions": [
-    {
-      "speaker": "Vitalii Laletin",
+  "predictions": {
+    "Vitalii Laletin": {
       "self_predictions": [
         {
           "match": [
@@ -384,8 +383,7 @@
         }
       ]
     },
-    {
-      "speaker": "Artem Morozov",
+    "Artem Morozov": {
       "self_predictions": [
         {
           "match": [
@@ -761,5 +759,5 @@
         }
       ]
     }
-  ]
+  }
 }

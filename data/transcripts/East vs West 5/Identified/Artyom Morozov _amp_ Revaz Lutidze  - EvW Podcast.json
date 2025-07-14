@@ -6,9 +6,8 @@
     "SPEAKER_04": "Revaz Lutidze"
   },
   "date": "October 29, 2022",
-  "predictions": [
-    {
-      "speaker": "Artyom Morozov",
+  "predictions": {
+    "Artyom Morozov": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -163,8 +162,7 @@
         }
       ]
     },
-    {
-      "speaker": "Revaz Lutidze",
+    "Revaz Lutidze": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -244,5 +242,5 @@
         }
       ]
     }
-  ]
+  }
 }

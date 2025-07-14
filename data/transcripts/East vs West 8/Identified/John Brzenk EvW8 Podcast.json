@@ -6,9 +6,8 @@
     "SPEAKER_03": "Unknown"
   },
   "date": "July 8, 2023",
-  "predictions": [
-    {
-      "speaker": "John Brzenk",
+  "predictions": {
+    "John Brzenk": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -63,8 +62,7 @@
         }
       ]
     },
-    {
-      "speaker": "Ermes Gasparini",
+    "Ermes Gasparini": {
       "self_predictions": [
         {
           "match": [
@@ -89,5 +87,5 @@
       ],
       "third_party_predictions": []
     }
-  ]
+  }
 }

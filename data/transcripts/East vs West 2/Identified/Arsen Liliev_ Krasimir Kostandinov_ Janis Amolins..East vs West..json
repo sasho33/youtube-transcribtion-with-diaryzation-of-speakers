@@ -7,9 +7,8 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "January 9, 2022",
-  "predictions": [
-    {
-      "speaker": "Krasimir Kostandinov",
+  "predictions": {
+    "Krasimir Kostandinov": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -39,8 +38,7 @@
         }
       ]
     },
-    {
-      "speaker": "Janis Amolins",
+    "Janis Amolins": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -70,8 +68,7 @@
         }
       ]
     },
-    {
-      "speaker": "Arsen Liliev",
+    "Arsen Liliev": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -101,8 +98,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -132,5 +128,5 @@
         }
       ]
     }
-  ]
+  }
 }

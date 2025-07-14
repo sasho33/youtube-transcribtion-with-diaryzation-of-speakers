@@ -4,134 +4,136 @@
     "SPEAKER_01": "Levan Saginashvili"
   },
   "date": "June 06, 2025",
-  "Levan Saginashvili": {
-    "self_predictions": [],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Mindaugas Tarasaitis",
-          "Janis Amolins"
-        ],
-        "arm": "Right",
-        "event": "East vs West 17",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Great match, both are very good technicians.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Mindaugas Tarasaitis": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Janis Amolins": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
+  "predictions": {
+    "Levan Saginashvili": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Janis Amolins"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Great match, both are very good technicians.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Janis Amolins": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Kydyrgali Ongarbaev",
+          "predicted_score": null,
+          "prediction_summary": "Supports Kydyrgali and hopes he will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Very good match, Georgi's coordination is very strong but Dave might beat him with side pressure.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": "Very strong coordination",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": "Healthy and able to do many exercises recently",
+              "health": "Healthy",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": "Corey wins first two rounds, Devon wins next three",
+          "prediction_summary": "It will not be easy for Devon.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Corey West": {
+              "strength": "Left arm is very good now",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Yoshinobu Kanai",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Historical match, both are legends. Supports John but respects Kanai.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Yoshinobu Kanai": {
+              "strength": "Can fight all day in certain positions",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "John Brzenk": {
+              "strength": "Has shoulder pressure which might help",
+              "health": "Might have back surgery soon",
+              "previous_match_summary": null
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Matt Mask",
-          "Kydyrgali Ongarbaev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 17",
-        "predicted_winner": "Kydyrgali Ongarbaev",
-        "predicted_score": null,
-        "prediction_summary": "Supports Kydyrgali and hopes he will win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Matt Mask": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Kydyrgali Ongarbaev": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Georgi Tsvetkov",
-          "Dave Chaffee"
-        ],
-        "arm": "Right",
-        "event": "East vs West 17",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Very good match, Georgi's coordination is very strong but Dave might beat him with side pressure.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Georgi Tsvetkov": {
-            "strength": "Very strong coordination",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Dave Chaffee": {
-            "strength": "Healthy and able to do many exercises recently",
-            "health": "Healthy",
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Corey West"
-        ],
-        "arm": "Left",
-        "event": "East vs West 17",
-        "predicted_winner": null,
-        "predicted_score": "Corey wins first two rounds, Devon wins next three",
-        "prediction_summary": "It will not be easy for Devon.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Corey West": {
-            "strength": "Left arm is very good now",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Yoshinobu Kanai",
-          "John Brzenk"
-        ],
-        "arm": "Right",
-        "event": "East vs West 17",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Historical match, both are legends. Supports John but respects Kanai.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Yoshinobu Kanai": {
-            "strength": "Can fight all day in certain positions",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "John Brzenk": {
-            "strength": "Has shoulder pressure which might help",
-            "health": "Might have back surgery soon",
-            "previous_match_summary": null
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

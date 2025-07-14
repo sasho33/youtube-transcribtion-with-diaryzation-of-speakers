@@ -4,9 +4,8 @@
     "SPEAKER_02": "Artem Taranov"
   },
   "date": "December 28, 2022",
-  "predictions": [
-    {
-      "speaker": "Paul Linn",
+  "predictions": {
+    "Paul Linn": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -361,8 +360,7 @@
         }
       ]
     },
-    {
-      "speaker": "Artem Taranov",
+    "Artem Taranov": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -717,5 +715,5 @@
         }
       ]
     }
-  ]
+  }
 }

@@ -4,7 +4,7 @@
     "SPEAKER_01": "Engin Terzi",
     "SPEAKER_03": "Wagner Bortolato"
   },
-  "date": "January 02, 2024",
+  "date": "January 20, 2024",
   "predictions": {
     "Matt Mask": {
       "self_predictions": [
@@ -17,14 +17,14 @@
           "event": "East vs West 11",
           "predicted_winner": "Matt Mask",
           "predicted_score": "3-0",
-          "prediction_summary": "Matt Mask is confident in winning against Wagner Bortolato, aiming for a quick victory without letting Wagner win any rounds.",
-          "predicted_duration": "Quick pins",
+          "prediction_summary": "Matt Mask plans to win quickly and decisively, aiming to avoid a prolonged match.",
+          "predicted_duration": "Quick",
           "style_conflict": "Matt plans to avoid Wagner's inside game and focus on quick pins.",
           "opinion_about_athletes": {
             "Wagner Bortolato": {
-              "strength": "Acknowledges Wagner's strength but believes in his own preparation and strategy.",
-              "health": "Notes Wagner's right arm is healthy despite left arm injury.",
-              "previous_match_summary": "References Wagner's past behavior at the table and unpredictability during matches."
+              "strength": "Very strong, especially in the inside game.",
+              "health": "Right arm is healthy; left arm is injured.",
+              "previous_match_summary": "Known for breaking tables and high adrenaline during matches."
             }
           }
         }
@@ -39,21 +39,10 @@
           "event": "East vs West 11",
           "predicted_winner": "Marcio Barboza",
           "predicted_score": "3-2",
-          "prediction_summary": "Matt believes Marcio Barboza will win, possibly with some fouls, due to his technical skills and strength.",
-          "predicted_duration": "Close match",
+          "prediction_summary": "Marcio is underrated and very technical; expects a close match.",
+          "predicted_duration": "Moderate",
           "style_conflict": "Marcio's technical skills vs. Petrenko's strength.",
-          "opinion_about_athletes": {
-            "Marcio Barboza": {
-              "strength": "Highly technical and strong.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Underrated but highly skilled."
-            },
-            "Oleg Petrenko": {
-              "strength": "Strong but may struggle with Marcio's technique.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Recent wins but may falter against technical opponents."
-            }
-          }
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -63,22 +52,11 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Paul Linn",
-          "predicted_score": "Close match",
-          "prediction_summary": "Matt favors Paul Linn due to his recent performances and inside power, but acknowledges Irakli's top roll could pose challenges.",
-          "predicted_duration": "Potential for multiple rounds",
-          "style_conflict": "Paul's inside power vs. Irakli's top roll.",
-          "opinion_about_athletes": {
-            "Paul Linn": {
-              "strength": "Strong inside power and containment ability.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Recent impressive performances."
-            },
-            "Irakli Zirakashvili": {
-              "strength": "Excellent top roll.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Capable of putting opponents in compromising positions."
-            }
-          }
+          "predicted_score": "3-2",
+          "prediction_summary": "Paul's inside power is nuts; if he contains Irakli's top roll, he wins.",
+          "predicted_duration": "Moderate",
+          "style_conflict": "Paul's inside game vs. Irakli's top roll.",
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -89,21 +67,10 @@
           "event": "East vs West 11",
           "predicted_winner": "Artem Taynov",
           "predicted_score": "3-1",
-          "prediction_summary": "Matt predicts Artem Taynov will retain his title, considering Zurab's recent injury and Artem's dominance.",
-          "predicted_duration": "Competitive match",
-          "style_conflict": "Artem's strength vs. Zurab's recovery from injury.",
-          "opinion_about_athletes": {
-            "Artem Taynov": {
-              "strength": "Dominant and strong.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Recent wins and strong performances."
-            },
-            "Zurab Tavberidze": {
-              "strength": "Strong but recovering.",
-              "health": "Recovering from injury.",
-              "previous_match_summary": "Recent injury may affect performance."
-            }
-          }
+          "prediction_summary": "Artem is a bad dude; expects him to retain the title.",
+          "predicted_duration": "Moderate",
+          "style_conflict": "Artem's strength vs. Zurab's technique.",
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -113,47 +80,25 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "John Brzenk",
-          "predicted_score": "Close match",
-          "prediction_summary": "Matt favors John Brzenk due to his experience and technique, especially if he's feeling healthy.",
-          "predicted_duration": "Potential for multiple rounds",
-          "style_conflict": "John's technique vs. Krasimir's strength.",
-          "opinion_about_athletes": {
-            "John Brzenk": {
-              "strength": "Technically superior.",
-              "health": "Depends on current condition.",
-              "previous_match_summary": "Legendary status with consistent performances."
-            },
-            "Krasimir Kostadinov": {
-              "strength": "Strong but has technical holes.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Recent wins but may struggle against top-tier opponents."
-            }
-          }
+          "predicted_score": "3-0",
+          "prediction_summary": "John's experience and technique will prevail.",
+          "predicted_duration": "Quick",
+          "style_conflict": "John's low hand top roll vs. Krasimir's style.",
+          "opinion_about_athletes": {}
         },
         {
           "match": [
             "Todd Hutchings",
-            "Davit Dadikyan"
+            "David Dadikyan"
           ],
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Todd Hutchings",
           "predicted_score": "3-2",
-          "prediction_summary": "Matt believes Todd Hutchings will win due to his recent form and ability to adapt, despite Dadikyan's potential.",
-          "predicted_duration": "Close match",
-          "style_conflict": "Todd's unorthodox style vs. Dadikyan's technique.",
-          "opinion_about_athletes": {
-            "Todd Hutchings": {
-              "strength": "Unorthodox but effective.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Recent impressive performances and adaptability."
-            },
-            "Davit Dadikyan": {
-              "strength": "Technically skilled.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Capable but may struggle against Todd's style."
-            }
-          }
+          "prediction_summary": "Todd's recent form and strength make him the favorite.",
+          "predicted_duration": "Moderate",
+          "style_conflict": "Todd's unorthodox style vs. David's technique.",
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -164,21 +109,10 @@
           "event": "East vs West 11",
           "predicted_winner": "Davit Samushia",
           "predicted_score": "3-0",
-          "prediction_summary": "Matt predicts Davit Samushia will dominate due to his endurance and consistent performance.",
-          "predicted_duration": "Quick pins",
-          "style_conflict": "Davit's endurance vs. Vladimir's potential.",
-          "opinion_about_athletes": {
-            "Davit Samushia": {
-              "strength": "Endurance and consistency.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Dominant in previous matches."
-            },
-            "Vladimir Maiorov": {
-              "strength": "Unknown potential.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Less known compared to Davit."
-            }
-          }
+          "prediction_summary": "Davit's endurance and technique will dominate.",
+          "predicted_duration": "Quick",
+          "style_conflict": "Davit's stamina vs. Vladimir's strength.",
+          "opinion_about_athletes": {}
         }
       ]
     },
@@ -192,15 +126,15 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Wagner Bortolato",
-          "predicted_score": "Victory",
-          "prediction_summary": "Wagner is confident in winning, emphasizing his preparation and improved techniques despite not competing with his right arm for 10 years.",
-          "predicted_duration": "Competitive match",
-          "style_conflict": "Wagner's power vs. Matt's strategy.",
+          "predicted_score": "3-0",
+          "prediction_summary": "Wagner is confident in his right arm and training.",
+          "predicted_duration": "Quick",
+          "style_conflict": "Wagner's power vs. Matt's speed.",
           "opinion_about_athletes": {
             "Matt Mask": {
-              "strength": "Respects Matt's strength and career.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Acknowledges Matt's past performances but believes in his own preparation."
+              "strength": "Fast and strong, but Wagner believes he can overpower him.",
+              "health": "Healthy and in good shape.",
+              "previous_match_summary": "Known for high energy and table-breaking tendencies."
             }
           }
         }
@@ -215,21 +149,10 @@
           "event": "East vs West 11",
           "predicted_winner": "Marcio Barboza",
           "predicted_score": "3-2",
-          "prediction_summary": "Wagner believes Marcio Barboza will win due to his technical skills and strength, but expects a close match.",
-          "predicted_duration": "Close match",
+          "prediction_summary": "Marcio is very technical and strong; expects a close match.",
+          "predicted_duration": "Moderate",
           "style_conflict": "Marcio's technique vs. Petrenko's strength.",
-          "opinion_about_athletes": {
-            "Marcio Barboza": {
-              "strength": "Technical and strong.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Underrated but skilled."
-            },
-            "Oleg Petrenko": {
-              "strength": "Strong but may struggle technically.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Recent wins but may falter against technical opponents."
-            }
-          }
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -239,22 +162,11 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Irakli Zirakashvili",
-          "predicted_score": "Close match",
-          "prediction_summary": "Wagner thinks Irakli's strength will give him the edge over Paul Linn.",
-          "predicted_duration": "Potential for multiple rounds",
-          "style_conflict": "Irakli's strength vs. Paul's technique.",
-          "opinion_about_athletes": {
-            "Irakli Zirakashvili": {
-              "strength": "Very strong.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Strong performances."
-            },
-            "Paul Linn": {
-              "strength": "Complete athlete.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Respected but may struggle against Irakli's strength."
-            }
-          }
+          "predicted_score": "3-2",
+          "prediction_summary": "Irakli's strength will prevail over Paul's technique.",
+          "predicted_duration": "Moderate",
+          "style_conflict": "Irakli's top roll vs. Paul's inside game.",
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -264,22 +176,11 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Oleg Zhokh",
-          "predicted_score": "Victory",
-          "prediction_summary": "Wagner believes Oleg Zhokh's unique hand design and strength will make it impossible for Tutberidze to top roll him.",
-          "predicted_duration": "Dominant performance",
-          "style_conflict": "Oleg's hand design vs. Tutberidze's top roll.",
-          "opinion_about_athletes": {
-            "Oleg Zhokh": {
-              "strength": "Unique hand design and strength.",
-              "health": "Recovered from past issues.",
-              "previous_match_summary": "Strong past performances."
-            },
-            "Avtandil Tutberidze": {
-              "strength": "Top roller.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Recent WAF champion but may struggle against Oleg."
-            }
-          }
+          "predicted_score": "3-0",
+          "prediction_summary": "Oleg's unique hand design makes him unbeatable in his weight class.",
+          "predicted_duration": "Quick",
+          "style_conflict": "Oleg's hand strength vs. Tutberidze's top roll.",
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -289,47 +190,11 @@
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Mindaugas Tarasaitis",
-          "predicted_score": "Close match",
-          "prediction_summary": "Wagner favors Mindaugas due to his endurance and strength, though acknowledges Daniel's capabilities.",
-          "predicted_duration": "Potential for multiple rounds",
-          "style_conflict": "Mindaugas' endurance vs. Daniel's strength.",
-          "opinion_about_athletes": {
-            "Mindaugas Tarasaitis": {
-              "strength": "Good endurance and strength.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Recent strong performances."
-            },
-            "Daniel Procopciuc": {
-              "strength": "Strong but may struggle with endurance.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Capable but may falter in longer matches."
-            }
-          }
-        },
-        {
-          "match": [
-            "Artem Morozov",
-            "Alex Kurdecha"
-          ],
-          "arm": "Left",
-          "event": "East vs West 11",
-          "predicted_winner": "Artem Morozov",
-          "predicted_score": "Victory",
-          "prediction_summary": "Wagner believes Artem Morozov will win, especially if the match goes to a hook, due to his strength and stamina.",
-          "predicted_duration": "Competitive match",
-          "style_conflict": "Artem's hook vs. Alex's top roll.",
-          "opinion_about_athletes": {
-            "Artem Morozov": {
-              "strength": "Strong and great stamina.",
-              "health": "Recovered from illness.",
-              "previous_match_summary": "Dominant when healthy."
-            },
-            "Alex Kurdecha": {
-              "strength": "Strong top roller.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Skilled but may struggle against Artem's hook."
-            }
-          }
+          "predicted_score": "3-2",
+          "prediction_summary": "Mindaugas' endurance and technique will win.",
+          "predicted_duration": "Moderate",
+          "style_conflict": "Mindaugas' top roll vs. Daniel's shoulder pressure.",
+          "opinion_about_athletes": {}
         },
         {
           "match": [
@@ -339,72 +204,25 @@
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "Alizhan Muratov",
-          "predicted_score": "Close match",
-          "prediction_summary": "Wagner thinks Alizhan Muratov's strength will give him the edge, though acknowledges it will be a tough match.",
-          "predicted_duration": "Potential for quick pins or long battle",
-          "style_conflict": "Alizhan's strength vs. Prudnik's technique.",
-          "opinion_about_athletes": {
-            "Alizhan Muratov": {
-              "strength": "Very strong.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Recent dominant performances."
-            },
-            "Evgeny Prudnik": {
-              "strength": "Technically skilled.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Capable of surprising wins."
-            }
-          }
+          "predicted_score": "3-2",
+          "prediction_summary": "Alizhan's strength and explosiveness will edge out Prudnik.",
+          "predicted_duration": "Moderate",
+          "style_conflict": "Alizhan's power vs. Prudnik's technique.",
+          "opinion_about_athletes": {}
         },
         {
           "match": [
             "Todd Hutchings",
-            "Davit Dadikyan"
+            "David Dadikyan"
           ],
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Todd Hutchings",
-          "predicted_score": "Victory",
-          "prediction_summary": "Wagner favors Todd Hutchings due to his resistance and strength, despite not knowing much about Dadikyan's current form.",
-          "predicted_duration": "Competitive match",
-          "style_conflict": "Todd's unorthodox style vs. Dadikyan's technique.",
-          "opinion_about_athletes": {
-            "Todd Hutchings": {
-              "strength": "Strong and resistant.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Recent impressive performances."
-            },
-            "Davit Dadikyan": {
-              "strength": "Technically skilled.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Capable but may struggle against Todd's style."
-            }
-          }
-        },
-        {
-          "match": [
-            "John Brzenk",
-            "Krasimir Kostadinov"
-          ],
-          "arm": "Right",
-          "event": "East vs West 11",
-          "predicted_winner": "John Brzenk",
-          "predicted_score": "Close match",
-          "prediction_summary": "Wagner believes John Brzenk will win due to his experience and hand strength, though acknowledges it will be a good fight.",
-          "predicted_duration": "Potential for multiple rounds",
-          "style_conflict": "John's experience vs. Krasimir's strength.",
-          "opinion_about_athletes": {
-            "John Brzenk": {
-              "strength": "Experienced and strong hand.",
-              "health": "Depends on current condition.",
-              "previous_match_summary": "Legendary status with consistent performances."
-            },
-            "Krasimir Kostadinov": {
-              "strength": "Strong but may have technical holes.",
-              "health": "No mentioned issues.",
-              "previous_match_summary": "Recent wins but may struggle against top-tier opponents."
-            }
-          }
+          "predicted_score": "3-2",
+          "prediction_summary": "Todd's endurance and strength will prevail.",
+          "predicted_duration": "Moderate",
+          "style_conflict": "Todd's unorthodox style vs. David's technique.",
+          "opinion_about_athletes": {}
         }
       ]
     }

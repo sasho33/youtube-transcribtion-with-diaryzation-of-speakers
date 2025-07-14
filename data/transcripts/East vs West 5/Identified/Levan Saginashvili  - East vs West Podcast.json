@@ -5,9 +5,9 @@
     "SPEAKER_04": "Levan Saginashvili"
   },
   "date": "July 27, 2024",
-  "predictions": [
-    {
-      "speaker": "Levan Saginashvili",
+  "predictions": {
+    "Levan Saginashvili": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -161,8 +161,8 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -191,5 +191,5 @@
         }
       ]
     }
-  ]
+  }
 }

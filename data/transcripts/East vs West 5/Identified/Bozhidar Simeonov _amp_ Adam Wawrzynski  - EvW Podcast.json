@@ -5,9 +5,8 @@
     "SPEAKER_02": "Engin Terzi"
   },
   "date": "November 07, 2022",
-  "predictions": [
-    {
-      "speaker": "Bozhidar Simeonov",
+  "predictions": {
+    "Bozhidar Simeonov": {
       "self_predictions": [
         {
           "match": [
@@ -108,8 +107,7 @@
         }
       ]
     },
-    {
-      "speaker": "Adam Wawrzynski",
+    "Adam Wawrzynski": {
       "self_predictions": [
         {
           "match": [
@@ -210,8 +208,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -291,5 +288,5 @@
         }
       ]
     }
-  ]
+  }
 }

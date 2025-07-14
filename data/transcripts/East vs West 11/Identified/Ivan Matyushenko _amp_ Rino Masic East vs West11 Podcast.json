@@ -5,431 +5,433 @@
     "SPEAKER_03": "Rino Masic"
   },
   "date": "December 27, 2023",
-  "self_predictions": {
-    "Ivan Matyushenko": [
-      {
-        "match": [
-          "Ivan Matyushenko",
-          "Rino Masic"
-        ],
-        "arm": "Left",
-        "event": "East vs West 11",
-        "predicted_winner": "Ivan Matyushenko",
-        "predicted_score": null,
-        "prediction_summary": "Ivan believes he has a slight advantage due to experience but acknowledges Rino's strength and versatility.",
-        "predicted_duration": null,
-        "style_conflict": "Speed and experience vs. youth and versatility",
-        "opinion_about_athletes": {
-          "Rino Masic": {
-            "strength": "Strong and versatile",
-            "health": "Young and healthy",
-            "previous_match_summary": "Rino is known for his explosive style and ability to transition between techniques."
+  "predictions": {
+    "Ivan Matyushenko": {
+      "self_predictions": [
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Rino Masic"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": null,
+          "prediction_summary": "Ivan believes he has a slight advantage due to experience but acknowledges Rino's strength and versatility.",
+          "predicted_duration": null,
+          "style_conflict": "Speed and experience vs. youth and versatility",
+          "opinion_about_athletes": {
+            "Rino Masic": {
+              "strength": "Strong and versatile",
+              "health": "Young and healthy",
+              "previous_match_summary": "Rino is known for his explosive style and ability to transition between techniques."
+            }
           }
         }
-      }
-    ],
-    "Rino Masic": [
-      {
-        "match": [
-          "Ivan Matyushenko",
-          "Rino Masic"
-        ],
-        "arm": "Left",
-        "event": "East vs West 11",
-        "predicted_winner": "Rino Masic",
-        "predicted_score": null,
-        "prediction_summary": "Rino believes he can win by leveraging his youth and strength, though he respects Ivan's experience.",
-        "predicted_duration": null,
-        "style_conflict": "Youth and strength vs. experience and technique",
-        "opinion_about_athletes": {
-          "Ivan Matyushenko": {
-            "strength": "Strong and experienced",
-            "health": "Good, but older",
-            "previous_match_summary": "Ivan is known for his speed and endurance, especially in hook matches."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Nurdalet Aidarkhan",
+            "Vala Ichqiti"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Vala Ichqiti",
+          "predicted_score": null,
+          "prediction_summary": "Vala is slightly bigger and has a more dangerous top roll.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Nurdalet Aidarkhan": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": "Known for controlling top rollers."
+            },
+            "Vala Ichqiti": {
+              "strength": "Strong top roller",
+              "health": null,
+              "previous_match_summary": "Effective against hook pullers."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Marcio Barboza"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Marcio Barboza",
+          "predicted_score": null,
+          "prediction_summary": "Marcio is cutting weight and may have better endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Side pressure vs. versatility",
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": "Great side pressure",
+              "health": null,
+              "previous_match_summary": "Strong but may lack coordination."
+            },
+            "Marcio Barboza": {
+              "strength": "Versatile",
+              "health": null,
+              "previous_match_summary": "Better technique and endurance."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Vladimir Maiorov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Vladimir Maiorov",
+          "predicted_score": null,
+          "prediction_summary": "Vladimir has incredible side pressure and endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs. strength",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Strong top roller",
+              "health": null,
+              "previous_match_summary": "Known for endurance."
+            },
+            "Vladimir Maiorov": {
+              "strength": "Incredible side pressure",
+              "health": null,
+              "previous_match_summary": "Very strong and explosive."
+            }
+          }
+        },
+        {
+          "match": [
+            "Krasimir Kostadinov",
+            "John Brzenk"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John is slightly favored due to Krasimir not being in his best shape.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs. strength",
+          "opinion_about_athletes": {
+            "Krasimir Kostadinov": {
+              "strength": "Strong but not peak",
+              "health": null,
+              "previous_match_summary": "Not in best shape recently."
+            },
+            "John Brzenk": {
+              "strength": "Experienced and versatile",
+              "health": null,
+              "previous_match_summary": "Legendary endurance and technique."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan is more explosive and may have better endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Explosiveness vs. endurance",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": "Strong and healthy."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Endurance",
+              "health": null,
+              "previous_match_summary": "Improved recently."
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Todd is the best under 105 and has better endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Speed vs. endurance",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": "Strong top roller."
+            },
+            "Todd Hutchings": {
+              "strength": "Endurance and technique",
+              "health": null,
+              "previous_match_summary": "Smart and strong."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Morozov is more versatile and stronger on the left.",
+          "predicted_duration": null,
+          "style_conflict": "Versatility vs. size",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Versatile",
+              "health": null,
+              "previous_match_summary": "Strong and healthy."
+            },
+            "Alex Kurdecha": {
+              "strength": "Big and strong",
+              "health": null,
+              "previous_match_summary": "Dangerous for top rollers."
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Ivan Matyushenko": [
-      {
-        "match": [
-          "Nurdalet Aidarkhan",
-          "Vala Ichqiti"
-        ],
-        "arm": "Right",
-        "event": "East vs West 11",
-        "predicted_winner": "Vala Ichqiti",
-        "predicted_score": null,
-        "prediction_summary": "Vala is slightly bigger and has a more dangerous top roll.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs. hook",
-        "opinion_about_athletes": {
-          "Nurdalet Aidarkhan": {
-            "strength": "Explosive",
-            "health": null,
-            "previous_match_summary": "Known for controlling top rollers."
-          },
-          "Vala Ichqiti": {
-            "strength": "Strong top roller",
-            "health": null,
-            "previous_match_summary": "Effective against hook pullers."
+      ]
+    },
+    "Rino Masic": {
+      "self_predictions": [
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Rino Masic"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Rino Masic",
+          "predicted_score": null,
+          "prediction_summary": "Rino believes he can win by leveraging his youth and strength, though he respects Ivan's experience.",
+          "predicted_duration": null,
+          "style_conflict": "Youth and strength vs. experience and technique",
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": "Strong and experienced",
+              "health": "Good, but older",
+              "previous_match_summary": "Ivan is known for his speed and endurance, especially in hook matches."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Oleg Petrenko",
-          "Marcio Barboza"
-        ],
-        "arm": "Right",
-        "event": "East vs West 11",
-        "predicted_winner": "Marcio Barboza",
-        "predicted_score": null,
-        "prediction_summary": "Marcio is cutting weight and may have better endurance.",
-        "predicted_duration": null,
-        "style_conflict": "Side pressure vs. versatility",
-        "opinion_about_athletes": {
-          "Oleg Petrenko": {
-            "strength": "Great side pressure",
-            "health": null,
-            "previous_match_summary": "Strong but may lack coordination."
-          },
-          "Marcio Barboza": {
-            "strength": "Versatile",
-            "health": null,
-            "previous_match_summary": "Better technique and endurance."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Nurdalet Aidarkhan",
+            "Vala Ichqiti"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Vala Ichqiti",
+          "predicted_score": null,
+          "prediction_summary": "Vala is more experienced and has a better top roll.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Nurdalet Aidarkhan": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": "Good against hook pullers."
+            },
+            "Vala Ichqiti": {
+              "strength": "Strong top roller",
+              "health": null,
+              "previous_match_summary": "Effective against hook pullers."
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Marcio Barboza"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Oleg is younger and may have more power.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs. technique",
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": "Strong side pressure",
+              "health": null,
+              "previous_match_summary": "Young and powerful."
+            },
+            "Marcio Barboza": {
+              "strength": "Technique",
+              "health": null,
+              "previous_match_summary": "Better technique."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Irakli is more experienced and has a better defensive top roll.",
+          "predicted_duration": null,
+          "style_conflict": "Experience vs. strength",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Experienced",
+              "health": null,
+              "previous_match_summary": "Good defensive top roller."
+            },
+            "Paul Linn": {
+              "strength": "Strong side pressure",
+              "health": null,
+              "previous_match_summary": "Explosive but lacks versatility."
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Wagner Bortolato"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Wagner Bortolato",
+          "predicted_score": null,
+          "prediction_summary": "Wagner is stronger and more explosive.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs. technique",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Technique",
+              "health": null,
+              "previous_match_summary": "Losing streak recently."
+            },
+            "Wagner Bortolato": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": "Strong and dangerous."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artem Taynov",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Artem Taynov",
+          "predicted_score": null,
+          "prediction_summary": "Artem is more versatile and in better shape.",
+          "predicted_duration": null,
+          "style_conflict": "Versatility vs. strength",
+          "opinion_about_athletes": {
+            "Artem Taynov": {
+              "strength": "Versatile",
+              "health": null,
+              "previous_match_summary": "In great shape recently."
+            },
+            "Zurab Tavberidze": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Injured recently."
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Alizhan is more explosive and may have better endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Explosiveness vs. endurance",
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": "Strong and healthy."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Endurance",
+              "health": null,
+              "previous_match_summary": "Improved recently."
+            }
+          }
+        },
+        {
+          "match": [
+            "David Dadikyan",
+            "Todd Hutchings"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Todd has better endurance and technique.",
+          "predicted_duration": null,
+          "style_conflict": "Speed vs. endurance",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Explosive",
+              "health": null,
+              "previous_match_summary": "Strong top roller."
+            },
+            "Todd Hutchings": {
+              "strength": "Endurance and technique",
+              "health": null,
+              "previous_match_summary": "Smart and strong."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Morozov is more versatile and stronger on the left.",
+          "predicted_duration": null,
+          "style_conflict": "Versatility vs. size",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Versatile",
+              "health": null,
+              "previous_match_summary": "Strong and healthy."
+            },
+            "Alex Kurdecha": {
+              "strength": "Big and strong",
+              "health": null,
+              "previous_match_summary": "Dangerous for top rollers."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Davit Samushia",
-          "Vladimir Maiorov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 11",
-        "predicted_winner": "Vladimir Maiorov",
-        "predicted_score": null,
-        "prediction_summary": "Vladimir has incredible side pressure and endurance.",
-        "predicted_duration": null,
-        "style_conflict": "Endurance vs. strength",
-        "opinion_about_athletes": {
-          "Davit Samushia": {
-            "strength": "Strong top roller",
-            "health": null,
-            "previous_match_summary": "Known for endurance."
-          },
-          "Vladimir Maiorov": {
-            "strength": "Incredible side pressure",
-            "health": null,
-            "previous_match_summary": "Very strong and explosive."
-          }
-        }
-      },
-      {
-        "match": [
-          "Krasimir Kostadinov",
-          "John Brzenk"
-        ],
-        "arm": "Right",
-        "event": "East vs West 11",
-        "predicted_winner": "John Brzenk",
-        "predicted_score": null,
-        "prediction_summary": "John is slightly favored due to Krasimir not being in his best shape.",
-        "predicted_duration": null,
-        "style_conflict": "Experience vs. strength",
-        "opinion_about_athletes": {
-          "Krasimir Kostadinov": {
-            "strength": "Strong but not peak",
-            "health": null,
-            "previous_match_summary": "Not in best shape recently."
-          },
-          "John Brzenk": {
-            "strength": "Experienced and versatile",
-            "health": null,
-            "previous_match_summary": "Legendary endurance and technique."
-          }
-        }
-      },
-      {
-        "match": [
-          "Alizhan Muratov",
-          "Evgeny Prudnik"
-        ],
-        "arm": "Left",
-        "event": "East vs West 11",
-        "predicted_winner": "Alizhan Muratov",
-        "predicted_score": null,
-        "prediction_summary": "Alizhan is more explosive and may have better endurance.",
-        "predicted_duration": null,
-        "style_conflict": "Explosiveness vs. endurance",
-        "opinion_about_athletes": {
-          "Alizhan Muratov": {
-            "strength": "Explosive",
-            "health": null,
-            "previous_match_summary": "Strong and healthy."
-          },
-          "Evgeny Prudnik": {
-            "strength": "Endurance",
-            "health": null,
-            "previous_match_summary": "Improved recently."
-          }
-        }
-      },
-      {
-        "match": [
-          "David Dadikyan",
-          "Todd Hutchings"
-        ],
-        "arm": "Right",
-        "event": "East vs West 11",
-        "predicted_winner": "Todd Hutchings",
-        "predicted_score": null,
-        "prediction_summary": "Todd is the best under 105 and has better endurance.",
-        "predicted_duration": null,
-        "style_conflict": "Speed vs. endurance",
-        "opinion_about_athletes": {
-          "David Dadikyan": {
-            "strength": "Explosive",
-            "health": null,
-            "previous_match_summary": "Strong top roller."
-          },
-          "Todd Hutchings": {
-            "strength": "Endurance and technique",
-            "health": null,
-            "previous_match_summary": "Smart and strong."
-          }
-        }
-      },
-      {
-        "match": [
-          "Artyom Morozov",
-          "Alex Kurdecha"
-        ],
-        "arm": "Left",
-        "event": "East vs West 11",
-        "predicted_winner": "Artyom Morozov",
-        "predicted_score": null,
-        "prediction_summary": "Morozov is more versatile and stronger on the left.",
-        "predicted_duration": null,
-        "style_conflict": "Versatility vs. size",
-        "opinion_about_athletes": {
-          "Artyom Morozov": {
-            "strength": "Versatile",
-            "health": null,
-            "previous_match_summary": "Strong and healthy."
-          },
-          "Alex Kurdecha": {
-            "strength": "Big and strong",
-            "health": null,
-            "previous_match_summary": "Dangerous for top rollers."
-          }
-        }
-      }
-    ],
-    "Rino Masic": [
-      {
-        "match": [
-          "Nurdalet Aidarkhan",
-          "Vala Ichqiti"
-        ],
-        "arm": "Right",
-        "event": "East vs West 11",
-        "predicted_winner": "Vala Ichqiti",
-        "predicted_score": null,
-        "prediction_summary": "Vala is more experienced and has a better top roll.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs. hook",
-        "opinion_about_athletes": {
-          "Nurdalet Aidarkhan": {
-            "strength": "Explosive",
-            "health": null,
-            "previous_match_summary": "Good against hook pullers."
-          },
-          "Vala Ichqiti": {
-            "strength": "Strong top roller",
-            "health": null,
-            "previous_match_summary": "Effective against hook pullers."
-          }
-        }
-      },
-      {
-        "match": [
-          "Oleg Petrenko",
-          "Marcio Barboza"
-        ],
-        "arm": "Right",
-        "event": "East vs West 11",
-        "predicted_winner": "Oleg Petrenko",
-        "predicted_score": null,
-        "prediction_summary": "Oleg is younger and may have more power.",
-        "predicted_duration": null,
-        "style_conflict": "Power vs. technique",
-        "opinion_about_athletes": {
-          "Oleg Petrenko": {
-            "strength": "Strong side pressure",
-            "health": null,
-            "previous_match_summary": "Young and powerful."
-          },
-          "Marcio Barboza": {
-            "strength": "Technique",
-            "health": null,
-            "previous_match_summary": "Better technique."
-          }
-        }
-      },
-      {
-        "match": [
-          "Irakli Zirakashvili",
-          "Paul Linn"
-        ],
-        "arm": "Right",
-        "event": "East vs West 11",
-        "predicted_winner": "Irakli Zirakashvili",
-        "predicted_score": null,
-        "prediction_summary": "Irakli is more experienced and has a better defensive top roll.",
-        "predicted_duration": null,
-        "style_conflict": "Experience vs. strength",
-        "opinion_about_athletes": {
-          "Irakli Zirakashvili": {
-            "strength": "Experienced",
-            "health": null,
-            "previous_match_summary": "Good defensive top roller."
-          },
-          "Paul Linn": {
-            "strength": "Strong side pressure",
-            "health": null,
-            "previous_match_summary": "Explosive but lacks versatility."
-          }
-        }
-      },
-      {
-        "match": [
-          "Matt Mask",
-          "Wagner Bortolato"
-        ],
-        "arm": "Right",
-        "event": "East vs West 11",
-        "predicted_winner": "Wagner Bortolato",
-        "predicted_score": null,
-        "prediction_summary": "Wagner is stronger and more explosive.",
-        "predicted_duration": null,
-        "style_conflict": "Strength vs. technique",
-        "opinion_about_athletes": {
-          "Matt Mask": {
-            "strength": "Technique",
-            "health": null,
-            "previous_match_summary": "Losing streak recently."
-          },
-          "Wagner Bortolato": {
-            "strength": "Explosive",
-            "health": null,
-            "previous_match_summary": "Strong and dangerous."
-          }
-        }
-      },
-      {
-        "match": [
-          "Artem Taynov",
-          "Zurab Tavberidze"
-        ],
-        "arm": "Left",
-        "event": "East vs West 11",
-        "predicted_winner": "Artem Taynov",
-        "predicted_score": null,
-        "prediction_summary": "Artem is more versatile and in better shape.",
-        "predicted_duration": null,
-        "style_conflict": "Versatility vs. strength",
-        "opinion_about_athletes": {
-          "Artem Taynov": {
-            "strength": "Versatile",
-            "health": null,
-            "previous_match_summary": "In great shape recently."
-          },
-          "Zurab Tavberidze": {
-            "strength": "Strong",
-            "health": null,
-            "previous_match_summary": "Injured recently."
-          }
-        }
-      },
-      {
-        "match": [
-          "Alizhan Muratov",
-          "Evgeny Prudnik"
-        ],
-        "arm": "Left",
-        "event": "East vs West 11",
-        "predicted_winner": "Alizhan Muratov",
-        "predicted_score": null,
-        "prediction_summary": "Alizhan is more explosive and may have better endurance.",
-        "predicted_duration": null,
-        "style_conflict": "Explosiveness vs. endurance",
-        "opinion_about_athletes": {
-          "Alizhan Muratov": {
-            "strength": "Explosive",
-            "health": null,
-            "previous_match_summary": "Strong and healthy."
-          },
-          "Evgeny Prudnik": {
-            "strength": "Endurance",
-            "health": null,
-            "previous_match_summary": "Improved recently."
-          }
-        }
-      },
-      {
-        "match": [
-          "David Dadikyan",
-          "Todd Hutchings"
-        ],
-        "arm": "Right",
-        "event": "East vs West 11",
-        "predicted_winner": "Todd Hutchings",
-        "predicted_score": null,
-        "prediction_summary": "Todd has better endurance and technique.",
-        "predicted_duration": null,
-        "style_conflict": "Speed vs. endurance",
-        "opinion_about_athletes": {
-          "David Dadikyan": {
-            "strength": "Explosive",
-            "health": null,
-            "previous_match_summary": "Strong top roller."
-          },
-          "Todd Hutchings": {
-            "strength": "Endurance and technique",
-            "health": null,
-            "previous_match_summary": "Smart and strong."
-          }
-        }
-      },
-      {
-        "match": [
-          "Artyom Morozov",
-          "Alex Kurdecha"
-        ],
-        "arm": "Left",
-        "event": "East vs West 11",
-        "predicted_winner": "Artyom Morozov",
-        "predicted_score": null,
-        "prediction_summary": "Morozov is more versatile and stronger on the left.",
-        "predicted_duration": null,
-        "style_conflict": "Versatility vs. size",
-        "opinion_about_athletes": {
-          "Artyom Morozov": {
-            "strength": "Versatile",
-            "health": null,
-            "previous_match_summary": "Strong and healthy."
-          },
-          "Alex Kurdecha": {
-            "strength": "Big and strong",
-            "health": null,
-            "previous_match_summary": "Dangerous for top rollers."
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

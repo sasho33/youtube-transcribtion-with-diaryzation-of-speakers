@@ -6,9 +6,8 @@
     "SPEAKER_03": "Arsen Liliev"
   },
   "date": "September 28, 2023",
-  "predictions": [
-    {
-      "speaker": "Artem Morozov",
+  "predictions": {
+    "Artem Morozov": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -138,8 +137,7 @@
         }
       ]
     },
-    {
-      "speaker": "Arsen Liliev",
+    "Arsen Liliev": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -269,8 +267,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -300,8 +297,7 @@
         }
       ]
     },
-    {
-      "speaker": "Paulo",
+    "Paulo": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -331,5 +327,5 @@
         }
       ]
     }
-  ]
+  }
 }

@@ -6,9 +6,9 @@
     "SPEAKER_03": "Unknown"
   },
   "date": "July 28, 2024",
-  "predictions": [
-    {
-      "speaker": "Oleg Petrenko",
+  "predictions": {
+    "Oleg Petrenko": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -312,8 +312,8 @@
         }
       ]
     },
-    {
-      "speaker": "Paolo",
+    "Paolo": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -442,5 +442,5 @@
         }
       ]
     }
-  ]
+  }
 }

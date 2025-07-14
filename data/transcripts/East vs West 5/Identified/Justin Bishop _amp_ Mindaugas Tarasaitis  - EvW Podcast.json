@@ -4,9 +4,8 @@
     "SPEAKER_03": "Mindaugas Tarasaitis"
   },
   "date": "November 04, 2022",
-  "predictions": [
-    {
-      "speaker": "Mindaugas Tarasaitis",
+  "predictions": {
+    "Mindaugas Tarasaitis": {
       "self_predictions": [
         {
           "match": [
@@ -157,8 +156,7 @@
         }
       ]
     },
-    {
-      "speaker": "Justin Bishop",
+    "Justin Bishop": {
       "self_predictions": [
         {
           "match": [
@@ -284,5 +282,5 @@
         }
       ]
     }
-  ]
+  }
 }

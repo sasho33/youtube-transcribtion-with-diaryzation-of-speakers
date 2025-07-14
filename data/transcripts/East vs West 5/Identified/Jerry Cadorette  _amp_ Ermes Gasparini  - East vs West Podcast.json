@@ -6,9 +6,8 @@
     "SPEAKER_04": "Engin Terzi"
   },
   "date": "October 07, 2022",
-  "predictions": [
-    {
-      "speaker": "Ermes Gasparini",
+  "predictions": {
+    "Ermes Gasparini": {
       "self_predictions": [
         {
           "match": [
@@ -59,8 +58,7 @@
         }
       ]
     },
-    {
-      "speaker": "Jerry Cadorette",
+    "Jerry Cadorette": {
       "self_predictions": [
         {
           "match": [
@@ -111,5 +109,5 @@
         }
       ]
     }
-  ]
+  }
 }

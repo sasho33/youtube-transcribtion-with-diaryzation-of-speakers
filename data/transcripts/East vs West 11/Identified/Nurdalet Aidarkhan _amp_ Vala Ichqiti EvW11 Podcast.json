@@ -2,9 +2,10 @@
   "speaker_mapping": {
     "SPEAKER_01": "Engin Terzi",
     "SPEAKER_02": "Vala Ichqiti",
-    "SPEAKER_03": "Nurdalet Aidarkhan"
+    "SPEAKER_03": "Nurdalet Aidarkhan",
+    "SPEAKER_04": "Unknown"
   },
-  "date": "January 04, 2024",
+  "date": "January 28, 2024",
   "predictions": {
     "Nurdalet Aidarkhan": {
       "self_predictions": [
@@ -17,14 +18,14 @@
           "event": "East vs West 11",
           "predicted_winner": "Nurdalet Aidarkhan",
           "predicted_score": null,
-          "prediction_summary": "Nurdalet believes he will win after training explosively and focusing on fast finishes.",
+          "prediction_summary": "Nurdalet believes he will win due to his training and experience, expecting a tough match but confident in his ability to win.",
           "predicted_duration": null,
           "style_conflict": "Top roll battle",
           "opinion_about_athletes": {
             "Vala Ichqiti": {
-              "strength": "Very tough and powerful",
-              "health": null,
-              "previous_match_summary": "Vala has improved since last East vs West, focusing on endurance and correcting past mistakes."
+              "strength": "Very strong and smart",
+              "health": "Good shape",
+              "previous_match_summary": "Vala has been improving and training hard, focusing on his mistakes and weak points."
             }
           }
         }
@@ -51,7 +52,7 @@
             "Marcio Barboza": {
               "strength": "Explosive",
               "health": null,
-              "previous_match_summary": "Has found ways to win tough matches."
+              "previous_match_summary": "Has had tough matches but finds a way to win."
             }
           }
         },
@@ -64,12 +65,12 @@
           "event": "East vs West 11",
           "predicted_winner": "Zurab Tavberidze",
           "predicted_score": null,
-          "prediction_summary": "Nurdalet believes Zurab will win due to his good shape.",
+          "prediction_summary": "Nurdalet believes Zurab Tavberidze will win due to his good shape.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
             "Zurab Tavberidze": {
-              "strength": "In very good shape",
+              "strength": "Very good shape",
               "health": null,
               "previous_match_summary": null
             }
@@ -111,7 +112,7 @@
             "Wagner Bortolato": {
               "strength": "Explosive and in crazy form",
               "health": null,
-              "previous_match_summary": "Has been winning tough matches."
+              "previous_match_summary": null
             }
           }
         },
@@ -122,21 +123,21 @@
           ],
           "arm": "Right",
           "event": "East vs West 11",
-          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_winner": "Daniel Procopciuc",
           "predicted_score": null,
-          "prediction_summary": "Nurdalet initially thought Daniel would win but changed to Mindaugas, noting his toughness.",
+          "prediction_summary": "Nurdalet believes Daniel will win due to his higher endurance.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": "High endurance",
+              "health": null,
+              "previous_match_summary": "Harder and tougher than Mindaugas."
+            },
             "Mindaugas Tarasaitis": {
               "strength": "Very tough",
               "health": null,
-              "previous_match_summary": "Nurdalet had a hard match with him."
-            },
-            "Daniel Procopciuk": {
-              "strength": "Harder and tougher than Mindaugas",
-              "health": null,
-              "previous_match_summary": "Nurdalet found him tougher than Mindaugas."
+              "previous_match_summary": "Easier to beat than Daniel."
             }
           }
         },
@@ -149,14 +150,14 @@
           "event": "East vs West 11",
           "predicted_winner": "Oleg Zhokh",
           "predicted_score": null,
-          "prediction_summary": "Nurdalet believes Oleg Zhokh will win due to his top roll strength.",
+          "prediction_summary": "Nurdalet thinks Oleg Zhokh will win due to his top roll style being bad for Tutberidze.",
           "predicted_duration": null,
           "style_conflict": "Top roll vs top roll",
           "opinion_about_athletes": {
             "Avtandil Tutberidze": {
               "strength": "Young and in good shape",
               "health": null,
-              "previous_match_summary": "Has a belt in senior and adult categories."
+              "previous_match_summary": "Very good guy but Oleg is a bad opponent for him."
             }
           }
         },
@@ -167,16 +168,21 @@
           ],
           "arm": "Left",
           "event": "East vs West 11",
-          "predicted_winner": null,
-          "predicted_score": "50-50",
-          "prediction_summary": "Nurdalet thinks it's a 50-50 match, impressed by Rino's world champion status.",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Nurdalet thinks it's a 50-50 match due to Rino's impressive form and Ivan's experience.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
             "Rino Mašić": {
-              "strength": "Young and progressing well",
+              "strength": "Very impressive, world champion",
               "health": null,
-              "previous_match_summary": "World champion in left hand."
+              "previous_match_summary": null
+            },
+            "Ivan Matyushenko": {
+              "strength": "Professor, very fast",
+              "health": null,
+              "previous_match_summary": "Beat David Arabuli easily."
             }
           }
         },
@@ -189,12 +195,12 @@
           "event": "East vs West 11",
           "predicted_winner": "John Brzenk",
           "predicted_score": null,
-          "prediction_summary": "Nurdalet favors John Brzenk, expecting a tough match.",
-          "predicted_duration": null,
+          "prediction_summary": "Nurdalet favors John Brzenk due to his legendary status and toughness.",
+          "predicted_duration": "Tough match",
           "style_conflict": null,
           "opinion_about_athletes": {
             "John Brzenk": {
-              "strength": "Legendary",
+              "strength": "Legendary, tough",
               "health": null,
               "previous_match_summary": null
             }
@@ -202,21 +208,21 @@
         },
         {
           "match": [
-            "Artem Morozov",
+            "Artyom Morozov",
             "Alex Kurdecha"
           ],
           "arm": "Left",
           "event": "East vs West 11",
-          "predicted_winner": "Artem Morozov",
+          "predicted_winner": "Artyom Morozov",
           "predicted_score": null,
-          "prediction_summary": "Nurdalet thinks Morozov will win due to his strong left arm.",
+          "prediction_summary": "Nurdalet thinks Morozov will win due to his strong left arm and improving shape.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
-            "Artem Morozov": {
+            "Artyom Morozov": {
               "strength": "Very strong left arm",
               "health": null,
-              "previous_match_summary": "Beat Gasparin Hermes."
+              "previous_match_summary": "Beat Gasparin Hermes easily."
             }
           }
         },
@@ -227,21 +233,21 @@
           ],
           "arm": "Left",
           "event": "East vs West 11",
-          "predicted_winner": null,
-          "predicted_score": "50-50",
-          "prediction_summary": "Nurdalet thinks it's a 50-50 match, noting Alizhan's explosiveness and Prudnik's endurance.",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Nurdalet thinks it's a 50-50 match due to Muratov's explosive start and Prudnik's endurance.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
             "Alizhan Muratov": {
-              "strength": "Very explosive",
+              "strength": "Very strong, explosive",
               "health": null,
-              "previous_match_summary": "Strong start and good endurance."
+              "previous_match_summary": "Better endurance than Prudnik."
             },
             "Evgeny Prudnik": {
               "strength": "Smart and strong",
               "health": null,
-              "previous_match_summary": "Can come back after losing rounds."
+              "previous_match_summary": "Showed endurance against tough opponents."
             }
           }
         },
@@ -254,14 +260,19 @@
           "event": "East vs West 11",
           "predicted_winner": "Todd Hutchings",
           "predicted_score": null,
-          "prediction_summary": "Nurdalet thinks Todd will win, possibly after losing the first round.",
+          "prediction_summary": "Nurdalet thinks Todd will win, possibly losing the first round but taking the rest.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
             "Todd Hutchings": {
-              "strength": "Legendary, very strong shoulder press",
+              "strength": "Monster, very strong shoulder press",
               "health": null,
-              "previous_match_summary": "Beat Kurdecha Galib."
+              "previous_match_summary": "Beat Qadir Ghali easily."
+            },
+            "David Dadikyan": {
+              "strength": "Tough",
+              "health": null,
+              "previous_match_summary": null
             }
           }
         }
@@ -278,14 +289,14 @@
           "event": "East vs West 11",
           "predicted_winner": "Vala Ichqiti",
           "predicted_score": null,
-          "prediction_summary": "Vala is confident in his improved shape and preparation.",
+          "prediction_summary": "Vala is confident in his improved shape and preparation, expecting to win.",
           "predicted_duration": null,
           "style_conflict": "Top roll battle",
           "opinion_about_athletes": {
             "Nurdalet Aidarkhan": {
               "strength": "Very experienced and smart",
               "health": null,
-              "previous_match_summary": "Nurdalet is fast and explosive."
+              "previous_match_summary": "Nurdalet is a tough opponent with multiple styles."
             }
           }
         }
@@ -307,7 +318,7 @@
             "Vladimir Maiorov": {
               "strength": "Strong wrist",
               "health": null,
-              "previous_match_summary": "Has been resting for a long time."
+              "previous_match_summary": "Had a long rest period."
             }
           }
         },
@@ -345,7 +356,7 @@
           "style_conflict": null,
           "opinion_about_athletes": {
             "Daniel Procopciuc": {
-              "strength": "High endurance",
+              "strength": "Higher endurance",
               "health": null,
               "previous_match_summary": null
             }
@@ -360,14 +371,14 @@
           "event": "East vs West 11",
           "predicted_winner": "Oleg Zhokh",
           "predicted_score": null,
-          "prediction_summary": "Vala thinks Oleg will win due to his top roll strength, but wishes Tutberidze to win.",
+          "prediction_summary": "Vala thinks Oleg will win due to his top roll style being bad for Tutberidze.",
           "predicted_duration": null,
           "style_conflict": "Top roll vs top roll",
           "opinion_about_athletes": {
             "Avtandil Tutberidze": {
               "strength": "Young and in good shape",
               "health": null,
-              "previous_match_summary": null
+              "previous_match_summary": "Wishes him to win but Oleg is a bad opponent."
             }
           }
         },
@@ -393,41 +404,26 @@
         },
         {
           "match": [
-            "Krasimir Kostadinov",
-            "John Brzenk"
-          ],
-          "arm": "Right",
-          "event": "East vs West 11",
-          "predicted_winner": "John Brzenk",
-          "predicted_score": null,
-          "prediction_summary": "Vala favors John Brzenk, expecting a tough match.",
-          "predicted_duration": null,
-          "style_conflict": null,
-          "opinion_about_athletes": {
-            "John Brzenk": {
-              "strength": "Legendary",
-              "health": null,
-              "previous_match_summary": null
-            }
-          }
-        },
-        {
-          "match": [
             "Alizhan Muratov",
             "Evgeny Prudnik"
           ],
           "arm": "Left",
           "event": "East vs West 11",
-          "predicted_winner": null,
-          "predicted_score": "50-50",
-          "prediction_summary": "Vala thinks it's a 50-50 match, noting Alizhan's strong start and Prudnik's endurance.",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Vala thinks it's a 50-50 match due to Muratov's explosive start and Prudnik's endurance.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
             "Evgeny Prudnik": {
-              "strength": "Smart and strong",
+              "strength": "Very strong and smart",
               "health": null,
-              "previous_match_summary": "Can come back after losing rounds."
+              "previous_match_summary": "Showed endurance against tough opponents."
+            },
+            "Alizhan Muratov": {
+              "strength": "Very strong, explosive",
+              "health": null,
+              "previous_match_summary": "Has very good impulses."
             }
           }
         },
@@ -440,14 +436,14 @@
           "event": "East vs West 11",
           "predicted_winner": "Todd Hutchings",
           "predicted_score": "70-30",
-          "prediction_summary": "Vala thinks Todd will win, giving David a 30% chance.",
+          "prediction_summary": "Vala thinks Todd will win with a 70% chance, citing his higher level.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
             "Todd Hutchings": {
               "strength": "Monster, very strong shoulder press",
               "health": null,
-              "previous_match_summary": "Beat Kurdecha Galib."
+              "previous_match_summary": "Beat Qadir Ghali easily."
             }
           }
         }

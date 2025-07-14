@@ -5,183 +5,188 @@
     "SPEAKER_03": "Coach Ray"
   },
   "date": "June 23, 2024",
-  "self_predictions": {
-    "Artem Taranenko": [
-      {
-        "match": [
-          "Tom Rozits",
-          "Artem Taranenko"
-        ],
-        "arm": "Left",
-        "event": "East vs West 13",
-        "predicted_winner": "Artem Taranenko",
-        "predicted_score": null,
-        "prediction_summary": "Artem is confident despite recent struggles, believes he is in better shape now and can handle Tom's strength.",
-        "predicted_duration": null,
-        "style_conflict": "Artem expects to handle Tom's initial surge and then counter with his own strength.",
-        "opinion_about_athletes": {
-          "Tom Rozits": {
-            "strength": "Very strong, especially in taking the hand early.",
-            "health": "No major issues mentioned.",
-            "previous_match_summary": "Recently beat Oleg, showing high level performance."
+  "predictions": {
+    "Artem Taranenko": {
+      "self_predictions": [
+        {
+          "match": [
+            "Tom Rozits",
+            "Artem Taranenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Artem Taranenko",
+          "predicted_score": null,
+          "prediction_summary": "Artem is confident despite recent struggles, believes he is in better shape now and can handle Tom's strength.",
+          "predicted_duration": null,
+          "style_conflict": "Artem expects to handle Tom's initial surge and then counter with his own strength.",
+          "opinion_about_athletes": {
+            "Tom Rozits": {
+              "strength": "Very strong, especially in taking the hand early.",
+              "health": "No major issues mentioned.",
+              "previous_match_summary": "Recently beat Oleg, showing high level performance."
+            }
           }
         }
-      }
-    ],
-    "Tom Rozits": [
-      {
-        "match": [
-          "Tom Rozits",
-          "Artem Taranenko"
-        ],
-        "arm": "Left",
-        "event": "East vs West 13",
-        "predicted_winner": "Tom Rozits",
-        "predicted_score": null,
-        "prediction_summary": "Tom is confident in his training and endurance, believes he can outlast Artem.",
-        "predicted_duration": null,
-        "style_conflict": "Tom plans to use his endurance and control to win the match.",
-        "opinion_about_athletes": {
-          "Artem Taranenko": {
-            "strength": "Strong but has had wrist issues recently.",
-            "health": "Recovering from recent struggles and sickness.",
-            "previous_match_summary": "Had bad days in qualifiers but claims to be in better shape now."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": "3-2",
+          "prediction_summary": "Artem thinks Vitalii will win the first round but the match will be close and go to multiple rounds.",
+          "predicted_duration": null,
+          "style_conflict": "Artem believes Vitalii's top roll will be key, but Artyom can fight back if he doesn't lose his hand early.",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Strong top roller.",
+              "health": "No issues mentioned.",
+              "previous_match_summary": "Coming from one win and one loss."
+            },
+            "Artyom Morozov": {
+              "strength": "Strong but may struggle with hand control.",
+              "health": "No issues mentioned.",
+              "previous_match_summary": "Lost to Svetko previously."
+            }
+          }
+        },
+        {
+          "match": [
+            "Travis Bagent",
+            "Serhii Kalinichenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Travis Bagent",
+          "predicted_score": "3-0",
+          "prediction_summary": "Artem believes Travis will dominate the first two rounds but may get tired later.",
+          "predicted_duration": null,
+          "style_conflict": "Travis's strength and style will be too much for Kalinichenko initially.",
+          "opinion_about_athletes": {
+            "Travis Bagent": {
+              "strength": "Very strong, especially in the first rounds.",
+              "health": "No issues mentioned.",
+              "previous_match_summary": "Recently improved and training hard."
+            },
+            "Serhii Kalinichenko": {
+              "strength": "Strong but may struggle with Travis's initial surge.",
+              "health": "No issues mentioned.",
+              "previous_match_summary": "No specific details mentioned."
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Artem Taranenko": [
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Artyom Morozov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Vitalii Laletin",
-        "predicted_score": "3-2",
-        "prediction_summary": "Artem thinks Vitalii will win the first round but the match will be close and go to multiple rounds.",
-        "predicted_duration": null,
-        "style_conflict": "Artem believes Vitalii's top roll will be key, but Artyom can fight back if he doesn't lose his hand early.",
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "Strong top roller.",
-            "health": "No issues mentioned.",
-            "previous_match_summary": "Coming from one win and one loss."
-          },
-          "Artyom Morozov": {
-            "strength": "Strong but may struggle with hand control.",
-            "health": "No issues mentioned.",
-            "previous_match_summary": "Lost to Svetko previously."
+      ]
+    },
+    "Tom Rozits": {
+      "self_predictions": [
+        {
+          "match": [
+            "Tom Rozits",
+            "Artem Taranenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Tom Rozits",
+          "predicted_score": null,
+          "prediction_summary": "Tom is confident in his training and endurance, believes he can outlast Artem.",
+          "predicted_duration": null,
+          "style_conflict": "Tom plans to use his endurance and control to win the match.",
+          "opinion_about_athletes": {
+            "Artem Taranenko": {
+              "strength": "Strong but has had wrist issues recently.",
+              "health": "Recovering from recent struggles and sickness.",
+              "previous_match_summary": "Had bad days in qualifiers but claims to be in better shape now."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Travis Bagent",
-          "Serhii Kalinichenko"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Travis Bagent",
-        "predicted_score": "3-0",
-        "prediction_summary": "Artem believes Travis will dominate the first two rounds but may get tired later.",
-        "predicted_duration": null,
-        "style_conflict": "Travis's strength and style will be too much for Kalinichenko initially.",
-        "opinion_about_athletes": {
-          "Travis Bagent": {
-            "strength": "Very strong, especially in the first rounds.",
-            "health": "No issues mentioned.",
-            "previous_match_summary": "Recently improved and training hard."
-          },
-          "Serhii Kalinichenko": {
-            "strength": "Strong but may struggle with Travis's initial surge.",
-            "health": "No issues mentioned.",
-            "previous_match_summary": "No specific details mentioned."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Davit Samushia",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Tom thinks Davit will win due to his style and strength, especially if Sasho can't top roll effectively.",
+          "predicted_duration": null,
+          "style_conflict": "Davit's strength in the hook will be key, Sasho may struggle if he can't top roll.",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Very strong in the hook.",
+              "health": "No issues mentioned.",
+              "previous_match_summary": "Has been dominant in his class."
+            },
+            "Sasho Andreev": {
+              "strength": "Strong but may struggle with Davit's style.",
+              "health": "No issues mentioned.",
+              "previous_match_summary": "Known for his hook but may have trouble cutting weight."
+            }
           }
         }
-      }
-    ],
-    "Tom Rozits": [
-      {
-        "match": [
-          "Davit Samushia",
-          "Sasho Andreev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Davit Samushia",
-        "predicted_score": null,
-        "prediction_summary": "Tom thinks Davit will win due to his style and strength, especially if Sasho can't top roll effectively.",
-        "predicted_duration": null,
-        "style_conflict": "Davit's strength in the hook will be key, Sasho may struggle if he can't top roll.",
-        "opinion_about_athletes": {
-          "Davit Samushia": {
-            "strength": "Very strong in the hook.",
-            "health": "No issues mentioned.",
-            "previous_match_summary": "Has been dominant in his class."
-          },
-          "Sasho Andreev": {
-            "strength": "Strong but may struggle with Davit's style.",
-            "health": "No issues mentioned.",
-            "previous_match_summary": "Known for his hook but may have trouble cutting weight."
+      ]
+    },
+    "Coach Ray": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
+          "prediction_summary": "Coach Ray thinks Vitalii will win but it will be a close match, with Artem having to make strategic decisions about his hand control.",
+          "predicted_duration": null,
+          "style_conflict": "Vitalii's top roll vs Artem's ability to cut and hold.",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Strong top roller.",
+              "health": "No issues mentioned.",
+              "previous_match_summary": "Coming from one win and one loss."
+            },
+            "Artyom Morozov": {
+              "strength": "Strong but may struggle with hand control.",
+              "health": "No issues mentioned.",
+              "previous_match_summary": "Lost to Svetko previously."
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Sasho Andreev",
+          "predicted_score": null,
+          "prediction_summary": "Coach Ray thinks Sasho's hook is superior and will win if the match goes into a hook.",
+          "predicted_duration": null,
+          "style_conflict": "Sasho's hook vs Davit's inability to top roll effectively.",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Strong but may struggle with Sasho's hook.",
+              "health": "No issues mentioned.",
+              "previous_match_summary": "Dominant in his class but may have trouble with Sasho's style."
+            },
+            "Sasho Andreev": {
+              "strength": "Very strong in the hook.",
+              "health": "No issues mentioned.",
+              "previous_match_summary": "Almost never loses in a hook."
+            }
           }
         }
-      }
-    ],
-    "Coach Ray": [
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Artyom Morozov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Vitalii Laletin",
-        "predicted_score": null,
-        "prediction_summary": "Coach Ray thinks Vitalii will win but it will be a close match, with Artem having to make strategic decisions about his hand control.",
-        "predicted_duration": null,
-        "style_conflict": "Vitalii's top roll vs Artem's ability to cut and hold.",
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "Strong top roller.",
-            "health": "No issues mentioned.",
-            "previous_match_summary": "Coming from one win and one loss."
-          },
-          "Artyom Morozov": {
-            "strength": "Strong but may struggle with hand control.",
-            "health": "No issues mentioned.",
-            "previous_match_summary": "Lost to Svetko previously."
-          }
-        }
-      },
-      {
-        "match": [
-          "Davit Samushia",
-          "Sasho Andreev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Sasho Andreev",
-        "predicted_score": null,
-        "prediction_summary": "Coach Ray thinks Sasho's hook is superior and will win if the match goes into a hook.",
-        "predicted_duration": null,
-        "style_conflict": "Sasho's hook vs Davit's inability to top roll effectively.",
-        "opinion_about_athletes": {
-          "Davit Samushia": {
-            "strength": "Strong but may struggle with Sasho's hook.",
-            "health": "No issues mentioned.",
-            "previous_match_summary": "Dominant in his class but may have trouble with Sasho's style."
-          },
-          "Sasho Andreev": {
-            "strength": "Very strong in the hook.",
-            "health": "No issues mentioned.",
-            "previous_match_summary": "Almost never loses in a hook."
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

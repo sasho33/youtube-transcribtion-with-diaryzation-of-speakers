@@ -5,9 +5,8 @@
     "SPEAKER_03": "Paul"
   },
   "date": "July 23, 2024",
-  "predictions": [
-    {
-      "speaker": "Rob",
+  "predictions": {
+    "Rob": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -426,8 +425,7 @@
         }
       ]
     },
-    {
-      "speaker": "Paul",
+    "Paul": {
       "self_predictions": [
         {
           "match": [
@@ -753,8 +751,7 @@
         }
       ]
     },
-    {
-      "speaker": "Ray",
+    "Ray": {
       "self_predictions": [
         {
           "match": [
@@ -830,5 +827,5 @@
         }
       ]
     }
-  ]
+  }
 }

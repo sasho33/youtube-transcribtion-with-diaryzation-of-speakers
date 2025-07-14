@@ -6,9 +6,8 @@
     "SPEAKER_04": "Roman Tsindeliani"
   },
   "date": "April 18, 2025",
-  "predictions": [
-    {
-      "speaker": "Paul Linn",
+  "predictions": {
+    "Paul Linn": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -113,8 +112,7 @@
         }
       ]
     },
-    {
-      "speaker": "Davit Samushia",
+    "Davit Samushia": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -219,5 +217,5 @@
         }
       ]
     }
-  ]
+  }
 }

@@ -6,9 +6,8 @@
     "SPEAKER_04": "Marcio Barboza"
   },
   "date": "January 04, 2024",
-  "predictions": [
-    {
-      "speaker": "Marcio Barboza",
+  "predictions": {
+    "Marcio Barboza": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -288,8 +287,7 @@
         }
       ]
     },
-    {
-      "speaker": "Oleg Petrenko",
+    "Oleg Petrenko": {
       "self_predictions": [
         {
           "match": [
@@ -435,5 +433,5 @@
         }
       ]
     }
-  ]
+  }
 }

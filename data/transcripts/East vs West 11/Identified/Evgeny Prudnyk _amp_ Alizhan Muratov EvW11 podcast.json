@@ -5,9 +5,8 @@
     "SPEAKER_03": "Alizhan Muratov"
   },
   "date": "December 17, 2023",
-  "speakers": [
-    {
-      "name": "Alizhan Muratov",
+  "predictions": {
+    "Alizhan Muratov": {
       "self_predictions": [
         {
           "match": [
@@ -187,8 +186,7 @@
         }
       ]
     },
-    {
-      "name": "Evgeny Prudnik",
+    "Evgeny Prudnik": {
       "self_predictions": [
         {
           "match": [
@@ -368,5 +366,5 @@
         }
       ]
     }
-  ]
+  }
 }

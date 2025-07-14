@@ -3,86 +3,90 @@
     "SPEAKER_00": "Engin Terzi"
   },
   "date": "June 19, 2025",
-  "self_predictions": [],
-  "third_party_predictions": [
-    {
-      "match": [
-        "Levan Saginashvili",
-        "Ermes Gasparini"
-      ],
-      "arm": "Right",
-      "event": "East vs West 18",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Both Ermes and Levan are in incredible shape. It's not an illusion. The stronger one will win, but it doesn't mean the other is weak.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Levan Saginashvili": {
-          "strength": "Very strong",
-          "health": null,
-          "previous_match_summary": null
+  "predictions": {
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Both Ermes and Levan are in incredible shape. It's not an illusion. The stronger one will win, but it doesn't mean the other is weak.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ermes Gasparini": {
+              "strength": "Very strong, motivated, and humble",
+              "health": null,
+              "previous_match_summary": "Puts all of himself into the sport"
+            }
+          }
         },
-        "Ermes Gasparini": {
-          "strength": "Very strong, motivated, and humble",
-          "health": null,
-          "previous_match_summary": "Puts all of himself into the sport"
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Alex Kurdecha is in the best shape ever, having burned the ships after previous losses. It's uncertain if it will be enough to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Lifetime best shape",
+              "health": null,
+              "previous_match_summary": "Had a few losses in a row, can't afford another loss"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ryan Belanger",
+            "Allen Ford"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Good luck to both Ryan Belanger and Allen Ford.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ryan Belanger": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Superstar, very good at analyzing the sport"
+            }
+          }
+        },
+        {
+          "match": [
+            "Joseph Meranto",
+            "Ivan Portela"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Joseph Meranto will have a good match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {}
         }
-      }
-    },
-    {
-      "match": [
-        "Devon Larratt",
-        "Alex Kurdecha"
-      ],
-      "arm": "Left",
-      "event": "East vs West 18",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Alex Kurdecha is in the best shape ever, having burned the ships after previous losses. It's uncertain if it will be enough to win.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Alex Kurdecha": {
-          "strength": "Lifetime best shape",
-          "health": null,
-          "previous_match_summary": "Had a few losses in a row, can't afford another loss"
-        }
-      }
-    },
-    {
-      "match": [
-        "Ryan Belanger",
-        "Allen Ford"
-      ],
-      "arm": "Right",
-      "event": "East vs West 18",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Good luck to both Ryan Belanger and Allen Ford.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Ryan Belanger": {
-          "strength": null,
-          "health": null,
-          "previous_match_summary": "Superstar, very good at analyzing the sport"
-        }
-      }
-    },
-    {
-      "match": [
-        "Joseph Meranto",
-        "Ivan Portela"
-      ],
-      "arm": "Right",
-      "event": "East vs West 18",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Joseph Meranto will have a good match.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {}
+      ]
     }
-  ]
+  }
 }

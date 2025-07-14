@@ -1,0 +1,111 @@
+{
+  "speaker_mapping": {
+    "SPEAKER_00": "Engin Terzi",
+    "SPEAKER_01": "Jerry Cadorette",
+    "SPEAKER_02": "Jerry Cadorette"
+  },
+  "date": "August 14, 2024",
+  "predictions": {
+    "Jerry Cadorette": {
+      "self_predictions": [
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Jerry feels confident but acknowledges Alex has improved significantly. He plans to come in bigger and stronger for the match.",
+          "predicted_duration": null,
+          "style_conflict": "Jerry prefers opponents with longer arms, which Alex has.",
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Alex has grown bigger and stronger, especially after his match against Georgi.",
+              "health": null,
+              "previous_match_summary": "Alex lost to Dave Chaffee but then defeated Georgi convincingly."
+            }
+          }
+        }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Jerry believes Morozov's absolute power and recent performances make him the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Strong but may struggle against Morozov's power.",
+              "health": null,
+              "previous_match_summary": "Lost to Dave Sheffield but has been competitive."
+            },
+            "Artyom Morozov": {
+              "strength": "Extremely powerful, especially after a loss.",
+              "health": null,
+              "previous_match_summary": "Defeated Georgi and has been dominant."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Jerry roots for Todd but acknowledges Krasimir's strength, especially inside.",
+          "predicted_duration": null,
+          "style_conflict": "Krasimir's inside game vs. Todd's versatility.",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong and versatile.",
+              "health": null,
+              "previous_match_summary": "Lost to Dadikyan but has been competitive."
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Strong inside game.",
+              "health": null,
+              "previous_match_summary": "Performed well against John."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Jerry thinks Irakli's training with Levan gives him an edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Dominant in training with Levan.",
+              "health": null,
+              "previous_match_summary": "Lost to Dadikyan and Ongarbaev but strong in practice."
+            },
+            "Evgeny Prudnik": {
+              "strength": "Strong but coming off injury.",
+              "health": "Recovering from injury.",
+              "previous_match_summary": "Inactive after Devon match."
+            }
+          }
+        }
+      ]
+    }
+  }
+}

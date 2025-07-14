@@ -5,9 +5,8 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "May 22, 2024",
-  "predictions": [
-    {
-      "speaker": "Krasimir Kostadinov",
+  "predictions": {
+    "Krasimir Kostadinov": {
       "self_predictions": [
         {
           "match": [
@@ -17,12 +16,20 @@
           "arm": "Right",
           "event": "East vs West 13",
           "predicted_winner": "Krasimir Kostadinov",
+          "predicted_score": null,
           "prediction_summary": "Krasimir believes he has the right strategy and is training both styles (Babaev's way and deep hook) to face Todd Hutchings. He acknowledges the match is personal and important, especially since Todd has beaten all other Bulgarian hook pullers.",
+          "predicted_duration": null,
           "style_conflict": "Hook vs Hook",
           "opinion_about_athletes": {
             "Todd Hutchings": {
               "strength": "Strong hook puller with dominant pronation",
+              "health": null,
               "previous_match_summary": "Todd has beaten all Bulgarian hook pullers in his category, including Krasimir in 2012 (6-0)."
+            },
+            "Krasimir Kostadinov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
             }
           }
         }
@@ -36,8 +43,11 @@
           "arm": "Right",
           "event": "East vs West 13",
           "predicted_winner": "Petro Marharint",
+          "predicted_score": null,
           "prediction_summary": "Krasimir believes Petro's back pressure and cupping will be key, but the match could go either way depending on endurance.",
-          "style_conflict": "Top roll vs Hook"
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs Hook",
+          "opinion_about_athletes": null
         },
         {
           "match": [
@@ -47,8 +57,11 @@
           "arm": "Right",
           "event": "East vs West 13",
           "predicted_winner": "Vitalii Laletin",
+          "predicted_score": null,
           "prediction_summary": "Krasimir thinks Laletin's wrist and pronation will be decisive, but Morozov's side pressure could be a factor if the match stops.",
-          "style_conflict": "Top roll vs Hook"
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs Hook",
+          "opinion_about_athletes": null
         },
         {
           "match": [
@@ -58,13 +71,16 @@
           "arm": "Right",
           "event": "East vs West 13",
           "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
           "prediction_summary": "Krasimir believes Irakli's hook will be too strong for Prudnik, especially if Prudnik tries to hook him.",
-          "style_conflict": "Hook vs Top roll"
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Top roll",
+          "opinion_about_athletes": null
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -74,8 +90,11 @@
           "arm": "Left",
           "event": "East vs West 13",
           "predicted_winner": "Tom Rozits",
+          "predicted_score": null,
           "prediction_summary": "Engin thinks Tom's hand control and strength will give him the edge, but Artem could surprise if he gets a favorable position.",
-          "style_conflict": "Top roll vs Hook"
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs Hook",
+          "opinion_about_athletes": null
         },
         {
           "match": [
@@ -85,8 +104,11 @@
           "arm": "Right",
           "event": "East vs West 13",
           "predicted_winner": "Dimitrina Petrova",
+          "predicted_score": null,
           "prediction_summary": "Engin believes Dimitrina's current strength and form make her the favorite, despite Ayane's dangerous style.",
-          "style_conflict": "Top roll vs Hook"
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs Hook",
+          "opinion_about_athletes": null
         },
         {
           "match": [
@@ -96,10 +118,13 @@
           "arm": "Right",
           "event": "East vs West 13",
           "predicted_winner": "Serhii Kalinichenko",
+          "predicted_score": null,
           "prediction_summary": "Engin thinks Kalinichenko's current form and technique will be too much for Travis, even if Travis is in good shape.",
-          "style_conflict": "Top roll vs Hook"
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs Hook",
+          "opinion_about_athletes": null
         }
       ]
     }
-  ]
+  }
 }

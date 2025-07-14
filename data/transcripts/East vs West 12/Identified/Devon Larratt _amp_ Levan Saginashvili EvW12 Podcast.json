@@ -7,9 +7,8 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "March 23, 2024",
-  "predictions": [
-    {
-      "speaker": "Devon Larratt",
+  "predictions": {
+    "Devon Larratt": {
       "self_predictions": [
         {
           "match": [
@@ -60,8 +59,7 @@
         }
       ]
     },
-    {
-      "speaker": "Levan Saginashvili",
+    "Levan Saginashvili": {
       "self_predictions": [
         {
           "match": [
@@ -86,8 +84,7 @@
       ],
       "third_party_predictions": []
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -117,5 +114,5 @@
         }
       ]
     }
-  ]
+  }
 }

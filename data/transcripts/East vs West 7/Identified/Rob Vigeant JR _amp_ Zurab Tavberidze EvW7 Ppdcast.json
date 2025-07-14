@@ -7,9 +7,8 @@
     "SPEAKER_04": "Rob Vigeant Jr."
   },
   "date": "March 03, 2023",
-  "predictions": [
-    {
-      "speaker": "Zurab Tavberidze",
+  "predictions": {
+    "Zurab Tavberidze": {
       "self_predictions": [
         {
           "match": [
@@ -210,8 +209,7 @@
         }
       ]
     },
-    {
-      "speaker": "Rob Vigeant Jr.",
+    "Rob Vigeant Jr.": {
       "self_predictions": [
         {
           "match": [
@@ -387,8 +385,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -468,5 +465,5 @@
         }
       ]
     }
-  ]
+  }
 }

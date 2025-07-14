@@ -4,10 +4,9 @@
     "SPEAKER_01": "Jerry Cadorette",
     "SPEAKER_02": "Jerry Cadorette"
   },
-  "date": "August 14, 2024",
-  "predictions": [
-    {
-      "speaker": "Jerry Cadorette",
+  "date": null,
+  "predictions": {
+    "Jerry Cadorette": {
       "self_predictions": [
         {
           "match": [
@@ -18,14 +17,14 @@
           "event": "East vs West 13",
           "predicted_winner": "Jerry Cadorette",
           "predicted_score": null,
-          "prediction_summary": "Jerry feels confident but acknowledges Alex has improved significantly. He plans to come in bigger and stronger for the match.",
+          "prediction_summary": "Jerry feels confident but acknowledges Alex's improvement after seeing him against Georgi. He plans to come in bigger and stronger.",
           "predicted_duration": null,
-          "style_conflict": "Jerry prefers opponents with longer arms, which Alex has.",
+          "style_conflict": null,
           "opinion_about_athletes": {
             "Alex Kurdecha": {
-              "strength": "Alex has grown bigger and stronger, especially after his match against Georgi.",
+              "strength": "Improved significantly after the match with Georgi",
               "health": null,
-              "previous_match_summary": "Alex lost to Dave Chaffee but then defeated Georgi convincingly."
+              "previous_match_summary": "Lost to Dave Chaffee but came back strong against Georgi"
             }
           }
         }
@@ -40,19 +39,19 @@
           "event": "East vs West 13",
           "predicted_winner": "Artyom Morozov",
           "predicted_score": null,
-          "prediction_summary": "Jerry believes Morozov's absolute power and recent performances make him the favorite.",
+          "prediction_summary": "Jerry thinks Morozov will win due to his absolute power and ability to bounce back stronger after a loss.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
             "Vitalii Laletin": {
-              "strength": "Strong but may struggle against Morozov's power.",
+              "strength": "Strong but may not match Morozov's power",
               "health": null,
-              "previous_match_summary": "Lost to Dave Sheffield but has been competitive."
+              "previous_match_summary": "Had a close left-arm match with Morozov"
             },
             "Artyom Morozov": {
-              "strength": "Extremely powerful, especially after a loss.",
+              "strength": "Absolute power, especially after a loss",
               "health": null,
-              "previous_match_summary": "Defeated Georgi and has been dominant."
+              "previous_match_summary": "Defeated Georgi and had a close left-arm match with Laletin"
             }
           }
         },
@@ -65,19 +64,19 @@
           "event": "East vs West 13",
           "predicted_winner": "Todd Hutchings",
           "predicted_score": null,
-          "prediction_summary": "Jerry roots for Todd but acknowledges Krasimir's strength, especially inside.",
+          "prediction_summary": "Jerry is rooting for Todd but acknowledges Krasimir's strength, especially against John.",
           "predicted_duration": null,
-          "style_conflict": "Krasimir's inside game vs. Todd's versatility.",
+          "style_conflict": null,
           "opinion_about_athletes": {
             "Todd Hutchings": {
-              "strength": "Strong and versatile.",
+              "strength": "Strong, especially inside",
               "health": null,
-              "previous_match_summary": "Lost to Dadikyan but has been competitive."
+              "previous_match_summary": "Lost to Dadikyan but showed strength"
             },
             "Krasimir Kostadinov": {
-              "strength": "Strong inside game.",
+              "strength": "Strong, especially against John",
               "health": null,
-              "previous_match_summary": "Performed well against John."
+              "previous_match_summary": "Performed well against John"
             }
           }
         },
@@ -90,23 +89,23 @@
           "event": "East vs West 13",
           "predicted_winner": "Irakli Zirakashvili",
           "predicted_score": null,
-          "prediction_summary": "Jerry thinks Irakli's training with Levan gives him an edge.",
+          "prediction_summary": "Jerry thinks Irakli has an advantage due to training with Levan and his dominant performances.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
             "Irakli Zirakashvili": {
-              "strength": "Dominant in training with Levan.",
+              "strength": "Dominant, trains with Levan",
               "health": null,
-              "previous_match_summary": "Lost to Dadikyan and Ongarbaev but strong in practice."
+              "previous_match_summary": "Strong performances, though has losses to Dadikyan and Ongarbaev"
             },
             "Evgeny Prudnik": {
-              "strength": "Strong but coming off injury.",
-              "health": "Recovering from injury.",
-              "previous_match_summary": "Inactive after Devon match."
+              "strength": "Strong but coming back from injury",
+              "health": "Recovering from injury",
+              "previous_match_summary": "Injured after Devon match, returning to competition"
             }
           }
         }
       ]
     }
-  ]
+  }
 }

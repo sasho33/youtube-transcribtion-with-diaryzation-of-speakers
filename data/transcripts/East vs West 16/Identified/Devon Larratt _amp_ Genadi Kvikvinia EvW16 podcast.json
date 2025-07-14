@@ -7,9 +7,8 @@
     "SPEAKER_04": "Engin Terzi"
   },
   "date": "January 05, 2025",
-  "predictions": [
-    {
-      "speaker": "Devon Larratt",
+  "predictions": {
+    "Devon Larratt": {
       "self_predictions": [
         {
           "match": [
@@ -155,8 +154,7 @@
         }
       ]
     },
-    {
-      "speaker": "Genadi Kvikvinia",
+    "Genadi Kvikvinia": {
       "self_predictions": [
         {
           "match": [
@@ -282,8 +280,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -333,5 +330,5 @@
         }
       ]
     }
-  ]
+  }
 }

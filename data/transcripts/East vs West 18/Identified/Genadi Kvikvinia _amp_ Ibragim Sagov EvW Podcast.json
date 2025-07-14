@@ -6,9 +6,8 @@
     "SPEAKER_04": "Translator/Moderator"
   },
   "date": "April 12, 2025",
-  "predictions": [
-    {
-      "speaker": "Ibragim Sagov",
+  "predictions": {
+    "Ibragim Sagov": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -88,8 +87,7 @@
         }
       ]
     },
-    {
-      "speaker": "Genadi Kvikvinia",
+    "Genadi Kvikvinia": {
       "self_predictions": [
         {
           "match": [
@@ -190,5 +188,5 @@
         }
       ]
     }
-  ]
+  }
 }

@@ -7,9 +7,8 @@
     "SPEAKER_01": "Betkili Oniani"
   },
   "date": "October 06, 2024",
-  "predictions": [
-    {
-      "speaker": "Oleg Zhokh",
+  "predictions": {
+    "Oleg Zhokh": {
       "self_predictions": [
         {
           "match": [
@@ -131,8 +130,7 @@
         }
       }
     },
-    {
-      "speaker": "Betkili Oniani",
+    "Betkili Oniani": {
       "self_predictions": [
         {
           "match": [
@@ -272,5 +270,5 @@
         }
       }
     }
-  ]
+  }
 }

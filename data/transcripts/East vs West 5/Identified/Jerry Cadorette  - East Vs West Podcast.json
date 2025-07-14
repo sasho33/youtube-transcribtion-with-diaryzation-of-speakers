@@ -5,9 +5,8 @@
     "SPEAKER_03": "Unknown"
   },
   "date": "October 07, 2022",
-  "predictions": [
-    {
-      "speaker": "Jerry Cadorette",
+  "predictions": {
+    "Jerry Cadorette": {
       "self_predictions": [
         {
           "match": [
@@ -83,8 +82,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -114,5 +112,5 @@
         }
       ]
     }
-  ]
+  }
 }

@@ -5,9 +5,8 @@
     "SPEAKER_03": "Joshua Grant"
   },
   "date": "July 20, 2022",
-  "predictions": [
-    {
-      "speaker": "Herman Stevens",
+  "predictions": {
+    "Herman Stevens": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -87,8 +86,7 @@
         }
       ]
     },
-    {
-      "speaker": "Joshua Grant",
+    "Joshua Grant": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -168,8 +166,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -249,5 +246,5 @@
         }
       ]
     }
-  ]
+  }
 }

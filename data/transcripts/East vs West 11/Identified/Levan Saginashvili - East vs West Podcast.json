@@ -4,181 +4,208 @@
     "SPEAKER_01": "Engin Terzi",
     "SPEAKER_02": "Tornike (Translator)"
   },
-  "date": "July 27, 2024",
-  "Levan Saginashvili": {
-    "self_predictions": [
-      {
-        "match": [
-          "Levan Saginashvili",
-          "Devon Larratt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 11",
-        "predicted_winner": "Levan Saginashvili",
-        "predicted_score": null,
-        "prediction_summary": "Levan believes he will regain his peak strength and be unbeatable, stating Devon will have no chance against him.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Strong, especially in wrist and cupping, but not drastically improved since their last match.",
-            "health": null,
-            "previous_match_summary": "Devon beat Levan 6-0 in their last match, but Levan was injured."
+  "date": "January 14, 2024",
+  "predictions": {
+    "Levan Saginashvili": {
+      "self_predictions": [
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan believes he will regain his peak strength and be unbeatable, especially if he reaches the same level as during his preparation for Morozov. He is confident Devon will have no chance against him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Devon is very strong, especially in wrist and cupping, but Levan does not see any drastic improvement since their last match.",
+              "health": null,
+              "previous_match_summary": "Levan acknowledges Devon's victories over top European arm wrestlers but remains confident in his own superiority."
+            }
           }
         }
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Vala Ichqiti",
-          "Nurdalet Aidarkhan"
-        ],
-        "arm": "Right",
-        "event": "East vs West 11",
-        "predicted_winner": "Vala Ichqiti",
-        "predicted_score": null,
-        "prediction_summary": "Levan roots for Vala but acknowledges Aidarkhan's explosiveness and speed, advising Vala to work on speed.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs. top roll",
-        "opinion_about_athletes": {
-          "Vala Ichqiti": {
-            "strength": "Very strong",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Nurdalet Aidarkhan": {
-            "strength": "Explosive and very fast",
-            "health": null,
-            "previous_match_summary": "Multiple-time WAF champion."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vala Ichqiti",
+            "Nurdalet Aidarkhan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Vala Ichqiti",
+          "predicted_score": null,
+          "prediction_summary": "Levan roots for Vala but acknowledges Aidarkhan's explosiveness and speed, which could trouble Vala.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. top roll",
+          "opinion_about_athletes": {
+            "Vala Ichqiti": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Nurdalet Aidarkhan": {
+              "strength": "Explosive and quick",
+              "health": null,
+              "previous_match_summary": "World champion in multiple categories."
+            }
+          }
+        },
+        {
+          "match": [
+            "Ivan Matyushenko",
+            "Rino Mašić"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Ivan Matyushenko",
+          "predicted_score": null,
+          "prediction_summary": "Levan thinks Ivan Matyushenko is too much for Rino at the moment, given Ivan's experience and strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ivan Matyushenko": {
+              "strength": "Very strong, especially in hook",
+              "health": null,
+              "previous_match_summary": "Had great sparring matches with top arm wrestlers like Pushkar and Denis."
+            },
+            "Rino Mašić": {
+              "strength": "Great potential but young",
+              "health": null,
+              "previous_match_summary": "Current world champion in 110 kg."
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Paul Linn"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Levan believes Irakli will win but acknowledges it won't be easy against Paul Linn.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Strong and determined",
+              "health": null,
+              "previous_match_summary": "Important match for his career."
+            },
+            "Paul Linn": {
+              "strength": "Respected athlete",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Wagner Bortolato"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Levan thinks Matt Mask will win this highly entertaining and risky match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Wagner Bortolato": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Levan thinks the 'old Prudnik' will win this match, implying Prudnik's experience and form will prevail.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Evgeny Prudnik": {
+              "strength": "Experienced and in good form",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "David Dadikyan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 11",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": "55-45",
+          "prediction_summary": "Levan gives a slight edge to Todd Hutchings, especially if he manages to get the strap.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Slightly stronger if he gets the strap",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "David Dadikyan": {
+              "strength": null,
+              "health": "Injured left arm",
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Alex Kurdecha",
+            "Artem Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 11",
+          "predicted_winner": "Artem Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Levan gives a slight edge to Morozov, especially if he gets the hook, but acknowledges Kurdecha's potential if he gets Morozov's wrist.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Gained weight, which might affect endurance",
+              "health": null,
+              "previous_match_summary": "Not seen pulling for a while."
+            },
+            "Artem Morozov": {
+              "strength": "Can fight even with a lost wrist",
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Ivan Matyushenko",
-          "Rino Mašić"
-        ],
-        "arm": "Left",
-        "event": "East vs West 11",
-        "predicted_winner": "Ivan Matyushenko",
-        "predicted_score": null,
-        "prediction_summary": "Levan thinks Ivan is too much for Rino at the moment.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Ivan Matyushenko": {
-            "strength": "Very good, almost no one can be a good opponent for him in his weight class.",
-            "health": null,
-            "previous_match_summary": "Had great sparring matches with Pushkar and Denis."
-          },
-          "Rino Mašić": {
-            "strength": "Great young athlete with potential",
-            "health": null,
-            "previous_match_summary": "Current world champion in 110 kg."
-          }
-        }
-      },
-      {
-        "match": [
-          "Matt Mask",
-          "Wagner Bortolato"
-        ],
-        "arm": "Right",
-        "event": "East vs West 11",
-        "predicted_winner": "Matt Mask",
-        "predicted_score": null,
-        "prediction_summary": "Levan predicts Matt will win but expects a highly entertaining and risky match.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Matt Mask": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Wagner Bortolato": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Alizhan Muratov",
-          "Evgeny Prudnik"
-        ],
-        "arm": "Left",
-        "event": "East vs West 11",
-        "predicted_winner": "Evgeny Prudnik",
-        "predicted_score": null,
-        "prediction_summary": "Levan thinks the 'old Prudnik' will win this match.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Alizhan Muratov": {
-            "strength": "Very strong",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Evgeny Prudnik": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Todd Hutchings",
-          "David Dadikyan"
-        ],
-        "arm": "Right",
-        "event": "East vs West 11",
-        "predicted_winner": "Todd Hutchings",
-        "predicted_score": "55-45",
-        "prediction_summary": "Levan gives a slight edge to Todd, especially if he gets the strap.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Todd Hutchings": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "David Dadikyan": {
-            "strength": null,
-            "health": "Injured left arm",
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Alex Kurdecha",
-          "Artem Morozov"
-        ],
-        "arm": "Left",
-        "event": "East vs West 11",
-        "predicted_winner": "Artem Morozov",
-        "predicted_score": null,
-        "prediction_summary": "Levan gives a slight edge to Morozov, noting Kurdecha's weight gain might affect his endurance.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs. hook",
-        "opinion_about_athletes": {
-          "Alex Kurdecha": {
-            "strength": null,
-            "health": "Gained significant weight (over 160 kg)",
-            "previous_match_summary": "Has not pulled for a while."
-          },
-          "Artem Morozov": {
-            "strength": "Can fight even with a lost wrist",
-            "health": null,
-            "previous_match_summary": "Lost to Georgi Tsvetkov due to illness and weight loss."
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

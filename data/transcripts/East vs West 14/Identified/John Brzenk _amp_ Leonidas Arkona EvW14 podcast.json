@@ -5,9 +5,8 @@
     "SPEAKER_03": "John Brzenk"
   },
   "date": "July 13, 2024",
-  "predictions": [
-    {
-      "speaker": "John Brzenk",
+  "predictions": {
+    "John Brzenk": {
       "self_predictions": [
         {
           "match": [
@@ -258,8 +257,7 @@
         }
       ]
     },
-    {
-      "speaker": "Leonidas Arkona",
+    "Leonidas Arkona": {
       "self_predictions": [
         {
           "match": [
@@ -350,8 +348,8 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -415,5 +413,5 @@
         }
       ]
     }
-  ]
+  }
 }

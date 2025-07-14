@@ -4,9 +4,8 @@
     "SPEAKER_01": "Engin Terzi"
   },
   "date": "May 28, 2024",
-  "predictions": [
-    {
-      "speaker": "Alex Kurdecha",
+  "predictions": {
+    "Alex Kurdecha": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -386,10 +385,9 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": []
     }
-  ]
+  }
 }

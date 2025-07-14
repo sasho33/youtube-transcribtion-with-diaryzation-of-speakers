@@ -4,9 +4,8 @@
     "SPEAKER_04": "Engin Terzi"
   },
   "date": "October 02, 2022",
-  "predictions": [
-    {
-      "speaker": "Ferit Osmanlı",
+  "predictions": {
+    "Ferit Osmanlı": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -111,8 +110,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -142,5 +140,5 @@
         }
       ]
     }
-  ]
+  }
 }

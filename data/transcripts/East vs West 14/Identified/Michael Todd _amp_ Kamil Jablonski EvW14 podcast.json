@@ -5,9 +5,8 @@
     "SPEAKER_02": "Kamil Jablonski"
   },
   "date": "July 19, 2024",
-  "predictions": [
-    {
-      "speaker": "Michael Todd",
+  "predictions": {
+    "Michael Todd": {
       "self_predictions": [
         {
           "match": [
@@ -258,8 +257,7 @@
         }
       }
     },
-    {
-      "speaker": "Kamil Jablonski",
+    "Kamil Jablonski": {
       "self_predictions": [
         {
           "match": [
@@ -443,8 +441,7 @@
         }
       }
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "third_party_predictions": [
         {
           "match": [
@@ -486,5 +483,5 @@
         }
       }
     }
-  ]
+  }
 }

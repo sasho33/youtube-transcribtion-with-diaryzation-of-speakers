@@ -6,9 +6,8 @@
     "SPEAKER_04": "Sasho Andreev"
   },
   "date": "April 24, 2023",
-  "predictions": [
-    {
-      "speaker": "Sasho Andreev",
+  "predictions": {
+    "Sasho Andreev": {
       "self_predictions": [
         {
           "match": [
@@ -113,5 +112,5 @@
         }
       ]
     }
-  ]
+  }
 }

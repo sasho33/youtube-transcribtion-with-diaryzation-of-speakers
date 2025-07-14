@@ -6,9 +6,8 @@
     "SPEAKER_04": "Engin Terzi"
   },
   "date": "April 22, 2025",
-  "predictions": [
-    {
-      "speaker": "Zurab Tavberidze",
+  "predictions": {
+    "Zurab Tavberidze": {
       "self_predictions": [
         {
           "match": [
@@ -109,8 +108,7 @@
         }
       ]
     },
-    {
-      "speaker": "Georgii Tautiev",
+    "Georgii Tautiev": {
       "self_predictions": [
         {
           "match": [
@@ -211,5 +209,5 @@
         }
       ]
     }
-  ]
+  }
 }

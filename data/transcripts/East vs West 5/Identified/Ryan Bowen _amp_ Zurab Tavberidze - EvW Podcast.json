@@ -5,9 +5,8 @@
     "SPEAKER_03": "Zurab Tavberidze"
   },
   "date": "November 02, 2022",
-  "predictions": [
-    {
-      "speaker": "Ryan Bowen",
+  "predictions": {
+    "Ryan Bowen": {
       "self_predictions": [
         {
           "match": [
@@ -333,8 +332,7 @@
         }
       ]
     },
-    {
-      "speaker": "Zurab Tavberidze",
+    "Zurab Tavberidze": {
       "self_predictions": [
         {
           "match": [
@@ -560,5 +558,5 @@
         }
       ]
     }
-  ]
+  }
 }

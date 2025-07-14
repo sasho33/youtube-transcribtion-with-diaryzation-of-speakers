@@ -6,9 +6,8 @@
     "SPEAKER_03": "Matt Mask"
   },
   "date": "March 23, 2023",
-  "predictions": [
-    {
-      "speaker": "Matt Mask",
+  "predictions": {
+    "Matt Mask": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -288,8 +287,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -319,8 +317,7 @@
         }
       ]
     },
-    {
-      "speaker": "Ivan",
+    "Ivan": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -350,8 +347,7 @@
         }
       ]
     },
-    {
-      "speaker": "Mushaid",
+    "Mushaid": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -381,5 +377,5 @@
         }
       ]
     }
-  ]
+  }
 }

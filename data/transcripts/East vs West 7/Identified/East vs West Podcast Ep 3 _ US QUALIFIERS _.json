@@ -7,6 +7,18 @@
     "SPEAKER_04": "Ertem"
   },
   "date": "April 14, 2023",
-  "self_predictions": [],
-  "third_party_predictions": []
+  "predictions": {
+    "Paul Linn": {
+      "self_predictions": [],
+      "third_party_predictions": []
+    },
+    "Perry Kivolowitz": {
+      "self_predictions": [],
+      "third_party_predictions": []
+    },
+    "Ertem": {
+      "self_predictions": [],
+      "third_party_predictions": []
+    }
+  }
 }

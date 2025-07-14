@@ -1,251 +1,265 @@
 {
-  "SPEAKER_00": "Georgi Tsvetkov",
-  "SPEAKER_01": "Engin Terzi",
+  "speaker_mapping": {
+    "SPEAKER_00": "Georgi Tsvetkov",
+    "SPEAKER_01": "Engin Terzi"
+  },
   "date": "March 06, 2025",
-  "Georgi Tsvetkov": {
-    "self_predictions": [
-      {
-        "event": "East vs West 17",
-        "match": [
-          "Georgi Tsvetkov",
-          "Dave Chaffee"
-        ],
-        "arm": "Right",
-        "predicted_winner": "Georgi Tsvetkov",
-        "predicted_score": null,
-        "prediction_summary": "I think it will be a good match but I will win. I'm confident and in good shape with no injuries.",
-        "predicted_duration": "long match",
-        "style_conflict": "top-roll vs side pressure",
-        "physical_condition_self": "no pain in the arm, in good shape",
-        "training_status_self": "training side pressure with Sasho and Krasi"
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Dave Chaffee",
-          "Vitaly Laletin"
-        ],
-        "arm": "Right",
-        "event": null,
-        "predicted_winner": "Dave Chaffee",
-        "predicted_score": null,
-        "prediction_summary": "Dave is very powerful and can stop Vitaly if he goes in the strap. Vitaly has no chance if Dave is smarter.",
-        "predicted_duration": null,
-        "style_conflict": "side pressure vs top-roll",
-        "opinion_about_athletes": {
-          "Dave Chaffee": {
-            "strength": "Very powerful inside, side pressure. One of the strongest when not injured.",
-            "health": "No injuries reported, in much better shape than before.",
-            "previous_match_summary": "Destroyed Vitaly in the strap but lost without it. Beat Alex Kurdecha."
-          },
-          "Vitaly Laletin": {
-            "strength": "Good grip and fast start but struggles against good top-rollers.",
-            "health": null,
-            "previous_match_summary": "Lost to Dave in the strap but beat him without it."
+  "predictions": {
+    "Georgi Tsvetkov": {
+      "self_predictions": [
+        {
+          "match": [
+            "Georgi Tsvetkov",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 17",
+          "predicted_winner": "Georgi Tsvetkov",
+          "predicted_score": null,
+          "prediction_summary": "I think it will be a good match but I will win. I'm confident and in good shape with no injuries.",
+          "predicted_duration": "long match",
+          "style_conflict": "top-roll vs side pressure",
+          "opinion_about_athletes": {
+            "Georgi Tsvetkov": {
+              "strength": null,
+              "health": "no pain in the arm, in good shape",
+              "previous_match_summary": null
+            },
+            "Dave Chaffee": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Vitaly Laletin"
-        ],
-        "arm": "Right",
-        "event": null,
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "Devon is very smart, clever, and way more powerful than Vitaly. He will not allow Vitaly to beat him on the grip.",
-        "predicted_duration": null,
-        "style_conflict": "top-roll vs grip",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Very smart, clever, and powerful. Excellent table IQ.",
-            "health": "Becoming bigger and more dangerous.",
-            "previous_match_summary": "Showed great endurance and control in recent matches."
-          },
-          "Vitaly Laletin": {
-            "strength": "Dangerous with tall, long arm and good grip.",
-            "health": null,
-            "previous_match_summary": "Struggles against good top-rollers."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Dave Chaffee",
+            "Vitaly Laletin"
+          ],
+          "arm": "Right",
+          "event": null,
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": null,
+          "prediction_summary": "Dave is very powerful and can stop Vitaly if he goes in the strap. Vitaly has no chance if Dave is smarter.",
+          "predicted_duration": null,
+          "style_conflict": "side pressure vs top-roll",
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": "Very powerful inside, side pressure. One of the strongest when not injured.",
+              "health": "No injuries reported, in much better shape than before.",
+              "previous_match_summary": "Destroyed Vitaly in the strap but lost without it. Beat Alex Kurdecha."
+            },
+            "Vitaly Laletin": {
+              "strength": "Good grip and fast start but struggles against good top-rollers.",
+              "health": null,
+              "previous_match_summary": "Lost to Dave in the strap but beat him without it."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Vitaly Laletin"
+          ],
+          "arm": "Right",
+          "event": null,
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon is very smart, clever, and way more powerful than Vitaly. He will not allow Vitaly to beat him on the grip.",
+          "predicted_duration": null,
+          "style_conflict": "top-roll vs grip",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Very smart, clever, and powerful. Excellent table IQ.",
+              "health": "Becoming bigger and more dangerous.",
+              "previous_match_summary": "Showed great endurance and control in recent matches."
+            },
+            "Vitaly Laletin": {
+              "strength": "Dangerous with tall, long arm and good grip.",
+              "health": null,
+              "previous_match_summary": "Struggles against good top-rollers."
+            }
+          }
+        },
+        {
+          "match": [
+            "Janis Amolins",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": null,
+          "predicted_winner": "Janis Amolins",
+          "predicted_score": null,
+          "prediction_summary": "Janis is one of the smartest guys on the table with better technique. Mindaugas is strong but will lose this match.",
+          "predicted_duration": null,
+          "style_conflict": "top-roll vs top-roll",
+          "opinion_about_athletes": {
+            "Janis Amolins": {
+              "strength": "Smart, excellent technique, and very dangerous.",
+              "health": "In very good shape.",
+              "previous_match_summary": null
+            },
+            "Mindaugas Tarasaitis": {
+              "strength": "Strong but lacks technique compared to Janis.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Craig Tullier",
+            "John Therrien"
+          ],
+          "arm": "Right",
+          "event": null,
+          "predicted_winner": "Craig Tullier",
+          "predicted_score": null,
+          "prediction_summary": "Craig is pretty strong with good experience on the table. He will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Craig Tullier": {
+              "strength": "Strong and experienced.",
+              "health": null,
+              "previous_match_summary": "Competed since 1992."
+            },
+            "John Therrien": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Sarah Bäckman",
+            "Jocelyne Brisson"
+          ],
+          "arm": "Right",
+          "event": null,
+          "predicted_winner": "Sarah Bäckman",
+          "predicted_score": null,
+          "prediction_summary": "Sarah will win and be very well prepared. She lost last year and wants revenge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sarah Bäckman": {
+              "strength": "Very good prepared and strong.",
+              "health": "Lighter but didn't lose any power or muscle.",
+              "previous_match_summary": "Lost to Jocelyne last year."
+            },
+            "Jocelyne Brisson": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Beat Sarah last year."
+            }
+          }
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Kydyrgali Ongarbaev"
+          ],
+          "arm": "Right",
+          "event": null,
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Matt will top-roll Ongarbaev and be uncomfortable for him. Ongarbaev is coming back from surgery.",
+          "predicted_duration": null,
+          "style_conflict": "top-roll vs top-roll",
+          "opinion_about_athletes": {
+            "Matt Mask": {
+              "strength": "Explosive, crazy on the table, and very powerful.",
+              "health": null,
+              "previous_match_summary": "Beat Hermes at WL."
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": null,
+              "health": "First match after surgery.",
+              "previous_match_summary": "Lost to Hermes in Croatia."
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Kody Merritt"
+          ],
+          "arm": "Left",
+          "event": null,
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Either it goes fast by Kody to the pin pad or it will be a war.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Kody Merritt": {
+              "strength": "Very big and strong.",
+              "health": null,
+              "previous_match_summary": "Lost the medal."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Corey West"
+          ],
+          "arm": "Left",
+          "event": null,
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Devon is way bigger now and Corey is not powerful enough to pull without wrist. Devon will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Very difficult to beat, growing bigger.",
+              "health": null,
+              "previous_match_summary": "Controlled all the match against Gennady."
+            },
+            "Corey West": {
+              "strength": "Not powerful enough to pull without wrist.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Yoshinobu Kanai"
+          ],
+          "arm": "Right",
+          "event": null,
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John will stop Kanai, top-roll him, and slowly climb. He has better hand control and knows how to beat Kanai.",
+          "predicted_duration": null,
+          "style_conflict": "top-roll vs top-roll",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Better hand control, knows Kanai well.",
+              "health": null,
+              "previous_match_summary": "Finished Kanai with shoulder pressure in the past."
+            },
+            "Yoshinobu Kanai": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Lost to John in the past."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Janis Amolins",
-          "Mindaugas Tarasaitis"
-        ],
-        "arm": "Right",
-        "event": null,
-        "predicted_winner": "Janis Amolins",
-        "predicted_score": null,
-        "prediction_summary": "Janis is one of the smartest guys on the table with better technique. Mindaugas is strong but will lose this match.",
-        "predicted_duration": null,
-        "style_conflict": "top-roll vs top-roll",
-        "opinion_about_athletes": {
-          "Janis Amolins": {
-            "strength": "Smart, excellent technique, and very dangerous.",
-            "health": "In very good shape.",
-            "previous_match_summary": null
-          },
-          "Mindaugas Tarasaitis": {
-            "strength": "Strong but lacks technique compared to Janis.",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Craig Tullier",
-          "John Therrien"
-        ],
-        "arm": "Right",
-        "event": null,
-        "predicted_winner": "Craig Tullier",
-        "predicted_score": null,
-        "prediction_summary": "Craig is pretty strong with good experience on the table. He will win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Craig Tullier": {
-            "strength": "Strong and experienced.",
-            "health": null,
-            "previous_match_summary": "Competed since 1992."
-          },
-          "John Therrien": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Sarah Bäckman",
-          "Jocelyne Brisson"
-        ],
-        "arm": "Right",
-        "event": null,
-        "predicted_winner": "Sarah Bäckman",
-        "predicted_score": null,
-        "prediction_summary": "Sarah will win and be very well prepared. She lost last year and wants revenge.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Sarah Bäckman": {
-            "strength": "Very good prepared and strong.",
-            "health": "Lighter but didn't lose any power or muscle.",
-            "previous_match_summary": "Lost to Jocelyne last year."
-          },
-          "Jocelyne Brisson": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Beat Sarah last year."
-          }
-        }
-      },
-      {
-        "match": [
-          "Matt Mask",
-          "Kydyrgali Ongarbaev"
-        ],
-        "arm": "Right",
-        "event": null,
-        "predicted_winner": "Matt Mask",
-        "predicted_score": null,
-        "prediction_summary": "Matt will top-roll Ongarbaev and be uncomfortable for him. Ongarbaev is coming back from surgery.",
-        "predicted_duration": null,
-        "style_conflict": "top-roll vs top-roll",
-        "opinion_about_athletes": {
-          "Matt Mask": {
-            "strength": "Explosive, crazy on the table, and very powerful.",
-            "health": null,
-            "previous_match_summary": "Beat Hermes at WL."
-          },
-          "Kydyrgali Ongarbaev": {
-            "strength": null,
-            "health": "First match after surgery.",
-            "previous_match_summary": "Lost to Hermes in Croatia."
-          }
-        }
-      },
-      {
-        "match": [
-          "Evgeny Prudnik",
-          "Kody Merritt"
-        ],
-        "arm": "Left",
-        "event": null,
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Either it goes fast by Kody to the pin pad or it will be a war.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Evgeny Prudnik": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Kody Merritt": {
-            "strength": "Very big and strong.",
-            "health": null,
-            "previous_match_summary": "Lost the medal."
-          }
-        }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Corey West"
-        ],
-        "arm": "Left",
-        "event": null,
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "Devon is way bigger now and Corey is not powerful enough to pull without wrist. Devon will win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Very difficult to beat, growing bigger.",
-            "health": null,
-            "previous_match_summary": "Controlled all the match against Gennady."
-          },
-          "Corey West": {
-            "strength": "Not powerful enough to pull without wrist.",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "John Brzenk",
-          "Yoshinobu Kanai"
-        ],
-        "arm": "Right",
-        "event": null,
-        "predicted_winner": "John Brzenk",
-        "predicted_score": null,
-        "prediction_summary": "John will stop Kanai, top-roll him, and slowly climb. He has better hand control and knows how to beat Kanai.",
-        "predicted_duration": null,
-        "style_conflict": "top-roll vs top-roll",
-        "opinion_about_athletes": {
-          "John Brzenk": {
-            "strength": "Better hand control, knows Kanai well.",
-            "health": null,
-            "previous_match_summary": "Finished Kanai with shoulder pressure in the past."
-          },
-          "Yoshinobu Kanai": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Lost to John in the past."
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

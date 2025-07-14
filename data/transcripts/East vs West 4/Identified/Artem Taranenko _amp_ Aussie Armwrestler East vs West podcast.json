@@ -6,9 +6,8 @@
     "SPEAKER_03": "Bob Brown"
   },
   "date": "July 28, 2022",
-  "predictions": [
-    {
-      "speaker": "Artem Taranenko",
+  "predictions": {
+    "Artem Taranenko": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -38,8 +37,7 @@
         }
       ]
     },
-    {
-      "speaker": "Aussie Armwrestler",
+    "Aussie Armwrestler": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -94,8 +92,7 @@
         }
       ]
     },
-    {
-      "speaker": "Bob Brown",
+    "Bob Brown": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -125,8 +122,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -156,5 +152,5 @@
         }
       ]
     }
-  ]
+  }
 }

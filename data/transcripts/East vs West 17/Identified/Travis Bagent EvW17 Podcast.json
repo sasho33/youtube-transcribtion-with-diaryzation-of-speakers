@@ -6,9 +6,8 @@
     "SPEAKER_04": "Travis Bagent"
   },
   "date": "March 10, 2025",
-  "predictions": [
-    {
-      "speaker": "Travis Bagent",
+  "predictions": {
+    "Travis Bagent": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -238,8 +237,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -269,5 +267,5 @@
         }
       ]
     }
-  ]
+  }
 }

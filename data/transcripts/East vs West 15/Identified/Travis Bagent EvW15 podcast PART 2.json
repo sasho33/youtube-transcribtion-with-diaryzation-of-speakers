@@ -5,9 +5,8 @@
     "SPEAKER_02": "Unknown Speaker"
   },
   "date": "October 17, 2024",
-  "predictions": [
-    {
-      "speaker": "Travis Bagent",
+  "predictions": {
+    "Travis Bagent": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -87,8 +86,7 @@
         }
       ]
     },
-    {
-      "speaker": "Unknown Host",
+    "Unknown Host": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -143,5 +141,5 @@
         }
       ]
     }
-  ]
+  }
 }

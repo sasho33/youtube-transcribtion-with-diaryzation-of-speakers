@@ -6,9 +6,8 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "August 04, 2024",
-  "predictions": [
-    {
-      "speaker": "Matt Mask",
+  "predictions": {
+    "Matt Mask": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -363,8 +362,7 @@
         }
       ]
     },
-    {
-      "speaker": "Lars Rorbakken",
+    "Lars Rorbakken": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -694,5 +692,5 @@
         }
       ]
     }
-  ]
+  }
 }

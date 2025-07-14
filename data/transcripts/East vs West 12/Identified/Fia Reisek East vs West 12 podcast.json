@@ -5,9 +5,8 @@
     "SPEAKER_03": "Unknown"
   },
   "date": "March 13, 2024",
-  "predictions": [
-    {
-      "speaker": "Fia Reisik",
+  "predictions": {
+    "Fia Reisik": {
       "self_predictions": [
         {
           "match": [
@@ -158,8 +157,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -214,5 +212,5 @@
         }
       ]
     }
-  ]
+  }
 }

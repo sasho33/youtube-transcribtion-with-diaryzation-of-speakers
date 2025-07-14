@@ -5,135 +5,137 @@
     "SPEAKER_02": "Unknown"
   },
   "date": "August 13, 2023",
-  "Ermes Gasparini": {
-    "self_predictions": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Jerry Cadorette"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": null,
-        "prediction_summary": "Ermes believes he will win by controlling Jerry's wrist and using his superior technique and power. He mentions that Jerry has only one technique and is not smart enough to adapt.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs. shoulder pressure",
-        "opinion_about_athletes": {
-          "Jerry Cadorette": {
-            "strength": "Very strong, especially in shoulder pressure",
-            "health": null,
-            "previous_match_summary": "Jerry wins in an 'ugly' way, creating bad memories for opponents."
+  "predictions": {
+    "Ermes Gasparini": {
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes he will win by controlling Jerry's wrist and using his superior technique and power. He mentions that Jerry has only one technique and is not smart enough to adapt.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. shoulder pressure",
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Very strong, especially in shoulder pressure",
+              "health": null,
+              "previous_match_summary": "Jerry wins in an 'ugly' way, creating bad memories for opponents."
+            }
           }
         }
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Devon Larratt",
-          "Dave Chaffee"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "Ermes thinks Dave Chaffee will come close to winning in the first or second round, but Devon will ultimately win by adapting his technique.",
-        "predicted_duration": null,
-        "style_conflict": "Hook vs. top roll",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Good endurance and technique",
-            "health": null,
-            "previous_match_summary": "Devon's endurance is built for top rolling, not hooking."
-          },
-          "Dave Chaffee": {
-            "strength": "Very strong in shoulder pressure",
-            "health": null,
-            "previous_match_summary": "Dave can win if he switches to shoulder pressure early."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Dave Chaffee"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks Dave Chaffee will come close to winning in the first or second round, but Devon will ultimately win by adapting his technique.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs. top roll",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Good endurance and technique",
+              "health": null,
+              "previous_match_summary": "Devon's endurance is built for top rolling, not hooking."
+            },
+            "Dave Chaffee": {
+              "strength": "Very strong in shoulder pressure",
+              "health": null,
+              "previous_match_summary": "Dave can win if he switches to shoulder pressure early."
+            }
+          }
+        },
+        {
+          "match": [
+            "Artyom Morozov",
+            "Corey West"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Ermes believes Morozov is in very good shape and will win, but warns not to underestimate Corey West's power.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Super mega strong",
+              "health": null,
+              "previous_match_summary": "Morozov has improved significantly over the past year."
+            },
+            "Corey West": {
+              "strength": "Very dangerous, especially in hook",
+              "health": null,
+              "previous_match_summary": "Corey can apply immense pressure if he gets into his preferred position."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Artyom Morozov",
-          "Corey West"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Artyom Morozov",
-        "predicted_score": null,
-        "prediction_summary": "Ermes believes Morozov is in very good shape and will win, but warns not to underestimate Corey West's power.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs. hook",
-        "opinion_about_athletes": {
-          "Artyom Morozov": {
-            "strength": "Super mega strong",
-            "health": null,
-            "previous_match_summary": "Morozov has improved significantly over the past year."
-          },
-          "Corey West": {
-            "strength": "Very dangerous, especially in hook",
-            "health": null,
-            "previous_match_summary": "Corey can apply immense pressure if he gets into his preferred position."
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Engin teases Ermes, saying Jerry will crush him and create new memories for Ermes. He jokes about Ermes being scared of Jerry.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. shoulder pressure",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Very strong wrist and technique",
+              "health": null,
+              "previous_match_summary": "Ermes is confident but may underestimate Jerry's power."
+            },
+            "Jerry Cadorette": {
+              "strength": "Very strong in shoulder pressure",
+              "health": null,
+              "previous_match_summary": "Jerry wins in an 'ugly' way, frustrating opponents."
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": "50-50",
+          "predicted_score": null,
+          "prediction_summary": "Engin thinks the match is very close, with both athletes knowing each other's techniques well.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll vs. hook",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Good endurance and technique",
+              "health": null,
+              "previous_match_summary": "Devon's endurance is built for top rolling."
+            },
+            "Genadi Kvikvinia": {
+              "strength": "More endurance than Devon",
+              "health": null,
+              "previous_match_summary": "Genadi never gives up, even when losing."
+            }
           }
         }
-      }
-    ]
-  },
-  "Engin Terzi": {
-    "self_predictions": [],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Jerry Cadorette"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "Jerry Cadorette",
-        "predicted_score": null,
-        "prediction_summary": "Engin teases Ermes, saying Jerry will crush him and create new memories for Ermes. He jokes about Ermes being scared of Jerry.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs. shoulder pressure",
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Very strong wrist and technique",
-            "health": null,
-            "previous_match_summary": "Ermes is confident but may underestimate Jerry's power."
-          },
-          "Jerry Cadorette": {
-            "strength": "Very strong in shoulder pressure",
-            "health": null,
-            "previous_match_summary": "Jerry wins in an 'ugly' way, frustrating opponents."
-          }
-        }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 8",
-        "predicted_winner": "50-50",
-        "predicted_score": null,
-        "prediction_summary": "Engin thinks the match is very close, with both athletes knowing each other's techniques well.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll vs. hook",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Good endurance and technique",
-            "health": null,
-            "previous_match_summary": "Devon's endurance is built for top rolling."
-          },
-          "Genadi Kvikvinia": {
-            "strength": "More endurance than Devon",
-            "health": null,
-            "previous_match_summary": "Genadi never gives up, even when losing."
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

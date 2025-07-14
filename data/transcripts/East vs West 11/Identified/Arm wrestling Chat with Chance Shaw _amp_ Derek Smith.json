@@ -7,9 +7,8 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "January 07, 2024",
-  "predictions": [
-    {
-      "speaker": "Chance Shaw",
+  "predictions": {
+    "Chance Shaw": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -364,8 +363,7 @@
         }
       ]
     },
-    {
-      "speaker": "Derek Smith",
+    "Derek Smith": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -695,5 +693,5 @@
         }
       ]
     }
-  ]
+  }
 }

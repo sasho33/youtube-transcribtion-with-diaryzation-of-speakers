@@ -3,10 +3,10 @@
     "SPEAKER_00": "Zurab Tavberidze",
     "SPEAKER_01": "Artem Taynov",
     "SPEAKER_02": "Engin Terzi",
-    "SPEAKER_03": "Roman",
-    "SPEAKER_04": "Pasha"
+    "SPEAKER_03": "Roman Tsindeliani",
+    "SPEAKER_04": "Pavel"
   },
-  "date": "December 28, 2023",
+  "date": "January 24, 2024",
   "predictions": {
     "Artem Taynov": {
       "self_predictions": [
@@ -19,14 +19,14 @@
           "event": "East vs West 11",
           "predicted_winner": "Artem Taynov",
           "predicted_score": "4-0",
-          "prediction_summary": "Artem is confident in winning with his left arm, citing his previous victory over Zurab with his weaker right arm. He believes his endurance and technique will prevail.",
+          "prediction_summary": "Artem is confident in winning with his left arm, citing his previous victory over Zurab with his right arm as evidence of his superiority.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
             "Zurab Tavberidze": {
-              "strength": "Respects Zurab's motivation and preparation",
-              "health": "Notes Zurab's injury but believes it won't hinder his performance",
-              "previous_match_summary": "Artem won against Zurab with his right arm and is confident of repeating the victory with his left."
+              "strength": "Zurab has huge muscles but may get pumped up faster due to his size.",
+              "health": "Zurab is recovering from an injury but is highly motivated.",
+              "previous_match_summary": "Artem won against Zurab with his right arm and believes he can dominate with his left."
             }
           }
         }
@@ -41,7 +41,7 @@
           "event": "East vs West 11",
           "predicted_winner": "Vala Ichqiti",
           "predicted_score": null,
-          "prediction_summary": "Artem believes Vala Ichqiti will win due to his speed and comfort at the weight category.",
+          "prediction_summary": "Vala is very fast and more comfortable at this weight category.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
@@ -55,7 +55,7 @@
           "event": "East vs West 11",
           "predicted_winner": "Davit Samushia",
           "predicted_score": null,
-          "prediction_summary": "Artem thinks Samushia will win easily due to Maiorov's long break from competition.",
+          "prediction_summary": "Samushia is in good form and Maiorov has had a long break.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
@@ -69,7 +69,7 @@
           "event": "East vs West 11",
           "predicted_winner": "Oleg Zhokh",
           "predicted_score": null,
-          "prediction_summary": "Artem favors Zhokh due to his anatomical hand structure and strength.",
+          "prediction_summary": "Zhokh's anatomical hand structure and strength give him the edge.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
@@ -83,7 +83,7 @@
           "event": "East vs West 11",
           "predicted_winner": "Daniel Procopciuc",
           "predicted_score": null,
-          "prediction_summary": "Artem believes Procopciuc's phenomenal strength and endurance will secure his victory.",
+          "prediction_summary": "Procopciuc has phenomenal strength and endurance.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
@@ -97,7 +97,7 @@
           "event": "East vs West 11",
           "predicted_winner": "50-50",
           "predicted_score": null,
-          "prediction_summary": "Artem sees it as an even match, acknowledging both athletes' strengths.",
+          "prediction_summary": "Petrenko is young and motivated, but Barboza is still strong.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
@@ -111,7 +111,7 @@
           "event": "East vs West 11",
           "predicted_winner": "John Brzenk",
           "predicted_score": null,
-          "prediction_summary": "Artem favors Brzenk due to his greater experience, despite Kostadinov's capabilities.",
+          "prediction_summary": "Brzenk's experience and recovery from weight loss give him the edge.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
@@ -125,21 +125,21 @@
           "event": "East vs West 11",
           "predicted_winner": "Irakli Zirakashvili",
           "predicted_score": null,
-          "prediction_summary": "Artem leans towards Zirakashvili if he can impose his style on Linn.",
+          "prediction_summary": "Zirakashvili can impose his style and load Linn's wrist.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
         },
         {
           "match": [
-            "Matt Mask",
-            "Wagner Bortolato"
+            "Wagner Bortolato",
+            "Matt Mask"
           ],
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Wagner Bortolato",
           "predicted_score": null,
-          "prediction_summary": "Artem doubts Mask's current form and believes Bortolato's strength will prevail.",
+          "prediction_summary": "Bortolato is physically stronger and can twist Mask's wrist.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
@@ -153,35 +153,35 @@
           "event": "East vs West 11",
           "predicted_winner": "Artyom Morozov",
           "predicted_score": null,
-          "prediction_summary": "Artem supports Morozov but acknowledges Kurdecha's past victories make it a tough match.",
+          "prediction_summary": "Morozov is versatile but it won't be easy; depends on Kurdecha's form.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
         },
         {
           "match": [
-            "Alizhan Muratov",
-            "Evgeny Prudnik"
+            "Evgeny Prudnik",
+            "Alizhan Muratov"
           ],
           "arm": "Left",
           "event": "East vs West 11",
           "predicted_winner": "50-50",
           "predicted_score": null,
-          "prediction_summary": "Artem finds it unpredictable, noting both athletes' strengths and versatility.",
+          "prediction_summary": "Both are very strong; Prudnik is more universal but Muratov can pull anywhere.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
         },
         {
           "match": [
-            "David Dadikyan",
+            "Davit Dadikyan",
             "Todd Hutchings"
           ],
           "arm": "Right",
           "event": "East vs West 11",
           "predicted_winner": "Todd Hutchings",
           "predicted_score": "60-40",
-          "prediction_summary": "Artem gives Hutchings the edge due to Dadikyan's endurance concerns but wishes Dadikyan success.",
+          "prediction_summary": "Dadikyan may lack endurance; Hutchings is strong and can pull out wins.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
@@ -199,14 +199,14 @@
           "event": "East vs West 11",
           "predicted_winner": "Zurab Tavberidze",
           "predicted_score": null,
-          "prediction_summary": "Zurab is highly motivated by his injury and believes he will take the belt from Artem.",
+          "prediction_summary": "Zurab is highly motivated after his injury and believes he can win the belt from Artem.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": {
             "Artem Taynov": {
-              "strength": "Respects Artem's preparation and strength",
-              "health": null,
-              "previous_match_summary": "Acknowledges Artem's previous victory but is confident in his own comeback."
+              "strength": "Artem is strong but Zurab believes he can overcome him.",
+              "health": "Artem is in good shape.",
+              "previous_match_summary": "Artem won against Zurab with his right arm but Zurab is confident he can win with his left."
             }
           }
         }
@@ -221,7 +221,7 @@
           "event": "East vs West 11",
           "predicted_winner": "Vala Ichqiti",
           "predicted_score": null,
-          "prediction_summary": "Zurab thinks Vala is more comfortable at the weight and will win.",
+          "prediction_summary": "Vala is more used to this weight category.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
@@ -235,7 +235,7 @@
           "event": "East vs West 11",
           "predicted_winner": "Davit Samushia",
           "predicted_score": null,
-          "prediction_summary": "Zurab believes Samushia's endurance will secure his victory in later rounds.",
+          "prediction_summary": "Samushia's endurance will help him in later rounds.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
@@ -249,7 +249,7 @@
           "event": "East vs West 11",
           "predicted_winner": "Oleg Zhokh",
           "predicted_score": "60%",
-          "prediction_summary": "Zurab objectively favors Zhokh but wishes Avtandil to win.",
+          "prediction_summary": "Oleg is the favorite but Zurab wishes Avtandil to win.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
@@ -263,21 +263,7 @@
           "event": "East vs West 11",
           "predicted_winner": "Oleg Petrenko",
           "predicted_score": null,
-          "prediction_summary": "Zurab likes Barboza's style but thinks Petrenko's current form and motivation will win.",
-          "predicted_duration": null,
-          "style_conflict": null,
-          "opinion_about_athletes": null
-        },
-        {
-          "match": [
-            "Ivan Matyushenko",
-            "Rino Mašić"
-          ],
-          "arm": "Left",
-          "event": "East vs West 11",
-          "predicted_winner": "Ivan Matyushenko",
-          "predicted_score": null,
-          "prediction_summary": "Zurab believes Matyushenko's strength and experience will prevail.",
+          "prediction_summary": "Petrenko is young and motivated; Barboza's form is uncertain.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
@@ -291,7 +277,7 @@
           "event": "East vs West 11",
           "predicted_winner": "50-50",
           "predicted_score": null,
-          "prediction_summary": "Zurab is unsure due to both athletes not being at their best shape.",
+          "prediction_summary": "Both are not at their best; Kostadinov can force a hook.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
@@ -305,21 +291,21 @@
           "event": "East vs West 11",
           "predicted_winner": "50-50",
           "predicted_score": null,
-          "prediction_summary": "Zurab sees it as even, noting Linn's improvements and Zirakashvili's weight class change.",
+          "prediction_summary": "Paul Linn has improved but Zirakashvili's weight class change may help.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null
         },
         {
           "match": [
-            "David Dadikyan",
+            "Davit Dadikyan",
             "Todd Hutchings"
           ],
           "arm": "Right",
           "event": "East vs West 11",
-          "predicted_winner": "David Dadikyan (first round), then uncertain",
+          "predicted_winner": "Davit Dadikyan (first round), uncertain after",
           "predicted_score": null,
-          "prediction_summary": "Zurab is sure Dadikyan will take the first round but is uncertain thereafter.",
+          "prediction_summary": "Dadikyan will win the first round but endurance is a concern.",
           "predicted_duration": null,
           "style_conflict": null,
           "opinion_about_athletes": null

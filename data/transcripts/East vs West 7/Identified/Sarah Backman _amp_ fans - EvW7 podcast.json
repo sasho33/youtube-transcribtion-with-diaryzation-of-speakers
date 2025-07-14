@@ -7,9 +7,8 @@
     "SPEAKER_04": "Amarildo"
   },
   "date": "March 22, 2023",
-  "predictions": [
-    {
-      "speaker": "Sarah Backman",
+  "predictions": {
+    "Sarah Backman": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -64,8 +63,7 @@
         }
       ]
     },
-    {
-      "speaker": "Amarildo",
+    "Amarildo": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -145,8 +143,7 @@
         }
       ]
     },
-    {
-      "speaker": "Ishan",
+    "Ishan": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -226,8 +223,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -282,5 +278,5 @@
         }
       ]
     }
-  ]
+  }
 }

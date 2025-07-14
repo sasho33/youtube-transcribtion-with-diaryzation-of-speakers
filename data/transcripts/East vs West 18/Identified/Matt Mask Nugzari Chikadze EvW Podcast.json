@@ -6,9 +6,8 @@
     "SPEAKER_03": "Engin Terzi (Host)"
   },
   "date": "April 19, 2025",
-  "predictions": [
-    {
-      "speaker": "Matt Mask",
+  "predictions": {
+    "Matt Mask": {
       "self_predictions": [
         {
           "match": [
@@ -77,8 +76,7 @@
         }
       ]
     },
-    {
-      "speaker": "Nugo (Nugzari Chikadze)",
+    "Nugo (Nugzari Chikadze)": {
       "self_predictions": [
         {
           "match": [
@@ -147,5 +145,5 @@
         }
       ]
     }
-  ]
+  }
 }

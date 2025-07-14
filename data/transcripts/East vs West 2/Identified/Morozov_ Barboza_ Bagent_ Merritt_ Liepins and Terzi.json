@@ -7,9 +7,8 @@
     "SPEAKER_04": "Raimonds Liepins"
   },
   "date": "January 1, 2022",
-  "predictions": [
-    {
-      "speaker": "Artyom Morozov",
+  "predictions": {
+    "Artyom Morozov": {
       "self_predictions": [
         {
           "match": [
@@ -155,8 +154,7 @@
         }
       ]
     },
-    {
-      "speaker": "Marcio Barboza",
+    "Marcio Barboza": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -261,8 +259,7 @@
         }
       ]
     },
-    {
-      "speaker": "Cody Merritt",
+    "Cody Merritt": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -342,8 +339,7 @@
         }
       ]
     },
-    {
-      "speaker": "Travis Bagent",
+    "Travis Bagent": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -448,5 +444,5 @@
         }
       ]
     }
-  ]
+  }
 }

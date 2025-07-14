@@ -6,356 +6,358 @@
     "SPEAKER_04": "Coach Ray"
   },
   "date": "July 01, 2024",
-  "self_predictions": {
-    "Petro Marharint": [
-      {
-        "match": [
-          "Petro Marharint",
-          "Zurab Tavberidze"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Petro respects Zurab but is preparing to face him at his best, expecting a tough fight.",
-        "predicted_duration": null,
-        "style_conflict": "Hook vs Inside",
-        "opinion_about_athletes": {
-          "Zurab Tavberidze": {
-            "strength": "Very strong, especially in the hook",
-            "health": "Recovered from arm injury, but unsure if 100%",
-            "previous_match_summary": "Known for his endurance and stubbornness in matches"
+  "predictions": {
+    "Petro Marharint": {
+      "self_predictions": [
+        {
+          "match": [
+            "Petro Marharint",
+            "Zurab Tavberidze"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Petro respects Zurab but is preparing to face him at his best, expecting a tough fight.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Inside",
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "Very strong, especially in the hook",
+              "health": "Recovered from arm injury, but unsure if 100%",
+              "previous_match_summary": "Known for his endurance and stubbornness in matches"
+            }
           }
         }
-      }
-    ],
-    "Zurab Tavberidze": [
-      {
-        "match": [
-          "Zurab Tavberidze",
-          "Petro Marharint"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Zurab respects Petro but is confident in his preparation and readiness for the match.",
-        "predicted_duration": null,
-        "style_conflict": "Hook vs Inside",
-        "opinion_about_athletes": {
-          "Petro Marharint": {
-            "strength": "Very strong, especially in the hook",
-            "health": "In good shape, recovering from previous matches",
-            "previous_match_summary": "Has beaten many great names in the sport"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Oleg Petrenko",
+            "David Dadikyan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Expects a tough and unpredictable fight, supporting Oleg but unsure of the outcome.",
+          "predicted_duration": null,
+          "style_conflict": "Versatile vs Technical",
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": "Very strong and versatile",
+              "health": null,
+              "previous_match_summary": "Showed great performance at King of the Table"
+            },
+            "David Dadikyan": {
+              "strength": "Technical and strong",
+              "health": null,
+              "previous_match_summary": "Progressed significantly from previous matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Believes Sasho's weight cut will be a disadvantage and Davit's strength in the center will be decisive.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs Endurance",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Crazy strength in the center",
+              "health": null,
+              "previous_match_summary": "Known for his endurance and comeback ability"
+            },
+            "Sasho Andreev": {
+              "strength": "Dominant but cutting weight",
+              "health": null,
+              "previous_match_summary": "Strong but may not be at his best due to weight cut"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": null,
+          "predicted_score": "3-2",
+          "prediction_summary": "Expects a long and unpredictable fight, with Morozov adjusting during the match.",
+          "predicted_duration": null,
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Great at taking hands and opening up",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artyom Morozov": {
+              "strength": "Great at adjusting during fights",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "3-1",
+          "prediction_summary": "Believes Prudnik's experience and weight advantage will be decisive.",
+          "predicted_duration": null,
+          "style_conflict": "Versatile vs Explosive",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Explosive and progressing",
+              "health": null,
+              "previous_match_summary": "Has beaten strong opponents"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Versatile and experienced",
+              "health": null,
+              "previous_match_summary": "Known for adjusting and winning in different styles"
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Artem Taynov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Artem Taynov",
+          "predicted_score": null,
+          "prediction_summary": "Believes Artem's explosiveness will dominate the match.",
+          "predicted_duration": null,
+          "style_conflict": "Explosive vs Endurance",
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Strong if he can stop Artem's explosiveness",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artem Taynov": {
+              "strength": "Very explosive",
+              "health": null,
+              "previous_match_summary": "Improving and getting better"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Favors Todd based on previous fights but expects Krasimir to be well-prepared.",
+          "predicted_duration": null,
+          "style_conflict": "Uncomfortable style for Krasimir",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Uncomfortable style for Krasimir",
+              "health": null,
+              "previous_match_summary": "Has beaten Krasimir before"
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Strong and serious about preparation",
+              "health": null,
+              "previous_match_summary": "Can bring good shape to the match"
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Petro Marharint": [
-      {
-        "match": [
-          "Oleg Petrenko",
-          "David Dadikyan"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Expects a tough and unpredictable fight, supporting Oleg but unsure of the outcome.",
-        "predicted_duration": null,
-        "style_conflict": "Versatile vs Technical",
-        "opinion_about_athletes": {
-          "Oleg Petrenko": {
-            "strength": "Very strong and versatile",
-            "health": null,
-            "previous_match_summary": "Showed great performance at King of the Table"
-          },
-          "David Dadikyan": {
-            "strength": "Technical and strong",
-            "health": null,
-            "previous_match_summary": "Progressed significantly from previous matches"
+      ]
+    },
+    "Zurab Tavberidze": {
+      "self_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Petro Marharint"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Zurab respects Petro but is confident in his preparation and readiness for the match.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Inside",
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Very strong, especially in the hook",
+              "health": "In good shape, recovering from previous matches",
+              "previous_match_summary": "Has beaten many great names in the sport"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Davit Samushia",
-          "Sasho Andreev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Davit Samushia",
-        "predicted_score": null,
-        "prediction_summary": "Believes Sasho's weight cut will be a disadvantage and Davit's strength in the center will be decisive.",
-        "predicted_duration": null,
-        "style_conflict": "Strength vs Endurance",
-        "opinion_about_athletes": {
-          "Davit Samushia": {
-            "strength": "Crazy strength in the center",
-            "health": null,
-            "previous_match_summary": "Known for his endurance and comeback ability"
-          },
-          "Sasho Andreev": {
-            "strength": "Dominant but cutting weight",
-            "health": null,
-            "previous_match_summary": "Strong but may not be at his best due to weight cut"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Oleg Petrenko",
+            "David Dadikyan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Expects a tough fight, believes Oleg will be uncomfortable for David.",
+          "predicted_duration": null,
+          "style_conflict": "Versatile vs Technical",
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": "Extremely strong and uncomfortable",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "David Dadikyan": {
+              "strength": "Technical and strong",
+              "health": null,
+              "previous_match_summary": "Showed progression in previous matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Davit Samushia",
+            "Sasho Andreev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Davit Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Believes Sasho will dominate first two rounds but Davit will win due to endurance.",
+          "predicted_duration": null,
+          "style_conflict": "Strength vs Endurance",
+          "opinion_about_athletes": {
+            "Davit Samushia": {
+              "strength": "Strong in the center",
+              "health": null,
+              "previous_match_summary": "Known for endurance"
+            },
+            "Sasho Andreev": {
+              "strength": "Dominant early",
+              "health": null,
+              "previous_match_summary": "May fade in later rounds"
+            }
+          }
+        },
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "3-2",
+          "prediction_summary": "Believes Morozov will adjust and win after a tough start.",
+          "predicted_duration": null,
+          "style_conflict": "Top Roll vs Hook",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Great at taking hands",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artyom Morozov": {
+              "strength": "Great at adjusting",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Irakli Zirakashvili",
+            "Evgeny Prudnik"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": "3-1",
+          "prediction_summary": "Slightly favors Prudnik due to weight difference and experience.",
+          "predicted_duration": null,
+          "style_conflict": "Versatile vs Explosive",
+          "opinion_about_athletes": {
+            "Irakli Zirakashvili": {
+              "strength": "Explosive and progressing",
+              "health": null,
+              "previous_match_summary": "Has beaten strong opponents"
+            },
+            "Evgeny Prudnik": {
+              "strength": "Versatile and experienced",
+              "health": null,
+              "previous_match_summary": "Known for adjusting and winning in different styles"
+            }
+          }
+        },
+        {
+          "match": [
+            "Betkili Oniani",
+            "Artem Taynov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 13",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Believes Betkili will win if he can stop Artem's explosiveness.",
+          "predicted_duration": null,
+          "style_conflict": "Explosive vs Endurance",
+          "opinion_about_athletes": {
+            "Betkili Oniani": {
+              "strength": "Strong if he can stop Artem's explosiveness",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Artem Taynov": {
+              "strength": "Very explosive",
+              "health": null,
+              "previous_match_summary": "Improving and getting better"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Favors Todd due to style being uncomfortable for Krasimir.",
+          "predicted_duration": null,
+          "style_conflict": "Uncomfortable style for Krasimir",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Uncomfortable style for Krasimir",
+              "health": null,
+              "previous_match_summary": "Has beaten Krasimir before"
+            },
+            "Krasimir Kostadinov": {
+              "strength": "Strong and serious about preparation",
+              "health": null,
+              "previous_match_summary": "Can bring good shape to the match"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Artyom Morozov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": null,
-        "predicted_score": "3-2",
-        "prediction_summary": "Expects a long and unpredictable fight, with Morozov adjusting during the match.",
-        "predicted_duration": null,
-        "style_conflict": "Top Roll vs Hook",
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "Great at taking hands and opening up",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Artyom Morozov": {
-            "strength": "Great at adjusting during fights",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Irakli Zirakashvili",
-          "Evgeny Prudnik"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Evgeny Prudnik",
-        "predicted_score": "3-1",
-        "prediction_summary": "Believes Prudnik's experience and weight advantage will be decisive.",
-        "predicted_duration": null,
-        "style_conflict": "Versatile vs Explosive",
-        "opinion_about_athletes": {
-          "Irakli Zirakashvili": {
-            "strength": "Explosive and progressing",
-            "health": null,
-            "previous_match_summary": "Has beaten strong opponents"
-          },
-          "Evgeny Prudnik": {
-            "strength": "Versatile and experienced",
-            "health": null,
-            "previous_match_summary": "Known for adjusting and winning in different styles"
-          }
-        }
-      },
-      {
-        "match": [
-          "Betkili Oniani",
-          "Artem Taynov"
-        ],
-        "arm": "Left",
-        "event": "East vs West 13",
-        "predicted_winner": "Artem Taynov",
-        "predicted_score": null,
-        "prediction_summary": "Believes Artem's explosiveness will dominate the match.",
-        "predicted_duration": null,
-        "style_conflict": "Explosive vs Endurance",
-        "opinion_about_athletes": {
-          "Betkili Oniani": {
-            "strength": "Strong if he can stop Artem's explosiveness",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Artem Taynov": {
-            "strength": "Very explosive",
-            "health": null,
-            "previous_match_summary": "Improving and getting better"
-          }
-        }
-      },
-      {
-        "match": [
-          "Todd Hutchings",
-          "Krasimir Kostadinov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Todd Hutchings",
-        "predicted_score": null,
-        "prediction_summary": "Favors Todd based on previous fights but expects Krasimir to be well-prepared.",
-        "predicted_duration": null,
-        "style_conflict": "Uncomfortable style for Krasimir",
-        "opinion_about_athletes": {
-          "Todd Hutchings": {
-            "strength": "Uncomfortable style for Krasimir",
-            "health": null,
-            "previous_match_summary": "Has beaten Krasimir before"
-          },
-          "Krasimir Kostadinov": {
-            "strength": "Strong and serious about preparation",
-            "health": null,
-            "previous_match_summary": "Can bring good shape to the match"
-          }
-        }
-      }
-    ],
-    "Zurab Tavberidze": [
-      {
-        "match": [
-          "Oleg Petrenko",
-          "David Dadikyan"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Expects a tough fight, believes Oleg will be uncomfortable for David.",
-        "predicted_duration": null,
-        "style_conflict": "Versatile vs Technical",
-        "opinion_about_athletes": {
-          "Oleg Petrenko": {
-            "strength": "Extremely strong and uncomfortable",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "David Dadikyan": {
-            "strength": "Technical and strong",
-            "health": null,
-            "previous_match_summary": "Showed progression in previous matches"
-          }
-        }
-      },
-      {
-        "match": [
-          "Davit Samushia",
-          "Sasho Andreev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Davit Samushia",
-        "predicted_score": null,
-        "prediction_summary": "Believes Sasho will dominate first two rounds but Davit will win due to endurance.",
-        "predicted_duration": null,
-        "style_conflict": "Strength vs Endurance",
-        "opinion_about_athletes": {
-          "Davit Samushia": {
-            "strength": "Strong in the center",
-            "health": null,
-            "previous_match_summary": "Known for endurance"
-          },
-          "Sasho Andreev": {
-            "strength": "Dominant early",
-            "health": null,
-            "previous_match_summary": "May fade in later rounds"
-          }
-        }
-      },
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Artyom Morozov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Artyom Morozov",
-        "predicted_score": "3-2",
-        "prediction_summary": "Believes Morozov will adjust and win after a tough start.",
-        "predicted_duration": null,
-        "style_conflict": "Top Roll vs Hook",
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "Great at taking hands",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Artyom Morozov": {
-            "strength": "Great at adjusting",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Irakli Zirakashvili",
-          "Evgeny Prudnik"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Evgeny Prudnik",
-        "predicted_score": "3-1",
-        "prediction_summary": "Slightly favors Prudnik due to weight difference and experience.",
-        "predicted_duration": null,
-        "style_conflict": "Versatile vs Explosive",
-        "opinion_about_athletes": {
-          "Irakli Zirakashvili": {
-            "strength": "Explosive and progressing",
-            "health": null,
-            "previous_match_summary": "Has beaten strong opponents"
-          },
-          "Evgeny Prudnik": {
-            "strength": "Versatile and experienced",
-            "health": null,
-            "previous_match_summary": "Known for adjusting and winning in different styles"
-          }
-        }
-      },
-      {
-        "match": [
-          "Betkili Oniani",
-          "Artem Taynov"
-        ],
-        "arm": "Left",
-        "event": "East vs West 13",
-        "predicted_winner": "Betkili Oniani",
-        "predicted_score": null,
-        "prediction_summary": "Believes Betkili will win if he can stop Artem's explosiveness.",
-        "predicted_duration": null,
-        "style_conflict": "Explosive vs Endurance",
-        "opinion_about_athletes": {
-          "Betkili Oniani": {
-            "strength": "Strong if he can stop Artem's explosiveness",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Artem Taynov": {
-            "strength": "Very explosive",
-            "health": null,
-            "previous_match_summary": "Improving and getting better"
-          }
-        }
-      },
-      {
-        "match": [
-          "Todd Hutchings",
-          "Krasimir Kostadinov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Todd Hutchings",
-        "predicted_score": null,
-        "prediction_summary": "Favors Todd due to style being uncomfortable for Krasimir.",
-        "predicted_duration": null,
-        "style_conflict": "Uncomfortable style for Krasimir",
-        "opinion_about_athletes": {
-          "Todd Hutchings": {
-            "strength": "Uncomfortable style for Krasimir",
-            "health": null,
-            "previous_match_summary": "Has beaten Krasimir before"
-          },
-          "Krasimir Kostadinov": {
-            "strength": "Strong and serious about preparation",
-            "health": null,
-            "previous_match_summary": "Can bring good shape to the match"
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

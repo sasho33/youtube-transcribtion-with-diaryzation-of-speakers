@@ -6,9 +6,8 @@
     "SPEAKER_04": "Engin Terzi"
   },
   "date": "April 14, 2023",
-  "predictions": [
-    {
-      "speaker": "Dave Chaffee",
+  "predictions": {
+    "Dave Chaffee": {
       "self_predictions": [
         {
           "match": [
@@ -259,8 +258,7 @@
         }
       ]
     },
-    {
-      "speaker": "Revaz Lutidze",
+    "Revaz Lutidze": {
       "self_predictions": [
         {
           "match": [
@@ -461,5 +459,5 @@
         }
       ]
     }
-  ]
+  }
 }

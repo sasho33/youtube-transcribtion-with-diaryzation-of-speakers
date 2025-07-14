@@ -7,9 +7,8 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "February 07, 2022",
-  "predictions": [
-    {
-      "speaker": "Todd Hutchings",
+  "predictions": {
+    "Todd Hutchings": {
       "self_predictions": [
         {
           "match": [
@@ -135,8 +134,7 @@
         }
       ]
     },
-    {
-      "speaker": "Yordan Tsonev",
+    "Yordan Tsonev": {
       "self_predictions": [
         {
           "match": [
@@ -237,8 +235,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -393,5 +390,5 @@
         }
       ]
     }
-  ]
+  }
 }

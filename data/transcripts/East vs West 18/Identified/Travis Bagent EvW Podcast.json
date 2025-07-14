@@ -14,7 +14,6 @@
             "Wallace Dilley"
           ],
           "arm": "Right",
-          "weight": "Super Heavyweight",
           "event": "East vs West 18",
           "predicted_winner": null,
           "predicted_score": null,
@@ -29,7 +28,6 @@
             "Allen Ford"
           ],
           "arm": "Right",
-          "weight": "Middleweight",
           "event": "East vs West 18",
           "predicted_winner": null,
           "predicted_score": null,
@@ -44,7 +42,6 @@
             "Ivan Portela"
           ],
           "arm": "Right",
-          "weight": "Featherweight",
           "event": "East vs West 18",
           "predicted_winner": null,
           "predicted_score": null,
@@ -59,7 +56,6 @@
             "Wagner Bortalato"
           ],
           "arm": "Left",
-          "weight": "Super Heavyweight",
           "event": "East vs West 18",
           "predicted_winner": null,
           "predicted_score": null,
@@ -74,7 +70,6 @@
             "Alex Kurdecha"
           ],
           "arm": "Left",
-          "weight": "Super Heavyweight",
           "event": "East vs West 18",
           "predicted_winner": null,
           "predicted_score": null,
@@ -89,7 +84,6 @@
             "Arsen Khachatryan"
           ],
           "arm": "Right",
-          "weight": "Middleweight",
           "event": "East vs West 18",
           "predicted_winner": null,
           "predicted_score": null,
@@ -104,7 +98,6 @@
             "Irakli Zirakashvili"
           ],
           "arm": "Left",
-          "weight": "Light Heavyweight",
           "event": "East vs West 18",
           "predicted_winner": "Matt Mask",
           "predicted_score": null,
@@ -130,7 +123,6 @@
             "Georgii Dzeranov"
           ],
           "arm": "Right",
-          "weight": "Super Heavyweight",
           "event": "East vs West 18",
           "predicted_winner": "Georgii Dzeranov",
           "predicted_score": null,
@@ -156,7 +148,6 @@
             "Elin Janeheim"
           ],
           "arm": "Right",
-          "weight": "Lightweight",
           "event": "East vs West 18",
           "predicted_winner": null,
           "predicted_score": null,
@@ -171,7 +162,6 @@
             "Alex Kurdecha"
           ],
           "arm": "Right",
-          "weight": "Super Heavyweight",
           "event": "East vs West 18",
           "predicted_winner": null,
           "predicted_score": null,
@@ -186,7 +176,6 @@
             "Ermes Gasparini"
           ],
           "arm": "Right",
-          "weight": "Super Heavyweight",
           "event": "East vs West 18",
           "predicted_winner": "Levan Saginashvili",
           "predicted_score": null,
@@ -217,7 +206,6 @@
             "Irakli Zirakashvili"
           ],
           "arm": "Left",
-          "weight": "Light Heavyweight",
           "event": "East vs West 18",
           "predicted_winner": null,
           "predicted_score": null,
@@ -243,7 +231,6 @@
             "Georgii Dzeranov"
           ],
           "arm": "Right",
-          "weight": "Super Heavyweight",
           "event": "East vs West 18",
           "predicted_winner": "Georgii Dzeranov",
           "predicted_score": null,
@@ -269,7 +256,6 @@
             "Ermes Gasparini"
           ],
           "arm": "Right",
-          "weight": "Super Heavyweight",
           "event": "East vs West 18",
           "predicted_winner": "Levan Saginashvili",
           "predicted_score": null,

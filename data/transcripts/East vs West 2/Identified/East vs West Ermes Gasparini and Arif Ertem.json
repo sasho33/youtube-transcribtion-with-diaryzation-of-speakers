@@ -6,306 +6,308 @@
     "SPEAKER_04": "Issa (Translator)"
   },
   "date": "February 05, 2022",
-  "self_predictions": {
-    "Ermes Gasparini": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Arif Ertem"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": "Not 6-0, but a nice battle",
-        "prediction_summary": "Expects to win but acknowledges it will be a tough match due to Arif's technique and WAF championship status.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Arif Ertem": {
-            "strength": "Strong, WAF champion",
-            "health": "Good, healed from previous injuries",
-            "previous_match_summary": "Won last WAF championship comfortably"
+  "predictions": {
+    "Ermes Gasparini": {
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "Not 6-0, but a nice battle",
+          "prediction_summary": "Expects to win but acknowledges it will be a tough match due to Arif's technique and WAF championship status.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arif Ertem": {
+              "strength": "Strong, WAF champion",
+              "health": "Good, healed from previous injuries",
+              "previous_match_summary": "Won last WAF championship comfortably"
+            }
           }
         }
-      }
-    ],
-    "Arif Ertem": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Arif Ertem"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Arif Ertem",
-        "predicted_score": "3-0 or close",
-        "prediction_summary": "Believes he has trained specifically for Ermes and is in good shape to win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Very strong, rising in rankings",
-            "health": "Recovered from COVID, less energy",
-            "previous_match_summary": "Recent wins against top athletes"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Khadzimurat Zoloev",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Zoloev will win due to John's age, despite respecting John as his idol.",
+          "predicted_duration": null,
+          "style_conflict": "Top roll",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary but aging",
+              "health": null,
+              "previous_match_summary": "Long career with many wins"
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong, especially in top roll",
+              "health": null,
+              "previous_match_summary": "Recent strong performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Believes Genadi knows the technique to beat the King's Move.",
+          "predicted_duration": null,
+          "style_conflict": "King's Move",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Technically skilled",
+              "health": null,
+              "previous_match_summary": "Recent strong performances"
+            },
+            "Michael Todd": {
+              "strength": "King's Move specialist",
+              "health": null,
+              "previous_match_summary": "Known for endurance and King's Move"
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Prudnik will win by hooking Morozov in the straps.",
+          "predicted_duration": null,
+          "style_conflict": "Hook",
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": "Strong in hook",
+              "health": null,
+              "previous_match_summary": "Recent strong performances"
+            },
+            "Artyom Morozov": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Recent wins, including against Arif Ertem"
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Betkili Oniani"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Betkili Oniani",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Betkili will win because Oleg is not as strong as before his accident.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Not as strong as before",
+              "health": "Neurological issues post-accident",
+              "previous_match_summary": "Vulnerable even before accident"
+            },
+            "Betkili Oniani": {
+              "strength": "Strong, world champion",
+              "health": null,
+              "previous_match_summary": "Recent strong performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Efe Kömek",
+            "Ron Bath"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Efe Kömek",
+          "predicted_score": null,
+          "prediction_summary": "Believes Efe will win due to his strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Efe Kömek": {
+              "strength": "Very strong",
+              "health": null,
+              "previous_match_summary": "Recent strong performances"
+            },
+            "Ron Bath": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Levan will annihilate Devon due to his superior strength and preparation.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Unmatched",
+              "health": "Best shape of his life",
+              "previous_match_summary": "Dominant in all recent matches"
+            },
+            "Devon Larratt": {
+              "strength": "Strong but not enough",
+              "health": null,
+              "previous_match_summary": "Recent win against Michael Todd"
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Ermes Gasparini": [
-      {
-        "match": [
-          "John Brzenk",
-          "Khadzimurat Zoloev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Khadzimurat Zoloev",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Zoloev will win due to John's age, despite respecting John as his idol.",
-        "predicted_duration": null,
-        "style_conflict": "Top roll",
-        "opinion_about_athletes": {
-          "John Brzenk": {
-            "strength": "Legendary but aging",
-            "health": null,
-            "previous_match_summary": "Long career with many wins"
-          },
-          "Khadzimurat Zoloev": {
-            "strength": "Strong, especially in top roll",
-            "health": null,
-            "previous_match_summary": "Recent strong performances"
+      ]
+    },
+    "Arif Ertem": {
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": "3-0 or close",
+          "prediction_summary": "Believes he has trained specifically for Ermes and is in good shape to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Very strong, rising in rankings",
+              "health": "Recovered from COVID, less energy",
+              "previous_match_summary": "Recent wins against top athletes"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Genadi Kvikvinia",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Genadi Kvikvinia",
-        "predicted_score": null,
-        "prediction_summary": "Believes Genadi knows the technique to beat the King's Move.",
-        "predicted_duration": null,
-        "style_conflict": "King's Move",
-        "opinion_about_athletes": {
-          "Genadi Kvikvinia": {
-            "strength": "Technically skilled",
-            "health": null,
-            "previous_match_summary": "Recent strong performances"
-          },
-          "Michael Todd": {
-            "strength": "King's Move specialist",
-            "health": null,
-            "previous_match_summary": "Known for endurance and King's Move"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Hopes John will surprise everyone and win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Legendary",
+              "health": null,
+              "previous_match_summary": "Long career with many wins"
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Recent strong performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Michael will win if Genadi is in the same shape as against Ermes.",
+          "predicted_duration": null,
+          "style_conflict": "King's Move",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Technically skilled",
+              "health": null,
+              "previous_match_summary": "Recent strong performances"
+            },
+            "Michael Todd": {
+              "strength": "King's Move specialist",
+              "health": null,
+              "previous_match_summary": "Known for endurance and King's Move"
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Zhokh",
+            "Betkili Oniani"
+          ],
+          "arm": "Left",
+          "event": "East vs West 2",
+          "predicted_winner": "Oleg Zhokh",
+          "predicted_score": null,
+          "prediction_summary": "Believes Oleg is still good enough to beat Betkili.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Zhokh": {
+              "strength": "Still strong",
+              "health": null,
+              "previous_match_summary": "Recent wins despite vulnerabilities"
+            },
+            "Betkili Oniani": {
+              "strength": "Strong",
+              "health": null,
+              "previous_match_summary": "Recent strong performances"
+            }
+          }
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Levan will win unless he gets tired, which is a very small chance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Unmatched",
+              "health": null,
+              "previous_match_summary": "Dominant in all recent matches"
+            },
+            "Devon Larratt": {
+              "strength": "Strong but not enough",
+              "health": null,
+              "previous_match_summary": "Recent win against Michael Todd"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Evgeny Prudnik",
-          "Artyom Morozov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Evgeny Prudnik",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Prudnik will win by hooking Morozov in the straps.",
-        "predicted_duration": null,
-        "style_conflict": "Hook",
-        "opinion_about_athletes": {
-          "Evgeny Prudnik": {
-            "strength": "Strong in hook",
-            "health": null,
-            "previous_match_summary": "Recent strong performances"
-          },
-          "Artyom Morozov": {
-            "strength": "Very strong",
-            "health": null,
-            "previous_match_summary": "Recent wins, including against Arif Ertem"
-          }
-        }
-      },
-      {
-        "match": [
-          "Oleg Zhokh",
-          "Betkili Oniani"
-        ],
-        "arm": "Left",
-        "event": "East vs West 2",
-        "predicted_winner": "Betkili Oniani",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Betkili will win because Oleg is not as strong as before his accident.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Oleg Zhokh": {
-            "strength": "Not as strong as before",
-            "health": "Neurological issues post-accident",
-            "previous_match_summary": "Vulnerable even before accident"
-          },
-          "Betkili Oniani": {
-            "strength": "Strong, world champion",
-            "health": null,
-            "previous_match_summary": "Recent strong performances"
-          }
-        }
-      },
-      {
-        "match": [
-          "Efe Kömek",
-          "Ron Bath"
-        ],
-        "arm": "Left",
-        "event": "East vs West 2",
-        "predicted_winner": "Efe Kömek",
-        "predicted_score": null,
-        "prediction_summary": "Believes Efe will win due to his strength.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Efe Kömek": {
-            "strength": "Very strong",
-            "health": null,
-            "previous_match_summary": "Recent strong performances"
-          },
-          "Ron Bath": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Levan Saginashvili",
-          "Devon Larratt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Levan Saginashvili",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Levan will annihilate Devon due to his superior strength and preparation.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Levan Saginashvili": {
-            "strength": "Unmatched",
-            "health": "Best shape of his life",
-            "previous_match_summary": "Dominant in all recent matches"
-          },
-          "Devon Larratt": {
-            "strength": "Strong but not enough",
-            "health": null,
-            "previous_match_summary": "Recent win against Michael Todd"
-          }
-        }
-      }
-    ],
-    "Arif Ertem": [
-      {
-        "match": [
-          "John Brzenk",
-          "Khadzimurat Zoloev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "John Brzenk",
-        "predicted_score": null,
-        "prediction_summary": "Hopes John will surprise everyone and win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "John Brzenk": {
-            "strength": "Legendary",
-            "health": null,
-            "previous_match_summary": "Long career with many wins"
-          },
-          "Khadzimurat Zoloev": {
-            "strength": "Strong",
-            "health": null,
-            "previous_match_summary": "Recent strong performances"
-          }
-        }
-      },
-      {
-        "match": [
-          "Genadi Kvikvinia",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Michael Todd",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Michael will win if Genadi is in the same shape as against Ermes.",
-        "predicted_duration": null,
-        "style_conflict": "King's Move",
-        "opinion_about_athletes": {
-          "Genadi Kvikvinia": {
-            "strength": "Technically skilled",
-            "health": null,
-            "previous_match_summary": "Recent strong performances"
-          },
-          "Michael Todd": {
-            "strength": "King's Move specialist",
-            "health": null,
-            "previous_match_summary": "Known for endurance and King's Move"
-          }
-        }
-      },
-      {
-        "match": [
-          "Oleg Zhokh",
-          "Betkili Oniani"
-        ],
-        "arm": "Left",
-        "event": "East vs West 2",
-        "predicted_winner": "Oleg Zhokh",
-        "predicted_score": null,
-        "prediction_summary": "Believes Oleg is still good enough to beat Betkili.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Oleg Zhokh": {
-            "strength": "Still strong",
-            "health": null,
-            "previous_match_summary": "Recent wins despite vulnerabilities"
-          },
-          "Betkili Oniani": {
-            "strength": "Strong",
-            "health": null,
-            "previous_match_summary": "Recent strong performances"
-          }
-        }
-      },
-      {
-        "match": [
-          "Levan Saginashvili",
-          "Devon Larratt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Levan Saginashvili",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Levan will win unless he gets tired, which is a very small chance.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Levan Saginashvili": {
-            "strength": "Unmatched",
-            "health": null,
-            "previous_match_summary": "Dominant in all recent matches"
-          },
-          "Devon Larratt": {
-            "strength": "Strong but not enough",
-            "health": null,
-            "previous_match_summary": "Recent win against Michael Todd"
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

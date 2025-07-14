@@ -6,9 +6,8 @@
     "SPEAKER_04": "Engin Terzi"
   },
   "date": "October 08, 2023",
-  "predictions": [
-    {
-      "speaker": "Kamil Jablonski",
+  "predictions": {
+    "Kamil Jablonski": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -213,8 +212,7 @@
         }
       ]
     },
-    {
-      "speaker": "Ivan Matyushenko",
+    "Ivan Matyushenko": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -444,5 +442,5 @@
         }
       ]
     }
-  ]
+  }
 }

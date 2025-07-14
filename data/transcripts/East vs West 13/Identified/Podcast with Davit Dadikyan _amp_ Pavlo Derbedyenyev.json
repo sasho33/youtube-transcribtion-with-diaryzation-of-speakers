@@ -6,123 +6,127 @@
     "SPEAKER_03": "Unknown"
   },
   "date": "May 19, 2024",
-  "Davit Dadikyan": {
-    "self_predictions": [
-      {
-        "match": [
-          "Davit Dadikyan",
-          "Petro Marharint"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Davit Dadikyan",
-        "predicted_score": null,
-        "prediction_summary": "David believes he is much stronger and more technical now compared to when he last faced Petro Marharint five years ago. He has analyzed Petro's style and has a plan for the match.",
-        "predicted_duration": null,
-        "style_conflict": "David plans to counter Petro's strong wrist and pronation with his explosive start and improved technique.",
-        "opinion_about_athletes": {
-          "Petro Marharint": {
-            "strength": "Very strong, genetically gifted with a wide and thick hand.",
-            "health": null,
-            "previous_match_summary": "Petro has beaten many top athletes including John Brzenk, Sandris, and others. David lost to him twice in the past when he was younger and less experienced."
+  "predictions": {
+    "Davit Dadikyan": {
+      "self_predictions": [
+        {
+          "match": [
+            "Davit Dadikyan",
+            "Petro Marharint"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Davit Dadikyan",
+          "predicted_score": null,
+          "prediction_summary": "David believes he is much stronger and more technical now compared to when he last faced Petro Marharint five years ago. He has analyzed Petro's style and has a plan for the match.",
+          "predicted_duration": null,
+          "style_conflict": "David plans to counter Petro's strong wrist and pronation with his explosive start and improved technique.",
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Very strong, genetically gifted with a wide and thick hand.",
+              "health": null,
+              "previous_match_summary": "Petro has beaten many top athletes including John Brzenk, Sandris, and others. David lost to him twice in the past when he was younger and less experienced."
+            }
           }
         }
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Artyom Morozov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Artyom Morozov",
-        "predicted_score": "80-20",
-        "prediction_summary": "David believes Morozov is at a different level and will dominate the match due to his strength and endurance.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "Very strong with long arms, hard to hook or top roll.",
-            "health": null,
-            "previous_match_summary": "David recalls training with Laletin and notes his difficulty in countering Laletin's style."
-          },
-          "Artyom Morozov": {
-            "strength": "Extremely strong and versatile, can adapt to different styles.",
-            "health": null,
-            "previous_match_summary": "Morozov has shown consistent performance in long matches."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": "80-20",
+          "prediction_summary": "David believes Morozov is at a different level and will dominate the match due to his strength and endurance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Very strong with long arms, hard to hook or top roll.",
+              "health": null,
+              "previous_match_summary": "David recalls training with Laletin and notes his difficulty in countering Laletin's style."
+            },
+            "Artyom Morozov": {
+              "strength": "Extremely strong and versatile, can adapt to different styles.",
+              "health": null,
+              "previous_match_summary": "Morozov has shown consistent performance in long matches."
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Krasimir Kostadinov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "David thinks Hutchings will win if he drops to 95kg, as he will have a significant advantage.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Strong and experienced, can cut weight effectively.",
+              "health": null,
+              "previous_match_summary": "David has trained with Hutchings and respects his ability to perform under pressure."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Todd Hutchings",
-          "Krasimir Kostadinov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Todd Hutchings",
-        "predicted_score": null,
-        "prediction_summary": "David thinks Hutchings will win if he drops to 95kg, as he will have a significant advantage.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Todd Hutchings": {
-            "strength": "Strong and experienced, can cut weight effectively.",
-            "health": null,
-            "previous_match_summary": "David has trained with Hutchings and respects his ability to perform under pressure."
+      ]
+    },
+    "Paolo Derbedyenyev": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Davit Dadikyan",
+            "Petro Marharint"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Davit Dadikyan",
+          "predicted_score": "55-45",
+          "prediction_summary": "Paolo slightly favors David due to his current form and preparation, but acknowledges Petro's genetic gifts and strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Petro Marharint": {
+              "strength": "Genetically super gifted, strong and dangerous.",
+              "health": null,
+              "previous_match_summary": "Petro has beaten many top athletes but has inconsistent training."
+            }
           }
         }
-      }
-    ]
-  },
-  "Paolo Derbedyenyev": {
-    "third_party_predictions": [
-      {
-        "match": [
-          "Davit Dadikyan",
-          "Petro Marharint"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Davit Dadikyan",
-        "predicted_score": "55-45",
-        "prediction_summary": "Paolo slightly favors David due to his current form and preparation, but acknowledges Petro's genetic gifts and strength.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Petro Marharint": {
-            "strength": "Genetically super gifted, strong and dangerous.",
-            "health": null,
-            "previous_match_summary": "Petro has beaten many top athletes but has inconsistent training."
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 13",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Engin notes that Morozov is versatile and can adapt to different styles, making him a favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": "Very strong and versatile.",
+              "health": null,
+              "previous_match_summary": "Morozov has shown consistent performance in long matches."
+            }
           }
         }
-      }
-    ]
-  },
-  "Engin Terzi": {
-    "third_party_predictions": [
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Artyom Morozov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 13",
-        "predicted_winner": "Artyom Morozov",
-        "predicted_score": null,
-        "prediction_summary": "Engin notes that Morozov is versatile and can adapt to different styles, making him a favorite.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Artyom Morozov": {
-            "strength": "Very strong and versatile.",
-            "health": null,
-            "previous_match_summary": "Morozov has shown consistent performance in long matches."
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

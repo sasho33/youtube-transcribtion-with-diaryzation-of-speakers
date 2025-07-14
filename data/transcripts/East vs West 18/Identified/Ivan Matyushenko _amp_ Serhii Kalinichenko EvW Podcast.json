@@ -5,9 +5,8 @@
     "SPEAKER_04": "Host"
   },
   "date": "April 17, 2025",
-  "predictions": [
-    {
-      "speaker": "Serhii Kalinichenko",
+  "predictions": {
+    "Serhii Kalinichenko": {
       "self_predictions": [
         {
           "match": [
@@ -158,8 +157,7 @@
         }
       ]
     },
-    {
-      "speaker": "Ivan Matyushenko",
+    "Ivan Matyushenko": {
       "self_predictions": [
         {
           "match": [
@@ -285,5 +283,5 @@
         }
       ]
     }
-  ]
+  }
 }

@@ -6,9 +6,8 @@
     "SPEAKER_03": "John Brzenk"
   },
   "date": "October 15, 2022",
-  "predictions": [
-    {
-      "speaker": "John Brzenk",
+  "predictions": {
+    "John Brzenk": {
       "self_predictions": [
         {
           "match": [
@@ -134,8 +133,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -165,5 +163,5 @@
         }
       ]
     }
-  ]
+  }
 }

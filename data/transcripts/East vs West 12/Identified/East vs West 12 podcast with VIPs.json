@@ -7,9 +7,9 @@
     "SPEAKER_04": "Engin Terzi"
   },
   "date": "March 31, 2024",
-  "predictions": [
-    {
-      "speaker": "Benny Hapke",
+  "predictions": {
+    "Benny Hapke": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -38,8 +38,8 @@
         }
       ]
     },
-    {
-      "speaker": "Skyler",
+    "Skyler": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -113,8 +113,8 @@
         }
       ]
     },
-    {
-      "speaker": "Henry",
+    "Henry": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -163,8 +163,8 @@
         }
       ]
     },
-    {
-      "speaker": "Mike",
+    "Mike": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -218,8 +218,8 @@
         }
       ]
     },
-    {
-      "speaker": "Ismail",
+    "Ismail": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -273,8 +273,8 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -328,5 +328,5 @@
         }
       ]
     }
-  ]
+  }
 }

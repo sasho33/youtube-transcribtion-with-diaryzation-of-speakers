@@ -6,106 +6,108 @@
     "SPEAKER_04": "Michael Todd"
   },
   "date": "October 21, 2024",
-  "self_predictions": {
-    "Genadi Kvikvinia": [
-      {
-        "match": [
-          "Genadi Kvikvinia",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Genadi Kvikvinia",
-        "predicted_score": null,
-        "prediction_summary": "Genadi believes he will dominate Michael Todd and make him feel exhausted, stating he has never failed to execute his signature move successfully.",
-        "predicted_duration": null,
-        "style_conflict": "Genadi plans to use his signature move and overpower Michael.",
-        "opinion_about_athletes": {
-          "Michael Todd": {
-            "strength": "Strong and powerful, but Genadi believes he can overpower him.",
-            "health": "Recovered from bicep surgery, but Genadi doubts his elbow will hold up.",
-            "previous_match_summary": "Michael has been progressing but Genadi thinks he hasn't faced anyone on Levan's level yet."
+  "predictions": {
+    "Genadi Kvikvinia": {
+      "self_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Genadi believes he will dominate Michael Todd and make him feel exhausted, stating he has never failed to execute his signature move successfully.",
+          "predicted_duration": null,
+          "style_conflict": "Genadi plans to use his signature move and overpower Michael.",
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Strong and powerful, but Genadi believes he can overpower him.",
+              "health": "Recovered from bicep surgery, but Genadi doubts his elbow will hold up.",
+              "previous_match_summary": "Michael has been progressing but Genadi thinks he hasn't faced anyone on Levan's level yet."
+            }
           }
         }
-      }
-    ],
-    "Michael Todd": [
-      {
-        "match": [
-          "Michael Todd",
-          "Genadi Kvikvinia"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Michael Todd",
-        "predicted_score": "3-0",
-        "prediction_summary": "Michael is confident in his preparation and believes he will win decisively, stating he is in a special place physically and spiritually.",
-        "predicted_duration": null,
-        "style_conflict": "Michael plans to keep Genadi subdued and prevent him from gaining confidence.",
-        "opinion_about_athletes": {
-          "Genadi Kvikvinia": {
-            "strength": "Strong and versatile, but Michael believes he hasn't felt his level before.",
-            "health": "Recovered from injury, but Michael thinks he is not at his best shape.",
-            "previous_match_summary": "Genadi has a strong record, but Michael is confident in his own progress."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Genadi thinks Jerry is unique but doubts he can beat Levan, though he acknowledges Jerry might surprise everyone.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Unique and strong, but not enough to beat Levan.",
+              "health": null,
+              "previous_match_summary": "Jerry has shown resilience in past matches."
+            },
+            "Levan Saginashvili": {
+              "strength": "Unmatched strength and dominance.",
+              "health": null,
+              "previous_match_summary": "Levan is the current number one and nearly unbeatable."
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Genadi Kvikvinia": [
-      {
-        "match": [
-          "Jerry Cadorette",
-          "Levan Saginashvili"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Levan Saginashvili",
-        "predicted_score": null,
-        "prediction_summary": "Genadi thinks Jerry is unique but doubts he can beat Levan, though he acknowledges Jerry might surprise everyone.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Jerry Cadorette": {
-            "strength": "Unique and strong, but not enough to beat Levan.",
-            "health": null,
-            "previous_match_summary": "Jerry has shown resilience in past matches."
-          },
-          "Levan Saginashvili": {
-            "strength": "Unmatched strength and dominance.",
-            "health": null,
-            "previous_match_summary": "Levan is the current number one and nearly unbeatable."
+      ]
+    },
+    "Michael Todd": {
+      "self_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Genadi Kvikvinia"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "3-0",
+          "prediction_summary": "Michael is confident in his preparation and believes he will win decisively, stating he is in a special place physically and spiritually.",
+          "predicted_duration": null,
+          "style_conflict": "Michael plans to keep Genadi subdued and prevent him from gaining confidence.",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong and versatile, but Michael believes he hasn't felt his level before.",
+              "health": "Recovered from injury, but Michael thinks he is not at his best shape.",
+              "previous_match_summary": "Genadi has a strong record, but Michael is confident in his own progress."
+            }
           }
         }
-      }
-    ],
-    "Michael Todd": [
-      {
-        "match": [
-          "Jerry Cadorette",
-          "Levan Saginashvili"
-        ],
-        "arm": "Right",
-        "event": "East vs West 15",
-        "predicted_winner": "Levan Saginashvili",
-        "predicted_score": null,
-        "prediction_summary": "Michael thinks Levan will win but acknowledges Jerry's potential to surprise if he can get Levan in a bad position.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Jerry Cadorette": {
-            "strength": "Strong and unique, but unlikely to beat Levan.",
-            "health": null,
-            "previous_match_summary": "Jerry has shown he can fight hard against top opponents."
-          },
-          "Levan Saginashvili": {
-            "strength": "Dominant and nearly unbeatable.",
-            "health": null,
-            "previous_match_summary": "Levan is the current number one with overwhelming strength."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 15",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Michael thinks Levan will win but acknowledges Jerry's potential to surprise if he can get Levan in a bad position.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Strong and unique, but unlikely to beat Levan.",
+              "health": null,
+              "previous_match_summary": "Jerry has shown he can fight hard against top opponents."
+            },
+            "Levan Saginashvili": {
+              "strength": "Dominant and nearly unbeatable.",
+              "health": null,
+              "previous_match_summary": "Levan is the current number one with overwhelming strength."
+            }
           }
         }
-      }
-    ]
+      ]
+    }
   }
 }

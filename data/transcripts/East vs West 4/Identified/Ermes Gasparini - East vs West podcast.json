@@ -6,9 +6,8 @@
     "SPEAKER_03": "Unknown"
   },
   "date": "October 07, 2022",
-  "predictions": [
-    {
-      "speaker": "Ermes Gasparini",
+  "predictions": {
+    "Ermes Gasparini": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -363,8 +362,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -419,8 +417,7 @@
         }
       ]
     },
-    {
-      "speaker": "Pradeep",
+    "Pradeep": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -475,5 +472,5 @@
         }
       ]
     }
-  ]
+  }
 }

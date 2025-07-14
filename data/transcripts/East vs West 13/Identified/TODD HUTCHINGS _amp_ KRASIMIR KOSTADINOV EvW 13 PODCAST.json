@@ -6,9 +6,8 @@
     "SPEAKER_04": "Todd Hutchings"
   },
   "date": "June 06, 2024",
-  "predictions": [
-    {
-      "speaker": "Todd Hutchings",
+  "predictions": {
+    "Todd Hutchings": {
       "self_predictions": [
         {
           "match": [
@@ -154,8 +153,7 @@
         }
       ]
     },
-    {
-      "speaker": "Krasimir Kostadinov",
+    "Krasimir Kostadinov": {
       "self_predictions": [
         {
           "match": [
@@ -261,5 +259,5 @@
         }
       ]
     }
-  ]
+  }
 }

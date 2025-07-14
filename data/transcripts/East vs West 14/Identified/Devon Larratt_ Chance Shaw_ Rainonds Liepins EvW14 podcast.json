@@ -6,126 +6,136 @@
     "SPEAKER_04": "Raimonds Liepiņš"
   },
   "date": "August 4, 2024",
-  "self_predictions": {
-    "Devon Larratt": [
-      {
-        "match": [
-          "Devon Larratt",
-          "Chance Shaw"
-        ],
-        "arm": "Right",
-        "event": "East vs West 14",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": "3-0 or 3-1",
-        "prediction_summary": "Devon predicts he will dominate Chance Shaw, especially if he weighs in at 231 lbs. He believes he will control the match and may even let Chance win a round out of charity.",
-        "predicted_duration": "Not specified",
-        "style_conflict": "Devon emphasizes his strength and control, predicting a one-sided match.",
-        "opinion_about_athletes": {
-          "Chance Shaw": {
-            "strength": "Devon acknowledges Chance's strength but believes it's insufficient against him at 231 lbs.",
-            "health": "Not mentioned",
-            "previous_match_summary": "Devon references previous practice sessions where he claims he let Chance win out of charity."
+  "predictions": {
+    "Devon Larratt": {
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": "3-0 or 3-1",
+          "prediction_summary": "Devon predicts he will dominate Chance Shaw, especially if he weighs in at 231 lbs. He believes he will control the match and may even let Chance win a round out of charity.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Devon emphasizes his strength and control, predicting a one-sided match.",
+          "opinion_about_athletes": {
+            "Chance Shaw": {
+              "strength": "Devon acknowledges Chance's strength but believes it's insufficient against him at 231 lbs.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Devon references previous practice sessions where he claims he let Chance win out of charity."
+            }
           }
         }
-      }
-    ],
-    "Chance Shaw": [
-      {
-        "match": [
-          "Devon Larratt",
-          "Chance Shaw"
-        ],
-        "arm": "Right",
-        "event": "East vs West 14",
-        "predicted_winner": "Chance Shaw",
-        "predicted_score": "Not specified",
-        "prediction_summary": "Chance believes he can beat Devon if Devon weighs 231 lbs, citing previous practice sessions where he felt Devon was not as strong at that weight.",
-        "predicted_duration": "Not specified",
-        "style_conflict": "Chance focuses on Devon's perceived weakness at lower weights.",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Chance thinks Devon is significantly weaker at 231 lbs compared to his heavier weight.",
-            "health": "Not mentioned",
-            "previous_match_summary": "Chance references practice sessions where he pinned Devon multiple times."
+      ],
+      "third_party_predictions": []
+    },
+    "Chance Shaw": {
+      "self_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Chance Shaw",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Chance believes he can beat Devon if Devon weighs 231 lbs, citing previous practice sessions where he felt Devon was not as strong at that weight.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Chance focuses on Devon's perceived weakness at lower weights.",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Chance thinks Devon is significantly weaker at 231 lbs compared to his heavier weight.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Chance references practice sessions where he pinned Devon multiple times."
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Engin Terzi": [
-      {
-        "match": [
-          "Ryan Belanger",
-          "Raimonds Liepiņš"
-        ],
-        "arm": "Right",
-        "event": "East vs West 14",
-        "predicted_winner": "Raimonds Liepiņš",
-        "predicted_score": "Not specified",
-        "prediction_summary": "Engin favors Raimonds due to his experience and stage presence, though he acknowledges Ryan's strength and training.",
-        "predicted_duration": "Not specified",
-        "style_conflict": "Not specified",
-        "opinion_about_athletes": {
-          "Ryan Belanger": {
-            "strength": "Strong, trains with a great team.",
-            "health": "Not mentioned",
-            "previous_match_summary": "Not mentioned"
-          },
-          "Raimonds Liepiņš": {
-            "strength": "Experienced and strong on the big stage.",
-            "health": "Not mentioned",
-            "previous_match_summary": "Not mentioned"
+      ],
+      "third_party_predictions": []
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ryan Belanger",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Engin favors Raimonds due to his experience and stage presence, though he acknowledges Ryan's strength and training.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Ryan Belanger": {
+              "strength": "Strong, trains with a great team.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            },
+            "Raimonds Liepiņš": {
+              "strength": "Experienced and strong on the big stage.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Chance Shaw"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Chance Shaw",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Engin believes Chance can beat Devon if Devon weighs 231 lbs, citing Devon's perceived weakness at that weight.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Engin thinks Devon is much weaker at 231 lbs.",
+              "health": "Not mentioned",
+              "previous_match_summary": "References practice sessions where Chance pinned Devon."
+            },
+            "Chance Shaw": {
+              "strength": "Engin believes Chance is strong enough to beat Devon at lower weights.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Chance Shaw"
-        ],
-        "arm": "Right",
-        "event": "East vs West 14",
-        "predicted_winner": "Chance Shaw",
-        "predicted_score": "Not specified",
-        "prediction_summary": "Engin believes Chance can beat Devon if Devon weighs 231 lbs, citing Devon's perceived weakness at that weight.",
-        "predicted_duration": "Not specified",
-        "style_conflict": "Not specified",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Engin thinks Devon is much weaker at 231 lbs.",
-            "health": "Not mentioned",
-            "previous_match_summary": "References practice sessions where Chance pinned Devon."
-          },
-          "Chance Shaw": {
-            "strength": "Engin believes Chance is strong enough to beat Devon at lower weights.",
-            "health": "Not mentioned",
-            "previous_match_summary": "Not mentioned"
+      ]
+    },
+    "Raimonds Liepiņš": {
+      "self_predictions": [
+        {
+          "match": [
+            "Ryan Belanger",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": "Not specified",
+          "prediction_summary": "Raimonds is confident in his ability to win, though he acknowledges Ryan's strength.",
+          "predicted_duration": "Not specified",
+          "style_conflict": "Not specified",
+          "opinion_about_athletes": {
+            "Ryan Belanger": {
+              "strength": "Strong but less experienced.",
+              "health": "Not mentioned",
+              "previous_match_summary": "Not mentioned"
+            }
           }
         }
-      }
-    ],
-    "Raimonds Liepiņš": [
-      {
-        "match": [
-          "Ryan Belanger",
-          "Raimonds Liepiņš"
-        ],
-        "arm": "Right",
-        "event": "East vs West 14",
-        "predicted_winner": "Raimonds Liepiņš",
-        "predicted_score": "Not specified",
-        "prediction_summary": "Raimonds is confident in his ability to win, though he acknowledges Ryan's strength.",
-        "predicted_duration": "Not specified",
-        "style_conflict": "Not specified",
-        "opinion_about_athletes": {
-          "Ryan Belanger": {
-            "strength": "Strong but less experienced.",
-            "health": "Not mentioned",
-            "previous_match_summary": "Not mentioned"
-          }
-        }
-      }
-    ]
+      ],
+      "third_party_predictions": []
+    }
   }
 }

@@ -4,110 +4,112 @@
     "SPEAKER_01": "Ermes Gasparini"
   },
   "date": "June 06, 2025",
-  "Ermes Gasparini": {
-    "self_predictions": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Levan Saginashvili"
-        ],
-        "arm": "Right",
-        "event": "East vs West 18",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": "4-2",
-        "prediction_summary": "Ermes believes he has significantly improved his back pressure, riser, and pronation over the past two years and is confident he can beat Levan. He mentions that Levan is in his best shape but still thinks he can win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Levan Saginashvili": {
-            "strength": "Very strong, especially with back pressure and belly curls",
-            "health": "In best shape of his life",
-            "previous_match_summary": "Levan underestimated Ermes last time, but now he is taking him more seriously."
+  "predictions": {
+    "Ermes Gasparini": {
+      "self_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": "4-2",
+          "prediction_summary": "Ermes believes he has significantly improved his back pressure, riser, and pronation over the past two years and is confident he can beat Levan. He mentions that Levan is in his best shape but still thinks he can win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Levan Saginashvili": {
+              "strength": "Very strong, especially with back pressure and belly curls",
+              "health": "In best shape of his life",
+              "previous_match_summary": "Levan underestimated Ermes last time, but now he is taking him more seriously."
+            }
           }
         }
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Devon Larratt",
-          "Alex Kurdecha"
-        ],
-        "arm": "Left",
-        "event": "East vs West 18",
-        "predicted_winner": "Alex Kurdecha",
-        "predicted_score": null,
-        "prediction_summary": "Ermes thinks it will be a very close fight. He mentions that Kurdecha has destroyed Devon in practice matches but acknowledges Devon's strong defensive position. He believes Kurdecha can win if he has a good press.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Super good defensive position, strong pronation and riser",
-            "health": "Old and injured but still strong",
-            "previous_match_summary": "Devon is experienced but has damage on his arm from years of arm wrestling."
-          },
-          "Alex Kurdecha": {
-            "strength": "Strong press, fast",
-            "health": null,
-            "previous_match_summary": "Kurdecha has performed well in practice matches against Devon."
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Ermes thinks it will be a very close fight. He mentions that Kurdecha has destroyed Devon in practice matches but acknowledges Devon's strong defensive position. He believes Kurdecha can win if he has a good press.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Super good defensive position, strong pronation and riser",
+              "health": "Old and injured but still strong",
+              "previous_match_summary": "Devon is experienced but has damage on his arm from years of arm wrestling."
+            },
+            "Alex Kurdecha": {
+              "strength": "Strong press, fast",
+              "health": null,
+              "previous_match_summary": "Kurdecha has performed well in practice matches against Devon."
+            }
+          }
+        },
+        {
+          "match": [
+            "Michael Todd",
+            "Georgii Dzeranov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "70-30",
+          "prediction_summary": "Ermes initially predicted a 70-30 win for Georgii but later acknowledged Michael's strength and endurance. He mentioned that Michael didn't want to go to the strap and had a strong grip.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Strong grip, endurance",
+              "health": null,
+              "previous_match_summary": "Michael has faced strong opponents like Vitaly and has a unique style."
+            },
+            "Georgii Dzeranov": {
+              "strength": "Long reach, strong grip",
+              "health": null,
+              "previous_match_summary": "Georgii struggled against Michael's dragging technique."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Michael Todd",
-          "Georgii Dzeranov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 18",
-        "predicted_winner": "Michael Todd",
-        "predicted_score": "70-30",
-        "prediction_summary": "Ermes initially predicted a 70-30 win for Georgii but later acknowledged Michael's strength and endurance. He mentioned that Michael didn't want to go to the strap and had a strong grip.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Michael Todd": {
-            "strength": "Strong grip, endurance",
-            "health": null,
-            "previous_match_summary": "Michael has faced strong opponents like Vitaly and has a unique style."
-          },
-          "Georgii Dzeranov": {
-            "strength": "Long reach, strong grip",
-            "health": null,
-            "previous_match_summary": "Georgii struggled against Michael's dragging technique."
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Engin believes the match will be incredible and highlights Ermes' confidence and mindset. He does not predict a winner but emphasizes the importance of the match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Improved back pressure, riser, and pronation",
+              "health": "In good shape",
+              "previous_match_summary": "Ermes has shown significant improvement over the past two years."
+            },
+            "Levan Saginashvili": {
+              "strength": "Very strong, especially with back pressure",
+              "health": "In best shape of his life",
+              "previous_match_summary": "Levan is taking Ermes more seriously this time."
+            }
           }
         }
-      }
-    ]
-  },
-  "Engin Terzi": {
-    "self_predictions": [],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Levan Saginashvili"
-        ],
-        "arm": "Right",
-        "event": "East vs West 18",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Engin believes the match will be incredible and highlights Ermes' confidence and mindset. He does not predict a winner but emphasizes the importance of the match.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Improved back pressure, riser, and pronation",
-            "health": "In good shape",
-            "previous_match_summary": "Ermes has shown significant improvement over the past two years."
-          },
-          "Levan Saginashvili": {
-            "strength": "Very strong, especially with back pressure",
-            "health": "In best shape of his life",
-            "previous_match_summary": "Levan is taking Ermes more seriously this time."
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

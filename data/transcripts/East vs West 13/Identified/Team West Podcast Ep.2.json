@@ -6,9 +6,8 @@
     "SPEAKER_03": "Shane Owens"
   },
   "date": "May 25, 2024",
-  "predictions": [
-    {
-      "speaker": "Chance Shaw",
+  "predictions": {
+    "Chance Shaw": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -113,8 +112,7 @@
         }
       ]
     },
-    {
-      "speaker": "Derek",
+    "Derek": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -169,8 +167,7 @@
         }
       ]
     },
-    {
-      "speaker": "Paul Talbot",
+    "Paul Talbot": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -225,8 +222,7 @@
         }
       ]
     },
-    {
-      "speaker": "Shane Owens",
+    "Shane Owens": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -256,5 +252,5 @@
         }
       ]
     }
-  ]
+  }
 }

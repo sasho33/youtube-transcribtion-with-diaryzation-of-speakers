@@ -4,180 +4,182 @@
     "SPEAKER_04": "Genadi Kvikvinia"
   },
   "date": "February 07, 2022",
-  "self_predictions": {
-    "Michael Todd": [
-      {
-        "match": [
-          "Genadi Kvikvinia",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Michael Todd",
-        "predicted_score": "3-0",
-        "prediction_summary": "Michael expects to dominate and win quickly, but is prepared for a war if necessary. He feels this might be the best version of himself he's ever brought to a match.",
-        "predicted_duration": "Quick finish if possible, but ready for a long war",
-        "style_conflict": "Genadi's hand and wrist control vs Michael's side pressure and shoulder commitment",
-        "opinion_about_athletes": {
-          "Genadi Kvikvinia": {
-            "strength": "Very strong, especially if he gains confidence during the match",
-            "health": "Assumed to be in good condition",
-            "previous_match_summary": "Lost to Ermes Gasparini, but Michael believes he may have had a bad night"
+  "predictions": {
+    "Michael Todd": {
+      "self_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": "3-0",
+          "prediction_summary": "Michael expects to dominate and win quickly, but is prepared for a war if necessary. He feels this might be the best version of himself he's ever brought to a match.",
+          "predicted_duration": "Quick finish if possible, but ready for a long war",
+          "style_conflict": "Genadi's hand and wrist control vs Michael's side pressure and shoulder commitment",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Very strong, especially if he gains confidence during the match",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Lost to Ermes Gasparini, but Michael believes he may have had a bad night"
+            }
           }
         }
-      }
-    ],
-    "Genadi Kvikvinia": []
-  },
-  "third_party_predictions": {
-    "Michael Todd": [
-      {
-        "match": [
-          "John Brzenk",
-          "Khadzimurat Zoloev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Khadzimurat Zoloev",
-        "predicted_score": null,
-        "prediction_summary": "Michael thinks Zoloev is a dangerous opponent and might win if he gets any positional advantage, though he wants John to win.",
-        "predicted_duration": null,
-        "style_conflict": "Zoloev's top roll vs John's versatility",
-        "opinion_about_athletes": {
-          "John Brzenk": {
-            "strength": "Still very strong, but questions about hand and wrist durability",
-            "health": "Assumed to be in good condition",
-            "previous_match_summary": "Known for endurance and finding ways to win even when losing positions"
-          },
-          "Khadzimurat Zoloev": {
-            "strength": "Very strong, experienced, and dangerous",
-            "health": "Assumed to be in good condition",
-            "previous_match_summary": "Has beaten top opponents and gains confidence quickly"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Khadzimurat Zoloev",
+          "predicted_score": null,
+          "prediction_summary": "Michael thinks Zoloev is a dangerous opponent and might win if he gets any positional advantage, though he wants John to win.",
+          "predicted_duration": null,
+          "style_conflict": "Zoloev's top roll vs John's versatility",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Still very strong, but questions about hand and wrist durability",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Known for endurance and finding ways to win even when losing positions"
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Very strong, experienced, and dangerous",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Has beaten top opponents and gains confidence quickly"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Michael believes Arif could beat Ermes, making Arif a top contender.",
+          "predicted_duration": null,
+          "style_conflict": "Arif's top roll vs Ermes's hand and wrist dominance",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong but vulnerable if hand and wrist are compromised",
+              "health": "At his heaviest weight (282 lbs)",
+              "previous_match_summary": "Lost to Genadi Kvikvinia, but had strong performances before"
+            },
+            "Arif Ertem": {
+              "strength": "Beautiful top roll, does well against other top rollers",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Has beaten top opponents like Krasimir Kostadinov and Levan Saginashvili in past events"
+            }
+          }
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Levan Saginashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Michael thinks Devon could win if he's strong enough to stop Levan early, leveraging his endurance and setup tactics.",
+          "predicted_duration": null,
+          "style_conflict": "Devon's endurance and setup vs Levan's raw power",
+          "opinion_about_athletes": {
+            "Devon Larratt": {
+              "strength": "Very dangerous when motivated, with exceptional endurance",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Dominant performance against Michael Todd"
+            },
+            "Levan Saginashvili": {
+              "strength": "Unmatched raw power",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Dominant in all recent matches"
+            }
+          }
+        },
+        {
+          "match": [
+            "Todd Hutchings",
+            "Yordan Tsonev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Todd Hutchings",
+          "predicted_score": null,
+          "prediction_summary": "Michael thinks Todd's hook is very strong and likes his chances.",
+          "predicted_duration": null,
+          "style_conflict": "Todd's hook vs Yordan's style",
+          "opinion_about_athletes": {
+            "Todd Hutchings": {
+              "strength": "Very strong hook",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Consistent performer in hook battles"
+            },
+            "Yordan Tsonev": {
+              "strength": "Impressive but unproven at this level",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Limited information"
+            }
+          }
+        },
+        {
+          "match": [
+            "Chance Shaw",
+            "Sandris Šedis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "Chance Shaw",
+          "predicted_score": null,
+          "prediction_summary": "Michael is picking Chance because Sandris made negative comments about him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Šedis": {
+              "strength": "Unknown",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Limited information"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Arif Ertem"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Arif Ertem",
-        "predicted_score": null,
-        "prediction_summary": "Michael believes Arif could beat Ermes, making Arif a top contender.",
-        "predicted_duration": null,
-        "style_conflict": "Arif's top roll vs Ermes's hand and wrist dominance",
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Strong but vulnerable if hand and wrist are compromised",
-            "health": "At his heaviest weight (282 lbs)",
-            "previous_match_summary": "Lost to Genadi Kvikvinia, but had strong performances before"
-          },
-          "Arif Ertem": {
-            "strength": "Beautiful top roll, does well against other top rollers",
-            "health": "Assumed to be in good condition",
-            "previous_match_summary": "Has beaten top opponents like Krasimir Kostadinov and Levan Saginashvili in past events"
+      ]
+    },
+    "Genadi Kvikvinia": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "John Brzenk",
+            "Khadzimurat Zoloev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 2",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Genadi believes John can win if he controls the hand and wrist, or even if he loses positions, due to his endurance and ability to find ways to win.",
+          "predicted_duration": null,
+          "style_conflict": "Zoloev's top roll vs John's versatility",
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Can win even with wrist loss due to muscle memory",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Has beaten top opponents like Dmitry Kachan and Paul Linn"
+            },
+            "Khadzimurat Zoloev": {
+              "strength": "Strong but can be toprolled",
+              "health": "Assumed to be in good condition",
+              "previous_match_summary": "Has lost to toprollers like Clement and Dmitry in the past"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Levan Saginashvili"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "Michael thinks Devon could win if he's strong enough to stop Levan early, leveraging his endurance and setup tactics.",
-        "predicted_duration": null,
-        "style_conflict": "Devon's endurance and setup vs Levan's raw power",
-        "opinion_about_athletes": {
-          "Devon Larratt": {
-            "strength": "Very dangerous when motivated, with exceptional endurance",
-            "health": "Assumed to be in good condition",
-            "previous_match_summary": "Dominant performance against Michael Todd"
-          },
-          "Levan Saginashvili": {
-            "strength": "Unmatched raw power",
-            "health": "Assumed to be in good condition",
-            "previous_match_summary": "Dominant in all recent matches"
-          }
-        }
-      },
-      {
-        "match": [
-          "Todd Hutchings",
-          "Yordan Tsonev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Todd Hutchings",
-        "predicted_score": null,
-        "prediction_summary": "Michael thinks Todd's hook is very strong and likes his chances.",
-        "predicted_duration": null,
-        "style_conflict": "Todd's hook vs Yordan's style",
-        "opinion_about_athletes": {
-          "Todd Hutchings": {
-            "strength": "Very strong hook",
-            "health": "Assumed to be in good condition",
-            "previous_match_summary": "Consistent performer in hook battles"
-          },
-          "Yordan Tsonev": {
-            "strength": "Impressive but unproven at this level",
-            "health": "Assumed to be in good condition",
-            "previous_match_summary": "Limited information"
-          }
-        }
-      },
-      {
-        "match": [
-          "Chance Shaw",
-          "Sandris Šedis"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "Chance Shaw",
-        "predicted_score": null,
-        "prediction_summary": "Michael is picking Chance because Sandris made negative comments about him.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Sandris Šedis": {
-            "strength": "Unknown",
-            "health": "Assumed to be in good condition",
-            "previous_match_summary": "Limited information"
-          }
-        }
-      }
-    ],
-    "Genadi Kvikvinia": [
-      {
-        "match": [
-          "John Brzenk",
-          "Khadzimurat Zoloev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 2",
-        "predicted_winner": "John Brzenk",
-        "predicted_score": null,
-        "prediction_summary": "Genadi believes John can win if he controls the hand and wrist, or even if he loses positions, due to his endurance and ability to find ways to win.",
-        "predicted_duration": null,
-        "style_conflict": "Zoloev's top roll vs John's versatility",
-        "opinion_about_athletes": {
-          "John Brzenk": {
-            "strength": "Can win even with wrist loss due to muscle memory",
-            "health": "Assumed to be in good condition",
-            "previous_match_summary": "Has beaten top opponents like Dmitry Kachan and Paul Linn"
-          },
-          "Khadzimurat Zoloev": {
-            "strength": "Strong but can be toprolled",
-            "health": "Assumed to be in good condition",
-            "previous_match_summary": "Has lost to toprollers like Clement and Dmitry in the past"
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

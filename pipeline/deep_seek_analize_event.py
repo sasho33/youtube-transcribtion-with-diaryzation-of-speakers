@@ -31,6 +31,38 @@ def analyze_event(event_title: str):
         except Exception as e:
             print(f"❌ Failed to process {file_path.name}: {e}")
 
+def analyze_event_paralell(event_title: str, max_workers: int = 4):
+    """
+    Parallel DeepSeek analysis for all transcripts in one event folder.
+    Skips existing files.
+    """
+    normalized_folder = TRANSCRIPT_DIR / event_title / "normalized"
+    output_folder = TRANSCRIPT_DIR / event_title / "Identified"
+
+    if not normalized_folder.exists():
+        raise FileNotFoundError(f"No normalized folder found for event: {normalized_folder}")
+
+    files = [f for f in normalized_folder.glob("*.txt") if f.is_file()]
+    if not files:
+        print(f"⚠️ No .txt files found in: {normalized_folder}")
+        return
+
+    def process_file(file_path):
+        try:
+            output_file = output_folder / file_path.name.replace(".txt", ".json")
+            if output_file.exists() and output_file.stat().st_size > 0:
+                print(f"⏭️ Skipping {file_path.name} — already processed.")
+                return
+            print(f"🔄 Processing {file_path.name}...")
+            extract_predictions_as_json(event_title, file_path.name)
+        except Exception as e:
+            print(f"❌ Failed to process {file_path.name}: {e}")
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = [executor.submit(process_file, f) for f in files]
+        for future in as_completed(futures):
+            future.result()  # triggers exception handling if any
+
 def analyze_all():
     """
     Loop through all event folders in TRANSCRIPT_DIR and call analyze_event on each.
@@ -74,4 +106,5 @@ def analyze_all_parallel(max_workers: int = 3):
 if __name__ == "__main__":
     # analyze_event("East vs West 17")
     # analyze_all()
-    analyze_all_parallel(3)
+    # analyze_all_parallel(3)
+    analyze_event_paralell("East vs West 9", max_workers=4)

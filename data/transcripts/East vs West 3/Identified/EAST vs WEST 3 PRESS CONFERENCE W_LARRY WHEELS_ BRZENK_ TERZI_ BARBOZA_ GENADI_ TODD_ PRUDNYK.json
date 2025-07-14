@@ -7,9 +7,8 @@
     "SPEAKER_04": "Evgeny Prudnik"
   },
   "date": null,
-  "predictions": [
-    {
-      "speaker": "Evgeny Prudnik",
+  "predictions": {
+    "Evgeny Prudnik": {
       "self_predictions": [
         {
           "match": [
@@ -55,8 +54,7 @@
         }
       ]
     },
-    {
-      "speaker": "John Brzenk",
+    "John Brzenk": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -101,8 +99,7 @@
         }
       ]
     },
-    {
-      "speaker": "Matt Mask",
+    "Matt Mask": {
       "self_predictions": [
         {
           "match": [
@@ -127,8 +124,7 @@
       ],
       "third_party_predictions": []
     },
-    {
-      "speaker": "Michael Todd",
+    "Michael Todd": {
       "self_predictions": [
         {
           "match": [
@@ -153,8 +149,7 @@
       ],
       "third_party_predictions": []
     },
-    {
-      "speaker": "Dave Chaffee",
+    "Dave Chaffee": {
       "self_predictions": [
         {
           "match": [
@@ -179,5 +174,5 @@
       ],
       "third_party_predictions": []
     }
-  ]
+  }
 }

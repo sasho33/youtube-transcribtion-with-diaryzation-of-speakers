@@ -5,9 +5,8 @@
     "SPEAKER_04": "Neil Pickup"
   },
   "date": "January 05, 2023",
-  "predictions": [
-    {
-      "speaker": "Neil Pickup",
+  "predictions": {
+    "Neil Pickup": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -387,5 +386,5 @@
         }
       ]
     }
-  ]
+  }
 }

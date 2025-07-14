@@ -6,9 +6,8 @@
     "SPEAKER_04": "Derek Smith"
   },
   "date": "January 7, 2022",
-  "predictions": [
-    {
-      "speaker": "Ivan Matyushenko",
+  "predictions": {
+    "Ivan Matyushenko": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -88,8 +87,7 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -169,8 +167,7 @@
         }
       ]
     },
-    {
-      "speaker": "Andrew 'Cobra' Rhodes",
+    "Andrew 'Cobra' Rhodes": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -225,8 +222,7 @@
         }
       ]
     },
-    {
-      "speaker": "Derek Smith",
+    "Derek Smith": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -306,5 +302,5 @@
         }
       ]
     }
-  ]
+  }
 }

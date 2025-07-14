@@ -6,9 +6,8 @@
     "SPEAKER_03": "Georgii Tautiev"
   },
   "date": "October 03, 2024",
-  "predictions": [
-    {
-      "speaker": "Georgii Tautiev",
+  "predictions": {
+    "Georgii Tautiev": {
       "self_predictions": [
         {
           "match": [
@@ -216,8 +215,7 @@
         }
       ]
     },
-    {
-      "speaker": "Irakli Zirakashvili",
+    "Irakli Zirakashvili": {
       "self_predictions": [
         {
           "match": [
@@ -397,5 +395,5 @@
         }
       ]
     }
-  ]
+  }
 }

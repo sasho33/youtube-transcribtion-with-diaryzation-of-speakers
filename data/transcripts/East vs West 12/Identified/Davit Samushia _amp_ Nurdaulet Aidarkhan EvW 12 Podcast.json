@@ -6,9 +6,8 @@
     "SPEAKER_04": "Translator"
   },
   "date": "April 04, 2024",
-  "predictions": [
-    {
-      "speaker": "Davit Samushia",
+  "predictions": {
+    "Davit Samushia": {
       "self_predictions": [
         {
           "match": [
@@ -309,8 +308,7 @@
         }
       ]
     },
-    {
-      "speaker": "Nurdaulet Aidarkhan",
+    "Nurdaulet Aidarkhan": {
       "self_predictions": [
         {
           "match": [
@@ -611,5 +609,5 @@
         }
       ]
     }
-  ]
+  }
 }

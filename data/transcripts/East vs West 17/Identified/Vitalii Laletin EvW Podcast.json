@@ -5,9 +5,8 @@
     "SPEAKER_03": "Vitalii Laletin"
   },
   "date": "May 16, 2025",
-  "predictions": [
-    {
-      "speaker": "Vitalii Laletin",
+  "predictions": {
+    "Vitalii Laletin": {
       "self_predictions": [
         {
           "match": [
@@ -153,5 +152,5 @@
         }
       ]
     }
-  ]
+  }
 }

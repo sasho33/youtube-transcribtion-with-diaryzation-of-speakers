@@ -5,9 +5,8 @@
     "SPEAKER_02": "Daniel Procopciuc"
   },
   "date": "June 17, 2024",
-  "predictions": [
-    {
-      "speaker": "Bozhidar Simeonov",
+  "predictions": {
+    "Bozhidar Simeonov": {
       "self_predictions": [
         {
           "match": [
@@ -333,8 +332,7 @@
         }
       ]
     },
-    {
-      "speaker": "Daniel Procopciuc",
+    "Daniel Procopciuc": {
       "self_predictions": [
         {
           "match": [
@@ -610,5 +608,5 @@
         }
       ]
     }
-  ]
+  }
 }

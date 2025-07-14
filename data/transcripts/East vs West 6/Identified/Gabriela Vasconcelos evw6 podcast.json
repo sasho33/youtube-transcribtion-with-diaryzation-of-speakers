@@ -5,334 +5,337 @@
     "SPEAKER_02": "Gabriela Vasconcelos"
   },
   "date": "January 03, 2023",
-  "Gabriela Vasconcelos": {
-    "self_predictions": [
-      {
-        "match": [
-          "Gabriela Vasconcelos",
-          "Barbora Bajciova"
-        ],
-        "arm": "Right",
-        "event": "East vs West 6",
-        "predicted_winner": "Gabriela Vasconcelos",
-        "predicted_score": null,
-        "prediction_summary": "Gabriela believes her experience and strength give her a slight edge over Barbora, despite Barbora's size advantage. She thinks her chances are more than 50%.",
-        "predicted_duration": null,
-        "style_conflict": "Barbora's height and hand size vs Gabriela's strength and experience",
-        "opinion_about_athletes": {
-          "Barbora Bajciova": {
-            "strength": "Strong, but Gabriela thinks she might be stronger",
-            "health": null,
-            "previous_match_summary": "Barbora has been improving and evolving her style"
+  "predictions": {
+    "Gabriela Vasconcelos": {
+      "self_predictions": [
+        {
+          "match": [
+            "Gabriela Vasconcelos",
+            "Barbora Bajciova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Gabriela Vasconcelos",
+          "predicted_score": null,
+          "prediction_summary": "Gabriela believes her experience and strength give her a slight edge over Barbora, despite Barbora's size advantage. She thinks her chances are more than 50%.",
+          "predicted_duration": null,
+          "style_conflict": "Barbora's height and hand size vs Gabriela's strength and experience",
+          "opinion_about_athletes": {
+            "Barbora Bajciova": {
+              "strength": "Strong, but Gabriela thinks she might be stronger",
+              "health": null,
+              "previous_match_summary": "Barbora has been improving and evolving her style"
+            }
           }
         }
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Doug Erlich",
-          "Raimonds Liepiņš"
-        ],
-        "arm": "Right",
-        "event": "East vs West 6",
-        "predicted_winner": "Raimonds Liepiņš",
-        "predicted_score": null,
-        "prediction_summary": "Gabriela predicts Coach Ray will win due to his recent activity and improvement.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Raimonds Liepiņš": {
-            "strength": "Active and improving",
-            "health": null,
-            "previous_match_summary": "Recent participation in West versus West arm wars and Latvian nationals"
-          },
-          "Doug Erlich": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Not seen much recently"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Doug Erlich",
+            "Raimonds Liepiņš"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Raimonds Liepiņš",
+          "predicted_score": null,
+          "prediction_summary": "Gabriela predicts Coach Ray will win due to his recent activity and improvement.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Raimonds Liepiņš": {
+              "strength": "Active and improving",
+              "health": null,
+              "previous_match_summary": "Recent participation in West versus West arm wars and Latvian nationals"
+            },
+            "Doug Erlich": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Not seen much recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey West",
+            "Ferit Osmanli"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Corey West",
+          "predicted_score": null,
+          "prediction_summary": "Gabriela chooses Corey West for the left arm match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Corey West": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Ferit Osmanli": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Ferit Osmanli"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Genadi Kvikvinia",
+          "predicted_score": null,
+          "prediction_summary": "Gabriela predicts Genadi will win, though she is unsure due to lack of recent match data.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Lost to Jerry recently"
+            },
+            "Ferit Osmanli": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Nurdaulet Aidarkhan",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Nurdaulet Aidarkhan",
+          "predicted_score": null,
+          "prediction_summary": "Gabriela picks Nurdaulet based on his performance at WAF.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Nurdaulet Aidarkhan": {
+              "strength": "Strong, won against Daniel Prokopchuk",
+              "health": null,
+              "previous_match_summary": "Won 75 kg at WAF in Antalya"
+            },
+            "Mindaugas Tarasaitis": {
+              "strength": "Strong but looks skinny",
+              "health": null,
+              "previous_match_summary": "Took fifth at WAF"
+            }
+          }
+        },
+        {
+          "match": [
+            "Alizhan Muratov",
+            "Oleg Petrenko"
+          ],
+          "arm": "Left",
+          "event": "East vs West 6",
+          "predicted_winner": "Alizhan Muratov",
+          "predicted_score": null,
+          "prediction_summary": "Gabriela chooses Alizhan Muratov for the left arm match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alizhan Muratov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "Won at WAF"
+            },
+            "Oleg Petrenko": {
+              "strength": "Strong left arm",
+              "health": null,
+              "previous_match_summary": "Has wins against David Dadikian"
+            }
+          }
+        },
+        {
+          "match": [
+            "Corey West",
+            "Arif Ertem"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Arif Ertem",
+          "predicted_score": null,
+          "prediction_summary": "Gabriela predicts Arif Ertem will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Arif Ertem": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Corey West": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "David Samushia",
+            "Craig Tullier"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "David Samushia",
+          "predicted_score": null,
+          "prediction_summary": "Gabriela thinks David Samushia will win, though she supports Craig.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "David Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Craig Tullier": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Rustam Babayev"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Gabriela predicts Paul Linn will win due to his recent performances and Rustam's inactivity.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": "Coming strong and proving himself",
+              "health": null,
+              "previous_match_summary": "Recent strong performances"
+            },
+            "Rustam Babayev": {
+              "strength": "Very strong and smart",
+              "health": null,
+              "previous_match_summary": "Inactive recently"
+            }
+          }
+        },
+        {
+          "match": [
+            "Kydyrgali Ongarbaev",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Michael Todd",
+          "predicted_score": null,
+          "prediction_summary": "Gabriela supports Michael Todd, believing his endurance and improved king's move will give him the edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": {
+              "strength": "Improved king's move, lighter now",
+              "health": null,
+              "previous_match_summary": "Recent improvements"
+            },
+            "Kydyrgali Ongarbaev": {
+              "strength": "Dangerous, won easily at worlds",
+              "health": null,
+              "previous_match_summary": "Easy win at worlds"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "Gabriela would never bet against John due to respect and his recent impressive performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": "Still very dangerous",
+              "health": null,
+              "previous_match_summary": "Impressive recent matches"
+            },
+            "Irakli Zirakashvili": {
+              "strength": "Very dangerous",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Jerry Cadorette",
+            "Georgi Tsvetkov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Jerry Cadorette",
+          "predicted_score": null,
+          "prediction_summary": "Gabriela predicts Jerry will win with a flop press, though Georgi is in incredible shape.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Jerry Cadorette": {
+              "strength": "Strong flop press",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Georgi Tsvetkov": {
+              "strength": "In incredible shape, training with top Bulgarians",
+              "health": null,
+              "previous_match_summary": "Current world champion"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Corey West",
-          "Ferit Osmanli"
-        ],
-        "arm": "Left",
-        "event": "East vs West 6",
-        "predicted_winner": "Corey West",
-        "predicted_score": null,
-        "prediction_summary": "Gabriela chooses Corey West for the left arm match.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Corey West": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Ferit Osmanli": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
+      ]
+    },
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Gabriela Vasconcelos",
+            "Barbora Bajciova"
+          ],
+          "arm": "Right",
+          "event": "East vs West 6",
+          "predicted_winner": "Gabriela Vasconcelos",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Gabriela is the best in the world and supports her to win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Gabriela Vasconcelos": {
+              "strength": "Incredibly strong for a woman",
+              "health": "Elbow bothering her but still strong",
+              "previous_match_summary": "Recent wins against top competitors"
+            },
+            "Barbora Bajciova": {
+              "strength": "Big and strong, improving",
+              "health": null,
+              "previous_match_summary": "Evolving her style"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Genadi Kvikvinia",
-          "Ferit Osmanli"
-        ],
-        "arm": "Right",
-        "event": "East vs West 6",
-        "predicted_winner": "Genadi Kvikvinia",
-        "predicted_score": null,
-        "prediction_summary": "Gabriela predicts Genadi will win, though she is unsure due to lack of recent match data.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Genadi Kvikvinia": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Lost to Jerry recently"
-          },
-          "Ferit Osmanli": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Nurdaulet Aidarkhan",
-          "Mindaugas Tarasaitis"
-        ],
-        "arm": "Right",
-        "event": "East vs West 6",
-        "predicted_winner": "Nurdaulet Aidarkhan",
-        "predicted_score": null,
-        "prediction_summary": "Gabriela picks Nurdaulet based on his performance at WAF.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Nurdaulet Aidarkhan": {
-            "strength": "Strong, won against Daniel Prokopchuk",
-            "health": null,
-            "previous_match_summary": "Won 75 kg at WAF in Antalya"
-          },
-          "Mindaugas Tarasaitis": {
-            "strength": "Strong but looks skinny",
-            "health": null,
-            "previous_match_summary": "Took fifth at WAF"
-          }
-        }
-      },
-      {
-        "match": [
-          "Alizhan Muratov",
-          "Oleg Petrenko"
-        ],
-        "arm": "Left",
-        "event": "East vs West 6",
-        "predicted_winner": "Alizhan Muratov",
-        "predicted_score": null,
-        "prediction_summary": "Gabriela chooses Alizhan Muratov for the left arm match.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Alizhan Muratov": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": "Won at WAF"
-          },
-          "Oleg Petrenko": {
-            "strength": "Strong left arm",
-            "health": null,
-            "previous_match_summary": "Has wins against David Dadikian"
-          }
-        }
-      },
-      {
-        "match": [
-          "Corey West",
-          "Arif Ertem"
-        ],
-        "arm": "Right",
-        "event": "East vs West 6",
-        "predicted_winner": "Arif Ertem",
-        "predicted_score": null,
-        "prediction_summary": "Gabriela predicts Arif Ertem will win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Arif Ertem": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Corey West": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "David Samushia",
-          "Craig Tullier"
-        ],
-        "arm": "Right",
-        "event": "East vs West 6",
-        "predicted_winner": "David Samushia",
-        "predicted_score": null,
-        "prediction_summary": "Gabriela thinks David Samushia will win, though she supports Craig.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "David Samushia": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Craig Tullier": {
-            "strength": null,
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Paul Linn",
-          "Rustam Babayev"
-        ],
-        "arm": "Right",
-        "event": "East vs West 6",
-        "predicted_winner": "Paul Linn",
-        "predicted_score": null,
-        "prediction_summary": "Gabriela predicts Paul Linn will win due to his recent performances and Rustam's inactivity.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Paul Linn": {
-            "strength": "Coming strong and proving himself",
-            "health": null,
-            "previous_match_summary": "Recent strong performances"
-          },
-          "Rustam Babayev": {
-            "strength": "Very strong and smart",
-            "health": null,
-            "previous_match_summary": "Inactive recently"
-          }
-        }
-      },
-      {
-        "match": [
-          "Kydyrgali Ongarbaev",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 6",
-        "predicted_winner": "Michael Todd",
-        "predicted_score": null,
-        "prediction_summary": "Gabriela supports Michael Todd, believing his endurance and improved king's move will give him the edge.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Michael Todd": {
-            "strength": "Improved king's move, lighter now",
-            "health": null,
-            "previous_match_summary": "Recent improvements"
-          },
-          "Kydyrgali Ongarbaev": {
-            "strength": "Dangerous, won easily at worlds",
-            "health": null,
-            "previous_match_summary": "Easy win at worlds"
-          }
-        }
-      },
-      {
-        "match": [
-          "John Brzenk",
-          "Irakli Zirakashvili"
-        ],
-        "arm": "Right",
-        "event": "East vs West 6",
-        "predicted_winner": "John Brzenk",
-        "predicted_score": null,
-        "prediction_summary": "Gabriela would never bet against John due to respect and his recent impressive performances.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "John Brzenk": {
-            "strength": "Still very dangerous",
-            "health": null,
-            "previous_match_summary": "Impressive recent matches"
-          },
-          "Irakli Zirakashvili": {
-            "strength": "Very dangerous",
-            "health": null,
-            "previous_match_summary": null
-          }
-        }
-      },
-      {
-        "match": [
-          "Jerry Cadorette",
-          "Georgi Tsvetkov"
-        ],
-        "arm": "Right",
-        "event": "East vs West 6",
-        "predicted_winner": "Jerry Cadorette",
-        "predicted_score": null,
-        "prediction_summary": "Gabriela predicts Jerry will win with a flop press, though Georgi is in incredible shape.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Jerry Cadorette": {
-            "strength": "Strong flop press",
-            "health": null,
-            "previous_match_summary": null
-          },
-          "Georgi Tsvetkov": {
-            "strength": "In incredible shape, training with top Bulgarians",
-            "health": null,
-            "previous_match_summary": "Current world champion"
-          }
-        }
-      }
-    ]
-  },
-  "Engin Terzi": {
-    "third_party_predictions": [
-      {
-        "match": [
-          "Gabriela Vasconcelos",
-          "Barbora Bajciova"
-        ],
-        "arm": "Right",
-        "event": "East vs West 6",
-        "predicted_winner": "Gabriela Vasconcelos",
-        "predicted_score": null,
-        "prediction_summary": "Engin believes Gabriela is the best in the world and supports her to win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Gabriela Vasconcelos": {
-            "strength": "Incredibly strong for a woman",
-            "health": "Elbow bothering her but still strong",
-            "previous_match_summary": "Recent wins against top competitors"
-          },
-          "Barbora Bajciova": {
-            "strength": "Big and strong, improving",
-            "health": null,
-            "previous_match_summary": "Evolving her style"
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

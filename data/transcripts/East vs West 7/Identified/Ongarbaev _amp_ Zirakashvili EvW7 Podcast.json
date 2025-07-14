@@ -7,9 +7,8 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "April 09, 2023",
-  "predictions": [
-    {
-      "speaker": "Irakli Zirakashvili",
+  "predictions": {
+    "Irakli Zirakashvili": {
       "self_predictions": [
         {
           "match": [
@@ -235,8 +234,7 @@
         }
       ]
     },
-    {
-      "speaker": "Kydyrgali Ongarbaev",
+    "Kydyrgali Ongarbaev": {
       "self_predictions": [
         {
           "match": [
@@ -412,5 +410,5 @@
         }
       ]
     }
-  ]
+  }
 }

@@ -6,9 +6,8 @@
     "SPEAKER_04": "Translator/Interpreter"
   },
   "date": "October 01, 2023",
-  "predictions": [
-    {
-      "speaker": "Matt Mask",
+  "predictions": {
+    "Matt Mask": {
       "self_predictions": [
         {
           "match": [
@@ -84,8 +83,7 @@
         }
       ]
     },
-    {
-      "speaker": "Frank Lamparelli",
+    "Frank Lamparelli": {
       "self_predictions": [
         {
           "match": [
@@ -161,8 +159,8 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -191,5 +189,5 @@
         }
       ]
     }
-  ]
+  }
 }

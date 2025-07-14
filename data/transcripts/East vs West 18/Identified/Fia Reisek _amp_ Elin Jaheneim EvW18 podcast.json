@@ -6,194 +6,196 @@
     "SPEAKER_04": "Host"
   },
   "date": "June 04, 2025",
-  "Fia Reisek": {
-    "self_predictions": [
-      {
-        "match": [
-          "Fia Reisek",
-          "Elin Janeheim"
-        ],
-        "arm": "Right",
-        "event": "East vs West 18",
-        "predicted_winner": "Fia Reisek",
-        "predicted_score": "60-40%",
-        "prediction_summary": "Based on good preparation and feeling stronger than in previous years.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Elin Janeheim": {
-            "strength": "Elin is super explosive and strong.",
-            "health": null,
-            "previous_match_summary": "Three years ago, Fia was ahead but lost one match to Elin. Now, Fia feels she has progressed more."
+  "predictions": {
+    "Fia Reisek": {
+      "self_predictions": [
+        {
+          "match": [
+            "Fia Reisek",
+            "Elin Janeheim"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Fia Reisek",
+          "predicted_score": "60-40%",
+          "prediction_summary": "Based on good preparation and feeling stronger than in previous years.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Elin Janeheim": {
+              "strength": "Elin is super explosive and strong.",
+              "health": null,
+              "previous_match_summary": "Three years ago, Fia was ahead but lost one match to Elin. Now, Fia feels she has progressed more."
+            }
           }
         }
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Artyom Morozov",
-          "Alex Kurdecha"
-        ],
-        "arm": "Right",
-        "event": "East vs West 18",
-        "predicted_winner": "Artyom Morozov",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Morozov is a top right arm puller and Alex is more known for left arm.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Alex Kurdecha": {
-            "strength": "Mostly seen pulling left arm.",
-            "health": null,
-            "previous_match_summary": null
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Artyom Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Morozov is a top right arm puller and Alex is more known for left arm.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Mostly seen pulling left arm.",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "Arsen Khachatryan"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Based on recent performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Irakli is stronger despite Matt's recent performances.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Believes Devon will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Levan is the favorite but Ermes has a chance.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Did really good in their last match.",
+              "health": null,
+              "previous_match_summary": "Great match last time, but Levan is still the best."
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Paul Linn",
-          "Arsen Khachatryan"
-        ],
-        "arm": "Right",
-        "event": "East vs West 18",
-        "predicted_winner": "Paul Linn",
-        "predicted_score": null,
-        "prediction_summary": "Based on recent performances.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": null
-      },
-      {
-        "match": [
-          "Matt Mask",
-          "Irakli Zirakashvili"
-        ],
-        "arm": "Left",
-        "event": "East vs West 18",
-        "predicted_winner": "Irakli Zirakashvili",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Irakli is stronger despite Matt's recent performances.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": null
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Alex Kurdecha"
-        ],
-        "arm": "Left",
-        "event": "East vs West 18",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "Believes Devon will win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": null
-      },
-      {
-        "match": [
-          "Levan Saginashvili",
-          "Ermes Gasparini"
-        ],
-        "arm": "Right",
-        "event": "East vs West 18",
-        "predicted_winner": "Levan Saginashvili",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Levan is the favorite but Ermes has a chance.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Did really good in their last match.",
-            "health": null,
-            "previous_match_summary": "Great match last time, but Levan is still the best."
+      ]
+    },
+    "Elin Janeheim": {
+      "self_predictions": [
+        {
+          "match": [
+            "Fia Reisek",
+            "Elin Janeheim"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": null,
+          "predicted_score": "50-50%",
+          "prediction_summary": "Believes it depends on who has a good day, but knows Fia is super strong.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Fia Reisek": {
+              "strength": "Super strong.",
+              "health": null,
+              "previous_match_summary": "Three years ago, it was close, and Fia was ahead."
+            }
           }
         }
-      }
-    ]
-  },
-  "Elin Janeheim": {
-    "self_predictions": [
-      {
-        "match": [
-          "Fia Reisek",
-          "Elin Janeheim"
-        ],
-        "arm": "Right",
-        "event": "East vs West 18",
-        "predicted_winner": null,
-        "predicted_score": "50-50%",
-        "prediction_summary": "Believes it depends on who has a good day, but knows Fia is super strong.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Fia Reisek": {
-            "strength": "Super strong.",
-            "health": null,
-            "previous_match_summary": "Three years ago, it was close, and Fia was ahead."
-          }
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Artyom Morozov",
+            "Alex Kurdecha"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Artyom Morozov",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Morozov will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Matt Mask",
+            "Irakli Zirakashvili"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Irakli Zirakashvili",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Irakli will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Devon Larratt",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 18",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Believes Alex will win.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
+        },
+        {
+          "match": [
+            "Levan Saginashvili",
+            "Ermes Gasparini"
+          ],
+          "arm": "Right",
+          "event": "East vs West 18",
+          "predicted_winner": "Levan Saginashvili",
+          "predicted_score": null,
+          "prediction_summary": "Thinks Levan will win but supports him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": null
         }
-      }
-    ],
-    "third_party_predictions": [
-      {
-        "match": [
-          "Artyom Morozov",
-          "Alex Kurdecha"
-        ],
-        "arm": "Right",
-        "event": "East vs West 18",
-        "predicted_winner": "Artyom Morozov",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Morozov will win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": null
-      },
-      {
-        "match": [
-          "Matt Mask",
-          "Irakli Zirakashvili"
-        ],
-        "arm": "Left",
-        "event": "East vs West 18",
-        "predicted_winner": "Irakli Zirakashvili",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Irakli will win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": null
-      },
-      {
-        "match": [
-          "Devon Larratt",
-          "Alex Kurdecha"
-        ],
-        "arm": "Left",
-        "event": "East vs West 18",
-        "predicted_winner": "Alex Kurdecha",
-        "predicted_score": null,
-        "prediction_summary": "Believes Alex will win.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": null
-      },
-      {
-        "match": [
-          "Levan Saginashvili",
-          "Ermes Gasparini"
-        ],
-        "arm": "Right",
-        "event": "East vs West 18",
-        "predicted_winner": "Levan Saginashvili",
-        "predicted_score": null,
-        "prediction_summary": "Thinks Levan will win but supports him.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": null
-      }
-    ]
+      ]
+    }
   }
 }

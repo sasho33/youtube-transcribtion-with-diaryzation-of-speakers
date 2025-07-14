@@ -6,9 +6,9 @@
     "SPEAKER_04": "Engin Terzi"
   },
   "date": "March 09, 2024",
-  "predictions": [
-    {
-      "speaker": "John Brzenk",
+  "predictions": {
+    "John Brzenk": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -187,8 +187,8 @@
         }
       ]
     },
-    {
-      "speaker": "Engin Terzi",
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -217,5 +217,5 @@
         }
       ]
     }
-  ]
+  }
 }

@@ -6,9 +6,8 @@
     "SPEAKER_04": "Zaur Paizulaev"
   },
   "date": "October 04, 2023",
-  "predictions": [
-    {
-      "speaker": "Zaur Paizulaev",
+  "predictions": {
+    "Zaur Paizulaev": {
       "self_predictions": [
         {
           "match": [
@@ -159,8 +158,7 @@
         }
       ]
     },
-    {
-      "speaker": "Georgi Tsvetkov",
+    "Georgi Tsvetkov": {
       "self_predictions": [
         {
           "match": [
@@ -361,5 +359,5 @@
         }
       ]
     }
-  ]
+  }
 }

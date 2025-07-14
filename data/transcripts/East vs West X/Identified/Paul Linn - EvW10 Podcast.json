@@ -4,9 +4,8 @@
     "SPEAKER_03": "Paul Linn"
   },
   "date": "October 28, 2023",
-  "predictions": [
-    {
-      "speaker": "Engin Terzi",
+  "predictions": {
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -86,8 +85,7 @@
         }
       ]
     },
-    {
-      "speaker": "Paul Linn",
+    "Paul Linn": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -117,5 +115,5 @@
         }
       ]
     }
-  ]
+  }
 }

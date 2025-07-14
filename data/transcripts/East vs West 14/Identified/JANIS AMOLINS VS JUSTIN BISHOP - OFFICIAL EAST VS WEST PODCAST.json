@@ -5,102 +5,104 @@
     "SPEAKER_02": "Host"
   },
   "date": "July 20, 2024",
-  "self_predictions": {
-    "Janis Amolins": [
-      {
-        "match": [
-          "Janis Amolins",
-          "Justin Bishop"
-        ],
-        "arm": "Right",
-        "event": "East vs West 14",
-        "predicted_winner": "Janis Amolins",
-        "predicted_score": null,
-        "prediction_summary": "Janis believes the match could be over quickly or go longer, with endurance possibly favoring him. He also mentions scenarios where he could take Justin's wrist and ask him to go inside.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Justin Bishop": {
-            "strength": "Respects Justin's strength and preparation",
-            "health": null,
-            "previous_match_summary": "References their past matches and Justin's improvements"
+  "predictions": {
+    "Janis Amolins": {
+      "self_predictions": [
+        {
+          "match": [
+            "Janis Amolins",
+            "Justin Bishop"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Janis Amolins",
+          "predicted_score": null,
+          "prediction_summary": "Janis believes the match could be over quickly or go longer, with endurance possibly favoring him. He also mentions scenarios where he could take Justin's wrist and ask him to go inside.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Justin Bishop": {
+              "strength": "Respects Justin's strength and preparation",
+              "health": null,
+              "previous_match_summary": "References their past matches and Justin's improvements"
+            }
           }
         }
-      }
-    ],
-    "Justin Bishop": [
-      {
-        "match": [
-          "Justin Bishop",
-          "Janis Amolins"
-        ],
-        "arm": "Right",
-        "event": "East vs West 14",
-        "predicted_winner": "Justin Bishop",
-        "predicted_score": null,
-        "prediction_summary": "Justin believes his experience and multiple techniques will give him an edge. He predicts the match will resemble their first encounter, with him winning at least two different ways.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Janis Amolins": {
-            "strength": "Acknowledges Janis's technical skills and endurance",
-            "health": null,
-            "previous_match_summary": "References their past matches and Janis's adjustments over time"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Michael Todd",
+            "Kamil Jablonski"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Kamil Jablonski",
+          "predicted_score": null,
+          "prediction_summary": "Janis thinks Kamil could be the favorite if his right arm is nearly as strong as his left, but he's unsure about Kamil's right arm strength.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Michael Todd": null,
+            "Kamil Jablonski": {
+              "strength": "Strong left arm, but right arm strength is uncertain",
+              "health": null,
+              "previous_match_summary": null
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Janis Amolins": [
-      {
-        "match": [
-          "Michael Todd",
-          "Kamil Jablonski"
-        ],
-        "arm": "Right",
-        "event": "East vs West 14",
-        "predicted_winner": "Kamil Jablonski",
-        "predicted_score": null,
-        "prediction_summary": "Janis thinks Kamil could be the favorite if his right arm is nearly as strong as his left, but he's unsure about Kamil's right arm strength.",
-        "predicted_duration": null,
-        "style_conflict": null,
-        "opinion_about_athletes": {
-          "Michael Todd": null,
-          "Kamil Jablonski": {
-            "strength": "Strong left arm, but right arm strength is uncertain",
-            "health": null,
-            "previous_match_summary": null
+      ]
+    },
+    "Justin Bishop": {
+      "self_predictions": [
+        {
+          "match": [
+            "Justin Bishop",
+            "Janis Amolins"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Justin Bishop",
+          "predicted_score": null,
+          "prediction_summary": "Justin believes his experience and multiple techniques will give him an edge. He predicts the match will resemble their first encounter, with him winning at least two different ways.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Janis Amolins": {
+              "strength": "Acknowledges Janis's technical skills and endurance",
+              "health": null,
+              "previous_match_summary": "References their past matches and Janis's adjustments over time"
+            }
           }
         }
-      }
-    ],
-    "Justin Bishop": [
-      {
-        "match": [
-          "Mindaugas Tarasaitis",
-          "Artem Taranenko"
-        ],
-        "arm": "Right",
-        "event": "East vs West 14",
-        "predicted_winner": "Mindaugas Tarasaitis",
-        "predicted_score": null,
-        "prediction_summary": "Justin thinks Artem could surprise Mindaugas if taken lightly, but overall favors Mindaugas due to his top roll strength and experience.",
-        "predicted_duration": null,
-        "style_conflict": "Hook vs Top Roll",
-        "opinion_about_athletes": {
-          "Mindaugas Tarasaitis": {
-            "strength": "Strong top roller",
-            "health": null,
-            "previous_match_summary": "References past matches and practices"
-          },
-          "Artem Taranenko": {
-            "strength": "Technically sound, especially in a strap",
-            "health": null,
-            "previous_match_summary": "Mentions Artem's ability to disguise his moves"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Artem Taranenko"
+          ],
+          "arm": "Right",
+          "event": "East vs West 14",
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Justin thinks Artem could surprise Mindaugas if taken lightly, but overall favors Mindaugas due to his top roll strength and experience.",
+          "predicted_duration": null,
+          "style_conflict": "Hook vs Top Roll",
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Strong top roller",
+              "health": null,
+              "previous_match_summary": "References past matches and practices"
+            },
+            "Artem Taranenko": {
+              "strength": "Technically sound, especially in a strap",
+              "health": null,
+              "previous_match_summary": "Mentions Artem's ability to disguise his moves"
+            }
           }
         }
-      }
-    ]
+      ]
+    }
   }
 }

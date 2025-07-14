@@ -6,9 +6,8 @@
     "SPEAKER_03": "Ibragim Sagov"
   },
   "date": "March 06, 2024",
-  "predictions": [
-    {
-      "speaker": "Sandris Šedis",
+  "predictions": {
+    "Sandris Šedis": {
       "self_predictions": [
         {
           "match": [
@@ -309,8 +308,7 @@
         }
       ]
     },
-    {
-      "speaker": "Ibragim Sagov",
+    "Ibragim Sagov": {
       "self_predictions": [
         {
           "match": [
@@ -611,5 +609,5 @@
         }
       ]
     }
-  ]
+  }
 }

@@ -26,6 +26,11 @@
               "strength": "Explosive, very strong",
               "health": null,
               "previous_match_summary": "Makarov has been active and improving, but Tarasaitis believes he can handle his power."
+            },
+            "Mindaugus Tarasaitis": {
+              "strength": "Technical approach",
+              "health": null,
+              "previous_match_summary": "Tarasaitis is confident in his ability to handle Makarov's power."
             }
           }
         }

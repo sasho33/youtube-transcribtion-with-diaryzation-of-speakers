@@ -5,9 +5,8 @@
     "SPEAKER_02": "Host (possibly Malin)"
   },
   "date": "June 14, 2025",
-  "predictions": [
-    {
-      "speaker": "Michael Todd",
+  "predictions": {
+    "Michael Todd": {
       "self_predictions": [
         {
           "match": [
@@ -208,5 +207,5 @@
         }
       ]
     }
-  ]
+  }
 }

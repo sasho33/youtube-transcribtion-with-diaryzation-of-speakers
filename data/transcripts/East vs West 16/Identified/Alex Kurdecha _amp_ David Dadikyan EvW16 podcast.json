@@ -6,183 +6,187 @@
     "SPEAKER_03": "Engin Terzi"
   },
   "date": "January 26, 2025",
-  "self_predictions": {
-    "Alex Kurdecha": [
-      {
-        "match": [
-          "David Dadikyan",
-          "Alex Kurdecha"
-        ],
-        "arm": "Left",
-        "event": "East vs West 16",
-        "predicted_winner": "Alex Kurdecha",
-        "predicted_score": null,
-        "prediction_summary": "Alex believes the match will be decided by who controls the start and setup. He is confident in his preparation and speed, aiming to avoid being put in a bad position by David's explosiveness.",
-        "predicted_duration": null,
-        "style_conflict": "Speed and control at the start",
-        "opinion_about_athletes": {
-          "David Dadikyan": {
-            "strength": "Very explosive and fast",
-            "health": "Good, but has had injuries in the past",
-            "previous_match_summary": "Close match with Morozov, showing high level of competitiveness"
+  "predictions": {
+    "Alex Kurdecha": {
+      "self_predictions": [
+        {
+          "match": [
+            "David Dadikyan",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": "Alex Kurdecha",
+          "predicted_score": null,
+          "prediction_summary": "Alex believes the match will be decided by who controls the start and setup. He is confident in his preparation and speed, aiming to avoid being put in a bad position by David's explosiveness.",
+          "predicted_duration": null,
+          "style_conflict": "Speed and control at the start",
+          "opinion_about_athletes": {
+            "David Dadikyan": {
+              "strength": "Very explosive and fast",
+              "health": "Good, but has had injuries in the past",
+              "previous_match_summary": "Close match with Morozov, showing high level of competitiveness"
+            }
           }
         }
-      }
-    ],
-    "David Dadikyan": [
-      {
-        "match": [
-          "David Dadikyan",
-          "Alex Kurdecha"
-        ],
-        "arm": "Left",
-        "event": "East vs West 16",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "David acknowledges Alex's strength and hand size advantage but believes his speed and explosiveness can give him an edge if he controls the start.",
-        "predicted_duration": null,
-        "style_conflict": "Speed vs strength",
-        "opinion_about_athletes": {
-          "Alex Kurdecha": {
-            "strength": "Very strong, especially in left arm",
-            "health": "Good",
-            "previous_match_summary": "Strong performances, close matches with top competitors"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Vitalii Laletin",
+            "Artyom Morozov"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Alex believes it will be a close match, with Morozov possibly having an edge due to his preparation and team's strategy.",
+          "predicted_duration": null,
+          "style_conflict": "Power vs technique",
+          "opinion_about_athletes": {
+            "Vitalii Laletin": {
+              "strength": "Very powerful, especially in wrist",
+              "health": "Good",
+              "previous_match_summary": "Strong performances, known for his power"
+            },
+            "Artyom Morozov": {
+              "strength": "Strong and strategic",
+              "health": "Good",
+              "previous_match_summary": "Undefeated, shows high level of preparation"
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Alex favors Ermes due to his technique and ability to control the match, especially in shoulder positioning.",
+          "predicted_duration": null,
+          "style_conflict": "Technique vs endurance",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Technically very sound",
+              "health": "Good",
+              "previous_match_summary": "Close match with Levan, showing high level"
+            },
+            "Michael Todd": {
+              "strength": "Endurance and unique style",
+              "health": "Good",
+              "previous_match_summary": "Known for his king's move and endurance"
+            }
           }
         }
-      }
-    ]
-  },
-  "third_party_predictions": {
-    "Alex Kurdecha": [
-      {
-        "match": [
-          "Vitalii Laletin",
-          "Artyom Morozov"
-        ],
-        "arm": "Left",
-        "event": "East vs West 16",
-        "predicted_winner": null,
-        "predicted_score": null,
-        "prediction_summary": "Alex believes it will be a close match, with Morozov possibly having an edge due to his preparation and team's strategy.",
-        "predicted_duration": null,
-        "style_conflict": "Power vs technique",
-        "opinion_about_athletes": {
-          "Vitalii Laletin": {
-            "strength": "Very powerful, especially in wrist",
-            "health": "Good",
-            "previous_match_summary": "Strong performances, known for his power"
-          },
-          "Artyom Morozov": {
-            "strength": "Strong and strategic",
-            "health": "Good",
-            "previous_match_summary": "Undefeated, shows high level of preparation"
+      ]
+    },
+    "David Dadikyan": {
+      "self_predictions": [
+        {
+          "match": [
+            "David Dadikyan",
+            "Alex Kurdecha"
+          ],
+          "arm": "Left",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "David acknowledges Alex's strength and hand size advantage but believes his speed and explosiveness can give him an edge if he controls the start.",
+          "predicted_duration": null,
+          "style_conflict": "Speed vs strength",
+          "opinion_about_athletes": {
+            "Alex Kurdecha": {
+              "strength": "Very strong, especially in left arm",
+              "health": "Good",
+              "previous_match_summary": "Strong performances, close matches with top competitors"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": null,
-        "prediction_summary": "Alex favors Ermes due to his technique and ability to control the match, especially in shoulder positioning.",
-        "predicted_duration": null,
-        "style_conflict": "Technique vs endurance",
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Technically very sound",
-            "health": "Good",
-            "previous_match_summary": "Close match with Levan, showing high level"
-          },
-          "Michael Todd": {
-            "strength": "Endurance and unique style",
-            "health": "Good",
-            "previous_match_summary": "Known for his king's move and endurance"
+      ],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Michael Todd"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "David believes Ermes' technique and shoulder control will give him the advantage over Michael Todd.",
+          "predicted_duration": null,
+          "style_conflict": "Technique vs endurance",
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": "Strong technique and control",
+              "health": "Good",
+              "previous_match_summary": "Close match with Levan"
+            },
+            "Michael Todd": {
+              "strength": "Endurance and unique style",
+              "health": "Good",
+              "previous_match_summary": "Known for his king's move"
+            }
+          }
+        },
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": null,
+          "predicted_score": "50-50",
+          "prediction_summary": "David sees this as a very close match, with both athletes having strong points and motivation.",
+          "predicted_duration": null,
+          "style_conflict": "Endurance vs power",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong triceps and endurance",
+              "health": "Good",
+              "previous_match_summary": "Close match with Devon previously"
+            },
+            "Devon Larratt": {
+              "strength": "Endurance and mental games",
+              "health": "Good",
+              "previous_match_summary": "Known for his endurance and strategic mind"
+            }
           }
         }
-      }
-    ],
-    "David Dadikyan": [
-      {
-        "match": [
-          "Ermes Gasparini",
-          "Michael Todd"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Ermes Gasparini",
-        "predicted_score": null,
-        "prediction_summary": "David believes Ermes' technique and shoulder control will give him the advantage over Michael Todd.",
-        "predicted_duration": null,
-        "style_conflict": "Technique vs endurance",
-        "opinion_about_athletes": {
-          "Ermes Gasparini": {
-            "strength": "Strong technique and control",
-            "health": "Good",
-            "previous_match_summary": "Close match with Levan"
-          },
-          "Michael Todd": {
-            "strength": "Endurance and unique style",
-            "health": "Good",
-            "previous_match_summary": "Known for his king's move"
+      ]
+    },
+    "Engin Terzi": {
+      "third_party_predictions": [
+        {
+          "match": [
+            "Genadi Kvikvinia",
+            "Devon Larratt"
+          ],
+          "arm": "Right",
+          "event": "East vs West 16",
+          "predicted_winner": "Devon Larratt",
+          "predicted_score": null,
+          "prediction_summary": "Engin believes Devon's mental games and preparation will give him the edge over Genadi, despite the close nature of their previous match.",
+          "predicted_duration": null,
+          "style_conflict": "Mental games vs power",
+          "opinion_about_athletes": {
+            "Genadi Kvikvinia": {
+              "strength": "Strong and motivated",
+              "health": "Good",
+              "previous_match_summary": "Close match with Devon"
+            },
+            "Devon Larratt": {
+              "strength": "Mental strength and endurance",
+              "health": "Good",
+              "previous_match_summary": "Known for his strategic mind and endurance"
+            }
           }
         }
-      },
-      {
-        "match": [
-          "Genadi Kvikvinia",
-          "Devon Larratt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": null,
-        "predicted_score": "50-50",
-        "prediction_summary": "David sees this as a very close match, with both athletes having strong points and motivation.",
-        "predicted_duration": null,
-        "style_conflict": "Endurance vs power",
-        "opinion_about_athletes": {
-          "Genadi Kvikvinia": {
-            "strength": "Strong triceps and endurance",
-            "health": "Good",
-            "previous_match_summary": "Close match with Devon previously"
-          },
-          "Devon Larratt": {
-            "strength": "Endurance and mental games",
-            "health": "Good",
-            "previous_match_summary": "Known for his endurance and strategic mind"
-          }
-        }
-      }
-    ],
-    "Engin Terzi": [
-      {
-        "match": [
-          "Genadi Kvikvinia",
-          "Devon Larratt"
-        ],
-        "arm": "Right",
-        "event": "East vs West 16",
-        "predicted_winner": "Devon Larratt",
-        "predicted_score": null,
-        "prediction_summary": "Engin believes Devon's mental games and preparation will give him the edge over Genadi, despite the close nature of their previous match.",
-        "predicted_duration": null,
-        "style_conflict": "Mental games vs power",
-        "opinion_about_athletes": {
-          "Genadi Kvikvinia": {
-            "strength": "Strong and motivated",
-            "health": "Good",
-            "previous_match_summary": "Close match with Devon"
-          },
-          "Devon Larratt": {
-            "strength": "Mental strength and endurance",
-            "health": "Good",
-            "previous_match_summary": "Known for his strategic mind and endurance"
-          }
-        }
-      }
-    ]
+      ]
+    }
   }
 }

@@ -7,9 +7,8 @@
     "SPEAKER_04": "Arsen Liliev"
   },
   "date": "March 03, 2024",
-  "predictions": [
-    {
-      "speaker": "Engin Terzi",
+  "predictions": {
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -39,8 +38,7 @@
         }
       ]
     },
-    {
-      "speaker": "Ivan Matushenko",
+    "Ivan Matushenko": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -70,8 +68,7 @@
         }
       ]
     },
-    {
-      "speaker": "Arsen Liliev",
+    "Arsen Liliev": {
       "self_predictions": [
         {
           "match": [
@@ -172,8 +169,7 @@
         }
       ]
     },
-    {
-      "speaker": "Brandon Ellsessor",
+    "Brandon Ellsessor": {
       "self_predictions": [
         {
           "match": [
@@ -249,5 +245,5 @@
         }
       ]
     }
-  ]
+  }
 }

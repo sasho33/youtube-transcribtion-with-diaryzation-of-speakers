@@ -4,10 +4,10 @@
     "SPEAKER_01": "Arsen Liliev"
   },
   "date": "April 08, 2025",
-  "self_predictions": {},
-  "third_party_predictions": {
+  "predictions": {
     "Ryan Bowen": {
-      "predictions": [
+      "self_predictions": [],
+      "third_party_predictions": [
         {
           "match": [
             "Levan Saginashvili",
@@ -61,7 +61,8 @@
       ]
     },
     "Arsen Liliev": {
-      "predictions": [
+      "self_predictions": [],
+      "third_party_predictions": [
         {
           "match": [
             "Paul Linn",

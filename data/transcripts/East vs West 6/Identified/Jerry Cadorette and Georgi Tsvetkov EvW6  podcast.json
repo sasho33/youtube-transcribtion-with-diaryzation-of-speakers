@@ -6,9 +6,8 @@
     "SPEAKER_03": null
   },
   "date": "December 16, 2022",
-  "predictions": [
-    {
-      "speaker": "Georgi Tsvetkov",
+  "predictions": {
+    "Georgi Tsvetkov": {
       "self_predictions": [
         {
           "match": [
@@ -134,8 +133,7 @@
         }
       ]
     },
-    {
-      "speaker": "Jerry Cadorette",
+    "Jerry Cadorette": {
       "self_predictions": [
         {
           "match": [
@@ -236,5 +234,5 @@
         }
       ]
     }
-  ]
+  }
 }

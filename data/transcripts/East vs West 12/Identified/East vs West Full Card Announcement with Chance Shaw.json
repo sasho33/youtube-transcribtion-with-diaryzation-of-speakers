@@ -5,9 +5,9 @@
     "SPEAKER_02": "Dan"
   },
   "date": "February 25, 2024",
-  "predictions": [
-    {
-      "speaker": "Engin Terzi",
+  "predictions": {
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -311,8 +311,8 @@
         }
       ]
     },
-    {
-      "speaker": "Chance Shaw",
+    "Chance Shaw": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -341,5 +341,5 @@
         }
       ]
     }
-  ]
+  }
 }

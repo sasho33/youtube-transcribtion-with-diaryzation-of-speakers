@@ -3,9 +3,8 @@
     "SPEAKER_00": "Engin Terzi"
   },
   "date": "March 03, 2025",
-  "predictions": [
-    {
-      "speaker": "Engin Terzi",
+  "predictions": {
+    "Engin Terzi": {
       "self_predictions": [],
       "third_party_predictions": [
         {
@@ -110,5 +109,5 @@
         }
       ]
     }
-  ]
+  }
 }

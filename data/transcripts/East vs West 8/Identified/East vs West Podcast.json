@@ -3,57 +3,61 @@
     "SPEAKER_01": "Engin Terzi"
   },
   "date": "March 03, 2025",
-  "self_predictions": [],
-  "third_party_predictions": [
-    {
-      "match": [
-        "Mindaugas Tarasaitis",
-        "Hristo Delidzhakov"
-      ],
-      "arm": "Right",
-      "event": "East vs West 8",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "Hristo is strong enough to beat Mindaugas, but Mindaugas is also very good. Engin likes to tease Mindaugas but has a good relationship with him.",
-      "predicted_duration": null,
-      "style_conflict": "Hristo has a very unorthodox style.",
-      "opinion_about_athletes": {
-        "Mindaugas Tarasaitis": {
-          "strength": "Very good",
-          "health": null,
-          "previous_match_summary": null
+  "predictions": {
+    "Engin Terzi": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Hristo Delidzhakov"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "Hristo is strong enough to beat Mindaugas, but Mindaugas is also very good. Engin likes to tease Mindaugas but has a good relationship with him.",
+          "predicted_duration": null,
+          "style_conflict": "Hristo has a very unorthodox style.",
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": "Very good",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Hristo Delidzhakov": {
+              "strength": "World champion, very dangerous",
+              "health": null,
+              "previous_match_summary": "Took third place at the European Championships, beat Toms Rozits at 80kg."
+            }
+          }
         },
-        "Hristo Delidzhakov": {
-          "strength": "World champion, very dangerous",
-          "health": null,
-          "previous_match_summary": "Took third place at the European Championships, beat Toms Rozits at 80kg."
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Jerry Cadorette"
+          ],
+          "arm": "Right",
+          "event": "East vs West 8",
+          "predicted_winner": null,
+          "predicted_score": null,
+          "prediction_summary": "There is a possibility Jerry could surprise Ermes, but it depends on their current shape and preparation.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Jerry Cadorette": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
-      }
-    },
-    {
-      "match": [
-        "Ermes Gasparini",
-        "Jerry Cadorette"
-      ],
-      "arm": "Right",
-      "event": "East vs West 8",
-      "predicted_winner": null,
-      "predicted_score": null,
-      "prediction_summary": "There is a possibility Jerry could surprise Ermes, but it depends on their current shape and preparation.",
-      "predicted_duration": null,
-      "style_conflict": null,
-      "opinion_about_athletes": {
-        "Ermes Gasparini": {
-          "strength": null,
-          "health": null,
-          "previous_match_summary": null
-        },
-        "Jerry Cadorette": {
-          "strength": null,
-          "health": null,
-          "previous_match_summary": null
-        }
-      }
+      ]
     }
-  ]
+  }
 }

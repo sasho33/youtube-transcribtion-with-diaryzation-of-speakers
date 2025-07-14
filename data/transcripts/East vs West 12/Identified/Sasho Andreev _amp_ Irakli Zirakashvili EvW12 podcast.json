@@ -6,9 +6,8 @@
     "SPEAKER_04": "Translator (Tornike)"
   },
   "date": "March 28, 2024",
-  "predictions": [
-    {
-      "athlete": "Sasho Andreev",
+  "predictions": {
+    "Sasho Andreev": {
       "self_predictions": [
         {
           "match": [
@@ -234,8 +233,7 @@
         }
       ]
     },
-    {
-      "athlete": "Irakli Zirakashvili",
+    "Irakli Zirakashvili": {
       "self_predictions": [
         {
           "match": [
@@ -361,5 +359,5 @@
         }
       ]
     }
-  ]
+  }
 }

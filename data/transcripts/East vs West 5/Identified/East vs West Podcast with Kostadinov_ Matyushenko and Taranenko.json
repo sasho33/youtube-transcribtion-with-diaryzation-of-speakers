@@ -7,213 +7,748 @@
   },
   "date": "October 20, 2022",
   "predictions": {
-    "Zurab Tavberidze vs Ryan Bowen": {
+    "Engin Terzi": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
-          "speaker": "Engin Terzi",
+          "match": [
+            "Zurab Tavberidze",
+            "Ryan Bowen"
+          ],
+          "arm": null,
+          "event": null,
           "predicted_winner": "Zurab Tavberidze",
-          "prediction_summary": "Zurab is more experienced and stronger, but Ryan has gained weight and strength recently."
+          "predicted_score": null,
+          "prediction_summary": "Zurab is more experienced and stronger, but Ryan has gained weight and strength recently.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "strong",
+              "health": null,
+              "previous_match_summary": "experienced"
+            },
+            "Ryan Bowen": {
+              "strength": "improved recently",
+              "health": null,
+              "previous_match_summary": "gained weight and strength"
+            }
+          }
         },
         {
-          "speaker": "Ivan Matyushenko",
-          "predicted_winner": "Zurab Tavberidze",
-          "prediction_summary": "Zurab is more experienced and stronger, but Ryan has become bigger and stronger recently."
-        }
-      ]
-    },
-    "Georgii Dzeranov vs Sergey Kalinichenko": {
-      "third_party_predictions": [
-        {
-          "speaker": "Krasimir Kostadinov",
-          "predicted_winner": "Georgii Dzeranov",
-          "prediction_summary": "Dzeranov has more experience and raw power, and will win if the match is equal."
-        },
-        {
-          "speaker": "Ivan Matyushenko",
-          "predicted_winner": "Georgii Dzeranov",
-          "prediction_summary": "Dzeranov is the favorite, being both stronger and more versatile."
-        }
-      ]
-    },
-    "Mindaugas Tarasaitis vs Justin Bishop": {
-      "third_party_predictions": [
-        {
-          "speaker": "Krasimir Kostadinov",
-          "predicted_winner": "Mindaugas Tarasaitis",
-          "prediction_summary": "Mindaugas is a huge favorite on right arm; if it was left arm, Justin would be the favorite."
-        },
-        {
-          "speaker": "John Brzenk",
-          "predicted_winner": "Justin Bishop",
-          "prediction_summary": "Justin has not competed in a long time, but stylistically it's a good match for him."
-        }
-      ]
-    },
-    "Adam Wawrzynski vs Bozhidar Simeonov": {
-      "third_party_predictions": [
-        {
-          "speaker": "John Brzenk",
+          "match": [
+            "Bozhidar Simeonov",
+            "Adam Wawrzynski"
+          ],
+          "arm": null,
+          "event": null,
           "predicted_winner": "Bozhidar Simeonov",
-          "prediction_summary": "Bozhidar is favored, but Adam has incredible endurance and could make it a long war."
+          "predicted_score": null,
+          "prediction_summary": "Bozhidar is great in hook, but Adam has the power to stop him and make it a long match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bozhidar Simeonov": {
+              "strength": "great in hook",
+              "health": null,
+              "previous_match_summary": null
+            },
+            "Adam Wawrzynski": {
+              "strength": "powerful",
+              "health": null,
+              "previous_match_summary": "can make it a long match"
+            }
+          }
         },
         {
-          "speaker": "Engin Terzi",
-          "predicted_winner": "Bozhidar Simeonov",
-          "prediction_summary": "Bozhidar is great in hook, but Adam has the power to stop him and make it a long match."
-        }
-      ]
-    },
-    "Oleg Petrenko vs Zurab Tavberidze": {
-      "third_party_predictions": [
-        {
-          "speaker": "Krasimir Kostadinov",
-          "predicted_winner": "Oleg Petrenko",
-          "prediction_summary": "Petrenko will have better hand control and cupping, and will win a close match."
-        },
-        {
-          "speaker": "Ivan Matyushenko",
-          "predicted_winner": "Oleg Petrenko",
-          "prediction_summary": "Petrenko will win with a side move, possibly top-rolling Zurab's hand."
-        }
-      ]
-    },
-    "Davit Samushia vs Daniel Procopciuc": {
-      "third_party_predictions": [
-        {
-          "speaker": "Engin Terzi",
+          "match": [
+            "Daniel Procopciuc",
+            "Davit Samushia"
+          ],
+          "arm": null,
+          "event": null,
           "predicted_winner": "Daniel Procopciuc",
-          "prediction_summary": "Daniel is coming up in weight, while Samushia is coming down, giving Daniel an edge."
+          "predicted_score": null,
+          "prediction_summary": "Daniel is coming up in weight, while Samushia is coming down, giving Daniel an edge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "coming up in weight"
+            },
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "coming down in weight"
+            }
+          }
         },
         {
-          "speaker": "Ivan Matyushenko",
-          "predicted_winner": "Daniel Procopciuc",
-          "prediction_summary": "Daniel has a good chance, especially if the match goes into a hook."
-        }
-      ]
-    },
-    "Georgii Dzeranov vs Wagner Bortolato": {
-      "third_party_predictions": [
-        {
-          "speaker": "Ivan Matyushenko",
-          "predicted_winner": "Wagner Bortolato",
-          "prediction_summary": "Bortolato is a little favorite due to size and strength, but it will be an even match."
-        },
-        {
-          "speaker": "John Brzenk",
-          "predicted_winner": "Georgii Dzeranov",
-          "prediction_summary": "Georgii is the clear favorite, even with Bortolato's size advantage."
-        }
-      ]
-    },
-    "Paul Linn vs lrakli Gamtenadze": {
-      "third_party_predictions": [
-        {
-          "speaker": "Krasimir Kostadinov",
-          "predicted_winner": "Paul Linn",
-          "prediction_summary": "Paul is the favorite, but lrakli's style could be unpredictable."
-        },
-        {
-          "speaker": "John Brzenk",
-          "predicted_winner": "Paul Linn",
-          "prediction_summary": "Paul is favored, but lrakli's wild style could make it interesting."
-        }
-      ]
-    },
-    "John Brzenk vs Oleg Petrenko": {
-      "third_party_predictions": [
-        {
-          "speaker": "Engin Terzi",
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": null,
+          "event": null,
           "predicted_winner": "John Brzenk",
-          "prediction_summary": "John's technique and experience give him the edge, but Petrenko's power is a challenge."
+          "predicted_score": null,
+          "prediction_summary": "John's technique and experience give him the edge, but Petrenko's power is a challenge.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "technique and experience"
+            },
+            "Oleg Petrenko": {
+              "strength": "powerful",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
-          "speaker": "Ivan Matyushenko",
-          "predicted_winner": "John Brzenk",
-          "prediction_summary": "John's versatility and technique will be key, but Petrenko's power is formidable."
-        }
-      ]
-    },
-    "Artyom Morozov vs Revaz Lutidze": {
-      "third_party_predictions": [
-        {
-          "speaker": "Engin Terzi",
+          "match": [
+            "Revaz Lutidze",
+            "Artyom Morozov"
+          ],
+          "arm": null,
+          "event": null,
           "predicted_winner": "Revaz Lutidze",
-          "prediction_summary": "Revaz is better in top roll, but Artem could win if he gets into a hook."
+          "predicted_score": null,
+          "prediction_summary": "Revaz is better in top roll, but Artem could win if he gets into a hook.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Revaz Lutidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "better in top roll"
+            },
+            "Artyom Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "could win in hook"
+            }
+          }
         },
         {
-          "speaker": "Ivan Matyushenko",
-          "predicted_winner": "Revaz Lutidze",
-          "prediction_summary": "Revaz is the favorite due to his top roll ability and size advantage."
-        }
-      ]
-    },
-    "Ermes Gasparini vs Dave Chaffee": {
-      "third_party_predictions": [
-        {
-          "speaker": "Krasimir Kostadinov",
-          "predicted_winner": "Dave Chaffee",
-          "prediction_summary": "Dave has a slight edge, but it's very close (51-49)."
-        },
-        {
-          "speaker": "Ivan Matyushenko",
-          "predicted_winner": "Ermes Gasparini",
-          "prediction_summary": "Ermes is the favorite due to Dave's recent war with Laletin and not being 100%."
-        }
-      ]
-    },
-    "Haydar Gildil vs Cobra Rhodes": {
-      "third_party_predictions": [
-        {
-          "speaker": "Ivan Matyushenko",
-          "predicted_winner": "Cobra Rhodes",
-          "prediction_summary": "Cobra is favored due to his past achievements and current form."
-        },
-        {
-          "speaker": "John Brzenk",
-          "predicted_winner": "Cobra Rhodes",
-          "prediction_summary": "Cobra is the favorite, but Haydar is a legend with unknown current form."
-        }
-      ]
-    },
-    "Sandris Sedis vs Matt Mask": {
-      "third_party_predictions": [
-        {
-          "speaker": "Krasimir Kostadinov",
-          "predicted_winner": "Matt Mask",
-          "prediction_summary": "Matt is the favorite, especially if Sandris has wrist issues."
-        },
-        {
-          "speaker": "Ivan Matyushenko",
-          "predicted_winner": "Matt Mask",
-          "prediction_summary": "Matt is stronger now, and Sandris may not be fully recovered from his recent championship."
-        }
-      ]
-    },
-    "Artyom Morozov vs Ermes Gasparini": {
-      "third_party_predictions": [
-        {
-          "speaker": "Engin Terzi",
+          "match": [
+            "Artyom Morozov",
+            "Ermes Gasparini"
+          ],
+          "arm": "left",
+          "event": null,
           "predicted_winner": "Artyom Morozov",
-          "prediction_summary": "Artem is the favorite on left arm, especially if he can top-roll Ermes."
-        },
-        {
-          "speaker": "Ivan Matyushenko",
-          "predicted_winner": "Ermes Gasparini",
-          "prediction_summary": "Ermes has a better top roll, but Artem could win if he gets into a hook."
+          "predicted_score": null,
+          "prediction_summary": "Artem is the favorite on left arm, especially if he can top-roll Ermes.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Artyom Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "can top-roll"
+            },
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ]
     },
-    "Devon Larratt vs Evgeny Prudnik": {
+    "John Brzenk": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
-          "speaker": "Krasimir Kostadinov",
-          "predicted_winner": "Evgeny Prudnik",
-          "prediction_summary": "Prudnik is slightly favored (55-45), but Devon's endurance could be a factor."
+          "match": [
+            "Justin Bishop",
+            "Mindaugas Tarasaitis"
+          ],
+          "arm": "right",
+          "event": null,
+          "predicted_winner": "Justin Bishop",
+          "predicted_score": null,
+          "prediction_summary": "Justin has not competed in a long time, but stylistically it's a good match for him.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Justin Bishop": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "not competed in a long time"
+            },
+            "Mindaugas Tarasaitis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         },
         {
-          "speaker": "Ivan Matyushenko",
+          "match": [
+            "Bozhidar Simeonov",
+            "Adam Wawrzynski"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Bozhidar Simeonov",
+          "predicted_score": null,
+          "prediction_summary": "Bozhidar is favored, but Adam has incredible endurance and could make it a long war.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Bozhidar Simeonov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "favored"
+            },
+            "Adam Wawrzynski": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "incredible endurance"
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Wagner Bortolato"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Georgii is the clear favorite, even with Bortolato's size advantage.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "clear favorite"
+            },
+            "Wagner Bortolato": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "size advantage"
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "lrakli Gamtenadze"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Paul is favored, but lrakli's wild style could make it interesting.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "favored"
+            },
+            "lrakli Gamtenadze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "wild style"
+            }
+          }
+        },
+        {
+          "match": [
+            "Cobra Rhodes",
+            "Haydar Gildil"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Cobra Rhodes",
+          "predicted_score": null,
+          "prediction_summary": "Cobra is the favorite, but Haydar is a legend with unknown current form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Cobra Rhodes": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "favorite"
+            },
+            "Haydar Gildil": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "legend with unknown current form"
+            }
+          }
+        }
+      ]
+    },
+    "Krasimir Kostadinov": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Sergey Kalinichenko"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Dzeranov has more experience and raw power, and will win if the match is equal.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "raw power",
+              "health": null,
+              "previous_match_summary": "more experience"
+            },
+            "Sergey Kalinichenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Mindaugas Tarasaitis",
+            "Justin Bishop"
+          ],
+          "arm": "right",
+          "event": null,
+          "predicted_winner": "Mindaugas Tarasaitis",
+          "predicted_score": null,
+          "prediction_summary": "Mindaugas is a huge favorite on right arm; if it was left arm, Justin would be the favorite.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Mindaugas Tarasaitis": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "huge favorite on right arm"
+            },
+            "Justin Bishop": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "would be favorite on left arm"
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Zurab Tavberidze"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Petrenko will have better hand control and cupping, and will win a close match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "better hand control and cupping"
+            },
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Paul Linn",
+            "lrakli Gamtenadze"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Paul Linn",
+          "predicted_score": null,
+          "prediction_summary": "Paul is the favorite, but lrakli's style could be unpredictable.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Paul Linn": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "favorite"
+            },
+            "lrakli Gamtenadze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "unpredictable style"
+            }
+          }
+        },
+        {
+          "match": [
+            "Dave Chaffee",
+            "Ermes Gasparini"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Dave Chaffee",
+          "predicted_score": "51-49",
+          "prediction_summary": "Dave has a slight edge, but it's very close (51-49).",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Dave Chaffee": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "slight edge"
+            },
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Matt Mask"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Matt is the favorite, especially if Sandris has wrist issues.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": null,
+              "health": "wrist issues",
+              "previous_match_summary": null
+            },
+            "Matt Mask": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "favorite"
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Devon Larratt"
+          ],
+          "arm": null,
+          "event": null,
           "predicted_winner": "Evgeny Prudnik",
-          "prediction_summary": "Prudnik is the favorite, but Devon's open-arm top roll could change the match."
+          "predicted_score": "55-45",
+          "prediction_summary": "Prudnik is slightly favored (55-45), but Devon's endurance could be a factor.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "slightly favored"
+            },
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "endurance could be a factor"
+            }
+          }
+        }
+      ]
+    },
+    "Ivan Matyushenko": {
+      "self_predictions": [],
+      "third_party_predictions": [
+        {
+          "match": [
+            "Zurab Tavberidze",
+            "Ryan Bowen"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Zurab Tavberidze",
+          "predicted_score": null,
+          "prediction_summary": "Zurab is more experienced and stronger, but Ryan has become bigger and stronger recently.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Zurab Tavberidze": {
+              "strength": "stronger",
+              "health": null,
+              "previous_match_summary": "more experienced"
+            },
+            "Ryan Bowen": {
+              "strength": "become bigger and stronger",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Georgii Dzeranov",
+            "Sergey Kalinichenko"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Georgii Dzeranov",
+          "predicted_score": null,
+          "prediction_summary": "Dzeranov is the favorite, being both stronger and more versatile.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Georgii Dzeranov": {
+              "strength": "stronger",
+              "health": null,
+              "previous_match_summary": "more versatile"
+            },
+            "Sergey Kalinichenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Oleg Petrenko",
+            "Zurab Tavberidze"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Oleg Petrenko",
+          "predicted_score": null,
+          "prediction_summary": "Petrenko will win with a side move, possibly top-rolling Zurab's hand.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Oleg Petrenko": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "can win with side move"
+            },
+            "Zurab Tavberidze": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Daniel Procopciuc",
+            "Davit Samushia"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Daniel Procopciuc",
+          "predicted_score": null,
+          "prediction_summary": "Daniel has a good chance, especially if the match goes into a hook.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Daniel Procopciuc": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "good chance in hook"
+            },
+            "Davit Samushia": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Wagner Bortolato",
+            "Georgii Dzeranov"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Wagner Bortolato",
+          "predicted_score": null,
+          "prediction_summary": "Bortolato is a little favorite due to size and strength, but it will be an even match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Wagner Bortolato": {
+              "strength": "size and strength",
+              "health": null,
+              "previous_match_summary": "little favorite"
+            },
+            "Georgii Dzeranov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Dave Chaffee"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes is the favorite due to Dave's recent war with Laletin and not being 100%.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "favorite"
+            },
+            "Dave Chaffee": {
+              "strength": null,
+              "health": "not 100%",
+              "previous_match_summary": "recent war with Laletin"
+            }
+          }
+        },
+        {
+          "match": [
+            "Cobra Rhodes",
+            "Haydar Gildil"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Cobra Rhodes",
+          "predicted_score": null,
+          "prediction_summary": "Cobra is favored due to his past achievements and current form.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Cobra Rhodes": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "past achievements and current form"
+            },
+            "Haydar Gildil": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Sandris Sedis",
+            "Matt Mask"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Matt Mask",
+          "predicted_score": null,
+          "prediction_summary": "Matt is stronger now, and Sandris may not be fully recovered from his recent championship.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Sandris Sedis": {
+              "strength": null,
+              "health": "may not be fully recovered",
+              "previous_match_summary": "recent championship"
+            },
+            "Matt Mask": {
+              "strength": "stronger now",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
+        },
+        {
+          "match": [
+            "Ermes Gasparini",
+            "Artyom Morozov"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Ermes Gasparini",
+          "predicted_score": null,
+          "prediction_summary": "Ermes has a better top roll, but Artem could win if he gets into a hook.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Ermes Gasparini": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "better top roll"
+            },
+            "Artyom Morozov": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "could win in hook"
+            }
+          }
+        },
+        {
+          "match": [
+            "Evgeny Prudnik",
+            "Devon Larratt"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "Evgeny Prudnik",
+          "predicted_score": null,
+          "prediction_summary": "Prudnik is the favorite, but Devon's open-arm top roll could change the match.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "Evgeny Prudnik": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "favorite"
+            },
+            "Devon Larratt": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "open-arm top roll"
+            }
+          }
+        },
+        {
+          "match": [
+            "John Brzenk",
+            "Oleg Petrenko"
+          ],
+          "arm": null,
+          "event": null,
+          "predicted_winner": "John Brzenk",
+          "predicted_score": null,
+          "prediction_summary": "John's versatility and technique will be key, but Petrenko's power is formidable.",
+          "predicted_duration": null,
+          "style_conflict": null,
+          "opinion_about_athletes": {
+            "John Brzenk": {
+              "strength": null,
+              "health": null,
+              "previous_match_summary": "versatility and technique"
+            },
+            "Oleg Petrenko": {
+              "strength": "formidable power",
+              "health": null,
+              "previous_match_summary": null
+            }
+          }
         }
       ]
     }

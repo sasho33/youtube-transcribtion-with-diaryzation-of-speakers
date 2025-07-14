@@ -126,8 +126,8 @@ Filename: {filename}
 # Example usage
 if __name__ == "__main__":
     try:
-        event = "East vs West 7"
-        file = "EvW7 Podcast with Paul Linn and Fans.txt"
+        event = "East vs West 13"
+        file = "CHANCE SHAW vs. IBRAGIM SAGOV - OFFICAL EAST VS WEST PODCAST.txt"
         extract_predictions_as_json(event, file)
     except Exception as e:
         print(f"Error: {str(e)}")

@@ -7,9 +7,9 @@
     "SPEAKER_04": "Unknown"
   },
   "date": "December 22, 2023",
-  "predictions": [
-    {
-      "speaker": "Irakli Zirakashvili",
+  "predictions": {
+    "Irakli Zirakashvili": {
+      "self_predictions": [],
       "third_party_predictions": [
         {
           "match": [
@@ -263,8 +263,7 @@
         }
       ]
     },
-    {
-      "speaker": "Paul Linn",
+    "Paul Linn": {
       "self_predictions": [
         {
           "match": [
@@ -440,5 +439,5 @@
         }
       ]
     }
-  ]
+  }
 }
