@@ -10,6 +10,7 @@ from pipeline.config import EVW_EVENTS_FILE, TRANSCRIPT_DIR
 
 def normalize_string(s):
     return re.sub(r"[^\w\s]", "", s.lower()).strip()
+     
 
 # Load event data
 with EVW_EVENTS_FILE.open(encoding="utf-8") as f:

@@ -1,0 +1,317 @@
+{
+  "Brad Grundy": {
+    "total_predictions": 8,
+    "correct_predictions": 8,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 0,
+    "success_rate": 100.0
+  },
+  "Joseph Meranto": {
+    "total_predictions": 8,
+    "correct_predictions": 7,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 0,
+    "success_rate": 87.5
+  },
+  "Aymeric Pradines": {
+    "total_predictions": 18,
+    "correct_predictions": 15,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 0,
+    "success_rate": 83.33
+  },
+  "Vladimir Maiorov": {
+    "total_predictions": 10,
+    "correct_predictions": 8,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 0,
+    "success_rate": 80.0
+  },
+  "Ryan Belanger": {
+    "total_predictions": 9,
+    "correct_predictions": 7,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 0,
+    "success_rate": 77.78
+  },
+  "Betkili Oniani": {
+    "total_predictions": 21,
+    "correct_predictions": 16,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 1,
+    "success_rate": 76.19
+  },
+  "Revaz Lutidze": {
+    "total_predictions": 21,
+    "correct_predictions": 16,
+    "unsure_predictions": 1,
+    "potential_matches_predictions": 0,
+    "success_rate": 76.19
+  },
+  "Valen Low": {
+    "total_predictions": 8,
+    "correct_predictions": 6,
+    "unsure_predictions": 2,
+    "potential_matches_predictions": 0,
+    "success_rate": 75.0
+  },
+  "Davit Samushia": {
+    "total_predictions": 34,
+    "correct_predictions": 25,
+    "unsure_predictions": 10,
+    "potential_matches_predictions": 2,
+    "success_rate": 73.53
+  },
+  "Tom Rozits": {
+    "total_predictions": 7,
+    "correct_predictions": 5,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 1,
+    "success_rate": 71.43
+  },
+  "Sandris Šedis": {
+    "total_predictions": 27,
+    "correct_predictions": 19,
+    "unsure_predictions": 1,
+    "potential_matches_predictions": 3,
+    "success_rate": 70.37
+  },
+  "Vitaly Laletin": {
+    "total_predictions": 10,
+    "correct_predictions": 7,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 4,
+    "success_rate": 70.0
+  },
+  "Nisa Camadan": {
+    "total_predictions": 13,
+    "correct_predictions": 9,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 1,
+    "success_rate": 69.23
+  },
+  "Rino Masic": {
+    "total_predictions": 16,
+    "correct_predictions": 11,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 1,
+    "success_rate": 68.75
+  },
+  "Pavlo Derbedyenyev": {
+    "total_predictions": 32,
+    "correct_predictions": 22,
+    "unsure_predictions": 3,
+    "potential_matches_predictions": 3,
+    "success_rate": 68.75
+  },
+  "Fia Reisik": {
+    "total_predictions": 16,
+    "correct_predictions": 11,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 0,
+    "success_rate": 68.75
+  },
+  "Ibragim Sagov": {
+    "total_predictions": 16,
+    "correct_predictions": 11,
+    "unsure_predictions": 3,
+    "potential_matches_predictions": 1,
+    "success_rate": 68.75
+  },
+  "Kydyrgali Ongarbaev": {
+    "total_predictions": 16,
+    "correct_predictions": 11,
+    "unsure_predictions": 2,
+    "potential_matches_predictions": 0,
+    "success_rate": 68.75
+  },
+  "Alex Kurdecha": {
+    "total_predictions": 52,
+    "correct_predictions": 35,
+    "unsure_predictions": 2,
+    "potential_matches_predictions": 1,
+    "success_rate": 67.31
+  },
+  "Daniel Procopciuc": {
+    "total_predictions": 45,
+    "correct_predictions": 30,
+    "unsure_predictions": 3,
+    "potential_matches_predictions": 4,
+    "success_rate": 66.67
+  },
+  "Alizhan Muratov": {
+    "total_predictions": 18,
+    "correct_predictions": 12,
+    "unsure_predictions": 2,
+    "potential_matches_predictions": 0,
+    "success_rate": 66.67
+  },
+  "Ivan Matyushenko": {
+    "total_predictions": 54,
+    "correct_predictions": 36,
+    "unsure_predictions": 2,
+    "potential_matches_predictions": 2,
+    "success_rate": 66.67
+  },
+  "Zurab Tavberidze": {
+    "total_predictions": 51,
+    "correct_predictions": 34,
+    "unsure_predictions": 8,
+    "potential_matches_predictions": 1,
+    "success_rate": 66.67
+  },
+  "Talgat Aktaev": {
+    "total_predictions": 6,
+    "correct_predictions": 4,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 0,
+    "success_rate": 66.67
+  },
+  "Egle Vaitkute": {
+    "total_predictions": 6,
+    "correct_predictions": 4,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 0,
+    "success_rate": 66.67
+  },
+  "Gabriela Vasconcelos": {
+    "total_predictions": 12,
+    "correct_predictions": 8,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 0,
+    "success_rate": 66.67
+  },
+  "Janis Amolins": {
+    "total_predictions": 41,
+    "correct_predictions": 27,
+    "unsure_predictions": 2,
+    "potential_matches_predictions": 1,
+    "success_rate": 65.85
+  },
+  "Levan Saginashvili": {
+    "total_predictions": 61,
+    "correct_predictions": 40,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 2,
+    "success_rate": 65.57
+  },
+  "Ermes Gasparini": {
+    "total_predictions": 108,
+    "correct_predictions": 70,
+    "unsure_predictions": 5,
+    "potential_matches_predictions": 10,
+    "success_rate": 64.81
+  },
+  "Genadi Kvikvinia": {
+    "total_predictions": 28,
+    "correct_predictions": 18,
+    "unsure_predictions": 2,
+    "potential_matches_predictions": 5,
+    "success_rate": 64.29
+  },
+  "Artur Makarov": {
+    "total_predictions": 22,
+    "correct_predictions": 14,
+    "unsure_predictions": 4,
+    "potential_matches_predictions": 1,
+    "success_rate": 63.64
+  },
+  "Bacho Saginashvili": {
+    "total_predictions": 11,
+    "correct_predictions": 7,
+    "unsure_predictions": 3,
+    "potential_matches_predictions": 0,
+    "success_rate": 63.64
+  },
+  "Engin Terzi": {
+    "total_predictions": 223,
+    "correct_predictions": 140,
+    "unsure_predictions": 9,
+    "potential_matches_predictions": 13,
+    "success_rate": 62.78
+  },
+  "Irakli Zirakashvili": {
+    "total_predictions": 75,
+    "correct_predictions": 47,
+    "unsure_predictions": 4,
+    "potential_matches_predictions": 1,
+    "success_rate": 62.67
+  },
+  "Michael Todd": {
+    "total_predictions": 75,
+    "correct_predictions": 47,
+    "unsure_predictions": 6,
+    "potential_matches_predictions": 1,
+    "success_rate": 62.67
+  },
+  "Mindaugas Tarasaitis": {
+    "total_predictions": 48,
+    "correct_predictions": 30,
+    "unsure_predictions": 3,
+    "potential_matches_predictions": 2,
+    "success_rate": 62.5
+  },
+  "Artyom Morozov": {
+    "total_predictions": 48,
+    "correct_predictions": 30,
+    "unsure_predictions": 3,
+    "potential_matches_predictions": 3,
+    "success_rate": 62.5
+  },
+  "Jonathan Breda": {
+    "total_predictions": 8,
+    "correct_predictions": 5,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 0,
+    "success_rate": 62.5
+  },
+  "Lars Rorbakken": {
+    "total_predictions": 8,
+    "correct_predictions": 5,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 0,
+    "success_rate": 62.5
+  },
+  "Paul Linn": {
+    "total_predictions": 82,
+    "correct_predictions": 51,
+    "unsure_predictions": 1,
+    "potential_matches_predictions": 4,
+    "success_rate": 62.2
+  },
+  "Oleg Zhokh": {
+    "total_predictions": 26,
+    "correct_predictions": 16,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 0,
+    "success_rate": 61.54
+  },
+  "Sasho Andreev": {
+    "total_predictions": 13,
+    "correct_predictions": 8,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 0,
+    "success_rate": 61.54
+  },
+  "Serhii Kalinichenko": {
+    "total_predictions": 26,
+    "correct_predictions": 16,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 1,
+    "success_rate": 61.54
+  },
+  "Evgeny Prudnik": {
+    "total_predictions": 57,
+    "correct_predictions": 35,
+    "unsure_predictions": 3,
+    "potential_matches_predictions": 3,
+    "success_rate": 61.4
+  },
+  "Carolina Pettersson": {
+    "total_predictions": 18,
+    "correct_predictions": 11,
+    "unsure_predictions": 0,
+    "potential_matches_predictions": 0,
+    "success_rate": 61.11
+  }
+}
