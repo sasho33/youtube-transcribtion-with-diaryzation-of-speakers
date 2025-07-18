@@ -344,11 +344,11 @@
       },
       {
         "winner": "Fia Reisek",
-        "loser": "Malin Bergström",
+        "loser": "Malin Bergstrom",
         "score": "4-0",
         "participants": [
           "Fia Reisek",
-          "Malin Bergström"
+          "Malin Bergstrom"
         ],
         "arm": "Right",
         "weight_category": "Lightweight",
@@ -368,11 +368,11 @@
       },
       {
         "winner": "Oleg Petrenko",
-        "loser": "Betkili Onianii",
+        "loser": "Betkili Oniani",
         "score": "4-0",
         "participants": [
           "Oleg Petrenko",
-          "Betkili Onianii"
+          "Betkili Oniani"
         ],
         "arm": "Left",
         "weight_category": "Middleweight",
@@ -415,11 +415,11 @@
         "is_title": false
       },
       {
-        "winner": "Vitalii Laletin",
+        "winner": "Vitaly Laletin",
         "loser": "Artyom Morozov",
         "score": "4-2",
         "participants": [
-          "Vitalii Laletin",
+          "Vitaly Laletin",
           "Artyom Morozov"
         ],
         "arm": "Left",
@@ -438,7 +438,7 @@
         "loser": "Irina Gladkaya",
         "score": "3-2",
         "participants": [
-          "Brigitta Ivánfi",
+          "Brigitta Ivanfi",
           "Irina Gladkaya"
         ],
         "arm": "Right",
@@ -459,11 +459,11 @@
       },
       {
         "winner": "Nugzari Chikadze",
-        "loser": "Oguzhan Koçak",
+        "loser": "Oguzhan Kocak",
         "score": "3-0",
         "participants": [
           "Nugzari Chikadze",
-          "Oguzhan Koçak"
+          "Oguzhan Kocak"
         ],
         "arm": "Right",
         "weight_category": "Light Heavyweight",
@@ -471,11 +471,11 @@
       },
       {
         "winner": "Artur Makarov",
-        "loser": "Ömer Kozakoğlu",
+        "loser": "Omer Kozakoglu",
         "score": "4-0",
         "participants": [
           "Artur Makarov",
-          "Ömer Kozakoğlu"
+          "Omer Kozakoglu"
         ],
         "arm": "Right",
         "weight_category": "Lightweight",
@@ -522,7 +522,7 @@
         "loser": "Ibragim Sagov",
         "score": "4-3",
         "participants": [
-          "Rino Mašić",
+          "Rino Masic",
           "Ibragim Sagov"
         ],
         "arm": "Right",
@@ -530,11 +530,11 @@
         "is_title": true
       },
       {
-        "winner": "Vitalii Laletin",
+        "winner": "Vitaly Laletin",
         "loser": "Georgii Dzeranov",
         "score": "3-0",
         "participants": [
-          "Vitalii Laletin",
+          "Vitaly Laletin",
           "Georgii Dzeranov"
         ],
         "arm": "Right",
@@ -610,11 +610,11 @@
     "matches": [
       {
         "winner": "Ryan Belanger",
-        "loser": "Raimonds Liepiņš",
+        "loser": "Raimonds Liepins",
         "score": "3-0",
         "participants": [
           "Ryan Belanger",
-          "Raimonds Liepiņš"
+          "Raimonds Liepins"
         ],
         "arm": "Right",
         "weight_category": "Middleweight",
@@ -682,11 +682,11 @@
       },
       {
         "winner": "Matt Mask",
-        "loser": "Lars Rorbakken",
+        "loser": "Lars Rorbakken",
         "score": "3-1",
         "participants": [
           "Matt Mask",
-          "Lars Rorbakken"
+          "Lars Rorbakken"
         ],
         "arm": "Right",
         "weight_category": "Heavyweight",
@@ -710,7 +710,7 @@
         "score": "3-0",
         "participants": [
           "Dave Chaffee",
-          "Frank Lampirelli"
+          "Frank Lamparelli"
         ],
         "arm": "Right",
         "weight_category": "Super Heavyweight",
@@ -988,11 +988,11 @@
         "is_title": true
       },
       {
-        "winner": "Vitalii Laletin",
+        "winner": "Vitaly Laletin",
         "loser": "Artyom Morozov",
         "score": "3-0",
         "participants": [
-          "Vitalii Laletin",
+          "Vitaly Laletin",
           "Artyom Morozov"
         ],
         "arm": "Right",
@@ -1044,22 +1044,22 @@
       },
       {
         "winner": "Ibragim Sagov",
-        "loser": "Sandris Šedis",
+        "loser": "Sandris Sedis",
         "score": "3-0",
         "participants": [
           "Ibragim Sagov",
-          "Sandris Šedis"
+          "Sandris Sedis"
         ],
         "arm": "Right",
         "weight_category": "Light Heavyweight",
         "is_title": false
       },
       {
-        "winner": "Fia Reisik",
+        "winner": "Fia Reisek",
         "loser": "Ekaterina Nikisheva",
         "score": "4-0",
         "participants": [
-          "Fia Reisik",
+          "Fia Reisek",
           "Ekaterina Nikisheva"
         ],
         "arm": "Left",
@@ -1068,11 +1068,11 @@
       },
       {
         "winner": "Artur Makarov",
-        "loser": "Mindaugus Tarasaitis",
+        "loser": "Mindaugas Tarasaitis",
         "score": "4-0",
         "participants": [
           "Artur Makarov",
-          "Mindaugus Tarasaitis"
+          "Mindaugas Tarasaitis"
         ],
         "arm": "Right",
         "weight_category": "Lightweight",
@@ -1092,11 +1092,11 @@
       },
       {
         "winner": "Leonidas Arkona",
-        "loser": "Alexsandr Beziazykov",
+        "loser": "Aleksandr Beziazykov",
         "score": "3-2",
         "participants": [
           "Leonidas Arkona",
-          "Alexsandr Beziazykov"
+          "Aleksandr Beziazykov"
         ],
         "arm": "Right",
         "weight_category": "Super Heavyweight",
@@ -1291,11 +1291,11 @@
       },
       {
         "winner": "Ivan Matyushenko",
-        "loser": "Rino Mašić",
+        "loser": "Rino Masic",
         "score": "4-1",
         "participants": [
           "Ivan Matyushenko",
-          "Rino Mašić"
+          "Rino Masic"
         ],
         "arm": "Left",
         "weight_category": "Heavyweight",
@@ -1532,11 +1532,11 @@
         "is_title": false
       },
       {
-        "winner": "Evgeny Prudnyk",
+        "winner": "Evgeny Prudnik",
         "loser": "David Dadikyan",
         "score": "3-2",
         "participants": [
-          "Evgeny Prudnyk",
+          "Evgeny Prudnik",
           "David Dadikyan"
         ],
         "arm": "Left",
@@ -1628,11 +1628,11 @@
         "is_title": false
       },
       {
-        "winner": "Vitalii Laletin",
+        "winner": "Vitaly Laletin",
         "loser": "Revaz Lutidze",
         "score": "3-0",
         "participants": [
-          "Vitalii Laletin",
+          "Vitaly Laletin",
           "Revaz Lutidze"
         ],
         "arm": "Right",
@@ -1672,11 +1672,11 @@
       },
       {
         "winner": "Carolina Pettersson",
-        "loser": "Elizabeth Rae Mocek",
+        "loser": "Elizabeth Mocek",
         "score": "3-0",
         "participants": [
           "Carolina Pettersson",
-          "Elizabeth Rae Mocek"
+          "Elizabeth Mocek"
         ],
         "arm": "Right",
         "weight_category": "Unknown",
@@ -1711,7 +1711,7 @@
         "loser": "Terence Opperman",
         "score": "3-0",
         "participants": [
-          "Rino Mašić",
+          "Rino Masic",
           "Terence Opperman"
         ],
         "arm": "Right",
@@ -1870,11 +1870,11 @@
         "is_title": false
       },
       {
-        "winner": "Vitalii Laletin",
+        "winner": "Vitaly Laletin",
         "loser": "Tobias Sporrong",
         "score": "3-0",
         "participants": [
-          "Vitalii Laletin",
+          "Vitaly Laletin",
           "Tobias Sporrong"
         ],
         "arm": "Left",
@@ -1950,11 +1950,11 @@
     "matches": [
       {
         "winner": "Doug Erlich",
-        "loser": "Raimonds Liepiņš",
+        "loser": "Raimonds Liepins",
         "score": "3-0",
         "participants": [
           "Doug Erlich",
-          "Raimonds Liepiņš"
+          "Raimonds Liepins"
         ],
         "arm": "Right",
         "weight_category": "Unknown",
@@ -1977,7 +1977,7 @@
         "loser": "Beket Aitbek",
         "score": "3-0",
         "participants": [
-          "Efe Kömek",
+          "Efe Komek",
           "Beket Aitbek"
         ],
         "arm": "Left",
@@ -2161,11 +2161,11 @@
       },
       {
         "winner": "Georgii Dzeranov",
-        "loser": "Sergey Kalinichenko",
+        "loser": "Serhii Kalinichenko",
         "score": "3-2",
         "participants": [
           "Georgii Dzeranov",
-          "Sergey Kalinichenko"
+          "Serhii Kalinichenko"
         ],
         "arm": "Right",
         "weight_category": "Unknown",
@@ -2339,7 +2339,7 @@
         "loser": "Ryan Bowen",
         "score": "3-0",
         "participants": [
-          "Raimonds Liepiņš",
+          "Raimonds Liepins",
           "Ryan Bowen"
         ],
         "arm": "Right",
@@ -2396,11 +2396,11 @@
       },
       {
         "winner": "Yerdaulet Sarybay",
-        "loser": "Yusuf Yıldızoğlu",
+        "loser": "Yusuf Yildizoglu",
         "score": "3-0",
         "participants": [
           "Yerdaulet Sarybay",
-          "Yusuf Yıldızoğlu"
+          "Yusuf Yildizoglu"
         ],
         "arm": "Right",
         "weight_category": "Unknown",
@@ -2547,11 +2547,11 @@
       },
       {
         "winner": "Marcio Barboza",
-        "loser": "Sahip Çağlar",
+        "loser": "Sahip Caglar",
         "score": "3-0",
         "participants": [
           "Marcio Barboza",
-          "Sahip Çağlar"
+          "Sahip Caglar"
         ],
         "arm": "Left",
         "weight_category": "Unknown",
@@ -2583,11 +2583,11 @@
       },
       {
         "winner": "Zurab Tavberidze",
-        "loser": "Efe Kömek",
+        "loser": "Efe Komek",
         "score": "3-0",
         "participants": [
           "Zurab Tavberidze",
-          "Efe Kömek"
+          "Efe Komek"
         ],
         "arm": "Left",
         "weight_category": "Unknown",
@@ -2710,11 +2710,11 @@
       },
       {
         "winner": "Angie Rose",
-        "loser": "Anna Grönlund",
+        "loser": "Anna Gronlund",
         "score": "3-1",
         "participants": [
           "Angie Rose",
-          "Anna Grönlund"
+          "Anna Gronlund"
         ],
         "arm": "Right",
         "weight_category": "Unknown",
@@ -2737,7 +2737,7 @@
         "loser": "Ron Bath",
         "score": "3-0",
         "participants": [
-          "Efe Kömek",
+          "Efe Komek",
           "Ron Bath"
         ],
         "arm": "Left",
@@ -2749,7 +2749,7 @@
         "loser": "Chance Shaw",
         "score": "3-0",
         "participants": [
-          "Sandris Šedis",
+          "Sandris Sedis",
           "Chance Shaw"
         ],
         "arm": "Right",
@@ -2782,11 +2782,11 @@
       },
       {
         "winner": "Oleg Cherkasov",
-        "loser": "Yusuf Yıldızoğlu",
+        "loser": "Yusuf Yildizoglu",
         "score": "3-1",
         "participants": [
           "Oleg Cherkasov",
-          "Yusuf Yıldızoğlu"
+          "Yusuf Yildizoglu"
         ],
         "arm": "Right",
         "weight_category": "Unknown",
@@ -2805,11 +2805,11 @@
         "is_title": false
       },
       {
-        "winner": "Aleksandr \"Schoolboy\" Beziazykov",
+        "winner": "Aleksandr Beziazykov",
         "loser": "Herman Stevens",
         "score": "3-1",
         "participants": [
-          "Aleksandr “Schoolboy” Beziazykov",
+          "Aleksandr Beziazykov",
           "Herman Stevens"
         ],
         "arm": "Right",
@@ -2912,7 +2912,7 @@
         "loser": "Herman Stevens",
         "score": "4-1",
         "participants": [
-          "Efe Kömek",
+          "Efe Komek",
           "Herman Stevens"
         ],
         "arm": "Right",
@@ -2921,11 +2921,11 @@
       },
       {
         "winner": "Sarah Backman",
-        "loser": "İrina Drieva",
+        "loser": "Irina Drieva",
         "score": "5-0",
         "participants": [
           "Sarah Backman",
-          "İrina Drieva"
+          "Irina Drieva"
         ],
         "arm": "Left",
         "weight_category": "Unknown",
@@ -2936,7 +2936,7 @@
         "loser": "Herman Stevens",
         "score": "5-0",
         "participants": [
-          "Efe Kömek",
+          "Efe Komek",
           "Herman Stevens"
         ],
         "arm": "Left",
@@ -2945,11 +2945,11 @@
       },
       {
         "winner": "Sarah Backman",
-        "loser": "İrina Drieva",
+        "loser": "Irina Drieva",
         "score": "4-1",
         "participants": [
           "Sarah Backman",
-          "İrina Drieva"
+          "Irina Drieva"
         ],
         "arm": "Right",
         "weight_category": "Unknown",

@@ -9,7 +9,7 @@
         "loser": "Mazahir Saidu",
         "score": "3-2",
         "participants": [
-          "Raimonds Liepiņš",
+          "Raimonds Liepins",
           "Mazahir Saidu"
         ],
         "arm": "Right",
@@ -17,11 +17,11 @@
         "is_title": false
       },
       {
-        "winner": "Aleksandr \"Schoolboy\" Beziazykov",
+        "winner": "Aleksandr Beziazykov",
         "loser": "Larry Wheels",
         "score": "5-0",
         "participants": [
-          "Aleksandr \"Schoolboy\" Beziazykov",
+          "Aleksandr Beziazykov",
           "Larry Wheels"
         ],
         "arm": "Right",
@@ -190,11 +190,11 @@
     "matches": [
       {
         "winner": "Khaled Jashell",
-        "loser": "Aleksandr \"Schoolboy\" Beziazykov",
+        "loser": "Aleksandr Beziazykov",
         "score": "4-1",
         "participants": [
           "Khaled Jashell",
-          "Aleksandr \"Schoolboy\" Beziazykov"
+          "Aleksandr Beziazykov"
         ],
         "arm": "Right",
         "weight_category": "Unknown",
@@ -288,11 +288,11 @@
     "matches": [
       {
         "winner": "Engin Terzi",
-        "loser": "Raimonds Liepiņš",
+        "loser": "Raimonds Liepins",
         "score": "5-1",
         "participants": [
           "Engin Terzi",
-          "Raimonds Liepiņš"
+          "Raimonds Liepins"
         ],
         "arm": "Right",
         "weight_category": "Unknown",
@@ -334,7 +334,7 @@
         "loser": "Maateiwarangi Heta-Morris",
         "score": "5-1",
         "participants": [
-          "Lars Rorbakken",
+          "Lars Rorbakken",
           "Maateiwarangi Heta-Morris"
         ],
         "arm": "Right",
@@ -401,7 +401,7 @@
         "loser": "Valera Chubotaru",
         "score": "4-3",
         "participants": [
-          "Lars Rorbakken",
+          "Lars Rorbakken",
           "Valera Chubotaru"
         ],
         "arm": "Right",
@@ -495,11 +495,11 @@
     "event_location": "Dubai, United Arab Emirates",
     "matches": [
       {
-        "winner": "Aleksandr \"Schoolboy\" Beziazykov",
+        "winner": "Aleksandr Beziazykov",
         "loser": "Ryan Bowen",
         "score": "6-0",
         "participants": [
-          "Aleksandr \"Schoolboy\" Beziazykov",
+          "Aleksandr Beziazykov",
           "Ryan Bowen"
         ],
         "arm": "Right",
@@ -532,11 +532,11 @@
       },
       {
         "winner": "Michael Todd",
-        "loser": "Lars Rørbakken",
+        "loser": "Lars Rorbakken",
         "score": "6-0",
         "participants": [
           "Michael Todd",
-          "Lars Rørbakken"
+          "Lars Rorbakken"
         ],
         "arm": "Right",
         "weight_category": "Unknown",
@@ -622,11 +622,11 @@
         "is_title": true
       },
       {
-        "winner": "Nugo Chikadze",
+        "winner": "Nugzari Chikadze",
         "loser": "Rob Vigeant Jr.",
         "score": "4-0",
         "participants": [
-          "Nugo Chikadze",
+          "Nugzari Chikadze",
           "Rob Vigeant Jr."
         ],
         "arm": "Right",
@@ -690,7 +690,7 @@
       },
       {
         "winner": "Lachlan Adair",
-        "loser": "Lars Rorbakken",
+        "loser": "Lars Rorbakken",
         "score": "4-1",
         "participants": [
           "Lachlan Adair",
@@ -726,11 +726,11 @@
       },
       {
         "winner": "Rustam Babayev",
-        "loser": "Sandris Šedis",
+        "loser": "Sandris Sedis",
         "score": "4-0",
         "participants": [
           "Rustam Babayev",
-          "Sandris Šedis"
+          "Sandris Sedis"
         ],
         "arm": "Right",
         "weight_category": "Unknown",
@@ -765,7 +765,7 @@
         "loser": "Gabriela Vasconcelos",
         "score": "4-2",
         "participants": [
-          "Barbora Bajčíová",
+          "Barbora Bajciova",
           "Gabriela Vasconcelos"
         ],
         "arm": "Right",

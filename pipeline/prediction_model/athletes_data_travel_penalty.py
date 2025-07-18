@@ -59,6 +59,12 @@ def get_travel_penalty(origin_country, event_country):
 def get_travel_type(c1, c2):
     return "domestic" if get_zone(c1) == get_zone(c2) else "transatlantic"
 
+def try_get_numeric(data, key):
+    try:
+        return int(data[key])
+    except (ValueError, TypeError):
+        return 0
+
 # Extract matches from events
 def extract_matches(events, event_type):
     rows = []
@@ -97,6 +103,7 @@ def extract_matches(events, event_type):
                 "f2_style": ", ".join(a2["pulling_style"]) if isinstance(a2.get("pulling_style"), list) else "Unknown",
                 "f1_weight": a1.get("weight_kg", "Unknown"),
                 "f2_weight": a2.get("weight_kg", "Unknown"),
+                "weight_advantage": (a1.get("weight_kg") - a2.get("weight_kg")) if isinstance(a1.get("weight_kg"), (int, float)) and isinstance(a2.get("weight_kg"), (int, float)) else None,
                 "f1_height": a1.get("height_cm", None),
                 "f2_height": a2.get("height_cm", None),
                 "height_advantage": (
