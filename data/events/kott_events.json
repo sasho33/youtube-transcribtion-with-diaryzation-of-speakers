@@ -26,7 +26,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Devon Larratt",
@@ -57,7 +57,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Brandon Allen",
@@ -69,7 +69,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Devon Larratt",
@@ -100,7 +100,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Gabriela Vasconcelos",
@@ -124,7 +124,7 @@
         ],
         "arm": "Left",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Dave Chaffee",
@@ -136,7 +136,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       }
     ]
   },
@@ -155,7 +155,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Alex Kurdecha",
@@ -198,7 +198,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Irakli Zirakashvili",

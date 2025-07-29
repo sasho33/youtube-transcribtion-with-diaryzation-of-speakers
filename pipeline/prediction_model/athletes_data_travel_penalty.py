@@ -4,6 +4,7 @@ import sys
 import pandas as pd
 from collections import defaultdict
 from fuzzywuzzy import process
+from datetime import datetime
 
 # Setup project path and import config
 sys.path.append(str(Path(__file__).resolve().parents[2]))
@@ -12,7 +13,8 @@ from pipeline.config import (
     KOTT_EVENTS_FILE,
     TRAVEL_EFFECT_FILE,
     UNIQUE_ATHLETES_WITH_DATA_FILE,
-    UPDATED_TRAINING_FEATURES_WITH_TRAVEL_STATS
+    UPDATED_TRAINING_FEATURES_WITH_TRAVEL_STATS,
+    VALUEABLE_MATCHES_FILE
 )
 
 # Normalized American countries (Zone A)
@@ -35,6 +37,54 @@ def normalize_country(name):
 east_west_events = json.load(open(EVW_EVENTS_FILE, encoding="utf-8"))
 kott_events = json.load(open(KOTT_EVENTS_FILE, encoding="utf-8"))
 athlete_data = json.load(open(UNIQUE_ATHLETES_WITH_DATA_FILE, encoding="utf-8"))
+with open(VALUEABLE_MATCHES_FILE, encoding="utf-8") as f:
+    valuable_data = json.load(f)
+
+def make_val_key(entry):
+    match = entry["match"]
+    # Ensure the participant order matches your CSV: fighter_1, fighter_2
+    p1, p2 = match["participants"]
+    return (
+        match["event"],
+        match["date"],
+        match["arm"],
+        p1,
+        p2
+    )
+
+# Build the lookup dictionary
+valuable_lookup = {make_val_key(entry): entry["analysis"] for entry in valuable_data}
+
+def get_age(athlete, event_date):
+    age = athlete.get("age")
+    if age:
+        return age
+    dob = athlete.get("date_of_birth")
+    if not dob:
+        return ""
+    # Try all formats from most to least precise
+    for fmt in ("%Y-%m-%d", "%Y/%m/%d", "%Y-%m", "%Y"):
+        try:
+            dob_date = datetime.strptime(dob, fmt)
+            # If only year is provided, use July 1 as birthday for estimation
+            if fmt == "%Y":
+                dob_date = dob_date.replace(month=7, day=1)
+            elif fmt == "%Y-%m":
+                dob_date = dob_date.replace(day=15)  # Middle of month
+            break
+        except ValueError:
+            continue
+    else:
+        # None matched
+        return ""
+    try:
+        event_dt = datetime.strptime(event_date, "%Y-%m-%d")
+    except Exception:
+        return ""
+    # Calculate age
+    age = event_dt.year - dob_date.year - ((event_dt.month, event_dt.day) < (dob_date.month, dob_date.day))
+    return age
+
 
 # Fuzzy matching for athlete names
 athlete_names = list(athlete_data.keys())
@@ -99,8 +149,12 @@ def extract_matches(events, event_type):
                 "fighter_1": f1,
                 "fighter_2": f2,
                 "winner": winner,
-                "f1_style": ", ".join(a1["pulling_style"]) if isinstance(a1.get("pulling_style"), list) else "Unknown",
-                "f2_style": ", ".join(a2["pulling_style"]) if isinstance(a2.get("pulling_style"), list) else "Unknown",
+                "f1_age": get_age(a1, date),
+                "f2_age": get_age(a2, date),
+                "f1_style_dominant": a1["pulling_style"][0] if a1.get("pulling_style") and len(a1["pulling_style"]) > 0 else "Unknown",
+                "f1_style_additional": a1["pulling_style"][1] if a1.get("pulling_style") and len(a1["pulling_style"]) > 1 else "",
+                "f2_style_dominant": a2["pulling_style"][0] if a2.get("pulling_style") and len(a2["pulling_style"]) > 0 else "Unknown",
+                "f2_style_additional": a2["pulling_style"][1] if a2.get("pulling_style") and len(a2["pulling_style"]) > 1 else "",
                 "f1_weight": a1.get("weight_kg", "Unknown"),
                 "f2_weight": a2.get("weight_kg", "Unknown"),
                 "weight_advantage": (a1.get("weight_kg") - a2.get("weight_kg")) if isinstance(a1.get("weight_kg"), (int, float)) and isinstance(a2.get("weight_kg"), (int, float)) else None,
@@ -169,5 +223,31 @@ df["f1_transatlantic_win_rate"] = df["fighter_1"].apply(lambda x: get_stat_safe(
 df["f2_domestic_win_rate"] = df["fighter_2"].apply(lambda x: get_stat_safe(x, "domestic_win_rate"))
 df["f2_transatlantic_win_rate"] = df["fighter_2"].apply(lambda x: get_stat_safe(x, "transatlantic_win_rate"))
 
+def get_valuable_features(row):
+    key = (
+        row["event"],
+        row["date"],
+        row.get("arm", "Right"),  # Or "Left" if that's more common for your data, or handle as needed
+        row["fighter_1"],
+        row["fighter_2"],
+    )
+    analysis = valuable_lookup.get(key, {})
+    # Safely extract all numeric features, defaulting to 0 if missing
+    return pd.Series({
+        "num_shared_opponents_value": analysis.get("num_shared_opponents_value", 0),
+        "mma_math_positive": analysis.get("mma_math_positive", 0),
+        "mma_math_negative": analysis.get("mma_math_negative", 0),
+        "has_head_to_head": analysis.get("has_head_to_head", 0),
+        "head_to_head_result": analysis.get("head_to_head_result", 0),
+        "num_second_order_valuable": analysis.get("num_second_order_valuable", 0),
+        "second_order_mma_math_positive": analysis.get("second_order_mma_math_positive", 0),
+        "second_order_mma_math_negative": analysis.get("second_order_mma_math_negative", 0),
+    })
+valuable_features = df.apply(get_valuable_features, axis=1)
+df = pd.concat([df, valuable_features], axis=1)
+
 df.to_csv(UPDATED_TRAINING_FEATURES_WITH_TRAVEL_STATS, index=False)
+
+
+
 print(f"[✅] Recreated dataset with travel stats saved to: {UPDATED_TRAINING_FEATURES_WITH_TRAVEL_STATS}")

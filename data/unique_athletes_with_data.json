@@ -181,7 +181,7 @@
     "grip_strength_kg": 85,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Side Pressure",
+      "Press",
       "Hook"
     ],
     "titles": [
@@ -236,7 +236,7 @@
     "occupation": null,
     "wrist_cm": null
   },
-  "Aleksandr \"Schoolboy\" Beziazykov": {
+  "Aleksandr Beziazykov": {
     "name": "Aleksandr Beziazykov",
     "country": "Russia",
     "nickname": "Schoolboy",
@@ -536,7 +536,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
-      "Explosive Hook"
+      "Hook"
     ],
     "titles": [
       "2021 WAF World Championship - 85kg Right Gold",
@@ -715,8 +715,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Toproll",
-      "Side Pressure"
+      "Toproll"
     ],
     "titles": [
       "World Armwrestling Champion (95kg RH - 2019, 2021, 2022, 2023)",
@@ -787,7 +786,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Side Pressure"
+      "Press"
     ],
     "titles": [
       "World Armwrestling Champion (WAF) 2016 (90 kg)",
@@ -916,7 +915,7 @@
     "wrist_cm": 17.0
   },
   "Anna Gronlund": {
-    "name": "Anna Grönlund",
+    "name": "Anna Gronlund",
     "country": "Sweden",
     "age": 49,
     "date_of_birth": null,
@@ -998,7 +997,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
-      "Defensive Hook"
+      "Hook"
     ],
     "titles": [
       "2021 European Armwrestling Champion (80kg Right)",
@@ -1248,7 +1247,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Hook",
+      "Toproll",
       "Press"
     ],
     "titles": [
@@ -1343,8 +1342,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Hook"
+      "Hook", "Toproll"
     ],
     "titles": [
       "East vs West 6 (2022) 95kg Champion"
@@ -1428,7 +1426,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
-      "High Hook"
+      "Hook"
     ],
     "titles": [
       "WAF World Champion (95kg, 2021)",
@@ -1715,7 +1713,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
-      "Speed Hook"
+      "Hook"
     ],
     "titles": [
       "2021 World Armwrestling Championship (WAF) - Gold (65kg)",
@@ -1862,8 +1860,7 @@
     "dominant_arm": "Both",
     "pulling_style": [
       "Hook",
-      "Press",
-      "Side Pressure"
+      "Press"
     ],
     "titles": [
       "2018 WAF World Champion (Left Hand, 100kg)",
@@ -1936,8 +1933,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Power Press",
-      "Low-Hand Topping"
+      "Side"
     ],
     "titles": [
       "WAF World Champion",
@@ -2248,8 +2244,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "High Hook"
+      "Hook",
+      "Press"
     ],
     "titles": [
       "WAF World Champion (80kg Right, 2019, 2022, 2023)",
@@ -2334,7 +2330,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
-      "Side Pressure"
+      "Side"
     ],
     "titles": [
       "2021 European Armwrestling Champion (100kg RH)",
@@ -2650,8 +2646,8 @@
     "grip_strength_kg": 128,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Power Press",
-      "Raw Strength"
+      "Toproll",
+      "Side"
     ],
     "titles": [],
     "recent_opponents": [
@@ -2873,7 +2869,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Posting Toproll"
+      "Toproll"
     ],
     "titles": [
       "2021 Texas State Armwrestling Champion",
@@ -2966,7 +2962,7 @@
   "Cobra Rhodes": {
     "name": "Andrew Cobra Rhodes",
     "country": "United States Of America",
-    "nickname": null,
+    "nickname": "Cobra",
     "age": 60,
     "date_of_birth": null,
     "professional_expirience_years": null,
@@ -2980,7 +2976,9 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": null,
-    "pulling_style": [],
+    "pulling_style": [
+      "Toproll"
+    ],
     "matches": {
       "Haydar Gildil": {
         "arm": "Right",
@@ -3170,8 +3168,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Inside Game",
-      "Low-Hand"
+      "Side"
     ],
     "titles": [
       "WAF World Champion (2018, 110+ kg)",
@@ -3291,7 +3288,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Hook",
+      "Side",
       "Press"
     ],
     "titles": [
@@ -3381,8 +3378,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Left",
     "pulling_style": [
-      "Toproll",
-      "Speed-focused"
+      "Toproll"
     ],
     "titles": [
       "2023 Canadian National Armwrestling Champion (70kg Left)",
@@ -3447,8 +3443,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Hook"
+      "Hook",
+      "Toproll"
     ],
     "titles": [
       "2021 WAF World Champion (Left 90kg)",
@@ -3638,9 +3634,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Press",
-      "Hook",
-      "Side Pressure"
+      "Side",
+      "Press"
     ],
     "titles": [
       "WAL Heavyweight Champion (2017, 2018, 2019)",
@@ -3766,8 +3761,7 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": "Right",
-    "pulling_style": [
-      "Toproll",
+    "pulling_style": [      
       "Hook"
     ],
     "titles": [
@@ -3963,9 +3957,9 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
+      "Press",
       "Hook"
-    ],
+        ],
     "titles": [
       "2021 World Armwrestling Champion (95kg, Right)",
       "2023 World Armwrestling Champion (95kg, Right)",
@@ -4091,9 +4085,8 @@
     "grip_strength_kg": 115,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Hook",
-      "Side Pressure",
-      "Press"
+      "King's Move",
+      "Hook"
     ],
     "matches": {
       "Devon Larratt": {
@@ -4276,7 +4269,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
-      "Kings Move"
+      "King's Move"
     ],
     "matches": {
       "Alex Kurdecha": {
@@ -4433,8 +4426,9 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Hook"
+      "Hook",
+      "Toproll"
+      
     ],
     "matches": {
       "Carolina Pettersson": {
@@ -4516,8 +4510,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Press",
-      "Inside Game"
+      "Press"
     ],
     "matches": {
       "Hunter Noffz": {
@@ -4597,8 +4590,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Explosive Starter"
+      "Toproll"
     ],
     "titles": [
       "2023 USA National Armwrestling Champion (105kg right hand)"
@@ -4662,8 +4654,8 @@
     "grip_strength_kg": 110,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Power Hook",
-      "Side Pressure"
+      "Hook",
+      "Side"
     ],
     "matches": {
       "Brian Shaw": {
@@ -5198,7 +5190,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
-      "High Hook"
+      "Press"
     ],
     "matches": {
       "Raimonds Liepiņš": {
@@ -5266,7 +5258,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Low-Hand Toproll"
+      "Toproll"
     ],
     "titles": [
       "2018 World Armwrestling Champion (105kg)",
@@ -5340,9 +5332,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Inside Hook",
-      "Side Pressure",
-      "Power Strap"
+      "Toproll",
+      "Press"
     ],
     "titles": [
       "2022 WAF World Champion (110+ kg)",
@@ -5563,8 +5554,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Hook"
+      "Hook",
+      "Toproll"
     ],
     "titles": [
       "Zloty Tur 95kg Champion (2018, 2019)",
@@ -5686,8 +5677,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Hook"
+      "Hook",
+      "Toproll"
     ],
     "matches": {
       "Georgii Dzeranov": {
@@ -5984,8 +5975,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Hook"
+      "Hook",
+      "Toproll"
     ],
     "titles": [
       "WAF World Champion (2015, 2016, 2017, 2018, 2019, 2021)",
@@ -6071,8 +6062,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Press",
-      "Toproll"
+      "Press"
     ],
     "titles": [
       "World Armwrestling Champion (2019, 2021)",
@@ -6189,7 +6179,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
-      "Hook"
+      "Side"
     ],
     "titles": [
       "2021 World Armwrestling Champion (90kg)",
@@ -6302,8 +6292,8 @@
     "grip_strength_kg": 85,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Hook"
+      "Hook",
+      "Side"
     ],
     "titles": [
       "2022 Russian National Armwrestling Champion (95kg)",
@@ -6424,7 +6414,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
-      "Hook"
+      "Side"
     ],
     "titles": [
       "2021 World Armwrestling Champion (U23 95kg Right)",
@@ -6749,7 +6739,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Side Pressure"
+      "Side"
     ],
     "titles": [
       "2021 California State Armwrestling Champion (231 lbs)"
@@ -6830,8 +6820,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Side Pressure",
-      "Hook"
+      "Press",
+      "Side"
     ],
     "matches": {
       "Rino Mašić": {
@@ -6923,7 +6913,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Hook",
+      "Toproll",
       "Press"
     ],
     "titles": [
@@ -7214,9 +7204,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Hook",
-      "Press"
+      "Hook"
     ],
     "titles": [
       "European Armwrestling Champion (Junior)",
@@ -7400,7 +7388,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
-      "Hook"
+      "Side"
     ],
     "titles": [
       "10x WAF World Champion (90kg Right Hand, 2009-2017, 2019)",
@@ -7476,7 +7464,6 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Hook",
       "Press"
     ],
     "titles": [
@@ -7666,9 +7653,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Top Roll",
       "Hook",
-      "Versatile"
+      "Toproll"
     ],
     "matches": {
       "Yoshinobu Kanai": {
@@ -7817,7 +7803,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Side Pressure"
+      "Side"
     ],
     "titles": [
       "Canadian National Armwrestling Champion (Super Heavyweight Right)",
@@ -8123,7 +8109,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "King's Move",
-      "Defensive"
+      "Press"
     ],
     "matches": {
       "Janis Amolins": {
@@ -8289,8 +8275,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Hook",
-      "Toproll"
+      "Press"
     ],
     "matches": {
       "Michael Todd": {
@@ -8465,8 +8450,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Explosive Toproll",
-      "Hook"
+      "Hook",
+      "Toproll"
     ],
     "titles": [
       "World Armwrestling Champion (WAF)",
@@ -8634,8 +8619,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Kings Move",
-      "Defensive Toproll"
+      "King's Move",
+      "Toproll"
     ],
     "titles": [
       "WAL 506 Champion"
@@ -8716,7 +8701,6 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Explosive Toproll",
       "Hook"
     ],
     "titles": [
@@ -8789,7 +8773,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Toproll"
+      "Side"
     ],
     "matches": {
       "Todd Hutchings": {
@@ -8898,7 +8882,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
-      "Defensive"
+      "Hook"
     ],
     "titles": [
       "WAF World Champion (90kg) - 2017",
@@ -9068,7 +9052,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Pressure"
+      "Press"
     ],
     "titles": [
       "2023 Australian National Armwrestling Champion (Super Heavyweight Right)",
@@ -9174,8 +9158,7 @@
     "grip_strength_kg": 120,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Side Pressure",
-      "Toproll"
+      "Hook"
     ],
     "titles": [
       "2021 WAL Super Heavyweight Championship"
@@ -9275,8 +9258,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Side Pressure"
+      "Press",
+      "Side"
     ],
     "titles": [
       "European Armwrestling Champion (2019, 2021)",
@@ -9370,7 +9353,7 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": null,
-    "pulling_style": [],
+    "pulling_style": ["Toproll", "Hook"],
     "matches": {
       "John Brzenk": {
         "arm": "Right",
@@ -9441,7 +9424,7 @@
     "grip_strength_kg": 120,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Top Roll",
+      "Toproll",
       "Press",
       "Hook"
     ],
@@ -9945,9 +9928,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Left",
     "pulling_style": [
-      "Toproll",
-      "Speed-focused"
-    ],
+      "Toproll"    ],
     "titles": [
       "2023 IFA World Champion (60kg LH)",
       "East vs West 12 Champion (60kg LH)"
@@ -10083,7 +10064,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "King's Move",
-      "Low-Hand Toproll"
+      "Side"
     ],
     "titles": [
       "WAL Heavyweight Champion (2017, 2018)",
@@ -10190,7 +10171,7 @@
         "result": "Lost",
         "score": "5-0"
       },
-      "Lars Rørbakken": {
+      "Lars Rorbakken": {
         "arm": "Right",
         "date": "June 1, 2024",
         "result": "Win",
@@ -10222,8 +10203,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Hook",
-      "Side Pressure"
+      "Toproll",
+      "Side"
     ],
     "titles": [
       "2018 WAF World Champion (95kg RH)",
@@ -10335,7 +10316,6 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "High Hook",
       "Hook"
     ],
     "titles": [
@@ -10480,8 +10460,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Left",
     "pulling_style": [
-      "Toproll",
-      "Hook"
+      "Side",
+      "Toproll"
     ],
     "matches": {
       "Oguzhan Koçak": {
@@ -10571,8 +10551,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Left",
     "pulling_style": [
-      "Toproll",
-      "Hook"
+      "Side",
+      "Toproll"
     ],
     "matches": {
       "Oguzhan Koçak": {
@@ -10743,8 +10723,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Hook"
+      "Hook",
+      "Toproll"
     ],
     "titles": [
       "2021 WAF World Junior Champion (100kg, Right)",
@@ -10814,8 +10794,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Hook"
+      "Hook",
+      "Toproll"
     ],
     "matches": {
       "Mindaugas Tarasaitis": {
@@ -10882,7 +10862,7 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": null,
-    "pulling_style": [],
+    "pulling_style": ["Side", "Toproll"],
     "titles": [],
     "recent_opponents": [],
     "notable_victories": [],
@@ -11153,6 +11133,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
+      "Press",
       "Speed-focused"
     ],
     "titles": [
@@ -11220,9 +11201,9 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Tricep Press",
+      "Side",
       "Hook",
-      "Pressure Style"
+      "Press"
     ],
     "titles": [
       "WAF World Champion (75kg, 2004)",
@@ -11351,7 +11332,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Side Pressure"
+      "Side"
     ],
     "titles": [
       "Canadian National Armwrestling Champion (multiple times)"
@@ -11417,7 +11398,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Left",
     "pulling_style": [
-      "Toproll"
+      "Toproll",
+      "Hook"
     ],
     "titles": [
       "WAF World Champion (2019, 2021)",
@@ -11502,7 +11484,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
+      "Hook",
+      "Side",
       "Speed-focused"
     ],
     "titles": [
@@ -11583,7 +11566,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Power Hook",
+      "Hook",
       "Press"
     ],
     "titles": [
@@ -11837,7 +11820,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
-      "High Hook"
+      "Hook"
     ],
     "titles": [
       "2019 WAF World Champion (110kg, Right)",
@@ -12015,8 +11998,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Explosive Toproll",
-      "Hand Control"
+      "Press",
+      "Hook"
     ],
     "titles": [
       "2023 East vs West 12 -95kg Champion",
@@ -12494,7 +12477,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Speed toproll",
+      "Toproll",
+      "Side",
       "Wrist control"
     ],
     "titles": [
@@ -12564,8 +12548,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Side Pressure"
+      "Hook",
+      "Side"
     ],
     "titles": [
       "World Armwrestling Champion (WAF)",
@@ -12635,8 +12619,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Hook",
-      "Toproll"
+      "Hook"
     ],
     "titles": [
       "2017 World Armwrestling Champion (110kg, Right Hand)",
@@ -13151,8 +13134,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Speed Dominance"
+      "Hook",
+      "Toproll"
     ],
     "titles": [
       "9x World Armwrestling Champion",
@@ -13245,7 +13228,10 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": null,
-    "pulling_style": null,
+    "pulling_style": [
+      "Toproll",
+      "Hook"
+    ],
     "matches": {
       "Nisa Camanan": {
         "arm": "Right",
@@ -13298,8 +13284,7 @@
     "grip_strength_kg": 85,
     "dominant_arm": "Left",
     "pulling_style": [
-      "Hook",
-      "Toproll"
+      "Hook"
     ],
     "titles": [
       "2018 European Armwrestling Champion (95kg Left)",
@@ -13394,7 +13379,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
-      "Hook"
+      "Press"
     ],
     "titles": [
       "East vs West 105kg Champion (2022)",
@@ -13581,7 +13566,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Side Pressure"
+      "Side"
     ],
     "titles": [
       "Kazakhstan National Armwrestling Champion"
@@ -13790,9 +13775,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Hook",
-      "Press",
-      "Toproll"
+      "Side",
+      "Hook"
     ],
     "titles": [
       "WAF World Champion (2021, 2022, 2023)",
@@ -13901,8 +13885,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Hook",
-      "Inside Game"
+      "Side",
+      "Press"
     ],
     "titles": [
       "WAF World Champion (95kg, 2011)",
@@ -14041,7 +14025,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll"
+      "Hook"
     ],
     "titles": [
       "2022 UK National Armwrestling Champion (Right Hand, 80kg)",
@@ -14110,7 +14094,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Low Hand Toproll"
+      "Toproll"
     ],
     "titles": [
       "2021 Canadian National Armwrestling Champion (95kg)",
@@ -14262,8 +14246,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Power Hook",
-      "Inside Game"
+      "Hook",
+      "Side"
     ],
     "titles": [
       "2016 WAL Super Heavyweight Champion"
@@ -14332,7 +14316,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll",
-      "Hook"
+      "Side"
     ],
     "titles": [
       "WAF World Champion",
@@ -14424,7 +14408,7 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": null,
-    "pulling_style": [],
+    "pulling_style": ["Side", "Hook"],
     "titles": [
       "2023 European Armwrestling Champion (85kg Left Hand)"
     ],
@@ -14557,7 +14541,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Side Pressure"
+      "Side"
     ],
     "titles": [
       "World Armwrestling Champion (2021, 100kg right)",
@@ -14691,8 +14675,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "High Hook"
+      "Toproll"
     ],
     "titles": [
       "A1 Russian Open Champion (2019, 2020)",
@@ -14853,7 +14836,6 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
       "Hook"
     ],
     "matches": {
@@ -14929,8 +14911,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Hook",
-      "Toproll"
+      "Hook"
     ],
     "titles": [
       "2023 A1 Armenian Open 95kg Champion (Right Hand)",
@@ -15003,8 +14984,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Hook",
-      "Posting"
+      "Hook"
     ],
     "titles": [
       "2021 World Armwrestling Champion (95kg Masters 1 Right)",
@@ -15076,7 +15056,7 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Hook",
-      "Power Pressure"
+      "Press"
     ],
     "titles": [
       "WAF World Champion (2015, 95kg)",
@@ -15164,14 +15144,17 @@
     "date_of_birth": null,
     "professional_expirience_years": null,
     "height_cm": null,
-    "weight_kg": null,
+    "weight_kg": 140,
     "bicep_cm": null,
     "forearm_cm": null,
     "hand_size_cm": null,
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": null,
-    "pulling_style": [],
+    "pulling_style": [
+      "King's Move",
+      "Hook"
+    ],
     "titles": [],
     "recent_opponents": [],
     "notable_victories": [],
@@ -15296,8 +15279,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Hook"
+      "Hook",
+      "Side"
     ],
     "titles": [
       "World Armwrestling Champion (90kg)",
@@ -15375,8 +15358,8 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Toproll",
-      "Endurance-based"
+      "Hook",
+      "King's Move"
     ],
     "titles": [
       "Asian Armwrestling Champion (75kg)",
@@ -15451,7 +15434,7 @@
     "grip_strength_kg": 82,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Explosive Toproll",
+      "Toproll",
       "Hook"
     ],
     "matches": {
@@ -15610,10 +15593,7 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": "Right",
-    "pulling_style": [
-      "Toproll",
-      "Hook"
-    ],
+    "pulling_style": ["Hook", "Side"    ],
     "titles": [
       "2023 European Armwrestling Champion (105kg Right)",
       "Georgian National Champion (Multiple years)",
