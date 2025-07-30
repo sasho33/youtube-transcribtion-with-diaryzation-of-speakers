@@ -14,8 +14,28 @@ from pipeline.config import (
     TRAVEL_EFFECT_FILE,
     UNIQUE_ATHLETES_WITH_DATA_FILE,
     UPDATED_TRAINING_FEATURES_WITH_TRAVEL_STATS,
-    VALUEABLE_MATCHES_FILE
+    VALUEABLE_MATCHES_FILE,
+    STYLES_COMBO_RATES_FILE
 )
+
+# Load the combo rates JSON in modern explicit dict style
+with open(STYLES_COMBO_RATES_FILE, encoding="utf-8") as f:
+    combo_json = json.load(f)
+
+style_vs_style_dict = {}
+style_combo_success_dict = {}
+
+# The new structure: keys "style_vs_style" and "style_combos" mapping to lists of dicts
+for entry in combo_json["style_vs_style"]:
+    # For each style-vs-style record, add both (A, B) and (B, A) with explicit fields
+    k1 = (entry["style_1"], entry["style_2"])
+    k2 = (entry["style_2"], entry["style_1"])
+    style_vs_style_dict[k1] = entry.get("style_1_success_pct")
+    style_vs_style_dict[k2] = entry.get("style_2_success_pct")
+
+for entry in combo_json["style_combos"]:
+    style_combo_success_dict[entry["style_combo"]] = entry.get("success_pct")
+
 
 # Normalized American countries (Zone A)
 ZONE_A_COUNTRIES = {
@@ -114,6 +134,21 @@ def try_get_numeric(data, key):
         return int(data[key])
     except (ValueError, TypeError):
         return 0
+# get styles success rates
+
+def get_combo_success_pct(style1, style2):
+    key = " + ".join(sorted([style1 or "Unknown", style2 or "Unknown"]))
+    return style_combo_success_dict.get(key, None)
+
+def get_athlete1_style_advantage_rate(style1, style2):
+    # This is the specific rate of athlete1 dominant vs athlete2 dominant (directional)
+    return style_vs_style_dict.get((style1 or "Unknown", style2 or "Unknown"), None)
+
+
+
+# get gender of an athlete
+def get_gender(athlete):
+    return athlete.get("gender", "")
 
 # Extract matches from events
 def extract_matches(events, event_type):
@@ -171,7 +206,21 @@ def extract_matches(events, event_type):
                 "f2_travel_penalty": travels_2,
                 "domestic_advantage": travels_2 - travels_1,
                 "travel_type": travel_type,
-                "label": 1 if f1 == winner else 0
+                "label": 1 if f1 == winner else 0,
+                "f1_style_combo_success_percent": get_combo_success_pct(
+                    a1["pulling_style"][0] if a1.get("pulling_style") else "Unknown",
+                    a2["pulling_style"][0] if a2.get("pulling_style") else "Unknown"
+                ),
+                "f2_style_combo_success_percent": get_combo_success_pct(
+                    a2["pulling_style"][0] if a2.get("pulling_style") else "Unknown",
+                    a1["pulling_style"][0] if a1.get("pulling_style") else "Unknown"
+                ),
+                "athlete1_style_advantage_rate": get_athlete1_style_advantage_rate(
+                    a1["pulling_style"][0] if a1.get("pulling_style") else "Unknown",
+                    a2["pulling_style"][0] if a2.get("pulling_style") else "Unknown"
+                ),
+                "f1_gender": get_gender(a1),
+                "f2_gender": get_gender(a2)
             }
 
 

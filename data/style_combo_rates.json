@@ -1,0 +1,213 @@
+{
+  "style_vs_style": [
+    {
+      "style_1": "Hook",
+      "style_2": "Toproll",
+      "style_1_wins": 40,
+      "style_2_wins": 59,
+      "total_matches": 99,
+      "style_1_success_pct": 40.4,
+      "style_2_success_pct": 59.6
+    },
+    {
+      "style_1": "Hook",
+      "style_2": "Side",
+      "style_1_wins": 9,
+      "style_2_wins": 19,
+      "total_matches": 28,
+      "style_1_success_pct": 32.1,
+      "style_2_success_pct": 67.9
+    },
+    {
+      "style_1": "Toproll",
+      "style_2": "Side",
+      "style_1_wins": 12,
+      "style_2_wins": 9,
+      "total_matches": 21,
+      "style_1_success_pct": 57.1,
+      "style_2_success_pct": 42.9
+    },
+    {
+      "style_1": "Hook",
+      "style_2": "Press",
+      "style_1_wins": 3,
+      "style_2_wins": 15,
+      "total_matches": 18,
+      "style_1_success_pct": 16.7,
+      "style_2_success_pct": 83.3
+    },
+    {
+      "style_1": "Toproll",
+      "style_2": "King's Move",
+      "style_1_wins": 14,
+      "style_2_wins": 0,
+      "total_matches": 14,
+      "style_1_success_pct": 100.0,
+      "style_2_success_pct": 0.0
+    },
+    {
+      "style_1": "Toproll",
+      "style_2": "Press",
+      "style_1_wins": 5,
+      "style_2_wins": 6,
+      "total_matches": 11,
+      "style_1_success_pct": 45.5,
+      "style_2_success_pct": 54.5
+    },
+    {
+      "style_1": "Hook",
+      "style_2": "King's Move",
+      "style_1_wins": 6,
+      "style_2_wins": 4,
+      "total_matches": 10,
+      "style_1_success_pct": 60.0,
+      "style_2_success_pct": 40.0
+    },
+    {
+      "style_1": "Press",
+      "style_2": "Side",
+      "style_1_wins": 3,
+      "style_2_wins": 3,
+      "total_matches": 6,
+      "style_1_success_pct": 50.0,
+      "style_2_success_pct": 50.0
+    },
+    {
+      "style_1": "Press",
+      "style_2": "King's Move",
+      "style_1_wins": 0,
+      "style_2_wins": 2,
+      "total_matches": 2,
+      "style_1_success_pct": 0.0,
+      "style_2_success_pct": 100.0
+    }
+  ],
+  "style_combos": [
+    {
+      "style_combo": "Toproll + Hook",
+      "wins": 79,
+      "matches": 148,
+      "success_pct": 53.4
+    },
+    {
+      "style_combo": "Hook + Toproll",
+      "wins": 31,
+      "matches": 78,
+      "success_pct": 39.7
+    },
+    {
+      "style_combo": "Toproll + Press",
+      "wins": 31,
+      "matches": 53,
+      "success_pct": 58.5
+    },
+    {
+      "style_combo": "Hook + Side",
+      "wins": 23,
+      "matches": 52,
+      "success_pct": 44.2
+    },
+    {
+      "style_combo": "Hook + Press",
+      "wins": 16,
+      "matches": 43,
+      "success_pct": 37.2
+    },
+    {
+      "style_combo": "Hook",
+      "wins": 18,
+      "matches": 42,
+      "success_pct": 42.9
+    },
+    {
+      "style_combo": "Toproll + Side",
+      "wins": 16,
+      "matches": 30,
+      "success_pct": 53.3
+    },
+    {
+      "style_combo": "Toproll",
+      "wins": 14,
+      "matches": 27,
+      "success_pct": 51.9
+    },
+    {
+      "style_combo": "Side + Press",
+      "wins": 14,
+      "matches": 24,
+      "success_pct": 58.3
+    },
+    {
+      "style_combo": "Side + Hook",
+      "wins": 9,
+      "matches": 19,
+      "success_pct": 47.4
+    },
+    {
+      "style_combo": "Press + Hook",
+      "wins": 14,
+      "matches": 17,
+      "success_pct": 82.4
+    },
+    {
+      "style_combo": "Toproll + King's Move",
+      "wins": 12,
+      "matches": 15,
+      "success_pct": 80.0
+    },
+    {
+      "style_combo": "Side + Toproll",
+      "wins": 9,
+      "matches": 13,
+      "success_pct": 69.2
+    },
+    {
+      "style_combo": "Press",
+      "wins": 6,
+      "matches": 12,
+      "success_pct": 50.0
+    },
+    {
+      "style_combo": "King's Move + Side",
+      "wins": 5,
+      "matches": 11,
+      "success_pct": 45.5
+    },
+    {
+      "style_combo": "Press + Side",
+      "wins": 5,
+      "matches": 10,
+      "success_pct": 50.0
+    },
+    {
+      "style_combo": "King's Move + Toproll",
+      "wins": 1,
+      "matches": 7,
+      "success_pct": 14.3
+    },
+    {
+      "style_combo": "King's Move + Hook",
+      "wins": 1,
+      "matches": 6,
+      "success_pct": 16.7
+    },
+    {
+      "style_combo": "King's Move + Press",
+      "wins": 0,
+      "matches": 3,
+      "success_pct": 0.0
+    },
+    {
+      "style_combo": "Hook + King's Move",
+      "wins": 1,
+      "matches": 2,
+      "success_pct": 50.0
+    },
+    {
+      "style_combo": "Toproll + Pronation",
+      "wins": 0,
+      "matches": 1,
+      "success_pct": 0.0
+    }
+  ]
+}

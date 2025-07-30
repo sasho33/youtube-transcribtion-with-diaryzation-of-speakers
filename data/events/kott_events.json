@@ -210,7 +210,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Ryan Bowen",
@@ -222,7 +222,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "David Dadikyan",
@@ -234,7 +234,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       }
     ]
   },
@@ -253,7 +253,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Denis Cyplenkov",
@@ -265,7 +265,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Levan Saginashvili",
@@ -296,7 +296,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Artyom Morozov",
@@ -308,7 +308,7 @@
         ],
         "arm": "Left",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Devon Larratt",
@@ -320,7 +320,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       }
     ]
   },
@@ -339,7 +339,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Serhii Kalinichenko",
@@ -351,7 +351,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Krasimir Kostadinov",
@@ -363,7 +363,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Matt Mask",
@@ -375,7 +375,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       }
     ]
   },
@@ -394,7 +394,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Lars Rorbakken",
@@ -406,7 +406,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Serhii Kalinichenko",
@@ -418,7 +418,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Leonidas Arkona",
@@ -430,7 +430,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Ermes Gasparini",
@@ -442,7 +442,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       }
     ]
   },
@@ -461,7 +461,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Matt Mask",
@@ -473,7 +473,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Rino Masic",
@@ -504,7 +504,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Georgii Dzeranov",
@@ -516,7 +516,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Paul Linn",
@@ -528,7 +528,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Michael Todd",
@@ -540,7 +540,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Oleg Petrenko",
@@ -564,7 +564,7 @@
         ],
         "arm": "Left",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Artyom Morozov",
@@ -595,7 +595,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Artyom Morozov",
@@ -619,7 +619,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Nugzari Chikadze",
@@ -631,7 +631,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Georgi Tsvetkov",
@@ -643,7 +643,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Kamil Jablonski",
@@ -655,7 +655,7 @@
         ],
         "arm": "Left",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Devon Larratt",
@@ -667,7 +667,7 @@
         ],
         "arm": "Left",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       }
     ]
   },
@@ -686,7 +686,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Lachlan Adair",
@@ -698,7 +698,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Tobias Sporrong",
@@ -710,7 +710,7 @@
         ],
         "arm": "Left",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Matt Mask",
@@ -722,7 +722,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Rustam Babayev",
@@ -734,7 +734,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Krasimir Kostadinov",
@@ -746,7 +746,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Dave Chaffee",
@@ -758,7 +758,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Barbora Bajciova",
@@ -782,7 +782,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Levan Saginashvili",

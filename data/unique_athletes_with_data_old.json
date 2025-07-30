@@ -68,8 +68,7 @@
     ],
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Adam Wawrzynski": {
     "name": "Adam Wawrzynski",
@@ -165,8 +164,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Ahmet Yenerer": {
     "name": "Ahmet Yenerer",
@@ -236,8 +234,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Aleksandr Beziazykov": {
     "name": "Aleksandr Beziazykov",
@@ -336,8 +333,7 @@
         "result": "Win",
         "score": "6-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Aleksandra Ozerova": {
     "name": "Aleksandra Ozerova",
@@ -413,8 +409,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "female"
+    "wrist_cm": null
   },
   "Alex Kurdecha": {
     "name": "Alex Kurdecha",
@@ -523,8 +518,7 @@
     ],
     "nickname": null,
     "occupation": "Branch Manager at Sport World Entertainment",
-    "wrist_cm": 23.0,
-    "gender": "male"
+    "wrist_cm": 23.0
   },
   "Alizhan Muratov": {
     "name": "Alizhan Muratov",
@@ -626,8 +620,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Allen Ford": {
     "name": "Allen Ford",
@@ -704,8 +697,7 @@
     },
     "nickname": "The Hitman",
     "occupation": null,
-    "wrist_cm": 20.0,
-    "gender": "male"
+    "wrist_cm": 20.0
   },
   "Andrei Chipreanov": {
     "name": "Andrei Chipreanov",
@@ -776,8 +768,7 @@
         "result": "Lost",
         "score": "3-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Andrei Sharkevich": {
     "name": "Andrei Sharkevich",
@@ -851,8 +842,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Angie Rose": {
     "name": "Angie Rose",
@@ -922,8 +912,7 @@
     },
     "nickname": null,
     "occupation": "Practical Nurse",
-    "wrist_cm": 17.0,
-    "gender": "female"
+    "wrist_cm": 17.0
   },
   "Anna Gronlund": {
     "name": "Anna Gronlund",
@@ -990,8 +979,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 19.0,
-    "gender": "female"
+    "wrist_cm": 19.0
   },
   "Arif Ertem": {
     "name": "Arif Ertem",
@@ -1094,8 +1082,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 22.0,
-    "gender": "male"
+    "wrist_cm": 22.0
   },
   "Arsen Khachatryan": {
     "name": "Arsen Khachatryan",
@@ -1168,8 +1155,7 @@
         "result": "Win",
         "score": "3-1"
       }
-    },
-    "gender": "male"
+    }
   },
   "Artem Taranenko": {
     "name": "Artem Taranenko",
@@ -1244,8 +1230,7 @@
     },
     "nickname": "Artem Toproll",
     "occupation": null,
-    "wrist_cm": 19.0,
-    "gender": "male"
+    "wrist_cm": 19.0
   },
   "Artem Taynov": {
     "name": "Artem Taynov",
@@ -1338,8 +1323,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Artur Makarov": {
     "name": "Artur Makarov",
@@ -1358,8 +1342,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Right",
     "pulling_style": [
-      "Hook",
-      "Toproll"
+      "Hook", "Toproll"
     ],
     "titles": [
       "East vs West 6 (2022) 95kg Champion"
@@ -1425,8 +1408,7 @@
         "result": "Win",
         "score": "4-1"
       }
-    },
-    "gender": "male"
+    }
   },
   "Artyom Morozov": {
     "name": "Artyom Morozov",
@@ -1585,8 +1567,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 24.0,
-    "gender": "male"
+    "wrist_cm": 24.0
   },
   "Auden Larratt": {
     "name": "Auden Larratt",
@@ -1649,8 +1630,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Avtandil Tutberidze": {
     "name": "Avtandil Tutberidze",
@@ -1715,8 +1695,7 @@
         "result": "Lost",
         "score": "4-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Ayane Takenaka": {
     "name": "Ayane Takenaka",
@@ -1787,8 +1766,7 @@
     },
     "nickname": null,
     "occupation": "personal trainer",
-    "wrist_cm": null,
-    "gender": "female"
+    "wrist_cm": null
   },
   "Aymeric Pradines": {
     "name": "Aymeric Pradine",
@@ -1864,8 +1842,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Azat Srapyan": {
     "name": "Azat Srapyan",
@@ -1938,8 +1915,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Bacho Saginashvili": {
     "name": "Bacho Saginashvili",
@@ -2030,8 +2006,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Barbora Bajciova": {
     "name": "Barbora Bajciova",
@@ -2110,8 +2085,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "female"
+    "wrist_cm": null
   },
   "Beket Aitbek": {
     "name": "Aitbek Beket",
@@ -2181,8 +2155,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Bela Plieva": {
     "name": "Bela Plieva",
@@ -2254,8 +2227,7 @@
         "result": "Win",
         "score": "5-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Betkili Oniani": {
     "name": "Betkili Oniani",
@@ -2340,8 +2312,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 19.0,
-    "gender": "male"
+    "wrist_cm": 19.0
   },
   "Bozhidar Simeonov": {
     "name": "Bozhidar Simeonov",
@@ -2438,8 +2409,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 20.0,
-    "gender": "male"
+    "wrist_cm": 20.0
   },
   "Brad Grundy": {
     "name": "Brad Grundy",
@@ -2503,8 +2473,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 22.0,
-    "gender": "male"
+    "wrist_cm": 22.0
   },
   "Brandon Allen": {
     "name": "Brandon Allen",
@@ -2584,8 +2553,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 20.0,
-    "gender": "male"
+    "wrist_cm": 20.0
   },
   "Brandon Ellsessor": {
     "name": "Brandon Ellessor",
@@ -2661,8 +2629,7 @@
     },
     "nickname": null,
     "occupation": "Equipment Operator",
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Brian Shaw": {
     "name": "Brian Shaw",
@@ -2723,8 +2690,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Brigitta Ivanfi": {
     "name": "Brigitta Ivánfi",
@@ -2795,8 +2761,7 @@
         "result": "Win",
         "score": "3-2"
       }
-    },
-    "gender": "male"
+    }
   },
   "Carolina Pettersson": {
     "name": "Carolina Pettersson",
@@ -2886,8 +2851,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Chance Shaw": {
     "name": "Chance Shaw",
@@ -2993,8 +2957,7 @@
     },
     "nickname": "Tugboat",
     "occupation": null,
-    "wrist_cm": 22.0,
-    "gender": "male"
+    "wrist_cm": 22.0
   },
   "Cobra Rhodes": {
     "name": "Andrew Cobra Rhodes",
@@ -3048,8 +3011,7 @@
       "backpressure_kg": null,
       "sidepressure_kg": null
     },
-    "career_highlights": [],
-    "gender": "male"
+    "career_highlights": []
   },
   "Cody Wood": {
     "name": "Cody Wood",
@@ -3120,8 +3082,7 @@
     },
     "nickname": null,
     "occupation": "mold remediation",
-    "wrist_cm": 20.0,
-    "gender": "male"
+    "wrist_cm": 20.0
   },
   "Corey Miller": {
     "name": "Corey Miller",
@@ -3189,8 +3150,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Corey West": {
     "name": "Corey West",
@@ -3311,8 +3271,7 @@
     },
     "nickname": "Gorilla",
     "occupation": null,
-    "wrist_cm": 26.0,
-    "gender": "male"
+    "wrist_cm": 26.0
   },
   "Craig Tullier": {
     "name": "Craig Tullier",
@@ -3399,8 +3358,7 @@
     },
     "nickname": "The Fury",
     "occupation": "Construction Manager",
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Curtis Cameron": {
     "name": "Curtis Cameron",
@@ -3466,8 +3424,7 @@
         "result": "Lost",
         "score": "3-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Daniel Procopciuc": {
     "name": "Daniel Procopciuc",
@@ -3581,8 +3538,7 @@
         "result": "Lost",
         "score": "4-1"
       }
-    },
-    "gender": "male"
+    }
   },
   "Danil Ustinov": {
     "name": "Daniel Ustinov",
@@ -3661,8 +3617,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Dave Chaffee": {
     "name": "Dave Chaffee",
@@ -3790,8 +3745,7 @@
     },
     "nickname": "Easy Money",
     "occupation": "Maximum Security Corrections Officer",
-    "wrist_cm": 24.0,
-    "gender": "male"
+    "wrist_cm": 24.0
   },
   "David Dadikyan": {
     "name": "David Dadikyan",
@@ -3807,7 +3761,7 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": "Right",
-    "pulling_style": [
+    "pulling_style": [      
       "Hook"
     ],
     "titles": [
@@ -3908,8 +3862,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Davit Arabuli": {
     "name": "Davit Arabuli",
@@ -3987,8 +3940,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Davit Samushia": {
     "name": "Davit Samushia",
@@ -4007,7 +3959,7 @@
     "pulling_style": [
       "Press",
       "Hook"
-    ],
+        ],
     "titles": [
       "2021 World Armwrestling Champion (95kg, Right)",
       "2023 World Armwrestling Champion (95kg, Right)",
@@ -4114,8 +4066,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Denis Cyplenkov": {
     "name": "Denis Ivanovich Tsyplenkov",
@@ -4207,8 +4158,7 @@
       "Multiple-time World Armwrestling Champion (left & right arm)",
       "Set world record in grip strength (115 kg)",
       "Longest undefeated streak in super heavyweight division (2009-2018)"
-    ],
-    "gender": "male"
+    ]
   },
   "Derek Smith": {
     "name": "Derek Smith",
@@ -4304,8 +4254,7 @@
     ],
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Devon Larratt": {
     "name": "Devon Larratt",
@@ -4460,8 +4409,7 @@
     ],
     "nickname": "No Limits",
     "occupation": "Professional armwrestler",
-    "wrist_cm": 22.0,
-    "gender": "male"
+    "wrist_cm": 22.0
   },
   "Dimitrina Petrova": {
     "name": "Dimitrina Petrova",
@@ -4480,6 +4428,7 @@
     "pulling_style": [
       "Hook",
       "Toproll"
+      
     ],
     "matches": {
       "Carolina Pettersson": {
@@ -4540,8 +4489,7 @@
     ],
     "nickname": null,
     "occupation": "Vendor Consultant",
-    "wrist_cm": null,
-    "gender": "female"
+    "wrist_cm": null
   },
   "Doug Erlich": {
     "name": "Doug Erlich",
@@ -4625,8 +4573,7 @@
       "Defeating Dave Chaffee at Arnold Classic 2012",
       "7 consecutive national championships",
       "Competing in East vs West supermatches"
-    ],
-    "gender": "male"
+    ]
   },
   "Dustin Hyatt": {
     "name": "Dustin Hyatt",
@@ -4690,8 +4637,7 @@
         "result": "Lost",
         "score": "3-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Eddie Hall": {
     "name": "Eddie Hall",
@@ -4772,8 +4718,7 @@
     ],
     "nickname": "The Beast",
     "occupation": null,
-    "wrist_cm": 22.0,
-    "gender": "male"
+    "wrist_cm": 22.0
   },
   "Efe Komek": {
     "name": "Efe Kömek",
@@ -4862,8 +4807,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 20.0,
-    "gender": "male"
+    "wrist_cm": 20.0
   },
   "Egle Vaitkute": {
     "name": "Egle Vaitkute",
@@ -4954,8 +4898,7 @@
     ],
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "female"
+    "wrist_cm": null
   },
   "Ekaterina Nikisheva": {
     "name": "Ekaterina Nikisheva",
@@ -5029,8 +4972,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Elin Janeheim": {
     "name": "Elin Janeheim",
@@ -5089,8 +5031,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Elizabeth Mocek": {
     "name": "Elizabeth Rae Mocek",
@@ -5158,8 +5099,7 @@
     },
     "nickname": "The Reaper",
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "female"
+    "wrist_cm": null
   },
   "Emil Amirshadyan": {
     "name": "Emil Amirshadyan",
@@ -5230,8 +5170,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Engin Terzi": {
     "name": "Engin Terzi",
@@ -5301,8 +5240,7 @@
       "11 consecutive WAF World Championships (2009-2019) in 95kg right-hand division",
       "Undefeated in world championships for a decade",
       "Featured in East vs West Armwrestling events"
-    ],
-    "gender": "male"
+    ]
   },
   "Erkan Damar": {
     "name": "Erkan Damar",
@@ -5377,8 +5315,7 @@
         "result": "Lost",
         "score": "4-1"
       }
-    },
-    "gender": "male"
+    }
   },
   "Ermes Gasparini": {
     "name": "Ermes Gasparini",
@@ -5530,8 +5467,7 @@
     },
     "nickname": "The Gladiator",
     "occupation": "Marble Quarry Worker",
-    "wrist_cm": 23.0,
-    "gender": "male"
+    "wrist_cm": 23.0
   },
   "Esra Kiraz": {
     "name": "Esra Kiraz",
@@ -5601,8 +5537,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Evgeny Prudnik": {
     "name": "Evgeny Prudnik",
@@ -5725,8 +5660,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 22.0,
-    "gender": "male"
+    "wrist_cm": 22.0
   },
   "Ferit Osmanli": {
     "name": "Ferit Osmanli",
@@ -5815,8 +5749,7 @@
     ],
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Fia Reisek": {
     "name": "Fia Reisek",
@@ -5886,8 +5819,7 @@
     "career_highlights": [],
     "nickname": "Fia",
     "occupation": "Gym Owner",
-    "wrist_cm": 18.0,
-    "gender": "male"
+    "wrist_cm": 18.0
   },
   "Frank Lamparelli": {
     "name": "Frank Lamparelli",
@@ -5951,8 +5883,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 22.0,
-    "gender": "male"
+    "wrist_cm": 22.0
   },
   "Gabor Botta Dukat": {
     "name": "Gabor Botta Dukat",
@@ -6024,8 +5955,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Gabriela Vasconcelos": {
     "name": "Gabriela Vasconcelos",
@@ -6114,8 +6044,7 @@
         "result": "Lost",
         "score": "4-2"
       }
-    },
-    "gender": "female"
+    }
   },
   "Genadi Kvikvinia": {
     "name": "Genadi Kvikvinia",
@@ -6232,8 +6161,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 23.0,
-    "gender": "male"
+    "wrist_cm": 23.0
   },
   "Georgi Tsvetkov": {
     "name": "Georgi Tsvetkov",
@@ -6347,8 +6275,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Georgii Dzeranov": {
     "name": "Georgii Dzeranov",
@@ -6469,8 +6396,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Georgy Tautiev": {
     "name": "Georgy Tautiev",
@@ -6551,8 +6477,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Haydar Gildil": {
     "name": "Haydar Gildil",
@@ -6638,8 +6563,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Herman Stevens": {
     "name": "Herman Stevens",
@@ -6718,8 +6642,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 18.0,
-    "gender": "male"
+    "wrist_cm": 18.0
   },
   "Hristo Delidzhakov": {
     "name": "Hristo Delidzhakov",
@@ -6798,8 +6721,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Hunter Noffz": {
     "name": "Hunter Noffz",
@@ -6879,8 +6801,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Ibragim Sagov": {
     "name": "Ibragim Sagov",
@@ -6975,8 +6896,7 @@
       "Featured in East vs West 12 (2023) supermatch against Vitaly Laletin",
       "Gold medal at 2019 World Armwrestling Federation Championships (left hand)",
       "Elite top-10 ranked SHW armwrestler since 2019"
-    ],
-    "gender": "male"
+    ]
   },
   "Irakli Zirakashvili": {
     "name": "Irakli Zirakashvili",
@@ -7125,8 +7045,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 21.0,
-    "gender": "male"
+    "wrist_cm": 21.0
   },
   "Irina Drieva": {
     "name": "İrina Drieva",
@@ -7194,8 +7113,7 @@
         "result": "Lost",
         "score": "4-1"
       }
-    },
-    "gender": "female"
+    }
   },
   "Irina Gladkaya": {
     "name": "Irina Gladkaya",
@@ -7267,8 +7185,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "female"
+    "wrist_cm": null
   },
   "Ivan Matyushenko": {
     "name": "Ivan Matyushenko",
@@ -7375,8 +7292,7 @@
         "result": "Win",
         "score": "3-1"
       }
-    },
-    "gender": "male"
+    }
   },
   "Ivan Portela": {
     "name": "Ivan Portela",
@@ -7454,8 +7370,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Janis Amolins": {
     "name": "Janis Amolins",
@@ -7532,8 +7447,7 @@
     },
     "nickname": "The Jedi",
     "occupation": "Physiotherapist",
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Jerry Cadorette": {
     "name": "Jerry Cadorette",
@@ -7642,8 +7556,7 @@
     },
     "nickname": "Big Daddy",
     "occupation": "Car Dealership owner",
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Jocelyne Brisson": {
     "name": "Jocelyne Brisson",
@@ -7723,8 +7636,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "John Brzenk": {
     "name": "John Brzenk",
@@ -7873,8 +7785,7 @@
     ],
     "nickname": "The Perfect Storm, G.O.A.T",
     "occupation": "Delta Air Lines Mechanic",
-    "wrist_cm": 20.0,
-    "gender": "male"
+    "wrist_cm": 20.0
   },
   "John Therrien": {
     "name": "John Therrien",
@@ -7959,8 +7870,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 20.0,
-    "gender": "male"
+    "wrist_cm": 20.0
   },
   "Jonathan Breda": {
     "name": "Jonathon Breda",
@@ -8037,8 +7947,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 18.0,
-    "gender": "male"
+    "wrist_cm": 18.0
   },
   "Joseph Meranto": {
     "name": "Joseph Meranto",
@@ -8115,8 +8024,7 @@
     },
     "nickname": "biceps",
     "occupation": null,
-    "wrist_cm": 22.0,
-    "gender": "male"
+    "wrist_cm": 22.0
   },
   "Joshua Grant": {
     "name": "Joshua Grant",
@@ -8183,8 +8091,7 @@
         "result": "Win",
         "score": "4-1"
       }
-    },
-    "gender": "male"
+    }
   },
   "Justin Bishop": {
     "name": "Justin Bishop",
@@ -8274,8 +8181,7 @@
     ],
     "nickname": "Bama Bull",
     "occupation": "Self-employed",
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Kacper Sinica": {
     "name": "Kacper Sinica",
@@ -8352,8 +8258,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 20.0,
-    "gender": "male"
+    "wrist_cm": 20.0
   },
   "Kamil Jablonski": {
     "name": "Kamil Jablonski",
@@ -8459,8 +8364,7 @@
     ],
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Kevin Palko": {
     "name": "Kevin Palko",
@@ -8529,8 +8433,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Khadzimurat Zoloev": {
     "name": "Khadzimurat Zoloev",
@@ -8615,8 +8518,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Khaled Jashell": {
     "name": "Khaled Jashell",
@@ -8700,8 +8602,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 22.0,
-    "gender": "male"
+    "wrist_cm": 22.0
   },
   "Kody Merritt": {
     "name": "Kody Merritt",
@@ -8783,8 +8684,7 @@
     },
     "nickname": "Big Spur",
     "occupation": "Utah Probation & Parole Officer",
-    "wrist_cm": 23.0,
-    "gender": "male"
+    "wrist_cm": 23.0
   },
   "Korean Hulk": {
     "name": "Korean Hulk",
@@ -8855,8 +8755,7 @@
         "result": "Lost",
         "score": "4-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Krasimir Kostadinov": {
     "name": "Krasimir Kostadinov",
@@ -8965,8 +8864,7 @@
     ],
     "nickname": "The Dragon",
     "occupation": "Athlete",
-    "wrist_cm": 20.0,
-    "gender": "male"
+    "wrist_cm": 20.0
   },
   "Kydyrgali Ongarbaev": {
     "name": "Kydyrgali Ongarbaev",
@@ -9071,8 +8969,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Kyle Hutchison": {
     "name": "Kyle Hutchison",
@@ -9137,8 +9034,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Lachlan Adair": {
     "name": "Lachlan Adair",
@@ -9245,8 +9141,7 @@
     },
     "nickname": "The Anvil",
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Larry Wheels": {
     "name": "Larry Wheels",
@@ -9346,8 +9241,7 @@
     },
     "nickname": null,
     "occupation": "Power Lifter",
-    "wrist_cm": 22.0,
-    "gender": "male"
+    "wrist_cm": 22.0
   },
   "Lars Rorbakken": {
     "name": "Lars Rorbakken",
@@ -9443,8 +9337,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Leonidas Arkona": {
     "name": "Leonidas Arkona",
@@ -9460,10 +9353,7 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": null,
-    "pulling_style": [
-      "Toproll",
-      "Hook"
-    ],
+    "pulling_style": ["Toproll", "Hook"],
     "matches": {
       "John Brzenk": {
         "arm": "Right",
@@ -9517,8 +9407,7 @@
     "career_highlights": [],
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Levan Saginashvili": {
     "name": "Levan Saginashvili",
@@ -9621,8 +9510,7 @@
     },
     "nickname": "Georgian Hulk",
     "occupation": "SR Fabrication",
-    "wrist_cm": 28.0,
-    "gender": "male"
+    "wrist_cm": 28.0
   },
   "Maateiwarangi Heta-Morris": {
     "name": "Maateiwarangi Heta-Morris",
@@ -9709,8 +9597,7 @@
     ],
     "nickname": "THE BEAST",
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Malin Bergstrom": {
     "name": "Malin Bergström",
@@ -9778,8 +9665,7 @@
         "result": "Lost",
         "score": "4-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Marcio Barboza": {
     "name": "Marcio Barboza",
@@ -9873,8 +9759,7 @@
         "result": "Lost",
         "score": "5-1"
       }
-    },
-    "gender": "male"
+    }
   },
   "Matt Mask": {
     "name": "Matt Mask",
@@ -10024,8 +9909,7 @@
     ],
     "nickname": "Wildhorse",
     "occupation": "Field Specialist",
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Mazahir Saidu": {
     "name": "Mazahir Saidu",
@@ -10044,8 +9928,7 @@
     "grip_strength_kg": null,
     "dominant_arm": "Left",
     "pulling_style": [
-      "Toproll"
-    ],
+      "Toproll"    ],
     "titles": [
       "2023 IFA World Champion (60kg LH)",
       "East vs West 12 Champion (60kg LH)"
@@ -10092,8 +9975,7 @@
         "result": "Lost",
         "score": "3-2"
       }
-    },
-    "gender": "male"
+    }
   },
   "Mehdi Abvolvand": {
     "name": "Mehdi Abdolvand",
@@ -10164,8 +10046,7 @@
     ],
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Michael Todd": {
     "name": "Michael Todd",
@@ -10305,8 +10186,7 @@
     },
     "nickname": "Monster",
     "occupation": "Body Transformation Specialist",
-    "wrist_cm": 24.0,
-    "gender": "male"
+    "wrist_cm": 24.0
   },
   "Mindaugas Tarasaitis": {
     "name": "Mindaugas Tarasaitis",
@@ -10419,8 +10299,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Nedalin Hristov": {
     "name": "Nedalin Hristov",
@@ -10497,8 +10376,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Nisa Camanan": {
     "name": "Nisa Camadan",
@@ -10565,8 +10443,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Nugo Chikadze": {
     "name": "Nugzari Chikadze",
@@ -10657,8 +10534,7 @@
     ],
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Nugzari Chikadze": {
     "name": "Nugzari Chikadze",
@@ -10749,8 +10625,7 @@
     ],
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Nurdalet Aidarkhan": {
     "name": "Nurdalet Aidarkhan",
@@ -10831,8 +10706,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Oguzhan Kocak": {
     "name": "Oguzhan Koçak",
@@ -10901,8 +10775,7 @@
         "result": "Lost",
         "score": "3-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Oleg Cherkasov": {
     "name": "Oleg Cherkasov",
@@ -10973,8 +10846,7 @@
     "career_highlights": [
       "Won 85kg category at East vs West 7 (2022)",
       "Multiple Russian national championships"
-    ],
-    "gender": "male"
+    ]
   },
   "Oleg Petrenko": {
     "name": "Oleg Petrenko",
@@ -10990,10 +10862,7 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": null,
-    "pulling_style": [
-      "Side",
-      "Toproll"
-    ],
+    "pulling_style": ["Side", "Toproll"],
     "titles": [],
     "recent_opponents": [],
     "notable_victories": [],
@@ -11077,8 +10946,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Oleg Zhokh": {
     "name": "Oleg Zhokh",
@@ -11179,8 +11047,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 23.0,
-    "gender": "male"
+    "wrist_cm": 23.0
   },
   "Olga Terpelova": {
     "name": "Olga Terpelova",
@@ -11246,8 +11113,7 @@
     ],
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Omer Kozakoglu": {
     "name": "Ömer Kozakoğlu",
@@ -11318,8 +11184,7 @@
         "result": "Lost",
         "score": "4-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Paul Linn": {
     "name": "Paul Linn",
@@ -11449,8 +11314,7 @@
     },
     "nickname": "The White Orc",
     "occupation": "High School Football Coach",
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Paul Talbott": {
     "name": "Paul Talbott",
@@ -11517,8 +11381,7 @@
     },
     "nickname": "The Assassin",
     "occupation": "Train Conductor",
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Pavlo Derbedyenyev": {
     "name": "Pavlo Derbedyenyev",
@@ -11604,8 +11467,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Petro Marharint": {
     "name": "Petro Marharint",
@@ -11687,8 +11549,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Raimonds Liepins": {
     "name": "Raimonds Liepins",
@@ -11796,8 +11657,7 @@
     },
     "nickname": "Coach Ray",
     "occupation": null,
-    "wrist_cm": 20.0,
-    "gender": "male"
+    "wrist_cm": 20.0
   },
   "Ramzi Tayba": {
     "name": "Ramzi Tayba",
@@ -11863,8 +11723,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 20.0,
-    "gender": "male"
+    "wrist_cm": 20.0
   },
   "Rebeka Martinkovicova": {
     "name": "Rebeka Martinkovicova",
@@ -11943,8 +11802,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 18.0,
-    "gender": "male"
+    "wrist_cm": 18.0
   },
   "Revaz Lutidze": {
     "name": "Revaz Lutidze",
@@ -12046,8 +11904,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Riekerd Bornman": {
     "name": "Riekerd Bornman",
@@ -12124,8 +11981,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Rino Masic": {
     "name": "Rino Masic",
@@ -12214,8 +12070,7 @@
         "result": "Win",
         "score": "6-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Rob Vigeant Jr.": {
     "name": "Rob Vigeant Jr",
@@ -12299,8 +12154,7 @@
     },
     "nickname": "RVJ",
     "occupation": "General Contractor",
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Robbie Karstendiek": {
     "name": "Robbie Karstendiek",
@@ -12371,8 +12225,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Robbie Topie": {
     "name": "Robbie Topie",
@@ -12437,8 +12290,7 @@
     },
     "nickname": null,
     "occupation": "Deputy Sheriff",
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Robert Baxter": {
     "name": "Robert Baxter",
@@ -12508,8 +12360,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Ron Bath": {
     "name": "Ron Bath",
@@ -12609,8 +12460,7 @@
     },
     "nickname": "The Legend",
     "occupation": "Bath Enterprises Inc.",
-    "wrist_cm": 24.0,
-    "gender": "male"
+    "wrist_cm": 24.0
   },
   "Rosa Acosta (Boltadano)": {
     "name": "Rosa Acosta (Boltadano)",
@@ -12681,8 +12531,7 @@
         "result": "Lost",
         "score": "3-1"
       }
-    },
-    "gender": "male"
+    }
   },
   "Ruslan Babaiev": {
     "name": "Ruslan Babayev",
@@ -12753,8 +12602,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Rustam Babayev": {
     "name": "Rustam Babayev",
@@ -12843,8 +12691,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 20.0,
-    "gender": "male"
+    "wrist_cm": 20.0
   },
   "Ryan Belanger": {
     "name": "Ryan Belanger",
@@ -12928,8 +12775,7 @@
         "result": "Win",
         "score": "3-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Ryan Bowen": {
     "name": "Ryan Bowen",
@@ -13026,8 +12872,7 @@
         "result": "Lost",
         "score": "6-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Sabin Badulescu": {
     "name": "Sabin Badulescu",
@@ -13100,8 +12945,7 @@
     ],
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Sahip Caglar": {
     "name": "Sahip Çağlar",
@@ -13168,8 +13012,7 @@
         "result": "Lost",
         "score": "3-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Sandris Sedis": {
     "name": "Sandris Sedis",
@@ -13273,8 +13116,7 @@
     ],
     "nickname": "PANZER",
     "occupation": null,
-    "wrist_cm": 22.0,
-    "gender": "male"
+    "wrist_cm": 22.0
   },
   "Sarah Backman": {
     "name": "Sarah Backman",
@@ -13370,8 +13212,7 @@
         "result": "Lost",
         "score": "4-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Sarah Collins": {
     "name": "Sarah Collins",
@@ -13426,8 +13267,7 @@
     "career_highlights": null,
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Sasho Andreev": {
     "name": "Sasho Andreev",
@@ -13521,8 +13361,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Serhii Kalinichenko": {
     "name": "Sergei Kalinichenko",
@@ -13623,8 +13462,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Stoyan Golemanov": {
     "name": "Stoyan Golemanov",
@@ -13710,8 +13548,7 @@
     ],
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Talgat Aktaev": {
     "name": "Talgat Aktaev",
@@ -13779,8 +13616,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Terence Opperman": {
     "name": "Terence Opperman",
@@ -13843,8 +13679,7 @@
         "result": "Lost",
         "score": "3-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Thomas Manghi": {
     "name": "Thomas Manghi",
@@ -13923,8 +13758,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Tobias Sporrong": {
     "name": "Tobias Sporrong",
@@ -14034,8 +13868,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 21.0,
-    "gender": "male"
+    "wrist_cm": 21.0
   },
   "Todd Hutchings": {
     "name": "Todd Hutchings",
@@ -14175,8 +14008,7 @@
     },
     "nickname": "Toddzilla",
     "occupation": "Mechanical Engineer",
-    "wrist_cm": 21.0,
-    "gender": "male"
+    "wrist_cm": 21.0
   },
   "Tom Holland": {
     "name": "Tom Holland",
@@ -14244,8 +14076,7 @@
     },
     "nickname": "The Machine",
     "occupation": "Landscape Gardener",
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Tom Rozits": {
     "name": "Toms Rozits",
@@ -14324,8 +14155,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Toms Rozits": {
     "name": "Toms Rozits",
@@ -14399,8 +14229,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Tony Kitowski": {
     "name": "Tony Kitowski",
@@ -14469,8 +14298,7 @@
     },
     "nickname": "Iron Man",
     "occupation": "Electrician",
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Travis Bagent": {
     "name": "Travis Bagent",
@@ -14564,8 +14392,7 @@
     },
     "nickname": "The Beast",
     "occupation": "Crossfit Fitness Owner",
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Vala Ichqiti": {
     "name": "Vala Ichqiti",
@@ -14581,10 +14408,7 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": null,
-    "pulling_style": [
-      "Side",
-      "Hook"
-    ],
+    "pulling_style": ["Side", "Hook"],
     "titles": [
       "2023 European Armwrestling Champion (85kg Left Hand)"
     ],
@@ -14631,8 +14455,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Valen Low": {
     "name": "Valen Low",
@@ -14700,8 +14523,7 @@
     },
     "nickname": "The Godfather",
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Valera Chubotaru": {
     "name": "Valera Chubotaru",
@@ -14773,8 +14595,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Vasily Dautashvili": {
     "name": "Vaso Dautashvili",
@@ -14837,8 +14658,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Vitaly Laletin": {
     "name": "Vitaly Laletin",
@@ -14929,8 +14749,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Vlad Dzisiak": {
     "name": "Vlad Dzisiak",
@@ -15000,8 +14819,7 @@
         "result": "Win",
         "score": "3-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Vladimir Maiorov": {
     "name": "Vladimir Maiorov",
@@ -15076,8 +14894,7 @@
     ],
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Vrezh Sedrakyan": {
     "name": "Sedrakyan Vrezh",
@@ -15150,8 +14967,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Wagner Bortalato": {
     "name": "Wagner Bortolato",
@@ -15222,8 +15038,7 @@
     },
     "nickname": "Big Head Bortalato",
     "occupation": "Personal Trainer",
-    "wrist_cm": 23.0,
-    "gender": "male"
+    "wrist_cm": 23.0
   },
   "Wagner Bortolato": {
     "name": "Wagner Bortolato",
@@ -15320,8 +15135,7 @@
     },
     "nickname": "Big Head Bortalato",
     "occupation": "Personal Trainer",
-    "wrist_cm": 23.0,
-    "gender": "male"
+    "wrist_cm": 23.0
   },
   "Wallace Dilley": {
     "name": "Wallace Dilley",
@@ -15376,8 +15190,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Yerdaulet Sarybay": {
     "name": "Yerdaulet Sarybay",
@@ -15449,8 +15262,7 @@
         "result": "Win",
         "score": "3-0"
       }
-    },
-    "gender": "male"
+    }
   },
   "Yordan Tsonev": {
     "name": "Yordan Tsonev",
@@ -15529,8 +15341,7 @@
     },
     "nickname": "dancho",
     "occupation": null,
-    "wrist_cm": 21.0,
-    "gender": "male"
+    "wrist_cm": 21.0
   },
   "Yoshinobu Kanai": {
     "name": "Yoshinobu Kanai",
@@ -15606,8 +15417,7 @@
     },
     "nickname": "The warlord",
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Yusuf Yildizoglu": {
     "name": "Yusuf Ziya Yildizoglu",
@@ -15691,8 +15501,7 @@
     ],
     "nickname": null,
     "occupation": null,
-    "wrist_cm": 18.0,
-    "gender": "male"
+    "wrist_cm": 18.0
   },
   "Zaur Paizulaev": {
     "name": "Zaur Paizulaev",
@@ -15768,8 +15577,7 @@
     },
     "nickname": null,
     "occupation": null,
-    "wrist_cm": null,
-    "gender": "male"
+    "wrist_cm": null
   },
   "Zurab Tavberidze": {
     "name": "Zurab Tavberidze",
@@ -15785,10 +15593,7 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": "Right",
-    "pulling_style": [
-      "Hook",
-      "Side"
-    ],
+    "pulling_style": ["Hook", "Side"    ],
     "titles": [
       "2023 European Armwrestling Champion (105kg Right)",
       "Georgian National Champion (Multiple years)",
@@ -15912,10 +15717,9 @@
         "result": "Lost",
         "score": "3-0"
       }
-    },
-    "gender": "male"
+    }
   },
-  "Irakli Gamtenadze": {
+  "lrakli Gamtenadze": {
     "name": "Irakli Gamtenadze",
     "country": "Georgia",
     "age": null,
@@ -15977,7 +15781,6 @@
         "result": "Lost",
         "score": "3-0"
       }
-    },
-    "gender": "male"
+    }
   }
 }
