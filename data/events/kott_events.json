@@ -37,7 +37,7 @@
           "Michael Todd"
         ],
         "arm": "Right",
-        "weight_category": "Unknown",
+        "weight_category": "Super Heavyweight",
         "is_title": true
       }
     ]
@@ -80,7 +80,7 @@
           "John Brzenk"
         ],
         "arm": "Right",
-        "weight_category": "Unknown",
+        "weight_category": "Super Heavyweight",
         "is_title": true
       }
     ]
@@ -111,7 +111,7 @@
           "Sarah Backman"
         ],
         "arm": "Right",
-        "weight_category": "Unknown",
+        "weight_category": "Super Heavyweight",
         "is_title": true
       },
       {
@@ -178,7 +178,7 @@
           "Devon Larratt"
         ],
         "arm": "Right",
-        "weight_category": "Unknown",
+        "weight_category": "Super Heavyweight",
         "is_title": true
       }
     ]
@@ -276,7 +276,7 @@
           "Ermes Gasparini"
         ],
         "arm": "Right",
-        "weight_category": "Unknown",
+        "weight_category": "Super Heavyweight",
         "is_title": true
       }
     ]
@@ -307,8 +307,8 @@
           "Corey West"
         ],
         "arm": "Left",
-        "weight_category": "Unknown",
-        "is_title": false
+        "weight_category": "Super Heavyweight",
+        "is_title": true
       },
       {
         "winner": "Devon Larratt",
@@ -484,7 +484,7 @@
           "Bacho Saginashvili"
         ],
         "arm": "Right",
-        "weight_category": "Unknown",
+        "weight_category": "Heavyweight",
         "is_title": true
       }
     ]
@@ -551,7 +551,7 @@
           "Kydyrgali Ongarbaev"
         ],
         "arm": "Right",
-        "weight_category": "Unknown",
+        "weight_category": "Light Heavyweight",
         "is_title": true
       },
       {
@@ -575,7 +575,7 @@
           "Ivan Matyushenko"
         ],
         "arm": "Left",
-        "weight_category": "Unknown",
+        "weight_category": "Heavyweight",
         "is_title": true
       }
     ]
@@ -607,7 +607,7 @@
         ],
         "arm": "Right",
         "weight_category": "Unknown",
-        "is_title": true
+        "is_title": false
       },
       {
         "winner": "Auden Larratt",
@@ -769,7 +769,7 @@
           "Gabriela Vasconcelos"
         ],
         "arm": "Right",
-        "weight_category": "Unknown",
+        "weight_category": "Super Heavyweight",
         "is_title": true
       },
       {
@@ -793,7 +793,7 @@
           "Jerry Cadorette"
         ],
         "arm": "Right",
-        "weight_category": "Unknown",
+        "weight_category": "Super Heavyweight",
         "is_title": true
       }
     ]
@@ -908,7 +908,7 @@
           "Genadi Kvikvinia"
         ],
         "arm": "Right",
-        "weight_category": "Unknown",
+        "weight_category": "Heavyweight",
         "is_title": true
       },
       {
@@ -920,7 +920,7 @@
           "Daniel Procopciuc"
         ],
         "arm": "Right",
-        "weight_category": "Unknown",
+        "weight_category": "Welterweight",
         "is_title": true
       },
       {
@@ -932,7 +932,7 @@
           "Rustam Babayev"
         ],
         "arm": "Right",
-        "weight_category": "Unknown",
+        "weight_category": "Light Heavyweight",
         "is_title": true
       },
       {

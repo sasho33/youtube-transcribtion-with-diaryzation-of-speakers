@@ -2312,8 +2312,8 @@
           "Ermes Gasparini"
         ],
         "arm": "Left",
-        "weight_category": "Unknown",
-        "is_title": false
+        "weight_category": "Super Heavyweight",
+        "is_title": true
       },
       {
         "winner": "Devon Larratt",
@@ -2487,8 +2487,8 @@
           "Kody Merritt"
         ],
         "arm": "Left",
-        "weight_category": "Unknown",
-        "is_title": false
+        "weight_category": "Super Heavyweight",
+        "is_title": true
       },
       {
         "winner": "Evgeny Prudnik",

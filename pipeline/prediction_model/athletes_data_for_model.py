@@ -6,6 +6,7 @@ from collections import defaultdict
 from fuzzywuzzy import process
 from datetime import datetime
 
+
 # Setup project path and import config
 sys.path.append(str(Path(__file__).resolve().parents[2]))
 from pipeline.config import (
@@ -17,6 +18,7 @@ from pipeline.config import (
     VALUEABLE_MATCHES_FILE,
     STYLES_COMBO_RATES_FILE
 )
+from pipeline.prediction_model.title_holder import is_current_title_holder
 
 # Load the combo rates JSON in modern explicit dict style
 with open(STYLES_COMBO_RATES_FILE, encoding="utf-8") as f:
@@ -220,10 +222,10 @@ def extract_matches(events, event_type):
                     a2["pulling_style"][0] if a2.get("pulling_style") else "Unknown"
                 ),
                 "f1_gender": get_gender(a1),
-                "f2_gender": get_gender(a2)
+                "f2_gender": get_gender(a2),
+                "f1_is_current_title_holder": is_current_title_holder(title, f1),
+                "f2_is_current_title_holder": is_current_title_holder(title, f2),
             }
-
-
             rows.append(row)
     return rows
 
