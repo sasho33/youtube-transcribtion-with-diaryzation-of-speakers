@@ -19,6 +19,7 @@ from pipeline.config import (
     STYLES_COMBO_RATES_FILE
 )
 from pipeline.prediction_model.title_holder import is_current_title_holder
+from pipeline.predictions_count import count_low_rank_predictions, count_high_rank_predictions
 
 # Load the combo rates JSON in modern explicit dict style
 with open(STYLES_COMBO_RATES_FILE, encoding="utf-8") as f:
@@ -208,7 +209,7 @@ def extract_matches(events, event_type):
                 "f2_travel_penalty": travels_2,
                 "domestic_advantage": travels_2 - travels_1,
                 "travel_type": travel_type,
-                "label": 1 if f1 == winner else 0,
+                "label": 1 if winner == f1 else 0,
                 "f1_style_combo_success_percent": get_combo_success_pct(
                     a1["pulling_style"][0] if a1.get("pulling_style") else "Unknown",
                     a2["pulling_style"][0] if a2.get("pulling_style") else "Unknown"
@@ -225,7 +226,11 @@ def extract_matches(events, event_type):
                 "f2_gender": get_gender(a2),
                 "f1_is_current_title_holder": is_current_title_holder(title, f1),
                 "f2_is_current_title_holder": is_current_title_holder(title, f2),
-            }
+                "f1_low_rank_predictions": count_low_rank_predictions(f1, title),
+                "f1_high_rank_predictions": count_high_rank_predictions(f1, title),
+                "f2_low_rank_predictions": count_low_rank_predictions(f2, title),
+                "f2_high_rank_predictions": count_high_rank_predictions(f2, title)
+                }
             rows.append(row)
     return rows
 
