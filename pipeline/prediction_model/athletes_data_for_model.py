@@ -12,7 +12,6 @@ sys.path.append(str(Path(__file__).resolve().parents[2]))
 from pipeline.config import (
     EVW_EVENTS_FILE,
     KOTT_EVENTS_FILE,
-    TRAVEL_EFFECT_FILE,
     UNIQUE_ATHLETES_WITH_DATA_FILE,
     UPDATED_TRAINING_FEATURES_WITH_TRAVEL_STATS,
     VALUEABLE_MATCHES_FILE,
@@ -141,8 +140,10 @@ def try_get_numeric(data, key):
 # get styles success rates
 
 def get_combo_success_pct(style1, style2):
-    return style_combo_success_dict.get((style1 or "Unknown", style2 or "Unknown"), None)
-
+    key = ((style1 or "Unknown").strip(), (style2 or "").strip())
+    if key not in style_combo_success_dict:
+        print(f"[Combo Rate] No entry for {key}")
+    return style_combo_success_dict.get(key, None)
 
 def get_athlete1_style_advantage_rate(style1, style2):
     # This is the specific rate of athlete1 dominant vs athlete2 dominant (directional)
@@ -213,16 +214,22 @@ def extract_matches(events, event_type):
                 "label": 1 if winner == f1 else 0,
                 "f1_style_combo_success_percent": get_combo_success_pct(
                     a1["pulling_style"][0] if a1.get("pulling_style") else "Unknown",
-                    a1["pulling_style"][1] if a1.get("pulling_style") and len(a1["pulling_style"]) > 1 else "Unknown"
+                    a1["pulling_style"][1] if a1.get("pulling_style") and len(a1["pulling_style"]) > 1 else ""
                 ),
                 "f2_style_combo_success_percent": get_combo_success_pct(
                     a2["pulling_style"][0] if a2.get("pulling_style") else "Unknown",
-                    a2["pulling_style"][1] if a2.get("pulling_style") and len(a2["pulling_style"]) > 1 else "Unknown"
+                    a2["pulling_style"][1] if a2.get("pulling_style") and len(a2["pulling_style"]) > 1 else ""
                 ),
-                "athlete1_style_advantage_rate": get_athlete1_style_advantage_rate(
-                    a1["pulling_style"][0] if a1.get("pulling_style") else "Unknown",
-                    a2["pulling_style"][0] if a2.get("pulling_style") else "Unknown"
-                ),
+                "athlete1_style_advantage_rate":
+                    50 if (
+                        a1.get("pulling_style") and a2.get("pulling_style") and
+                        len(a1["pulling_style"]) > 0 and len(a2["pulling_style"]) > 0 and
+                        a1["pulling_style"][0] == a2["pulling_style"][0]
+                    )
+                    else get_athlete1_style_advantage_rate(
+                        a1["pulling_style"][0] if a1.get("pulling_style") else "Unknown",
+                        a2["pulling_style"][0] if a2.get("pulling_style") else "Unknown"
+                    ),
                 "f1_gender": get_gender(a1),
                 "f2_gender": get_gender(a2),
                 "f1_is_current_title_holder": is_current_title_holder(title, f1),

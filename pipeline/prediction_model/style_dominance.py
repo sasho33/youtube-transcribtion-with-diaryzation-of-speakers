@@ -123,22 +123,24 @@ def get_style_combo(dominant, additional):
 def aggregate_style_combos_pairs(df):
     """
     Aggregate win stats for all (dominant, additional) style pairs as separate columns.
-    Skips rows where additional is missing/unknown.
+    If additional is missing or unknown, include as "".
     """
     combo_records = []
     for idx, row in df.iterrows():
         dom1, add1 = row['f1_style_dominant'], row['f1_style_additional']
         dom2, add2 = row['f2_style_dominant'], row['f2_style_additional']
 
-        # Fighter 1: Only if both styles are present
-        if pd.notna(dom1) and pd.notna(add1) and add1 != "Unknown" and dom1 != "Unknown":
+        # Fighter 1: Accept even if add1 is missing/unknown
+        if pd.notna(dom1) and dom1 != "Unknown":
             win = 1 if row['winner'] == row['fighter_1'] else 0
-            combo_records.append({'style_1': dom1, 'style_2': add1, 'win': win})
+            add_style = add1 if (pd.notna(add1) and add1 != "Unknown") else ""
+            combo_records.append({'style_1': dom1, 'style_2': add_style, 'win': win})
 
-        # Fighter 2: Only if both styles are present
-        if pd.notna(dom2) and pd.notna(add2) and add2 != "Unknown" and dom2 != "Unknown":
+        # Fighter 2: Accept even if add2 is missing/unknown
+        if pd.notna(dom2) and dom2 != "Unknown":
             win = 1 if row['winner'] == row['fighter_2'] else 0
-            combo_records.append({'style_1': dom2, 'style_2': add2, 'win': win})
+            add_style = add2 if (pd.notna(add2) and add2 != "Unknown") else ""
+            combo_records.append({'style_1': dom2, 'style_2': add_style, 'win': win})
 
     return pd.DataFrame(combo_records)
 
