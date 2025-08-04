@@ -120,26 +120,33 @@ def get_style_combo(dominant, additional):
         return dominant
     return f"{dominant} + {additional}"
 
-def aggregate_style_combos(df):
+def aggregate_style_combos_pairs(df):
+    """
+    Aggregate win stats for all (dominant, additional) style pairs as separate columns.
+    Skips rows where additional is missing/unknown.
+    """
     combo_records = []
     for idx, row in df.iterrows():
-        # Fighter 1
-        combo1 = get_style_combo(row['f1_style_dominant'], row['f1_style_additional'])
-        if combo1:
+        dom1, add1 = row['f1_style_dominant'], row['f1_style_additional']
+        dom2, add2 = row['f2_style_dominant'], row['f2_style_additional']
+
+        # Fighter 1: Only if both styles are present
+        if pd.notna(dom1) and pd.notna(add1) and add1 != "Unknown" and dom1 != "Unknown":
             win = 1 if row['winner'] == row['fighter_1'] else 0
-            combo_records.append({'Style Combo': combo1, 'Win': win})
-        # Fighter 2
-        combo2 = get_style_combo(row['f2_style_dominant'], row['f2_style_additional'])
-        if combo2:
+            combo_records.append({'style_1': dom1, 'style_2': add1, 'win': win})
+
+        # Fighter 2: Only if both styles are present
+        if pd.notna(dom2) and pd.notna(add2) and add2 != "Unknown" and dom2 != "Unknown":
             win = 1 if row['winner'] == row['fighter_2'] else 0
-            combo_records.append({'Style Combo': combo2, 'Win': win})
+            combo_records.append({'style_1': dom2, 'style_2': add2, 'win': win})
+
     return pd.DataFrame(combo_records)
 
-combo_df = aggregate_style_combos(df)
-combo_summary = combo_df.groupby('Style Combo').agg({'Win': ['sum', 'count']})
-combo_summary.columns = ['Wins', 'Matches']
-combo_summary['Success %'] = (combo_summary['Wins'] / combo_summary['Matches'] * 100).round(1)
-combo_summary = combo_summary.sort_values('Matches', ascending=False)
+combo_df = aggregate_style_combos_pairs(df)
+combo_summary = combo_df.groupby(['style_1', 'style_2']).agg({'win': ['sum', 'count']})
+combo_summary.columns = ['wins', 'matches']
+combo_summary['success_pct'] = (combo_summary['wins'] / combo_summary['matches'] * 100).round(1)
+combo_summary = combo_summary.reset_index().sort_values('matches', ascending=False)
 
 # --- SAVE TO JSON --- #
 def tolist(df):
@@ -161,45 +168,48 @@ for _, row in style_vs_style_df.iterrows():
 
 # 2. Style Combo rates
 style_combo_json = []
-for combo, row in combo_summary.iterrows():
+for _, row in combo_summary.iterrows():
     style_combo_json.append({
-        "style_combo": combo,
-        "wins": int(row['Wins']),
-        "matches": int(row['Matches']),
-        "success_pct": float(row['Success %'])
+        "style_1": row['style_1'],
+        "style_2": row['style_2'],
+        "wins": int(row['wins']),
+        "matches": int(row['matches']),
+        "success_pct": float(row['success_pct'])
     })
-# Combine both tables into one dict
+
+# Now style_combo_json will look like you want!
 json_out = {
-    "style_vs_style": style_vs_style_json,
+    "style_vs_style": style_vs_style_json,  # unchanged, from earlier in your code
     "style_combos": style_combo_json
 }
-# Save the file
-if not STYLES_COMBO_RATES_FILE.exists():
-    with open(STYLES_COMBO_RATES_FILE, 'w', encoding='utf-8') as f:
-        json.dump({}, f)  # Write an empty JSON object
-
-
 with open(STYLES_COMBO_RATES_FILE, "w", encoding="utf-8") as f:
     json.dump(json_out, f, indent=2, ensure_ascii=False)
+print(f"[✅] Saved new style statistics to {STYLES_COMBO_RATES_FILE.resolve()}")
 
-
-
-print(f"[✅] Saved style statistics to {STYLES_COMBO_RATES_FILE.resolve()}")
 # --- PLOT STYLE COMBO ---
-plot_combo = combo_summary.head(15)[::-1]
+plot_combo = combo_summary.head(15)[::-1].reset_index(drop=True)
+y_pos = np.arange(len(plot_combo))
+bar_labels = [f"{row['style_1']} + {row['style_2']}" for _, row in plot_combo.iterrows()]
+
 fig, ax = plt.subplots(figsize=(16, 7))
-bars = ax.barh(plot_combo.index, plot_combo['Wins'], color='darkcyan', height=0.5)
-for bar, wins in zip(bars, plot_combo['Wins']):
+bars = ax.barh(y_pos, plot_combo['wins'], color='darkcyan', height=0.5)
+
+# Win number inside bar
+for bar, wins in zip(bars, plot_combo['wins']):
     ax.text(bar.get_width()/2, bar.get_y() + bar.get_height()/2, f"{int(wins)}",
             ha='center', va='center', color='white', fontweight='bold', fontsize=12)
 
-for i, (wins, matches, pct) in enumerate(zip(plot_combo['Wins'], plot_combo['Matches'], plot_combo['Success %'])):
-    ax.text(wins + max(plot_combo['Wins'])*0.05 + 2, i, f"{pct:.1f}% success overall",
+# Success percentage outside bar
+for idx, (wins, pct) in enumerate(zip(plot_combo['wins'], plot_combo['success_pct'])):
+    ax.text(wins + plot_combo['wins'].max()*0.05, idx, f"{pct:.1f}% success overall",
             va='center', ha='left', color='green', fontweight='bold', fontsize=12)
 
+ax.set_yticks(y_pos)
+ax.set_yticklabels(bar_labels)
 ax.set_xlabel('Number of Wins')
 ax.set_title('Top 15 Most Frequent Style Combinations\n(Wins and Success %)')
-ax.set_xlim(0, plot_combo['Wins'].max() * 1.25)  # Add extra space to the right
+ax.set_xlim(0, plot_combo['wins'].max() * 1.25)
 plt.tight_layout()
 plt.show()
+
 

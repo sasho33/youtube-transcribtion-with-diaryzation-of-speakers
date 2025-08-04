@@ -1,7 +1,15 @@
 import pandas as pd
+import sys
+from pathlib import Path
+
+sys.path.append(str(Path(__file__).resolve().parents[2]))
+from pipeline.config import (
+    UPDATED_TRAINING_FEATURES_WITH_TRAVEL_STATS,
+    TRAINING_MODEL_DATASET
+)
 
 # Load your data
-df = pd.read_csv('UPDATED_TRAINING_FEATURES_WITH_TRAVEL_STATS.csv')
+df = pd.read_csv(UPDATED_TRAINING_FEATURES_WITH_TRAVEL_STATS)
 
 # Identify all f1_ and f2_ columns
 f1_cols = [col for col in df.columns if col.startswith('f1_')]
@@ -50,14 +58,10 @@ for idx, row in df.iterrows():
     if 'head_to_head_result' in swapped:
         swapped['head_to_head_result'] = -row['head_to_head_result'] if pd.notnull(row['head_to_head_result']) else row['head_to_head_result']
     # Invert athlete1_style_advantage_rate if it's a difference (typically is)
-    if style_advantage in swapped:
-        if pd.notnull(row[style_advantage]):
-            try:
-                swapped[style_advantage] = -float(row[style_advantage])
-            except:
-                swapped[style_advantage] = row[style_advantage]  # Leave as is if not numeric
-        else:
-            swapped[style_advantage] = row[style_advantage]
+    if pd.notnull(row['athlete1_style_advantage_rate']):
+        swapped['athlete1_style_advantage_rate'] = round(100 - float(row['athlete1_style_advantage_rate']), 1)
+    else:
+        swapped['athlete1_style_advantage_rate'] = row['athlete1_style_advantage_rate']
     # Swap any other symmetric prediction columns (like f1_low_rank_predictions, etc.)
     pred_cols = ['f1_low_rank_predictions', 'f1_high_rank_predictions', 'f2_low_rank_predictions', 'f2_high_rank_predictions']
     if all(c in swapped for c in pred_cols):
@@ -68,6 +72,6 @@ for idx, row in df.iterrows():
 
 # Build and save the new DataFrame
 df_new = pd.DataFrame(new_rows)
-df_new.to_csv('UPDATED_TRAINING_FEATURES_WITH_STATS_DUPLICATED.csv', index=False)
+df_new.to_csv(TRAINING_MODEL_DATASET, index=False)
 print("[✅] Duplicated and swapped dataset saved.")
 

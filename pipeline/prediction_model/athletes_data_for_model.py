@@ -37,7 +37,8 @@ for entry in combo_json["style_vs_style"]:
     style_vs_style_dict[k2] = entry.get("style_2_success_pct")
 
 for entry in combo_json["style_combos"]:
-    style_combo_success_dict[entry["style_combo"]] = entry.get("success_pct")
+    style_combo_success_dict[(entry["style_1"], entry["style_2"])] = entry.get("success_pct")
+
 
 
 # Normalized American countries (Zone A)
@@ -140,8 +141,8 @@ def try_get_numeric(data, key):
 # get styles success rates
 
 def get_combo_success_pct(style1, style2):
-    key = " + ".join(sorted([style1 or "Unknown", style2 or "Unknown"]))
-    return style_combo_success_dict.get(key, None)
+    return style_combo_success_dict.get((style1 or "Unknown", style2 or "Unknown"), None)
+
 
 def get_athlete1_style_advantage_rate(style1, style2):
     # This is the specific rate of athlete1 dominant vs athlete2 dominant (directional)
@@ -212,11 +213,11 @@ def extract_matches(events, event_type):
                 "label": 1 if winner == f1 else 0,
                 "f1_style_combo_success_percent": get_combo_success_pct(
                     a1["pulling_style"][0] if a1.get("pulling_style") else "Unknown",
-                    a2["pulling_style"][0] if a2.get("pulling_style") else "Unknown"
+                    a1["pulling_style"][1] if a1.get("pulling_style") and len(a1["pulling_style"]) > 1 else "Unknown"
                 ),
                 "f2_style_combo_success_percent": get_combo_success_pct(
                     a2["pulling_style"][0] if a2.get("pulling_style") else "Unknown",
-                    a1["pulling_style"][0] if a1.get("pulling_style") else "Unknown"
+                    a2["pulling_style"][1] if a2.get("pulling_style") and len(a2["pulling_style"]) > 1 else "Unknown"
                 ),
                 "athlete1_style_advantage_rate": get_athlete1_style_advantage_rate(
                     a1["pulling_style"][0] if a1.get("pulling_style") else "Unknown",
