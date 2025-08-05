@@ -18,6 +18,7 @@ UPDATED_TRAINING_FEATURES_WITH_TRAVEL_STATS = DATA_DIR / "training_features_with
 TRAINING_MODEL_DATASET = DATA_DIR / "training_dataset.csv"
 STYLES_COMBO_RATES_FILE = DATA_DIR / "style_combo_rates.json"
 PREDICTION_SUMMARY_FILE = DATA_DIR / "predictor_summary.json"
+TEMPORARY_PREDICTION_FOLDER = DATA_DIR / "temporary_predictions"
 GOLDSARM_DIR = DATA_DIR / "goldsarm"
 ATHLETES_DIR = DATA_DIR / "athletes"
 PREDICTIONS_DIR = DATA_DIR / "predictions"

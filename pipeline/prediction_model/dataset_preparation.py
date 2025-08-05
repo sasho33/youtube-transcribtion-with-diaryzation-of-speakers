@@ -11,6 +11,10 @@ from pipeline.config import (
 # Load your data
 df = pd.read_csv(UPDATED_TRAINING_FEATURES_WITH_TRAVEL_STATS)
 
+for col in ['f1_winrate_last_5', 'f2_winrate_last_5']:
+    if col in df.columns:
+        df[col] = df[col].round(2)
+
 # Identify all f1_ and f2_ columns
 f1_cols = [col for col in df.columns if col.startswith('f1_')]
 f2_cols = [col for col in df.columns if col.startswith('f2_')]
@@ -67,6 +71,7 @@ for idx, row in df.iterrows():
     if all(c in swapped for c in pred_cols):
         swapped['f1_low_rank_predictions'], swapped['f2_low_rank_predictions'] = row['f2_low_rank_predictions'], row['f1_low_rank_predictions']
         swapped['f1_high_rank_predictions'], swapped['f2_high_rank_predictions'] = row['f2_high_rank_predictions'], row['f1_high_rank_predictions']
+        swapped['f1_all_rank_predictions'], swapped['f2_all_rank_predictions'] = row['f2_all_rank_predictions'], row['f1_all_rank_predictions']
     # Append swapped row
     new_rows.append(swapped)
 

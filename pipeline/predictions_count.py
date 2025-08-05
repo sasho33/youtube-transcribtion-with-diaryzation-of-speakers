@@ -61,7 +61,42 @@ def count_low_rank_predictions(athlete_name: str, event_name: str) -> int:
 def count_high_rank_predictions(athlete_name: str, event_name: str) -> int:
     """Count predictions for athlete from high-ranked predictors using predictor_summary.json."""
     return count_predictions(athlete_name, event_name, high_ranked)
+def count_all_predictions(athlete_name: str, event_name: str) -> int:
+    """
+    Count predictions from all predictors in predictor_summary.json favoring an athlete.
+    Uses fuzzy matching for names.
+    Each predictor is counted only once. Only considers predictions matching the event name.
+    """
+    total_count = 0
 
+    for predictor_name, predictor_data in predictor_summary.items():
+        counted = False
+        for prediction in predictor_data.get("results", []):
+            # Strict match for event name
+            if prediction.get("event", "") != event_name:
+                continue
+
+            participants = prediction.get("match", [])
+            athlete_in_participants = any(_fuzzy_match(athlete_name, p) for p in participants)
+            winner_matches = _fuzzy_match(prediction.get("predicted_winner", ""), athlete_name)
+            predictor_in_participants = any(_fuzzy_match(predictor_name, p) for p in participants)
+
+            if (
+                athlete_in_participants and
+                winner_matches and
+                not predictor_in_participants
+            ):
+                total_count += 1
+                counted = True
+                break  # Only count this predictor once
+
+    return total_count
+
+def count_all_prediction_vote_diff(athlete1: str, athlete2: str, event_name: str) -> int:
+    """
+    Returns the difference: (all predictor votes for athlete1) - (all predictor votes for athlete2)
+    """
+    return count_all_predictions(athlete1, event_name) - count_all_predictions(athlete2, event_name)
 
 # Example usage:
 # print(count_low_rank_predictions("Betkili Oniani", "East vs West 16"))

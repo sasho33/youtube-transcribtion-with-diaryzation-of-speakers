@@ -18,7 +18,7 @@ from pipeline.config import (
     STYLES_COMBO_RATES_FILE
 )
 from pipeline.prediction_model.title_holder import is_current_title_holder
-from pipeline.predictions_count import count_low_rank_predictions, count_high_rank_predictions
+from pipeline.predictions_count import count_low_rank_predictions, count_high_rank_predictions, count_all_predictions
 
 # Load the combo rates JSON in modern explicit dict style
 with open(STYLES_COMBO_RATES_FILE, encoding="utf-8") as f:
@@ -155,13 +155,137 @@ def get_athlete1_style_advantage_rate(style1, style2):
 def get_gender(athlete):
     return athlete.get("gender", "")
 
+
+
+def parse_date(date_str):
+    """
+    Robust date parser for YYYY-MM-DD, YYYY/MM/DD, YYYY, and other variants.
+    """
+    for fmt in ("%Y-%m-%d", "%Y/%m/%d", "%B %d, %Y", "%b %d, %Y", "%Y-%m", "%Y"):
+        try:
+            return datetime.strptime(date_str, fmt)
+        except Exception:
+            continue
+    return None
+
+def get_athlete_match_history(athlete_profile, up_to_date):
+    """
+    Returns list of matches (as dict) before up_to_date, sorted by date (oldest first).
+    """
+    matches = []
+    for opponent, match in athlete_profile.get("matches", {}).items():
+        match_date = parse_date(match.get("date", ""))
+        if not match_date or match_date >= up_to_date:
+            continue
+        matches.append({
+            "date": match_date,
+            "arm": match.get("arm", "Unknown"),
+            "result": match.get("result", ""),  # "Win" or "Lost"
+        })
+    matches.sort(key=lambda x: x["date"])
+    return matches
+
+def calc_streaks_and_winrate(matches):
+    """
+    matches: List of matches sorted oldest to newest.
+    Returns: (left_winning_streak, right_winning_streak, winrate_last_5)
+    """
+    # For streaks, count most recent (last) consecutive W/L for each arm
+    left_streak, right_streak = 0, 0
+
+    # We'll process in reverse for streaks (most recent first)
+    last_left, last_right = None, None
+    for m in reversed(matches):
+        if m["arm"] == "Left":
+            if last_left is None:
+                last_left = m["result"]
+                left_streak = 1 if m["result"] == "Win" else -1 if m["result"] == "Lost" else 0
+            elif m["result"] == last_left:
+                left_streak += 1 if last_left == "Win" else -1 if last_left == "Lost" else 0
+            else:
+                break
+    for m in reversed(matches):
+        if m["arm"] == "Right":
+            if last_right is None:
+                last_right = m["result"]
+                right_streak = 1 if m["result"] == "Win" else -1 if m["result"] == "Lost" else 0
+            elif m["result"] == last_right:
+                right_streak += 1 if last_right == "Win" else -1 if last_right == "Lost" else 0
+            else:
+                break
+
+    # Winrate last 5 (any arm)
+    recent = matches[-5:]
+    wins = sum(1 for m in recent if m["result"] == "Win")
+    winrate_last_5 = wins / len(recent) if recent else 0.0
+
+    return left_streak, right_streak, winrate_last_5
+
+def get_athlete_form_features(athlete_name, athlete_data, match_date):
+    """
+    Returns dict with 'left_winning_streak', 'right_winning_streak', 'winrate_last_5'.
+    Streaks only set if abs(streak) > 1, winrate set only if at least 2 recent matches.
+    """
+    athlete = athlete_data.get(athlete_name)
+    if not athlete:
+        return {
+            "left_winning_streak": 0,
+            "right_winning_streak": 0,
+            "winrate_last_5": 0.0
+        }
+    matches = get_athlete_match_history(athlete, match_date)
+    left_streak, right_streak, winrate_last_5 = calc_streaks_and_winrate(matches)
+    # Only keep streaks if >1 in absolute value
+    left_streak = left_streak if abs(left_streak) > 1 else 0
+    right_streak = right_streak if abs(right_streak) > 1 else 0
+
+    # Only set winrate if at least 2 matches
+    recent = matches[-5:]
+    winrate = round(winrate_last_5, 2) if len(recent) >= 2 else 0.0
+
+    return {
+        "left_winning_streak": left_streak,
+        "right_winning_streak": right_streak,
+        "winrate_last_5": winrate
+    }
+
+def get_days_from_last_match(athlete_profile, event_date):
+    """
+    Returns days since last match (before event_date).
+    If no previous match, returns 0.
+    """
+    from datetime import datetime
+    def parse_date(date_str):
+        for fmt in ("%Y-%m-%d", "%Y/%m/%d", "%B %d, %Y", "%b %d, %Y", "%Y-%m", "%Y"):
+            try:
+                return datetime.strptime(date_str, fmt)
+            except Exception:
+                continue
+        return None
+
+    event_dt = parse_date(event_date)
+    if not event_dt:
+        return 0
+
+    last_match_date = None
+    for match in athlete_profile.get("matches", {}).values():
+        match_date = parse_date(match.get("date", ""))
+        if match_date and match_date < event_dt:
+            if not last_match_date or match_date > last_match_date:
+                last_match_date = match_date
+    if last_match_date:
+        return (event_dt - last_match_date).days
+    return 0
+
 # Extract matches from events
 def extract_matches(events, event_type):
     rows = []
     for event in events:
         date = event.get("event_date")
         title = event.get("event_title")
+        
         event_location_country = event.get("event_location", "Unknown").split(",")[-1].strip()
+        match_date = parse_date(date)  # match_date_string from your row
 
         for m in event.get("matches", []):
             participants = m.get("participants", [])
@@ -182,6 +306,10 @@ def extract_matches(events, event_type):
             travels_2 = get_travel_penalty(a2_country, event_location_country)
             travel_type = get_travel_type(a1_country, a2_country)
 
+            f1_form = get_athlete_form_features(f1, athlete_data, match_date)
+            f2_form = get_athlete_form_features(f2, athlete_data, match_date)
+            match_arm = m.get("arm", "Unknown")
+
             row = {
                 "event": title,
                 "league": event_type,
@@ -189,6 +317,7 @@ def extract_matches(events, event_type):
                 "fighter_1": f1,
                 "fighter_2": f2,
                 "winner": winner,
+                "match_arm": match_arm,
                 "f1_age": get_age(a1, date),
                 "f2_age": get_age(a2, date),
                 "f1_style_dominant": a1["pulling_style"][0] if a1.get("pulling_style") and len(a1["pulling_style"]) > 0 else "Unknown",
@@ -234,10 +363,20 @@ def extract_matches(events, event_type):
                 "f2_gender": get_gender(a2),
                 "f1_is_current_title_holder": is_current_title_holder(title, f1),
                 "f2_is_current_title_holder": is_current_title_holder(title, f2),
+                "f1_days_from_last_match": get_days_from_last_match(a1, date),
+                "f2_days_from_last_match": get_days_from_last_match(a2, date),
                 "f1_low_rank_predictions": count_low_rank_predictions(f1, title),
                 "f1_high_rank_predictions": count_high_rank_predictions(f1, title),
                 "f2_low_rank_predictions": count_low_rank_predictions(f2, title),
-                "f2_high_rank_predictions": count_high_rank_predictions(f2, title)
+                "f2_high_rank_predictions": count_high_rank_predictions(f2, title),
+                "f1_all_rank_predictions": count_all_predictions(f1, title),
+                "f2_all_rank_predictions": count_all_predictions(f2, title),
+                "f1_left_winning_streak": f1_form["left_winning_streak"],
+                "f1_right_winning_streak": f1_form["right_winning_streak"],
+                "f1_winrate_last_5": f1_form["winrate_last_5"],
+                "f2_left_winning_streak": f2_form["left_winning_streak"],
+                "f2_right_winning_streak": f2_form["right_winning_streak"],
+                "f2_winrate_last_5": f2_form["winrate_last_5"],
                 }
             rows.append(row)
     return rows
