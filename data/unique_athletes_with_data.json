@@ -73,7 +73,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/abdulmanaf-tuzuyev.jpg"
   },
   "Adam Wawrzynski": {
     "name": "Adam Wawrzynski",
@@ -190,7 +191,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/adam-wawrzynski.png"
   },
   "Ahmet Yenerer": {
     "name": "Ahmet Yenerer",
@@ -266,7 +268,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/ahmet-yenerer.jpg"
   },
   "Aleksandr Beziazykov": {
     "name": "Aleksandr Beziazykov",
@@ -397,7 +400,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/aleksandr-beziazykov.jpg"
   },
   "Aleksandra Ozerova": {
     "name": "Aleksandra Ozerova",
@@ -479,7 +483,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "female"
+    "gender": "female",
+    "img": "goldsarm/aleksandra-ozerova.jpg"
   },
   "Alex Kurdecha": {
     "name": "Alex Kurdecha",
@@ -633,7 +638,8 @@
     "nickname": null,
     "occupation": "Branch Manager at Sport World Entertainment",
     "wrist_cm": 23.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/alex-kurdecha.jpg"
   },
   "Alizhan Muratov": {
     "name": "Alizhan Muratov",
@@ -761,7 +767,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/alizhan-muratov.jpg"
   },
   "Allen Ford": {
     "name": "Allen Ford",
@@ -844,7 +851,8 @@
     "nickname": "The Hitman",
     "occupation": null,
     "wrist_cm": 20.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/allen-ford.png"
   },
   "Andrei Chipreanov": {
     "name": "Andrei Chipreanov",
@@ -921,7 +929,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/andrei-chipreanov.jpg"
   },
   "Andrei Sharkevich": {
     "name": "Andrei Sharkevich",
@@ -1001,7 +1010,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/andrei-sharkevich.jpg"
   },
   "Angie Rose": {
     "name": "Angie Rose",
@@ -1077,7 +1087,8 @@
     "nickname": null,
     "occupation": "Practical Nurse",
     "wrist_cm": 17.0,
-    "gender": "female"
+    "gender": "female",
+    "img": "goldsarm/angie-rose.jpg"
   },
   "Anna Gronlund": {
     "name": "Anna Gronlund",
@@ -1150,7 +1161,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 19.0,
-    "gender": "female"
+    "gender": "female",
+    "img": "goldsarm/anna-gronlund.jpg"
   },
   "Arif Ertem": {
     "name": "Arif Ertem",
@@ -1279,7 +1291,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 22.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/arif-ertem.jpg"
   },
   "Arsen Khachatryan": {
     "name": "Arsen Khachatryan",
@@ -1363,7 +1376,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/arsen-khachatryan.png"
   },
   "Artem Taranenko": {
     "name": "Artem Taranenko",
@@ -1449,7 +1463,8 @@
     "nickname": "Artem Toproll",
     "occupation": null,
     "wrist_cm": 19.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/artem-taranenko.jpg"
   },
   "Artem Taynov": {
     "name": "Artem Taynov",
@@ -1558,7 +1573,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/artem-taynov.jpg"
   },
   "Artur Makarov": {
     "name": "Artur Makarov",
@@ -1665,7 +1681,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/arthur-makarov.jpg"
   },
   "Artyom Morozov": {
     "name": "Artyom Morozov",
@@ -1913,7 +1930,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 24.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/artyom-morozov.jpg"
   },
   "Auden Larratt": {
     "name": "Auden Larratt",
@@ -1982,7 +2000,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/auden-larratt.png"
   },
   "Avtandil Tutberidze": {
     "name": "Avtandil Tutberidze",
@@ -2053,7 +2072,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/avtandil-tutberidze.jpg"
   },
   "Ayane Takenaka": {
     "name": "Ayane Takenaka",
@@ -2130,7 +2150,8 @@
     "nickname": null,
     "occupation": "personal trainer",
     "wrist_cm": null,
-    "gender": "female"
+    "gender": "female",
+    "img": "goldsarm/ayane-takenaka.png"
   },
   "Aymeric Pradines": {
     "name": "Aymeric Pradine",
@@ -2217,7 +2238,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/aymeric-pradine.jpg"
   },
   "Azat Srapyan": {
     "name": "Azat Srapyan",
@@ -2296,7 +2318,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/azat-srapyan.jpg"
   },
   "Bacho Saginashvili": {
     "name": "Bacho Saginashvili",
@@ -2403,7 +2426,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/bacho-saginashvili.jpg"
   },
   "Barbora Bajciova": {
     "name": "Barbora Bajciova",
@@ -2502,7 +2526,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "female"
+    "gender": "female",
+    "img": "goldsarm/barbora-bajciova.jpg"
   },
   "Beket Aitbek": {
     "name": "Aitbek Beket",
@@ -2578,7 +2603,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/aitbek-beket.jpg"
   },
   "Bela Plieva": {
     "name": "Bela Plieva",
@@ -2656,7 +2682,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/bela-plieva.png"
   },
   "Betkili Oniani": {
     "name": "Betkili Oniani",
@@ -2777,7 +2804,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 19.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/betkili-oniani.jpg"
   },
   "Bozhidar Simeonov": {
     "name": "Bozhidar Simeonov",
@@ -2904,7 +2932,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 20.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/bozhidar-simeonov.jpg"
   },
   "Brad Grundy": {
     "name": "Brad Grundy",
@@ -2981,7 +3010,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 22.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/brad-grundy.jpg"
   },
   "Brandon Allen": {
     "name": "Brandon Allen",
@@ -3067,7 +3097,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 20.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/brandon-allen.jpg"
   },
   "Brandon Ellsessor": {
     "name": "Brandon Ellessor",
@@ -3154,7 +3185,8 @@
     "nickname": null,
     "occupation": "Equipment Operator",
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/brandon-ellessor.jpg"
   },
   "Brian Shaw": {
     "name": "Brian Shaw",
@@ -3221,7 +3253,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/brian-shaw.png"
   },
   "Brigitta Ivanfi": {
     "name": "Brigitta Ivánfi",
@@ -3298,7 +3331,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/brigitta-ivanfi.png"
   },
   "Carolina Pettersson": {
     "name": "Carolina Pettersson",
@@ -3404,7 +3438,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/carolina-pettersson.jpg"
   },
   "Chance Shaw": {
     "name": "Chance Shaw",
@@ -3546,7 +3581,8 @@
     "nickname": "Tugboat",
     "occupation": null,
     "wrist_cm": 22.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/chance-shaw.jpg"
   },
   "Cobra Rhodes": {
     "name": "Andrew Cobra Rhodes",
@@ -3606,7 +3642,8 @@
       "sidepressure_kg": null
     },
     "career_highlights": [],
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/cobra-rhodes.jpg"
   },
   "Cody Wood": {
     "name": "Cody Wood",
@@ -3683,7 +3720,8 @@
     "nickname": null,
     "occupation": "mold remediation",
     "wrist_cm": 20.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/cody-wood.png"
   },
   "Corey Miller": {
     "name": "Corey Miller",
@@ -3757,7 +3795,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/corey-miller.jpg"
   },
   "Corey West": {
     "name": "Corey West",
@@ -3919,7 +3958,8 @@
     "nickname": "Gorilla",
     "occupation": null,
     "wrist_cm": 26.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/corey-west.jpg"
   },
   "Craig Tullier": {
     "name": "Craig Tullier",
@@ -4022,7 +4062,8 @@
     "nickname": "The Fury",
     "occupation": "Construction Manager",
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/craig-tullier.png"
   },
   "Curtis Cameron": {
     "name": "Curtis Cameron",
@@ -4094,7 +4135,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/curtis-cameron.jpg"
   },
   "Daniel Procopciuc": {
     "name": "Daniel Procopciuc",
@@ -4249,7 +4291,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/daniel-procopciuc.jpg"
   },
   "Danil Ustinov": {
     "name": "Daniel Ustinov",
@@ -4334,7 +4377,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/daniel-ustinov.jpg"
   },
   "Dave Chaffee": {
     "name": "Dave Chaffee",
@@ -4519,7 +4563,8 @@
     "nickname": "Easy Money",
     "occupation": "Maximum Security Corrections Officer",
     "wrist_cm": 24.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/dave-chaffee.jpg"
   },
   "David Dadikyan": {
     "name": "David Dadikyan",
@@ -4666,7 +4711,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/david-dadikyan.jpg"
   },
   "Davit Arabuli": {
     "name": "Davit Arabuli",
@@ -4755,7 +4801,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/davit-arabuli.jpg"
   },
   "Davit Samushia": {
     "name": "Davit Samushia",
@@ -4950,7 +4997,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/davit-samushia.jpg"
   },
   "Denis Cyplenkov": {
     "name": "Denis Ivanovich Tsyplenkov",
@@ -5053,7 +5101,8 @@
       "Set world record in grip strength (115 kg)",
       "Longest undefeated streak in super heavyweight division (2009-2018)"
     ],
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/denis--cyplenkov.jpg"
   },
   "Derek Smith": {
     "name": "Derek Smith",
@@ -5170,7 +5219,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/derek-smith.jpg"
   },
   "Devon Larratt": {
     "name": "Devon Larratt",
@@ -5409,7 +5459,8 @@
     "nickname": "No Limits",
     "occupation": "Professional armwrestler",
     "wrist_cm": 22.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/devon-larratt.jpg"
   },
   "Dimitrina Petrova": {
     "name": "Dimitrina Petrova",
@@ -5499,7 +5550,8 @@
     "nickname": null,
     "occupation": "Vendor Consultant",
     "wrist_cm": null,
-    "gender": "female"
+    "gender": "female",
+    "img": "goldsarm/dimitrina-petrova.jpg"
   },
   "Doug Erlich": {
     "name": "Doug Erlich",
@@ -5599,7 +5651,8 @@
       "7 consecutive national championships",
       "Competing in East vs West supermatches"
     ],
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/doug-erlich.jpg"
   },
   "Dustin Hyatt": {
     "name": "Dustin Hyatt",
@@ -5669,7 +5722,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/dustin-hyatt.jpg"
   },
   "Eddie Hall": {
     "name": "Eddie Hall",
@@ -5756,7 +5810,8 @@
     "nickname": "The Beast",
     "occupation": null,
     "wrist_cm": 22.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/eddie-hall.png"
   },
   "Efe Komek": {
     "name": "Efe Kömek",
@@ -5875,7 +5930,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 20.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/efe-komek.jpg"
   },
   "Egle Vaitkute": {
     "name": "Egle Vaitkute",
@@ -5996,7 +6052,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "female"
+    "gender": "female",
+    "img": "goldsarm/egle-vaitkute.jpg"
   },
   "Ekaterina Nikisheva": {
     "name": "Ekaterina Nikisheva",
@@ -6076,7 +6133,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/ekaterina-nikisheva.jpg"
   },
   "Elin Janeheim": {
     "name": "Elin Janeheim",
@@ -6141,7 +6199,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/elin-janeheim.png"
   },
   "Elizabeth Mocek": {
     "name": "Elizabeth Rae Mocek",
@@ -6226,7 +6285,8 @@
     "nickname": "The Reaper",
     "occupation": null,
     "wrist_cm": null,
-    "gender": "female"
+    "gender": "female",
+    "img": "goldsarm/elizabeth-rae-mocek.jpg"
   },
   "Emil Amirshadyan": {
     "name": "Emil Amirshadyan",
@@ -6303,7 +6363,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/emil-amirshadyan.jpg"
   },
   "Engin Terzi": {
     "name": "Engin Terzi",
@@ -6379,7 +6440,8 @@
       "Undefeated in world championships for a decade",
       "Featured in East vs West Armwrestling events"
     ],
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/engin-terzi.jpg"
   },
   "Erkan Damar": {
     "name": "Erkan Damar",
@@ -6460,7 +6522,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/erkan-damar.png"
   },
   "Ermes Gasparini": {
     "name": "Ermes Gasparini",
@@ -6682,7 +6745,8 @@
     "nickname": "The Gladiator",
     "occupation": "Marble Quarry Worker",
     "wrist_cm": 23.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/ermes-gasparini.png"
   },
   "Esra Kiraz": {
     "name": "Esra Kiraz",
@@ -6758,7 +6822,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/esra-kiraz.jpg"
   },
   "Evgeny Prudnik": {
     "name": "Evgeny Prudnik",
@@ -6942,7 +7007,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 22.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/evgeny-prudnik.jpg"
   },
   "Ferit Osmanli": {
     "name": "Ferit Osmanli",
@@ -7052,7 +7118,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/ferit-osmanli.jpg"
   },
   "Fia Reisek": {
     "name": "Fia Reisek",
@@ -7156,7 +7223,8 @@
     "nickname": "Fia",
     "occupation": "Gym Owner",
     "wrist_cm": 18.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/fia-reisek.png"
   },
   "Frank Lamparelli": {
     "name": "Frank Lamparelli",
@@ -7249,7 +7317,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 22.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/frank-lamparelli.jpg"
   },
   "Gabor Botta Dukat": {
     "name": "Gabor Botta Dukat",
@@ -7327,7 +7396,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/gabor-botta-dukat.png"
   },
   "Gabriela Vasconcelos": {
     "name": "Gabriela Vasconcelos",
@@ -7444,7 +7514,8 @@
         }
       ]
     },
-    "gender": "female"
+    "gender": "female",
+    "img": "goldsarm/gabi-vasconcelos.jpg"
   },
   "Genadi Kvikvinia": {
     "name": "Genadi Kvikvinia",
@@ -7615,7 +7686,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 23.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/genadi-kvikvinia.png"
   },
   "Georgi Tsvetkov": {
     "name": "Georgi Tsvetkov",
@@ -7759,7 +7831,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/georgi-tsvetkov.png"
   },
   "Georgii Dzeranov": {
     "name": "Georgii Dzeranov",
@@ -7921,7 +7994,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/georgii-dzeranov.jpg"
   },
   "Georgy Tautiev": {
     "name": "Georgy Tautiev",
@@ -8013,7 +8087,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/georgy-tautiev.jpg"
   },
   "Haydar Gildil": {
     "name": "Haydar Gildil",
@@ -8105,7 +8180,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/haydar-gildil.jpg"
   },
   "Herman Stevens": {
     "name": "Herman Stevens",
@@ -8204,7 +8280,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 18.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/herman-stevens.jpg"
   },
   "Hristo Delidzhakov": {
     "name": "Hristo Delidzhakov",
@@ -8289,7 +8366,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/hristo-delidzhakov.jpg"
   },
   "Hunter Noffz": {
     "name": "Hunter Noffz",
@@ -8385,7 +8463,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/hunter-noffz.jpg"
   },
   "Ibragim Sagov": {
     "name": "Ibragim Sagov",
@@ -8506,7 +8585,8 @@
       "Gold medal at 2019 World Armwrestling Federation Championships (left hand)",
       "Elite top-10 ranked SHW armwrestler since 2019"
     ],
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/ibrahim-sagov.jpg"
   },
   "Irakli Zirakashvili": {
     "name": "Irakli Zirakashvili",
@@ -8730,7 +8810,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 21.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/irakli-zirakashvili.jpg"
   },
   "Irina Drieva": {
     "name": "İrina Drieva",
@@ -8813,7 +8894,8 @@
         }
       ]
     },
-    "gender": "female"
+    "gender": "female",
+    "img": "goldsarm/irina-drieva.png"
   },
   "Irina Gladkaya": {
     "name": "Irina Gladkaya",
@@ -8891,7 +8973,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "female"
+    "gender": "female",
+    "img": "goldsarm/irina-gladkaya.jpg"
   },
   "Ivan Matyushenko": {
     "name": "Ivan Matyushenko",
@@ -9029,7 +9112,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/ivan-matyushenko.jpg"
   },
   "Ivan Portela": {
     "name": "Ivan Portela",
@@ -9113,7 +9197,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/ivan-portela.png"
   },
   "Janis Amolins": {
     "name": "Janis Amolins",
@@ -9201,7 +9286,8 @@
     "nickname": "The Jedi",
     "occupation": "Physiotherapist",
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/janis-amolins.jpg"
   },
   "Jerry Cadorette": {
     "name": "Jerry Cadorette",
@@ -9336,7 +9422,8 @@
     "nickname": "Big Daddy",
     "occupation": "Car Dealership owner",
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/jerry-cadorette.png"
   },
   "Jocelyne Brisson": {
     "name": "Jocelyne Brisson",
@@ -9427,7 +9514,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/jocelyne-brisson.png"
   },
   "John Brzenk": {
     "name": "John Brzenk",
@@ -9632,7 +9720,8 @@
     "nickname": "The Perfect Storm, G.O.A.T",
     "occupation": "Delta Air Lines Mechanic",
     "wrist_cm": 20.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/john-brzenk.jpg"
   },
   "John Therrien": {
     "name": "John Therrien",
@@ -9723,7 +9812,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 20.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/john-therrien.png"
   },
   "Jonathan Breda": {
     "name": "Jonathon Breda",
@@ -9811,7 +9901,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 18.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/jonathon-breda.jpg"
   },
   "Joseph Meranto": {
     "name": "Joseph Meranto",
@@ -9904,7 +9995,8 @@
     "nickname": "biceps",
     "occupation": null,
     "wrist_cm": 22.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/joseph-meranto.jpg"
   },
   "Joshua Grant": {
     "name": "Joshua Grant",
@@ -9977,7 +10069,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/joshua-grant.png"
   },
   "Justin Bishop": {
     "name": "Justin Bishop",
@@ -10083,7 +10176,8 @@
     "nickname": "Bama Bull",
     "occupation": "Self-employed",
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/justin-bishop.jpg"
   },
   "Kacper Sinica": {
     "name": "Kacper Sinica",
@@ -10166,7 +10260,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 20.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/kacper-sinica.jpg"
   },
   "Kamil Jablonski": {
     "name": "Kamil Jablonski",
@@ -10308,7 +10403,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/kamil-jablonski.jpg"
   },
   "Kevin Palko": {
     "name": "Kevin Palko",
@@ -10383,7 +10479,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/kevin-palko.png"
   },
   "Khadzimurat Zoloev": {
     "name": "Khadzimurat Zoloev",
@@ -10479,7 +10576,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/khadzimurat-zoloev.jpg"
   },
   "Khaled Jashell": {
     "name": "Khaled Jashell",
@@ -10579,7 +10677,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 22.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/khaled-jashell.jpg"
   },
   "Kody Merritt": {
     "name": "Kody Merritt",
@@ -10677,7 +10776,8 @@
     "nickname": "Big Spur",
     "occupation": "Utah Probation & Parole Officer",
     "wrist_cm": 23.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/kody-merritt.png"
   },
   "Korean Hulk": {
     "name": "Korean Hulk",
@@ -10754,7 +10854,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/korean-hulk.png"
   },
   "Krasimir Kostadinov": {
     "name": "Krasimir Kostadinov",
@@ -10894,7 +10995,8 @@
     "nickname": "The Dragon",
     "occupation": "Athlete",
     "wrist_cm": 20.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/krasimir-kostadinov.png"
   },
   "Kydyrgali Ongarbaev": {
     "name": "Kydyrgali Ongarbaev",
@@ -11030,7 +11132,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/kydyrgali-ongarbaev.jpg"
   },
   "Kyle Hutchison": {
     "name": "Kyle Hutchison",
@@ -11101,7 +11204,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/kyle-hutchison.jpg"
   },
   "Lachlan Adair": {
     "name": "Lachlan Adair",
@@ -11244,7 +11348,8 @@
     "nickname": "The Anvil",
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/lachlan-adair.jpg"
   },
   "Larry Wheels": {
     "name": "Larry Wheels",
@@ -11365,7 +11470,8 @@
     "nickname": null,
     "occupation": "Power Lifter",
     "wrist_cm": 22.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/larry-wheels.jpg"
   },
   "Lars Rorbakken": {
     "name": "Lars Rorbakken",
@@ -11487,7 +11593,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/lars-rorbakken.jpg"
   },
   "Leonidas Arkona": {
     "name": "Leonidas Arkona",
@@ -11581,7 +11688,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/leonidas-arkona.jpg"
   },
   "Levan Saginashvili": {
     "name": "Levan Saginashvili",
@@ -11718,7 +11826,8 @@
     "nickname": "Georgian Hulk",
     "occupation": "SR Fabrication",
     "wrist_cm": 28.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/levan-saginashvili.jpg"
   },
   "Maateiwarangi Heta-Morris": {
     "name": "Maateiwarangi Heta-Morris",
@@ -11811,7 +11920,8 @@
     "nickname": "THE BEAST",
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/maateiwarangi-heta-morris.jpg"
   },
   "Malin Bergstrom": {
     "name": "Malin Bergström",
@@ -11885,7 +11995,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/malin-bergstorm.jpg"
   },
   "Marcio Barboza": {
     "name": "Marcio Barboza",
@@ -12005,7 +12116,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/marcio-barboza.jpg"
   },
   "Matt Mask": {
     "name": "Matt Mask",
@@ -12221,7 +12333,8 @@
     "nickname": "Wildhorse",
     "occupation": "Field Specialist",
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/matt-mask.jpg"
   },
   "Mazahir Saidu": {
     "name": "Mazahir Saidu",
@@ -12294,7 +12407,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/mazahir-saidu.jpg"
   },
   "Mehdi Abvolvand": {
     "name": "Mehdi Abdolvand",
@@ -12371,7 +12485,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/mehdi-abdolvand.jpg"
   },
   "Michael Todd": {
     "name": "Michael Todd",
@@ -12571,7 +12686,8 @@
     "nickname": "Monster",
     "occupation": "Body Transformation Specialist",
     "wrist_cm": 24.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/michael-todd.jpg"
   },
   "Mindaugas Tarasaitis": {
     "name": "Mindaugas Tarasaitis",
@@ -12736,7 +12852,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/mindaugas-tarasaitis.jpg"
   },
   "Nedalin Hristov": {
     "name": "Nedalin Hristov",
@@ -12819,7 +12936,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/nedalin-hristov.jpg"
   },
   "Nisa Camanan": {
     "name": "Nisa Camadan",
@@ -12892,7 +13010,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/nisa-camadan.jpg"
   },
   "Nugo Chikadze": {
     "name": "Nugzari Chikadze",
@@ -12959,7 +13078,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/nugo-chikadze.jpg"
   },
   "Nugzari Chikadze": {
     "name": "Nugzari Chikadze",
@@ -13071,7 +13191,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/nugzari-chikadze.jpg"
   },
   "Nurdalet Aidarkhan": {
     "name": "Nurdalet Aidarkhan",
@@ -13168,7 +13289,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/nurdalet-aidarkhan.jpg"
   },
   "Oguzhan Kocak": {
     "name": "Oguzhan Koçak",
@@ -13243,7 +13365,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/oguzhan-kocak.jpg"
   },
   "Oleg Cherkasov": {
     "name": "Oleg Cherkasov",
@@ -13325,7 +13448,8 @@
       "Won 85kg category at East vs West 7 (2022)",
       "Multiple Russian national championships"
     ],
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/oleg-chersakov.jpg"
   },
   "Oleg Petrenko": {
     "name": "Oleg Petrenko",
@@ -13474,7 +13598,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/oleg-petrenko.jpg"
   },
   "Oleg Zhokh": {
     "name": "Oleg Zhokh",
@@ -13605,7 +13730,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 23.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/oleg-zhokh.jpg"
   },
   "Olga Terpelova": {
     "name": "Olga Terpelova",
@@ -13677,7 +13803,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/olga-terpelova.jpg"
   },
   "Omer Kozakoglu": {
     "name": "Ömer Kozakoğlu",
@@ -13754,7 +13881,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/omer-kozakoglu.jpg"
   },
   "Paul Linn": {
     "name": "Paul Linn",
@@ -13948,7 +14076,8 @@
     "nickname": "The White Orc",
     "occupation": "High School Football Coach",
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/paul-linn.jpg"
   },
   "Paul Talbott": {
     "name": "Paul Talbott",
@@ -14021,7 +14150,8 @@
     "nickname": "The Assassin",
     "occupation": "Train Conductor",
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/paul-talbott.jpg"
   },
   "Pavlo Derbedyenyev": {
     "name": "Pavlo Derbedyenyev",
@@ -14123,7 +14253,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/pavlo-derbedyenyev.jpg"
   },
   "Petro Marharint": {
     "name": "Petro Marharint",
@@ -14221,7 +14352,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/petro-marharint.jpg"
   },
   "Raimonds Liepins": {
     "name": "Raimonds Liepins",
@@ -14360,7 +14492,8 @@
     "nickname": "Coach Ray",
     "occupation": null,
     "wrist_cm": 20.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/raimonds-liepins.jpg"
   },
   "Ramzi Tayba": {
     "name": "Ramzi Tayba",
@@ -14432,7 +14565,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 20.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/ramzi-tayba.jpg"
   },
   "Rebeka Martinkovicova": {
     "name": "Rebeka Martinkovicova",
@@ -14517,7 +14651,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 18.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/rebeka-martinkovicova.jpg"
   },
   "Revaz Lutidze": {
     "name": "Revaz Lutidze",
@@ -14650,7 +14785,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/revaz-lutidze.jpg"
   },
   "Riekerd Bornman": {
     "name": "Riekerd Bornman",
@@ -14733,7 +14869,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/riekerd-bornman.png"
   },
   "Rino Masic": {
     "name": "Rino Masic",
@@ -14843,7 +14980,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/rino-masic.jpg"
   },
   "Rob Vigeant Jr.": {
     "name": "Rob Vigeant Jr",
@@ -14938,7 +15076,8 @@
     "nickname": "RVJ",
     "occupation": "General Contractor",
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/rob-vigeant-jr.jpg"
   },
   "Robbie Karstendiek": {
     "name": "Robbie Karstendiek",
@@ -15015,7 +15154,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/robbie-karstendiek.jpg"
   },
   "Robbie Topie": {
     "name": "Robbie Topie",
@@ -15086,7 +15226,8 @@
     "nickname": null,
     "occupation": "Deputy Sheriff",
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/robbie-topie.jpg"
   },
   "Robert Baxter": {
     "name": "Robert Baxter",
@@ -15162,7 +15303,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/robert-baxter.jpg"
   },
   "Ron Bath": {
     "name": "Ron Bath",
@@ -15278,7 +15420,8 @@
     "nickname": "The Legend",
     "occupation": "Bath Enterprises Inc.",
     "wrist_cm": 24.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/ron-bath.jpg"
   },
   "Rosa Acosta (Boltadano)": {
     "name": "Rosa Acosta (Boltadano)",
@@ -15355,7 +15498,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/rosa-acosta-(boltadano).jpg"
   },
   "Ruslan Babaiev": {
     "name": "Ruslan Babayev",
@@ -15432,7 +15576,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/ruslan-babayev.jpg"
   },
   "Rustam Babayev": {
     "name": "Rustam Babayev",
@@ -15551,7 +15696,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 20.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/rustam-babayev.jpg"
   },
   "Ryan Belanger": {
     "name": "Ryan Belanger",
@@ -15646,7 +15792,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/ryan-belanger.png"
   },
   "Ryan Bowen": {
     "name": "Ryan Bowen",
@@ -15765,7 +15912,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/ryan-bowen.jpg"
   },
   "Sabin Badulescu": {
     "name": "Sabin Badulescu",
@@ -15844,7 +15992,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/sabin-badulescu.jpg"
   },
   "Sahip Caglar": {
     "name": "Sahip Çağlar",
@@ -15917,7 +16066,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/sahip-caglar.jpg"
   },
   "Sandris Sedis": {
     "name": "Sandris Sedis",
@@ -16052,7 +16202,8 @@
     "nickname": "PANZER",
     "occupation": null,
     "wrist_cm": 22.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/sandris-sedis.jpg"
   },
   "Sarah Backman": {
     "name": "Sarah Backman",
@@ -16178,7 +16329,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/sarah-backman.png"
   },
   "Sarah Collins": {
     "name": "Sarah Collins",
@@ -16239,7 +16391,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/sarah-collins.jpg"
   },
   "Sasho Andreev": {
     "name": "Sasho Andreev",
@@ -16359,7 +16512,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/sasho-andreev.jpg"
   },
   "Serhii Kalinichenko": {
     "name": "Sergei Kalinichenko",
@@ -16502,7 +16656,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/sergei-kalinichenko.jpg"
   },
   "Stoyan Golemanov": {
     "name": "Stoyan Golemanov",
@@ -16599,7 +16754,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/stoyan-golemanov.jpg"
   },
   "Talgat Aktaev": {
     "name": "Talgat Aktaev",
@@ -16673,7 +16829,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/talgat-aktaev.jpg"
   },
   "Terence Opperman": {
     "name": "Terence Opperman",
@@ -16742,7 +16899,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/terence-opperman.jpg"
   },
   "Thomas Manghi": {
     "name": "Thomas Manghi",
@@ -16827,7 +16985,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/thomas-manghi.jpg"
   },
   "Tobias Sporrong": {
     "name": "Tobias Sporrong",
@@ -16968,7 +17127,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 21.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/tobias-sporrong.jpg"
   },
   "Todd Hutchings": {
     "name": "Todd Hutchings",
@@ -17177,7 +17337,8 @@
     "nickname": "Toddzilla",
     "occupation": "Mechanical Engineer",
     "wrist_cm": 21.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/todd-hutchings.jpg"
   },
   "Tom Holland": {
     "name": "Tom Holland",
@@ -17251,7 +17412,8 @@
     "nickname": "The Machine",
     "occupation": "Landscape Gardener",
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/tom-holland.jpg"
   },
   "Tom Rozits": {
     "name": "Toms Rozits",
@@ -17336,7 +17498,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/toms-rozits.jpg"
   },
   "Toms Rozits": {
     "name": "Toms Rozits",
@@ -17416,7 +17579,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/toms-rozits.jpg"
   },
   "Tony Kitowski": {
     "name": "Tony Kitowski",
@@ -17500,7 +17664,8 @@
     "nickname": "Iron Man",
     "occupation": "Electrician",
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/tony-kitowski.jpg"
   },
   "Travis Bagent": {
     "name": "Travis Bagent",
@@ -17605,7 +17770,8 @@
     "nickname": "The Beast",
     "occupation": "Crossfit Fitness Owner",
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/travis-bagent.jpg"
   },
   "Vala Ichqiti": {
     "name": "Vala Ichqiti",
@@ -17682,7 +17848,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/vala-ichqiti.jpg"
   },
   "Valen Low": {
     "name": "Valen Low",
@@ -17756,7 +17923,8 @@
     "nickname": "The Godfather",
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/valen-low.png"
   },
   "Valera Chubotaru": {
     "name": "Valera Chubotaru",
@@ -17834,7 +18002,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/valera-chubotaru.jpg"
   },
   "Vasily Dautashvili": {
     "name": "Vaso Dautashvili",
@@ -17903,7 +18072,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/vaso-dautashvili.png"
   },
   "Vitaly Laletin": {
     "name": "Vitaly Laletin",
@@ -18074,7 +18244,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/vitaly-laletin.png"
   },
   "Vlad Dzisiak": {
     "name": "Vlad Dzisiak",
@@ -18150,7 +18321,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/vlad-dzisiak.jpg"
   },
   "Vladimir Maiorov": {
     "name": "Vladimir Maiorov",
@@ -18245,7 +18417,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/vladimir-maiorov.jpg"
   },
   "Vrezh Sedrakyan": {
     "name": "Sedrakyan Vrezh",
@@ -18324,7 +18497,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/sedrakyan-vrezh.jpg"
   },
   "Wagner Bortalato": {
     "name": "Wagner Bortolato",
@@ -18401,7 +18575,8 @@
     "nickname": "Big Head Bortalato",
     "occupation": "Personal Trainer",
     "wrist_cm": 23.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/wagner-bortolato.jpg"
   },
   "Wagner Bortolato": {
     "name": "Wagner Bortolato",
@@ -18519,7 +18694,8 @@
     "nickname": "Big Head Bortalato",
     "occupation": "Personal Trainer",
     "wrist_cm": 23.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/wagner-bortolato.jpg"
   },
   "Wallace Dilley": {
     "name": "Wallace Dilley",
@@ -18580,7 +18756,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/wallace-dilley.jpg"
   },
   "Yerdaulet Sarybay": {
     "name": "Yerdaulet Sarybay",
@@ -18658,7 +18835,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/yerdaulet-sarybay.jpg"
   },
   "Yordan Tsonev": {
     "name": "Yordan Tsonev",
@@ -18743,7 +18921,8 @@
     "nickname": "dancho",
     "occupation": null,
     "wrist_cm": 21.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/yordan-tsonev.jpg"
   },
   "Yoshinobu Kanai": {
     "name": "Yoshinobu Kanai",
@@ -18830,7 +19009,8 @@
     "nickname": "The warlord",
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/yoshinobu-kanai.jpg"
   },
   "Yusuf Yildizoglu": {
     "name": "Yusuf Ziya Yildizoglu",
@@ -18925,7 +19105,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": 18.0,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/yusuf-ziya-yildizoglu.jpg"
   },
   "Zaur Paizulaev": {
     "name": "Zaur Paizulaev",
@@ -19007,7 +19188,8 @@
     "nickname": null,
     "occupation": null,
     "wrist_cm": null,
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/zaur-paizulaev.png"
   },
   "Zurab Tavberidze": {
     "name": "Zurab Tavberidze",
@@ -19211,7 +19393,8 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/zurab-tavbaridze.jpg"
   },
   "Irakli Gamtenadze": {
     "name": "Irakli Gamtenadze",
@@ -19281,6 +19464,7 @@
         }
       ]
     },
-    "gender": "male"
+    "gender": "male",
+    "img": "goldsarm/irakli-gamtenadze.jpg"
   }
 }
