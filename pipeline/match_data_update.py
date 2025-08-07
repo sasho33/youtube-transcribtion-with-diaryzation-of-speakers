@@ -36,7 +36,8 @@ def extract_matches_from_events(events_data):
                     "date": event_date,
                     "result": result,
                     "score": match.get("score", ""),
-                    "event": event_title
+                    "event": event_title,
+                    "event_location": event.get("event_location", ""),
                 })
     return matches_by_athlete
 
@@ -90,15 +91,18 @@ def main():
             if real_name == athlete_name:
                 matches.extend(all_matches[event_norm_name])
         # Build the matches dict: key = opponent, value = match info
-        matches_dict = {}
+        matches_dict = defaultdict(list)
         for match in matches:
-            matches_dict[match["opponent"]] = {
+            print(match)
+            matches_dict[match["opponent"]].append({
                 "arm": match["arm"],
                 "date": match["date"],
                 "event": match["event"],
                 "result": match["result"],
-                "score": match["score"]
-            }
+                "score": match["score"],
+                "event_title": match["event"],
+                "event_location": match["event_location"]
+            })
         athlete_data["matches"] = matches_dict
         athlete_data["win_loss_record"] = compute_win_loss(matches)
 

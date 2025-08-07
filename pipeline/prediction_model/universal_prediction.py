@@ -24,8 +24,8 @@ from pipeline.prediction_model.athletes_data_for_model import (
     get_athlete_form_features,
     get_combo_success_pct,
     get_athlete1_style_advantage_rate,
-    get_stat_safe,
-    get_travel_penalty
+    compute_domestic_transatlantic_winrates_single,
+    get_travel_penalty    
            # dict from athletes_data_for_model.py
 )
 
@@ -178,11 +178,20 @@ def universal_predict_and_save(
     f2_travel_penalty = get_travel_penalty(f2_country, event_country)
     domestic_adv = f2_travel_penalty - f1_travel_penalty
 
+
     # --- Winrates (domestic/transatlantic) ---
-    f1_dom_win = get_stat_safe(athlete1_name, "domestic_win_rate")
-    f1_trans_win = get_stat_safe(athlete1_name, "transatlantic_win_rate")
-    f2_dom_win = get_stat_safe(athlete2_name, "domestic_win_rate")
-    f2_trans_win = get_stat_safe(athlete2_name, "transatlantic_win_rate")
+    a1_profile = a1
+    a2_profile = a2
+    a1_country = a1_profile.get("country", "Unknown")
+    a2_country = a2_profile.get("country", "Unknown")
+    a1_winrate_stats = compute_domestic_transatlantic_winrates_single(a1_profile, a1_country, up_to_date=match_dt)
+    a2_winrate_stats = compute_domestic_transatlantic_winrates_single(a2_profile, a2_country, up_to_date=match_dt)
+
+    f1_dom_win = a1_winrate_stats["domestic_win_rate"]
+    f1_trans_win = a1_winrate_stats["transatlantic_win_rate"]
+    f2_dom_win = a2_winrate_stats["domestic_win_rate"]
+    f2_trans_win = a2_winrate_stats["transatlantic_win_rate"]
+
 
     # --- Styles ---
     f1_style_dominant = get_dominant_style(a1)
@@ -271,5 +280,5 @@ def universal_predict_and_save(
 
 # Example usage:
 if __name__ == "__main__":
-    universal_predict_and_save("Devon Larratt", "Vitaly Laletin", match_arm="Right", verbose=True)
-    universal_predict_and_save("Vitaly Laletin", "Devon Larratt", match_arm="Right", verbose=True)
+    universal_predict_and_save("Devon Larratt", "Kamil Jablonski", match_arm="Right", verbose=True)
+    universal_predict_and_save("Kamil Jablonski", "Devon Larratt", match_arm="Right", verbose=True)

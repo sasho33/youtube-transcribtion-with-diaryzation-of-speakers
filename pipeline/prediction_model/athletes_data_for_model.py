@@ -178,15 +178,16 @@ def get_athlete_match_history(athlete_profile, up_to_date):
     Returns list of matches (as dict) before up_to_date, sorted by date (oldest first).
     """
     matches = []
-    for opponent, match in athlete_profile.get("matches", {}).items():
-        match_date = parse_date(match.get("date", ""))
-        if not match_date or match_date >= up_to_date:
-            continue
-        matches.append({
-            "date": match_date,
-            "arm": match.get("arm", "Unknown"),
-            "result": match.get("result", ""),  # "Win" or "Lost"
-        })
+    for opponent, matches_list in athlete_profile.get("matches", {}).items():
+        for match in matches_list:
+            match_date = parse_date(match.get("date", ""))
+            if not match_date or match_date >= up_to_date:
+                continue
+            matches.append({
+                "date": match_date,
+                "arm": match.get("arm", "Unknown"),
+                "result": match.get("result", ""),  # "Win" or "Lost"
+            })
     matches.sort(key=lambda x: x["date"])
     return matches
 
@@ -222,7 +223,7 @@ def calc_streaks_and_winrate(matches):
     # Winrate last 5 (any arm)
     recent = matches[-5:]
     wins = sum(1 for m in recent if m["result"] == "Win")
-    winrate_last_5 = wins / len(recent) if recent else 0.0
+    winrate_last_5 = wins / len(recent) if len(recent) else 0.5
 
     return left_streak, right_streak, winrate_last_5
 
@@ -236,7 +237,7 @@ def get_athlete_form_features(athlete_name, athlete_data, match_date):
         return {
             "left_winning_streak": 0,
             "right_winning_streak": 0,
-            "winrate_last_5": 0.0
+            "winrate_last_5": 0.5
         }
     matches = get_athlete_match_history(athlete, match_date)
     left_streak, right_streak, winrate_last_5 = calc_streaks_and_winrate(matches)
@@ -246,7 +247,7 @@ def get_athlete_form_features(athlete_name, athlete_data, match_date):
 
     # Only set winrate if at least 2 matches
     recent = matches[-5:]
-    winrate = round(winrate_last_5, 2) if len(recent) >= 2 else 0.0
+    winrate = round(winrate_last_5, 2) if len(recent) >= 1 else 0.5
 
     return {
         "left_winning_streak": left_streak,
@@ -273,15 +274,59 @@ def get_days_from_last_match(athlete_profile, event_date):
         return 0
 
     last_match_date = None
-    for match in athlete_profile.get("matches", {}).values():
-        match_date = parse_date(match.get("date", ""))
-        if match_date and match_date < event_dt:
-            if not last_match_date or match_date > last_match_date:
-                last_match_date = match_date
+    for matches_list in athlete_profile.get("matches", {}).values():
+        for match in matches_list:
+            match_date = parse_date(match.get("date", ""))
+            if match_date and match_date < event_dt:
+                if not last_match_date or match_date > last_match_date:
+                    last_match_date = match_date
     if last_match_date:
         return (event_dt - last_match_date).days
     return 0
 
+def extract_country_from_location(location):
+    """
+    Extracts the country from an event_location string.
+    Assumes last comma-separated part is country.
+    """
+    if not location or not isinstance(location, str):
+        return "Unknown"
+    return location.split(",")[-1].strip()
+
+
+def compute_domestic_transatlantic_winrates_single(athlete_profile, athlete_country, up_to_date=None):
+    home_zone = get_zone(athlete_country)
+    domestic_wins = domestic_total = trans_wins = trans_total = 0
+
+    for opponent, matches_list in athlete_profile.get("matches", {}).items():
+        for match in matches_list:
+            match_date = parse_date(match.get("date", ""))
+            if up_to_date and (not match_date or match_date >= up_to_date):
+                continue
+            # Fix: extract the country from event_location
+            event_location = match.get("event_location")
+            event_country = extract_country_from_location(event_location)
+            event_country = normalize_country(event_country)
+            event_zone = get_zone(event_country)
+            mtype = "domestic" if event_zone == home_zone else "transatlantic"
+            result = match.get("result", "")
+            if mtype == "domestic":
+                domestic_total += 1
+                if result == "Win":
+                    domestic_wins += 1
+            else:
+                trans_total += 1
+                if result == "Win":
+                    trans_wins += 1
+
+    return {
+        "domestic_win_rate": round(domestic_wins / domestic_total, 3) if domestic_total > 0 else 0.5,
+        "transatlantic_win_rate": round(trans_wins / trans_total, 3) if trans_total > 0 else 0.5,
+        "domestic_wins": domestic_wins,
+        "domestic_total": domestic_total,
+        "transatlantic_wins": trans_wins,
+        "transatlantic_total": trans_total
+    }
 # Extract matches from events
 def extract_matches(events, event_type):
     rows = []
@@ -393,44 +438,45 @@ df = pd.DataFrame(
     extract_matches(kott_events, "KOTT")
 )
 
-# Build win/loss travel stats
-records = defaultdict(lambda: {"domestic": {"wins": 0, "losses": 0},
-                               "transatlantic": {"wins": 0, "losses": 0}})
+event_name = "East vs West 18"
+# First, build the athlete stats (using the same method as in the function, but store counts not just rates)
+from collections import defaultdict
+
+zone_a = {normalize_country(c) for c in ZONE_A_COUNTRIES}
+
+def get_zone(country):
+    return "America" if normalize_country(country) in zone_a else "RestOfWorld"
+
+# Collect win/loss by type for each athlete
+win_stats = defaultdict(lambda: {"domestic": [0,0], "transatlantic": [0,0]})
 
 for _, row in df.iterrows():
-    f1, f2, winner, tt = row["fighter_1"], row["fighter_2"], row["winner"], row["travel_type"]
+    f1 = row["fighter_1"].strip().lower()
+    f2 = row["fighter_2"].strip().lower()
+    winner = row["winner"].strip().lower()
+    event_country = normalize_country(row["event_location_country"])
+    f1_country = normalize_country(row["f1_country"])
+    f2_country = normalize_country(row["f2_country"])
+    event_zone = get_zone(event_country)
+    f1_zone = get_zone(f1_country)
+    f2_zone = get_zone(f2_country)
+
+    # FIGHTER 1
+    mtype1 = "domestic" if event_zone == f1_zone else "transatlantic"
     if winner == f1:
-        records[f1][tt]["wins"] += 1
-        records[f2][tt]["losses"] += 1
-    else:
-        records[f2][tt]["wins"] += 1
-        records[f1][tt]["losses"] += 1
+        win_stats[f1][mtype1][0] += 1
+    win_stats[f1][mtype1][1] += 1
 
-def safe_rate(w, l):
-    return round(w / (w + l), 3) if w + l > 0 else 0.5
+    # FIGHTER 2
+    mtype2 = "domestic" if event_zone == f2_zone else "transatlantic"
+    if winner == f2:
+        win_stats[f2][mtype2][0] += 1
+    win_stats[f2][mtype2][1] += 1
 
-travel_stats = {
-    name: {
-        "domestic_win_rate": safe_rate(d["domestic"]["wins"], d["domestic"]["losses"]),
-        "transatlantic_win_rate": safe_rate(d["transatlantic"]["wins"], d["transatlantic"]["losses"])
-    }
-    for name, d in records.items()
-}
+# Now, get all athletes in East vs West 18
+participants = set(df.loc[df["event"] == event_name, "fighter_1"].str.lower()) | set(df.loc[df["event"] == event_name, "fighter_2"].str.lower())
 
-def get_stat_safe(name, stat):
-    if name in travel_stats:
-        return travel_stats[name].get(stat, 0.5)
-    match, score = process.extractOne(name, list(travel_stats.keys()))
-    if score >= 90:
-        print(f"[TRAVEL RATE Fuzzy] '{name}' → '{match}' (score={score})")
-        return travel_stats[match].get(stat, 0.5)
-    print(f"[❌ Travel stat missing] '{name}' (closest: '{match}', score={score})")
-    return 0.5
 
-df["f1_domestic_win_rate"] = df["fighter_1"].apply(lambda x: get_stat_safe(x, "domestic_win_rate"))
-df["f1_transatlantic_win_rate"] = df["fighter_1"].apply(lambda x: get_stat_safe(x, "transatlantic_win_rate"))
-df["f2_domestic_win_rate"] = df["fighter_2"].apply(lambda x: get_stat_safe(x, "domestic_win_rate"))
-df["f2_transatlantic_win_rate"] = df["fighter_2"].apply(lambda x: get_stat_safe(x, "transatlantic_win_rate"))
 
 def get_valuable_features(row):
     key = (
@@ -455,6 +501,74 @@ def get_valuable_features(row):
     })
 valuable_features = df.apply(get_valuable_features, axis=1)
 df = pd.concat([df, valuable_features], axis=1)
+
+
+def compute_athlete_domestic_transatlantic_winrates(df):
+    """
+    Calculates, for each athlete:
+    - domestic win rate: matches held in their home zone
+    - transatlantic win rate: matches held outside their home zone
+    and attaches these as new columns to the DataFrame (for both f1 and f2).
+    """
+    # Helper: determine zone (America vs RestOfWorld)
+    zone_a = {c.strip().lower() for c in ZONE_A_COUNTRIES}
+
+    def get_zone(country):
+        return "America" if country.lower() in zone_a else "RestOfWorld"
+
+    win_stats = {}
+
+    for _, row in df.iterrows():
+        # normalize names and countries
+        f1 = row["fighter_1"].strip().lower()
+        f2 = row["fighter_2"].strip().lower()
+        winner = row["winner"].strip().lower()
+        event_country = normalize_country(row["event_location_country"])
+        f1_country = normalize_country(row["f1_country"])
+        f2_country = normalize_country(row["f2_country"])
+        # zones
+        event_zone = get_zone(event_country)
+        f1_zone = get_zone(f1_country)
+        f2_zone = get_zone(f2_country)
+
+        # FIGHTER 1
+        if f1 not in win_stats:
+            win_stats[f1] = {"domestic": [0,0], "transatlantic": [0,0]}
+        mtype = "domestic" if event_zone == f1_zone else "transatlantic"
+        if winner == f1:
+            win_stats[f1][mtype][0] += 1
+        win_stats[f1][mtype][1] += 1
+
+        # FIGHTER 2
+        if f2 not in win_stats:
+            win_stats[f2] = {"domestic": [0,0], "transatlantic": [0,0]}
+        mtype = "domestic" if event_zone == f2_zone else "transatlantic"
+        if winner == f2:
+            win_stats[f2][mtype][0] += 1
+        win_stats[f2][mtype][1] += 1
+
+    # Now convert to win rates
+    win_rates = {}
+    for name, stats in win_stats.items():
+        dw, dtot = stats["domestic"]
+        tw, ttot = stats["transatlantic"]
+        win_rates[name] = {
+            "domestic": round(dw / dtot, 3) if dtot > 0 else 0.5,
+            "transatlantic": round(tw / ttot, 3) if ttot > 0 else 0.5
+        }
+
+    def get_rate(name, typ):
+        return win_rates.get(name.strip().lower(), {}).get(typ, 0.5)
+
+    # Add new columns
+    df["f1_domestic_win_rate"] = df.apply(lambda r: get_rate(r["fighter_1"], "domestic"), axis=1)
+    df["f1_transatlantic_win_rate"] = df.apply(lambda r: get_rate(r["fighter_1"], "transatlantic"), axis=1)
+    df["f2_domestic_win_rate"] = df.apply(lambda r: get_rate(r["fighter_2"], "domestic"), axis=1)
+    df["f2_transatlantic_win_rate"] = df.apply(lambda r: get_rate(r["fighter_2"], "transatlantic"), axis=1)
+
+    return df
+
+df = compute_athlete_domestic_transatlantic_winrates(df)
 
 df.to_csv(UPDATED_TRAINING_FEATURES_WITH_TRAVEL_STATS, index=False)
 
