@@ -6,50 +6,62 @@ from datetime import datetime
 import os
 import sys
 from pathlib import Path
-
+from fuzzywuzzy import process
 
 sys.path.append(str(Path(__file__).resolve().parents[2]))
 from pipeline.config import (
     UNIQUE_ATHLETES_WITH_DATA_FILE,
     TEMPORARY_PREDICTION_FOLDER
 )
+from pipeline.prediction_model.title_holder import is_current_title_holder_on_date
+from pipeline.predictions_count import count_low_rank_predictions, count_high_rank_predictions, count_all_predictions
+from pipeline.valueable_matches import (
+    load_events,
+    build_athlete_match_history,
+    get_valuable_info,
+)
+from pipeline.prediction_model.athletes_data_for_model import (
+    get_athlete_form_features,
+    get_combo_success_pct,
+    get_athlete1_style_advantage_rate,
+    get_stat_safe,
+    get_travel_penalty
+           # dict from athletes_data_for_model.py
+)
 
-# === CONFIGURATION ===
 MODEL_PATH = "best_xgboost_model.pkl"
-ATHLETE_DATA_PATH = UNIQUE_ATHLETES_WITH_DATA_FILE   # <-- Update to your path           # <-- Update as needed
+ATHLETE_DATA_PATH = UNIQUE_ATHLETES_WITH_DATA_FILE  # JSON file
+TEMP_FOLDER = TEMPORARY_PREDICTION_FOLDER
+EVENTS = load_events()
+ATHLETE_MATCHES, _ = build_athlete_match_history(EVENTS)
 
-FEATURE_COLS = [
-    "f1_age", "f2_age",
-    "f1_weight", "f2_weight", "weight_advantage",
-    "f1_height", "f2_height", "height_advantage",
-    "f1_travel_penalty", "f2_travel_penalty", "domestic_advantage",
-    "f1_domestic_win_rate", "f2_domestic_win_rate",
-    "f1_transatlantic_win_rate", "f2_transatlantic_win_rate",
-    "f1_low_rank_predictions", "f2_low_rank_predictions",
-    "f1_high_rank_predictions", "f2_high_rank_predictions",
-    "f1_style_combo_success_percent", "f2_style_combo_success_percent",
+# Numeric/categorical features your model expects, in order
+MODEL_FEATURE_COLS = [
+    "f1_age","f2_age","f1_weight","f2_weight","weight_advantage",
+    "f1_height","f2_height","height_advantage",
+    "f1_travel_penalty","f2_travel_penalty","domestic_advantage",
+    "f1_domestic_win_rate","f2_domestic_win_rate",
+    "f1_transatlantic_win_rate","f2_transatlantic_win_rate",
+    "f1_low_rank_predictions","f2_low_rank_predictions",
+    "f1_high_rank_predictions","f2_high_rank_predictions",
+    "f1_style_combo_success_percent","f2_style_combo_success_percent",
     "athlete1_style_advantage_rate",
-    "num_shared_opponents_value",
-    "mma_math_positive", "mma_math_negative",
-    "has_head_to_head", "head_to_head_result",
-    "num_second_order_valuable", "second_order_mma_math_positive", "second_order_mma_math_negative",
-    "f1_gender", "f2_gender", "f1_is_current_title_holder", "f2_is_current_title_holder", "f1_winning_streak", "f2_winning_streak",
+    "num_shared_opponents_value","mma_math_positive","mma_math_negative",
+    "has_head_to_head","head_to_head_result",
+    "second_order_mma_math_difference","second_order_mma_math_positive","second_order_mma_math_negative",
+    "f1_gender","f2_gender","f1_is_current_title_holder","f2_is_current_title_holder",
+    "f1_winning_streak","f2_winning_streak"
 ]
 
-def load_json(path):
-    with open(path, encoding="utf-8") as f:
-        return json.load(f)
+# All fields to save to CSV for logging/debugging/tracing
+FEATURE_COLS = [
+    "event_title", "event_date", "match_arm", "event_country",
+    "f1_name", "f2_name"
+] + MODEL_FEATURE_COLS
 
 def encode_gender(gender):
     if isinstance(gender, str):
         return {"male": 0, "female": 1}.get(gender.lower(), 0)
-    return 0
-
-def encode_bool(val):
-    if isinstance(val, bool):
-        return int(val)
-    if isinstance(val, str):
-        return 1 if val.strip().lower() in ("true", "yes", "1") else 0
     return 0
 
 def compute_age(dob, as_of=None):
@@ -76,27 +88,68 @@ def safe_float(val):
     except Exception:
         return 0.0
 
-def universal_predict_and_save(athlete1_name, athlete2_name, match_arm="Right", verbose=False):
-    # -- Load model and data
+def get_dominant_style(athlete):
+    return athlete.get("pulling_style", ["Unknown"])[0] if athlete.get("pulling_style") else "Unknown"
+
+def get_additional_style(athlete):
+    ps = athlete.get("pulling_style", [])
+    return ps[1] if len(ps) > 1 else ""
+
+def get_date_now():
+    return datetime.now().strftime("%Y-%m-%d")
+
+def universal_predict_and_save(
+    athlete1_name, athlete2_name, match_arm="Right", event_country="United States",
+    event_title="(Virtual)", event_date=None, verbose=False
+):
+    if event_date is None:
+        event_date = get_date_now()
+
+    # Load model and athlete data
+    with open(ATHLETE_DATA_PATH, encoding="utf-8") as f:
+        athletes = json.load(f)
     model = joblib.load(MODEL_PATH)
-    athletes = load_json(ATHLETE_DATA_PATH)
 
-    # Get today as the match date
-    match_date = datetime.now().strftime("%Y-%m-%d")
+    # Use event_date as match_date
+    match_date = event_date
+    match_dt = datetime.strptime(match_date, "%Y-%m-%d")
 
-    # Helper for missing athletes
     def get_athlete(name):
         if name in athletes:
             return athletes[name]
-        # Fallback: fuzzy search (could use fuzzywuzzy here if available)
+        # Fuzzy fallback
+        match, score = process.extractOne(name, list(athletes.keys()))
+        if score >= 85:
+            return athletes[match]
         return {"country": "Unknown", "pulling_style": ["Unknown"], "weight_kg": 0, "height_cm": 0, "gender": "male"}
 
     a1 = get_athlete(athlete1_name)
     a2 = get_athlete(athlete2_name)
+    match_date_dt = datetime.strptime(event_date, "%Y-%m-%d")
+    # def get_opponents(match_list, athlete_name):
+    #     opponents = set()
+    #     for match in match_list:
+    #         if match.get('opponent') and match.get('opponent') != athlete_name:
+    #             opponents.add(match['opponent'])
+    #         # Or use the correct key depending on your match dict structure
+    #     return opponents
 
-    # Age, Weight, Height
-    f1_age = compute_age(a1.get("date_of_birth", ""), as_of=datetime.now())
-    f2_age = compute_age(a2.get("date_of_birth", ""), as_of=datetime.now())
+    # devon_matches = ATHLETE_MATCHES['Devon Larratt']
+    # levan_matches = ATHLETE_MATCHES['Vitaly Laletin']
+
+    # devon_opponents = get_opponents(devon_matches, 'Devon Larratt')
+    # levan_opponents = get_opponents(levan_matches, 'Vitaly Laletin')
+
+    # print("Devon opponents:", devon_opponents)
+    # print("Vitaly opponents:", levan_opponents)
+    # print("Shared:", devon_opponents & levan_opponents)
+    valuable_info = get_valuable_info(athlete1_name, athlete2_name, match_date_dt, ATHLETE_MATCHES)
+
+    # --- Basic features ---
+    f1_name = a1.get("name", athlete1_name)
+    f2_name = a2.get("name", athlete2_name)
+    f1_age = compute_age(a1.get("date_of_birth", ""), as_of=match_dt)
+    f2_age = compute_age(a2.get("date_of_birth", ""), as_of=match_dt)
     f1_weight = safe_float(a1.get("weight_kg", 0))
     f2_weight = safe_float(a2.get("weight_kg", 0))
     weight_adv = f1_weight - f2_weight
@@ -104,43 +157,61 @@ def universal_predict_and_save(athlete1_name, athlete2_name, match_arm="Right", 
     f2_height = safe_float(a2.get("height_cm", 0))
     height_adv = f1_height - f2_height
 
-    # Travel features (for demo, always 0/domestic; you can update with your travel logic)
-    f1_travel_penalty = 0
-    f2_travel_penalty = 0
-    domestic_adv = 0
-
-    # Winrate & streaks – fake logic for now, insert your real function!
-    f1_left_win = 0
-    f1_right_win = 0
-    f1_winrate = 0
-    f2_left_win = 0
-    f2_right_win = 0
-    f2_winrate = 0
-
-    # Style combo (set as 0 for now, add logic if you want)
-    f1_style_combo = 0
-    f2_style_combo = 0
-    style_advantage = 0
-
-    # Winrates (travel)
-    f1_dom_win = 0.5
-    f1_trans_win = 0.5
-    f2_dom_win = 0.5
-    f2_trans_win = 0.5
-
-    # Gender, Title holder (assume male, not champion; update as needed)
-    f1_gender = encode_gender(a1.get("gender", "male"))
-    f2_gender = encode_gender(a2.get("gender", "male"))
-    f1_title = 0
-    f2_title = 0
-
-    # Winning streaks: pick right/left depending on arm
+    # --- Form/streaks/winrate ---
+    f1_form = get_athlete_form_features(athlete1_name, athletes, match_dt)
+    f2_form = get_athlete_form_features(athlete2_name, athletes, match_dt)
+    f1_left_win = f1_form["left_winning_streak"]
+    f1_right_win = f1_form["right_winning_streak"]
+    f1_winrate = f1_form["winrate_last_5"]
+    f2_left_win = f2_form["left_winning_streak"]
+    f2_right_win = f2_form["right_winning_streak"]
+    f2_winrate = f2_form["winrate_last_5"]
     f1_winning_streak = f1_right_win if match_arm == "Right" else f1_left_win
     f2_winning_streak = f2_right_win if match_arm == "Right" else f2_left_win
 
-    # Features not computable: set to 0/neutral
+    # --- Travel ---
+    f1_country = a1.get("country", "Unknown")
+    f2_country = a2.get("country", "Unknown")
+   
+
+    f1_travel_penalty = get_travel_penalty(f1_country, event_country)
+    f2_travel_penalty = get_travel_penalty(f2_country, event_country)
+    domestic_adv = f2_travel_penalty - f1_travel_penalty
+
+    # --- Winrates (domestic/transatlantic) ---
+    f1_dom_win = get_stat_safe(athlete1_name, "domestic_win_rate")
+    f1_trans_win = get_stat_safe(athlete1_name, "transatlantic_win_rate")
+    f2_dom_win = get_stat_safe(athlete2_name, "domestic_win_rate")
+    f2_trans_win = get_stat_safe(athlete2_name, "transatlantic_win_rate")
+
+    # --- Styles ---
+    f1_style_dominant = get_dominant_style(a1)
+    f1_style_additional = get_additional_style(a1)
+    f2_style_dominant = get_dominant_style(a2)
+    f2_style_additional = get_additional_style(a2)
+    f1_style_combo = get_combo_success_pct(f1_style_dominant, f1_style_additional)
+    f2_style_combo = get_combo_success_pct(f2_style_dominant, f2_style_additional)
+    style_advantage = get_athlete1_style_advantage_rate(f1_style_dominant, f2_style_dominant)
+
+    # --- Gender ---
+    f1_gender = encode_gender(a1.get("gender", "male"))
+    f2_gender = encode_gender(a2.get("gender", "male"))
+
+    # --- Title holder (no event context for virtual) ---
+    f1_title = int(is_current_title_holder_on_date(athlete1_name, as_of_date=event_date))
+    f2_title = int(is_current_title_holder_on_date(athlete2_name, as_of_date=event_date))
+
+    # --- "Uncomputable" features ---
     default_fill = 0
+
+    # --- All predictions ---
     features = dict(
+        event_title=event_title,
+        event_date=event_date,
+        match_arm=match_arm,
+        event_country=event_country,
+        f1_name=f1_name,
+        f2_name=f2_name,
         f1_age=f1_age,
         f2_age=f2_age,
         f1_weight=f1_weight,
@@ -160,17 +231,17 @@ def universal_predict_and_save(athlete1_name, athlete2_name, match_arm="Right", 
         f2_low_rank_predictions=default_fill,
         f1_high_rank_predictions=default_fill,
         f2_high_rank_predictions=default_fill,
-        f1_style_combo_success_percent=f1_style_combo,
-        f2_style_combo_success_percent=f2_style_combo,
-        athlete1_style_advantage_rate=style_advantage,
-        num_shared_opponents_value=default_fill,
-        mma_math_positive=default_fill,
-        mma_math_negative=default_fill,
-        has_head_to_head=default_fill,
-        head_to_head_result=default_fill,
-        num_second_order_valuable=default_fill,
-        second_order_mma_math_positive=default_fill,
-        second_order_mma_math_negative=default_fill,
+        f1_style_combo_success_percent=f1_style_combo if f1_style_combo is not None else 0,
+        f2_style_combo_success_percent=f2_style_combo if f2_style_combo is not None else 0,
+        athlete1_style_advantage_rate=style_advantage if style_advantage is not None else 50,
+        num_shared_opponents_value=valuable_info.get('num_shared_opponents_value', default_fill),
+        mma_math_positive=valuable_info.get('mma_math_positive', default_fill),
+        mma_math_negative=valuable_info.get('mma_math_negative', default_fill),
+        has_head_to_head=valuable_info.get('has_head_to_head', default_fill),
+        head_to_head_result=valuable_info.get('head_to_head_result', default_fill),
+        second_order_mma_math_difference=valuable_info.get('second_order_mma_math_difference', default_fill),
+        second_order_mma_math_positive=valuable_info.get('second_order_mma_math_positive', default_fill),
+        second_order_mma_math_negative=valuable_info.get('second_order_mma_math_negative', default_fill),
         f1_gender=f1_gender,
         f2_gender=f2_gender,
         f1_is_current_title_holder=f1_title,
@@ -179,25 +250,26 @@ def universal_predict_and_save(athlete1_name, athlete2_name, match_arm="Right", 
         f2_winning_streak=f2_winning_streak,
     )
 
-    # Build DataFrame and fill missing
-    X = pd.DataFrame([features], columns=FEATURE_COLS).fillna(0)
-
-    # Predict
-    prob = model.predict_proba(X)[0, 1]
-
-    # ---- SAVE FEATURE DATAFRAME ----
-    if not os.path.exists(TEMPORARY_PREDICTION_FOLDER):
-        os.makedirs(TEMPORARY_PREDICTION_FOLDER)
+    # --- Save ALL info to CSV for debugging ---
+    X_all = pd.DataFrame([features], columns=FEATURE_COLS)
+    if not os.path.exists(TEMP_FOLDER):
+        os.makedirs(TEMP_FOLDER)
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
     fname = f"{athlete1_name.replace(' ', '_')}_vs_{athlete2_name.replace(' ', '_')}_prediction_{timestamp}.csv"
-    save_path = os.path.join(TEMPORARY_PREDICTION_FOLDER, fname)
-    X.to_csv(save_path, index=False)
+    save_path = os.path.join(TEMP_FOLDER, fname)
+    X_all.to_csv(save_path, index=False)
+
+    # --- Model input: only numeric/categorical columns ---
+    X_model = X_all[MODEL_FEATURE_COLS].fillna(0)
+    prob = model.predict_proba(X_model)[0, 1]
 
     if verbose:
         print(f"Prediction for {athlete1_name} vs {athlete2_name}: {prob:.3f}")
         print(f"Feature row saved at: {save_path}")
+        # print("Valuable info about shared matches:", valuable_info)
     return prob, save_path
 
-# ---- Example usage ----
+# Example usage:
 if __name__ == "__main__":
-    universal_predict_and_save("Devon Larratt", "John Brzenk", match_arm="Right", verbose=True)
+    universal_predict_and_save("Devon Larratt", "Vitaly Laletin", match_arm="Right", verbose=True)
+    universal_predict_and_save("Vitaly Laletin", "Devon Larratt", match_arm="Right", verbose=True)

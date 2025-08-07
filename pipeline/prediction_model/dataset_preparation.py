@@ -69,6 +69,7 @@ for idx, row in df.iterrows():
     # Swap any other symmetric prediction columns (like f1_low_rank_predictions, etc.)
     pred_cols = ['f1_low_rank_predictions', 'f1_high_rank_predictions', 'f2_low_rank_predictions', 'f2_high_rank_predictions']
     if all(c in swapped for c in pred_cols):
+        swapped['second_order_mma_math_difference'] = -row['second_order_mma_math_difference'] if pd.notnull(row['second_order_mma_math_difference']) else row['second_order_mma_math_difference']
         swapped['f1_low_rank_predictions'], swapped['f2_low_rank_predictions'] = row['f2_low_rank_predictions'], row['f1_low_rank_predictions']
         swapped['f1_high_rank_predictions'], swapped['f2_high_rank_predictions'] = row['f2_high_rank_predictions'], row['f1_high_rank_predictions']
         swapped['f1_all_rank_predictions'], swapped['f2_all_rank_predictions'] = row['f2_all_rank_predictions'], row['f1_all_rank_predictions']

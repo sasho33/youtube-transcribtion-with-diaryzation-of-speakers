@@ -155,6 +155,54 @@ def count_title_defenses(evw_file=EVW_EVENTS_FILE, kott_file=KOTT_EVENTS_FILE):
 
     return match_list
 
+def is_current_title_holder_on_date(athlete_name, as_of_date=None,
+                                   evw_file=EVW_EVENTS_FILE, kott_file=KOTT_EVENTS_FILE):
+    """
+    Check if the athlete is a current title holder (of any title) as of the given date.
+    If as_of_date is None, uses today.
+    """
+    if as_of_date is None:
+        as_of_date = datetime.now()
+    elif isinstance(as_of_date, str):
+        # Accepts "YYYY-MM-DD" as string
+        as_of_date = datetime.strptime(as_of_date, "%Y-%m-%d")
+    
+    # Load and merge all events, as before
+    with open(evw_file, 'r') as f:
+        evw_events = json.load(f)
+    with open(kott_file, 'r') as f:
+        kott_events = json.load(f)
+    all_events = []
+    for event in evw_events + kott_events:
+        try:
+            event_date = parse_event_date(event['event_date'])
+        except Exception as e:
+            continue
+        all_events.append({
+            'event_title': event['event_title'],
+            'event_date': event_date,
+            'matches': event['matches']
+        })
+    all_events.sort(key=lambda x: x['event_date'])
+
+    # Build up champion state up to as_of_date
+    title_holder = {}
+    for event in all_events:
+        if event['event_date'] > as_of_date:
+            break
+        for match in event['matches']:
+            if match.get('is_title', False):
+                key = normalize_key(match.get('arm', ''), match.get('weight_category', ''))
+                winner = match['winner'].strip()
+                title_holder[key] = winner
+
+    # Now check if athlete is champion for ANY title
+    for holder in title_holder.values():
+        if holder.strip().lower() == athlete_name.strip().lower():
+            return True
+    return False
+
+
 if __name__ == "__main__":
     # Example usage:
     result = is_current_title_holder("East vs West 18", "Ermes Gasparini")

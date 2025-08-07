@@ -442,7 +442,8 @@ def get_valuable_features(row):
         "mma_math_negative": analysis.get("mma_math_negative", 0),
         "has_head_to_head": analysis.get("has_head_to_head", 0),
         "head_to_head_result": analysis.get("head_to_head_result", 0),
-        "num_second_order_valuable": analysis.get("num_second_order_valuable", 0),
+        # "num_second_order_valuable": analysis.get("num_second_order_valuable", 0),
+        "second_order_mma_math_difference": analysis.get("second_order_mma_math_difference", 0),
         "second_order_mma_math_positive": analysis.get("second_order_mma_math_positive", 0),
         "second_order_mma_math_negative": analysis.get("second_order_mma_math_negative", 0),
     })

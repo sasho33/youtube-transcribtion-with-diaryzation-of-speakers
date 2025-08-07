@@ -62,7 +62,7 @@ def predict_for_match(event_title, athlete1, athlete2):
         "num_shared_opponents_value",
         "mma_math_positive", "mma_math_negative",
         "has_head_to_head", "head_to_head_result",
-        "num_second_order_valuable", "second_order_mma_math_positive", "second_order_mma_math_negative",
+        "second_order_mma_math_difference", "second_order_mma_math_positive", "second_order_mma_math_negative",
         "f1_gender", "f2_gender", "f1_is_current_title_holder", "f2_is_current_title_holder", "f1_winning_streak", "f2_winning_streak",
         
     ]  # List of feature column names used in training
@@ -71,7 +71,7 @@ def predict_for_match(event_title, athlete1, athlete2):
     
     return pred_prob
 
-def predict_and_get_odds(event_title, athlete1, athlete2, margin=0.9, print_console=True, min_odds=1.1, max_odds=10):
+def predict_and_get_odds(event_title, athlete1, athlete2, margin=0.85, print_console=True, min_odds=1.1, max_odds=10):
     """
     Returns a dict with raw and normalized probabilities and odds for both athletes.
     Prints a nice summary if print_console is True.

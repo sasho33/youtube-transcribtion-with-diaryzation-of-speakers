@@ -83,7 +83,7 @@ def get_valuable_info(a1, a2, match_date_dt, athlete_matches):
                 mma_math_negative += 1
             valuable_shared_results.append(result)
 
-    num_shared_opponents_value = len(valuable_shared_results)
+    num_shared_opponents_value = mma_math_positive - mma_math_negative
     has_head_to_head = 1 if head_to_head else 0
     head_to_head_result = 0
     if head_to_head:
@@ -97,6 +97,7 @@ def get_valuable_info(a1, a2, match_date_dt, athlete_matches):
     second_order_valuable = []
     second_order_mma_math_positive = 0
     second_order_mma_math_negative = 0
+    second_order_mma_math_difference = 0
 
     # For each of A's opponents and each of B's opponents (excluding each other)
     for o_a in opponents_a1 - {a2, a1}:
@@ -126,6 +127,7 @@ def get_valuable_info(a1, a2, match_date_dt, athlete_matches):
                     second_order_valuable.append(entry)
 
     num_second_order_valuable = len(second_order_valuable)
+    second_order_mma_math_difference = second_order_mma_math_positive - second_order_mma_math_negative
 
     # --- Output ---
     output = {}
@@ -147,7 +149,8 @@ def get_valuable_info(a1, a2, match_date_dt, athlete_matches):
     output['num_second_order_valuable'] = num_second_order_valuable
     output['second_order_mma_math_positive'] = second_order_mma_math_positive
     output['second_order_mma_math_negative'] = second_order_mma_math_negative
-
+    output['second_order_mma_math_difference'] = second_order_mma_math_difference
+    
     return output
 
 def analyze_all_matches(athlete_matches, all_future_matches, save_path):

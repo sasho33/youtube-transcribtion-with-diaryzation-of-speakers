@@ -14900,8 +14900,8 @@
     ],
     "win_loss_record": {
       "right": {
-        "wins": 1,
-        "losses": 1
+        "wins": 3,
+        "losses": 2
       },
       "left": {
         "wins": 1,
@@ -14909,17 +14909,31 @@
       }
     },
     "matches": {
-      "David Dadikyan": {
+      
+      "Dave Chaffee": {
         "arm": "Right",
         "date": "October 1, 2022",
         "result": "Lost",
         "score": "4-3"
+      },
+      
+      "Revaz Lutidze": {
+        "arm": "Right",
+        "date": "August 26, 2023",
+        "result": "Win",
+        "score": "3-0"
       },
       "Kamil Jablonski": {
         "arm": "Left",
         "date": "June 1, 2024",
         "result": "Win",
         "score": "4-2"
+      },
+      "Georgii Dzeranov": {
+        "arm": "Right",
+        "date": "November 2, 2024",
+        "result": "Win",
+        "score": "3-0"
       },
       "Michael Todd": {
         "arm": "Right",

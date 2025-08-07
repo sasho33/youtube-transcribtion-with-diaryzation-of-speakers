@@ -52,7 +52,7 @@ feature_cols = [
     "num_shared_opponents_value",
     "mma_math_positive", "mma_math_negative",
     "has_head_to_head", "head_to_head_result",
-    "num_second_order_valuable", "second_order_mma_math_positive", "second_order_mma_math_negative",
+    "second_order_mma_math_difference", "second_order_mma_math_positive", "second_order_mma_math_negative",
     "f1_gender", "f2_gender", "f1_is_current_title_holder", "f2_is_current_title_holder", "f1_winning_streak", "f2_winning_streak",
     
     
