@@ -62,6 +62,7 @@ def get_valuable_info(a1, a2, match_date_dt, athlete_matches):
     head_to_head = [m for m in matches_a1 if m['opponent'] == a2]
     head_to_head += [m for m in matches_a2 if m['opponent'] == a1]
     valuable_shared_results = []
+    all_shared_results = []
     mma_math_positive = 0
     mma_math_negative = 0
     for opp in shared:
@@ -71,6 +72,36 @@ def get_valuable_info(a1, a2, match_date_dt, athlete_matches):
         a2_matches = [m for m in matches_a2 if m['opponent'] == opp]
         a1_best = next((m for m in a1_matches if m['result'] == 'win'), None)
         a2_best = next((m for m in a2_matches if m['result'] == 'win'), None)
+           # Pick any match (e.g., first one) for event/date/arm for each athlete vs this opponent
+        a1_meta = a1_matches[0] if a1_matches else {}
+        a2_meta = a2_matches[0] if a2_matches else {}
+        winner1 = a1 if a1_best else opp
+        winner2 = a2 if a2_best else opp
+        print(a1_meta)
+        all_shared_results.append({
+            'shared_opponent': opp,
+            'matches': [{
+                'event': a1_meta.get('event'),
+                'participants': [a1, opp],
+                'date': a1_meta.get('date'),
+                'arm': a1_meta.get('arm'),
+                'winner': winner1,
+                'result': a1_meta.get('result'),
+                'score': a1_meta.get('score'),
+                'event': a1_meta.get('event')
+                
+            },
+             {
+                'event': a2_meta.get('event'),
+                'participants': [a2, opp],
+                'date': a2_meta.get('date'),
+                'arm': a2_meta.get('arm'),
+                'winner': winner2,
+                'result': a2_meta.get('result'),
+                'score': a2_meta.get('score'),
+                'event': a2_meta.get('event')
+                    }]
+        })
         if (a1_best and not a2_best) or (a2_best and not a1_best):
             result = {
                 'shared_opponent': opp,
@@ -136,6 +167,8 @@ def get_valuable_info(a1, a2, match_date_dt, athlete_matches):
             {k: v for k, v in m.items() if k in ['event', 'date', 'opponent', 'result', 'score', 'arm']}
             for m in head_to_head
         ]
+    if all_shared_results:
+        output['all_shared_results'] = all_shared_results
     if valuable_shared_results:
         output['valuable_shared_results'] = valuable_shared_results
     if second_order_valuable:

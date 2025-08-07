@@ -15,12 +15,12 @@
     "dominant_arm": "Right",
     "pulling_style": [
       "Toproll"
+      
     ],
     "matches": {
       "Davit Samushia": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Lost",
         "score": "3-1"
       }
@@ -141,28 +141,24 @@
       "Vladimir Maiorov": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "3-0"
       },
       "Artur Makarov": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Win",
         "score": "3-1"
       },
       "Bacho Saginashvili": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Lost",
         "score": "3-0"
       },
       "Bozhidar Simeonov": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-0"
       }
@@ -234,7 +230,6 @@
       "Robert Baxter": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-0"
       }
@@ -309,7 +304,7 @@
     "win_loss_record": {
       "right": {
         "wins": 3,
-        "losses": 2
+        "losses": 1
       },
       "left": {
         "wins": 0,
@@ -317,38 +312,27 @@
       }
     },
     "matches": {
-      "Leonidas Arkona": {
-        "arm": "Right",
-        "date": "April 20, 2024",
-        "event": "East vs West 12",
-        "result": "Lost",
-        "score": "3-2"
-      },
       "Herman Stevens": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-1"
       },
       "Larry Wheels": {
         "arm": "Right",
         "date": "May 28, 2021",
-        "event": "King of the Table",
         "result": "Win",
         "score": "5-0"
       },
       "Khaled Jashell": {
         "arm": "Right",
         "date": "October 1, 2022",
-        "event": "King of the Table 5",
         "result": "Lost",
         "score": "4-1"
       },
       "Ryan Bowen": {
         "arm": "Right",
         "date": "June 1, 2024",
-        "event": "King of the Table 11",
         "result": "Win",
         "score": "6-0"
       }
@@ -423,7 +407,6 @@
       "Elizabeth Mocek": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-0"
       }
@@ -455,49 +438,42 @@
       "Devon Larratt": {
         "arm": "Left",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Lost",
         "score": "3-1"
       },
       "Artyom Morozov": {
         "arm": "Left",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Lost",
         "score": "4-2"
       },
       "David Dadikyan": {
         "arm": "Left",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
         "result": "Lost",
         "score": "3-0"
       },
       "Jerry Cadorette": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-0"
       },
       "Georgi Tsvetkov": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Win",
         "score": "3-0"
       },
       "Dave Chaffee": {
         "arm": "Right",
         "date": "April 2, 2022",
-        "event": "King of the Table 3",
         "result": "Lost",
         "score": "5-1"
       },
       "Corey West": {
         "arm": "Right",
         "date": "June 25, 2022",
-        "event": "King of the Table 4",
         "result": "Win",
         "score": "3-0"
       }
@@ -620,35 +596,30 @@
       "Ivan Matyushenko": {
         "arm": "Left",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Win",
         "score": "4-0"
       },
       "Ermes Gasparini": {
         "arm": "Left",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Win",
         "score": "3-0"
       },
       "Evgeny Prudnik": {
         "arm": "Left",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Win",
         "score": "4-0"
       },
       "Kody Merritt": {
         "arm": "Left",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Win",
         "score": "3-0"
       },
       "Oleg Petrenko": {
         "arm": "Left",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-0"
       }
@@ -727,7 +698,6 @@
       "Ryan Belanger": {
         "arm": "Right",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Lost",
         "score": "3-2"
       }
@@ -803,7 +773,6 @@
       "Lachlan Adair": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Lost",
         "score": "3-0"
       }
@@ -876,7 +845,6 @@
       "Arsen Khachatryan": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Lost",
         "score": "3-1"
       }
@@ -945,10 +913,9 @@
       }
     },
     "matches": {
-      "Anna Gronlund": {
+      "Anna Grönlund": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-1"
       }
@@ -1017,7 +984,6 @@
       "Angie Rose": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-1"
       }
@@ -1098,35 +1064,30 @@
       "Georgii Dzeranov": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Lost",
         "score": "3-2"
       },
       "Corey West": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-0"
       },
       "Krasimir Kostadinov": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Win",
         "score": "3-0"
       },
       "Ermes Gasparini": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-0"
       },
       "Serhii Kalinichenko": {
         "arm": "Right",
         "date": "December 9, 2023",
-        "event": "King of the Table 9",
         "result": "Lost",
         "score": "4-1"
       }
@@ -1198,14 +1159,12 @@
       "Paul Linn": {
         "arm": "Right",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Lost",
         "score": "3-0"
       },
       "Andrei Sharkevich": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Win",
         "score": "3-1"
       }
@@ -1273,14 +1232,12 @@
       "Mindaugas Tarasaitis": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-0"
       },
       "Tom Rozits": {
         "arm": "Left",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "3-0"
       }
@@ -1363,21 +1320,18 @@
       "Betkili Oniani": {
         "arm": "Left",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "4-1"
       },
       "Zurab Tavberidze": {
         "arm": "Left",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Win",
         "score": "4-0"
       },
       "Sasho Andreev": {
         "arm": "Left",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Win",
         "score": "3-2"
       }
@@ -1447,31 +1401,27 @@
       }
     },
     "matches": {
-      "Omer Kozakoglu": {
+      "Ömer Kozakoğlu": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Win",
         "score": "4-0"
       },
-      "Mindaugas Tarasaitis": {
+      "Mindaugus Tarasaitis": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Win",
         "score": "4-0"
       },
       "Adam Wawrzynski": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Lost",
         "score": "3-1"
       },
       "Daniel Procopciuc": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Win",
         "score": "4-1"
       }
@@ -1551,98 +1501,84 @@
       "Alex Kurdecha": {
         "arm": "Left",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Win",
         "score": "4-2"
       },
-      "Vitaly Laletin": {
+      "Vitalii Laletin": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "3-0"
       },
       "Georgi Tsvetkov": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Lost",
         "score": "3-0"
       },
       "Revaz Lutidze": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-1"
       },
       "Ermes Gasparini": {
         "arm": "Left",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-0"
       },
       "Dave Chaffee": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-2"
       },
       "Kody Merritt": {
         "arm": "Left",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-0"
       },
       "Derek Smith": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Win",
         "score": "3-0"
       },
       "Matt Mask": {
         "arm": "Left",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Win",
         "score": "3-0"
       },
       "Tobias Sporrong": {
         "arm": "Left",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-1"
       },
       "Evgeny Prudnik": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-0"
       },
       "Corey West": {
         "arm": "Left",
         "date": "June 24, 2023",
-        "event": "King of the Table 7",
         "result": "Win",
         "score": "6-0"
       },
       "Ivan Matyushenko": {
         "arm": "Left",
         "date": "June 1, 2024",
-        "event": "King of the Table 11",
         "result": "Win",
         "score": "4-1"
       },
       "Kamil Jablonski": {
         "arm": "Right",
         "date": "September 28, 2024",
-        "event": "King of the Table 12",
         "result": "Win",
         "score": "5-1"
       }
@@ -1707,7 +1643,6 @@
       "Korean Hulk": {
         "arm": "Right",
         "date": "September 28, 2024",
-        "event": "King of the Table 12",
         "result": "Win",
         "score": "4-0"
       }
@@ -1777,7 +1712,6 @@
       "Oleg Zhokh": {
         "arm": "Left",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Lost",
         "score": "4-0"
       }
@@ -1847,7 +1781,6 @@
       "Dimitrina Petrova": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "4-2"
       }
@@ -1919,14 +1852,12 @@
       "Jonathan Breda": {
         "arm": "Left",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
         "score": "3-2"
       },
       "Robbie Topie": {
         "arm": "Left",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Win",
         "score": "3-1"
       }
@@ -2001,7 +1932,6 @@
       "Danil Ustinov": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Lost",
         "score": "4-3"
       }
@@ -2082,21 +2012,18 @@
       "Brad Grundy": {
         "arm": "Right",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
         "result": "Win",
         "score": "3-0"
       },
       "Adam Wawrzynski": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Win",
         "score": "3-0"
       },
       "Rino Masic": {
         "arm": "Right",
         "date": "February 24, 2024",
-        "event": "King of the Table 10",
         "result": "Lost",
         "score": "6-0"
       }
@@ -2171,14 +2098,12 @@
       "Egle Vaitkute": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Win",
         "score": "4-0"
       },
       "Gabriela Vasconcelos": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Win",
         "score": "4-2"
       }
@@ -2247,10 +2172,9 @@
       }
     },
     "matches": {
-      "Efe Komek": {
+      "Efe Kömek": {
         "arm": "Left",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-0"
       }
@@ -2327,7 +2251,6 @@
       "Esra Kiraz": {
         "arm": "Right",
         "date": "June 12, 2021",
-        "event": "East vs West 1",
         "result": "Win",
         "score": "5-0"
       }
@@ -2392,35 +2315,25 @@
       },
       "left": {
         "wins": 3,
-        "losses": 2
+        "losses": 1
       }
     },
     "matches": {
-      "Oleg Petrenko": {
-        "arm": "Left",
-        "date": "February 15, 2025",
-        "event": "East vs West 16",
-        "result": "Lost",
-        "score": "4-0"
-      },
       "Oleg Zhokh": {
         "arm": "Left",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-1"
       },
       "Artem Taynov": {
         "arm": "Left",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Win",
         "score": "4-1"
       },
       "Talgat Aktaev": {
         "arm": "Left",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Win",
         "score": "3-0"
       }
@@ -2501,28 +2414,24 @@
       "Daniel Procopciuc": {
         "arm": "Left",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "4-0"
       },
       "Adam Wawrzynski": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Lost",
         "score": "3-0"
       },
       "Davit Samushia": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-1"
       },
       "Tony Kitowski": {
         "arm": "Left",
         "date": "June 12, 2021",
-        "event": "East vs West 1",
         "result": "Win",
         "score": "5-0"
       }
@@ -2546,9 +2455,7 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": "Right",
-    "pulling_style": [
-      "Toproll"
-    ],
+    "pulling_style": ["Toproll"],
     "titles": [
       "Australian National Armwrestling Champion"
     ],
@@ -2584,14 +2491,12 @@
       "Bacho Saginashvili": {
         "arm": "Right",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
         "result": "Lost",
         "score": "3-0"
       },
       "Kyle Hutchison": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Win",
         "score": "3-0"
       }
@@ -2673,7 +2578,6 @@
       "Larry Wheels": {
         "arm": "Right",
         "date": "December 11, 2021",
-        "event": "King of the Table 2",
         "result": "Win",
         "score": "4-2"
       }
@@ -2745,14 +2649,12 @@
       "Stoyan Golemanov": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Lost",
         "score": "3-0"
       },
       "Davit Samushia": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Lost",
         "score": "3-0"
       }
@@ -2814,8 +2716,7 @@
     "matches": {
       "Eddie Hall": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Win",
         "score": "4-2"
       }
@@ -2891,7 +2792,6 @@
       "Irina Gladkaya": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Win",
         "score": "3-2"
       }
@@ -2968,21 +2868,18 @@
       "Dimitrina Petrova": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Lost",
         "score": "4-0"
       },
       "Olga Terpelova": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Win",
         "score": "3-0"
       },
-      "Elizabeth Mocek": {
+      "Elizabeth Rae Mocek": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Win",
         "score": "3-0"
       }
@@ -3054,49 +2951,42 @@
       "Devon Larratt": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-1"
       },
       "Ibragim Sagov": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "3-0"
       },
       "Oleg Petrenko": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Lost",
         "score": "3-1"
       },
       "Davit Arabuli": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-1"
       },
       "Zurab Tavberidze": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-0"
       },
-      "Sandris Sedis": {
+      "Sandris edis": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-0"
       },
       "Serhii Kalinichenko": {
         "arm": "Right",
         "date": "September 23, 2023",
-        "event": "King of the Table 8",
         "result": "Lost",
         "score": "4-2"
       }
@@ -3130,7 +3020,6 @@
       "Haydar Gildil": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Lost",
         "score": "3-0"
       }
@@ -3225,7 +3114,6 @@
       "Joseph Meranto": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Lost",
         "score": "3-2"
       }
@@ -3295,7 +3183,6 @@
       "Daniel Procopciuc": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-0"
       }
@@ -3376,56 +3263,48 @@
       "Devon Larratt": {
         "arm": "Left",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Lost",
         "score": "3-0"
       },
       "Travis Bagent": {
         "arm": "Left",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
         "score": "3-0"
       },
       "Ferit Osmanli": {
         "arm": "Left",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-2"
       },
       "Arif Ertem": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-0"
       },
       "Alex Kurdecha": {
         "arm": "Right",
         "date": "June 25, 2022",
-        "event": "King of the Table 4",
         "result": "Lost",
         "score": "3-0"
       },
       "Artyom Morozov": {
         "arm": "Left",
         "date": "June 24, 2023",
-        "event": "King of the Table 7",
         "result": "Lost",
         "score": "6-0"
       },
       "Kamil Jablonski": {
         "arm": "Left",
         "date": "September 28, 2024",
-        "event": "King of the Table 12",
         "result": "Lost",
         "score": "4-1"
       },
       "Tobias Sporrong": {
         "arm": "Left",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Lost",
         "score": "4-2"
       }
@@ -3502,21 +3381,18 @@
       "John Therrien": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Win",
         "score": "3-0"
       },
       "Tom Holland": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
         "score": "3-0"
       },
       "Davit Samushia": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-0"
       }
@@ -3587,7 +3463,6 @@
       "Zurab Tavberidze": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-0"
       }
@@ -3661,56 +3536,48 @@
       "Oleg Zhokh": {
         "arm": "Left",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
         "result": "Lost",
         "score": "4-0"
       },
       "Bozhidar Simeonov": {
         "arm": "Left",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Win",
         "score": "4-0"
       },
       "Mindaugas Tarasaitis": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Lost",
         "score": "4-2"
       },
       "Emil Amirshadyan": {
         "arm": "Left",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Win",
         "score": "3-0"
       },
       "Doug Erlich": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Win",
         "score": "3-0"
       },
       "Davit Samushia": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Lost",
         "score": "3-1"
       },
       "Corey Miller": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-0"
       },
       "Artur Makarov": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Lost",
         "score": "4-1"
       }
@@ -3788,7 +3655,6 @@
       "Azat Srapyan": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Win",
         "score": "4-3"
       }
@@ -3858,7 +3724,7 @@
     ],
     "win_loss_record": {
       "right": {
-        "wins": 4,
+        "wins": 3,
         "losses": 6
       },
       "left": {
@@ -3870,70 +3736,54 @@
       "Georgi Tsvetkov": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Lost",
         "score": "3-0"
       },
-      "Frank Lamparelli": {
+      "Frank Lampirelli": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
         "score": "3-0"
       },
       "Revaz Lutidze": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Lost",
         "score": "3-0"
       },
       "Ermes Gasparini": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Lost",
         "score": "3-0"
       },
       "Artyom Morozov": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-2"
       },
       "Genadi Kvikvinia": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Lost",
         "score": "3-2"
       },
       "Alex Kurdecha": {
         "arm": "Right",
         "date": "April 2, 2022",
-        "event": "King of the Table 3",
         "result": "Win",
         "score": "5-1"
-      },
-      "Vitaly Laletin": {
-        "arm": "Right",
-        "date": "October 1, 2022",
-        "event": "King of the Table 5",
-        "result": "Win",
-        "score": "4-3"
       },
       "Devon Larratt": {
         "arm": "Right",
         "date": "June 24, 2023",
-        "event": "King of the Table 7",
         "result": "Lost",
         "score": "6-0"
       },
       "Gabor Botta Dukat": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Win",
         "score": "4-0"
       }
@@ -3998,7 +3848,7 @@
     ],
     "win_loss_record": {
       "right": {
-        "wins": 2,
+        "wins": 3,
         "losses": 1
       },
       "left": {
@@ -4010,49 +3860,48 @@
       "Alex Kurdecha": {
         "arm": "Left",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
         "result": "Win",
         "score": "3-0"
       },
       "Oleg Petrenko": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "4-0"
       },
       "Todd Hutchings": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Win",
         "score": "4-1"
       },
-      "Evgeny Prudnik": {
+      "Evgeny Prudnyk": {
         "arm": "Left",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Lost",
         "score": "3-2"
       },
       "Irakli Zirakashvili": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Win",
         "score": "3-0"
       },
       "Oleg Zhokh": {
         "arm": "Left",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-0"
+      },
+      "Vitaly Laletin": {
+        "arm": "Right",
+        "date": "October 1, 2022",
+        "result": "Win",
+        "score": "4-3"
       },
       "Georgi Tsvetkov": {
         "arm": "Left",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Win",
         "score": "3-0"
       }
@@ -4126,14 +3975,12 @@
       "Ivan Matyushenko": {
         "arm": "Left",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Lost",
         "score": "3-0"
       },
       "Chance Shaw": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-1"
       }
@@ -4207,70 +4054,60 @@
       "Vladimir Maiorov": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Win",
         "score": "4-1"
       },
       "Sasho Andreev": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Win",
         "score": "4-2"
       },
       "Nurdalet Aidarkhan": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Win",
         "score": "4-3"
       },
       "Abdulmanaf Tuzuyev": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Win",
         "score": "3-1"
       },
       "Vala Ichqiti": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Win",
         "score": "3-1"
       },
       "Brandon Ellsessor": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Win",
         "score": "3-0"
       },
       "Craig Tullier": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-0"
       },
       "Daniel Procopciuc": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-1"
       },
       "Bozhidar Simeonov": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-1"
       },
       "Paul Linn": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Lost",
         "score": "3-1"
       }
@@ -4304,14 +4141,12 @@
       "Devon Larratt": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Lost",
         "score": "5-0"
       },
       "John Brzenk": {
         "arm": "Right",
         "date": "February 25, 2023",
-        "event": "King of the Table 6",
         "result": "Win",
         "score": "6-0"
       }
@@ -4397,28 +4232,24 @@
       "Mehdi Abvolvand": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Win",
         "score": "3-1"
       },
       "Revaz Lutidze": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-0"
       },
       "Artyom Morozov": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Lost",
         "score": "3-0"
       },
       "Matt Mask": {
         "arm": "Right",
         "date": "February 24, 2024",
-        "event": "King of the Table 10",
         "result": "Lost",
         "score": "6-0"
       }
@@ -4495,91 +4326,78 @@
       "Alex Kurdecha": {
         "arm": "Left",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Win",
         "score": "3-1"
       },
       "Corey West": {
         "arm": "Left",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Win",
         "score": "3-0"
       },
       "Genadi Kvikvinia": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Lost",
         "score": "3-2"
       },
       "Oleg Petrenko": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Win",
         "score": "4-0"
       },
       "Chance Shaw": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
         "score": "3-1"
       },
       "Levan Saginashvili": {
         "arm": "Right",
         "date": "June 25, 2022",
-        "event": "King of the Table 4",
         "result": "Lost",
         "score": "6-0"
       },
       "Denis Cyplenkov": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Win",
         "score": "5-0"
       },
       "Ermes Gasparini": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Win",
         "score": "3-0"
       },
       "Evgeny Prudnik": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-0"
       },
       "Michael Todd": {
         "arm": "Right",
         "date": "May 28, 2021",
-        "event": "King of the Table",
         "result": "Win",
         "score": "5-0"
       },
       "John Brzenk": {
         "arm": "Right",
         "date": "December 11, 2021",
-        "event": "King of the Table 2",
         "result": "Win",
         "score": "4-0"
       },
       "Dave Chaffee": {
         "arm": "Right",
         "date": "June 24, 2023",
-        "event": "King of the Table 7",
         "result": "Win",
         "score": "6-0"
       },
       "Leonidas Arkona": {
         "arm": "Left",
         "date": "September 28, 2024",
-        "event": "King of the Table 12",
         "result": "Win",
         "score": "4-0"
       }
@@ -4667,14 +4485,12 @@
       "Carolina Pettersson": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Win",
         "score": "4-0"
       },
       "Ayane Takenaka": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Win",
         "score": "4-2"
       }
@@ -4752,21 +4568,18 @@
       "Hunter Noffz": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-1"
       },
       "Daniel Procopciuc": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Lost",
         "score": "3-0"
       },
-      "Raimonds Liepins": {
+      "Raimonds Liepiņš": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-0"
       }
@@ -4874,7 +4687,6 @@
       "Thomas Manghi": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Lost",
         "score": "3-0"
       }
@@ -4902,8 +4714,7 @@
     "matches": {
       "Brian Shaw": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Lost",
         "score": "4-2"
       }
@@ -5027,28 +4838,24 @@
       "Beket Aitbek": {
         "arm": "Left",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-0"
       },
       "Zurab Tavberidze": {
         "arm": "Left",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Lost",
         "score": "3-0"
       },
       "Ron Bath": {
         "arm": "Left",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-0"
       },
       "Herman Stevens": {
         "arm": "Left",
         "date": "June 12, 2021",
-        "event": "East vs West 1",
         "result": "Win",
         "score": "5-0"
       }
@@ -5080,28 +4887,24 @@
       "Barbora Bajciova": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "4-0"
       },
       "Sarah Backman": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Win",
         "score": "5-0"
       },
       "Gabriela Vasconcelos": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-0"
       },
       "Jocelyne Brisson": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Win",
         "score": "3-0"
       }
@@ -5217,10 +5020,9 @@
       }
     },
     "matches": {
-      "Fia Reisek": {
+      "Fia Reisik": {
         "arm": "Left",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Lost",
         "score": "4-0"
       }
@@ -5281,7 +5083,6 @@
       "Fia Reisek": {
         "arm": "Right",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Lost",
         "score": "4-0"
       }
@@ -5340,7 +5141,7 @@
     "win_loss_record": {
       "right": {
         "wins": 1,
-        "losses": 1
+        "losses": 0
       },
       "left": {
         "wins": 0,
@@ -5351,15 +5152,7 @@
       "Aleksandra Ozerova": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
-        "score": "3-0"
-      },
-      "Carolina Pettersson": {
-        "arm": "Right",
-        "date": "July 29, 2023",
-        "event": "East vs West 8",
-        "result": "Lost",
         "score": "3-0"
       }
     },
@@ -5431,7 +5224,6 @@
       "Daniel Procopciuc": {
         "arm": "Left",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Lost",
         "score": "3-0"
       }
@@ -5462,10 +5254,9 @@
       "Press"
     ],
     "matches": {
-      "Raimonds Liepins": {
+      "Raimonds Liepiņš": {
         "arm": "Right",
         "date": "June 24, 2023",
-        "event": "King of the Table 7",
         "result": "Win",
         "score": "5-1"
       }
@@ -5583,7 +5374,6 @@
       "Joshua Grant": {
         "arm": "Right",
         "date": "June 12, 2021",
-        "event": "East vs West 1",
         "result": "Lost",
         "score": "4-1"
       }
@@ -5668,84 +5458,72 @@
       "Levan Saginashvili": {
         "arm": "Right",
         "date": "February 25, 2023",
-        "event": "King of the Table 6",
         "result": "Lost",
         "score": "4-2"
       },
       "Michael Todd": {
         "arm": "Right",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
         "result": "Win",
         "score": "3-0"
       },
       "Alizhan Muratov": {
         "arm": "Left",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Lost",
         "score": "3-0"
       },
       "Devon Larratt": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Lost",
         "score": "3-0"
       },
       "Jerry Cadorette": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Win",
         "score": "3-0"
       },
       "Dave Chaffee": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-0"
       },
       "Artyom Morozov": {
         "arm": "Left",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Lost",
         "score": "3-0"
       },
       "Arif Ertem": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-0"
       },
       "Matt Mask": {
         "arm": "Right",
         "date": "June 12, 2021",
-        "event": "East vs West 1",
         "result": "Win",
         "score": "4-1"
       },
       "Genadi Kvikvinia": {
         "arm": "Right",
         "date": "December 11, 2021",
-        "event": "King of the Table 2",
         "result": "Win",
         "score": "4-2"
       },
       "Wagner Bortolato": {
         "arm": "Left",
         "date": "April 2, 2022",
-        "event": "King of the Table 3",
         "result": "Win",
         "score": "4-1"
       },
-      "Vitaly Laletin": {
+      "Georgi Tsvetkov": {
         "arm": "Right",
         "date": "December 9, 2023",
-        "event": "King of the Table 9",
         "result": "Win",
         "score": "4-2"
       }
@@ -5817,7 +5595,6 @@
       "Bela Plieva": {
         "arm": "Right",
         "date": "June 12, 2021",
-        "event": "East vs West 1",
         "result": "Lost",
         "score": "5-0"
       }
@@ -5892,7 +5669,7 @@
         "losses": 3
       },
       "left": {
-        "wins": 2,
+        "wins": 1,
         "losses": 2
       }
     },
@@ -5900,63 +5677,48 @@
       "Kody Merritt": {
         "arm": "Left",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Win",
         "score": "3-0"
       },
       "Todd Hutchings": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-0"
       },
       "Irakli Zirakashvili": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "3-0"
       },
       "Alizhan Muratov": {
         "arm": "Left",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Lost",
         "score": "4-0"
-      },
-      "David Dadikyan": {
-        "arm": "Left",
-        "date": "August 26, 2023",
-        "event": "East vs West 9",
-        "result": "Win",
-        "score": "3-2"
       },
       "Devon Larratt": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Lost",
         "score": "3-0"
       },
       "Tobias Sporrong": {
         "arm": "Left",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Lost",
         "score": "3-0"
       },
       "Matt Mask": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Win",
         "score": "3-1"
       },
       "Artyom Morozov": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-0"
       }
@@ -5988,28 +5750,24 @@
       "Georgii Dzeranov": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Lost",
         "score": "3-0"
       },
       "Wagner Bortolato": {
         "arm": "Left",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Lost",
         "score": "3-0"
       },
       "Corey West": {
         "arm": "Left",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-2"
       },
       "Genadi Kvikvinia": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-0"
       }
@@ -6074,42 +5832,29 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": null,
-    "pulling_style": [
-      "Toproll"
-    ],
+    "pulling_style": ["Toproll"],
     "matches": {
       "Elin Janeheim": {
         "arm": "Right",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Win",
         "score": "4-0"
       },
-      "Malin Bergstrom": {
+      "Malin Bergström": {
         "arm": "Right",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
-        "result": "Win",
-        "score": "4-0"
-      },
-      "Ekaterina Nikisheva": {
-        "arm": "Left",
-        "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Win",
         "score": "4-0"
       },
       "Rosa Acosta (Boltadano)": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Win",
         "score": "3-1"
       },
       "Rebeka Martinkovicova": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-0"
       }
@@ -6120,7 +5865,7 @@
         "losses": 0
       },
       "left": {
-        "wins": 1,
+        "wins": 0,
         "losses": 0
       }
     },
@@ -6158,9 +5903,7 @@
     "wingspan_cm": null,
     "grip_strength_kg": null,
     "dominant_arm": null,
-    "pulling_style": [
-      "Toproll"
-    ],
+    "pulling_style": ["Toproll"],
     "titles": [],
     "recent_opponents": [],
     "notable_victories": [],
@@ -6179,7 +5922,7 @@
     "win_loss_record": {
       "right": {
         "wins": 1,
-        "losses": 3
+        "losses": 2
       },
       "left": {
         "wins": 0,
@@ -6190,28 +5933,18 @@
       "Serhii Kalinichenko": {
         "arm": "Right",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
-        "result": "Lost",
-        "score": "3-0"
-      },
-      "Dave Chaffee": {
-        "arm": "Right",
-        "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-0"
       },
       "Michael Todd": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Lost",
         "score": "3-1"
       },
       "Matt Mask": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Win",
         "score": "3-1"
       }
@@ -6284,8 +6017,7 @@
     "matches": {
       "Dave Chaffee": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Lost",
         "score": "4-0"
       }
@@ -6360,24 +6092,27 @@
     "matches": {
       "Barbora Bajciova": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "January 21, 2023",
         "result": "Lost",
-        "score": "4-2"
+        "score": "3-2"
       },
       "Egle Vaitkute": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-0"
       },
       "Sarah Backman": {
         "arm": "Right",
         "date": "April 2, 2022",
-        "event": "King of the Table 3",
         "result": "Win",
         "score": "4-0"
+      },
+      "Barbora Bajčíová": {
+        "arm": "Right",
+        "date": "Unknown",
+        "result": "Lost",
+        "score": "4-2"
       }
     },
     "gender": "female"
@@ -6455,49 +6190,42 @@
       "Devon Larratt": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Win",
         "score": "3-2"
       },
       "Michael Todd": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-0"
       },
       "Ferit Osmanli": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-0"
       },
       "Jerry Cadorette": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-2"
       },
       "Dave Chaffee": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Win",
         "score": "3-2"
       },
       "Ermes Gasparini": {
         "arm": "Right",
         "date": "December 11, 2021",
-        "event": "King of the Table 2",
         "result": "Lost",
         "score": "4-2"
       },
       "Ibragim Sagov": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Lost",
         "score": "4-0"
       }
@@ -6560,7 +6288,7 @@
     "win_loss_record": {
       "right": {
         "wins": 4,
-        "losses": 2
+        "losses": 3
       },
       "left": {
         "wins": 0,
@@ -6571,49 +6299,48 @@
       "Dave Chaffee": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Win",
         "score": "3-0"
       },
       "Alex Kurdecha": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Lost",
         "score": "3-0"
       },
       "Zaur Paizulaev": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Win",
         "score": "3-0"
       },
       "Artyom Morozov": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Win",
         "score": "3-0"
       },
       "Jerry Cadorette": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-2"
+      },
+      "Ermes Gasparini": {
+        "arm": "Right",
+        "date": "December 9, 2023",
+        "result": "Lost",
+        "score": "4-2"
       },
       "Serhii Kalinichenko": {
         "arm": "Right",
         "date": "September 28, 2024",
-        "event": "King of the Table 12",
         "result": "Win",
         "score": "4-0"
       },
       "David Dadikyan": {
         "arm": "Left",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Lost",
         "score": "3-0"
       }
@@ -6694,56 +6421,48 @@
       "Michael Todd": {
         "arm": "Right",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Lost",
         "score": "3-1"
       },
-      "Vitaly Laletin": {
+      "Vitalii Laletin": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Lost",
         "score": "3-0"
       },
       "Ferit Osmanli": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Win",
         "score": "3-0"
       },
       "Arif Ertem": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Win",
         "score": "3-2"
       },
-      "Serhii Kalinichenko": {
+      "Sergey Kalinichenko": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-2"
       },
       "Wagner Bortolato": {
         "arm": "Left",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-2"
       },
       "Revaz Lutidze": {
         "arm": "Right",
         "date": "June 1, 2024",
-        "event": "King of the Table 11",
         "result": "Win",
         "score": "4-0"
       },
       "Kamil Jablonski": {
         "arm": "Left",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Lost",
         "score": "3-0"
       }
@@ -6820,14 +6539,12 @@
       "Irakli Zirakashvili": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Lost",
         "score": "4-0"
       },
       "Zurab Tavberidze": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Win",
         "score": "3-0"
       }
@@ -6915,7 +6632,6 @@
       "Cobra Rhodes": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-0"
       }
@@ -6987,17 +6703,15 @@
       }
     },
     "matches": {
-      "Aleksandr Beziazykov": {
+      "Aleksandr Schoolboy Beziazykov": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-1"
       },
-      "Efe Komek": {
+      "Efe Kömek": {
         "arm": "Left",
         "date": "June 12, 2021",
-        "event": "East vs West 1",
         "result": "Lost",
         "score": "5-0"
       }
@@ -7078,7 +6792,6 @@
       "Mindaugas Tarasaitis": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Lost",
         "score": "3-0"
       }
@@ -7148,21 +6861,18 @@
       "Valen Low": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Win",
         "score": "3-2"
       },
       "Mindaugas Tarasaitis": {
         "arm": "Left",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Lost",
         "score": "3-0"
       },
       "Doug Erlich": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
         "score": "3-1"
       }
@@ -7193,38 +6903,33 @@
       "Side"
     ],
     "matches": {
-      "Rino Masic": {
+      "Rino Mašić": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Lost",
         "score": "4-3"
       },
       "Chance Shaw": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Win",
         "score": "3-0"
       },
-      "Sandris Sedis": {
+      "Sandris Šedis": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Win",
         "score": "3-0"
       },
       "Todd Hutchings": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Lost",
         "score": "3-2"
       },
       "Genadi Kvikvinia": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Win",
         "score": "4-0"
       }
@@ -7342,91 +7047,78 @@
       "Matt Mask": {
         "arm": "Left",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Lost",
         "score": "3-2"
       },
       "Todd Hutchings": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Lost",
         "score": "3-0"
       },
       "Georgy Tautiev": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Win",
         "score": "4-0"
       },
       "Evgeny Prudnik": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Win",
         "score": "3-0"
       },
       "Sasho Andreev": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Win",
         "score": "4-0"
       },
       "Paul Linn": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Win",
         "score": "3-0"
       },
       "Rustam Babayev": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Win",
         "score": "3-2"
       },
       "David Dadikyan": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Lost",
         "score": "3-0"
       },
       "Kydyrgali Ongarbaev": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Lost",
         "score": "3-0"
       },
       "John Brzenk": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-2"
       },
       "Krasimir Kostadinov": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-0"
       },
       "Marcio Barboza": {
         "arm": "Right",
         "date": "June 25, 2022",
-        "event": "King of the Table 4",
         "result": "Win",
         "score": "4-0"
       },
       "Lachlan Adair": {
         "arm": "Right",
         "date": "October 1, 2022",
-        "event": "King of the Table 5",
         "result": "Win",
         "score": "6-0"
       }
@@ -7499,7 +7191,6 @@
       "Sarah Backman": {
         "arm": "Right",
         "date": "June 12, 2021",
-        "event": "East vs West 1",
         "result": "Lost",
         "score": "4-1"
       }
@@ -7567,10 +7258,9 @@
       }
     },
     "matches": {
-      "Brigitta Ivanfi": {
+      "Brigitta Ivánfi": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Lost",
         "score": "3-2"
       }
@@ -7652,42 +7342,36 @@
       "Alizhan Muratov": {
         "arm": "Left",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Lost",
         "score": "4-0"
       },
-      "Rino Masic": {
+      "Rino Mašić": {
         "arm": "Left",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Win",
         "score": "4-1"
       },
       "Kamil Jablonski": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Win",
         "score": "3-0"
       },
       "Davit Arabuli": {
         "arm": "Left",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Win",
         "score": "3-0"
       },
       "Artyom Morozov": {
         "arm": "Left",
         "date": "June 1, 2024",
-        "event": "King of the Table 11",
         "result": "Lost",
         "score": "4-1"
       },
       "Serhii Kalinichenko": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Win",
         "score": "3-1"
       }
@@ -7764,7 +7448,6 @@
       "Joseph Meranto": {
         "arm": "Right",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Lost",
         "score": "3-0"
       }
@@ -7837,14 +7520,12 @@
       "Mindaugas Tarasaitis": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Lost",
         "score": "3-2"
       },
       "Justin Bishop": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
         "score": "3-2"
       }
@@ -7931,35 +7612,30 @@
       "Alex Kurdecha": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
         "score": "3-0"
       },
       "Ermes Gasparini": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Lost",
         "score": "3-0"
       },
       "Georgi Tsvetkov": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-2"
       },
       "Genadi Kvikvinia": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-2"
       },
       "Levan Saginashvili": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Lost",
         "score": "4-0"
       }
@@ -8035,14 +7711,12 @@
       "Sarah Backman": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Win",
         "score": "3-0"
       },
       "Egle Vaitkute": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Lost",
         "score": "3-0"
       }
@@ -8074,77 +7748,66 @@
       "Yoshinobu Kanai": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Lost",
         "score": "3-0"
       },
       "Leonidas Arkona": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
         "score": "3-0"
       },
       "Krasimir Kostadinov": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Lost",
         "score": "3-0"
       },
       "Sasho Andreev": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Lost",
         "score": "5-0"
       },
       "Irakli Zirakashvili": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-2"
       },
       "Oleg Petrenko": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-0"
       },
       "Kydyrgali Ongarbaev": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-1"
       },
       "Zurab Tavberidze": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Win",
         "score": "3-2"
       },
       "Khadzimurat Zoloev": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-0"
       },
       "Devon Larratt": {
         "arm": "Right",
         "date": "December 11, 2021",
-        "event": "King of the Table 2",
         "result": "Lost",
         "score": "4-0"
       },
       "Denis Cyplenkov": {
         "arm": "Right",
         "date": "February 25, 2023",
-        "event": "King of the Table 6",
         "result": "Lost",
         "score": "6-0"
       }
@@ -8290,7 +7953,6 @@
       "Craig Tullier": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Lost",
         "score": "3-0"
       }
@@ -8363,14 +8025,12 @@
       "Aymeric Pradines": {
         "arm": "Left",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-2"
       },
       "Zurab Tavberidze": {
         "arm": "Left",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-0"
       }
@@ -8437,21 +8097,18 @@
       "Ivan Portela": {
         "arm": "Right",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Win",
         "score": "3-0"
       },
       "Cody Wood": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Win",
         "score": "3-2"
       },
       "Kevin Palko": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Win",
         "score": "4-1"
       }
@@ -8523,7 +8180,6 @@
       "Erkan Damar": {
         "arm": "Right",
         "date": "June 12, 2021",
-        "event": "East vs West 1",
         "result": "Win",
         "score": "4-1"
       }
@@ -8552,21 +8208,18 @@
       "Janis Amolins": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-2"
       },
       "Toms Rozits": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Lost",
         "score": "3-0"
       },
       "Mindaugas Tarasaitis": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Lost",
         "score": "3-2"
       }
@@ -8693,7 +8346,6 @@
       "Nedalin Hristov": {
         "arm": "Right",
         "date": "September 28, 2024",
-        "event": "King of the Table 12",
         "result": "Win",
         "score": "5-0"
       }
@@ -8724,49 +8376,42 @@
       "Michael Todd": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-0"
       },
       "Tobias Sporrong": {
         "arm": "Left",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Win",
         "score": "3-2"
       },
       "Ivan Matyushenko": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Lost",
         "score": "3-0"
       },
       "Vitaly Laletin": {
         "arm": "Left",
         "date": "June 1, 2024",
-        "event": "King of the Table 11",
         "result": "Lost",
         "score": "4-2"
       },
       "Artyom Morozov": {
         "arm": "Right",
         "date": "September 28, 2024",
-        "event": "King of the Table 12",
         "result": "Lost",
         "score": "5-1"
       },
       "Corey West": {
         "arm": "Left",
         "date": "September 28, 2024",
-        "event": "King of the Table 12",
         "result": "Win",
         "score": "4-1"
       },
       "Georgii Dzeranov": {
         "arm": "Left",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Win",
         "score": "3-0"
       }
@@ -8877,8 +8522,7 @@
     "matches": {
       "Joseph Meranto": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Lost",
         "score": "4-1"
       }
@@ -8959,14 +8603,12 @@
       "John Brzenk": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-0"
       },
       "Todd Hutchings": {
         "arm": "Right",
         "date": "June 12, 2021",
-        "event": "East vs West 1",
         "result": "Win",
         "score": "3-2"
       }
@@ -9040,21 +8682,18 @@
       "Larry Wheels": {
         "arm": "Right",
         "date": "April 2, 2022",
-        "event": "King of the Table 3",
         "result": "Win",
         "score": "4-1"
       },
-      "Aleksandr Beziazykov": {
+      "Aleksandr \"Schoolboy\" Beziazykov": {
         "arm": "Right",
         "date": "October 1, 2022",
-        "event": "King of the Table 5",
         "result": "Win",
         "score": "4-1"
       },
       "Ryan Bowen": {
         "arm": "Right",
         "date": "October 1, 2022",
-        "event": "King of the Table 5",
         "result": "Lost",
         "score": "4-0"
       }
@@ -9126,21 +8765,18 @@
       "Evgeny Prudnik": {
         "arm": "Left",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Lost",
         "score": "3-0"
       },
       "Alizhan Muratov": {
         "arm": "Left",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Lost",
         "score": "3-0"
       },
       "Artyom Morozov": {
         "arm": "Left",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-0"
       }
@@ -9216,7 +8852,6 @@
       "Auden Larratt": {
         "arm": "Right",
         "date": "September 28, 2024",
-        "event": "King of the Table 12",
         "result": "Lost",
         "score": "4-0"
       }
@@ -9245,42 +8880,36 @@
       "Todd Hutchings": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "3-0"
       },
       "John Brzenk": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Win",
         "score": "3-0"
       },
       "Irakli Zirakashvili": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-0"
       },
       "Arif Ertem": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Lost",
         "score": "3-0"
       },
       "Lachlan Adair": {
         "arm": "Right",
         "date": "September 23, 2023",
-        "event": "King of the Table 8",
         "result": "Win",
         "score": "5-1"
       },
       "Paul Linn": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Win",
         "score": "4-0"
       }
@@ -9406,42 +9035,36 @@
       "Matt Mask": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Lost",
         "score": "3-0"
       },
       "Todd Hutchings": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Lost",
         "score": "5-0"
       },
       "Irakli Zirakashvili": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Win",
         "score": "3-0"
       },
       "Michael Todd": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-1"
       },
       "John Brzenk": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-1"
       },
       "Oleg Petrenko": {
         "arm": "Right",
         "date": "June 1, 2024",
-        "event": "King of the Table 11",
         "result": "Lost",
         "score": "4-0"
       }
@@ -9508,7 +9131,6 @@
       "Brad Grundy": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Lost",
         "score": "3-0"
       }
@@ -9581,49 +9203,42 @@
       "Andrei Chipreanov": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Win",
         "score": "3-0"
       },
       "Sandris Sedis": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-0"
       },
       "Irakli Zirakashvili": {
         "arm": "Right",
         "date": "October 1, 2022",
-        "event": "King of the Table 5",
         "result": "Lost",
         "score": "6-0"
       },
       "Krasimir Kostadinov": {
         "arm": "Right",
         "date": "September 23, 2023",
-        "event": "King of the Table 8",
         "result": "Lost",
         "score": "5-1"
       },
       "Paul Linn": {
         "arm": "Right",
         "date": "June 1, 2024",
-        "event": "King of the Table 11",
         "result": "Lost",
         "score": "6-0"
       },
-      "Lars Rorbakken": {
+      "Lars Rorbakken": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Win",
         "score": "4-1"
       },
       "Petro Marharint": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Lost",
         "score": "3-0"
       }
@@ -9704,31 +9319,27 @@
       }
     },
     "matches": {
-      "Aleksandr Beziazykov": {
+      "Aleksandr \"Schoolboy\" Beziazykov": {
         "arm": "Right",
         "date": "May 28, 2021",
-        "event": "King of the Table",
         "result": "Lost",
         "score": "5-0"
       },
       "Brandon Allen": {
         "arm": "Right",
         "date": "December 11, 2021",
-        "event": "King of the Table 2",
         "result": "Lost",
         "score": "4-2"
       },
       "Khaled Jashell": {
         "arm": "Right",
         "date": "April 2, 2022",
-        "event": "King of the Table 3",
         "result": "Lost",
         "score": "4-1"
       },
       "Leonidas Arkona": {
         "arm": "Right",
         "date": "December 9, 2023",
-        "event": "King of the Table 9",
         "result": "Lost",
         "score": "6-0"
       }
@@ -9802,35 +9413,30 @@
       "Matt Mask": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-1"
       },
       "Maateiwarangi Heta-Morris": {
         "arm": "Right",
         "date": "September 23, 2023",
-        "event": "King of the Table 8",
         "result": "Win",
         "score": "5-1"
       },
       "Valera Chubotaru": {
         "arm": "Right",
         "date": "December 9, 2023",
-        "event": "King of the Table 9",
         "result": "Win",
         "score": "4-3"
       },
       "Michael Todd": {
         "arm": "Right",
         "date": "June 1, 2024",
-        "event": "King of the Table 11",
         "result": "Lost",
         "score": "6-0"
       },
       "Lachlan Adair": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Lost",
         "score": "4-1"
       }
@@ -9862,28 +9468,24 @@
       "John Brzenk": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-0"
       },
-      "Aleksandr Beziazykov": {
+      "Alexsandr Beziazykov": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Win",
         "score": "3-2"
       },
       "Larry Wheels": {
         "arm": "Right",
         "date": "December 9, 2023",
-        "event": "King of the Table 9",
         "result": "Win",
         "score": "6-0"
       },
       "Devon Larratt": {
         "arm": "Left",
         "date": "September 28, 2024",
-        "event": "King of the Table 12",
         "result": "Lost",
         "score": "4-0"
       }
@@ -10001,21 +9603,18 @@
       "Ermes Gasparini": {
         "arm": "Right",
         "date": "February 25, 2023",
-        "event": "King of the Table 6",
         "result": "Win",
         "score": "4-2"
       },
       "Devon Larratt": {
         "arm": "Right",
         "date": "June 25, 2022",
-        "event": "King of the Table 4",
         "result": "Win",
         "score": "6-0"
       },
       "Jerry Cadorette": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Win",
         "score": "4-0"
       }
@@ -10045,10 +9644,9 @@
       "Pressure Fighting"
     ],
     "matches": {
-      "Lars Rorbakken": {
+      "Lars Rorbakken": {
         "arm": "Right",
         "date": "September 23, 2023",
-        "event": "King of the Table 8",
         "result": "Lost",
         "score": "5-1"
       }
@@ -10177,7 +9775,6 @@
       "Fia Reisek": {
         "arm": "Right",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
         "result": "Lost",
         "score": "4-0"
       }
@@ -10249,35 +9846,30 @@
       "Oleg Petrenko": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Lost",
         "score": "3-0"
       },
-      "Sahip Caglar": {
+      "Sahip Çağlar": {
         "arm": "Left",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Win",
         "score": "3-0"
       },
       "Tobias Sporrong": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Win",
         "score": "3-2"
       },
       "Irakli Zirakashvili": {
         "arm": "Right",
         "date": "June 25, 2022",
-        "event": "King of the Table 4",
         "result": "Lost",
         "score": "4-0"
       },
       "Matt Mask": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Lost",
         "score": "5-1"
       }
@@ -10306,91 +9898,78 @@
       "Irakli Zirakashvili": {
         "arm": "Left",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Win",
         "score": "3-2"
       },
       "Kydyrgali Ongarbaev": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Win",
         "score": "3-0"
       },
-      "Lars Rorbakken": {
+      "Lars Rorbakken": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
         "score": "3-1"
       },
       "Wagner Bortolato": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Win",
         "score": "3-1"
       },
       "Frank Lamparelli": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Lost",
         "score": "3-1"
       },
       "Sandris Sedis": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Lost",
         "score": "3-0"
       },
       "Artyom Morozov": {
         "arm": "Left",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Lost",
         "score": "3-0"
       },
       "Evgeny Prudnik": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Lost",
         "score": "3-1"
       },
       "Ermes Gasparini": {
         "arm": "Right",
         "date": "June 12, 2021",
-        "event": "East vs West 1",
         "result": "Lost",
         "score": "4-1"
       },
       "Ron Bath": {
         "arm": "Right",
         "date": "September 23, 2023",
-        "event": "King of the Table 8",
         "result": "Win",
         "score": "6-0"
       },
       "Derek Smith": {
         "arm": "Right",
         "date": "February 24, 2024",
-        "event": "King of the Table 10",
         "result": "Win",
         "score": "6-0"
       },
       "Marcio Barboza": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Win",
         "score": "5-1"
       },
       "Nugzari Chikadze": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Lost",
         "score": "3-1"
       }
@@ -10507,10 +10086,9 @@
       }
     },
     "matches": {
-      "Raimonds Liepins": {
+      "Raimonds Liepiņš": {
         "arm": "Right",
         "date": "May 28, 2021",
-        "event": "King of the Table",
         "result": "Lost",
         "score": "3-2"
       }
@@ -10539,7 +10117,6 @@
       "Derek Smith": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Lost",
         "score": "3-1"
       }
@@ -10668,70 +10245,60 @@
       "Georgii Dzeranov": {
         "arm": "Right",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Win",
         "score": "3-1"
       },
       "Ermes Gasparini": {
         "arm": "Right",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
         "result": "Lost",
         "score": "3-0"
       },
       "Genadi Kvikvinia": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-0"
       },
       "Kamil Jablonski": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
         "score": "3-0"
       },
       "Frank Lamparelli": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Win",
         "score": "3-1"
       },
       "Kydyrgali Ongarbaev": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-1"
       },
       "Revaz Lutidze": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Lost",
         "score": "3-2"
       },
       "Devon Larratt": {
         "arm": "Right",
         "date": "May 28, 2021",
-        "event": "King of the Table",
         "result": "Lost",
         "score": "5-0"
       },
       "Lars Rorbakken": {
         "arm": "Right",
         "date": "June 1, 2024",
-        "event": "King of the Table 11",
         "result": "Win",
         "score": "6-0"
       },
       "Vitaly Laletin": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Lost",
         "score": "3-0"
       }
@@ -10793,7 +10360,7 @@
     "win_loss_record": {
       "right": {
         "wins": 6,
-        "losses": 2
+        "losses": 1
       },
       "left": {
         "wins": 1,
@@ -10804,63 +10371,48 @@
       "Janis Amolins": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Win",
         "score": "3-2"
       },
       "Hunter Noffz": {
         "arm": "Left",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Win",
         "score": "3-0"
       },
       "Artem Taranenko": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
         "score": "3-0"
-      },
-      "Artur Makarov": {
-        "arm": "Right",
-        "date": "April 20, 2024",
-        "event": "East vs West 12",
-        "result": "Lost",
-        "score": "4-0"
       },
       "Daniel Procopciuc": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Win",
         "score": "4-2"
       },
       "Hristo Delidzhakov": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Win",
         "score": "3-0"
       },
       "Oleg Cherkasov": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Win",
         "score": "3-0"
       },
       "Nurdalet Aidarkhan": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-0"
       },
       "Justin Bishop": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-2"
       }
@@ -10939,7 +10491,6 @@
       "Kacper Sinica": {
         "arm": "Right",
         "date": "September 28, 2024",
-        "event": "King of the Table 12",
         "result": "Lost",
         "score": "5-0"
       }
@@ -11008,7 +10559,6 @@
       "Sarah Collins": {
         "arm": "Right",
         "date": "December 9, 2023",
-        "event": "King of the Table 9",
         "result": "Win",
         "score": "6-0"
       }
@@ -11036,11 +10586,36 @@
       "Side",
       "Toproll"
     ],
-    "matches": {},
+    "matches": {
+      "Oguzhan Koçak": {
+        "arm": "Right",
+        "date": "November 2, 2024",
+        "result": "Win",
+        "score": "3-0"
+      },
+      "Petro Marharint": {
+        "arm": "Right",
+        "date": "April 20, 2024",
+        "result": "Lost",
+        "score": "3-2"
+      },
+      "Matt Mask": {
+        "arm": "Right",
+        "date": "May 10, 2025",
+        "result": "Win",
+        "score": "3-1"
+      },
+      "Rob Vigeant Jr.": {
+        "arm": "Right",
+        "date": "September 28, 2024",
+        "result": "Win",
+        "score": "4-0"
+      }
+    },
     "win_loss_record": {
       "right": {
-        "wins": 0,
-        "losses": 0
+        "wins": 3,
+        "losses": 1
       },
       "left": {
         "wins": 0,
@@ -11104,33 +10679,29 @@
       "Toproll"
     ],
     "matches": {
-      "Oguzhan Kocak": {
+      "Oguzhan Koçak": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Win",
         "score": "3-0"
       },
       "Petro Marharint": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Lost",
         "score": "3-2"
-      },
-      "Rob Vigeant Jr.": {
-        "arm": "Right",
-        "date": "September 28, 2024",
-        "event": "King of the Table 12",
-        "result": "Win",
-        "score": "4-0"
       },
       "Matt Mask": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Win",
         "score": "3-1"
+      },
+      "Rob Vigeant Jr.": {
+        "arm": "Right",
+        "date": "September 28, 2024",
+        "result": "Win",
+        "score": "4-0"
       }
     },
     "win_loss_record": {
@@ -11242,21 +10813,18 @@
       "Davit Samushia": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Lost",
         "score": "4-3"
       },
       "Vala Ichqiti": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Win",
         "score": "3-1"
       },
       "Mindaugas Tarasaitis": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-0"
       }
@@ -11330,7 +10898,6 @@
       "Nugzari Chikadze": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Lost",
         "score": "3-0"
       }
@@ -11361,14 +10928,12 @@
       "Mindaugas Tarasaitis": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Lost",
         "score": "3-0"
       },
-      "Yusuf Yildizoglu": {
+      "Yusuf Yıldızoğlu": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-1"
       }
@@ -11455,66 +11020,57 @@
       }
     },
     "matches": {
-      "Betkili Oniani": {
+      "Betkili Onianii": {
         "arm": "Left",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
         "result": "Win",
         "score": "4-0"
       },
       "Devon Larratt": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Lost",
         "score": "4-0"
       },
       "David Dadikyan": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Win",
         "score": "4-0"
       },
       "Marcio Barboza": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Win",
         "score": "3-0"
       },
       "Chance Shaw": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Win",
         "score": "3-1"
       },
       "Alizhan Muratov": {
         "arm": "Left",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-0"
       },
       "Zurab Tavberidze": {
         "arm": "Left",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-0"
       },
       "John Brzenk": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Lost",
         "score": "3-0"
       },
       "Kydyrgali Ongarbaev": {
         "arm": "Right",
         "date": "June 1, 2024",
-        "event": "King of the Table 11",
         "result": "Win",
         "score": "4-0"
       }
@@ -11599,28 +11155,24 @@
       "Daniel Procopciuc": {
         "arm": "Left",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
         "result": "Win",
         "score": "4-0"
       },
       "Betkili Oniani": {
         "arm": "Left",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-1"
       },
       "Avtandil Tutberidze": {
         "arm": "Left",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Win",
         "score": "4-0"
       },
       "David Dadikyan": {
         "arm": "Left",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-0"
       }
@@ -11651,7 +11203,6 @@
       "Carolina Pettersson": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "3-0"
       }
@@ -11764,7 +11315,6 @@
       "Artur Makarov": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Lost",
         "score": "4-0"
       }
@@ -11845,63 +11395,54 @@
       "Arsen Khachatryan": {
         "arm": "Right",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Win",
         "score": "3-0"
       },
       "Rustam Babayev": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-2"
       },
       "Irakli Zirakashvili": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Lost",
         "score": "3-0"
       },
       "Ruslan Babaiev": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Win",
         "score": "3-0"
       },
       "Sasho Andreev": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Lost",
         "score": "3-2"
       },
-      "lrakli Gamtenadze": {
+      "Irakli Gamtenadze": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-0"
       },
       "Davit Samushia": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Win",
         "score": "3-1"
       },
       "Lachlan Adair": {
         "arm": "Right",
         "date": "June 1, 2024",
-        "event": "King of the Table 11",
         "result": "Win",
         "score": "6-0"
       },
       "Krasimir Kostadinov": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Lost",
         "score": "4-0"
       }
@@ -11970,7 +11511,6 @@
       "Vrezh Sedrakyan": {
         "arm": "Left",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-0"
       }
@@ -12046,21 +11586,18 @@
       "Wagner Bortalato": {
         "arm": "Left",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Win",
         "score": "3-0"
       },
       "Sandris Sedis": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Lost",
         "score": "3-1"
       },
       "Sabin Badulescu": {
         "arm": "Right",
         "date": "February 25, 2023",
-        "event": "King of the Table 6",
         "result": "Lost",
         "score": "4-2"
       }
@@ -12132,21 +11669,18 @@
       "Zurab Tavberidze": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Win",
         "score": "3-0"
       },
       "Nugzari Chikadze": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Win",
         "score": "3-2"
       },
       "Lachlan Adair": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Win",
         "score": "3-0"
       }
@@ -12226,42 +11760,36 @@
       "Ryan Belanger": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-0"
       },
       "Doug Erlich": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-0"
       },
       "Ryan Bowen": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-0"
       },
       "Mazahir Saidu": {
         "arm": "Right",
         "date": "May 28, 2021",
-        "event": "King of the Table",
         "result": "Win",
         "score": "3-2"
       },
       "Engin Terzi": {
         "arm": "Right",
         "date": "June 24, 2023",
-        "event": "King of the Table 7",
         "result": "Lost",
         "score": "5-1"
       },
       "Robbie Karstendiek": {
         "arm": "Right",
         "date": "February 24, 2024",
-        "event": "King of the Table 10",
         "result": "Win",
         "score": "5-1"
       }
@@ -12329,7 +11857,6 @@
       "Vlad Dzisiak": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-0"
       }
@@ -12410,7 +11937,6 @@
       "Fia Reisek": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-0"
       }
@@ -12481,45 +12007,39 @@
       }
     },
     "matches": {
-      "Vitaly Laletin": {
+      "Vitalii Laletin": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Lost",
         "score": "3-0"
       },
       "Dave Chaffee": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Win",
         "score": "3-0"
       },
       "Artyom Morozov": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Lost",
         "score": "3-1"
       },
       "Derek Smith": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-0"
       },
       "Michael Todd": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Win",
         "score": "3-2"
       },
       "Georgii Dzeranov": {
         "arm": "Right",
         "date": "June 1, 2024",
-        "event": "King of the Table 11",
         "result": "Lost",
         "score": "4-0"
       }
@@ -12598,7 +12118,6 @@
       "Wallace Dilley": {
         "arm": "Right",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Win",
         "score": "3-1"
       }
@@ -12674,28 +12193,24 @@
       "Ibragim Sagov": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Win",
         "score": "4-3"
       },
       "Ivan Matyushenko": {
         "arm": "Left",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Lost",
         "score": "4-1"
       },
       "Terence Opperman": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Win",
         "score": "3-0"
       },
       "Bacho Saginashvili": {
         "arm": "Right",
         "date": "February 24, 2024",
-        "event": "King of the Table 10",
         "result": "Win",
         "score": "6-0"
       }
@@ -12772,14 +12287,12 @@
       "Zurab Tavberidze": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Lost",
         "score": "3-0"
       },
-      "Nugzari Chikadze": {
+      "Nugo Chikadze": {
         "arm": "Right",
         "date": "September 28, 2024",
-        "event": "King of the Table 12",
         "result": "Lost",
         "score": "4-0"
       }
@@ -12852,7 +12365,6 @@
       "Raimonds Liepins": {
         "arm": "Right",
         "date": "February 24, 2024",
-        "event": "King of the Table 10",
         "result": "Lost",
         "score": "5-1"
       }
@@ -12919,7 +12431,6 @@
       "Aymeric Pradines": {
         "arm": "Left",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Lost",
         "score": "3-1"
       }
@@ -12991,7 +12502,6 @@
       "Ahmet Yenerer": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-0"
       }
@@ -13078,24 +12588,21 @@
       }
     },
     "matches": {
-      "Efe Komek": {
+      "Efe Kömek": {
         "arm": "Left",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-0"
       },
       "Zurab Tavberidze": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-2"
       },
       "Matt Mask": {
         "arm": "Right",
         "date": "September 23, 2023",
-        "event": "King of the Table 8",
         "result": "Lost",
         "score": "6-0"
       }
@@ -13171,7 +12678,6 @@
       "Fia Reisek": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Lost",
         "score": "3-1"
       }
@@ -13241,7 +12747,6 @@
       "Paul Linn": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Lost",
         "score": "3-0"
       }
@@ -13314,28 +12819,24 @@
       "Paul Linn": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Lost",
         "score": "3-2"
       },
       "Irakli Zirakashvili": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Lost",
         "score": "3-2"
       },
-      "Sandris Sedis": {
+      "Sandris edis": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Win",
         "score": "4-0"
       },
       "Todd Hutchings": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Lost",
         "score": "4-2"
       }
@@ -13418,14 +12919,12 @@
       "Allen Ford": {
         "arm": "Right",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Win",
         "score": "3-2"
       },
-      "Raimonds Liepins": {
+      "Raimonds Liepiņš": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
         "score": "3-0"
       }
@@ -13507,28 +13006,24 @@
       "Zurab Tavberidze": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Lost",
         "score": "3-0"
       },
-      "Raimonds Liepins": {
+      "Raimonds Liepiņš": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-0"
       },
       "Khaled Jashell": {
         "arm": "Right",
         "date": "October 1, 2022",
-        "event": "King of the Table 5",
         "result": "Win",
         "score": "4-0"
       },
-      "Aleksandr Beziazykov": {
+      "Aleksandr \"Schoolboy\" Beziazykov": {
         "arm": "Right",
         "date": "June 1, 2024",
-        "event": "King of the Table 11",
         "result": "Lost",
         "score": "6-0"
       }
@@ -13557,7 +13052,6 @@
       "Pavlo Derbedyenyev": {
         "arm": "Right",
         "date": "February 25, 2023",
-        "event": "King of the Table 6",
         "result": "Win",
         "score": "4-2"
       }
@@ -13672,7 +13166,6 @@
       "Marcio Barboza": {
         "arm": "Left",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Lost",
         "score": "3-0"
       }
@@ -13701,42 +13194,36 @@
       "Ibragim Sagov": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Lost",
         "score": "3-0"
       },
       "Pavlo Derbedyenyev": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Win",
         "score": "3-1"
       },
       "Matt Mask": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-0"
       },
       "Lachlan Adair": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-0"
       },
       "Chance Shaw": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-0"
       },
       "Rustam Babayev": {
         "arm": "Right",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Lost",
         "score": "4-0"
       }
@@ -13863,28 +13350,24 @@
       "Jocelyne Brisson": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Lost",
         "score": "3-0"
       },
       "Egle Vaitkute": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Lost",
         "score": "5-0"
       },
-      "Irina Drieva": {
+      "İrina Drieva": {
         "arm": "Right",
         "date": "June 12, 2021",
-        "event": "East vs West 1",
         "result": "Win",
         "score": "4-1"
       },
       "Gabriela Vasconcelos": {
         "arm": "Right",
         "date": "April 2, 2022",
-        "event": "King of the Table 3",
         "result": "Lost",
         "score": "4-0"
       }
@@ -13913,7 +13396,6 @@
       "Nisa Camanan": {
         "arm": "Right",
         "date": "December 9, 2023",
-        "event": "King of the Table 9",
         "result": "Lost",
         "score": "6-0"
       }
@@ -14010,35 +13492,30 @@
       "Davit Samushia": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "4-2"
       },
       "Irakli Zirakashvili": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Lost",
         "score": "4-0"
       },
       "Artem Taynov": {
         "arm": "Left",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Lost",
         "score": "3-2"
       },
       "John Brzenk": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Win",
         "score": "5-0"
       },
       "Paul Linn": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Win",
         "score": "3-2"
       }
@@ -14100,7 +13577,7 @@
     "win_loss_record": {
       "right": {
         "wins": 4,
-        "losses": 3
+        "losses": 2
       },
       "left": {
         "wins": 0,
@@ -14111,49 +13588,36 @@
       "Frank Lamparelli": {
         "arm": "Right",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
         "result": "Win",
         "score": "3-0"
       },
       "Travis Bagent": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Win",
         "score": "3-0"
-      },
-      "Georgii Dzeranov": {
-        "arm": "Right",
-        "date": "November 19, 2022",
-        "event": "East vs West 5",
-        "result": "Lost",
-        "score": "3-2"
       },
       "Chance Shaw": {
         "arm": "Right",
         "date": "September 23, 2023",
-        "event": "King of the Table 8",
         "result": "Win",
         "score": "4-2"
       },
       "Arif Ertem": {
         "arm": "Right",
         "date": "December 9, 2023",
-        "event": "King of the Table 9",
         "result": "Win",
         "score": "4-1"
       },
       "Georgi Tsvetkov": {
         "arm": "Right",
         "date": "September 28, 2024",
-        "event": "King of the Table 12",
         "result": "Lost",
         "score": "4-0"
       },
       "Ivan Matyushenko": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Lost",
         "score": "3-1"
       }
@@ -14185,14 +13649,12 @@
       "Vasily Dautashvili": {
         "arm": "Right",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
         "result": "Win",
         "score": "3-1"
       },
       "Brandon Ellsessor": {
         "arm": "Right",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Win",
         "score": "3-0"
       }
@@ -14312,7 +13774,6 @@
       "Betkili Oniani": {
         "arm": "Left",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Lost",
         "score": "3-0"
       }
@@ -14377,10 +13838,9 @@
       }
     },
     "matches": {
-      "Rino Masic": {
+      "Rino Mašić": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Lost",
         "score": "3-0"
       }
@@ -14458,7 +13918,6 @@
       "Dustin Hyatt": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Win",
         "score": "3-0"
       }
@@ -14540,42 +13999,36 @@
       "Kamil Jablonski": {
         "arm": "Left",
         "date": "April 20, 2024",
-        "event": "East vs West 12",
         "result": "Lost",
         "score": "3-2"
       },
-      "Vitaly Laletin": {
+      "Vitalii Laletin": {
         "arm": "Left",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Lost",
         "score": "3-0"
       },
       "Evgeny Prudnik": {
         "arm": "Left",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Win",
         "score": "3-0"
       },
       "Marcio Barboza": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Lost",
         "score": "3-2"
       },
       "Artyom Morozov": {
         "arm": "Left",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-1"
       },
       "Corey West": {
         "arm": "Left",
-        "date": "December 14, 2024",
-        "event": "King of the Table 13",
+        "date": "Unknown",
         "result": "Win",
         "score": "4-2"
       }
@@ -14663,70 +14116,60 @@
       "Irakli Zirakashvili": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Win",
         "score": "3-0"
       },
       "Yoshinobu Kanai": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Win",
         "score": "3-2"
       },
       "Evgeny Prudnik": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-0"
       },
       "Krasimir Kostadinov": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Win",
         "score": "3-0"
       },
       "David Dadikyan": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Lost",
         "score": "4-1"
       },
       "Kydyrgali Ongarbaev": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Win",
         "score": "5-0"
       },
       "Ibragim Sagov": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Win",
         "score": "3-2"
       },
       "Yordan Tsonev": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-0"
       },
       "Khadzimurat Zoloev": {
         "arm": "Right",
         "date": "June 12, 2021",
-        "event": "East vs West 1",
         "result": "Lost",
         "score": "3-2"
       },
       "Rustam Babayev": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Win",
         "score": "4-2"
       }
@@ -14796,7 +14239,6 @@
       "Craig Tullier": {
         "arm": "Right",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-0"
       }
@@ -14877,7 +14319,6 @@
       "Artem Taranenko": {
         "arm": "Left",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Win",
         "score": "3-0"
       }
@@ -14953,7 +14394,6 @@
       "Justin Bishop": {
         "arm": "Right",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Win",
         "score": "3-0"
       }
@@ -15024,7 +14464,6 @@
       "Bozhidar Simeonov": {
         "arm": "Left",
         "date": "June 12, 2021",
-        "event": "East vs West 1",
         "result": "Lost",
         "score": "5-0"
       }
@@ -15114,14 +14553,12 @@
       "Corey West": {
         "arm": "Left",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Lost",
         "score": "3-0"
       },
       "Serhii Kalinichenko": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "3-0"
       }
@@ -15183,14 +14620,12 @@
       "Nurdalet Aidarkhan": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Lost",
         "score": "3-1"
       },
       "Davit Samushia": {
         "arm": "Right",
         "date": "August 26, 2023",
-        "event": "East vs West 9",
         "result": "Lost",
         "score": "3-1"
       }
@@ -15260,7 +14695,6 @@
       "Hunter Noffz": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Lost",
         "score": "3-2"
       }
@@ -15331,10 +14765,9 @@
       }
     },
     "matches": {
-      "Lars Rorbakken": {
+      "Lars Rorbakken": {
         "arm": "Right",
         "date": "December 9, 2023",
-        "event": "King of the Table 9",
         "result": "Lost",
         "score": "4-3"
       }
@@ -15399,7 +14832,6 @@
       "Stoyan Golemanov": {
         "arm": "Right",
         "date": "February 15, 2025",
-        "event": "East vs West 16",
         "result": "Lost",
         "score": "3-1"
       }
@@ -15468,68 +14900,44 @@
     ],
     "win_loss_record": {
       "right": {
-        "wins": 4,
+        "wins": 3,
         "losses": 2
       },
       "left": {
-        "wins": 3,
+        "wins": 1,
         "losses": 0
       }
     },
     "matches": {
-      "Artyom Morozov": {
-        "arm": "Right",
-        "date": "July 6, 2024",
-        "event": "East vs West 13",
-        "result": "Win",
-        "score": "3-0"
-      },
-      "Georgii Dzeranov": {
-        "arm": "Right",
-        "date": "November 2, 2024",
-        "event": "East vs West 15",
-        "result": "Win",
-        "score": "3-0"
-      },
-      "Revaz Lutidze": {
-        "arm": "Right",
-        "date": "August 26, 2023",
-        "event": "East vs West 9",
-        "result": "Win",
-        "score": "3-0"
-      },
-      "Tobias Sporrong": {
-        "arm": "Left",
-        "date": "May 6, 2023",
-        "event": "East vs West 7",
-        "result": "Win",
-        "score": "3-0"
-      },
+      
       "Dave Chaffee": {
         "arm": "Right",
         "date": "October 1, 2022",
-        "event": "King of the Table 5",
         "result": "Lost",
         "score": "4-3"
       },
-      "Ermes Gasparini": {
+      
+      "Revaz Lutidze": {
         "arm": "Right",
-        "date": "December 9, 2023",
-        "event": "King of the Table 9",
-        "result": "Lost",
-        "score": "4-2"
+        "date": "August 26, 2023",
+        "result": "Win",
+        "score": "3-0"
       },
       "Kamil Jablonski": {
         "arm": "Left",
         "date": "June 1, 2024",
-        "event": "King of the Table 11",
         "result": "Win",
         "score": "4-2"
+      },
+      "Georgii Dzeranov": {
+        "arm": "Right",
+        "date": "November 2, 2024",
+        "result": "Win",
+        "score": "3-0"
       },
       "Michael Todd": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Win",
         "score": "3-0"
       }
@@ -15604,7 +15012,6 @@
       "Ramzi Tayba": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-0"
       }
@@ -15632,14 +15039,12 @@
       "Davit Samushia": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Lost",
         "score": "4-1"
       },
       "Adam Wawrzynski": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Win",
         "score": "3-0"
       }
@@ -15754,7 +15159,6 @@
       "Paul Talbott": {
         "arm": "Left",
         "date": "August 10, 2024",
-        "event": "East vs West 14",
         "result": "Win",
         "score": "3-0"
       }
@@ -15827,7 +15231,6 @@
       "Pavlo Derbedyenyev": {
         "arm": "Left",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Lost",
         "score": "3-0"
       }
@@ -15908,28 +15311,24 @@
       "Matt Mask": {
         "arm": "Right",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Lost",
         "score": "3-1"
       },
       "Ferit Osmanli": {
         "arm": "Left",
         "date": "July 29, 2023",
-        "event": "East vs West 8",
         "result": "Win",
         "score": "3-0"
       },
       "Georgii Dzeranov": {
         "arm": "Left",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Lost",
         "score": "3-2"
       },
       "Ermes Gasparini": {
         "arm": "Left",
         "date": "April 2, 2022",
-        "event": "King of the Table 3",
         "result": "Lost",
         "score": "4-1"
       }
@@ -15986,7 +15385,6 @@
       "Riekerd Bornman": {
         "arm": "Right",
         "date": "June 21, 2025",
-        "event": "East vs West 18",
         "result": "Lost",
         "score": "3-1"
       }
@@ -16060,10 +15458,9 @@
       }
     },
     "matches": {
-      "Yusuf Yildizoglu": {
+      "Yusuf Yıldızoğlu": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Win",
         "score": "3-0"
       }
@@ -16141,7 +15538,6 @@
       "Todd Hutchings": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-0"
       }
@@ -16213,14 +15609,12 @@
       "John Brzenk": {
         "arm": "Right",
         "date": "March 29, 2025",
-        "event": "East vs West 17",
         "result": "Win",
         "score": "3-0"
       },
       "Todd Hutchings": {
         "arm": "Right",
         "date": "November 2, 2024",
-        "event": "East vs West 15",
         "result": "Lost",
         "score": "3-2"
       }
@@ -16252,14 +15646,12 @@
       "Yerdaulet Sarybay": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-0"
       },
       "Oleg Cherkasov": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Lost",
         "score": "3-1"
       }
@@ -16385,7 +15777,6 @@
       "Georgi Tsvetkov": {
         "arm": "Right",
         "date": "November 11, 2023",
-        "event": "East vs West X",
         "result": "Lost",
         "score": "3-0"
       }
@@ -16467,84 +15858,72 @@
       "Petro Marharint": {
         "arm": "Right",
         "date": "July 6, 2024",
-        "event": "East vs West 13",
         "result": "Lost",
         "score": "3-0"
       },
       "Artem Taynov": {
         "arm": "Left",
         "date": "January 20, 2024",
-        "event": "East vs West 11",
         "result": "Lost",
         "score": "4-0"
       },
       "Rob Vigeant Jr.": {
         "arm": "Right",
         "date": "May 6, 2023",
-        "event": "East vs West 7",
         "result": "Win",
         "score": "3-0"
       },
       "Curtis Cameron": {
         "arm": "Right",
         "date": "January 21, 2023",
-        "event": "East vs West 6",
         "result": "Win",
         "score": "3-0"
       },
       "Ryan Bowen": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Win",
         "score": "3-0"
       },
       "Oleg Petrenko": {
         "arm": "Left",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Lost",
         "score": "3-0"
       },
       "Chance Shaw": {
         "arm": "Right",
         "date": "August 6, 2022",
-        "event": "East vs West 4",
         "result": "Lost",
         "score": "3-0"
       },
-      "Efe Komek": {
+      "Efe Kömek": {
         "arm": "Left",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Win",
         "score": "3-0"
       },
       "John Brzenk": {
         "arm": "Right",
         "date": "May 21, 2022",
-        "event": "East vs West 3",
         "result": "Lost",
         "score": "3-2"
       },
       "Jonathan Breda": {
         "arm": "Left",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-0"
       },
       "Ron Bath": {
         "arm": "Right",
         "date": "February 12, 2022",
-        "event": "East vs West 2",
         "result": "Win",
         "score": "3-2"
       },
       "Georgy Tautiev": {
         "arm": "Right",
         "date": "May 10, 2025",
-        "event": "King of the Table 14",
         "result": "Lost",
         "score": "3-0"
       }
@@ -16610,7 +15989,6 @@
       "Paul Linn": {
         "arm": "Right",
         "date": "November 19, 2022",
-        "event": "East vs West 5",
         "result": "Lost",
         "score": "3-0"
       }

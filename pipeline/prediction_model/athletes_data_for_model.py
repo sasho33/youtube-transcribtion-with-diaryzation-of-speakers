@@ -45,7 +45,7 @@ ZONE_A_COUNTRIES = {
     "United States", "USA", "Canada", "Mexico", "Brazil", "Argentina", "Colombia", "Chile",
     "Peru", "Venezuela", "Ecuador", "Uruguay", "Paraguay", "Panama", "Cuba",
     "El Salvador", "Guatemala", "Honduras", "Nicaragua", "Bolivia", "Costa Rica",
-    "Dominican Republic", "Haiti", "Jamaica", "Trinidad and Tobago"
+    "Dominican Republic", "Haiti", "Jamaica", "Trinidad and Tobago", "Japan"
 }
 
 def normalize_country(name):
@@ -54,6 +54,8 @@ def normalize_country(name):
         return "USA"
     if name == "uk":
         return "United Kingdom"
+    if name == "turkey" or name == "türkiye":
+        return "Turkey"
     return name.title()
 
 # Load data
@@ -122,11 +124,14 @@ def fuzzy_get_athlete(name, threshold=80):
     return {"country": "Unknown", "pulling_style": ["Unknown"], "weight_kg": "Unknown"}
 
 def get_zone(country):
-    return "America" if normalize_country(country) in {c.title() for c in ZONE_A_COUNTRIES} else "RestOfWorld"
+    # Compare ALL countries as upper-case (or lower-case)
+    AMERICAS = {c.strip().lower() for c in ZONE_A_COUNTRIES}
+    return "America" if normalize_country(country).lower() in AMERICAS else "RestOfWorld"
 
 def get_travel_penalty(origin_country, event_country):
     if origin_country == "Unknown" or event_country == "Unknown":
         return 0
+    
     return 1 if get_zone(origin_country) != get_zone(event_country) else 0
 
 def get_travel_type(c1, c2):
@@ -283,8 +288,8 @@ def extract_matches(events, event_type):
     for event in events:
         date = event.get("event_date")
         title = event.get("event_title")
-        
-        event_location_country = event.get("event_location", "Unknown").split(",")[-1].strip()
+        event_location_country_raw = event.get("event_location", "Unknown").split(",")[-1].strip()
+        event_location_country = normalize_country(event_location_country_raw)
         match_date = parse_date(date)  # match_date_string from your row
 
         for m in event.get("matches", []):
@@ -299,8 +304,8 @@ def extract_matches(events, event_type):
             
             a1 = fuzzy_get_athlete(f1)
             a2 = fuzzy_get_athlete(f2)
-            a1_country = a1.get("country", "Unknown")
-            a2_country = a2.get("country", "Unknown")
+            a1_country = normalize_country(a1.get("country", "Unknown"))
+            a2_country = normalize_country(a2.get("country", "Unknown"))
 
             travels_1 = get_travel_penalty(a1_country, event_location_country)
             travels_2 = get_travel_penalty(a2_country, event_location_country)
@@ -314,6 +319,7 @@ def extract_matches(events, event_type):
                 "event": title,
                 "league": event_type,
                 "date": date,
+                "event_location_country": event_location_country,
                 "fighter_1": f1,
                 "fighter_2": f2,
                 "winner": winner,
