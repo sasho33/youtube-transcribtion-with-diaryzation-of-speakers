@@ -11,7 +11,8 @@ from fuzzywuzzy import process
 sys.path.append(str(Path(__file__).resolve().parents[2]))
 from pipeline.config import (
     UNIQUE_ATHLETES_WITH_DATA_FILE,
-    TEMPORARY_PREDICTION_FOLDER
+    TEMPORARY_PREDICTION_FOLDER,
+  
 )
 from pipeline.prediction_model.title_holder import is_current_title_holder_on_date
 from pipeline.predictions_count import count_low_rank_predictions, count_high_rank_predictions, count_all_predictions
@@ -28,12 +29,14 @@ from pipeline.prediction_model.athletes_data_for_model import (
     get_travel_penalty    
            # dict from athletes_data_for_model.py
 )
-
-MODEL_PATH = "best_xgboost_model.pkl"
+HERE = Path(__file__).resolve().parent
+MODEL_PATH = HERE / "best_xgboost_model.pkl"
+# MODEL_PATH = MODEL_PATH
 ATHLETE_DATA_PATH = UNIQUE_ATHLETES_WITH_DATA_FILE  # JSON file
 TEMP_FOLDER = TEMPORARY_PREDICTION_FOLDER
 EVENTS = load_events()
 ATHLETE_MATCHES, _ = build_athlete_match_history(EVENTS)
+
 
 # Numeric/categorical features your model expects, in order
 MODEL_FEATURE_COLS = [
@@ -102,6 +105,8 @@ def universal_predict_and_save(
     athlete1_name, athlete2_name, match_arm="Right", event_country="United States",
     event_title="(Virtual)", event_date=None, verbose=False
 ):
+    
+    
     if event_date is None:
         event_date = get_date_now()
 
@@ -284,4 +289,7 @@ def universal_predict_and_save(
 # Example usage:
 if __name__ == "__main__":
     universal_predict_and_save("Devon Larratt", "Kamil Jablonski", match_arm="Right", verbose=True)
-    universal_predict_and_save("Kamil Jablonski", "Devon Larratt", match_arm="Right", verbose=True)
+    # universal_predict_and_save("Kamil Jablonski", "Devon Larratt", match_arm="Right", verbose=True)
+    # out = universal_predict_and_save("Devon Larratt", "Kamil Jablonski", match_arm="Right")
+    # print(out)
+    
