@@ -276,7 +276,10 @@ def universal_predict_and_save(
         print(f"Prediction for {athlete1_name} vs {athlete2_name}: {prob:.3f}")
         print(f"Feature row saved at: {save_path}")
         # print("Valuable info about shared matches:", valuable_info)
-    return prob, save_path
+    return {
+        "probability": round(float(prob), 4),
+        "csv_saved_at": save_path
+    }
 
 # Example usage:
 if __name__ == "__main__":
