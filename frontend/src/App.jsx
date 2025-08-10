@@ -7,25 +7,30 @@ import AthletesList from "./pages/AthletesList";
 import AthleteDetail from "./pages/AthleteDetail";
 import Events from "./pages/Events";
 import Predict from "./pages/Predict";
+import ScrollToTop from "./components/ScrollToTop";
+import EventDetail from "./pages/EventDetail";
 
 export default function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
+      {/* <Container maxWidth="lg"> */}
       <BrowserRouter>
         <AppShell>
-          <Container maxWidth="lg">
+          <ScrollToTop />
           <Routes>
             
             <Route path="/" element={<Home />} />
             <Route path="/athletes" element={<AthletesList />} />
             <Route path="/athletes/:name" element={<AthleteDetail />} />
             <Route path="/events" element={<Events />} />
+            <Route path="/events/:source/:eventTitle" element={<EventDetail />} />
             <Route path="/predict" element={<Predict />} />
           </Routes>
-          </Container>
+          
         </AppShell>
       </BrowserRouter>
+      {/* </Container> */}
     </ThemeProvider>
   );
 }

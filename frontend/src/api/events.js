@@ -1,20 +1,15 @@
+// src/api/events.js
 import client from "./client";
+const API_BASE = import.meta.env.VITE_API_BASE 
 
+// use path segment (evw | kott) — empty for all
 export const fetchEvents = async (source) => {
-  // source optional: "evw" | "kott" | undefined
-  if (source === "evw") {
-    const r = await client.get("/events/evw");
-    return r.data;
-  }
-  if (source === "kott") {
-    const r = await client.get("/events/kott");
-    return r.data;
-  }
-  const r = await client.get("/events/");
+  const path = source ? `/events/${source}` : "/events";
+  const r = await client.get(path);
   return r.data; // { count, results }
 };
-
-export const fetchEventByTitle = async (source, title) => {
-  const r = await client.get(`/events/${source}/${encodeURIComponent(title)}`);
-  return r.data;
-};
+export async function fetchEventByTitle(title) {
+  const r = await fetch(`${API_BASE}/events/title?title=${encodeURIComponent(title)}`);
+  if (!r.ok) throw new Error(`Event not found (${r.status})`);
+  return await r.json();
+}
