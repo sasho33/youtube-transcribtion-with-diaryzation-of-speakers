@@ -10,4 +10,9 @@ export const fetchAthletes = async ({q="", country=""} = {}) => {
 export const fetchAthlete = async (name) => {
     const response = await client.get(`/athletes/${encodeURIComponent(name)}`);
     return response.data;   
-}
+};
+
+export const fetchAllAthletes = async () => {
+  const r = await client.get("/athletes/"); // no filters -> all
+  return r.data.results || [];
+};
