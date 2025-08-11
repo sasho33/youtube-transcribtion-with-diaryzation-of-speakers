@@ -1,6 +1,5 @@
 // src/api/events.js
 import client from "./client";
-const API_BASE = import.meta.env.VITE_API_BASE 
 
 // use path segment (evw | kott) — empty for all
 export const fetchEvents = async (source) => {
@@ -8,8 +7,29 @@ export const fetchEvents = async (source) => {
   const r = await client.get(path);
   return r.data; // { count, results }
 };
-export async function fetchEventByTitle(title) {
-  const r = await fetch(`${API_BASE}/events/title?title=${encodeURIComponent(title)}`);
-  if (!r.ok) throw new Error(`Event not found (${r.status})`);
-  return await r.json();
+
+// Fixed: Use the dedicated endpoint that matches your Flask route
+export async function fetchEventByTitle(source, title) {
+  // Use the /events/<source>/<event_title> endpoint
+  const encodedTitle = encodeURIComponent(title);
+  const url = `${import.meta.env.VITE_API_BASE}/events/${source}/${encodedTitle}`;
+  
+  const res = await fetch(url);
+  if (!res.ok) {
+    throw new Error(`Failed to fetch event: ${res.status} ${res.statusText}`);
+  }
+  return res.json();
+}
+
+// Alternative: If you prefer to use the query parameter approach
+export async function fetchEventByTitleAlt(source, title) {
+  const url = new URL("/events", import.meta.env.VITE_API_BASE);
+  url.searchParams.set("source", source);
+  url.searchParams.set("title", title);
+
+  const res = await fetch(url.toString());
+  if (!res.ok) {
+    throw new Error(`Failed to fetch event: ${res.status} ${res.statusText}`);
+  }
+  return res.json();
 }

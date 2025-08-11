@@ -55,3 +55,12 @@ class EventDetail(Resource):
         if not event:
             ns.abort(404, f"Event '{event_title}' not found in {source}.")
         return event, 200
+
+@ns.route("/by-title/<path:event_title>")
+@ns.param("event_title", "URL-encoded event title, e.g. East%20vs%20West%2018")
+class EventDetailByTitle(Resource):
+    def get(self, event_title):
+        event = get_event_by_title_any(event_title)
+        if not event:
+            ns.abort(404, f"Event '{event_title}' not found in EvW or KOTT.")
+        return event, 200

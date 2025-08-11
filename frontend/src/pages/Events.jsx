@@ -33,22 +33,22 @@ export default function Events() {
           return (
             <Grid key={`${e.event_title}-${e.event_date}`} item xs={12} sm={6} md={4} lg={3}>
               <Card>
-                <CardActionArea
-                  component={Link}
-                  to={`/events/${sourceFromTitle(label)}/${encodeURIComponent(label)}`}
-                >
+                <CardActionArea  component={Link}  to={`/events/${sourceFromTitle(e.event_title)}/${encodeURIComponent(e.event_title)}`}>
                   <CardContent>
                     <Stack direction="row" spacing={2} alignItems="center">
                       <Avatar
-                        sx={{
-                          bgcolor: bg,
-                          width: 48,
-                          height: 48,
-                          fontWeight: 700,
-                        }}
-                      >
-                        {label}
-                      </Avatar>
+  sx={{
+    background: `linear-gradient(135deg, ${bg} 0%, ${bg}AA 100%)`, // gradient effect
+    width: 70,
+    height: 70,
+    fontWeight: 700,
+    fontSize: "1.2rem",
+    borderRadius: "16px", // softer corners instead of a perfect circle
+    boxShadow: "0 4px 10px rgba(0,0,0,0.2)", // subtle shadow for depth
+  }}
+>
+  {label}
+</Avatar>
                       <Stack>
                         <Typography variant="h6" sx={{ lineHeight: 1.1 }}>
                           {e.event_title}

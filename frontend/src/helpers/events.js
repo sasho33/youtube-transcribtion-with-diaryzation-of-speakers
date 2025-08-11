@@ -1,5 +1,16 @@
+// src/helpers/events.js
 export function sourceFromTitle(title) {
-  if (/^east vs west/i.test(title)) return 'evw';
-  if (/^king of the table/i.test(title)) return 'kott';
-  return 'evw'; // default/fallback if you want
+  // Determine source based on event title patterns
+  const lowerTitle = title.toLowerCase();
+  
+  if (lowerTitle.includes('east vs west') || lowerTitle.includes('evw')) {
+    return 'evw';
+  }
+  
+  if (lowerTitle.includes('king of the table') || lowerTitle.includes('kott')) {
+    return 'kott';
+  }
+  
+  // Default fallback - you might want to handle this differently
+  return 'evw';
 }

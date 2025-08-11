@@ -35,3 +35,12 @@ def get_event_by_title(source: str, title: str):
         if e.get("event_title", "").strip().lower() == title.strip().lower():
             return e
     return None
+
+def get_event_by_title_any(title: str):
+    """Find an event by title in both EvW and KOTT."""
+    for src in ("evw", "kott"):
+        event = get_event_by_title(src, title)
+        if event:
+            event["source"] = src  # optional, so frontend knows where it came from
+            return event
+    return None

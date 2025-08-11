@@ -7,26 +7,51 @@ import {
 import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 import { Link, useParams } from "react-router-dom";
 import { fetchEventByTitle } from "../api/events";
-import { fromSlug, eventLabel, colorFromText } from "../helpers/eventFormat";
+import { eventLabel, colorFromText } from "../helpers/eventFormat";
 
 export default function EventDetail() {
-  const { slug } = useParams();
-  const title = useMemo(() => fromSlug(slug || ""), [slug]);
+  const { source, eventTitle } = useParams(); // Changed from 'slug' to 'eventTitle'
+  const title = useMemo(() => {
+    if (!eventTitle) return "";
+    try {
+      return decodeURIComponent(eventTitle);
+    } catch (e) {
+      console.error("Failed to decode eventTitle:", eventTitle, e);
+      return eventTitle; // fallback to original eventTitle if decoding fails
+    }
+  }, [eventTitle]); // Changed dependency
+
   const [event, setEvent] = useState(null);
   const [loading, setLoading] = useState(true);
   const [err, setErr] = useState("");
 
   useEffect(() => {
-    async function load() {
-      try {
-        const data = await fetchEventByTitle(title);
-        setEvent(data);
-      } catch (err) {
-        setError(err.message);
-      }
+    if (!source || !title) {
+      setErr("Missing source or title parameters");
+      setLoading(false);
+      return;
     }
-    load();
-  }, [title]);
+
+    let isMounted = true;
+    
+    (async () => {
+      try {
+        console.log("Fetching event:", { source, title }); // Debug log
+        const data = await fetchEventByTitle(source, title);
+        if (isMounted) {
+          setEvent(data);
+          setErr("");
+        }
+      } catch (e) {
+        console.error("Failed to fetch event:", e); // Debug log
+        if (isMounted) setErr(e?.message || "Failed to load event");
+      } finally {
+        if (isMounted) setLoading(false);
+      }
+    })();
+    
+    return () => { isMounted = false; };
+  }, [source, title]);
 
   if (loading) {
     return (
@@ -45,7 +70,10 @@ export default function EventDetail() {
         </Button>
         <Typography variant="h5">Not found</Typography>
         <Typography color="text.secondary">
-          {err || `We couldn’t find “${title}”.`}
+          {err || `We couldn't find "${title}".`}
+        </Typography>
+        <Typography variant="body2" color="text.disabled" sx={{ mt: 2 }}>
+          Debug info: source={source}, eventTitle={eventTitle}, decodedTitle={title}
         </Typography>
       </Stack>
     );
@@ -61,9 +89,20 @@ export default function EventDetail() {
       </Button>
 
       <Stack direction="row" spacing={2} alignItems="center">
-        <Avatar sx={{ bgcolor: badgeColor, width: 56, height: 56, fontWeight: 700 }}>
-          {badge}
-        </Avatar>
+        
+        <Avatar
+  sx={{
+    background: `linear-gradient(135deg, ${badgeColor} 0%, ${badgeColor}AA 100%)`, // gradient effect
+    width: 70,
+    height: 70,
+    fontWeight: 700,
+    fontSize: "1.2rem",
+    borderRadius: "16px", // softer corners instead of a perfect circle
+    boxShadow: "0 4px 10px rgba(0,0,0,0.2)", // subtle shadow for depth
+  }}
+>
+  {badge}
+</Avatar>
         <Stack>
           <Typography variant="h4">{event.event_title}</Typography>
           <Typography color="text.secondary">{event.event_date}</Typography>
