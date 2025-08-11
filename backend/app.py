@@ -23,6 +23,14 @@ except ImportError as e:
     print(f"⚠️ match_predictions_direct not available: {e}")
     MATCH_PREDICTIONS_DIRECT_AVAILABLE = False
 
+# Try to import the new enhanced match analysis
+try:
+    from src.api.match_analysis import ns as match_analysis_ns
+    MATCH_ANALYSIS_AVAILABLE = True
+except ImportError as e:
+    print(f"⚠️ match_analysis not available: {e}")
+    MATCH_ANALYSIS_AVAILABLE = False
+
 def create_app():
     app = Flask(__name__)
     
@@ -38,6 +46,7 @@ def create_app():
               title="Armwrestling Prediction API", 
               version="1.0", 
               doc="/swagger/",
+              description="Enhanced API for armwrestling predictions and match analysis",
               authorizations={
                   'apikey': {
                       'type': 'apiKey',
@@ -59,19 +68,43 @@ def create_app():
     if MATCH_PREDICTIONS_DIRECT_AVAILABLE:
         api.add_namespace(match_predictions_direct_ns, path="/match-predictions-direct")
         print("✅ Registered /match-predictions-direct endpoint")
-
+    
+    if MATCH_ANALYSIS_AVAILABLE:
+        api.add_namespace(match_analysis_ns, path="/match-analysis")
+        print("✅ Registered /match-analysis endpoint (Enhanced)")
+    
     @app.get("/media/<path:filename>")
     def media(filename):
         base = Path(__file__).resolve().parents[1] / "media"
         return send_from_directory(base, filename)
     
-    # REMOVED: Duplicate CORS header setting that was causing the issue
-    # The flask-cors extension handles this automatically
+    # Health check endpoint
+    @app.route("/health")
+    def health_check():
+        endpoints_status = {
+            "core_endpoints": True,
+            "match_predictions": MATCH_PREDICTIONS_AVAILABLE,
+            "match_predictions_direct": MATCH_PREDICTIONS_DIRECT_AVAILABLE,
+            "enhanced_match_analysis": MATCH_ANALYSIS_AVAILABLE
+        }
+        
+        return {
+            "status": "healthy",
+            "endpoints": endpoints_status,
+            "available_routes": [
+                "/athletes",
+                "/predict", 
+                "/events",
+                "/match-predictions" if MATCH_PREDICTIONS_AVAILABLE else None,
+                "/match-predictions-direct" if MATCH_PREDICTIONS_DIRECT_AVAILABLE else None,
+                "/match-analysis" if MATCH_ANALYSIS_AVAILABLE else None
+            ]
+        }
     
     return app
 
 if __name__ == "__main__":
-    print("🚀 Starting Flask app...")
+    print("🚀 Starting Enhanced Flask app...")
     print(f"📁 Current directory: {Path.cwd()}")
     
     try:
@@ -79,6 +112,22 @@ if __name__ == "__main__":
         print("✅ App created successfully")
         print("🌐 Starting server on http://localhost:5000")
         print("📚 Swagger docs available at http://localhost:5000/swagger/")
+        print("🔍 Health check available at http://localhost:5000/health")
+        
+        # Print available endpoints
+        available_endpoints = []
+        if MATCH_PREDICTIONS_AVAILABLE:
+            available_endpoints.append("✅ /match-predictions - Standard prediction search")
+        if MATCH_PREDICTIONS_DIRECT_AVAILABLE:
+            available_endpoints.append("✅ /match-predictions-direct - Direct pipeline access")
+        if MATCH_ANALYSIS_AVAILABLE:
+            available_endpoints.append("✅ /match-analysis - Enhanced analysis with explanations")
+        
+        if available_endpoints:
+            print("\n📊 Available prediction endpoints:")
+            for endpoint in available_endpoints:
+                print(f"   {endpoint}")
+        
         app.run(debug=True, host="0.0.0.0", port=5000)
     except Exception as e:
         print(f"❌ Failed to start app: {e}")
