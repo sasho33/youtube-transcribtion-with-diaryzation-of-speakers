@@ -9,6 +9,7 @@ import Events from "./pages/Events";
 import Predict from "./pages/Predict";
 import ScrollToTop from "./components/ScrollToTop";
 import EventDetail from "./pages/EventDetail";
+import MatchDetail from "./pages/MatchDetail";
 
 export default function App() {
   return (
@@ -26,6 +27,7 @@ export default function App() {
             <Route path="/events" element={<Events />} />
             <Route path="/events/:source/:eventTitle" element={<EventDetail />} />
             <Route path="/predict" element={<Predict />} />
+            <Route path="/matches/:source/:eventTitle/:matchId" element={<MatchDetail />} />
           </Routes>
           
         </AppShell>
