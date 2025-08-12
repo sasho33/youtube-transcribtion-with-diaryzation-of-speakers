@@ -93,9 +93,9 @@ function MatchCard({ match, eventTitle, source }) {
 
           {/* Athletes Face-off */}
           <Box>
-            <Grid container spacing={2} alignItems="center">
+            <Grid container spacing={2} alignItems="between">
               {/* Athlete 1 */}
-              <Grid item xs={5}>
+              <Grid item size={{ xs: 6, sm: 4, md: 3}}>
                 <Stack direction="row" spacing={2} alignItems="center">
                   <Avatar
                     src={athlete1Image}
@@ -398,12 +398,12 @@ export default function Events() {
           
           <Grid container spacing={3}>
             {(data.results || []).map((event, index) => (
-              <Grid key={`${event.event_title}-${event.event_date}-${index}`} item xs={12} sm={6} md={4} lg={3}>
+              <Grid key={`${event.event_title}-${event.event_date}-${index}`} item size={{ xs: 12, sm: 6,  lg: 4 }}>
                 <EventCard event={event} />
               </Grid>
             ))}
             {data.results?.length === 0 && (
-              <Grid item xs={12}>
+              <Grid item size={{ xs: 12 }}>
                 <Paper sx={{ p: 4, textAlign: "center" }}>
                   <Typography variant="h6" color="text.secondary">
                     No events found

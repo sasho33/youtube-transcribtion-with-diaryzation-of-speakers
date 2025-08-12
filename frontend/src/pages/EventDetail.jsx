@@ -1,4 +1,4 @@
-// src/pages/EventDetail.jsx
+
 import { useEffect, useMemo, useState } from "react";
 import {
   Avatar, Box, Card, CardContent, Chip, CircularProgress, Divider,
@@ -106,7 +106,7 @@ function DetailedMatchCard({ match, eventTitle, source, index }) {
           <Box>
             <Grid container spacing={3} alignItems="center">
               {/* Athlete 1 */}
-              <Grid item xs={12} sm={5}>
+              <Grid item size={{ xs: 12, sm: 5 }}>
                 <Paper
                   variant="outlined"
                   sx={{ 
@@ -130,7 +130,7 @@ function DetailedMatchCard({ match, eventTitle, source, index }) {
                     >
                       {athlete1.charAt(0)}
                     </Avatar>
-                    <Box sx={{ flex: 1, minWidth: 0 }}>
+                    <Box sx={{ display: "flex", flexDirection: "column", alignItems:"center", minWidth: 0 }}>
                       <Button
                         component={Link}
                         to={`/athletes/${formatAthleteUrl(athlete1)}`}
@@ -159,7 +159,7 @@ function DetailedMatchCard({ match, eventTitle, source, index }) {
                         </Typography>
                       </Button>
                       {match.winner === athlete1 && (
-                        <Typography variant="caption" color="success.dark" sx={{ fontWeight: 600 }}>
+                        <Typography  variant="caption" color="success.dark" sx={{ fontWeight: 600 }}>
                           WINNER
                         </Typography>
                       )}
@@ -169,7 +169,7 @@ function DetailedMatchCard({ match, eventTitle, source, index }) {
               </Grid>
 
               {/* VS Separator */}
-              <Grid item xs={12} sm={2}>
+              <Grid item size={{ xs: 12, sm: 2 }}>
                 <Box sx={{ textAlign: "center", py: 2 }}>
                   <Typography 
                     variant="h4" 
@@ -185,7 +185,7 @@ function DetailedMatchCard({ match, eventTitle, source, index }) {
               </Grid>
 
               {/* Athlete 2 */}
-              <Grid item xs={12} sm={5}>
+              <Grid item size={{ xs: 12, sm: 5 }}>
                 <Paper
                   variant="outlined"
                   sx={{ 
@@ -350,7 +350,7 @@ export default function EventDetail() {
   const matchCount = event.matches?.length || 0;
 
   return (
-    <Stack spacing={3} sx={{ pb: 4 }}>
+    <Stack spacing={3} sx={{ pb: 4 }} align="center">
       <Button 
         component={Link} 
         to="/events" 
@@ -362,8 +362,8 @@ export default function EventDetail() {
       </Button>
 
       {/* Event Header */}
-      <Paper sx={{ p: 4 }}>
-        <Stack direction="row" spacing={3} alignItems="center">
+      <Paper sx={{ p: 4 }} >
+        <Stack direction="row" spacing={3} alignItems="center" justifyContent="center" alignSelf="center" align="center">
           <Avatar
             sx={{
               background: `linear-gradient(135deg, ${badgeColor} 0%, ${badgeColor}AA 100%)`,
@@ -377,11 +377,11 @@ export default function EventDetail() {
           >
             {badge}
           </Avatar>
-          <Stack sx={{ flex: 1 }}>
+          <Stack alignItems="center" sx={{ flex: 1 }}>
             <Typography variant="h3" sx={{ fontWeight: 700, mb: 1 }}>
               {event.event_title}
             </Typography>
-            <Stack direction="row" spacing={2} flexWrap="wrap">
+            <Stack align="center" direction="row" spacing={2} flexWrap="wrap">
               <Chip label={event.event_date} color="primary" />
               <Chip label={event.event_location} variant="outlined" />
               <Chip label={`${matchCount} Match${matchCount !== 1 ? 'es' : ''}`} color="secondary" />
@@ -394,14 +394,14 @@ export default function EventDetail() {
 
       {/* Matches Section */}
       <Box>
-        <Typography variant="h4" sx={{ mb: 3, fontWeight: 600 }}>
+        <Typography align="center" variant="h4" sx={{ mb: 3, fontWeight: 600 }}>
           Matches
         </Typography>
 
         {matchCount > 0 ? (
           <Grid container spacing={2}>
             {event.matches.map((match, idx) => (
-              <Grid item xs={12} key={`match-${idx}`}>
+              <Grid item size={{ xs: 12 }} key={`match-${idx}`}>
                 <DetailedMatchCard 
                   match={match} 
                   eventTitle={event.event_title}

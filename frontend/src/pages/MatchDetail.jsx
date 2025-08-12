@@ -65,7 +65,7 @@ function PredictionCard({ prediction, type }) {
           {/* Prediction Details */}
           <Grid container spacing={2}>
             {prediction.predicted_score && (
-              <Grid item xs={6} sm={3}>
+              <Grid item size={{ xs: 12, sm: 6 }}>
                 <Typography variant="caption" color="text.secondary">Score</Typography>
                 <Typography variant="body2" sx={{ fontWeight: 600 }}>
                   {prediction.predicted_score}
@@ -73,7 +73,7 @@ function PredictionCard({ prediction, type }) {
               </Grid>
             )}
             {prediction.arm && (
-              <Grid item xs={6} sm={3}>
+              <Grid item size={{ xs: 12, sm: 6 }}>
                 <Typography variant="caption" color="text.secondary">Arm</Typography>
                 <Typography variant="body2" sx={{ fontWeight: 600 }}>
                   {prediction.arm}
@@ -81,7 +81,7 @@ function PredictionCard({ prediction, type }) {
               </Grid>
             )}
             {prediction.predicted_duration && (
-              <Grid item xs={12} sm={6}>
+              <Grid item size={{ xs: 12, sm: 6 }}>
                 <Typography variant="caption" color="text.secondary">Duration</Typography>
                 <Typography variant="body2" sx={{ fontWeight: 600 }}>
                   {prediction.predicted_duration}
@@ -89,7 +89,7 @@ function PredictionCard({ prediction, type }) {
               </Grid>
             )}
             {prediction.confidence && (
-              <Grid item xs={12} sm={6}>
+              <Grid item size={{ xs: 12, sm: 6 }}>
                 <Typography variant="caption" color="text.secondary">Confidence</Typography>
                 <Typography variant="body2" sx={{ fontWeight: 600 }}>
                   {prediction.confidence}
@@ -134,7 +134,7 @@ function PredictionCard({ prediction, type }) {
               <Typography variant="caption" color="text.secondary">Athlete Assessment</Typography>
               <Grid container spacing={1} sx={{ mt: 0.5 }}>
                 {Object.entries(prediction.opinion_about_athletes).map(([athleteName, opinion]) => (
-                  <Grid item xs={12} sm={6} key={athleteName}>
+                  <Grid item size={{ xs: 12, sm: 6 }} key={athleteName}>
                     <Paper variant="outlined" sx={{ p: 1.5 }}>
                       <Typography variant="caption" sx={{ fontWeight: 600, color: "primary.main" }}>
                         {athleteName}
@@ -296,12 +296,12 @@ export default function MatchDetail() {
           
           {/* Athletes Face-off */}
           <Grid container spacing={3} alignItems="center">
-            <Grid item xs={12} sm={5}>
+            <Grid item size={{ xs: 12, sm: 5 }}>
               <Paper sx={{ p: 3, textAlign: "center" }}>
                 <Avatar
                   src={athlete1Image}
                   alt={athlete1}
-                  sx={{ width: 100, height: 100, mx: "auto", mb: 2 }}
+                  sx={{ width: 200, height: 200, mx: "auto", mb: 2 }}
                 >
                   {athlete1?.charAt(0)}
                 </Avatar>
@@ -318,7 +318,7 @@ export default function MatchDetail() {
               </Paper>
             </Grid>
 
-            <Grid item xs={12} sm={2}>
+            <Grid item size={{ xs: 12, sm: 2 }}>
               <Box sx={{ textAlign: "center" }}>
                 <Typography variant="h3" sx={{ fontWeight: 700, color: "primary.main" }}>
                   VS
@@ -331,7 +331,7 @@ export default function MatchDetail() {
                 <Avatar
                   src={athlete2Image}
                   alt={athlete2}
-                  sx={{ width: 100, height: 100, mx: "auto", mb: 2 }}
+                  sx={{ width: 200, height: 200, mx: "auto", mb: 2 }}
                 >
                   {athlete2?.charAt(0)}
                 </Avatar>
@@ -386,7 +386,7 @@ export default function MatchDetail() {
         <Paper sx={{ p: 3 }}>
           <Typography variant="h6" gutterBottom>Prediction Summary</Typography>
           <Grid container spacing={2}>
-            <Grid item xs={6} sm={3}>
+            <Grid item size={{ xs: 6, sm: 3 }}>
               <Typography variant="h4" color="primary.main" sx={{ fontWeight: 700 }}>
                 {summary.total_predictions || 0}
               </Typography>
@@ -394,7 +394,7 @@ export default function MatchDetail() {
                 Total Predictions
               </Typography>
             </Grid>
-            <Grid item xs={6} sm={3}>
+            <Grid item size={{ xs: 6, sm: 3 }}>
               <Typography variant="h4" color="secondary.main" sx={{ fontWeight: 700 }}>
                 {summary.self_count || 0}
               </Typography>
@@ -402,7 +402,7 @@ export default function MatchDetail() {
                 Self Predictions
               </Typography>
             </Grid>
-            <Grid item xs={6} sm={3}>
+            <Grid item size={{ xs: 6, sm: 3 }}>
               <Typography variant="h4" color="info.main" sx={{ fontWeight: 700 }}>
                 {summary.third_party_count || 0}
               </Typography>
@@ -410,7 +410,7 @@ export default function MatchDetail() {
                 Expert Opinions
               </Typography>
             </Grid>
-            <Grid item xs={6} sm={3}>
+            <Grid item size={{ xs: 6, sm: 3 }}>
               <Typography variant="h4" color="success.main" sx={{ fontWeight: 700 }}>
                 {Math.round((summary.prediction_confidence || 0) * 100)}%
               </Typography>
