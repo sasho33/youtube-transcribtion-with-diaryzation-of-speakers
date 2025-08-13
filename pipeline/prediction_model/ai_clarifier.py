@@ -33,7 +33,9 @@ TOP_P = 1.0
 FREQ_PENALTY = 0.0
 PRES_PENALTY = 0.0
 
-MAX_DELTA = 0.30
+# Cap rules: default ±30%; allow escalation to ±60% if strong evidence shows a baseline miscalculation.
+BASE_MAX_DELTA = 0.30
+ESCALATED_MAX_DELTA = 0.60
 SUMMARY_MAX_BULLETS = 10
 SUMMARY_MIN_BULLETS = 6
 NARRATIVE_MIN = 120  # words (advisory)
@@ -117,12 +119,17 @@ SYSTEM_BASE = (
     "Use deterministic phrasing and stable key order. Do not include markdown fences, comments, or extra text.\n"
     "All probability keys MUST use the exact athlete names provided (no 'athlete1'/'athlete2').\n"
     "Do NOT use placeholder domains (e.g., example.com). Use only real, verifiable URLs with publisher names.\n"
-    f"Cap per-athlete adjustments at ±{int(MAX_DELTA*100)}. Normalize final probabilities to sum to 1.000.\n"
+    "Adjustment policy:\n"
+    "  • Prefer a non-zero adjustment when any credible finding (medium/high confidence) indicates an advantage; "
+    "use a cautious net shift if evidence is mixed (typically ±2–8 percentage points).\n"
+    "  • Default cap is ±30 per athlete. However, if strong, recent, well-sourced evidence indicates a baseline "
+    "miscalculation (e.g., major injury/health update, decisive recent results, rule/weight change, or ranking swing), "
+    "you MAY escalate the cap to ±60 per athlete by setting constraints.max_adjustment_per_athlete_pct = 60 and explain why in adjusted_probabilities.reason.\n"
     f"Use only sources published within the last {RESEARCH_WINDOW_YEARS} years (prefer latest).\n"
     f"Provide {SUMMARY_MIN_BULLETS}–{SUMMARY_MAX_BULLETS} bullet points in 'summary' and a concise {NARRATIVE_MIN}-{NARRATIVE_MAX}-word 'narrative'.\n"
     + STRICT_FINDINGS_NOTE + "\n" + STRICT_UI_NOTE
-    
 )
+
 
 SYSTEM_RETRY_SUFFIX = (
     "\nRETRY MODE: The previous response lacked structured findings/evidence. "
@@ -159,7 +166,7 @@ def _build_prompts(base_result: Dict[str, Any], strict_retry: bool = False) -> T
             "summary": [],
             "narrative": "",
             "adjusted_probabilities": {
-                "note": f"Per-athlete cap ±{int(MAX_DELTA*100)}, sources ≤{RESEARCH_WINDOW_YEARS} years; renormalized to 1.000.",
+                "note": f"Per-athlete cap ±{int(ESCALATED_MAX_DELTA*100)}, sources ≤{RESEARCH_WINDOW_YEARS} years; renormalized to 1.000.",
                 "before": {a1_name: round(before_a, 3), a2_name: round(before_b, 3)},
                 "deltas": {a1_name: 0.0, a2_name: 0.0},
                 "after": {a1_name: round(before_a, 3), a2_name: round(before_b, 3)},
@@ -170,7 +177,7 @@ def _build_prompts(base_result: Dict[str, Any], strict_retry: bool = False) -> T
             "findings": [],
             "ui_highlights": {"badges": [], "highlight_cards": [], "timeline": []},
             "constraints": {
-                "max_adjustment_per_athlete_pct": int(MAX_DELTA * 100),
+                "max_adjustment_per_athlete_pct": int(ESCALATED_MAX_DELTA * 100),
                 "source_age_limit_years": RESEARCH_WINDOW_YEARS,
                 "prefer_latest_sources": True,
                 "normalization_rule": "sum_to_one"
@@ -400,7 +407,7 @@ def _postprocess_and_validate(
     ai_review.setdefault("findings", [])
     ai_review.setdefault("ui_highlights", {"badges": [], "highlight_cards": [], "timeline": []})
     ai_review.setdefault("constraints", {
-        "max_adjustment_per_athlete_pct": int(MAX_DELTA * 100),
+        "max_adjustment_per_athlete_pct": int(ESCALATED_MAX_DELTA * 100),
         "source_age_limit_years": RESEARCH_WINDOW_YEARS,
         "prefer_latest_sources": True,
         "normalization_rule": "sum_to_one"
@@ -416,9 +423,35 @@ def _postprocess_and_validate(
     ap.setdefault("reason", "")
 
     _ensure_names_in_probs(ap, a1_name, a2_name, before_a, before_b)
+    # Determine cap from the model's constraints (default 30, allow 60 when justified)
+    cap_pct = int(ai_review.get("constraints", {}).get("max_adjustment_per_athlete_pct", int(BASE_MAX_DELTA * 100)))
+    # never exceed our hard ceiling
+    cap = BASE_MAX_DELTA if cap_pct <= 30 else min(ESCALATED_MAX_DELTA, cap_pct / 100.0)
 
-    d1 = _clamp(float(ap["deltas"].get(a1_name, 0.0)), -MAX_DELTA, MAX_DELTA)
-    d2 = _clamp(float(ap["deltas"].get(a2_name, 0.0)), -MAX_DELTA, MAX_DELTA)
+    d1 = _clamp(float(ap["deltas"].get(a1_name, 0.0)), -cap, cap)
+    d2 = _clamp(float(ap["deltas"].get(a2_name, 0.0)), -cap, cap)
+    # Optional nudge: if both deltas are zero but we have non-neutral, credible findings, apply a minimal tilt (±0.02)
+    if abs(d1) < 1e-9 and abs(d2) < 1e-9:
+        non_neutral = [f for f in ai_review.get("findings", []) if f.get("impact", {}).get("direction") in ("increase","decrease")]
+        credible = []
+        for f in non_neutral:
+            ev = f.get("evidence") or []
+            # at least one fresh, valid citation
+            if any(_evidence_is_fresh(e, start_date, end_date) for e in ev):
+                credible.append(f)
+        if credible:
+            # pick the strongest by magnitude, default 2%
+            best = max(credible, key=lambda fx: int(fx.get("impact", {}).get("magnitude_pct", 0)))
+            who = best.get("impact", {}).get("athlete_name")
+            direction = best.get("impact", {}).get("direction")
+            tilt = min(0.02, cap)  # 2 percentage points, respect cap
+            if who == a1_name:
+                d1 = tilt if direction == "increase" else -tilt
+                d2 = -d1
+            elif who == a2_name:
+                d2 = tilt if direction == "increase" else -tilt
+                d1 = -d2
+
     after_a = max(before_a + d1, 0.0)
     after_b = max(before_b + d2, 0.0)
     na, nb = _normalize_probs(after_a, after_b)

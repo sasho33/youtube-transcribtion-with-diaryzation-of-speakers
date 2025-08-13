@@ -1,5 +1,5 @@
 // src/components/PredictWithAthletePicker.jsx
-import React, { useEffect, useMemo, useState } from "react";
+import React, { useEffect, useMemo, useRef, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import dayjs from "dayjs";
 import {
@@ -49,6 +49,7 @@ import { DatePicker } from "@mui/x-date-pickers/DatePicker";
 import { AdapterDayjs } from "@mui/x-date-pickers/AdapterDayjs";
 
 import { athletes, countries } from "../helpers/athletes_and_countries";
+import AiReviewPanel from "./AiReviewPanel";
 
 const apiBase = import.meta.env.VITE_API_BASE || "http://localhost:5000";
 
@@ -303,8 +304,7 @@ const SelectedAthleteCard = ({ label, athlete }) => (
 export default function PredictWithAthletePicker() {
 
   const location = useLocation();
-
-  
+  const aiSectionRef = useRef(null);
 
   const [a1, setA1] = useState(null);
   const [a2, setA2] = useState(null);
@@ -337,7 +337,14 @@ useEffect(() => {
   }
 }, [location.search]);
 
-
+  const handleFocus = () => {
+  const el = aiSectionRef.current;
+  if (!el) return;
+  // scroll into view smoothly
+  el.scrollIntoView({ behavior: "smooth", block: "start", inline: "nearest" });
+  // optionally give it programmatic focus for a11y (won't re-scroll because of preventScroll)
+  el.focus?.({ preventScroll: true });
+};
   const handleChange = (k) => (e) => setForm((f) => ({ ...f, [k]: e.target.value }));
 
   const submit = async () => {
@@ -476,9 +483,15 @@ useEffect(() => {
             <Button size="large" endIcon={<OnlinePredictionOutlined />} variant="contained" onClick={submit} disabled={loading || !a1 || !a2}>
               {loading ? "Predicting…" : "Predict"}
             </Button>
-            <Button size="large" variant="outlined" startIcon={<PsychologyIcon />} onClick={() => setAiSnack(true)}>
-                  Enhance with AI
-                </Button>
+            <Button
+  size="large"
+  variant="outlined"
+  startIcon={<PsychologyIcon />}
+  onClick={handleFocus}
+  disabled={!a1 || !a2}
+>
+  Enhance with AI
+</Button>
           </Stack>
           {loading && (
             <Box sx={{ mt: 2 }}>
@@ -509,9 +522,22 @@ useEffect(() => {
       {/* Results */}
       {data && (
         <>
+        <Box ref={aiSectionRef} tabIndex={1} sx={{ outline: "none" }}>
           <WinProbabilityCard prediction={data.prediction} />
-
+</Box>
           {/* Predicted profile snapshot from API */}
+          
+          
+            
+            <AiReviewPanel
+              athlete1Name={a1.name}
+              athlete2Name={a2.name}
+              matchArm={form?.match_arm || "Right"}
+              eventCountry={form?.event_country || "United States"}
+              eventTitle={form?.event_title || "(Virtual)"}
+              eventDate={form?.event_date || ""}
+          />
+          
           <Card>
             <CardHeader align="center" title="Predicted Profiles Snapshot" subheader="Key attributes from the prediction engine for each athlete" />
             <CardContent>
