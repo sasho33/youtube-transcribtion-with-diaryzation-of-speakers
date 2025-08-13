@@ -10,6 +10,8 @@ import InfoIcon from "@mui/icons-material/Info";
 import { Link, useParams } from "react-router-dom";
 import { athletes } from "../helpers/athletes_and_countries";
 import { fetchMatchPredictions, testMatchPredictionsEndpoint } from "../api/matchPredictions";
+import { fetchModelPrediction } from "../api/predictMatch";
+import { Construction } from "@mui/icons-material";
 
 const apiBase = import.meta.env.VITE_API_BASE || "http://127.0.0.1:5000";
 
@@ -172,6 +174,9 @@ export default function MatchDetail() {
   const [predictions, setPredictions] = useState(null);
   const [error, setError] = useState("");
   const [tabValue, setTabValue] = useState(0);
+  const [modelLoading, setModelLoading] = useState(false);
+  const [modelError, setModelError] = useState("");
+  const [modelResult, setModelResult] = useState(null);
 
   // Parse match participants from matchId (format: "Athlete1-vs-Athlete2")
   const athletes_in_match = matchId ? matchId.split('-vs-').map(name => decodeURIComponent(name)) : [];
@@ -184,6 +189,7 @@ export default function MatchDetail() {
     if (!athlete1 || !athlete2 || !eventTitle) {
       setError("Invalid match parameters");
       setLoading(false);
+      setModelLoading(false);
       return;
     }
 
@@ -224,13 +230,37 @@ export default function MatchDetail() {
         if (!data.match_found) {
           console.warn("No match found in predictions data");
         }
-        
+         // Fetch both: transcript-based and model-based in parallel       // NEW
+       const [consensusRes, modelRes] = await Promise.allSettled([
+         fetchMatchPredictions(athlete1, athlete2, decodedEventTitle),
+          fetchModelPrediction(decodedEventTitle, athlete1, athlete2),
+        ]);
+        if (consensusRes.status === "fulfilled") {
+          setPredictions(consensusRes.value);
+          if (!consensusRes.value.match_found) {
+            console.warn("No match found in predictions data");
+          }
+        } else {
+          setError(consensusRes.reason?.message || "Failed to load predictions");
+          setPredictions(null);
+        }
+
+        if (modelRes.status === "fulfilled") {
+          setModelResult(modelRes.value);
+          setModelError("");
+        } else {
+          console.warn("Model prediction failed:", modelRes.reason);
+          setModelResult(null);
+          setModelError(modelRes.reason?.message || "Model prediction unavailable");
+        }
+
       } catch (err) {
         console.error("Error fetching predictions:", err);
         setError(err.message || "Failed to load predictions");
         setPredictions(null);
       } finally {
         setLoading(false);
+        setModelLoading(false);
       }
     };
 
@@ -273,6 +303,15 @@ export default function MatchDetail() {
   const thirdPartyPredictions = predictions?.third_party_predictions || [];
   const summary = predictions?.summary || {};
   const metadata = predictions?.metadata || {};
+
+  const formatPct = (v) => `${Math.round((v ?? 0) * 100)}%`;
+  const formatOdds = (o) => (o ? `x${Number(o).toFixed(2)}` : "—");
+  const modelWinner =
+    modelResult
+      ? (modelResult.prob1_normalized ?? 0) >= (modelResult.prob2_normalized ?? 0)
+        ? modelResult.athlete1
+        : modelResult.athlete2
+      : null;
 
   return (
     <Stack spacing={3} sx={{ pb: 4 }}>
@@ -370,6 +409,123 @@ export default function MatchDetail() {
           </Stack>
         </Stack>
       </Paper>
+
+      {/* Model Prediction (odds & probabilities) */}             {/* NEW */}
+<Paper
+  sx={{
+    p: 3,
+    mt: 2,
+    borderRadius: 3,
+    boxShadow: 3,
+    
+  }}
+>
+  <Stack spacing={2}>
+    {/* Header */}
+    <Stack direction="row" alignItems="center" justifyContent="center" spacing={1}>
+      <PredictionsIcon color="primary" />
+      <Typography align="center" variant="h6" sx={{ fontWeight: 700 }}>
+        Model Prediction (XGBoost)
+      </Typography>
+      {modelLoading && <CircularProgress size={18} sx={{ ml: 1 }} />}
+    </Stack>
+
+    {/* Error */}
+    {modelError && <Alert severity="warning">{modelError}</Alert>}
+
+    {/* Results */}
+    {modelResult && (
+      <>
+        {/* Winner */}
+        <Stack
+          direction="row"
+          alignItems="center"
+          justifyContent="center"
+          spacing={1}
+          sx={{
+            backgroundColor: "#313131ff",
+            p: 1.5,
+            borderRadius: 2,
+          }}
+        >
+          🏆
+          <Typography align="center" sx={{ fontWeight: 700, fontSize: "1.1rem", textAlign: "center" }}>
+            Winner: {modelWinner}
+          </Typography>
+        </Stack>
+
+        {/* Normalized Probabilities */}
+        <Stack spacing={1} sx={{ mt: 1 }}>
+          {[{
+            name: modelResult.athlete1,
+            value: modelResult.prob1_normalized
+          },
+          {
+            name: modelResult.athlete2,
+            value: modelResult.prob2_normalized
+          }].map((athlete, idx) => (
+            <Box key={idx}>
+              <Typography
+                variant="body2"
+                sx={{ mb: 0.5, fontWeight: 500 }}
+              >
+                {athlete.name} — {formatPct(athlete.value)} (norm)
+              </Typography>
+              <Box
+                sx={{
+                  height: 8,
+                  backgroundColor: "#e0e0e0ff",
+                  borderRadius: 4,
+                  overflow: "hidden",
+                }}
+              >
+                <Box
+                  sx={{
+                    width: `${(athlete.value ?? 0) * 100}%`,
+                    height: "100%",
+                    backgroundColor:
+                      athlete.name === modelWinner ? "#4caf50" : "#2196f3",
+                    transition: "width 0.3s ease",
+                  }}
+                />
+              </Box>
+            </Box>
+          ))}
+        </Stack>
+
+        <Divider sx={{ my: 1.5 }} />
+
+        {/* Odds */}
+        <Stack
+          direction="row"
+          spacing={2}
+          justifyContent="center"
+          flexWrap="wrap"
+        >
+          <Chip
+            variant="outlined"
+            label={`${modelResult.athlete1} odds: ${formatOdds(modelResult.odds1)}`}
+          />
+          <Chip
+            variant="outlined"
+            label={`${modelResult.athlete2} odds: ${formatOdds(modelResult.odds2)}`}
+          />
+        </Stack>
+
+        {/* Optional Raw Probabilities */}
+        <Typography
+          variant="caption"
+          color="text.secondary"
+          sx={{ display: "block", textAlign: "center", mt: 1 }}
+        >
+          Raw probabilities — {modelResult.athlete1}: {formatPct(modelResult.prob1_raw)} •{" "}
+          {modelResult.athlete2}: {formatPct(modelResult.prob2_raw)}
+        </Typography>
+      </>
+    )}
+  </Stack>
+</Paper>
+
 
       {/* Show files processed info if available */}
       {predictions?.files_processed && predictions.files_processed.length > 0 && (

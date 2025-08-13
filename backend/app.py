@@ -39,6 +39,13 @@ except ImportError as e:
     print(f"⚠️ match_analysis not available: {e}")
     MATCH_ANALYSIS_AVAILABLE = False
 
+try:
+    from src.api.ai_review import ns as ai_review_ns
+    AI_REVIEW_AVAILABLE = True
+except ImportError as e:
+    print(f"⚠️ ai_review not available: {e}")
+    AI_REVIEW_AVAILABLE = False
+
 def create_app():
     app = Flask(__name__)
     
@@ -84,6 +91,11 @@ def create_app():
     if MATCH_ANALYSIS_AVAILABLE:
         api.add_namespace(match_analysis_ns, path="/match-analysis")
         print("✅ Registered /match-analysis endpoint (Enhanced)")
+
+    if AI_REVIEW_AVAILABLE:
+        api.add_namespace(ai_review_ns, path="/ai-review")
+        print("✅ Registered /ai-review endpoint")
+
     
     @app.get("/media/<path:filename>")
     def media(filename):

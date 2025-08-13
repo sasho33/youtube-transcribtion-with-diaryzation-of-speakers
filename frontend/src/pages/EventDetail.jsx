@@ -68,31 +68,35 @@ function DetailedMatchCard({ match, eventTitle, source, index }) {
             <Stack direction="row" spacing={2} alignItems="center">
               <Chip 
                 label={`Match ${index + 1}`}
-                size="small"
+                size="medium"
                 color="secondary"
                 variant="outlined"
+                sx={{ fontSize: { xs: "0.7rem", sm: "0.9rem", md: "1rem" } }}
               />
               <Chip 
                 icon={<SportsMmaIcon />}
-                label={match.arm || "Unknown Arm"} 
-                size="small" 
+                label={match.arm + (match.arm.toLowerCase() == "left" ? "🫷" : " 🫸") || "Unknown Arm"} 
+                size="medium"
                 color="primary" 
+                sx={{ fontSize: { xs: "0.7rem", sm: "0.9rem", md: "1rem" } }}
               />
               {match.score && (
                 <Chip 
                   label={match.score} 
-                  size="small" 
+                  size="medium" 
                   color="info"
                   variant="outlined"
+                  sx={{ fontSize: { xs: "0.7rem", sm: "0.9rem", md: "1rem" } }}
                 />
               )}
             </Stack>
             {match.winner && (
               <Chip 
                 label={`🏆 ${match.winner}`} 
-                size="small" 
+                size="medium" 
                 color="success"
                 sx={{ 
+                  fontSize: { xs: "0.7rem", sm: "0.9rem", md: "1rem" } ,
                   fontWeight: 600,
                   "& .MuiChip-label": {
                     px: 2

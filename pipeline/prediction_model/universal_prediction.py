@@ -508,12 +508,19 @@ def universal_predict_and_save(
     if verbose:
         print(f"Enhanced prediction for {athlete1_name} vs {athlete2_name}")
         print(f"Win probability: {prob:.1%}")
-        print(f"Key factors identified: {len(explanations)}")
-        print(f"Shared opponents: {len(shared_opponents)}")
+        # print(f"Key factors identified: {len(explanations)}")
+        # print(f"Shared opponents: {len(shared_opponents)}")
+
+    # # save result as json to TEMP_FOLDER
+    # with open(f"{TEMP_FOLDER}/{athlete1_name}_vs_{athlete2_name}_prediction.json", "w") as f:
+    #     json.dump(result, f, indent=2)
 
     return result
 
+
+
 # Example usage
-if __name__ == "__main__":
-    result = universal_predict_and_save("Devon Larratt", "Kamil Jablonski", match_arm="Right", verbose=True)
-    print(json.dumps(result, indent=2, ensure_ascii=False))
+# if __name__ == "__main__":
+#     result = universal_predict_and_save("Artyom Morozov", "Vitaly Laletin", match_arm="Right", verbose=True)
+#     universal_predict_and_save("Vitaly Laletin","Artyom Morozov", match_arm="Right", verbose=True)
+#     # print(json.dumps(result, indent=2, ensure_ascii=False))

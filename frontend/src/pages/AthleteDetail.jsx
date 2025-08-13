@@ -237,9 +237,9 @@ export default function AthleteDetail() {
             <Stack spacing={1}>
               {Object.entries(matches).map(([opponent, matchList]) => (
                 <Stack key={opponent} spacing={1} divider={<Divider flexItem />}>
-                  {/* <Typography align="center" variant="subtitle1">{opponent}</Typography> */}
+                  <Typography align="center" variant="subtitle1">{opponent}</Typography>
                   {matchList.map((m, i) => (
-                    <MatchRow key={i} opponent={opponent} m={m} />
+                    <MatchRow key={i} opponent={opponent} m={m} selfName={fullName} arm={m.arm} />
                   ))}
                 </Stack>
               ))}
@@ -271,24 +271,68 @@ function Facts({ data }) {
   );
 }
 
-function MatchRow({ opponent, m }) {
+function MatchRow({ opponent, m, selfName }) {
+  // Decide the source from event title (extend as needed)
+  const evTitle = m.event || m.event_title || "";
+  const evLower = evTitle.toLowerCase();
+  let source = "events";
+  if (evLower.includes("east vs west")) source = "evw";
+  // else if (evLower.includes("king of the table")) source = "kot";
+
+  // Figure out winner
+  // Prefer explicit 'winner' field if present; otherwise infer from self result
+  const resultStr = (m.result || "").toString().toLowerCase();
+  let winner = m.winner || null;
+  if (!winner && selfName) {
+    if (resultStr === "win" || resultStr === "won") winner = selfName;
+    if (resultStr === "loss" || resultStr === "lost") winner = opponent;
+  }
+  // Fallback: if still unknown, default to self first for stability
+  if (!winner) winner = selfName || opponent;
+
+  // Order athletes: winner first
+  const a1 = winner;
+  const a2 = winner === selfName ? opponent : selfName;
+
+  const toHref = `/matches/${source}/${encodeURIComponent(evTitle)}/${encodeURIComponent(a1)}-vs-${encodeURIComponent(a2)}`;
+
   return (
     <Stack
-      direction={ "row" }
+      direction="row"
       spacing={1}
       divider={<span />}
-      sx={{ p: 1, borderRadius: 1, bgcolor: "background.default" }}
+      sx={{
+        p: 1,
+        borderRadius: 1,
+        bgcolor: "background.default",
+        transition: "background-color 0.2s",
+        "&:hover": { bgcolor: "action.hover" },
+        cursor: "pointer",
+      }}
+      component={Link}
+      to={toHref}
+      style={{ textDecoration: "none", color: "inherit" }}
     >
-      <Typography  variant="body1" sx={{ minWidth: 140 }}>{m.date || "—"}</Typography>
-      <Typography  variant="body1" sx={{ flex: 1, }}>
-        vs <b>{opponent}</b> • {m.arm || "—"} • {m.event || m.event_title || "—"}
+      <Typography variant="body1" sx={{ minWidth: 140 }}>
+        {m.date || "—"}
+      </Typography>
+      <Typography variant="body1" sx={{ flex: 1 }}>
+        vs <b>{opponent}</b> • {m.arm+" " || "—"} - {m.arm.toLowerCase() == "left" ? "🫷" : " 🫸"} • {evTitle || "—"}
       </Typography>
       <Typography variant="body1" align="left">
-        {m.result ? (m.result.toLowerCase() === "win" ? "✅ Win" : m.result.toLowerCase() === "lost" ? "❌ Loss" : m.result) : "—"}
+        {m.result
+          ? resultStr === "win"
+            ? "✅ Win"
+            : resultStr === "lost" || resultStr === "loss"
+            ? "❌ Loss"
+            : m.result
+          : "—"}
         {m.score ? ` (${m.score})` : ""}
       </Typography>
       {m.event_location && (
-        <Typography variant="body1" color="text.secondary">{m.event_location}</Typography>
+        <Typography variant="body1" color="text.secondary">
+          {m.event_location}
+        </Typography>
       )}
     </Stack>
   );

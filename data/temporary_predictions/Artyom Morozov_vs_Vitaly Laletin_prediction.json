@@ -1,0 +1,572 @@
+{
+  "prediction": {
+    "athlete1_name": "Artyom Morozov",
+    "athlete2_name": "Vitaly Laletin",
+    "athlete1_win_probability": 0.303,
+    "athlete2_win_probability": 0.697,
+    "confidence": "Medium"
+  },
+  "match_details": {
+    "event_title": "(Virtual)",
+    "event_date": "2025-08-13",
+    "match_arm": "Right",
+    "event_country": "United States"
+  },
+  "athlete_profiles": {
+    "athlete1": {
+      "name": "Artyom Morozov",
+      "age": 24,
+      "weight_kg": 142.0,
+      "height_cm": 195.0,
+      "country": "Kazakhstan",
+      "dominant_style": "Toproll",
+      "additional_style": "Hook",
+      "is_title_holder": false,
+      "current_winning_streak": 2,
+      "domestic_win_rate": 0.733,
+      "transatlantic_win_rate": 1.0
+    },
+    "athlete2": {
+      "name": "Vitaly Laletin",
+      "age": 35,
+      "weight_kg": 140.0,
+      "height_cm": 205.0,
+      "country": "Russia",
+      "dominant_style": "Toproll",
+      "additional_style": "",
+      "is_title_holder": true,
+      "current_winning_streak": 3,
+      "domestic_win_rate": 0.778,
+      "transatlantic_win_rate": 0.5
+    }
+  },
+  "analysis": {
+    "explanations": [
+      {
+        "category": "Physical",
+        "title": "Height Disadvantage",
+        "description": "Vitaly Laletin has a 10.0cm height advantage",
+        "impact": "negative",
+        "value": -10.0
+      },
+      {
+        "category": "Experience",
+        "title": "Age Factor",
+        "description": "Vitaly Laletin is 11 years older than Artyom Morozov",
+        "impact": "neutral",
+        "value": -11
+      },
+      {
+        "category": "Status",
+        "title": "Title Holder Disadvantage",
+        "description": "Vitaly Laletin is currently a title holder",
+        "impact": "negative",
+        "value": -1
+      },
+      {
+        "category": "History",
+        "title": "Head-to-Head Disadvantage",
+        "description": "Vitaly Laletin has won their previous encounters",
+        "impact": "negative",
+        "value": -1
+      },
+      {
+        "category": "Comparison",
+        "title": "Common Opponents Advantage",
+        "description": "Artyom Morozov has better results against 2 shared opponents",
+        "impact": "positive",
+        "value": 2
+      }
+    ],
+    "key_factors": {
+      "weight_advantage_kg": 2.0,
+      "height_advantage_cm": -10.0,
+      "age_difference": -11,
+      "travel_advantage": 0,
+      "style_advantage_rate": null,
+      "has_head_to_head_history": true,
+      "shared_opponents_count": 5,
+      "mma_math_advantage": 2
+    }
+  },
+  "valuable_matches": {
+    "head_to_head": [
+      {
+        "event": "East vs West 16",
+        "date": "February 15, 2025",
+        "opponent": "Vitaly Laletin",
+        "result": "loss",
+        "score": "4-2",
+        "arm": "Left"
+      },
+      {
+        "event": "East vs West 13",
+        "date": "July 6, 2024",
+        "opponent": "Vitaly Laletin",
+        "result": "loss",
+        "score": "3-0",
+        "arm": "Right"
+      },
+      {
+        "event": "East vs West 16",
+        "date": "February 15, 2025",
+        "opponent": "Artyom Morozov",
+        "result": "win",
+        "score": "4-2",
+        "arm": "Left"
+      },
+      {
+        "event": "East vs West 13",
+        "date": "July 6, 2024",
+        "opponent": "Artyom Morozov",
+        "result": "win",
+        "score": "3-0",
+        "arm": "Right"
+      }
+    ],
+    "shared_opponents": [
+      {
+        "shared_opponent": "Revaz Lutidze",
+        "matches": [
+          {
+            "event": "East vs West 5",
+            "participants": [
+              "Artyom Morozov",
+              "Revaz Lutidze"
+            ],
+            "date": "November 19, 2022",
+            "arm": "Right",
+            "winner": "Artyom Morozov",
+            "result": "win",
+            "score": "3-1"
+          },
+          {
+            "event": "East vs West 9",
+            "participants": [
+              "Vitaly Laletin",
+              "Revaz Lutidze"
+            ],
+            "date": "August 26, 2023",
+            "arm": "Right",
+            "winner": "Vitaly Laletin",
+            "result": "win",
+            "score": "3-0"
+          }
+        ]
+      },
+      {
+        "shared_opponent": "Tobias Sporrong",
+        "matches": [
+          {
+            "event": "East vs West 2",
+            "participants": [
+              "Artyom Morozov",
+              "Tobias Sporrong"
+            ],
+            "date": "February 12, 2022",
+            "arm": "Left",
+            "winner": "Artyom Morozov",
+            "result": "win",
+            "score": "3-1"
+          },
+          {
+            "event": "East vs West 7",
+            "participants": [
+              "Vitaly Laletin",
+              "Tobias Sporrong"
+            ],
+            "date": "May 6, 2023",
+            "arm": "Left",
+            "winner": "Vitaly Laletin",
+            "result": "win",
+            "score": "3-0"
+          }
+        ]
+      },
+      {
+        "shared_opponent": "Ermes Gasparini",
+        "matches": [
+          {
+            "event": "East vs West 5",
+            "participants": [
+              "Artyom Morozov",
+              "Ermes Gasparini"
+            ],
+            "date": "November 19, 2022",
+            "arm": "Left",
+            "winner": "Artyom Morozov",
+            "result": "win",
+            "score": "3-0"
+          },
+          {
+            "event": "King of the Table 9",
+            "participants": [
+              "Vitaly Laletin",
+              "Ermes Gasparini"
+            ],
+            "date": "December 9, 2023",
+            "arm": "Right",
+            "winner": "Ermes Gasparini",
+            "result": "loss",
+            "score": "4-2"
+          }
+        ]
+      },
+      {
+        "shared_opponent": "Kamil Jablonski",
+        "matches": [
+          {
+            "event": "King of the Table 12",
+            "participants": [
+              "Artyom Morozov",
+              "Kamil Jablonski"
+            ],
+            "date": "September 28, 2024",
+            "arm": "Right",
+            "winner": "Artyom Morozov",
+            "result": "win",
+            "score": "5-1"
+          },
+          {
+            "event": "King of the Table 11",
+            "participants": [
+              "Vitaly Laletin",
+              "Kamil Jablonski"
+            ],
+            "date": "June 1, 2024",
+            "arm": "Left",
+            "winner": "Vitaly Laletin",
+            "result": "win",
+            "score": "4-2"
+          }
+        ]
+      },
+      {
+        "shared_opponent": "Dave Chaffee",
+        "matches": [
+          {
+            "event": "East vs West 4",
+            "participants": [
+              "Artyom Morozov",
+              "Dave Chaffee"
+            ],
+            "date": "August 6, 2022",
+            "arm": "Right",
+            "winner": "Artyom Morozov",
+            "result": "win",
+            "score": "3-2"
+          },
+          {
+            "event": "King of the Table 5",
+            "participants": [
+              "Vitaly Laletin",
+              "Dave Chaffee"
+            ],
+            "date": "October 1, 2022",
+            "arm": "Right",
+            "winner": "Dave Chaffee",
+            "result": "loss",
+            "score": "4-3"
+          }
+        ]
+      }
+    ],
+    "second_order_connections": [
+      {
+        "a1_opponent": "Alex Kurdecha",
+        "a2_opponent": "Revaz Lutidze",
+        "shared_second_order": "Dave Chaffee",
+        "Alex Kurdecha_vs_Dave Chaffee": "no win",
+        "Revaz Lutidze_vs_Dave Chaffee": "win 3-0"
+      },
+      {
+        "a1_opponent": "Alex Kurdecha",
+        "a2_opponent": "Ermes Gasparini",
+        "shared_second_order": "Dave Chaffee",
+        "Alex Kurdecha_vs_Dave Chaffee": "no win",
+        "Ermes Gasparini_vs_Dave Chaffee": "win 3-0"
+      },
+      {
+        "a1_opponent": "Alex Kurdecha",
+        "a2_opponent": "Ermes Gasparini",
+        "shared_second_order": "Jerry Cadorette",
+        "Alex Kurdecha_vs_Jerry Cadorette": "no win",
+        "Ermes Gasparini_vs_Jerry Cadorette": "win 3-0"
+      },
+      {
+        "a1_opponent": "Alex Kurdecha",
+        "a2_opponent": "Dave Chaffee",
+        "shared_second_order": "Georgi Tsvetkov",
+        "Alex Kurdecha_vs_Georgi Tsvetkov": "win 3-0",
+        "Dave Chaffee_vs_Georgi Tsvetkov": "no win"
+      },
+      {
+        "a1_opponent": "Georgi Tsvetkov",
+        "a2_opponent": "Ermes Gasparini",
+        "shared_second_order": "Jerry Cadorette",
+        "Georgi Tsvetkov_vs_Jerry Cadorette": "no win",
+        "Ermes Gasparini_vs_Jerry Cadorette": "win 3-0"
+      },
+      {
+        "a1_opponent": "Georgi Tsvetkov",
+        "a2_opponent": "Dave Chaffee",
+        "shared_second_order": "Alex Kurdecha",
+        "Georgi Tsvetkov_vs_Alex Kurdecha": "no win",
+        "Dave Chaffee_vs_Alex Kurdecha": "win 5-1"
+      },
+      {
+        "a1_opponent": "Evgeny Prudnik",
+        "a2_opponent": "Kamil Jablonski",
+        "shared_second_order": "Tobias Sporrong",
+        "Evgeny Prudnik_vs_Tobias Sporrong": "no win",
+        "Kamil Jablonski_vs_Tobias Sporrong": "win 3-2"
+      },
+      {
+        "a1_opponent": "Corey West",
+        "a2_opponent": "Michael Todd",
+        "shared_second_order": "Kamil Jablonski",
+        "Corey West_vs_Kamil Jablonski": "no win",
+        "Michael Todd_vs_Kamil Jablonski": "win 3-0"
+      },
+      {
+        "a1_opponent": "Corey West",
+        "a2_opponent": "Georgii Dzeranov",
+        "shared_second_order": "Arif Ertem",
+        "Corey West_vs_Arif Ertem": "no win",
+        "Georgii Dzeranov_vs_Arif Ertem": "win 3-2"
+      },
+      {
+        "a1_opponent": "Corey West",
+        "a2_opponent": "Ermes Gasparini",
+        "shared_second_order": "Arif Ertem",
+        "Corey West_vs_Arif Ertem": "no win",
+        "Ermes Gasparini_vs_Arif Ertem": "win 3-0"
+      },
+      {
+        "a1_opponent": "Corey West",
+        "a2_opponent": "Kamil Jablonski",
+        "shared_second_order": "Tobias Sporrong",
+        "Corey West_vs_Tobias Sporrong": "no win",
+        "Kamil Jablonski_vs_Tobias Sporrong": "win 3-2"
+      },
+      {
+        "a1_opponent": "Corey West",
+        "a2_opponent": "Dave Chaffee",
+        "shared_second_order": "Alex Kurdecha",
+        "Corey West_vs_Alex Kurdecha": "no win",
+        "Dave Chaffee_vs_Alex Kurdecha": "win 5-1"
+      },
+      {
+        "a1_opponent": "Revaz Lutidze",
+        "a2_opponent": "Michael Todd",
+        "shared_second_order": "Georgii Dzeranov",
+        "Revaz Lutidze_vs_Georgii Dzeranov": "no win",
+        "Michael Todd_vs_Georgii Dzeranov": "win 3-1"
+      },
+      {
+        "a1_opponent": "Revaz Lutidze",
+        "a2_opponent": "Georgii Dzeranov",
+        "shared_second_order": "Michael Todd",
+        "Revaz Lutidze_vs_Michael Todd": "win 3-2",
+        "Georgii Dzeranov_vs_Michael Todd": "no win"
+      },
+      {
+        "a1_opponent": "Revaz Lutidze",
+        "a2_opponent": "Kamil Jablonski",
+        "shared_second_order": "Michael Todd",
+        "Revaz Lutidze_vs_Michael Todd": "win 3-2",
+        "Kamil Jablonski_vs_Michael Todd": "no win"
+      },
+      {
+        "a1_opponent": "Revaz Lutidze",
+        "a2_opponent": "Kamil Jablonski",
+        "shared_second_order": "Georgii Dzeranov",
+        "Revaz Lutidze_vs_Georgii Dzeranov": "no win",
+        "Kamil Jablonski_vs_Georgii Dzeranov": "win 3-0"
+      },
+      {
+        "a1_opponent": "Derek Smith",
+        "a2_opponent": "Georgii Dzeranov",
+        "shared_second_order": "Revaz Lutidze",
+        "Derek Smith_vs_Revaz Lutidze": "no win",
+        "Georgii Dzeranov_vs_Revaz Lutidze": "win 4-0"
+      },
+      {
+        "a1_opponent": "Derek Smith",
+        "a2_opponent": "Ermes Gasparini",
+        "shared_second_order": "Matt Mask",
+        "Derek Smith_vs_Matt Mask": "no win",
+        "Ermes Gasparini_vs_Matt Mask": "win 4-1"
+      },
+      {
+        "a1_opponent": "Kody Merritt",
+        "a2_opponent": "Tobias Sporrong",
+        "shared_second_order": "Evgeny Prudnik",
+        "Kody Merritt_vs_Evgeny Prudnik": "no win",
+        "Tobias Sporrong_vs_Evgeny Prudnik": "win 3-0"
+      },
+      {
+        "a1_opponent": "Ivan Matyushenko",
+        "a2_opponent": "Georgii Dzeranov",
+        "shared_second_order": "Kamil Jablonski",
+        "Ivan Matyushenko_vs_Kamil Jablonski": "win 3-0",
+        "Georgii Dzeranov_vs_Kamil Jablonski": "no win"
+      },
+      {
+        "a1_opponent": "Ivan Matyushenko",
+        "a2_opponent": "Tobias Sporrong",
+        "shared_second_order": "Kamil Jablonski",
+        "Ivan Matyushenko_vs_Kamil Jablonski": "win 3-0",
+        "Tobias Sporrong_vs_Kamil Jablonski": "no win"
+      },
+      {
+        "a1_opponent": "Tobias Sporrong",
+        "a2_opponent": "Michael Todd",
+        "shared_second_order": "Kamil Jablonski",
+        "Tobias Sporrong_vs_Kamil Jablonski": "no win",
+        "Michael Todd_vs_Kamil Jablonski": "win 3-0"
+      },
+      {
+        "a1_opponent": "Ermes Gasparini",
+        "a2_opponent": "Georgii Dzeranov",
+        "shared_second_order": "Michael Todd",
+        "Ermes Gasparini_vs_Michael Todd": "win 3-0",
+        "Georgii Dzeranov_vs_Michael Todd": "no win"
+      },
+      {
+        "a1_opponent": "Ermes Gasparini",
+        "a2_opponent": "Kamil Jablonski",
+        "shared_second_order": "Michael Todd",
+        "Ermes Gasparini_vs_Michael Todd": "win 3-0",
+        "Kamil Jablonski_vs_Michael Todd": "no win"
+      },
+      {
+        "a1_opponent": "Ermes Gasparini",
+        "a2_opponent": "Dave Chaffee",
+        "shared_second_order": "Genadi Kvikvinia",
+        "Ermes Gasparini_vs_Genadi Kvikvinia": "win 4-2",
+        "Dave Chaffee_vs_Genadi Kvikvinia": "no win"
+      },
+      {
+        "a1_opponent": "Kamil Jablonski",
+        "a2_opponent": "Revaz Lutidze",
+        "shared_second_order": "Michael Todd",
+        "Kamil Jablonski_vs_Michael Todd": "no win",
+        "Revaz Lutidze_vs_Michael Todd": "win 3-2"
+      },
+      {
+        "a1_opponent": "Kamil Jablonski",
+        "a2_opponent": "Revaz Lutidze",
+        "shared_second_order": "Georgii Dzeranov",
+        "Kamil Jablonski_vs_Georgii Dzeranov": "win 3-0",
+        "Revaz Lutidze_vs_Georgii Dzeranov": "no win"
+      },
+      {
+        "a1_opponent": "Kamil Jablonski",
+        "a2_opponent": "Ermes Gasparini",
+        "shared_second_order": "Michael Todd",
+        "Kamil Jablonski_vs_Michael Todd": "no win",
+        "Ermes Gasparini_vs_Michael Todd": "win 3-0"
+      },
+      {
+        "a1_opponent": "Matt Mask",
+        "a2_opponent": "Michael Todd",
+        "shared_second_order": "Kydyrgali Ongarbaev",
+        "Matt Mask_vs_Kydyrgali Ongarbaev": "win 3-0",
+        "Michael Todd_vs_Kydyrgali Ongarbaev": "no win"
+      },
+      {
+        "a1_opponent": "Matt Mask",
+        "a2_opponent": "Michael Todd",
+        "shared_second_order": "Frank Lamparelli",
+        "Matt Mask_vs_Frank Lamparelli": "no win",
+        "Michael Todd_vs_Frank Lamparelli": "win 3-1"
+      },
+      {
+        "a1_opponent": "Matt Mask",
+        "a2_opponent": "Tobias Sporrong",
+        "shared_second_order": "Evgeny Prudnik",
+        "Matt Mask_vs_Evgeny Prudnik": "no win",
+        "Tobias Sporrong_vs_Evgeny Prudnik": "win 3-0"
+      },
+      {
+        "a1_opponent": "Matt Mask",
+        "a2_opponent": "Tobias Sporrong",
+        "shared_second_order": "Marcio Barboza",
+        "Matt Mask_vs_Marcio Barboza": "win 5-1",
+        "Tobias Sporrong_vs_Marcio Barboza": "no win"
+      },
+      {
+        "a1_opponent": "Matt Mask",
+        "a2_opponent": "Dave Chaffee",
+        "shared_second_order": "Frank Lamparelli",
+        "Matt Mask_vs_Frank Lamparelli": "no win",
+        "Dave Chaffee_vs_Frank Lamparelli": "win 3-0"
+      },
+      {
+        "a1_opponent": "Dave Chaffee",
+        "a2_opponent": "Michael Todd",
+        "shared_second_order": "Genadi Kvikvinia",
+        "Dave Chaffee_vs_Genadi Kvikvinia": "no win",
+        "Michael Todd_vs_Genadi Kvikvinia": "win 3-2"
+      },
+      {
+        "a1_opponent": "Dave Chaffee",
+        "a2_opponent": "Georgii Dzeranov",
+        "shared_second_order": "Revaz Lutidze",
+        "Dave Chaffee_vs_Revaz Lutidze": "no win",
+        "Georgii Dzeranov_vs_Revaz Lutidze": "win 4-0"
+      },
+      {
+        "a1_opponent": "Dave Chaffee",
+        "a2_opponent": "Ermes Gasparini",
+        "shared_second_order": "Genadi Kvikvinia",
+        "Dave Chaffee_vs_Genadi Kvikvinia": "no win",
+        "Ermes Gasparini_vs_Genadi Kvikvinia": "win 4-2"
+      }
+    ]
+  },
+  "raw_features": {
+    "f1_age": 24,
+    "f2_age": 35,
+    "f1_weight": 142.0,
+    "f2_weight": 140.0,
+    "weight_advantage": 2.0,
+    "f1_height": 195.0,
+    "f2_height": 205.0,
+    "height_advantage": -10.0,
+    "f1_travel_penalty": 1,
+    "f2_travel_penalty": 1,
+    "domestic_advantage": 0,
+    "f1_domestic_win_rate": 0.733,
+    "f2_domestic_win_rate": 0.778,
+    "f1_transatlantic_win_rate": 1.0,
+    "f2_transatlantic_win_rate": 0.5,
+    "f1_low_rank_predictions": 0,
+    "f2_low_rank_predictions": 0,
+    "f1_high_rank_predictions": 0,
+    "f2_high_rank_predictions": 0,
+    "f1_style_combo_success_percent": 53.4,
+    "f2_style_combo_success_percent": 50.0,
+    "athlete1_style_advantage_rate": 50,
+    "num_shared_opponents_value": 2,
+    "mma_math_positive": 2,
+    "mma_math_negative": 0,
+    "has_head_to_head": 1,
+    "head_to_head_result": -1,
+    "second_order_mma_math_difference": -14,
+    "second_order_mma_math_positive": 11,
+    "second_order_mma_math_negative": 25,
+    "f1_gender": 0,
+    "f2_gender": 0,
+    "f1_is_current_title_holder": 0,
+    "f2_is_current_title_holder": 1,
+    "f1_winning_streak": 2,
+    "f2_winning_streak": 3
+  },
+  "metadata": {
+    "prediction_date": "2025-08-13T21:42:26.668354",
+    "model_features_count": 36,
+    "data_quality": "Complete"
+  }
+}
