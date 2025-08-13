@@ -17,6 +17,14 @@ except ImportError as e:
     MATCH_PREDICTIONS_AVAILABLE = False
 
 try:
+    from src.api.predict_match import ns as predict_match_ns
+    PREDICT_MATCH_AVAILABLE = True
+except ImportError as e:
+    print(f"⚠️ predict_match not available: {e}")
+    PREDICT_MATCH_AVAILABLE = False
+
+
+try:
     from src.api.match_predictions_direct import ns as match_predictions_direct_ns
     MATCH_PREDICTIONS_DIRECT_AVAILABLE = True
 except ImportError as e:
@@ -59,7 +67,11 @@ def create_app():
     api.add_namespace(athletes_ns, path="/athletes")
     api.add_namespace(prediction_ns, path="/predict")
     api.add_namespace(events_ns, path="/events")
-    
+    # register conditionally
+    if PREDICT_MATCH_AVAILABLE:
+        api.add_namespace(predict_match_ns, path="/predict-match")
+        print("✅ Registered /predict-match endpoint")
+
     # Register optional namespaces if available
     if MATCH_PREDICTIONS_AVAILABLE:
         api.add_namespace(match_predictions_ns, path="/match-predictions")

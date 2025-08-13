@@ -9,8 +9,9 @@ import numpy as np
 
 sys.path.append(str(Path(__file__).resolve().parents[2]))
 from pipeline.config import TRAINING_MODEL_DATASET
-
-model = joblib.load("best_xgboost_model.pkl")  
+# Resolve model path relative to this file
+MODEL_PATH = Path(__file__).resolve().parent / "best_xgboost_model.pkl"
+model = joblib.load(MODEL_PATH)
 
 # 2. Load the dataset
 df = pd.read_csv(TRAINING_MODEL_DATASET)  # Or however you load it
@@ -120,27 +121,12 @@ def predict_and_get_odds(event_title, athlete1, athlete2, margin=0.85, print_con
 
 
 # Example usage
-if __name__ == "__main__":
-    matches = [
-    ("East vs West 18", "Riekerd Bornman", "Wallace Dilley"),
-    ("East vs West 18", "Wallace Dilley", "Riekerd Bornman"),
-    ("East vs West 18", "Ryan Belanger", "Allen Ford"),
-    ("East vs West 18", "Allen Ford", "Ryan Belanger"),
-    ("East vs West 18", "Joseph Meranto", "Ivan Portela"),
-    ("East vs West 18", "Ivan Portela", "Joseph Meranto"),
-    ("East vs West 18", "Pavlo Derbedyenyev", "Wagner Bortalato"),
-    ("East vs West 18", "Wagner Bortalato", "Pavlo Derbedyenyev"),
-    ("East vs West 18", "Devon Larratt", "Alex Kurdecha"),
-    ("East vs West 18", "Alex Kurdecha", "Devon Larratt"),
-    ("East vs West 18", "Paul Linn", "Arsen Khachatryan"),
-    ("East vs West 18", "Arsen Khachatryan", "Paul Linn"),
-    ("East vs West 18", "Matt Mask", "Irakli Zirakashvili"),
-    ("East vs West 18", "Irakli Zirakashvili", "Matt Mask"),
-    ("East vs West 18", "Michael Todd", "Georgii Dzeranov"),
-    ("East vs West 18", "Georgii Dzeranov", "Michael Todd"),
-    ("East vs West 18", "Fia Reisek", "Elin Janeheim"),
-    ("East vs West 18", "Elin Janeheim", "Fia Reisek"),
-]
+# if __name__ == "__main__":
+#     matches = [
+#     ("East vs West 18", "Riekerd Bornman", "Wallace Dilley"),
+#     ("East vs West 18", "Wallace Dilley", "Riekerd Bornman"),
+
+# ]
     
-    for event, athlete1, athlete2 in matches:
-        predict_and_get_odds(event, athlete1, athlete2)
+#     for event, athlete1, athlete2 in matches:
+#         predict_and_get_odds(event, athlete1, athlete2)
