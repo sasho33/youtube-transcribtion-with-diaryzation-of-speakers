@@ -12,10 +12,12 @@ import {
   CardMedia,
   Paper,
 } from "@mui/material";
-import { Link, useParams } from "react-router-dom";
+import { Link, useNavigate, useParams } from "react-router-dom";
 import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 import Button from "@mui/material/Button";
 import { fetchAthlete } from "../api/athletes"; // must exist
+
+
 
 const apiBase = import.meta.env.VITE_API_BASE || "http://127.0.0.1:5000";
 const toImageSrc = (img) => {
@@ -25,7 +27,7 @@ const toImageSrc = (img) => {
 
 export default function AthleteDetail() {
   const { name } = useParams(); // e.g. "Vitaly_Laletin"
-
+  const navigate = useNavigate();
   const targetName = useMemo(
     () => decodeURIComponent(name || "").replace(/_/g, " ").trim(),
     [name]
@@ -177,8 +179,20 @@ export default function AthleteDetail() {
                 />
               </Paper>
             </Grid>
+            <Grid item sx={{
+    justifyContent: "flex-end",
+    alignItems: "flex-end",
+  }}  size={{ xs: 12}}>
+            <Button align="center"
+                variant="contained"
+                color="primary"
+                onClick={() => navigate(`/predict?athlete1=${encodeURIComponent(fullName)}`)}
+              >
+                Predict match
+              </Button>
+              </Grid>
           </Grid>
-
+                  
           {/* Titles */}
           {titles?.length ? (
             <>

@@ -13,13 +13,13 @@ export default function AppShell({ children }) {
             Armwrestling AI
           </Typography>
           <div style={{ flex: 1 }} />
-          <Typography component={Link} to="/athletes" style={{ color: "inherit", textDecoration: "none", marginRight: 16 }}>
+          <Typography component={Link} to="/athletes" style={{ color: "inherit", textDecoration: "none", marginRight: 16, fontSize: { xs: '0.8rem', md: '1.2rem' } }}>
             Athletes
           </Typography>
-          <Typography component={Link} to="/events" style={{ color: "inherit", textDecoration: "none", marginRight: 16 }}>
+          <Typography component={Link}  to="/events" style={{ color: "inherit", textDecoration: "none", marginRight: 16, fontSize: { xs: '0.8rem', md: '1.2rem' } }}>
             Events
           </Typography>
-          <Typography component={Link} to="/predict" style={{ color: "inherit", textDecoration: "none" }}>
+          <Typography component={Link} to="/predict" style={{ color: "inherit", textDecoration: "none", fontSize: { xs: '0.8rem', md: '1.2rem' } }}>
             Predict
           </Typography>
         </Toolbar>

@@ -105,7 +105,7 @@ export default function Home() {
                 bgcolor: "rgba(255,255,255,0.06)",
               }}
               component={Link}
-              to="/analysis"
+              to="/predict"
               clickable
             />
             <Typography variant="h3" fontWeight={800} lineHeight={1.2}>
@@ -131,7 +131,7 @@ export default function Home() {
               variant="outlined"
               startIcon={<TimelineIcon />}
               component={Link}
-              to="/analysis"
+              to="/predict"
               sx={{ color: "common.white", borderColor: "rgba(255,255,255,0.4)" }}
             >
               Enhanced Analysis
@@ -214,7 +214,7 @@ export default function Home() {
       <Grid container spacing={2}>
         <Grid item size={{ xs: 12, md: 4 }}>
           <Card sx={{ height: "100%", borderRadius: 3, ":hover": { transform: "translateY(-2px)" }, transition: "0.2s" }}>
-            <CardActionArea component={Link} to="/analysis" sx={{ height: "100%" }}>
+            <CardActionArea component={Link} to="/predict" sx={{ height: "100%" }}>
               <CardContent>
                 <Stack direction="row" spacing={1} alignItems="center">
                   <TimelineIcon />
@@ -282,7 +282,7 @@ export default function Home() {
                   transition: "0.2s",
                 }}
               >
-                <Box sx={{ position: "relative", pt: "56.25%", bgcolor: "action.hover" }}>
+                <Box sx={{ position: "relative", pt: "56.25%", bgcolor: "action.hover", height: { xs: '300px', sm:"370px" } }}>
                   {a.photo && (
                     <CardMedia
                       component="img"
@@ -300,10 +300,10 @@ export default function Home() {
                   )}
                 </Box>
                 <CardContent sx={{ pb: 2 }}>
-                  <Typography variant="subtitle1" noWrap title={a.name}>
+                  <Typography align="center" variant="subtitle1" noWrap title={a.name}>
                     {a.name}
                   </Typography>
-                  <Typography variant="body2" color="text.secondary" noWrap>
+                  <Typography align="center" variant="body2" color="text.secondary" noWrap>
                     {a.country || "—"}
                   </Typography>
                 </CardContent>

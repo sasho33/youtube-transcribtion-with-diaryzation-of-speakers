@@ -1,6 +1,6 @@
 // src/components/PredictWithAthletePicker.jsx
-import React, { useMemo, useState } from "react";
-import { Link } from "react-router-dom";
+import React, { useEffect, useMemo, useState } from "react";
+import { Link, useLocation } from "react-router-dom";
 import dayjs from "dayjs";
 import {
   Autocomplete,
@@ -120,7 +120,7 @@ const WinProbabilityCard = ({ prediction }) => {
           Win Probability
         </Typography>
         <Grid container spacing={3} alignItems="center">
-          <Grid item xs={12} md={5}>
+          <Grid item >
             <Box textAlign="center">
               <Typography variant="h3" sx={{ fontWeight: 800 }}>
                 {p1.toFixed(1)}%
@@ -128,10 +128,10 @@ const WinProbabilityCard = ({ prediction }) => {
               <Typography variant="h6">{prediction.athlete1_name}</Typography>
             </Box>
           </Grid>
-          <Grid item xs={12} md={2}>
+          <Grid item>
             <Typography align="center" variant="h5" sx={{ opacity: 0.8 }}>VS</Typography>
           </Grid>
-          <Grid item xs={12} md={5}>
+          <Grid item >
             <Box textAlign="center">
               <Typography variant="h3" sx={{ fontWeight: 800 }}>
                 {p2.toFixed(1)}%
@@ -301,6 +301,11 @@ const SelectedAthleteCard = ({ label, athlete }) => (
 
 // --- main component -----------------------------------------------------------
 export default function PredictWithAthletePicker() {
+
+  const location = useLocation();
+
+  
+
   const [a1, setA1] = useState(null);
   const [a2, setA2] = useState(null);
   const [form, setForm] = useState({
@@ -317,6 +322,21 @@ export default function PredictWithAthletePicker() {
 
   const options1 = useMemo(() => athletes.filter((x) => !a2 || x.name !== a2.name), [a2]);
   const options2 = useMemo(() => athletes.filter((x) => !a1 || x.name !== a1.name), [a1]);
+useEffect(() => {
+  const params = new URLSearchParams(location.search);
+  const name = params.get("athlete1");
+  
+  if (name) {
+    const decoded = decodeURIComponent(name).trim().toLowerCase();
+    console.log("decoded:", decoded);
+    const found = athletes.find((a) =>
+      a.name.trim().toLowerCase() === decoded
+    );
+   
+    if (found) setA1(found);
+  }
+}, [location.search]);
+
 
   const handleChange = (k) => (e) => setForm((f) => ({ ...f, [k]: e.target.value }));
 

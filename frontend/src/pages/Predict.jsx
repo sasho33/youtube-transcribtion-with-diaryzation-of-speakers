@@ -1,17 +1,52 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { useLocation } from "react-router-dom"; 
 import { postPrediction } from "../api/predict";
 import { TextField, Button, Stack, Typography, Card, CardContent } from "@mui/material";
 
+// helper to parse query params
+function useQuery() {
+  return new URLSearchParams(useLocation().search);
+}
+
 export default function Predict() {
+  const location = useLocation();
+
   const [form, setForm] = useState({
-    athlete1: "", athlete2: "",
-    match_arm: "Right",
-    event_country: "United States",
-    event_title: "(Virtual)",
-    event_date: "" // optional: YYYY-MM-DD
-  });
+  athlete1: "", athlete2: "",
+  match_arm: "Right",
+  event_country: "United States",
+  event_title: "(Virtual)",
+  event_date: ""
+});
+
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
+
+useEffect(() => {
+  console.log("useEffect triggered");
+  console.log("location:", location);
+  console.log("location.search:", location.search);
+  
+  const params = new URLSearchParams(location.search);
+  console.log("URLSearchParams:", params.toString());
+  
+  const athlete1FromQuery = params.get("athlete1");
+  console.log("Athlete 1 from query:", athlete1FromQuery);
+  
+  if (athlete1FromQuery) {
+    const decodedAthlete1 = decodeURIComponent(athlete1FromQuery);
+    console.log("Decoded athlete1:", decodedAthlete1);
+    setForm((f) => {
+      console.log("Previous form state:", f);
+      const newForm = { ...f, athlete1: decodedAthlete1 };
+      console.log("New form state:", newForm);
+      return newForm;
+    });
+  }
+}, [location.search]);
+
+// Also add this outside the useEffect to see the current form state
+console.log("Current form state:", form);
 
   const submit = async () => {
     setLoading(true);
