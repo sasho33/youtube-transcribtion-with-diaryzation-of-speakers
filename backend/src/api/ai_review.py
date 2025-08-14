@@ -47,29 +47,11 @@ def find_ai_clarifier_directory() -> Path:
         # If you keep it next to prediction model code:
         current.parents[3] / "pipeline" / "prediction_model",
         current.parents[2] / "pipeline" / "prediction_model",
-        current.parents[1] / "pipeline" / "prediction_model",
+        
         Path.cwd() / "pipeline" / "prediction_model",
         Path.cwd().parent / "pipeline" / "prediction_model",
 
-        # Common alternates:
-        current.parents[3],
-        current.parents[2],
-        current.parents[1],
-        Path.cwd(),
-        Path.cwd().parent,
-
-        # If you placed it under pipeline/prediction or pipeline root:
-        current.parents[3] / "pipeline",
-        current.parents[2] / "pipeline",
-        current.parents[1] / "pipeline",
-        Path.cwd() / "pipeline",
-        Path.cwd().parent / "pipeline",
-
-        current.parents[3] / "pipeline" / "prediction",
-        current.parents[2] / "pipeline" / "prediction",
-        current.parents[1] / "pipeline" / "prediction",
-        Path.cwd() / "pipeline" / "prediction",
-        Path.cwd().parent / "pipeline" / "prediction",
+       
     ]
 
     for base in possible_paths:

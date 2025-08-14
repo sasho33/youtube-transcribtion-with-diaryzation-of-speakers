@@ -9,18 +9,18 @@ export default function AppShell({ children }) {
       <AppBar position="sticky" elevation={0} >
         <Container maxWidth="lg">
         <Toolbar sx={{ gap: 2 }}>
-                    <img src={logo} alt="Logo" style={{ height: 40 }} />
+          <img src={logo} alt="Logo" style={{ height: 40 }} />
           <Typography variant="h6" component={Link} to="/" style={{ color: "inherit", textDecoration: "none" }}>
-            Armwrestling AI
+            ArmFactor
           </Typography>
           <div style={{ flex: 1 }} />
-          <Typography component={Link} to="/athletes" style={{ color: "inherit", textDecoration: "none", marginRight: 16, fontSize: { xs: '0.8rem', md: '1.2rem' } }}>
+          <Typography component={Link} to="/athletes" variant="h6" style={{ color: "inherit", textDecoration: "none", marginRight: 8, fontSize: { xs: 'h6', md: '1.5rem' } }}>
             Athletes
           </Typography>
-          <Typography component={Link}  to="/events" style={{ color: "inherit", textDecoration: "none", marginRight: 16, fontSize: { xs: '0.8rem', md: '1.2rem' } }}>
+          <Typography component={Link}  to="/events" variant="h6" style={{ color: "inherit", textDecoration: "none", marginRight: 8, fontSize: { xs: 'h6', md: '1.5rem' } }}>
             Events
           </Typography>
-          <Typography component={Link} to="/predict" style={{ color: "inherit", textDecoration: "none", fontSize: { xs: '0.8rem', md: '1.2rem' } }}>
+          <Typography component={Link} to="/predict" variant="h6" style={{ color: "inherit", textDecoration: "none", fontSize: { xs: 'h6', md: '1.5rem' } }}>
             Predict
           </Typography>
         </Toolbar>
