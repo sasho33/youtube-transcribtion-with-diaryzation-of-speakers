@@ -1,6 +1,7 @@
 import { AppBar, Toolbar, Typography, Container, IconButton } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import { Link } from "react-router-dom";
+import logo from "../assets/logo.png"; // Adjust the path as necessary
 
 export default function AppShell({ children }) {
   return (
@@ -8,7 +9,7 @@ export default function AppShell({ children }) {
       <AppBar position="sticky" elevation={0} >
         <Container maxWidth="lg">
         <Toolbar sx={{ gap: 2 }}>
-          <IconButton edge="start" color="inherit"><MenuIcon /></IconButton>
+                    <img src={logo} alt="Logo" style={{ height: 40 }} />
           <Typography variant="h6" component={Link} to="/" style={{ color: "inherit", textDecoration: "none" }}>
             Armwrestling AI
           </Typography>
