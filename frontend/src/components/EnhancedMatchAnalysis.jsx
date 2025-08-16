@@ -417,7 +417,10 @@ useEffect(() => {
               <Autocomplete
                 options={options1}
                 value={a1}
-                onChange={(_, v) => setA1(v)}
+                onChange={(_, v) => {
+  setA1(v);
+  if (!v || !a2) setData(null);
+}}
                 getOptionLabel={(o) => o?.name || ""}
                 renderOption={(props, option) => (
                   <li {...props} key={option.name}>
@@ -434,7 +437,10 @@ useEffect(() => {
               <Autocomplete
                 options={options2}
                 value={a2}
-                onChange={(_, v) => setA2(v)}
+                onChange={(_, v) => {
+  setA2(v);
+  if (!v || !a1) setData(null);
+}}
                 getOptionLabel={(o) => o?.name || ""}
                 renderOption={(props, option) => (
                   <li {...props} key={option.name}>
@@ -529,14 +535,16 @@ useEffect(() => {
           
           
             
-            <AiReviewPanel
-              athlete1Name={a1.name}
-              athlete2Name={a2.name}
-              matchArm={form?.match_arm || "Right"}
-              eventCountry={form?.event_country || "United States"}
-              eventTitle={form?.event_title || "(Virtual)"}
-              eventDate={form?.event_date || ""}
-          />
+           {a1 && a2 && (
+  <AiReviewPanel
+    athlete1Name={a1.name}
+    athlete2Name={a2.name}
+    matchArm={form?.match_arm || "Right"}
+    eventCountry={form?.event_country || "United States"}
+    eventTitle={form?.event_title || "(Virtual)"}
+    eventDate={form?.event_date || ""}
+  />
+)}
           
           <Card>
             <CardHeader align="center" title="Predicted Profiles Snapshot" subheader="Key attributes from the prediction engine for each athlete" />
