@@ -486,8 +486,8 @@ useEffect(() => {
           </Grid>
 
           <Stack direction="row" spacing={2} sx={{ display: "flex", alignItems: "center", justifyContent: "center", mt: 2 }}>
-            <Button size="large" endIcon={<OnlinePredictionOutlined />} variant="contained" onClick={submit} disabled={loading || !a1 || !a2}>
-              {loading ? "Predicting…" : "Predict"}
+            <Button size="large" endIcon={<OnlinePredictionOutlined />} variant="contained" onClick={submit} disabled={loading || !a1 || !a2 || !(a1.gender === a2.gender)}>
+              {loading ? "Predicting…" : "Predict"} 
             </Button>
             <Button
   size="large"
@@ -516,8 +516,8 @@ useEffect(() => {
           <SelectedAthleteCard align="center" label="Athlete 1" athlete={a1} />
         </Grid>
         <Grid item size={{ xs: 12, sm: 2 }}>
-          <Box display="flex" flexDirection="column" alignItems="end" justifyContent="center" sx={{ height: "100%" }}>
-            <Typography variant="h3" fontWeight={"bold"} textAlign="center"> VS</Typography>
+          <Box display="flex" flexDirection="column" alignItems="center" justifyContent="center" sx={{ height: "100%" }}>
+            <Typography variant="h3" fontWeight={"bold"} textAlign="center"> &nbsp;VS</Typography>
           </Box>
         </Grid>
         <Grid item align="center" size={{ xs: 12, sm: 5 }}>

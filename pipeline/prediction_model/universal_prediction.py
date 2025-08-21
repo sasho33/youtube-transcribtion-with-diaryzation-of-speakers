@@ -58,23 +58,6 @@ def encode_gender(gender):
         return {"male": 0, "female": 1}.get(gender.lower(), 0)
     return 0
 
-def compute_age(dob, as_of=None):
-    if not dob: return 0
-    if not as_of:
-        as_of = datetime.now()
-    for fmt in ("%Y-%m-%d", "%Y/%m/%d", "%Y-%m", "%Y"):
-        try:
-            dob_date = datetime.strptime(dob, fmt)
-            if fmt == "%Y":
-                dob_date = dob_date.replace(month=7, day=1)
-            elif fmt == "%Y-%m":
-                dob_date = dob_date.replace(day=15)
-            break
-        except Exception:
-            continue
-    else:
-        return 0
-    return as_of.year - dob_date.year - ((as_of.month, as_of.day) < (dob_date.month, dob_date.day))
 
 def safe_float(val):
     try:
@@ -317,8 +300,8 @@ def universal_predict_and_save(
     # --- Calculate all features (same as original) ---
     f1_name = a1.get("name", athlete1_name)
     f2_name = a2.get("name", athlete2_name)
-    f1_age = compute_age(a1.get("date_of_birth", ""), as_of=match_dt)
-    f2_age = compute_age(a2.get("date_of_birth", ""), as_of=match_dt)
+    f1_age = a1.get("age", "30")
+    f2_age = a2.get("age", "30")
     f1_weight = safe_float(a1.get("weight_kg", 0))
     f2_weight = safe_float(a2.get("weight_kg", 0))
     weight_adv = f1_weight - f2_weight

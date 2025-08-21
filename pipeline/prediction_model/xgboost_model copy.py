@@ -1,8 +1,8 @@
 import pandas as pd
 from xgboost import XGBClassifier, plot_importance
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report, confusion_matrix, mean_squared_error, roc_auc_score, average_precision_score, log_loss
-from sklearn.calibration import calibration_curve
+from sklearn.metrics import classification_report, confusion_matrix, mean_squared_error
+
 import matplotlib.pyplot as plt
 import sys
 from pathlib import Path
@@ -14,7 +14,7 @@ import joblib
 sys.path.append(str(Path(__file__).resolve().parents[2]))
 from pipeline.config import TRAINING_MODEL_DATASET
 
-OUT = Path("reports"); OUT.mkdir(exist_ok=True)
+
 
 # 1. Load dataset
 df = pd.read_csv(TRAINING_MODEL_DATASET)
@@ -63,9 +63,9 @@ feature_cols = [
 
 
 # 4. Drop rows with missing features (or you can use fillna for some columns if you wish)
-# X = df[feature_cols].fillna(0)
+X = df[feature_cols].fillna(0)
 
-X = df[feature_cols]       
+# X = df[feature_cols]       
 y = df.loc[X.index, "label"]
 
 y = df.loc[X.index, "label"]
@@ -80,7 +80,6 @@ model = XGBClassifier(
     n_estimators=100,
     max_depth=4,
     learning_rate=0.1,
-    random_state=42,
     use_label_encoder=False,
     eval_metric="logloss"
 )
@@ -93,44 +92,6 @@ print("Model saved to best_xgboost_model.pkl")
 # 7. Predict win probabilities
 probs = model.predict_proba(X_test)[:, 1]  # Probability fighter_1 wins
 y_pred = (probs >= 0.5).astype(int)
-
-# === Extra metrics for Chapter 6 ===
-brier = mean_squared_error(y_test, probs)
-ll = log_loss(y_test, probs)
-auc_roc = roc_auc_score(y_test, probs)
-from sklearn.metrics import precision_recall_curve
-from sklearn.metrics import average_precision_score
-ap = average_precision_score(y_test, probs)
-
-print("\n[📏 Metrics — test split]")
-print(f"Samples: train={len(X_train):,}, test={len(X_test):,}")
-print(f"Positives in test (label=1): {int(y_test.sum())}/{len(y_test)} "
-      f"({y_test.mean():.1%})")
-print(f"AUC-ROC: {auc_roc:.3f} | PR-AUC (AP): {ap:.3f}")
-print(f"Brier score (MSE of probs): {brier:.4f} | Log loss: {ll:.4f}")
-
-# Persist metrics for the dissertation
-import json
-(json.dumps({
-    "n_train": int(len(X_train)),
-    "n_test": int(len(X_test)),
-    "test_pos_rate": float(y_test.mean()),
-    "auc_roc": float(auc_roc),
-    "pr_auc": float(ap),
-    "brier": float(brier),
-    "log_loss": float(ll)
-}, indent=2))
-with open(OUT/"metrics.json", "w") as f:
-    json.dump({
-        "n_train": int(len(X_train)),
-        "n_test": int(len(X_test)),
-        "test_pos_rate": float(y_test.mean()),
-        "auc_roc": float(auc_roc),
-        "pr_auc": float(ap),
-        "brier": float(brier),
-        "log_loss": float(ll)
-    }, f, indent=2)
-
 
 
 # 8. Evaluation
@@ -201,77 +162,6 @@ plt.title("ROC Curve")
 plt.legend()
 plt.show()
 
-# === Reliability / Calibration curve (Figure 6.2) ===
-prob_true, prob_pred = calibration_curve(y_test, y_pred_proba, n_bins=10, strategy="quantile")
-plt.figure(figsize=(5.6, 5))
-plt.plot([0, 1], [0, 1], 'k--', label="Perfect")
-plt.plot(prob_pred, prob_true, marker='o', label="Model")
-plt.xlabel("Predicted probability (bin mean)")
-plt.ylabel("Empirical win rate in bin")
-plt.title("Reliability Curve (Test)")
-plt.legend()
-plt.tight_layout()
-plt.savefig(OUT/"fig6_2_reliability_curve.png", dpi=300)
-plt.show()
-
-# === Feature importance (Figure 6.3) ===
-fig, ax = plt.subplots(figsize=(10, 6))
-plot_importance(model, max_num_features=25, importance_type='gain', height=0.5, ax=ax)
-plt.title("Top 25 Feature Importances")
-plt.tight_layout()
-plt.savefig(OUT/"fig6_3_feature_importance.png", dpi=300)
-plt.show()
-
-# === SHAP (Figures 6.4 & 6.5) ===
-explainer = shap.TreeExplainer(model)
-shap_vals = explainer(X_test)
-shap.plots.bar(shap_vals, max_display=15, show=False)
-plt.tight_layout(); plt.savefig(OUT/"fig6_4_shap_bar.png", dpi=300); plt.show()
-shap.plots.beeswarm(shap_vals, max_display=15, show=False)
-plt.tight_layout(); plt.savefig(OUT/"fig6_5_shap_beeswarm.png", dpi=300); plt.show()
-
-# === ROC (Figure 6.1) ===
-plt.figure()
-fpr, tpr, _ = roc_curve(y_test, y_pred_proba)
-plt.plot(fpr, tpr, label=f"AUC = {auc(fpr, tpr):.2f}")
-plt.plot([0, 1], [0, 1], 'k--')
-plt.xlabel("False Positive Rate"); plt.ylabel("True Positive Rate")
-plt.title("ROC Curve (Test)"); plt.legend(); plt.tight_layout()
-plt.savefig(OUT/"fig6_1_roc.png", dpi=300); plt.show()
-
-# === Probability histogram (Supplement) ===
-plt.figure()
-plt.hist(y_pred_proba, bins=20)
-plt.xlabel("Predicted Win Probability"); plt.ylabel("Frequency")
-plt.title("Distribution of Predicted Probabilities (Test)")
-plt.tight_layout(); plt.savefig(OUT/"figS_1_pred_hist.png", dpi=300); plt.show()
-
-# === Pred vs True scatter (Supplement) ===
-plt.figure(figsize=(6.2, 3.6))
-plt.scatter(y_pred_proba, y_test, alpha=0.5)
-plt.xlabel("Predicted Win Probability"); plt.ylabel("True Outcome (0/1)")
-plt.title("Predicted Probability vs. True Outcome (Test)")
-plt.yticks([0, 1], ["Loss", "Win"]); plt.grid(True, axis='y', linestyle='--', alpha=0.6)
-plt.tight_layout(); plt.savefig(OUT/"figS_2_pred_vs_true.png", dpi=300); plt.show()
-
-# Sample predictions table (Table 6.S1)
-sample_df = pd.DataFrame({
-    "true": y_test,
-    "pred": (y_pred_proba >= 0.5).astype(int),
-    "prob_win": np.round(y_pred_proba, 3),
-    "f1_streak": X_test["f1_winning_streak"].values,
-    "f2_streak": X_test["f2_winning_streak"].values,
-    "f1_high_rank_preds": X_test["f1_high_rank_predictions"].values,
-    "f2_high_rank_preds": X_test["f2_high_rank_predictions"].values,
-})
-sample_df.head(25).to_csv(OUT/"table6S1_sample_predictions.csv", index=False)
-
-# Confusion matrix heatmap (Supplement)
-from sklearn.metrics import ConfusionMatrixDisplay
-disp = ConfusionMatrixDisplay(confusion_matrix(y_test, (y_pred_proba>=0.5)))
-disp.plot(values_format='d', cmap="Blues")
-plt.title("Confusion Matrix (Test)")
-plt.tight_layout(); plt.savefig(OUT/"figS_3_confusion.png", dpi=300); plt.show()
 
 # 9. 5. Probability Distribution Histogram
 # Histogram/bar chart of the predicted probabilities (win percent) for test matches.
