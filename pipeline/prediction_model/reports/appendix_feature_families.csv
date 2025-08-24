@@ -1,0 +1,9 @@
+family,dropped_cols
+Expert priors,"f1_high_rank_predictions, f2_high_rank_predictions, f1_low_rank_predictions, f2_low_rank_predictions"
+Physical advantage,"f1_weight, f2_weight, weight_advantage, f1_height, f2_height, height_advantage"
+Travel & home,"f1_travel_penalty, f2_travel_penalty, domestic_advantage, f1_domestic_win_rate, f2_domestic_win_rate, f1_transatlantic_win_rate, f2_transatlantic_win_rate"
+Streak / momentum,"f1_winning_streak, f2_winning_streak"
+MMA-math & shared opponents,"num_shared_opponents_value, mma_math_positive, mma_math_negative, second_order_mma_math_difference, second_order_mma_math_positive, second_order_mma_math_negative"
+Head-to-head,"has_head_to_head, head_to_head_result"
+Style features,"f1_style_combo_success_percent, f2_style_combo_success_percent, athlete1_style_advantage_rate"
+Profile flags,"f1_is_current_title_holder, f2_is_current_title_holder, f1_gender, f2_gender"
